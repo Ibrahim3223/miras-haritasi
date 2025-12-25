@@ -1,0 +1,23 @@
+baseURL = 'https://mirasharitasi.com/'
+languageCode = 'tr-tr'
+title = 'Miras Haritası'
+theme = []
+
+[permalinks]
+  eserler = "/eserler/:slug/"
+  iller = "/iller/:slug/"
+  turler = "/turler/:slug/"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  province = 'iller'
+  district = 'ilceler'
+  type = 'turler'
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[params]
+  description = "Türkiye'nin tarihi ve kültürel mirası haritası. Camiler, kaleler, müzeler ve daha fazlası."
+  author = "Miras Haritası"

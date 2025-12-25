@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="container" style="padding-top: 40px; padding-bottom: 60px;">
+    <div style="text-align: center; margin-bottom: 50px;">
+        <h1 style="font-size: 2.5rem; margin-bottom: 15px;">{{ .Title }}</h1>
+        <p style="font-size: 1.1rem; color: var(--text-light); max-width: 600px; margin: 0 auto;">
+            Toplam {{ len .Data.Terms }} farklı kategori bulundu. Aşağıdaki listeden seçim yaparak eserleri
+            keşfedebilirsiniz.
+        </p>
+    </div>
+
+    <!-- Search Filter -->
+    <div class="search-box">
+        <input type="text" id="termSearch" class="search-input" placeholder="{{ .Title }} içinde ara...">
+    </div>
+
+    <!-- Terms Grid -->
+    <div class="card-grid" id="termsGrid">
+        {{ range .Data.Terms.ByCount }}
+        <a href="{{ .Page.Permalink }}" class="card term-item" style="text-decoration: none; color: inherit;"
+            data-name="{{ .Page.Title | lower }}">
+            <div class="card-content" style="text-align: center; padding: 40px 20px;">
+                <h2 style="font-size: 1.5rem; margin-bottom: 10px; color: var(--primary);">
+                    {{ .Page.Title }}
+                </h2>
+                <div class="badge"
+                    style="display: inline-block; background: var(--secondary); font-size: 1rem; padding: 5px 15px;">
+                    {{ .Count }} Eser
+                </div>
+            </div>
+        </a>
+        {{ end }}
+    </div>
+
+    <!-- No Results State -->
+    <div id="noResults" style="display: none; text-align: center; padding: 40px; color: var(--text-light);">
+        <p>Aradığınız kriterlere uygun sonuç bulunamadı.</p>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const searchInput = document.getElementById('termSearch');
+        const items = document.querySelectorAll('.term-item');
+        const noResults = document.getElementById('noResults');
+
+        searchInput.addEventListener('input', function (e) {
+            const term = e.target.value.toLowerCase().trim();
+            let visibleCount = 0;
+
+            items.forEach(item => {
+                const name = item.getAttribute('data-name');
+                if (name.includes(term)) {
+                    item.style.display = 'flex'; // Restore proper display
+                    visibleCount++;
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+
+            if (visibleCount === 0) {
+                noResults.style.display = 'block';
+            } else {
+                noResults.style.display = 'none';
+            }
+        });
+    });
+</script>
+{{ end }}

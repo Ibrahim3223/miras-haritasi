@@ -1,0 +1,120 @@
+{{ define "main" }}
+<!-- Hero Section -->
+<div class="hero-section"
+    style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1920px-Hagia_Sophia_Mars_2013.jpg');">
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+        <h1 class="hero-title">Türkiye'nin Kültürel Mirasını Keşfet</h1>
+        <p class="hero-desc">
+            Anadolu'nun binlerce yıllık tarihine tanıklık eden camiler, kaleler, antik kentler ve müzeler tek bir
+            adreste.
+        </p>
+        <div class="hero-btns">
+            <a href="/eserler" class="btn btn-primary">Eserleri İncele</a>
+            <a href="/iller" class="btn btn-outline">Şehirlere Göz At</a>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Featured Section -->
+    <div style="text-align: center; margin-bottom: 50px;">
+        <span
+            style="color: var(--secondary); font-weight: bold; letter-spacing: 2px; text-transform: uppercase; font-size: 0.85rem;">Editörün
+            Seçimi</span>
+        <h2 style="font-size: 2.2rem; margin-top: 10px;">Öne Çıkan Eserler</h2>
+        <div style="width: 60px; height: 4px; background: var(--accent); margin: 15px auto; border-radius: 2px;"></div>
+    </div>
+
+    <div class="card-grid" style="margin-bottom: 80px;">
+        {{ range first 6 .Site.RegularPages }}
+        <article class="card">
+            <a href="{{ .RelPermalink }}" class="card-img-wrap">
+                {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
+                {{ if $img }}
+                <img src="{{ $img }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                {{ else }}
+                <div
+                    style="width: 100%; height: 100%; background: #eee; display: flex; align-items: center; justify-content: center;">
+                    Görsel Yok</div>
+                {{ end }}
+            </a>
+            <div class="card-content">
+                <div class="card-meta">
+                    <span>📍 {{ .Params.province }}</span>
+                    <span class="badge">{{ .Params.type }}</span>
+                </div>
+                <h3 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p class="card-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
+                <a href="{{ .RelPermalink }}" class="card-cta">İncele →</a>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+
+    <!-- Categories Section (Dynamic) -->
+    <div
+        style="background: white; padding: 60px 40px; border-radius: var(--radius); margin-bottom: 60px; box-shadow: var(--shadow-sm); border: 1px solid var(--border);">
+        <div style="text-align: center; margin-bottom: 40px;">
+            <h2 style="font-size: 2rem;">Kategorilere Göre Keşfet</h2>
+            <p style="color: var(--text-light);">İlgi alanınıza göre tarihi yapıları filtreleyin.</p>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 20px;">
+            {{ range first 8 .Site.Taxonomies.turler.ByCount }}
+            <a href="/turler/{{ .Name | urlize }}" class="category-card">
+                <div class="cat-icon">🏛️</div>
+                <h3 class="cat-title">{{ .Name | humanize }}</h3>
+                <span class="cat-count">{{ .Count }} Eser</span>
+            </a>
+            {{ end }}
+        </div>
+        <div style="text-align: center; margin-top: 40px;">
+            <a href="/turler" class="btn btn-outline" style="color: var(--primary); border-color: var(--border);">Tüm
+                Türleri Gör</a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .category-card {
+        background: #f8f9fa;
+        padding: 30px 20px;
+        border-radius: 12px;
+        text-align: center;
+        transition: all 0.3s;
+        border: 1px solid transparent;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .category-card:hover {
+        transform: translateY(-5px);
+        background: white;
+        box-shadow: var(--shadow-md);
+        border-color: var(--accent);
+    }
+
+    .cat-icon {
+        font-size: 2rem;
+        margin-bottom: 5px;
+    }
+
+    .cat-title {
+        font-size: 1.2rem;
+        margin: 0;
+        color: var(--primary);
+    }
+
+    .cat-count {
+        background: white;
+        color: var(--secondary);
+        padding: 4px 12px;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        font-weight: 700;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    }
+</style>
+{{ end }}

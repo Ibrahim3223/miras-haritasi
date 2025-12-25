@@ -1,0 +1,86 @@
+{{ define "main" }}
+<div class="container">
+    <div style="margin-bottom: 40px; text-align: center; padding-top: 20px;">
+        <h1 style="font-size: 2.5rem; margin-bottom: 15px;">{{ .Title }}</h1>
+        <p style="color: var(--text-light); max-width: 700px; margin: 0 auto;">
+            {{ if eq .Data.Plural "iller" }}
+            Türkiye'nin 81 ilindeki tarihi ve kültürel miras eserlerini keşfedin.
+            {{ else if eq .Data.Plural "turler" }}
+            Camilerden kalelere, müzelerden antik kentlere kadar farklı türdeki yapıları inceleyin.
+            {{ else }}
+            {{ .Title }} kategorisindeki içerikler.
+            {{ end }}
+        </p>
+    </div>
+
+    <!-- Search Box -->
+    <div class="search-box">
+        <input type="text" id="termSearch" placeholder="{{ .Title }} içinde ara..." class="search-input"
+            onkeyup="filterTerms()">
+        <span style="position: absolute; right: 20px; top: 18px; color: var(--text-light);">🔍</span>
+    </div>
+
+    <div class="card-grid" id="termGrid">
+        {{ range .Data.Terms.Alphabetical }}
+        <a href="{{ .Page.RelPermalink }}" class="term-card" data-name="{{ .Page.Title | lower }}">
+            <h3 class="term-title">{{ .Page.Title }}</h3>
+            <span class="term-count">{{ .Count }} Eser</span>
+        </a>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+    .term-card {
+        background: white;
+        padding: 25px;
+        border-radius: var(--radius);
+        border: 1px solid var(--border);
+        box-shadow: var(--shadow-sm);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        transition: all 0.2s;
+    }
+
+    .term-card:hover {
+        transform: translateY(-3px);
+        box-shadow: var(--shadow-md);
+        border-color: var(--accent);
+    }
+
+    .term-title {
+        margin: 0;
+        font-size: 1.1rem;
+        color: var(--primary);
+    }
+
+    .term-count {
+        background: #f0f2f5;
+        color: var(--secondary);
+        padding: 5px 10px;
+        border-radius: 20px;
+        font-size: 0.85rem;
+        font-weight: 600;
+    }
+</style>
+
+<script>
+    function filterTerms() {
+        var input, filter, grid, cards, title, i;
+        input = document.getElementById('termSearch');
+        filter = input.value.toLocaleLowerCase('tr-TR');
+        grid = document.getElementById('termGrid');
+        cards = grid.getElementsByClassName('term-card');
+
+        for (i = 0; i < cards.length; i++) {
+            title = cards[i].getAttribute('data-name');
+            if (title.indexOf(filter) > -1) {
+                cards[i].style.display = "flex";
+            } else {
+                cards[i].style.display = "none";
+            }
+        }
+    }
+</script>
+{{ end }}

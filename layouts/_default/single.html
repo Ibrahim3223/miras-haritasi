@@ -1,0 +1,211 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+{{ $bgImage := .Params.image | default .Params.featured_image | default .Params.cover | default
+"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1920px-Hagia_Sophia_Mars_2013.jpg"
+}}
+<div class="hero-section"
+    style="background-image: url('{{ $bgImage }}'); min-height: 50vh; align-items: flex-end; padding-bottom: 60px; margin-bottom: 0; position: relative;">
+    <div class="hero-overlay"
+        style="background: linear-gradient(to top, rgba(26, 37, 47, 0.95) 0%, rgba(26, 37, 47, 0.5) 60%, rgba(26, 37, 47, 0.2) 100%);">
+    </div>
+    <div class="container hero-content"
+        style="text-align: left; margin: 0; position: relative; z-index: 2; width: 100%;">
+        <div style="display: flex; gap: 10px; margin-bottom: 15px;">
+            <a href="/turler/{{ .Params.type | urlize }}" class="badge"
+                style="background: var(--accent); color: var(--primary); text-decoration: none; font-weight: 700;">{{
+                .Params.type }}</a>
+            <a href="/iller/{{ .Params.province | urlize }}" class="badge"
+                style="background: rgba(255,255,255,0.2); color: white; backdrop-filter: blur(5px); text-decoration: none;">{{
+                .Params.province }}</a>
+        </div>
+        <h1 class="hero-title"
+            style="font-size: clamp(2rem, 5vw, 3.5rem); margin-bottom: 10px; color: white; text-shadow: 0 2px 10px rgba(0,0,0,0.5);">
+            {{ .Title }}</h1>
+        <div class="hero-meta" style="font-size: 1.1rem; color: rgba(255,255,255,0.9);">
+            📍 {{ .Params.district }}, {{ .Params.province }}
+        </div>
+    </div>
+</div>
+
+<div class="container" style="margin-top: 40px;">
+    <!-- Breadcrumb -->
+    <nav style="margin-bottom: 30px; font-size: 0.9rem; color: var(--text-light);">
+        <a href="/">Anasayfa</a> <span style="margin: 0 5px;">/</span>
+        <a href="/iller/{{ .Params.province | urlize }}">{{ .Params.province }}</a> <span
+            style="margin: 0 5px;">/</span>
+        <a href="/turler/{{ .Params.type | urlize }}">{{ .Params.type }}</a> <span style="margin: 0 5px;">/</span>
+        <span style="color: var(--primary); font-weight: 600;">{{ .Title }}</span>
+    </nav>
+
+    <!-- Map Logic -->
+    {{ $mapLink := "" }}
+    {{ $showMap := false }}
+    {{ if .Params.coords }}
+    {{ $coords := split .Params.coords "," }}
+    {{ if eq (len $coords) 2 }}
+    {{ $lat := float (index $coords 1) }}
+    {{ $lon := float (index $coords 0) }}
+
+    {{/* Turkey Bounding Box: Lat 35.8 - 42.1, Lon 25.6 - 44.8 */}}
+    {{/* Check if valid, otherwise swap */}}
+    {{ if or (lt $lat 35.0) (gt $lat 43.0) }}
+    {{/* Maybe swapped? Try swapping */}}
+    {{ $temp := $lat }}
+    {{ $lat = $lon }}
+    {{ $lon = $temp }}
+    {{ end }}
+
+    {{/* Final Check */}}
+    {{ if and (ge $lat 35.0) (le $lat 43.0) (ge $lon 25.0) (le $lon 45.0) }}
+    {{ $mapLink = printf "https://www.google.com/maps/search/?api=1&query=%f,%f" $lat $lon }}
+    {{ $showMap = true }}
+    {{ else }}
+    {{/* Fallback to search if still invalid */}}
+    {{ $mapLink = printf "https://www.google.com/maps/search/?api=1&query=%s+%s" (.Title | urlquery) (.Params.province |
+    urlquery) }}
+    {{ $showMap = true }}
+    {{ end }}
+    {{ else }}
+    {{ $mapLink = printf "https://www.google.com/maps/search/?api=1&query=%s+%s" (.Title | urlquery) (.Params.province |
+    urlquery) }}
+    {{ $showMap = true }}
+    {{ end }}
+    {{ else }}
+    {{ $mapLink = printf "https://www.google.com/maps/search/?api=1&query=%s+%s+%s" (.Title | urlquery)
+    (.Params.district | urlquery) (.Params.province | urlquery) }}
+    {{ $showMap = true }}
+    {{ end }}
+
+    <div class="article-layout">
+        <!-- Main Content -->
+        <article>
+            <!-- Mobile Quick Info -->
+            <div class="mobile-quick-info"
+                style="margin-bottom: 30px; padding: 20px; background: white; border-radius: 12px; border: 1px solid var(--border); box-shadow: var(--shadow-sm);">
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
+                    <div>
+                        <span
+                            style="font-size: 0.8rem; color: var(--text-light); display: block; text-transform: uppercase; letter-spacing: 0.5px;">Konum</span>
+                        <span style="font-weight: 600; color: var(--primary);">{{ .Params.district }}</span>
+                    </div>
+                    <div>
+                        <span
+                            style="font-size: 0.8rem; color: var(--text-light); display: block; text-transform: uppercase; letter-spacing: 0.5px;">Tür</span>
+                        <span style="font-weight: 600; color: var(--primary);">{{ .Params.type }}</span>
+                    </div>
+                </div>
+                {{ if $showMap }}
+                <a href="{{ $mapLink }}" target="_blank" class="btn btn-primary"
+                    style="width: 100%; justify-content: center;">🗺️ Haritada Aç</a>
+                {{ end }}
+            </div>
+
+            {{ if .TableOfContents }}
+            <div class="toc" style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
+                <h4 style="margin-bottom: 10px; font-size: 1.1rem;">İçindekiler</h4>
+                {{ .TableOfContents }}
+            </div>
+            {{ end }}
+
+            <div class="content-body">
+                {{ .Content }}
+            </div>
+
+            <div
+                style="background: #fff8e1; color: #795548; padding: 25px; border-radius: 8px; margin-top: 50px; border-left: 5px solid var(--accent);">
+                <h4 style="margin-bottom: 10px; color: #5d4037;">⚠️ Ziyaretçi Notu</h4>
+                <p style="margin-bottom: 0;">Giriş ücretleri ve ziyaret saatleri değişebilir. Ziyaret etmeden önce
+                    lütfen resmî kaynaklardan (Müze Müdürlüğü, Bakanlık vb.) güncel bilgileri kontrol ediniz.</p>
+            </div>
+
+            <div
+                style="margin-top: 50px; padding-top: 30px; border-top: 1px solid var(--border); font-size: 0.9rem; color: var(--text-light);">
+                <p><strong>Veri Kaynağı:</strong> Bu içerik Wikidata ve Wikipedia verileri kullanılarak derlenmiştir.
+                </p>
+                {{ if .Params.image }}
+                <p><strong>Görsel Lisansı:</strong> <a href="{{ .Params.image }}" target="_blank"
+                        rel="nofollow">Wikimedia Commons</a> (Lisans: CC BY-SA veya Public Domain)</p>
+                {{ end }}
+            </div>
+        </article>
+
+        <!-- Desktop Sidebar -->
+        <aside class="sidebar-desktop">
+            <div
+                style="background: white; padding: 30px; border-radius: var(--radius); box-shadow: var(--shadow-sm); border: 1px solid var(--border); position: sticky; top: 120px;">
+                <h3
+                    style="font-size: 1.2rem; border-bottom: 2px solid var(--accent); padding-bottom: 15px; margin-bottom: 25px; color: var(--primary);">
+                    Hızlı Bilgiler</h3>
+
+                <div style="margin-bottom: 20px;">
+                    <span
+                        style="display: block; font-size: 0.85rem; color: var(--text-light); margin-bottom: 5px; text-transform: uppercase;">Konum</span>
+                    <span style="font-size: 1.1rem; font-weight: 600; color: var(--primary);">{{ .Params.district }}, {{
+                        .Params.province }}</span>
+                </div>
+
+                <div style="margin-bottom: 25px;">
+                    <span
+                        style="display: block; font-size: 0.85rem; color: var(--text-light); margin-bottom: 5px; text-transform: uppercase;">Tür</span>
+                    <a href="/turler/{{ .Params.type | urlize }}"
+                        style="color: var(--secondary); font-weight: 600; font-size: 1.1rem; text-decoration: underline;">{{
+                        .Params.type }}</a>
+                </div>
+
+                {{ if $showMap }}
+                <a href="{{ $mapLink }}" target="_blank" class="btn btn-primary"
+                    style="display: flex; width: 100%; justify-content: center; gap: 8px;">
+                    <span>🗺️</span> Haritada Göster
+                </a>
+                {{ end }}
+            </div>
+        </aside>
+    </div>
+
+    <!-- Smart Related Items -->
+    <div style="margin-top: 100px;">
+        <div
+            style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; border-bottom: 1px solid var(--border); padding-bottom: 15px;">
+            <h3 style="font-size: 1.8rem; margin: 0;">Bunları da Keşfedin</h3>
+            <a href="/eserler" style="color: var(--secondary); font-weight: 600; font-size: 0.95rem;">Tüm Eserler →</a>
+        </div>
+
+        <div class="card-grid">
+            {{ $related := slice }}
+            {{ $p1 := where .Site.RegularPages "Params.province" .Params.province }}
+            {{ $p1 = where $p1 "Params.type" .Params.type }}
+            {{ $related = $related | append $p1 }}
+            {{ $p2 := where .Site.RegularPages "Params.province" .Params.province }}
+            {{ $related = $related | append $p2 }}
+
+            {{ $final := slice }}
+            {{ range $related }}
+            {{ if ne .Permalink $.Permalink }}
+            {{ $final = $final | append . }}
+            {{ end }}
+            {{ end }}
+
+            {{ range first 4 ($final | uniq) }}
+            <article class="card">
+                <a href="{{ .RelPermalink }}" class="card-img-wrap">
+                    {{ if .Params.image }}
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                    {{ else }}
+                    <div style="width: 100%; height: 100%; background: #eee;"></div>
+                    {{ end }}
+                </a>
+                <div class="card-content" style="padding: 20px;">
+                    <div class="card-meta">
+                        <span>📍 {{ .Params.province }}</span>
+                        <span class="badge">{{ .Params.type }}</span>
+                    </div>
+                    <h4 class="card-title" style="font-size: 1.1rem; margin-bottom: 0;"><a href="{{ .RelPermalink }}">{{
+                            .Title }}</a></h4>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}

@@ -1,0 +1,77 @@
+{{ define "main" }}
+<div class="container">
+    <div style="margin-bottom: 40px; text-align: center; padding-top: 20px;">
+        <h1 style="font-size: 2.5rem; margin-bottom: 10px;">{{ .Title }}</h1>
+        {{ if .Description }}<p style="color: var(--text-light); max-width: 700px; margin: 0 auto;">{{ .Description }}
+        </p>{{ end }}
+    </div>
+
+    <!-- Search & Filters -->
+    <div class="search-box">
+        <input type="text" id="contentSearch" placeholder="Eser, şehir veya tür ara..." class="search-input"
+            onkeyup="filterContent()">
+        <span style="position: absolute; right: 20px; top: 18px; color: var(--text-light);">🔍</span>
+    </div>
+
+    <div class="filter-bar">
+        <a href="/eserler" class="filter-chip {{ if eq .Title " Eserler" }}active{{ end }}">Tümü</a>
+        {{ range first 8 .Site.Taxonomies.turler.ByCount }}
+        <a href="/turler/{{ .Name | urlize }}" class="filter-chip {{ if eq $.Title .Page.Title }}active{{ end }}">{{
+            .Name | humanize }}</a>
+        {{ end }}
+    </div>
+
+    <div class="card-grid" id="contentGrid">
+        {{ range .Paginator.Pages }}
+        <article class="card" data-title="{{ .Title | lower }}" data-province="{{ .Params.province | lower }}"
+            data-type="{{ .Params.type | lower }}">
+            <a href="{{ .RelPermalink }}" class="card-img-wrap">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                {{ else }}
+                <div
+                    style="width: 100%; height: 100%; background: #eee; display: flex; align-items: center; justify-content: center; color: #ccc;">
+                    Görsel Yok</div>
+                {{ end }}
+            </a>
+            <div class="card-content">
+                <div class="card-meta">
+                    <span>📍 {{ .Params.province }}</span>
+                    <span class="badge">{{ .Params.type }}</span>
+                </div>
+                <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+                <p class="card-excerpt">
+                    {{ .Summary | plainify | truncate 120 }}
+                </p>
+                <a href="{{ .RelPermalink }}" class="card-cta">İncele →</a>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+
+    <!-- Pagination -->
+    {{ template "_internal/pagination.html" . }}
+</div>
+
+<script>
+    function filterContent() {
+        var input, filter, grid, cards, title, province, type, i;
+        input = document.getElementById('contentSearch');
+        filter = input.value.toLocaleLowerCase('tr-TR');
+        grid = document.getElementById('contentGrid');
+        cards = grid.getElementsByClassName('card');
+
+        for (i = 0; i < cards.length; i++) {
+            title = cards[i].getAttribute('data-title');
+            province = cards[i].getAttribute('data-province');
+            type = cards[i].getAttribute('data-type');
+
+            if (title.indexOf(filter) > -1 || province.indexOf(filter) > -1 || type.indexOf(filter) > -1) {
+                cards[i].style.display = "flex";
+            } else {
+                cards[i].style.display = "none";
+            }
+        }
+    }
+</script>
+{{ end }}

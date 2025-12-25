@@ -1,0 +1,40 @@
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="/" class="logo">
+            🏛️ <span>Miras</span>Haritası
+        </a>
+
+        <!-- Hamburger for Mobile -->
+        <button class="hamburger" onclick="toggleMenu()" aria-label="Menüyü Aç/Kapat" aria-expanded="false">
+            <span style="display: block; width: 25px; height: 3px; background: var(--primary); margin: 5px 0;"></span>
+            <span style="display: block; width: 25px; height: 3px; background: var(--primary); margin: 5px 0;"></span>
+            <span style="display: block; width: 25px; height: 3px; background: var(--primary); margin: 5px 0;"></span>
+        </button>
+
+        <div class="nav-overlay" onclick="toggleMenu()"></div>
+
+        <!-- Navigation Links -->
+        <nav class="nav-menu" id="mainNav">
+            <a href="/" class="nav-link {{ if .IsHome }}active{{ end }}">Anasayfa</a>
+            <a href="/eserler" class="nav-link {{ if eq .Section " eserler" }}active{{ end }}">Eserler</a>
+            <a href="/iller" class="nav-link {{ if eq .Section " iller" }}active{{ end }}">İller</a>
+            <a href="/turler" class="nav-link {{ if eq .Section " turler" }}active{{ end }}">Türler</a>
+            <a href="/hakkinda" class="nav-link {{ if eq .Title " Hakkında | Miras Haritası" }}active{{ end
+                }}">Hakkında</a>
+        </nav>
+    </div>
+</header>
+
+<script>
+    function toggleMenu() {
+        const nav = document.getElementById('mainNav');
+        const overlay = document.querySelector('.nav-overlay');
+        const btn = document.querySelector('.hamburger');
+
+        nav.classList.toggle('active');
+        if (overlay) overlay.classList.toggle('active');
+
+        const isActive = nav.classList.contains('active');
+        btn.setAttribute('aria-expanded', isActive);
+    }
+</script>

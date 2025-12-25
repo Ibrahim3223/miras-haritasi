@@ -1,0 +1,83 @@
+{{ define "main" }}
+<div class="container" style="padding-top: 40px; padding-bottom: 60px;">
+    <!-- Header -->
+    <div
+        style="margin-bottom: 40px; border-bottom: 1px solid var(--border); padding-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+        <div>
+            <span
+                style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-light); display: block; margin-bottom: 5px;">
+                Kategori
+            </span>
+            <h1 style="font-size: 2.5rem; margin: 0;">{{ .Title }}</h1>
+        </div>
+        <div style="font-size: 1.1rem; color: var(--text-light);">
+            Toplam <strong>{{ len .Paginator.Pages }}</strong> eser listeleniyor
+        </div>
+    </div>
+
+    <!-- Breadcrumb -->
+    <nav style="margin-bottom: 30px; font-size: 0.9rem;">
+        <a href="/">Anasayfa</a> <span style="margin: 0 10px; color: var(--text-light);">/</span>
+        {{ if eq .Section "iller" }}
+        <a href="/iller">İller</a>
+        {{ else if eq .Section "turler" }}
+        <a href="/turler">Türler</a>
+        {{ else }}
+        <a href="/{{ .Section }}">{{ .Section | humanize }}</a>
+        {{ end }}
+        <span style="margin: 0 10px; color: var(--text-light);">/</span>
+        <span style="font-weight: 600;">{{ .Title }}</span>
+    </nav>
+
+    <!-- Grid -->
+    <div class="card-grid">
+        {{ range .Paginator.Pages }}
+        <article class="card">
+            <a href="{{ .Permalink }}" class="card-img-wrap">
+                {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
+                {{ if $img }}
+                <img src="{{ $img }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                {{ else }}
+                <div
+                    style="width: 100%; height: 100%; background: linear-gradient(135deg, var(--primary-light), var(--primary)); display: flex; align-items: center; justify-content: center; color: white; font-size: 2rem;">
+                    🏛️
+                </div>
+                {{ end }}
+            </a>
+            <div class="card-content">
+                <div class="card-meta">
+                    <span>📍 {{ .Params.province }}</span>
+                    <span class="badge">{{ .Params.type }}</span>
+                </div>
+                <h2 class="card-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h2>
+                <div class="card-cart-action" style="margin-top: auto; padding-top: 15px;">
+                    <a href="{{ .Permalink }}"
+                        style="color: var(--secondary); font-weight: 600; font-size: 0.9rem;">İncele &rarr;</a>
+                </div>
+            </div>
+        </article>
+        {{ end }}
+    </div>
+
+    <!-- Pagination -->
+    {{ if gt .Paginator.TotalPages 1 }}
+    <div style="margin-top: 50px; display: flex; justify-content: center; gap: 10px;">
+        {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}" class="btn btn-outline"
+            style="color: var(--primary); border-color: var(--border);">« Önceki</a>
+        {{ end }}
+
+        <span style="display: flex; align-items: center; padding: 0 15px; font-weight: 600;">
+            {{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}
+        </span>
+
+        {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}" class="btn btn-outline"
+            style="color: var(--primary); border-color: var(--border);">Sonraki »</a>
+        {{ end }}
+    </div>
+    {{ end }}
+</div>
+{{ end }}

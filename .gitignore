@@ -1,0 +1,21 @@
+# Security
+scripts/api_keys.json
+scripts/generation_progress.json
+**/api_keys.json
+ruya-sitesi/
+
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# System
+.DS_Store
+Thumbs.db

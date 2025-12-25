@@ -1,0 +1,55 @@
+{{ if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LandmarksOrHistoricalBuildings",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description }}",
+  "image": "{{ .Params.image }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.district }}",
+    "addressRegion": "{{ .Params.province }}",
+    "addressCountry": "TR"
+  },
+  {{ if .Params.coords }}
+  {{ $coords := split .Params.coords "," }}
+  "geo": {
+    "@type": "GeoCoordinates",
+    "longitude": "{{ index $coords 0 }}",
+    "latitude": "{{ index $coords 1 }}"
+  },
+  {{ end }}
+  "url": "{{ .Permalink }}"
+}
+</script>
+{{ end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Anasayfa",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{ if .IsPage }}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Params.province }}",
+      "item": "{{ .Site.BaseURL }}iller/{{ .Params.province | urlize }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{ end }}
+  ]
+}
+</script>
