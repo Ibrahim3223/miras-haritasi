@@ -3,7 +3,7 @@ title: "İzmir nostaljik tramvayı | Miras Haritası"
 date: 2025-12-25T03:10:15+03:00
 slug: "izmir-nostaljik-tramvayi"
 description: "## İzmir Nostaljik Tramvayı: Bir Zengin Tarih ve Kültür Mirası..."
-featured_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nostaljik_tramvay_"Boyoz".jpg/1200px-Nostaljik_tramvay_"Boyoz".jpg'
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Nostaljik_tramvay_\"Boyoz\".jpg/1200px-Nostaljik_tramvay_\"Boyoz\".jpg"
 province: "Türkiye"
 iller: ["Türkiye"]
 district: "İzmir"

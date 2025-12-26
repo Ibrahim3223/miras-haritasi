@@ -1,4 +1,5 @@
 import os
+import json
 
 root_dir = "content/eserler"
 fixed_count = 0
@@ -16,26 +17,28 @@ for filename in os.listdir(root_dir):
             new_lines = []
             
             for line in lines:
-                # Check for the specific broken pattern: key: "value "quote" value"
                 if line.startswith("featured_image:"):
-                    # If it has more than 2 quotes (opening and closing)
-                    if line.count('"') > 2:
-                        # Extract the URL part
-                        # Assuming format: featured_image: "URL"
-                        # We want to change outer quotes to single quotes if inner are double
-                        parts = line.split("featured_image:", 1)
-                        if len(parts) == 2:
-                            val = parts[1].strip()
-                            # If it starts and ends with double quote
-                            if val.startswith('"') and val.endswith('"'):
-                                inner_content = val[1:-1]
-                                # If inner content has quotes
-                                if '"' in inner_content:
-                                    # Use single quotes for outer wrapping
-                                    new_line = f"featured_image: '{inner_content}'\n"
-                                    new_lines.append(new_line)
-                                    modified = True
-                                    continue
+                    # Extract the raw valuable part
+                    parts = line.split("featured_image:", 1)
+                    if len(parts) == 2:
+                        raw_val = parts[1].strip()
+                        
+                        # Heuristic: If it looks like it has quoting issues
+                        if raw_val.count('"') > 2 or (raw_val.startswith("'") and raw_val.count("'") > 2):
+                            
+                            clean_val = raw_val
+                            if clean_val.startswith('"') and clean_val.endswith('"'):
+                                clean_val = clean_val[1:-1]
+                            elif clean_val.startswith("'") and clean_val.endswith("'"):
+                                clean_val = clean_val[1:-1]
+                            
+                            safe_val = json.dumps(clean_val, ensure_ascii=False)
+                            new_line = f"featured_image: {safe_val}\n"
+                            
+                            if new_line != line:
+                                new_lines.append(new_line)
+                                modified = True
+                                continue
                 
                 new_lines.append(line)
             

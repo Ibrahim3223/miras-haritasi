@@ -3,7 +3,7 @@ title: "Papa XXIII. Ioannes Heykeli | Miras Haritası"
 date: 2025-12-25T13:27:37+03:00
 slug: "papa-xxiii-ioannes-heykeli"
 description: "## Papa XXIII. Ioannes Heykeli... "
-featured_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Statue_of_Pope_John_XXIII_('the_Turkish_Pope")_in_front_of_Church_of_St_Anthony_of_Padua,_Istanbul.jpg/1200px-Statue_of_Pope_John_XXIII_('the_Turkish_Pope")_in_front_of_Church_of_St_Anthony_of_Padua,_Istanbul.jpg'
+featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Statue_of_Pope_John_XXIII_('the_Turkish_Pope\")_in_front_of_Church_of_St_Anthony_of_Padua,_Istanbul.jpg/1200px-Statue_of_Pope_John_XXIII_('the_Turkish_Pope\")_in_front_of_Church_of_St_Anthony_of_Padua,_Istanbul.jpg"
 province: "İstanbul"
 iller: ["İstanbul"]
 district: "İstanbul"
