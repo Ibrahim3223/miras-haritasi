@@ -3,9 +3,10 @@ languageCode = 'tr-tr'
 title = 'Miras Haritası'
 theme = []
 disableAliases = true
+disableKinds = ["RSS"]
 
 [pagination]
-  pagerSize = 100
+  pagerSize = 250
 
 [permalinks]
   eserler = "/eserler/:slug/"
