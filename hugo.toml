@@ -2,6 +2,10 @@ baseURL = 'https://mirasharitasi.com/'
 languageCode = 'tr-tr'
 title = 'Miras Haritası'
 theme = []
+disableAliases = true
+
+[pagination]
+  pagerSize = 100
 
 [permalinks]
   eserler = "/eserler/:slug/"
