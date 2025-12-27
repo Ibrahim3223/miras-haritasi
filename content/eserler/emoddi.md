@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.579284,38.673395"
 draft: false
+
+weight: 100
 ---
 
 ## Emoddi Arkeolojik Sitinin Tanıtımı

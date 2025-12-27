@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9880486,41.5082283"
 draft: false
+
+weight: 100
 ---
 
 ## Mutlu Köyü Kartaltepe Tümülüsü: Kırklareli'nin Gizli Cenneti

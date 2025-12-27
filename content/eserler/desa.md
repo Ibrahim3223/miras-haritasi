@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.165528,41.068984"
 draft: false
+
+weight: 100
 ---
 
 ## Desa Arkeolojik Sit

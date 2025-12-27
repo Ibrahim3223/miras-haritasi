@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.14666667,37.90166667"
 draft: false
+
+weight: 10
 ---
 
 ## Nysa Arkeolojik Sit

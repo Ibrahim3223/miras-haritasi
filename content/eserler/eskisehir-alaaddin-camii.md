@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.52388889,39.76666667"
 draft: false
+
+weight: 100
 ---
 
 Eskişehir Alaaddin Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9359493,41.0455399"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Pir Edirnevi Türbesi

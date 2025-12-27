@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4745617,36.3972473"
 draft: false
+
+weight: 100
 ---
 
 ### Antimachos Lahdi: Antalya'nın Gizli Zirvesi

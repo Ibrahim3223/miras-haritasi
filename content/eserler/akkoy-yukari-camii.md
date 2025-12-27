@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0806007,37.9556999"
 draft: false
+
+weight: 100
 ---
 
 ## Akköy Yukarı Camii: Denizli'nin Tarihi Bir Mirası

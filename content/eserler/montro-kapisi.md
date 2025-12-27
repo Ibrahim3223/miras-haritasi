@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.141611111,38.427861111"
 draft: false
+
+weight: 10
 ---
 
 ## Montrö Kapısı

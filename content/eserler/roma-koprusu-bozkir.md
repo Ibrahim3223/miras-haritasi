@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.3209934,37.1279449"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Bozkır

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.633333333,38.85"
 draft: false
+
+weight: 10
 ---
 
 ### Kültepe: Türkiye'nin En Eski Yerleşim Merkezlerinden Birisi

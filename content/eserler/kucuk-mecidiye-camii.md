@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.017017,41.04528"
 draft: false
+
+weight: 10
 ---
 
 ## Küçük Mecidiye Camii: İstanbul'un Gizli Cenneti

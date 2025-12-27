@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.97509,41.02521"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Aşkenaz Sinagogu

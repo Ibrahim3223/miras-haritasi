@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9203129,40.7650223"
 draft: false
+
+weight: 100
 ---
 
 ## Zeliha Kadın Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası

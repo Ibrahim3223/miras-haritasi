@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.917484,40.460261"
 draft: false
+
+weight: 100
 ---
 
 ## Yavşan Kilisesi: Mesudiye'nin Gizli Çehresinin Bir Parçası

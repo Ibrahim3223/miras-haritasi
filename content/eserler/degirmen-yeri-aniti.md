@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.537994059,39.031550709"
 draft: false
+
+weight: 100
 ---
 
 # Değirmen Yeri Anıtı

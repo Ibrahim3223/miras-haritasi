@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.954696991,41.02755624"
 draft: false
+
+weight: 10
 ---
 
 ## Sinan Paşa Mescidi: Fatih'in Gizli Çehresinden Bir Örnek

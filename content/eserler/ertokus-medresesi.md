@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.6451111,37.9512634"
 draft: false
+
+weight: 100
 ---
 
 **Ertokuş Medresesi**

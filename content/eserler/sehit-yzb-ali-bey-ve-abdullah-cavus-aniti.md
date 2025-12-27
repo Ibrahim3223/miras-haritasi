@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9662361,38.3966217"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı

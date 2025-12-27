@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.066194444,40.978888888"
 draft: false
+
+weight: 100
 ---
 
 ### Göztepe Camii: Kadıköy'ün Tarihi Bir Mirası

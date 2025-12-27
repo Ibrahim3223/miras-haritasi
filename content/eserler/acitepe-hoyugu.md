@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6974182,38.8793602"
 draft: false
+
+weight: 100
 ---
 
 ## Acıtepe Höyüğü: Tarihî Bir Mirasın Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4175034,37.9263191"
 draft: false
+
+weight: 10
 ---
 
 ## Sille Çay Camii: Konya'nın Gizli Cenneti

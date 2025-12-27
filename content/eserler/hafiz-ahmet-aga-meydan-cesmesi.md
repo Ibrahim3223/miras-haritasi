@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.962685,41.021782"
 draft: false
+
+weight: 100
 ---
 
 ## Hafız Ahmet Ağa Meydan Çeşmesi

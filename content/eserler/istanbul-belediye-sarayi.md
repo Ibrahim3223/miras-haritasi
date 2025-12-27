@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "28.9551,41.0134"
 draft: false
+
+weight: 10
 ---
 
 # İstanbul Belediye Sarayı: İstanbul'un Tarihi ve Kültürel Mirası

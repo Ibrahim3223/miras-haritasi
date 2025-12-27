@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9319229,41.0098038"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mustafa Ağa Çeşmesi: Fatih'in Gizli Çeşmesi

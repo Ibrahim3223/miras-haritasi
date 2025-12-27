@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.227341,36.635738"
 draft: false
+
+weight: 100
 ---
 
 ### Köprü, Yalnızcabağ: Mut, Mersin'in Tarihî Bir Ruhu

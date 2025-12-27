@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0483532,41.0338135"
 draft: false
+
+weight: 100
 ---
 
 ## Miriam Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

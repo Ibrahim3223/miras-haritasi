@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6206984,37.1112388"
 draft: false
+
+weight: 10
 ---
 
 ## Sayburç Ören Yeri: Yoğunburç'ta Gizemli Bir Geçmişi

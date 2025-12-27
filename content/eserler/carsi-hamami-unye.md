@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.285916666,41.130277777"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Hamamı (Ünye)

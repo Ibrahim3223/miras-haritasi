@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.955952,41.021662"
 draft: false
+
+weight: 100
 ---
 
 ## Divittar Keklik Mehmet Efendi Camii

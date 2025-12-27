@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.034876,38.552662"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 43: Salihli'nin Gizli Çarpıntısı

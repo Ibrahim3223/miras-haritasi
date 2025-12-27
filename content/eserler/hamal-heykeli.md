@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9728832,41.0144691"
 draft: false
+
+weight: 10
 ---
 
 ## Hamal Heykeli: İstanbul'un Tarihi Anıtlarından biri

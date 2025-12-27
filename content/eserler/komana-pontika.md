@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.6385916,40.3573694"
 draft: false
+
+weight: 100
 ---
 
 ## Komana Pontika: Tokat'taki Antik Kent

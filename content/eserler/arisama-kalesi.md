@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.8563576,37.9291801"
 draft: false
+
+weight: 100
 ---
 
 ## Arısama Kalesi: Konya'nın Gizli Çarığı

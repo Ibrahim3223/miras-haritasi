@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.207098,38.4194946"
 draft: false
+
+weight: 100
 ---
 
 ## Damatlı Köyü Eski Cami: Tarihi ve Kültürel Bir Özellik

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.2991205,37.224609"
 draft: false
+
+weight: 100
 ---
 
 ## Sibidunda: Bir Arkeolojik Sitin Gizemi

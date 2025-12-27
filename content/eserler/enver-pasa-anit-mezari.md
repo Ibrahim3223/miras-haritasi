@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9821,41.067672"
 draft: false
+
+weight: 100
 ---
 
 ## Enver Paşa Anıt Mezarı

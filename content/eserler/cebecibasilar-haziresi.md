@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9383583,41.0355492"
 draft: false
+
+weight: 100
 ---
 
 ### Cebecibaşılar Haziresi: Eyüpsultan'ın Tarihi ve Kültürel Mirası

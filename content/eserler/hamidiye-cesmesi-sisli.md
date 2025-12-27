@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0099888,41.0697784"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Çeşmesi, Şişli

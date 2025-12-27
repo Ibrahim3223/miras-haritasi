@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.9218445,40.7644196"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Hamam, İzmit: Tarihi ve Kültürel Miras

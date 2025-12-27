@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.863,39.95"
 draft: false
+
+weight: 10
 ---
 
 # Ancyra: Ankara'nın Eski Uygarlığı

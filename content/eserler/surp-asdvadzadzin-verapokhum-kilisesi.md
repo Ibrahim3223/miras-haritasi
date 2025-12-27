@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.126150406,40.872123229"
 draft: false
+
+weight: 10
 ---
 
 **Surp Asdvadzadzin Verapokhum Kilisesi**

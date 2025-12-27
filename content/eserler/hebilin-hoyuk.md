@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.10965,38.956533"
 draft: false
+
+weight: 100
 ---
 
 ## Hebilin Höyük: Kütahya'nın Kırmızı Taşları

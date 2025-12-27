@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.863616555,39.938448817"
 draft: false
+
+weight: 100
 ---
 
 ## Doyran Sokak Çeşmesi: Ankara'nın Gizli Çeşmesi

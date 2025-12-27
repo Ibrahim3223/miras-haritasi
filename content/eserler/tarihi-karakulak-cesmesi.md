@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.125792,41.151182"
 draft: false
+
+weight: 10
 ---
 
 ### Tarihi Karakulak Çeşmesi

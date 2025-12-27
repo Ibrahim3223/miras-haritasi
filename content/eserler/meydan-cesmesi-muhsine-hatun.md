@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9646931,41.0042572"
 draft: false
+
+weight: 100
 ---
 
 ## Meydan Çeşmesi, Muhsine Hatun: İstanbul'un Tarihi Bir Çeşmesi

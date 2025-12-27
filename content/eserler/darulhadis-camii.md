@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5483341,41.6711159"
 draft: false
+
+weight: 10
 ---
 
 ## Darülhadis Camii

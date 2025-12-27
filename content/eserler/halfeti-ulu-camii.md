@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.866555555,37.246166666"
 draft: false
+
+weight: 100
 ---
 
 **Halfeti Ulu Camii**

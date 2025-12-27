@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9308376,41.0405388"
 draft: false
+
+weight: 100
 ---
 
 ## Nişancı Paşa Hamamı

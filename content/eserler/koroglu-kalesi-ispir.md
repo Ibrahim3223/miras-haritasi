@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.0969162,40.40868"
 draft: false
+
+weight: 100
 ---
 
 ### Köroğlu Kalesi, İspir: Tarih ve Kültürel Mirasın Parıltısı

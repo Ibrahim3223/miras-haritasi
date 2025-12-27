@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.952666666,41.04"
 draft: false
+
+weight: 10
 ---
 
 ## Karaim Sinagogu: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.548863888,40.560372222"
 draft: false
+
+weight: 100
 ---
 
 ## Çala Kilisesi (Uzundere): Tarihi ve Kültürel Mirasın Gizemi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9611454,41.0043716"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Vortvots Vorodman Kilisesi

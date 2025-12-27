@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.005916666,41.045027777"
 draft: false
+
+weight: 10
 ---
 
 **Abbas Ağa Çeşmesi**

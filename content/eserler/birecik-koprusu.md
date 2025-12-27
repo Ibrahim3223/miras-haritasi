@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.97426,37.02612"
 draft: false
+
+weight: 10
 ---
 
 ## Birecik Köprüsü: Tarihi Bir Mimari İkiz

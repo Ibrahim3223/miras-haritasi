@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6467438,38.5474777"
 draft: false
+
+weight: 100
 ---
 
 ## Paşa Camii, Kula

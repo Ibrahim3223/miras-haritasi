@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9505,41.030777777"
 draft: false
+
+weight: 10
 ---
 
 ### Kadın Eserleri Kütüphanesi ve Bilgi Merkezi Vakfı

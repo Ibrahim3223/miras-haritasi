@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.879216738,39.647607201"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Emin Tan Fotoğraf Kitaplığı

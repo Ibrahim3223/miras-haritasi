@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.341666666,38.499444444"
 draft: false
+
+weight: 10
 ---
 
 **Van Kutsal Havariler Kilisesi**

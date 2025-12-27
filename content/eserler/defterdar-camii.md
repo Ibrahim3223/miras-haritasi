@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9376,41.042"
 draft: false
+
+weight: 10
 ---
 
 ## Defterdar Camii: Eyüp'te bir Tarihî Cami

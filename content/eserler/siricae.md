@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.458778,38.204189"
 draft: false
+
+weight: 100
 ---
 
 ## Siricae Arkeolojik Sit

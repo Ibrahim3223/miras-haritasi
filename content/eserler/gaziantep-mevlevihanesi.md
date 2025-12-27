@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.388011,37.0612"
 draft: false
+
+weight: 100
 ---
 
 ## Gaziantep Mevlevihanesi: Bir Kültür Mirası

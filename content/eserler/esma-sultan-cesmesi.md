@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.229808,40.917852"
 draft: false
+
+weight: 10
 ---
 
 ## Esma Sultan Çeşmesi: Kartal'da Bir Tarihi Anıt

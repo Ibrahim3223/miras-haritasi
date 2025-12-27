@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1776276,39.1229591"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme – Selçuk, Hacı Beyazıt Caddesi: Bergama'nın Tarihi Çeşmesi

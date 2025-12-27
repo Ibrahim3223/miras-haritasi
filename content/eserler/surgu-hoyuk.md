@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9611435,38.0033913"
 draft: false
+
+weight: 100
 ---
 
 ### Sürgü Höyük: Malatya'nın Tarihi Mirası

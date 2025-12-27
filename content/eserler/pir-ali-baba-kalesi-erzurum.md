@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.2030869,39.8486938"
 draft: false
+
+weight: 100
 ---
 
 ## Pir Ali Baba Kalesi, Erzurum

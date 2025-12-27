@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.846888888,37.431138888"
 draft: false
+
+weight: 100
 ---
 
 **Tabae: Tarihi ve Kültürel Mirasın Bir Parçası**

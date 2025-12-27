@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.52555556,39.76583333"
 draft: false
+
+weight: 10
 ---
 
 ## A.Ü. Eğitim Karikatürleri Müzesi

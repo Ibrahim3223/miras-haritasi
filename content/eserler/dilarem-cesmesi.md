@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9758549,39.4235802"
 draft: false
+
+weight: 100
 ---
 
 ## Dilarem Çeşmesi

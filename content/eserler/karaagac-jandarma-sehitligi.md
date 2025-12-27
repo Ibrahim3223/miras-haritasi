@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5377197,41.65905"
 draft: false
+
+weight: 10
 ---
 
 ## Karaağaç Jandarma Şehitliği

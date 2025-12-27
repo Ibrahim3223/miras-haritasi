@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Göztepe / Yalova Düz Yerleşmesi: Tarihinin Ortası ve İnsanların Yeri

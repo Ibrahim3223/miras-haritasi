@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1672993,37.8137016"
 draft: false
+
+weight: 100
 ---
 
 ## Alhan Çeşmesi: Aydın'ın Tarihi ve Mimari Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.8291169,40.652034"
 draft: false
+
+weight: 10
 ---
 
 ### Yıldız Hamamı: Amasya'nın Gizli Çeşmesi

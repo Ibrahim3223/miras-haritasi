@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.418610318,38.356909747"
 draft: false
+
+weight: 10
 ---
 
 ## Dünyanın Ortası Anıtı: Akşehir'in Gizli Çehresini Keşfedin

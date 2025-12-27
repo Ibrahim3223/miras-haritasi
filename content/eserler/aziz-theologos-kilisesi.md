@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0589676,40.1869354"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Theologos Kilisesi

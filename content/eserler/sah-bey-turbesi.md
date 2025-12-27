@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.0877,41.525156"
 draft: false
+
+weight: 100
 ---
 
 ### Şah Bey Türbesi: Bafra'nın Gizli Güzelliği

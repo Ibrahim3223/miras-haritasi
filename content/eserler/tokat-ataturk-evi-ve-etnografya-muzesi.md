@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.5593,40.306938"
 draft: false
+
+weight: 100
 ---
 
 ## Tokat Atatürk Evi ve Etnografya Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.223869,40.60388"
 draft: false
+
+weight: 100
 ---
 
 # Pytheion: Antik Bir Arkeolojik Sit

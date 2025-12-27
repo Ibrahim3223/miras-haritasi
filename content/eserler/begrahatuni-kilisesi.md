@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.954388888,41.122611111"
 draft: false
+
+weight: 100
 ---
 
 ## Begrahatuni Kilisesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8363419,39.9246292"
 draft: false
+
+weight: 100
 ---
 
 ## İsmet İnönü Lahdi

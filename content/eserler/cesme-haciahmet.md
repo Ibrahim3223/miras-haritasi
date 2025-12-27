@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9725914,41.04216"
 draft: false
+
+weight: 100
 ---
 
 ## Hacıahmet Çeşmesi: Beyoğlu'ndaki Gizli Çeşme

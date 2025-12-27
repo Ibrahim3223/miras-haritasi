@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.905777777,37.254611111"
 draft: false
+
+weight: 10
 ---
 
 ### Anavarza Kalesi

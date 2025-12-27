@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.9244003,37.4477158"
 draft: false
+
+weight: 100
 ---
 
 ## Bucak Kalesi, Kozan

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.0327301,39.6084175"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Melik Türbesi, Kemah

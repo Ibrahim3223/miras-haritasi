@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.1906,41.292466666"
 draft: false
+
+weight: 100
 ---
 
 ## Tzepta Kalesi Kilisesi

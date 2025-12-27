@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.932972,41.0138512"
 draft: false
+
+weight: 100
 ---
 
 ## Gaspıralı Sokak Camii

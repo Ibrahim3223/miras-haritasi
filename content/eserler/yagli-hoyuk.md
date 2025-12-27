@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.9135638,38.8626932"
 draft: false
+
+weight: 100
 ---
 
 ## Yağlı Höyük: Ağaçören'in Gizli Mirası

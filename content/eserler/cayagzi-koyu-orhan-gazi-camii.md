@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.2287579,41.0861702"
 draft: false
+
+weight: 100
 ---
 
 # Çayağzı Köyü Orhan Gazi Camii

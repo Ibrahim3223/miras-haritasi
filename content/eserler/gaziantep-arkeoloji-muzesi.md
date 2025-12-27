@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.37826,37.06626"
 draft: false
+
+weight: 10
 ---
 
 ## Gaziantep Arkeoloji Müzesi

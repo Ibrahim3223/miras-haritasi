@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9640675,41.0109863"
 draft: false
+
+weight: 10
 ---
 
 ### Sebilhane-i Sultan Beyazıt: Fatih'te Bir Çarpıcı Çeşme

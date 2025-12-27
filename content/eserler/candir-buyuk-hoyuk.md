@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.985067,38.182967"
 draft: false
+
+weight: 100
 ---
 
 **Çandır Büyük Höyük: Denizli'nin Gizli Öreni**

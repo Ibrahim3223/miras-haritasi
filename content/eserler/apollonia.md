@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.76388889,36.18666667"
 draft: false
+
+weight: 10
 ---
 
 ## Apollonia: Antik Kent ve Doğa Harikası

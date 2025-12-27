@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.214722222,38.679722222"
 draft: false
+
+weight: 10
 ---
 
 ## Ersele Höyük: Aksaray'ın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2211895,40.1017418"
 draft: false
+
+weight: 100
 ---
 
 ### Sargıyeri Şehitliği

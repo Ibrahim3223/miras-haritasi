@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.493021,36.684805"
 draft: false
+
+weight: 100
 ---
 
 ### Triopium

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9502201,41.0260086"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurbostan Camii

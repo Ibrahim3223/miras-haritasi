@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2100506,41.9690819"
 draft: false
+
+weight: 100
 ---
 
 ### Kocayazı Paraşuttepe 2 Tümülüsü: Tarih ve Kültür Mirasının Gizemi

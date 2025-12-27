@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973154,41.004551"
 draft: false
+
+weight: 100
 ---
 
 ## Üçler Hamamı Sokak Duvar Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.69408,37.498566"
 draft: false
+
+weight: 100
 ---
 
 ## Kremna Doğu Tiyatrosu

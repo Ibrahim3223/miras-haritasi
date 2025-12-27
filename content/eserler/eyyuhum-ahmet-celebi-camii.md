@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9725399,41.0382156"
 draft: false
+
+weight: 100
 ---
 
 ### Eyyûhum Ahmet Çelebi Camii: İstanbul'un Gizli Cenneti

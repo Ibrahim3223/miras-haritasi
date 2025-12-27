@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "30.519773,37.678349"
 draft: false
+
+weight: 100
 ---
 
 ## Sagalassos Neon Kütüphanesi: Ağlasun'un Gizli Harikası

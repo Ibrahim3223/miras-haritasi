@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.008714,40.90044"
 draft: false
+
+weight: 100
 ---
 
 ### Akköy Köyü Camii: Giresun'un Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.957555,41.0132257"
 draft: false
+
+weight: 10
 ---
 
 ## Rüstem Paşa Türbesi: İstanbul'un Gizli Çehresinde Bir Anıt

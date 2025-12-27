@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.540420776,38.753551818"
 draft: false
+
+weight: 10
 ---
 
 ## Gedik Ahmet Paşa Camii: Afyonkarahisar'ın Tarihî Bir Çeşidi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.002689,41.039642"
 draft: false
+
+weight: 10
 ---
 
 ## Milli Saraylar Resim Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935724,41.028913"
 draft: false
+
+weight: 100
 ---
 
 ## Güzel Ahmet Paşa Türbesi: İstanbul'un Fatih Bölgesi'ndeki Bir Tarihî Ören

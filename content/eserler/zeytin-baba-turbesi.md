@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3046646,40.8170547"
 draft: false
+
+weight: 10
 ---
 
 # Zeytin Baba Türbesi

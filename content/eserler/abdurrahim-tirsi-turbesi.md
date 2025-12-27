@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.211,40.4643"
 draft: false
+
+weight: 100
 ---
 
 # Abdurrahim Tırsi Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3507233,41.4084511"
 draft: false
+
+weight: 10
 ---
 
 ## Zindan Baba Türbesi

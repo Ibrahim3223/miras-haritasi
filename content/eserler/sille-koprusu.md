@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.4159422,37.9266061"
 draft: false
+
+weight: 10
 ---
 
 ## Sille Köprüsü

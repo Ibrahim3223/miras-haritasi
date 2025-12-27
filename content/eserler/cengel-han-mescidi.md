@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8635597,39.9369049"
 draft: false
+
+weight: 100
 ---
 
 # Çengel Han Mescidi

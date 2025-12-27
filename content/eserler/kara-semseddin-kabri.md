@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9549198,41.0196724"
 draft: false
+
+weight: 100
 ---
 
 ### Kara Şemseddin Kabri

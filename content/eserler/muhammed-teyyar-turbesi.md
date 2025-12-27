@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.1741791,38.142128"
 draft: false
+
+weight: 10
 ---
 
 ## Muhammed Teyyar Türbesi: Çatak, Van'ın Gizli Anıtı

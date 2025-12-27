@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.401155,39.845769"
 draft: false
+
+weight: 100
 ---
 
 ## Camisa Arkeolojik Sit

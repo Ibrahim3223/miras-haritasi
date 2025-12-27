@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2806129,39.9037933"
 draft: false
+
+weight: 100
 ---
 
 ### Taş Cami (Erzurum)

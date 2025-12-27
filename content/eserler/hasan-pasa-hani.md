@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.237166666,37.912722222"
 draft: false
+
+weight: 10
 ---
 
 ## Hasan Paşa Hanı: Diyarbakır'ın Tarihi ve Kültürel Mirası

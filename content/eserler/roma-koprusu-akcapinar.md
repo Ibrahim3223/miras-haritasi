@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.276805917,39.917766572"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Akçapınar

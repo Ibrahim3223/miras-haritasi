@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.88,40.58"
 draft: false
+
+weight: 100
 ---
 
 ## Lysimachia: Trakya'nın Gizli Şehri

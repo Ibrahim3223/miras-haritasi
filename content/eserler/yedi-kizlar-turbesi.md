@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4235497,38.6062889"
 draft: false
+
+weight: 100
 ---
 
 ### Yedi Kızlar Türbesi: Manisa'nın Ölümsüz Kahramanları

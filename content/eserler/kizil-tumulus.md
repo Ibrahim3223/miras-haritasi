@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.5030785,39.1059265"
 draft: false
+
+weight: 100
 ---
 
 ## Kızıl Tümülüs: Kayseri'nin Gizemi

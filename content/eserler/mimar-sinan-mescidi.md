@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.940804,41.019465"
 draft: false
+
+weight: 10
 ---
 
 **Mimar Sinan Mescidi: İstanbul'un İhtişamlı Camii**

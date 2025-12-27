@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944519,41.01017"
 draft: false
+
+weight: 100
 ---
 
 ## Haseki Çeşmesi: İstanbul'un Tarihi ve Güzel Bir Çeşmesi

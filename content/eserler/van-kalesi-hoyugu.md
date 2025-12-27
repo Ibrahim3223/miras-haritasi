@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.3342385,38.5057441"
 draft: false
+
+weight: 100
 ---
 
 **Van Kalesi Höyüğü: Tarihî ve Kültürel Mirasın Tanıklığı**

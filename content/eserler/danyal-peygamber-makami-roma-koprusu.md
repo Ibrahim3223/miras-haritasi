@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.897225653,36.917101044"
 draft: false
+
+weight: 100
 ---
 
 ## Danyal Peygamber Makamı Roma Köprüsü

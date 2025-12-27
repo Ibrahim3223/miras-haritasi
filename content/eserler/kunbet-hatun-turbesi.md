@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4680176,40.8663025"
 draft: false
+
+weight: 100
 ---
 
 ## Künbet Hatun Türbesi: Merzifon'un Gizli Cenneti

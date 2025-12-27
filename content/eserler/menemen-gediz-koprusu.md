@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.051,38.649277777"
 draft: false
+
+weight: 10
 ---
 
 ## Menemen Gediz Köprüsü

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.06493,37.5431709"
 draft: false
+
+weight: 100
 ---
 
 ### İtalyan Köprüsü (Eski Çine)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8356018,41.7741432"
 draft: false
+
+weight: 100
 ---
 
 ## Yağcılı A Tümülüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.986741936,40.603179891"
 draft: false
+
+weight: 100
 ---
 
 ## Dodurga Köyü Çeşmesi 3, Orta

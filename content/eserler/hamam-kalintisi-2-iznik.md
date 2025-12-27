@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.7271347,40.4290886"
 draft: false
+
+weight: 100
 ---
 
 ### İznik'te Bir Süs: Hamam Kalıntısı 2

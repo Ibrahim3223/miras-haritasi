@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.253933,38.2823029"
 draft: false
+
+weight: 100
 ---
 
 ## Kuru Çeşme

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.4326,38.0833"
 draft: false
+
+weight: 100
 ---
 
 ## Hogots Manastırı: Tarihi ve Kültürel Mirasın Gizemli Yerleri

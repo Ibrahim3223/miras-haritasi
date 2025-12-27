@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.97889,41.009632"
 draft: false
+
+weight: 10
 ---
 
 ## Caferağa Medresesi: İstanbul'un Gizli Cenneti

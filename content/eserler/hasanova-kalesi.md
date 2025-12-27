@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.2740021,39.622963"
 draft: false
+
+weight: 100
 ---
 
 ## Hasanova Kalesi: Karayazı'nın Tarihî Mirası

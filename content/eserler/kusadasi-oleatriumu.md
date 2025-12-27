@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.289523,37.759428"
 draft: false
+
+weight: 10
 ---
 
 ### Kuşadası Oleatrium'u

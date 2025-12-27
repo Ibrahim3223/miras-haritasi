@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.426096,38.6083527"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı İlyas Bey Mescidi: Manisa'nın Güzeli

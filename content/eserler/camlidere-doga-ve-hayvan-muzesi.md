@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.476024135,40.490973727"
 draft: false
+
+weight: 10
 ---
 
 ## Çamlıdere Doğa ve Hayvan Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.59659,41.461422"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmetbey Mahmutçuk Yolu Tümülüsü

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.159042,36.176216"
 draft: false
+
+weight: 100
 ---
 
 ## Dursunludağ Köprüsü: Hatay'ın Tarihi Bir Mirası

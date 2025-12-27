@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.795630065,41.223317749"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Mahalle Camii: Safranbolu'nun Tarihî Mirası

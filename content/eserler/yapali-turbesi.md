@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.978969136,38.544144391"
 draft: false
+
+weight: 100
 ---
 
 # Yapalı Türbesi

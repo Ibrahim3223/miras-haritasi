@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.9485397,39.4391136"
 draft: false
+
+weight: 100
 ---
 
 ## Şahinler Köyü Camii

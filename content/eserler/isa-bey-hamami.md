@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.36541667,37.95111111"
 draft: false
+
+weight: 10
 ---
 
 ### İsa Bey Hamamı: Tarihî Bir Mirasın Gizemi

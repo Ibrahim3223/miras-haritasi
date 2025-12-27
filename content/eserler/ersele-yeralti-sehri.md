@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.215555555,38.678055555"
 draft: false
+
+weight: 10
 ---
 
 ### Ersele Yeraltı Şehri: Tarihin Gizli Yerleri

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.771194444,41.375666666"
 draft: false
+
+weight: 10
 ---
 
 ### Kastamonu Ulu Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

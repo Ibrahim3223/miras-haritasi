@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8881817,40.3923759"
 draft: false
+
+weight: 100
 ---
 
 ## Kyzikos Tiyatrosu

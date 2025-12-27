@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4288158,38.610424"
 draft: false
+
+weight: 100
 ---
 
 ### Muradiye Külliyesi Çeşmesi-1: Manisa'nın Tarihi bir Simgesi

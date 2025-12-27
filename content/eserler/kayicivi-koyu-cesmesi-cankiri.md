@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.463131,40.6988144"
 draft: false
+
+weight: 100
 ---
 
 ## Kayıçivi Köyü Çeşmesi, Çankırı

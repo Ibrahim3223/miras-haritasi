@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.4670982,36.3174286"
 draft: false
+
+weight: 100
 ---
 
 ## Adrasan Kalesi: Kumluca, Antalya'nın Gizli Çehresinde Yükselen Tarihi Bir Miras

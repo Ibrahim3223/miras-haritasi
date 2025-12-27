@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.864126,39.934205"
 draft: false
+
+weight: 100
 ---
 
 ## Somut Olmayan Kültürel Miras Müzesi

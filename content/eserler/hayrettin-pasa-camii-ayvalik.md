@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.693368,39.314326"
 draft: false
+
+weight: 100
 ---
 
 ## Hayrettin Paşa Camii: Ayvalık'taki Tarihi Bir Miras

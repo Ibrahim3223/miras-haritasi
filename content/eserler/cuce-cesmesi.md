@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.959218,41.013945"
 draft: false
+
+weight: 100
 ---
 
 ### Cüce Çeşmesi

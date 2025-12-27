@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.1499887,39.0106236"
 draft: false
+
+weight: 100
 ---
 
 ## Fevziye Höyüğü: Konya'nın Gizli Ören Yeri

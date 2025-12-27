@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9690971,40.3519363"
 draft: false
+
+weight: 100
 ---
 
 **Habibullah Camii: İhtişamlı Bir Miras**

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.5307922,40.2134666"
 draft: false
+
+weight: 100
 ---
 
 ### Hacıboz Köprüsü: Tokat'ın Tarihî Bir Mirası

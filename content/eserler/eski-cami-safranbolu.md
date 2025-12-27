@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.690784694,41.242537555"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Cami, Safranbolu

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7857323,38.2922516"
 draft: false
+
+weight: 100
 ---
 
 ## Dedeköy Camii: Denizli'nin Tarihi Bir Mirası

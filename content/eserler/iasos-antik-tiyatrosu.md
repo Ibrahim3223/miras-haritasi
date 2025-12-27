@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.586174,37.277971"
 draft: false
+
+weight: 100
 ---
 
 ## Iasos Antik Tiyatrosu Tanıtımı

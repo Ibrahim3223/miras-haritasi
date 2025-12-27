@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.940666666,41.040722222"
 draft: false
+
+weight: 10
 ---
 
 # Yavedüd Camii

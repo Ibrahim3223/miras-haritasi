@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.722069,39.345675"
 draft: false
+
+weight: 100
 ---
 
 ## Herakleia Yerleşimi, Çakalya Burnu

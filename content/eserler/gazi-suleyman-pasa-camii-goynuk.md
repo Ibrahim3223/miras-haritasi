@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.78725,40.399277777"
 draft: false
+
+weight: 10
 ---
 
 ### Gazi Süleyman Paşa Camii, Göynük

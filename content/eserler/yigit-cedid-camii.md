@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0644608,40.1858902"
 draft: false
+
+weight: 10
 ---
 
 ## Bursa'nın Tarihî Çehresinde Yiğit Cedid Camii

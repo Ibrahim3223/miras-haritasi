@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1191006,37.3830986"
 draft: false
+
+weight: 100
 ---
 
 ## Nikfer Höyük: Tavas'ın Eski Yerleşimi

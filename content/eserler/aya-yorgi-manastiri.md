@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.118888888,40.848611111"
 draft: false
+
+weight: 10
 ---
 
 ### Aya Yorgi Manastırı

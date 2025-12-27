@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.146805555,38.421833333"
 draft: false
+
+weight: 100
 ---
 
 ## Şonsol Sinagogu: İzmir'in Tarihî Mirası

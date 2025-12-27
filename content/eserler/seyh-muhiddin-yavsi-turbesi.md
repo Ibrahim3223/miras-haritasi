@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.4708,40.7305"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Muhiddin Yavsi Türbesi

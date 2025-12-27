@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9614182,41.0054169"
 draft: false
+
+weight: 10
 ---
 
 ## Halil Çevkan Çeşmesi: Fatih, İstanbul'un Gizli Çeşmesi

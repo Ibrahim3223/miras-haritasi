@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.853631,40.312528"
 draft: false
+
+weight: 100
 ---
 
 ## Kitre Kalesi: Bayburt'un Tarihî ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.983998638,41.013195129"
 draft: false
+
+weight: 100
 ---
 
 ### Harem Mescidi: İstanbul'un Gizli Çehresinde Bir Tarihi Cami

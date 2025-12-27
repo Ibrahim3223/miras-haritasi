@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.135694444,38.425611111"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Polikarp Kilisesi: Tarihi ve Kültürel Mirası

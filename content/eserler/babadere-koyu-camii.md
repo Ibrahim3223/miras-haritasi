@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.1900959,39.6083641"
 draft: false
+
+weight: 100
 ---
 
 ### Babadere Köyü Camii

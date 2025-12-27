@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8602104,39.9425659"
 draft: false
+
+weight: 100
 ---
 
 ## Tabakhane Camii

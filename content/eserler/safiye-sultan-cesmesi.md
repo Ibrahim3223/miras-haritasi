@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.017725053,41.021963622"
 draft: false
+
+weight: 10
 ---
 
 ## Safiye Sultan Çeşmesi

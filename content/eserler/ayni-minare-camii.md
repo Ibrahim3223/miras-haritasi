@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.234024,37.9081459"
 draft: false
+
+weight: 100
 ---
 
 ## Ayni Minare Camii: Diyarbakır'ın Tarihî Mirasının Gizli Çehresi

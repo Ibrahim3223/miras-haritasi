@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0725479,40.9777412"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmed Sabit Adniye Abide Ayas Çeşmesi

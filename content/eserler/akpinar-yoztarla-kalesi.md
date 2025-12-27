@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.8671799,41.6036186"
 draft: false
+
+weight: 100
 ---
 
 ## Akpınar Yoztarla Kalesi: Vize'nin Gizli Mücevheri

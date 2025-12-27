@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.040305555,40.9725"
 draft: false
+
+weight: 10
 ---
 
 ## Fenerbahçe Camii: İstanbul'un Tarihi Bir Anıtı

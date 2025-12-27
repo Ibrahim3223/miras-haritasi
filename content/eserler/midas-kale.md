@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.7135582,39.1992378"
 draft: false
+
+weight: 100
 ---
 
 ### Midas Kale: Eskişehir'in Gizli Anıtı

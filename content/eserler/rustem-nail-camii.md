@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8675728,39.9355698"
 draft: false
+
+weight: 100
 ---
 
 ## Rüstem Nail Camii: Türkiye'nin Tarihî ve Kültürel Mirası

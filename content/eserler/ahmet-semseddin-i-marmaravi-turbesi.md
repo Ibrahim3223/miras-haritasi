@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4279,38.6085"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Şemseddin-i Marmaravi Türbesi

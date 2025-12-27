@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7715359,38.322731"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Çeşme, Urla

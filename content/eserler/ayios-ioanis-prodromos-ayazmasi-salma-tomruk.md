@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9394608,41.0300789"
 draft: false
+
+weight: 100
 ---
 
 # Ayios Ioanis Prodromos Ayazması, Salma Tomruk

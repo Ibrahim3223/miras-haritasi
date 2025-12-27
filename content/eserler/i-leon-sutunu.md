@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.984825,41.013276"
 draft: false
+
+weight: 10
 ---
 
 ## I. Leon Sütunu: İstanbul'un Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9818287,41.0049629"
 draft: false
+
+weight: 100
 ---
 
 ## Nimelceyş Kabirleri 2: Fatih'in Gizli Cenneti

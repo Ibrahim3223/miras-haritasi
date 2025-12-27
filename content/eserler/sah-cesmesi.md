@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.001621,41.062538"
 draft: false
+
+weight: 100
 ---
 
 ## Şah Çeşmesi: İstanbul'un Sanki Zamanı Durmuş Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.020894025,41.019570449"
 draft: false
+
+weight: 10
 ---
 
 # Mustafa Kasvar Baba Türbesi

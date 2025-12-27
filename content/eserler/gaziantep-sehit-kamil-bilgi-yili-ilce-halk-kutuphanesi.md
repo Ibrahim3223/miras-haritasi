@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Gaziantep Şehit Kamil Bilgi Yılı İlçe Halk Kütüphanesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.127534,38.134602"
 draft: false
+
+weight: 100
 ---
 
 ## Cabassus Arkeolojik Sit

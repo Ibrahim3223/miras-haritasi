@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.973487,41.023918"
 draft: false
+
+weight: 10
 ---
 
 ## SALT Müzesi: Türkiye'nin Kültür ve Sanat Mirası

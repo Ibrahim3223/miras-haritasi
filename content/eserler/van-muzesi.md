@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "43.341111111,38.504722222"
 draft: false
+
+weight: 10
 ---
 
 ## Van Müzesi

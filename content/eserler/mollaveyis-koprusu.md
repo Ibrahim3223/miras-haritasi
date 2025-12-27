@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.964333,40.9846"
 draft: false
+
+weight: 100
 ---
 
 ### Mollaveyis Köprüsü

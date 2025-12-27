@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.358056,38.610607"
 draft: false
+
+weight: 100
 ---
 
 ## Kybeleia: İzmir'in Gizli Harikası

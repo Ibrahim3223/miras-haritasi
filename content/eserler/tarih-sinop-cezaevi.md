@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.14305556,42.02444444"
 draft: false
+
+weight: 10
 ---
 
 # Tarihî Sinop Cezaevi

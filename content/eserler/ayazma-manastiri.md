@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "26.0146999,39.8136787"
 draft: false
+
+weight: 100
 ---
 
 ## Ayazma Manastırı: Bozcaada'nın Gizli Çeşmesi

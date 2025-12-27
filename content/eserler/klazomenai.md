@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.76758333,38.35816667"
 draft: false
+
+weight: 10
 ---
 
 ## Klazomenai: İzmir'in Gizli Harikası

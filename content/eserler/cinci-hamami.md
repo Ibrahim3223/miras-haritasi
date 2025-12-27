@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.6930466,41.2453842"
 draft: false
+
+weight: 10
 ---
 
 ## Cinci Hamamı: Safranbolu'nun Tarihi ve Kültürel Mirası

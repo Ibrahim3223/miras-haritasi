@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.0179005,37.8180008"
 draft: false
+
+weight: 100
 ---
 
 ### Asar Tümülüsü, Merkezefendi

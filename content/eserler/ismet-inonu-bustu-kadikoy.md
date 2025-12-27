@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0870342,40.979805"
 draft: false
+
+weight: 100
 ---
 
 ## İsmet İnönü Büstü, Kadıköy

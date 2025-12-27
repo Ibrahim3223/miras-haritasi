@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0607719,40.1874428"
 draft: false
+
+weight: 100
 ---
 
 ## Pars Bey Türbesi: Bursa'nın Tarihi ve Kültürel Mirası

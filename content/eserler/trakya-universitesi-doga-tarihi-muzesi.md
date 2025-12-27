@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.5205669,41.6521645"
 draft: false
+
+weight: 100
 ---
 
 ## Trakya Üniversitesi Doğa Tarihi Müzesi

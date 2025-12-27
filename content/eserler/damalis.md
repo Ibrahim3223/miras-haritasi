@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.011071,41.02526"
 draft: false
+
+weight: 100
 ---
 
 ## Damalis: Bir Antik Sitin Gizemi

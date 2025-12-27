@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.7568493,41.062088"
 draft: false
+
+weight: 100
 ---
 
 ## Hasanderesi Köprüsü

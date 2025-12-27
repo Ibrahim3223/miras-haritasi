@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.009777777,37.949138888"
 draft: false
+
+weight: 10
 ---
 
 # İsmail Fakirullah Türbesi

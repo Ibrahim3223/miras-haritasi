@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7307911,38.0829163"
 draft: false
+
+weight: 100
 ---
 
 ## Kara Hayrettin Paşa Camii

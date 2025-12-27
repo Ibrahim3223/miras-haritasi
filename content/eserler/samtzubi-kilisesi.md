@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.137083333,41.297416666"
 draft: false
+
+weight: 100
 ---
 
 ### Samtzubi Kilisesi: Tarihi ve Kültürel Mirasın Evinde

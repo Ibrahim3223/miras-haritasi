@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3614845,37.2180099"
 draft: false
+
+weight: 100
 ---
 
 ### Üç Erenler Türbesi, Muğla

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.7685165,41.466938"
 draft: false
+
+weight: 100
 ---
 
 ### Büyük Camii, Boyabat

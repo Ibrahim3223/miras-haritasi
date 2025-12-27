@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.497143033,39.038961925"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Şerif Ağa Çeşmesi: Arapgir'in Tarihî Bir Mirası

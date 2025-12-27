@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.142111111,38.43575"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Mask Müzesi: Türkiye'nin En Büyüleyici Antik Eserleri среди

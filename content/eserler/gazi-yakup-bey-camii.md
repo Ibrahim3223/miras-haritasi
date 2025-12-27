@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7158375,40.3749504"
 draft: false
+
+weight: 100
 ---
 
 **Gazi Yakup Bey Camii**

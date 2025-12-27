@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.829055555,41.170833333"
 draft: false
+
+weight: 10
 ---
 
 ## Artvin Atatürk Heykeli

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Ayazma Çeşmesi: Denizli'nin Gizli Çeşmesi

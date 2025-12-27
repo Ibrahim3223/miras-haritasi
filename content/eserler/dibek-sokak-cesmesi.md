@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4558392,37.9159966"
 draft: false
+
+weight: 100
 ---
 
 ## Dibek Sokak Çeşmesi

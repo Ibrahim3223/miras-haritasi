@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.93550334,41.028955273"
 draft: false
+
+weight: 10
 ---
 
 ## Edirnekapı Mihrimah Sultan Sıbyan Mektebi Çeşmesi

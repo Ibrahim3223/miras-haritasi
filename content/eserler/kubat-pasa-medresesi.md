@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.8978233,36.9170113"
 draft: false
+
+weight: 100
 ---
 
 **Kubat Paşa Medresesi**

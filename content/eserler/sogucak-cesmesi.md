@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2988949,37.7825356"
 draft: false
+
+weight: 100
 ---
 
 ## Soğucak Çeşmesi: Kuşadası'nın Tarihî Cenneti

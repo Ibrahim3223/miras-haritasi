@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8241425,41.8708496"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıdanişment G Tümülüsü: Edirne'nin Gizli Hazineleri

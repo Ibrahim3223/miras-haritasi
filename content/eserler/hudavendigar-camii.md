@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Hudavendigar Camii: Osmanlı İmparatorluğu'nun Altın Çağının Mirası

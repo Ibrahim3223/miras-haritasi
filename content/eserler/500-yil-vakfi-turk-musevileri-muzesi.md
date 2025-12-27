@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9727457,41.0267555"
 draft: false
+
+weight: 10
 ---
 
 ## 500. Yıl Vakfı Türk Musevileri Müzesi

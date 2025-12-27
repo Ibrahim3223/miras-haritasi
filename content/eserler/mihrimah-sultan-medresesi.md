@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.016325,41.027229"
 draft: false
+
+weight: 10
 ---
 
 ### Mihrimah Sultan Medresesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.846494683,37.416946809"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Hatun Türbesi

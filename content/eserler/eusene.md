@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.23131,41.373045"
 draft: false
+
+weight: 100
 ---
 
 ## Eusene Arkeolojik Sit

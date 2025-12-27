@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.3896647,36.4549101"
 draft: false
+
+weight: 100
 ---
 
 ### Maltahöyüğü: Hatay'ın Gizli Mirası

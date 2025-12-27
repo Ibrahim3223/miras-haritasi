@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9431839,41.0311584"
 draft: false
+
+weight: 100
 ---
 
 ### Hamamı Muhyiddin Camii Çeşmesi Tanıtımı

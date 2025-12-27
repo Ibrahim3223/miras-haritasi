@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.77256,40.944685"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurluhoca Medresesi

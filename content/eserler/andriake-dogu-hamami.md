@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.9582272,36.2271957"
 draft: false
+
+weight: 100
 ---
 
 ## Andriake Doğu Hamamı: Demre'nin Tarihi Mirası

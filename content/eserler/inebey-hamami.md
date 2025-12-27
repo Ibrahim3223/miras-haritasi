@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0609818,40.1827469"
 draft: false
+
+weight: 100
 ---
 
 ## İnebey Hamamı

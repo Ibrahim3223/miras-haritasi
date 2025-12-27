@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2602406,42.0199013"
 draft: false
+
+weight: 100
 ---
 
 ## Şabanın Höyükleri 4 Tümülüsü: Kırklareli'nin Gizli Tarihçesi

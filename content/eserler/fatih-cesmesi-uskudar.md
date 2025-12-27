@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.008185248,41.020600892"
 draft: false
+
+weight: 10
 ---
 
 **Fatih Çeşmesi: Üsküdar'daki Tarihî Bir Çeşme**

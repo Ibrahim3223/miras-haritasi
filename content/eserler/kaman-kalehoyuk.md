@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.786714,39.362854"
 draft: false
+
+weight: 10
 ---
 
 ## Kaman Kalehöyük: Türkiye'nin Gizli Çanakkale'si

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.019621,39.7541264"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Alibey Hamamı

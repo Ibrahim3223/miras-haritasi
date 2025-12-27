@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.070805,41.084014"
 draft: false
+
+weight: 100
 ---
 
 ## Şerife Fatma Hanım Çeşmesi

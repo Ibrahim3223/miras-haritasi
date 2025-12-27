@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.982893,41.0115585"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Meydan Çeşmesi: Bir İmparatorlukun Yansıması

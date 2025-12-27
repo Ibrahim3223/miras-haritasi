@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.637867,39.63195"
 draft: false
+
+weight: 100
 ---
 
 ## Gökçeyazı Üyücek: İvrindi'nin Gizli Anıtı

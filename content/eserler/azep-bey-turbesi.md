@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0449104,40.188591"
 draft: false
+
+weight: 100
 ---
 
 ### Azep Bey Türbesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.071388888,40.176944444"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Tofaş Anadolu Arabaları Müzesi

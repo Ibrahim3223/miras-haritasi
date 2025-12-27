@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1650734,36.2028313"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Cami, Hatay: Bir Hacamatın Mirası

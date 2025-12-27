@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.930385,41.049644"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Abdülkadir Efendi Türbesi

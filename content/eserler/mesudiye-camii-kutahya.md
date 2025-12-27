@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.977911,39.420517"
 draft: false
+
+weight: 100
 ---
 
 ## Mesudiye Camii: Kütahya'nın Tarihî Bir Mirası

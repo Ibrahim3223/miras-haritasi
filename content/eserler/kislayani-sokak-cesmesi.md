@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6930695,41.2429504"
 draft: false
+
+weight: 10
 ---
 
 ## Kışlayanı Sokak Çeşmesi

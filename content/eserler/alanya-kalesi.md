@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.993333333,36.533333333"
 draft: false
+
+weight: 10
 ---
 
 ### Alanya Kalesi: Tarihî bir Mirasın Gizemi

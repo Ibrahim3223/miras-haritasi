@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "33.96493,36.584649"
 draft: false
+
+weight: 100
 ---
 
 ## Olba Antik Tiyatrosu: Silifke'nin Gizli Mirası

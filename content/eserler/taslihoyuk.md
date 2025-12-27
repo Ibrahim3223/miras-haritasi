@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.2005451,37.0560701"
 draft: false
+
+weight: 100
 ---
 
 ## Taşlıhöyük: Tarih ve Kültür Mirasının Gizemi

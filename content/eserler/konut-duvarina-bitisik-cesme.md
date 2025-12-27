@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2512817,40.6931648"
 draft: false
+
+weight: 100
 ---
 
 ## Konut Duvarına Bitişik Çeşme: Şarköy'de Bir Ölümsüz

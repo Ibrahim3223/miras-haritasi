@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.600488317,38.311736862"
 draft: false
+
+weight: 100
 ---
 
 ## Yılan Yusuf Köprüsü

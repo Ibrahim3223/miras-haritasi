@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.2671795,36.3868828"
 draft: false
+
+weight: 100
 ---
 
 **Rhodiapolis Büyük Hamamı**

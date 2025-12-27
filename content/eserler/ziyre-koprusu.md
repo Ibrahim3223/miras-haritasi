@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.8389015,40.6695251"
 draft: false
+
+weight: 100
 ---
 
 ### Ziyâre Köprüsü: Tarihî Bir Mirasın Gizemi

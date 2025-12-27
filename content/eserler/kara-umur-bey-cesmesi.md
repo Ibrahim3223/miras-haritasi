@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.222583333,41.737111111"
 draft: false
+
+weight: 10
 ---
 
 ## Kara Umur Bey Çeşmesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0053,41.0445"
 draft: false
+
+weight: 10
 ---
 
 ### Beşiktaş Surp Asdvadzadzin Kilisesi

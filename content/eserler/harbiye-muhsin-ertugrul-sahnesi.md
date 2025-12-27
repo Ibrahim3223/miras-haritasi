@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.9883,41.0461"
 draft: false
+
+weight: 10
 ---
 
 **Harbiye Muhsin Ertuğrul Sahnesi: Şişli'nin Tarihi Tiyatro Mirası**

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.761654,39.471544"
 draft: false
+
+weight: 100
 ---
 
 ## Çaltılı Hamamı: Savaştepe'nin Tarihi Bir Mirası

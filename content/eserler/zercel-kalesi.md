@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.485111,38.077339"
 draft: false
+
+weight: 100
 ---
 
 ## Zercel Kalesi: Batman'ın Gizli Kalesi

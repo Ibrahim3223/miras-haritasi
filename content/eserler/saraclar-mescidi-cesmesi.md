@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8621559,39.9366226"
 draft: false
+
+weight: 100
 ---
 
 ## Saraçlar Mescidi Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi

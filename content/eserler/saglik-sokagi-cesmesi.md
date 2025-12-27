@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6841927,41.2529068"
 draft: false
+
+weight: 10
 ---
 
 ### Sağlık Sokağı Çeşmesi

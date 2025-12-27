@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6193466,37.539505"
 draft: false
+
+weight: 100
 ---
 
 ## Bağarcık Yukarı Yerleşme: Aydın'ın Gizli Mücevheri

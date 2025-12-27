@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.382416,37.068784"
 draft: false
+
+weight: 100
 ---
 
 ## Saklı Konak Bakır Eserleri Müzesi

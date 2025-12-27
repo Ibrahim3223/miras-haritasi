@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2625217,37.2682457"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Bayır Köprü Kalıntısı: Muğla'nın Tarihi bir Mirası

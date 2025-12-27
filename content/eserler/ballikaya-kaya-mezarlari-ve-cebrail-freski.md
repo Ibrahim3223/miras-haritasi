@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7431507,37.8789444"
 draft: false
+
+weight: 100
 ---
 
 ## Ballıkaya Kaya Mezarları ve Cebrail Freski

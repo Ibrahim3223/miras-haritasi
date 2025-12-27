@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.953228,41.0272446"
 draft: false
+
+weight: 100
 ---
 
 ### Debbağ Yunus Camii

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1755829,39.1320229"
 draft: false
+
+weight: 100
 ---
 
 ### Tekkeboğazı Köprüsü: Bergama'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9280853,41.0104713"
 draft: false
+
+weight: 100
 ---
 
 ## Uzun Yusuf Kabri

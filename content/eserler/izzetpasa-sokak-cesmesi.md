@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9866123,41.0554352"
 draft: false
+
+weight: 100
 ---
 
 ## İzzetpaşa Sokak Çeşmesi: Şişli'nin Gizli Çeşmesi

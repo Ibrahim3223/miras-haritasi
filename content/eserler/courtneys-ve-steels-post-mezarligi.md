@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2889,40.2356"
 draft: false
+
+weight: 10
 ---
 
 ## Courtney's ve Steel's Post Mezarlığı: Eceabat'ın Gizli Anıtı

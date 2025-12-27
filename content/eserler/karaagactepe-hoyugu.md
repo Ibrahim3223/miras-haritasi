@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.192917,40.058233"
 draft: false
+
+weight: 100
 ---
 
 ### Karaağaçtepe Höyüğü: Çanakkale'nin Gizli Mirası

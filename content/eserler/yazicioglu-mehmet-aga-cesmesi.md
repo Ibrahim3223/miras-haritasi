@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.5813007,40.8166008"
 draft: false
+
+weight: 100
 ---
 
 ## Yazıcıoğlu Mehmet Ağa Çeşmesi

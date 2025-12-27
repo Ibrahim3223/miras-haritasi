@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.5276031,39.6540871"
 draft: false
+
+weight: 100
 ---
 
 **Akbaş Köyü Etnografya Galerisi**

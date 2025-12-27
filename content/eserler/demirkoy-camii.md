@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.6768001,40.997"
 draft: false
+
+weight: 100
 ---
 
 ## Demirköy Camii: Artvin'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.27166748,38.84444427"
 draft: false
+
+weight: 10
 ---
 
 ### Pertek Kalesi: Tunceli'nin Gizli Öreni

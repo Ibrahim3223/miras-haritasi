@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.371685,40.0855255"
 draft: false
+
+weight: 100
 ---
 
 ### 18 Mart Hasan Mevsuf Şehitliği, Çınarlı Anıtının Tanıtımı

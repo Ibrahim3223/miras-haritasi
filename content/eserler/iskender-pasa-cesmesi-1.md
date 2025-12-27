@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7175636,41.0077477"
 draft: false
+
+weight: 10
 ---
 
 ## İskender Paşa Çeşmesi 1: Tarihi ve Kültürel Mirası

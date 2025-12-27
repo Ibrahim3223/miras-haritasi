@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0567856,40.182663"
 draft: false
+
+weight: 10
 ---
 
 ### Darü'l Kurra Muallimhanesi

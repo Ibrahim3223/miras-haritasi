@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.0409546,38.1371117"
 draft: false
+
+weight: 100
 ---
 
 ### Aşlama Höyük Tanıtımı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.064909,41.097785"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmut Aziz Bey Çeşmesi

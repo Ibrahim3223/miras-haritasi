@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.6445694,38.2227211"
 draft: false
+
+weight: 100
 ---
 
 ## Bayındır Kent Müzesi: Geçmişten Bugüne İznik Seramik Sanatı

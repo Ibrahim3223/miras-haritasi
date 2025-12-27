@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.3309059,40.0229836"
 draft: false
+
+weight: 100
 ---
 
 ### Ayaş Killik Camii Tanıtımı

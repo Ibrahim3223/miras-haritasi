@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.332823431,40.015396131"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Çeşmesi, Ayaş

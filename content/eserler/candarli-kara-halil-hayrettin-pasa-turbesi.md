@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7316,40.429"
 draft: false
+
+weight: 10
 ---
 
 ### Çandarlı Kara Halil Hayrettin Paşa Türbesi: İznik'in Gizli Çehresini Keşfetmek

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2577705,40.9020157"
 draft: false
+
+weight: 10
 ---
 
 ## İmamzade El-Hac Mustafa Çeşmesi: Pendik'in Tarihi Bir Çeşmesi

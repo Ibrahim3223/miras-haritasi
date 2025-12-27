@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.29027778,38.64944444"
 draft: false
+
+weight: 100
 ---
 
 ## Sivasa Yazıtı: Tarihi ve Kültürel Değerleri

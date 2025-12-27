@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.95644,41.01812"
 draft: false
+
+weight: 10
 ---
 
 ### Zeyrek Çinili Hamam Tanıtımı

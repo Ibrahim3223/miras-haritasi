@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0971241,41.1175232"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme Kalıntısı, Paşabahçe: Beykoz'un Gizli Çeşmesi

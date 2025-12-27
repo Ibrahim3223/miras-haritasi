@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4587803,41.2284546"
 draft: false
+
+weight: 100
 ---
 
 ## Çatalca Subaşı Çeşmesi: Tarihçesi ve Mimari Özellikleri

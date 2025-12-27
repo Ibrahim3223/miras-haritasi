@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.5812569,37.1918068"
 draft: false
+
+weight: 100
 ---
 
 ## Şahkulubey Kümbeti: Mardin'in Tarihî ve Kültürel Mirası

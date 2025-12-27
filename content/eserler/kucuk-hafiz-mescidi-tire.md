@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7321224,38.0833893"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Hafız Mescidi: Tire'nin Tarihi Bir Mirası

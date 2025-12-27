@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "26.5599308,41.6778946"
 draft: false
+
+weight: 100
 ---
 
 ## Darülhadis Medresesi

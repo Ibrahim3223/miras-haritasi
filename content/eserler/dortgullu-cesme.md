@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2691879,39.9039154"
 draft: false
+
+weight: 100
 ---
 
 ## Dörtgüllü Çeşme: Yakutiye'nin Tarihi ve Kültürel Mirası

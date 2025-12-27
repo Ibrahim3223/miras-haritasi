@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.456057,41.14547"
 draft: false
+
+weight: 10
 ---
 
 ## Topuklu Çeşme: Çatalca'nın Tarihi Bir Anıtı

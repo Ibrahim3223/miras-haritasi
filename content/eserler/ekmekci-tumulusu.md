@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.4616127,41.7340279"
 draft: false
+
+weight: 100
 ---
 
 ## Ekmekçi Tümülüsü

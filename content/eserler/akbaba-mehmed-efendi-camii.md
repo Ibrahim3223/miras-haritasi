@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.937888888,41.010277777"
 draft: false
+
+weight: 10
 ---
 
 ## Akbaba Mehmed Efendi Camii: Fatih'in Gizli Çehresini Keşfeden Bir Cami

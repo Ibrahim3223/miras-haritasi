@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.286,37.7195"
 draft: false
+
+weight: 10
 ---
 
 ## Burdur Müzesi: Tarihî Eserler ve Kültür Mirası

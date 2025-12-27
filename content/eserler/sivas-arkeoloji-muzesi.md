@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.011528,39.755389"
 draft: false
+
+weight: 10
 ---
 
 ### Sivas Arkeoloji Müzesi: Türk Kültür Mirasının Öncüleri

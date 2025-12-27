@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.95305556,41.01444444"
 draft: false
+
+weight: 10
 ---
 
 # Hagios Polieuktos Kilisesi

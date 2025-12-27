@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.449337,41.0763283"
 draft: false
+
+weight: 100
 ---
 
 **Hacıhamza Kalesi: Tarihi ve Kültürel Miras**

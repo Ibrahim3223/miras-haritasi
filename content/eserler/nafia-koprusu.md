@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.6326332,41.3392296"
 draft: false
+
+weight: 100
 ---
 
 ## Nafia Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası

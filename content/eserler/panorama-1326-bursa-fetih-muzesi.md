@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.075555555,40.186222222"
 draft: false
+
+weight: 10
 ---
 
 # Panorama 1326 Bursa Fetih Müzesi

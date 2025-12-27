@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9560184,41.0279617"
 draft: false
+
+weight: 100
 ---
 
 **Ayakapı Şapeli**

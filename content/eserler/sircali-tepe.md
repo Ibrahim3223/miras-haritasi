@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.742073,37.571369"
 draft: false
+
+weight: 100
 ---
 
 ## Sırçalı Tepe: Çumra'nın Gizli Mirası

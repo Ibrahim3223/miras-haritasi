@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.08106,38.029393"
 draft: false
+
+weight: 100
 ---
 
 ## Dios Hieron (İyonya)

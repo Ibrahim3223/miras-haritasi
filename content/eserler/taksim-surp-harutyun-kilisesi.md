@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.984126,41.035057"
 draft: false
+
+weight: 10
 ---
 
 ## Taksim Surp Harutyun Kilisesi: İstanbul'un Gizli Kıpti Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9756603,39.4172401"
 draft: false
+
+weight: 10
 ---
 
 ## Merkez Camii: Kütahya'nın Zümrütü

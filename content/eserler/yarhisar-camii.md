@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.952485,41.022351"
 draft: false
+
+weight: 100
 ---
 
 ## Yarhisar Camii

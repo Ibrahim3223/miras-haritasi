@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9284248,41.0036697"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Razi Türbesi: Fatih'in Gizli Cenneti

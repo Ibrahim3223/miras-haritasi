@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.929765,40.994735"
 draft: false
+
+weight: 10
 ---
 
 # Narlıkapı Surp Hovhannes Kilisesi: İstanbul'un Gizli Çarpısı

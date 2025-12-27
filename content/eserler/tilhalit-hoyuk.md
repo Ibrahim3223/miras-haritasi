@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.6387405,36.767437"
 draft: false
+
+weight: 100
 ---
 
 ## Tilhalit Höyük: Gaziantep'in Eski Köyü

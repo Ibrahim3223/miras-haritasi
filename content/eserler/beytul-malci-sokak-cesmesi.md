@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.992351,41.035513"
 draft: false
+
+weight: 10
 ---
 
 ## Beytül Malcı Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi

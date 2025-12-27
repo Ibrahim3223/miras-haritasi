@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.52591,40.605119"
 draft: false
+
+weight: 100
 ---
 
 ### Valide Köprüsü

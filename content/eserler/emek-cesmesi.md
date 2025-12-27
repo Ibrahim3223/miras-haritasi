@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6791687,41.2499847"
 draft: false
+
+weight: 10
 ---
 
 ### Emek Çeşmesi

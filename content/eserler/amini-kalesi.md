@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.1792526,38.2453537"
 draft: false
+
+weight: 100
 ---
 
 ## Amini Kalesi: Diyarbakır'ın Gizli Kahramanı

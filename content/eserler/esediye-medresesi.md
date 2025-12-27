@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0624695,40.183754"
 draft: false
+
+weight: 100
 ---
 
 ## Esendiye Medresesi: Bursa'nın Tarihî Bir Mirası

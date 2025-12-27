@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.336667,39.490556"
 draft: false
+
+weight: 10
 ---
 
 ## Assos: Antik Çağın Gizemi

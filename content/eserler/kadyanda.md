@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.23589,36.7154"
 draft: false
+
+weight: 10
 ---
 
 ### Kadyanda: Antik Çağın Gizemi

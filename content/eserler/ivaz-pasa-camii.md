@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.422138888,38.607027777"
 draft: false
+
+weight: 10
 ---
 
 **İvaz Paşa Camii: Manisa'nın Tarihi Bir Çatı**

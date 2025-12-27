@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.42178,37.06804"
 draft: false
+
+weight: 10
 ---
 
 ### Pedesa: Türkiye'nin Gizli Mirası

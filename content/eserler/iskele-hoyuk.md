@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.950833,38.046517"
 draft: false
+
+weight: 100
 ---
 
 ## İskele Höyük: Isparta'nın Gizli Hazineleri

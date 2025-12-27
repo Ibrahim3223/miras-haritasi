@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.618901686,40.603210696"
 draft: false
+
+weight: 100
 ---
 
 ### Mahsenüstü Sokak Çeşmesi, Çankırı

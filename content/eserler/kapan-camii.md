@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2253761,41.7341652"
 draft: false
+
+weight: 10
 ---
 
 ## Kapan Camii: Kırklareli'nin Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.988194444,40.143611111"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Edebali Türbesi: Bilecik'in Tarihsel Değerleri

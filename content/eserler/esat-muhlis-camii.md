@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7675896,39.8997993"
 draft: false
+
+weight: 100
 ---
 
 ## Esat Muhlis Camii

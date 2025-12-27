@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.7195358,37.3592644"
 draft: false
+
+weight: 100
 ---
 
 ## Mor Aday Kilisesi: Şırnak'taki Bir Zenginlik

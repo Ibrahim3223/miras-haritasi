@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1826,39.1189995"
 draft: false
+
+weight: 100
 ---
 
 ### Emir Sultan Camii (Bergama)

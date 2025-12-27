@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.98277778,41.05861111"
 draft: false
+
+weight: 10
 ---
 
 ## Bomonti Gürcü Katolik Kilisesi

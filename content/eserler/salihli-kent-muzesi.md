@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.1308041,38.4822884"
 draft: false
+
+weight: 100
 ---
 
 ## Salihli Kent Müzesi

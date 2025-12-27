@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.333972222,37.911527777"
 draft: false
+
+weight: 10
 ---
 
 ## Meryem Ana Evi: İznik'in Gizli Çehresini Açığa Çıkaran Bir Miras

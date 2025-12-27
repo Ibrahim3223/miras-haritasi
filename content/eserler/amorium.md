@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.295,39.0225"
 draft: false
+
+weight: 10
 ---
 
 ## Amorium: Afyonkarahisar'ın Gizli Ören Yeri

@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.964244274,41.011131524"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Saray: İstanbul'un Gizli Çehresi

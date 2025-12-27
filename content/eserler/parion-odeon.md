@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.068,40.424192"
 draft: false
+
+weight: 100
 ---
 
 ## Parion Odeon: Biga'nın Gizemli Arkeolojik Sitleri

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "35.33138889,36.99055556"
 draft: false
+
+weight: 10
 ---
 
 ## Sabancı Kültür Merkezi: Antik Tiyatro'nun Yeniden Doğuşu

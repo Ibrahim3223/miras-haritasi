@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9994918,38.7851707"
 draft: false
+
+weight: 100
 ---
 
 ### Akkaya Tepe: Avanos'un Gizli İhtişamı

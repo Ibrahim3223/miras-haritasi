@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9864674,41.0578499"
 draft: false
+
+weight: 100
 ---
 
 ## Sveti Ivan Rilski Kilisesi: İstanbul'un Gizli Çiçeği

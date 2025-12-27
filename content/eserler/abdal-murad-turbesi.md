@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0463,40.180812"
 draft: false
+
+weight: 100
 ---
 
 ### Abdal Murad Türbesi

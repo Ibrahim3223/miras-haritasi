@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8604469,39.9434242"
 draft: false
+
+weight: 100
 ---
 
 ## Ördekli Camii: Ankara'nın Gizli Çehresinde Bir Ören

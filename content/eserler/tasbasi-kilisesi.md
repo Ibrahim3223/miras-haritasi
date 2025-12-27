@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.87544444,40.99186111"
 draft: false
+
+weight: 10
 ---
 
 ### Taşbaşı Kilisesi: Altınordu'nun Gizli Cenneti

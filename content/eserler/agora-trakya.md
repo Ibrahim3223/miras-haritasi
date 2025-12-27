@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.786353,40.513545"
 draft: false
+
+weight: 10
 ---
 
 ## Agora (Trakya): Tarih ve Kültür Mirası

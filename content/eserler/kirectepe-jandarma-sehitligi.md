@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2953491,40.3475914"
 draft: false
+
+weight: 100
 ---
 
 ## Kireçtepe Jandarma Şehitliği: Eceabat'ın Anlaşılır Yarası

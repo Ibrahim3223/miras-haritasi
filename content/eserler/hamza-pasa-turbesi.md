@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.7131042,41.0044098"
 draft: false
+
+weight: 10
 ---
 
 ### Hamza Paşa Türbesi: Trabzon'un Önemli Anıtı

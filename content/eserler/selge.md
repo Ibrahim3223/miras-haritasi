@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.127026,37.22923"
 draft: false
+
+weight: 10
 ---
 
 ## Selge: Antalya'nın Gizli Kahramanı

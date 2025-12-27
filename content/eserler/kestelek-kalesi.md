@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.5857391,39.9624367"
 draft: false
+
+weight: 100
 ---
 
 # Kestelek Kalesi: Türk Tarihini ve Kültürünü Yansıtan Etkili Bir Kale

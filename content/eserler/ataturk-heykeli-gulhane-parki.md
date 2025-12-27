@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.979261,41.011204"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Heykeli (Gülhane Parkı)

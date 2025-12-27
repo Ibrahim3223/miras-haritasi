@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4212399,38.9345284"
 draft: false
+
+weight: 100
 ---
 
 ### Mamurtkale Kibele Kutsal Alanı

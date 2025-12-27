@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.982052,41.013519"
 draft: false
+
+weight: 100
 ---
 
 ## Gülhane Parkı Çeşmesi

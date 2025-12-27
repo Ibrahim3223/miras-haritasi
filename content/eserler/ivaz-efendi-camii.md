@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.940888888,41.038166666"
 draft: false
+
+weight: 10
 ---
 
 ## İvaz Efendi Camii

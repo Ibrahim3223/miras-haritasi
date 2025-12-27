@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.341926261,38.500552816"
 draft: false
+
+weight: 100
 ---
 
 ## Kızıl Minareli Cami: Van'ın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.8740788,39.0482979"
 draft: false
+
+weight: 100
 ---
 
 ## Alıncık Köyü Türbesi

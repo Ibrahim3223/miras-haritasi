@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9730053,41.0063667"
 draft: false
+
+weight: 100
 ---
 
 ## Uzun Şüca Kabri ve Haziresi

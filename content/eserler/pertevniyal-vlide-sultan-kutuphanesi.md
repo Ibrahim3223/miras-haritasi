@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.953090113,41.010155885"
 draft: false
+
+weight: 100
 ---
 
 ### Pertevniyal Vâlide Sultan Kütüphanesi

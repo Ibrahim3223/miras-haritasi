@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934038769,41.047340787"
 draft: false
+
+weight: 10
 ---
 
 ## Ebussuud Efendi Mezarı

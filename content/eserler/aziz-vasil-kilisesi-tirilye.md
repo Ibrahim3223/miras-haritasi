@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.794277777,40.39175"
 draft: false
+
+weight: 10
 ---
 
 ### Aziz Vasil Kilisesi, Tirilye

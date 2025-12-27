@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.236027777,37.909111111"
 draft: false
+
+weight: 10
 ---
 
 ### Deva Hamamı: Diyarbakır'ın Tarihî Mirası

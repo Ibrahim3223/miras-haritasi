@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "35.830047474,40.653398215"
 draft: false
+
+weight: 100
 ---
 
 ### Kızlar Sarayı

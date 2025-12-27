@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.458907725,38.747115861"
 draft: false
+
+weight: 10
 ---
 
 ### Emir Bayındır Kümbeti: Ahlat'ın Tarihi Bir Mirası

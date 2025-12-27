@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9596119,41.0170135"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Vefa Camii: Fatih'in Gizli Çehresinde Bir Önemli Cami

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9842,41.0355"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Triada Kilisesi: İstanbul'un Gizli Cenneti

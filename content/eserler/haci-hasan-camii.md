@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.955023,41.020917"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hasan Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.529444444,38.755"
 draft: false
+
+weight: 10
 ---
 
 ## Afyonkarahisar Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirası

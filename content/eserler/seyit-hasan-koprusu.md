@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.826482154,37.611499462"
 draft: false
+
+weight: 100
 ---
 
 ## Seyit Hasan Köprüsü: Tarihi ve Kültürel Mirasın Örnekleri Arasındaki Bir Çanak

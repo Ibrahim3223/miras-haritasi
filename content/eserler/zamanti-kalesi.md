@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.222836,38.733147"
 draft: false
+
+weight: 100
 ---
 
 ## Zamantı Kalesi

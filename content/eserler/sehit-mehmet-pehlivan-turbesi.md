@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9705219,41.0324707"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Mehmet Pehlivan Türbesi

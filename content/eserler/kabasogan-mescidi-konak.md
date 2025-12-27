@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1404629,38.4216728"
 draft: false
+
+weight: 100
 ---
 
 ## Kabasoğan Mescidi: İzmir'in Gizli Cenneti

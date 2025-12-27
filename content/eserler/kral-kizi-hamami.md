@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.3763111,39.4948656"
 draft: false
+
+weight: 10
 ---
 
 ### Kral Kızı Hamamı

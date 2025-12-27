@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.9627,39.9458"
 draft: false
+
+weight: 100
 ---
 
 ### Hüseyin Gazi Türbesi

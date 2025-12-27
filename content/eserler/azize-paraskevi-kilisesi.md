@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9555244,40.6165314"
 draft: false
+
+weight: 100
 ---
 
 # Azize Paraskevi Kilisesi

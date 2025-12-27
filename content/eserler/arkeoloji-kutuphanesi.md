@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Arkeoloji Kütüphanesi: Türkiye'nin Kültür Mirasının Gizemi

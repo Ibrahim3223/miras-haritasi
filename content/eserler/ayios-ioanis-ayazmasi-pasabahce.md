@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0966892,41.1170197"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Ioanis Ayazması, Paşabahçe: Beykoz'un Gizli Çeşmesi

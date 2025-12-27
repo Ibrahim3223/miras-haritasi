@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.40077771,38.614753923"
 draft: false
+
+weight: 10
 ---
 
 ## Manisa Müzesi

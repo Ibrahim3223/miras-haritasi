@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9661541,41.0172043"
 draft: false
+
+weight: 100
 ---
 
 ## Hilye-i Şerif ve Tesbih Müzesi

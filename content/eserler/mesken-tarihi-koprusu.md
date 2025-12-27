@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2586422,37.4775734"
 draft: false
+
+weight: 100
 ---
 
 ### Mesken Tarihi Köprüsü

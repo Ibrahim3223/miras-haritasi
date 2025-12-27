@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.502318,37.863862"
 draft: false
+
+weight: 100
 ---
 
 ### Sarı Yakup Türbesi

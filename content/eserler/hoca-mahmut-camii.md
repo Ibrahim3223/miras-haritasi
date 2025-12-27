@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2238159,37.1797333"
 draft: false
+
+weight: 100
 ---
 
 ### Karaman'da Tarih ve Güzellik: Hoca Mahmut Camii

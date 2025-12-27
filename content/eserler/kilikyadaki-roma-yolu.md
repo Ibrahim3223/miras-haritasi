@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9,37.05"
 draft: false
+
+weight: 10
 ---
 
 ### Kilikya'daki Roma Yolu: Tarsus'un Gizli Mirası

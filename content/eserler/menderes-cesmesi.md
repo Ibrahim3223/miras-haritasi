@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.880997,41.039404"
 draft: false
+
+weight: 10
 ---
 
 ## Menderes Çeşmesi

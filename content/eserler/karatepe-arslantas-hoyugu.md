@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Karatepe-Arslantaş Höyüğü: Tarihî ve Kültürel Mirasın Ebedî Yansıması

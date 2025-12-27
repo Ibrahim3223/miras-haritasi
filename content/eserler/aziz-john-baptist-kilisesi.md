@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.432055555,37.941527777"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz John Baptist Kilisesi: Selçuk'un Tarihî Bir Mirası

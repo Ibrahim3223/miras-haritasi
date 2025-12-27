@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.9669704,38.2266426"
 draft: false
+
+weight: 100
 ---
 
 ### İbrahim Hakkı Ayvaz Kent Müzesi ve Bedia Akartürk Sanat Müzesi

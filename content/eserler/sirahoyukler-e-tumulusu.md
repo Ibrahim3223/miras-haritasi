@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7890091,41.8321762"
 draft: false
+
+weight: 100
 ---
 
 ### Sırahöyükler E Tümülüsü: Lalapaşa'nın Gizli Mirası

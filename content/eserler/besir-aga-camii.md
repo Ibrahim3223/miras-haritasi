@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.982325,41.011845"
 draft: false
+
+weight: 10
 ---
 
 ## Beşir Ağa Camii

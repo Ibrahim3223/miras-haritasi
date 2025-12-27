@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.069792,40.966016"
 draft: false
+
+weight: 100
 ---
 
 ### Galip Paşa Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3034879,39.1736541"
 draft: false
+
+weight: 100
 ---
 
 ## Dalakçı Höyük: Mucur'un Gizli Mirası

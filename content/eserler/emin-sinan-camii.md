@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.969474,41.006662"
 draft: false
+
+weight: 100
 ---
 
 ## Emin Sinan Camii: Fatih'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Osmanlı Bankası Arşiv ve Araştırma Merkezi

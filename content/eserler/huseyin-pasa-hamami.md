@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.3843994,37.0610123"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyin Paşa Hamamı: Gaziantep'in Tarihi ve Kültür Mirası

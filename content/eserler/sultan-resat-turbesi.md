@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9358,41.0479"
 draft: false
+
+weight: 10
 ---
 
 ### Sultan Reşat Türbesi

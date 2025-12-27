@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.48479,38.40785"
 draft: false
+
+weight: 10
 ---
 
 ## Clandras Köprüsü

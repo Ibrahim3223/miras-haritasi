@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.2917213,40.5072441"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Paşa Camii, Geyve

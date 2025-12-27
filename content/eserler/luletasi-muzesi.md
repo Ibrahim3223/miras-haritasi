@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.52472222,39.76277778"
 draft: false
+
+weight: 100
 ---
 
 ### Lületaşı Müzesi

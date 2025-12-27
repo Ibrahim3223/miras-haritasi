@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.649583,37.961027"
 draft: false
+
+weight: 100
 ---
 
 **Briula: Aydın'ın Gizli Şehri**

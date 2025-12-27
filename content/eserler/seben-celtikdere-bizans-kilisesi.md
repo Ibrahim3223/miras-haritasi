@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "31.6917774,40.3471901"
 draft: false
+
+weight: 100
 ---
 
 ## Seben Çeltikdere Bizans Kilisesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.57,36.745278"
 draft: false
+
+weight: 100
 ---
 
 ## Beldibi Mağarası: Antalya'nın Gizli Çanak Çömleği

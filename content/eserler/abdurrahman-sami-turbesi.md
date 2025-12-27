@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.979186,41.006797"
 draft: false
+
+weight: 100
 ---
 
 ## Abdurrahman Şami Türbesi

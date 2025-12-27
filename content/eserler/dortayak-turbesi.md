@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.675721,37.973441"
 draft: false
+
+weight: 100
 ---
 
 ### Dörtayak Türbesi: Niğde'nin Gizli Öztürkleri

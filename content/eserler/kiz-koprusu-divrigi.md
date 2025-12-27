@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.113357,39.4009704"
 draft: false
+
+weight: 10
 ---
 
 **Kız Köprüsü, Divriği**

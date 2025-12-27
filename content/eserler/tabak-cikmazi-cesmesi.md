@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18257222,39.12270833"
 draft: false
+
+weight: 10
 ---
 
 ## Tabak Çıkmazı Çeşmesi

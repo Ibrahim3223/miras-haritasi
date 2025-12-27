@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.974358,41.004037"
 draft: false
+
+weight: 10
 ---
 
 ### Rüstem Paşa Çeşmesi, Nakilbent Sokak: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.97055,41.00872"
 draft: false
+
+weight: 10
 ---
 
 # Gazi Atik Ali Paşa Camii: İstanbul'un Gizli Cenneti

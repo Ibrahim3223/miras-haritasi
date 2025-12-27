@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "32.856388888,39.99975"
 draft: false
+
+weight: 100
 ---
 
 ### Keçiören Saat Kulesi

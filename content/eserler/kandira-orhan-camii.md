@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1477089,41.0705338"
 draft: false
+
+weight: 100
 ---
 
 ## Kandıra Orhan Camii: Kocaeli'nin Büyüleyici Camii

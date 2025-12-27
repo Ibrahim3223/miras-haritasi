@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4893456,38.7177849"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Sultan Türbesi, Kayseri

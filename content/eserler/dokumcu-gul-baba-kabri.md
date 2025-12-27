@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.926525,41.046838"
 draft: false
+
+weight: 100
 ---
 
 # Dökümcü Gül Baba Kabri

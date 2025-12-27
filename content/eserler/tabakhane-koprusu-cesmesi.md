@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.861393,39.9433403"
 draft: false
+
+weight: 100
 ---
 
 ## Tabakhane Köprüsü Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası

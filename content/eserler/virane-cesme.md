@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.461520719,37.851265634"
 draft: false
+
+weight: 100
 ---
 
 ## Virane Çeşme: Konya'nın Tarihi ve Kültürel Mirasının Bir Örneği

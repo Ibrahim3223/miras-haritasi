@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9283028,41.0037346"
 draft: false
+
+weight: 100
 ---
 
 ## Rıfat Paşa Sebili: İstanbul'un Gizli Çeşmesi

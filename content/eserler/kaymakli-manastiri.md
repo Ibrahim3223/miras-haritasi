@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "39.744833333,40.981944444"
 draft: false
+
+weight: 10
 ---
 
 ## Kaymaklı Manastırı: Trabzon'un Gizli Çarı

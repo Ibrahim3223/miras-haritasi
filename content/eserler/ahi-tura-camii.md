@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8581886,39.9431"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Evran Camii (Ahi Tura Camii)

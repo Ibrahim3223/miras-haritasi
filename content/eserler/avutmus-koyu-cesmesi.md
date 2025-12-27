@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.4595184,40.3054848"
 draft: false
+
+weight: 100
 ---
 
 ### Avutmuş Köyü Çeşmesi

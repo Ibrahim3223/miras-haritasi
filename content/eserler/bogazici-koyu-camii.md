@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.960927453,41.058524241"
 draft: false
+
+weight: 100
 ---
 
 **Boğaziçi Köyü Camii: Rize'nin Kültürel Mirası**

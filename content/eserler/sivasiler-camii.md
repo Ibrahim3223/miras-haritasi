@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0648613,40.1787415"
 draft: false
+
+weight: 100
 ---
 
 ## Sivasiler Camii: Bursa'nın Tarihi bir Mirası

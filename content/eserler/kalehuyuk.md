@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.145633,40.051483"
 draft: false
+
+weight: 100
 ---
 
 ### Kalehüyük: Sakarya'nın Gizli Cenneti

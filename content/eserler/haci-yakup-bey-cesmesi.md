@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.4242744,40.2840385"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Yakup Bey Çeşmesi: Şebinkarahisar'daki Değerli Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.1705,36.342806"
 draft: false
+
+weight: 10
 ---
 
 ## Limyra: Antik Kentin Efsanesi

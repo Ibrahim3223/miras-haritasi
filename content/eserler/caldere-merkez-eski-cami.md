@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9967003,40.8005981"
 draft: false
+
+weight: 100
 ---
 
 ## Çaldere Merkez Eski Cami

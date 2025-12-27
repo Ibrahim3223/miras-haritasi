@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.1477089,42.0261765"
 draft: false
+
+weight: 100
 ---
 
 ### Alaaddin Hamamı

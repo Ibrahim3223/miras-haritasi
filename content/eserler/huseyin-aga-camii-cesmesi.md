@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.980416,41.035224"
 draft: false
+
+weight: 10
 ---
 
 ### Hüseyin Ağa Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.874555555,38.368083333"
 draft: false
+
+weight: 10
 ---
 
 ## Üç Fidan Anıtı

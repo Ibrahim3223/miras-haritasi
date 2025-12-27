@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9796,41.0138"
 draft: false
+
+weight: 10
 ---
 
 ### İstanbul İslam, Bilim ve Teknoloji Müzesi

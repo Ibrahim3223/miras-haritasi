@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.4983788,39.2599945"
 draft: false
+
+weight: 100
 ---
 
 ## Ermeni Kilisesi: Kemaliye'nin Gizli Çağı

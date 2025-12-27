@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.92138889,36.37555556"
 draft: false
+
+weight: 10
 ---
 
 ### Tekir Ambarı: Mersin'in Gizli Mücevheri

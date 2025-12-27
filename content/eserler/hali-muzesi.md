@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.981096,41.008583"
 draft: false
+
+weight: 100
 ---
 
 ## Halı Müzesi: İnsanların Görsel İlimi

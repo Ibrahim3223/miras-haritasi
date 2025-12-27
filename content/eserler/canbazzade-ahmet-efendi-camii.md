@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.109211,40.6249695"
 draft: false
+
+weight: 100
 ---
 
 ## Canbazzade Ahmet Efendi Camii

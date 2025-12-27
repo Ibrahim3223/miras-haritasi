@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.365833333,37.952222222"
 draft: false
+
+weight: 10
 ---
 
 ## İsa Bey Camii: İzmir'in Tarihi Bir Mirası

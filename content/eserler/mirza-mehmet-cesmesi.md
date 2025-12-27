@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2771072,39.9086838"
 draft: false
+
+weight: 100
 ---
 
 ## Mirza Mehmet Çeşmesi: Yakutiye'nin Gizli Çeşmesi

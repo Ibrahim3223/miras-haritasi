@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.986798976,41.048299372"
 draft: false
+
+weight: 100
 ---
 
 ## Artigiana Şapeli

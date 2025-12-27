@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946356082,41.006244505"
 draft: false
+
+weight: 100
 ---
 
 **Şahu Geda Camii**

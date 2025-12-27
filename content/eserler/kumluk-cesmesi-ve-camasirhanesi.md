@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.7483063,38.3224983"
 draft: false
+
+weight: 100
 ---
 
 ## Kumluk Çeşmesi ve Çamaşırhanesi

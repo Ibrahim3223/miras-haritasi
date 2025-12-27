@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.013425,39.743974"
 draft: false
+
+weight: 100
 ---
 
 ## Sivas Kalesi

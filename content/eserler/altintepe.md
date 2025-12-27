@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.646625,39.69654167"
 draft: false
+
+weight: 10
 ---
 
 ### Altıntepe: Erzincan'ın Gizli Tarihçesi

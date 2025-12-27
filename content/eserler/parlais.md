@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.783333,38.016667"
 draft: false
+
+weight: 100
 ---
 
 ## Parlais Arkeolojik Sit: Isparta'nın Gizli Çarpıntısı

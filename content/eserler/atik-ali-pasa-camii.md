@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.941674,41.024969"
 draft: false
+
+weight: 10
 ---
 
 ## Atik Ali Paşa Camii: Karagümrük'te Bir Geçmişin İzleri

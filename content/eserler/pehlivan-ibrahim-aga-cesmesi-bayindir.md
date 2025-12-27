@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6079998,38.2206993"
 draft: false
+
+weight: 100
 ---
 
 ## Pehlivan İbrahim Ağa Çeşmesi, Bayındır

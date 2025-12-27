@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.203548,37.175908"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Ali Sultan Türbesi

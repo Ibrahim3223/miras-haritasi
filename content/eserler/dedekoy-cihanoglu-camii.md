@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6623516,37.7619438"
 draft: false
+
+weight: 100
 ---
 
 ## Dedeköy Cihanoğlu Camii

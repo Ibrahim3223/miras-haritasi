@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.6357651,37.5279465"
 draft: false
+
+weight: 100
 ---
 
 ### Çörlenasar Kalesi

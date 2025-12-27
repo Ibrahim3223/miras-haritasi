@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9326649,41.0482178"
 draft: false
+
+weight: 100
 ---
 
 ## Hüsrev Paşa Çeşmesi: Eyüpsultan'da Bir Geç Klasik Çeşme

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.011642,41.024368"
 draft: false
+
+weight: 10
 ---
 
 ## İsmail Ağa Çeşmesi, Üsküdar

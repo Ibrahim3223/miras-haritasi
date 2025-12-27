@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.951555555,41.016"
 draft: false
+
+weight: 10
 ---
 
 # Dülgerzade Camii

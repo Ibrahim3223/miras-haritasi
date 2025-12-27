@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9739666,41.0082893"
 draft: false
+
+weight: 100
 ---
 
 ### Darüssaade Ağası Mehmet Ağa Sebili

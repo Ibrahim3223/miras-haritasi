@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7772503,41.1808586"
 draft: false
+
+weight: 100
 ---
 
 ## Sokullu Mehmet Paşa Köprüsü: Ergene Nehrinin Tarihî Köprüsü

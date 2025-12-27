@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.42863,37.03244"
 draft: false
+
+weight: 100
 ---
 
 ## Bodrum Sualtı Arkeoloji Müze Müdürlüğü

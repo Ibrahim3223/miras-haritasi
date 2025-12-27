@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.964827,41.07121"
 draft: false
+
+weight: 10
 ---
 
 **III. Ahmet Çeşmesi, Kağıthane**

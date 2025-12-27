@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.183333,39.116667"
 draft: false
+
+weight: 10
 ---
 
 **Pergamon: Antik Dünya'nın Gizemi**

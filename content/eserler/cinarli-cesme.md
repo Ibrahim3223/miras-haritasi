@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.7940617,40.3924828"
 draft: false
+
+weight: 100
 ---
 
 ## Çınarlı Çeşme: Mudanya'nın Tarihi Bir Mirası

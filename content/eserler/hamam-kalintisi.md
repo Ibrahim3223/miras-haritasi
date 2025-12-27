@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9606762,41.0072479"
 draft: false
+
+weight: 100
 ---
 
 ## Hamam Kalıntısı: Fatih, İstanbul'un Gizli Bir Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3806534,38.3947067"
 draft: false
+
+weight: 100
 ---
 
 # Bekar Sultan Batı Höyüğü

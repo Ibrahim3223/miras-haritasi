@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0553703,41.1048927"
 draft: false
+
+weight: 100
 ---
 
 ## Halk Çeşmesi, Emirgan: İstanbul'un Gizli Çeşmesi

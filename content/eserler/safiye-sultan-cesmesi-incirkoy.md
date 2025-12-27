@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.099012,41.11706"
 draft: false
+
+weight: 10
 ---
 
 ## Safiye Sultan Çeşmesi, İncirköy

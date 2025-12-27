@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4417038,41.7865601"
 draft: false
+
+weight: 100
 ---
 
 ## Üsküp Şipka Tepe 1 Tümülüsü: Kırklareli'nin Gizli Mirası

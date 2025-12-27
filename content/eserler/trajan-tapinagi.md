@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.18322222,39.133"
 draft: false
+
+weight: 10
 ---
 
 ## Trajan Tapınağı

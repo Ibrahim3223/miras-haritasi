@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "31.718195,37.6834679"
 draft: false
+
+weight: 10
 ---
 
 ## İsmail Ağa Medresesi

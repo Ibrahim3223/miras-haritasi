@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.2439995,41.0736237"
 draft: false
+
+weight: 100
 ---
 
 # Danışman Dede Kabri: Silivri'nin Gizli Anıtı

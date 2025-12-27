@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.2702389,40.9047852"
 draft: false
+
+weight: 100
 ---
 
 ### Pir Keskin Veli Sultan Türbesi

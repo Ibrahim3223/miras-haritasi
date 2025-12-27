@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.6339086,39.2702423"
 draft: false
+
+weight: 100
 ---
 
 ## Akpınar Höyük: Tarih ve Kültür Mirasının Kapısı

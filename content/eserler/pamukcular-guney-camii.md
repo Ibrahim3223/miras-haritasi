@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.835035,40.787996"
 draft: false
+
+weight: 100
 ---
 
 **Pamukçular Güney Camii: Artvin'in Gizli Çeşmesi**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0567627,41.0870628"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Kemalettin Camii: Rumelihisarı'nın Gizli Cenneti

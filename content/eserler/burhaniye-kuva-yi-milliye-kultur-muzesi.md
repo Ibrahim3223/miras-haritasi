@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.981111111,39.503611111"
 draft: false
+
+weight: 10
 ---
 
 ### Burhaniye Kuva-yı Milliye Kültür Müzesi

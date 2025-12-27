@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.066833333,40.182611111"
 draft: false
+
+weight: 10
 ---
 
 ## Bursa Atatürk Anıtı

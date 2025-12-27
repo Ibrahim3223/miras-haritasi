@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.605145,38.164764"
 draft: false
+
+weight: 100
 ---
 
 ## Çayhan Köprüsü: Tarihi ve Kültürel Mirası Tanıtımı

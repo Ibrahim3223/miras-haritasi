@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.764722222,41.576888888"
 draft: false
+
+weight: 10
 ---
 
 ### Ferhat Bey Çeşmesi

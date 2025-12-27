@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.48968786,38.360053424"
 draft: false
+
+weight: 100
 ---
 
 ### İniler Camii Tanıtımı

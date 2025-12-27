@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9745502,39.4234352"
 draft: false
+
+weight: 100
 ---
 
 ### Kütahya'nın Tarihsel Mirası: Alaaddin Mescidi Çeşmesi

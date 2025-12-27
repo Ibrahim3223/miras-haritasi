@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.5353,40.945333"
 draft: false
+
+weight: 100
 ---
 
 ## Muradiye Kömürcüler Köprüsü

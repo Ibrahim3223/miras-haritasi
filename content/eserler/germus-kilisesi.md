@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.85096,37.20152"
 draft: false
+
+weight: 10
 ---
 
 ### Germuş Kilisesi

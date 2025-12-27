@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.7397728,39.0016327"
 draft: false
+
+weight: 100
 ---
 
 ### Saint Stefanos Kilisesi: Van'ın Eski Kentinde Gizli Bir Cennet

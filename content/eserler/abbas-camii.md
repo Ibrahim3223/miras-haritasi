@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8262787,38.0453186"
 draft: false
+
+weight: 100
 ---
 
 ### Abbas Camii: Buldan'ın Tarihi ve Kültürel Mirası

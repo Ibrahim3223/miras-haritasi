@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.00555556,41.04166667"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Deniz Müzesi

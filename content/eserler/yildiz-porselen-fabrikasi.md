@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.01852778,41.04805556"
 draft: false
+
+weight: 10
 ---
 
 ### Yıldız Porselen Fabrikası: İstanbul'un Şık ve Gizli Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.0896225,40.6122246"
 draft: false
+
+weight: 100
 ---
 
 ### Vaizoğlu Camii: Kars'ın Tarihi Bir Anıtı

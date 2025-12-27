@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9455395,38.5566254"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 67: Manisa'nın Gizli Göllerinin Efsanesi

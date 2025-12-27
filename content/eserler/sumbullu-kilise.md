@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.3029988,38.2541495"
 draft: false
+
+weight: 10
 ---
 
 ## Sümbüllü Kilise: Tarihi ve Mimarisi

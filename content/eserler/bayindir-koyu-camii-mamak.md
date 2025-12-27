@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.02141152,39.894718319"
 draft: false
+
+weight: 100
 ---
 
 # Bayındır Köyü Camii, Mamak

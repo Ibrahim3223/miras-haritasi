@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.9480972,36.2265129"
 draft: false
+
+weight: 100
 ---
 
 ## Andriake D Kilisesi

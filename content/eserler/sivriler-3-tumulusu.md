@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9351616,41.815094"
 draft: false
+
+weight: 100
 ---
 
 ## Sivriler 3 Tümülüsü

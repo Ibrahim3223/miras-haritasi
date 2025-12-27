@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.962467,41.012669"
 draft: false
+
+weight: 100
 ---
 
 ## Kaptan İbrahim Paşa Sebili

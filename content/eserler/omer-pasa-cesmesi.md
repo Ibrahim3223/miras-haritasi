@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2705994,39.9020004"
 draft: false
+
+weight: 100
 ---
 
 ### Ömer Paşa Çeşmesi: Yakutiye'nin Tarihi Bir Çeşmesi

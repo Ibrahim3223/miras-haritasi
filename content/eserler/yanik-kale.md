@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.1947899,37.4451447"
 draft: false
+
+weight: 100
 ---
 
 ## Yanık Kale: Adana'nın Gizli Çarpıcılığı

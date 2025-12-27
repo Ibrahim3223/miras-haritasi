@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.938332,41.035931"
 draft: false
+
+weight: 100
 ---
 
 ## Cemâleddin Uşşâkî Türbesi: Eyüpsultan'ın Gizli Cenneti

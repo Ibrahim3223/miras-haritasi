@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.792016921,40.405632253"
 draft: false
+
+weight: 100
 ---
 
 ## Palata Çeşmesi: Erdek'in Tarihi Bir Çeşmesi

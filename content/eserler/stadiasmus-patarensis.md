@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.315733,36.2639275"
 draft: false
+
+weight: 10
 ---
 
 **Stadiasmus Patarensis: Kaş'ın Tarihi ve Kültürel Mirası**

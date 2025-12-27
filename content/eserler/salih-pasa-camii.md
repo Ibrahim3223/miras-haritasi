@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.958666666,41.02275"
 draft: false
+
+weight: 10
 ---
 
 ## Salih Paşa Camii: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.041805505,39.208493745"
 draft: false
+
+weight: 100
 ---
 
 # Bozhöyük Arkeolojik Sit

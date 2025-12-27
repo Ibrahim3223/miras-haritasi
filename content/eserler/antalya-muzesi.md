@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.6797,36.8856"
 draft: false
+
+weight: 10
 ---
 
 ### Antalya Müzesi: Antik Çağ'ın Mirası

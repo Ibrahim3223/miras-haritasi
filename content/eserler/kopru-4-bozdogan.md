@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3097115,37.6744804"
 draft: false
+
+weight: 100
 ---
 
 ## Köprü 4, Bozdoğan: Aydın'ın Etkileyici Tarihi Mirası

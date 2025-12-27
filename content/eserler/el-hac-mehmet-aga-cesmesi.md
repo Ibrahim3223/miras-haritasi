@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020148953,41.019929449"
 draft: false
+
+weight: 10
 ---
 
 ### El Hac Mehmet Ağa Çeşmesi

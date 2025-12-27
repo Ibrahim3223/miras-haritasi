@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.081,40.181111"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Sultan Camii: Bursa'nın Tarihi Bir Camisi

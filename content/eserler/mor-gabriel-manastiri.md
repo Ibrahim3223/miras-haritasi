@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.5385,37.321777777"
 draft: false
+
+weight: 10
 ---
 
 ## Mor Gabriel Manastırı: Doğu Anadolu'nun En Eski ve Önemli Manastırı

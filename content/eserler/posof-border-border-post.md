@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "42.8184843,41.587715597"
 draft: false
+
+weight: 100
 ---
 
 ## Posof Sınır Kapısı: Tarihi ve Kültürel Mirasımız

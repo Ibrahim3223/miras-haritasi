@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.953359,41.288686"
 draft: false
+
+weight: 100
 ---
 
 ### Ahalşeni Kilisesi

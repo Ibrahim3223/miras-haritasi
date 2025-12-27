@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Limes Orientalis: Roma İmparatorluğu'nun Doğu Sınır Hatı

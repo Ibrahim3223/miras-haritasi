@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.164669,38.3149757"
 draft: false
+
+weight: 100
 ---
 
 ## Gözbaba Tümülüsü: Malatya'nın Gizemi

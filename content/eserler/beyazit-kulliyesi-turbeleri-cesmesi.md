@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.965759,41.0097889"
 draft: false
+
+weight: 100
 ---
 
 ### Beyazıt Külliyesi Türbeleri Çeşmesi

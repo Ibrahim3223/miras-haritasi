@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.06068333,41.08722222"
 draft: false
+
+weight: 100
 ---
 
 ### Boğaziçi Yüzer Köprüsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.701904799,40.487581705"
 draft: false
+
+weight: 10
 ---
 
 ## Dikilitaş

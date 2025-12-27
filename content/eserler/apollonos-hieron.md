@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.83055556,38.045"
 draft: false
+
+weight: 100
 ---
 
 ## Apollonos Hieron: Kıbrıs'ın Tarihi ve Kültürel Mirası

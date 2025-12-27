@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.2344227,37.8710098"
 draft: false
+
+weight: 100
 ---
 
 ## Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi

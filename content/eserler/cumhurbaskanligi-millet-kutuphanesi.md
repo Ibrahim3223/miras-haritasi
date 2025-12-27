@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.800833333,39.924444444"
 draft: false
+
+weight: 10
 ---
 
 ## Cumhurbaşkanlığı Millet Kütüphanesi

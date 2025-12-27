@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0601277,39.2215817"
 draft: false
+
+weight: 100
 ---
 
 ## Tataroğlu Höyüğü: Tarih ve Kültür Mirasının Gizli Harikası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.958004453,40.984318466"
 draft: false
+
+weight: 100
 ---
 
 ### Mollaveyis (Ülkü) Köyü Camii

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.160222,40.488679"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldız Köyü Köprüsü 2: Gümüşhane'nin Tarihi Bir Mihenk Taşı

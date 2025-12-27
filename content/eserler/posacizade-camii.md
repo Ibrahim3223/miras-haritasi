@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0076008,37.7937012"
 draft: false
+
+weight: 100
 ---
 
 ## Posacızade Camii: Aydın'ın Tarihi Bir Öncü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0013504,41.4230957"
 draft: false
+
+weight: 100
 ---
 
 ## Minnetler Aşağı Tümülüs: Kırklareli'nin Gizli Cenneti

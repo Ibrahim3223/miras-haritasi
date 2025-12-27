@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.055594,41.063847"
 draft: false
+
+weight: 100
 ---
 
 ## Vaniköy Çeşmesi (Eski)

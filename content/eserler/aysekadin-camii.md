@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5635967,41.6713181"
 draft: false
+
+weight: 10
 ---
 
 # Ayşekadın Camii: Edirne'nin Gizli Çehresinde Bir Ölümsüz

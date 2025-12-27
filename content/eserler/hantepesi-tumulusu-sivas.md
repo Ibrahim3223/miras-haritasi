@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8606186,39.9932518"
 draft: false
+
+weight: 100
 ---
 
 # Hantepesi Tümülüsü

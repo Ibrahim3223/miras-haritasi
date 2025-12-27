@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.2170968,37.18253"
 draft: false
+
+weight: 100
 ---
 
 ## Canbaz Gazi Abdurrahman Efendi Türbesi Karaman

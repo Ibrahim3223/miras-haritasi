@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.018851,41.023929"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Süleyman Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.786529,40.3991583"
 draft: false
+
+weight: 100
 ---
 
 # Gazi Süleyman Paşa Hamamı

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.87666667,39.93444444"
 draft: false
+
+weight: 100
 ---
 
 ## Muhsin Ertuğrul Sahnesi: Türkiye'nin Tarihi ve Kültürel Mirası

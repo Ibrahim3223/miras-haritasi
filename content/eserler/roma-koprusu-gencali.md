@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.433662,36.704121"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Gençali

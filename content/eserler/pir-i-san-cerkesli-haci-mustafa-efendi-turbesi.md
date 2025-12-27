@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8942108,40.813942"
 draft: false
+
+weight: 100
 ---
 
 ## Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi

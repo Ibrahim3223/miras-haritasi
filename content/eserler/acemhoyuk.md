@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.83548333,38.41158889"
 draft: false
+
+weight: 10
 ---
 
 ## Acemhöyük: Türkiye'nin Gizemi

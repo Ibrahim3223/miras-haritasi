@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.025878074,41.12659919"
 draft: false
+
+weight: 100
 ---
 
 ### Darüşşafaka Müzesi: Türk Eğitim Tarihi'nin Gizemli Yerleri

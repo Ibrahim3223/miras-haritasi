@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6929016,41.2423439"
 draft: false
+
+weight: 10
 ---
 
 ### Kasap Ali Sokak Çeşmesi: Safranbolu'nun Tarihi Çeşmesi

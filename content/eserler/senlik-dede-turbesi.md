@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9990463,41.0447159"
 draft: false
+
+weight: 100
 ---
 
 ## Şenlik Dede Türbesi

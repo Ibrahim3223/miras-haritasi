@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1775894,39.1207314"
 draft: false
+
+weight: 10
 ---
 
 **Çeşme – Atmaca, İncirli Mescit Caddesi**

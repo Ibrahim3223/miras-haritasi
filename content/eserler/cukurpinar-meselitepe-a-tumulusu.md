@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4703255,41.8402176"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurpınar Meşelitepe A Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.7831232,41.0070695"
 draft: false
+
+weight: 100
 ---
 
 # Buzlupınar Köprüsü

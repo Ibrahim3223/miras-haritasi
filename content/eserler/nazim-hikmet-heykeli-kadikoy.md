@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0647526,40.9675789"
 draft: false
+
+weight: 10
 ---
 
 ## Nazım Hikmet Heykeli, Kadıköy

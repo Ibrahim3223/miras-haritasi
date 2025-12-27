@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.441111,36.273333"
 draft: false
+
+weight: 10
 ---
 
 ### Meydancık Kalesi: Mersin'in Gizli Kahramanı

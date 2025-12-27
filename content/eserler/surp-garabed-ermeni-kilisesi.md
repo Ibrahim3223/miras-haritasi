@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.3383331,39.7532616"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Garabed Ermeni Kilisesi

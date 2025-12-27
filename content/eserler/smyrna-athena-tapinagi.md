@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.169833333,38.4645"
 draft: false
+
+weight: 100
 ---
 
 ### Smyrna Athena Tapınağı

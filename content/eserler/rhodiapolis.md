@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.26666667,36.38333333"
 draft: false
+
+weight: 10
 ---
 
 ### Rhodiapolis: Antik Çağın Gizemi

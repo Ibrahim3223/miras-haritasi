@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.859379315,39.933144948"
 draft: false
+
+weight: 100
 ---
 
 **Anonim Çeşme-15: Ankara'nın Eski Eserleri Arasındaki Bir Örgün**

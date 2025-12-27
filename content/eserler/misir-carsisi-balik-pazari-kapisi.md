@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.971175,41.017168"
 draft: false
+
+weight: 10
 ---
 
 # Mısır Çarşısı Balık Pazarı Kapısı

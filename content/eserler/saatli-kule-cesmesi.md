@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3656807,37.2178459"
 draft: false
+
+weight: 100
 ---
 
 ## Saatli Kule Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi

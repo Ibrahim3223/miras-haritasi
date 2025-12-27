@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.785,38.177222222"
 draft: false
+
+weight: 10
 ---
 
 ## Dionysos Tapınağı (Teos)

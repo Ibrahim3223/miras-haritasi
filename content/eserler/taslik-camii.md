@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5642986,41.6756134"
 draft: false
+
+weight: 10
 ---
 
 ## Edirne'nin Taşlık Camii: Tarihsel ve Kültürel Bir Anıt

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934216,41.048809"
 draft: false
+
+weight: 100
 ---
 
 ## Hayrettin Paşa Çeşmesi

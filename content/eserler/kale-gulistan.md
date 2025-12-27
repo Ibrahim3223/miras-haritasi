@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.78336,40.846333"
 draft: false
+
+weight: 100
 ---
 
 ## Kale, Gülistan: Ardahan'ın Tarihi ve Kültürel Mirası

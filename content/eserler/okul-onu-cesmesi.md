@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9112434,38.6336479"
 draft: false
+
+weight: 100
 ---
 
 ### Okul Önü Çeşmesi: Ürgüp'te Bir Tarihî Çeşme

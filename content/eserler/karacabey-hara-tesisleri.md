@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3451995,40.0975686"
 draft: false
+
+weight: 100
 ---
 
 ## Karacabey Hara Tesisleri

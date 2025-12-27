@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.74777778,37.01444444"
 draft: false
+
+weight: 10
 ---
 
 ### Yılankale

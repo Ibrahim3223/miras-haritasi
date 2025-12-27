@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.9170437,40.7604713"
 draft: false
+
+weight: 100
 ---
 
 ## Hızır Reis Denizaltı Müzesi: İzmit'in Denizcilik Mirası

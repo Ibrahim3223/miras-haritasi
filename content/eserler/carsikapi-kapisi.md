@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.967428,41.009857"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşıkapı Kapısı: Fatih'te Bir İmza

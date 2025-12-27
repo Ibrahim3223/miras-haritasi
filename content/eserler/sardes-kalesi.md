@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.04462,38.47471"
 draft: false
+
+weight: 100
 ---
 
 ### Sardes Kalesi: Tarihî Bir Miras

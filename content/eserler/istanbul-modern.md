@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.982944,41.026"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Modern

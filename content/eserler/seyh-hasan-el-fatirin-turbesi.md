@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.010644181,37.949442722"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Hasan El Fatirin Türbesi

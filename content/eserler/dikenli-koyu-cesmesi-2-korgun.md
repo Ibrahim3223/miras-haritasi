@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.52580609,40.789839677"
 draft: false
+
+weight: 100
 ---
 
 ### Dikenli Köyü Çeşmesi 2, Korgun

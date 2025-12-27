@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.00947,41.0427475"
 draft: false
+
+weight: 100
 ---
 
 ## Ayia Paraskevi Ayazması, İstanbul'un Besiktaş İlçesinde

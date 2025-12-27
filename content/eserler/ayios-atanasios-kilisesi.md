@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.975132,41.045565"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Atanasios Kilisesi: Beyoğlu, İstanbul'un Gizli Çehresini İyice Keşfetmek

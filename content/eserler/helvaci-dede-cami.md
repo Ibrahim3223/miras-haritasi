@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.487446994,38.724586375"
 draft: false
+
+weight: 100
 ---
 
 ## Helvacı Dede Cami: Kayseri'nin Tarihi Bir Mirası

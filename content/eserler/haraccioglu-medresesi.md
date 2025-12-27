@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0572739,40.1837921"
 draft: false
+
+weight: 10
 ---
 
 ## Haraççıoğlu Medresesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9288197,41.0034599"
 draft: false
+
+weight: 10
 ---
 
 ## Safiye Sultan Türbesi

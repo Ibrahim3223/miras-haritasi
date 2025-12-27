@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.8469238,37.8127861"
 draft: false
+
+weight: 100
 ---
 
 ### Kırık Köprü: Tarihi ve Kültürel Bir Miras

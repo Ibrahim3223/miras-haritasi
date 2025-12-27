@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.163722222,36.19975"
 draft: false
+
+weight: 10
 ---
 
 ## Sarımiye Camii

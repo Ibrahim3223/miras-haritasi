@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.675412681,40.41346436"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme, Yazıcızade: Gelibolu'nun Tarihî Çeşmesi

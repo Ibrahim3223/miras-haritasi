@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4266167,38.6092491"
 draft: false
+
+weight: 100
 ---
 
 ### Ali Bey Camii Çeşmesi

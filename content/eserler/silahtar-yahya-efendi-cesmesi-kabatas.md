@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.993982,41.036045"
 draft: false
+
+weight: 10
 ---
 
 ## Silahtar Yahya Efendi Çeşmesi, Kabataş

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.967222222,38.073611111"
 draft: false
+
+weight: 10
 ---
 
 ### Lebedos Arkeolojik Sit

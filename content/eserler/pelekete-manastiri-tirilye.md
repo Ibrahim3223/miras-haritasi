@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.753327777,40.389436111"
 draft: false
+
+weight: 100
 ---
 
 ## Pelekete Manastırı (Tirilye)

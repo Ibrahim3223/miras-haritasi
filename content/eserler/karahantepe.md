@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.3027,37.0916"
 draft: false
+
+weight: 10
 ---
 
 ## Karahantepe: Tarihi ve Kültürel Mirasın Tamamlanmamış Kısmı

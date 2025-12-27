@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.417722,37.69928"
 draft: false
+
+weight: 100
 ---
 
 # Gavur Kalesi: Tarih ve Kültürel Miras

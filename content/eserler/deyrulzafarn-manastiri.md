@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "40.792611111,37.299388888"
 draft: false
+
+weight: 10
 ---
 
 ### Deyrulzafarân Manastırı

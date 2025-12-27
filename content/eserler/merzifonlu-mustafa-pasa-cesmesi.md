@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.914801,40.989225"
 draft: false
+
+weight: 10
 ---
 
 ### Merzifonlu Mustafa Paşa Çeşmesi

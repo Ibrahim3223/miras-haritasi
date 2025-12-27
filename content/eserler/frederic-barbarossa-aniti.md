@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.86,36.4"
 draft: false
+
+weight: 10
 ---
 
 ## Frederic Barbarossa Anıtı

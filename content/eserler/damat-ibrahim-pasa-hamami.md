@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.713887,38.622756"
 draft: false
+
+weight: 100
 ---
 
 ## Damat İbrahim Paşa Hamamı: Nevşehir'in Tarihi ve Kültürel Bir Mirası

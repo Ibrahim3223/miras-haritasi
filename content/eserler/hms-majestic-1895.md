@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.183888888,40.041666666"
 draft: false
+
+weight: 10
 ---
 
 ## HMS Majestic (1895)

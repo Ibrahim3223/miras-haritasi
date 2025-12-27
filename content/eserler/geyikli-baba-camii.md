@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.3711338,40.108345"
 draft: false
+
+weight: 10
 ---
 
 ## Geyikli Baba Camii

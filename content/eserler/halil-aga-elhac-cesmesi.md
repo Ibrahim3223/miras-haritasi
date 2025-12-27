@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.967155,41.016891"
 draft: false
+
+weight: 100
 ---
 
 ## Halil Ağa Elhac Çeşmesi

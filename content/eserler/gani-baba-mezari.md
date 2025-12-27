@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9811668,41.0040474"
 draft: false
+
+weight: 100
 ---
 
 ### Gani Baba Mezarı

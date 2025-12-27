@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1432419,38.4188614"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Sultan Zaviyesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.2748901,39.9089472"
 draft: false
+
+weight: 100
 ---
 
 ### Kırk Çeşme Hamamı: Erzurum'un Tarihsel Bir Mirası

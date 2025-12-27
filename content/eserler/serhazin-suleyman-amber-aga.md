@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.008527777,41.043666666"
 draft: false
+
+weight: 10
 ---
 
 ## Serhazin Süleyman Amber Ağa Camii: Beşiktaş'taki Gizli Cennet

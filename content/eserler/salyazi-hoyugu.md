@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.8164921,40.2517646"
 draft: false
+
+weight: 100
 ---
 
 ### Salyazı Höyüğü: Gümüşhane'de Geçmişin İzleri

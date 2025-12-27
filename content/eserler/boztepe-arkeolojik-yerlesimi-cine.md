@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0078201,37.7128563"
 draft: false
+
+weight: 100
 ---
 
 ## Boztepe Arkeolojik Yerleşimi: Aydın'ın Gizli Mirası

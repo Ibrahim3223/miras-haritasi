@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.50527778,39.77611111"
 draft: false
+
+weight: 100
 ---
 
 ## TÜRASAŞ Devrim Arabaları Müzesi

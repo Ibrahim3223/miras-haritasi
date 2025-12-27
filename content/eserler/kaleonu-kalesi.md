@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.4672928,41.0091019"
 draft: false
+
+weight: 100
 ---
 
 ### Kaleönü Kalesi

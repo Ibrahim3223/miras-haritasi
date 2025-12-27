@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0306873,37.7336578"
 draft: false
+
+weight: 100
 ---
 
 ### Kasar Köprüsü: Aydın'ın Tarihi Bir Mirası

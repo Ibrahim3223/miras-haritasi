@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## İTÜ Dr. Erol Üçer Müzik İleri Araştırmalar Merkezi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.6774979,38.8494797"
 draft: false
+
+weight: 100
 ---
 
 ## Peri Camii: Tunceli'nin Gizli Cenneti

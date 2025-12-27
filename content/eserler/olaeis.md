@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.333333333,37.083333333"
 draft: false
+
+weight: 100
 ---
 
 ## Olaeis: Antik Kentin Efsanesi

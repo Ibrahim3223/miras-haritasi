@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.196873034,40.054790007"
 draft: false
+
+weight: 100
 ---
 
 ## Seddülbahir Köprüsü

@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.988863888,41.029661111"
 draft: false
+
+weight: 10
 ---
 
 ### Çifte Saraylar: Beyoğlu'ndaki Tarihî Bir Ören

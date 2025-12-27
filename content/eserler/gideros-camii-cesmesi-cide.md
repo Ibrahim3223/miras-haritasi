@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.862193655,41.861137573"
 draft: false
+
+weight: 100
 ---
 
 # Gideros Camii Çeşmesi

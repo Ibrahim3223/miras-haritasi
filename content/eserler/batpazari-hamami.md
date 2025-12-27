@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0696468,40.1846962"
 draft: false
+
+weight: 10
 ---
 
 ## Batpazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

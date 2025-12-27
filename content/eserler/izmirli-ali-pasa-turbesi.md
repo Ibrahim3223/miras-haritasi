@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0120029,41.0192795"
 draft: false
+
+weight: 10
 ---
 
 ## İzmirli Ali Paşa Türbesi

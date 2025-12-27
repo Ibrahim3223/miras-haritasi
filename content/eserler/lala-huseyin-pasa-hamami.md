@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.9703159,39.4238434"
 draft: false
+
+weight: 10
 ---
 
 ## Lala Hüseyin Paşa Hamamı

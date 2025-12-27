@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.952633105,41.041863251"
 draft: false
+
+weight: 100
 ---
 
 ### Sinagog Kalıntısı: Beyoğlu'ndaki Tarihi Bir Miras

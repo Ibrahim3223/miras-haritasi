@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.060916,41.047316"
 draft: false
+
+weight: 100
 ---
 
 ## Bekardere Çeşmesi: Üsküdar'ın Gizli Çeşmesi

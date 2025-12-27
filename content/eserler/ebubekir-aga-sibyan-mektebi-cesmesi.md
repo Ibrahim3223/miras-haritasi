@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.950216,41.008934"
 draft: false
+
+weight: 100
 ---
 
 ## Ebubekir Ağa Sıbyan Mektebi Çeşmesi

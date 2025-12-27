@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.222753,41.736713"
 draft: false
+
+weight: 10
 ---
 
 ## Hızır Baba Türbesi, Kırklareli: Tarihî Bir Anıtın Gerçekleri

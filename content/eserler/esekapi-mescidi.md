@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.936759205,41.004819888"
 draft: false
+
+weight: 10
 ---
 
 ## Esekapı Mescidi: İstanbul'un Gizli Cenneti

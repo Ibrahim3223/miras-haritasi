@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.6515999,37.9047012"
 draft: false
+
+weight: 100
 ---
 
 ## Yarışova Tümülüsü

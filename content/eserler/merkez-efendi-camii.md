@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.92025,41.015833333"
 draft: false
+
+weight: 10
 ---
 
 ## Merkez Efendi Camii

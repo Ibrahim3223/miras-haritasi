@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9729353,41.0084095"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Mahmut Türbesi Sebili

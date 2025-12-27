@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.6363239,41.2360458"
 draft: false
+
+weight: 100
 ---
 
 ## Salarlı Büyükhöyük Tümülüsü

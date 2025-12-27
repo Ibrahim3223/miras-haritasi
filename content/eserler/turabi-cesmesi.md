@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0891819,36.5760384"
 draft: false
+
+weight: 100
 ---
 
 ### Turabi Çeşmesi

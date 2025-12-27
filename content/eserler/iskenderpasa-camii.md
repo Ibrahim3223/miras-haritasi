@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.94788,41.01667"
 draft: false
+
+weight: 10
 ---
 
 ## İskenderpaşa Camii

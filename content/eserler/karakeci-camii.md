@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.3232269,37.7512665"
 draft: false
+
+weight: 100
 ---
 
 ## Karakeçi Camii: Şanlıurfa'nın Tarihi Mirası

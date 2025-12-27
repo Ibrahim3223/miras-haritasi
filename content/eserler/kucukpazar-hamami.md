@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.962206,41.019872"
 draft: false
+
+weight: 100
 ---
 
 **Küçükpazar Hamamı**

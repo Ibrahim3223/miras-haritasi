@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2755203,39.9087257"
 draft: false
+
+weight: 100
 ---
 
 ## Kurşunlu Camii Çeşmesi

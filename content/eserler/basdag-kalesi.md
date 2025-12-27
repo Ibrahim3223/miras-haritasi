@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.1589966,37.3732872"
 draft: false
+
+weight: 100
 ---
 
 # Başdağ Kalesi

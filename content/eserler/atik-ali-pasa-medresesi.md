@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.969971,41.008389"
 draft: false
+
+weight: 10
 ---
 
 **Atik Ali Paşa Medresesi**

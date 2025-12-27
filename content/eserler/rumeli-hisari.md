@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.056111111,41.084722222"
 draft: false
+
+weight: 10
 ---
 
 ### Rumeli Hisarı: İstanbul'un Tarihi ve Kültürel Mirası

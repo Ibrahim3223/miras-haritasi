@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "32.687222222,39.924444444"
 draft: false
+
+weight: 100
 ---
 
 **Ay Yıldız Karargâhı: Etimesgut'ta Bir Tarih Öreni**

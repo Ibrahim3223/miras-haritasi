@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1459007,38.4202003"
 draft: false
+
+weight: 100
 ---
 
 ### Bayraktar Süleyman Ağa Mescidi: İzmir'in Tarihi ve Kültürel Mirası

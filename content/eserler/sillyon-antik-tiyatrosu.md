@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.987437,36.990319"
 draft: false
+
+weight: 10
 ---
 
 ## Sillyon Antik Tiyatrosu

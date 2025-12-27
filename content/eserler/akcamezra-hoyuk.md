@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.5771996,36.8087203"
 draft: false
+
+weight: 100
 ---
 
 ### Akçamezra Höyük: Gaziantep'in Gizli Kahramanı

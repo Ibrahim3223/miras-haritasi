@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.788616,38.09658"
 draft: false
+
+weight: 100
 ---
 
 # Dideiphyta: Eski Yunanistan'ın Gizli Harikası

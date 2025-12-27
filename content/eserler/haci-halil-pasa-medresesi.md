@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Halil Paşa Medresesi

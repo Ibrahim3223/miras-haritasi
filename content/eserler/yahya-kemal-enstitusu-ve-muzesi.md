@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9675694,41.008522"
 draft: false
+
+weight: 100
 ---
 
 ## Yahya Kemal Enstitüsü ve Müzesi

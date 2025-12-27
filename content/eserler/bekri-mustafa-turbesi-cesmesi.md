@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9688492,41.0188828"
 draft: false
+
+weight: 100
 ---
 
 ### Bekri Mustafa Türbesi Çeşmesi

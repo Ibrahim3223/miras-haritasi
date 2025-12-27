@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.050838,41.099551"
 draft: false
+
+weight: 100
 ---
 
 ## Fidalia Petra: Muzafferlik ve Güçün Göstergesi

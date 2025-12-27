@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0614796,38.2524033"
 draft: false
+
+weight: 100
 ---
 
 ## Güdük Minare Mescidi: Bir Ödemiş Mirası

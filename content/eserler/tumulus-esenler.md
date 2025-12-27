@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6511459,41.2102356"
 draft: false
+
+weight: 100
 ---
 
 ### Tümülüs, Esenler: Ergene, Tekirdağ'daki Gizemli Miras

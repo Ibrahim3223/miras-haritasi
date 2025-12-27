@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.619478,36.95778"
 draft: false
+
+weight: 10
 ---
 
 ## Misis

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.079694444,38.399805555"
 draft: false
+
+weight: 10
 ---
 
 ### Türk Denizcileri Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.014693,41.024581"
 draft: false
+
+weight: 10
 ---
 
 ### Gülnuş Emetullah Valide Sultan Çeşmesi

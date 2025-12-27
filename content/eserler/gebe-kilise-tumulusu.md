@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4467771,37.080557563"
 draft: false
+
+weight: 100
 ---
 
 ## Gebe Kilise Tümülüsü: Bodrum'un Gizli Anıtı

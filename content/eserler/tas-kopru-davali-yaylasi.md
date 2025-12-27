@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.1394577,40.791729"
 draft: false
+
+weight: 10
 ---
 
 ## Taş Köprü, Davalı Yaylası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.5397,37.8262"
 draft: false
+
+weight: 100
 ---
 
 ## Üçtepe Höyük: Diyarbakır'ın Eski Sivil Yerleşimi

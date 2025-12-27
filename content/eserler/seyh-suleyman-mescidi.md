@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9554,41.0192"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Süleyman Mescidi

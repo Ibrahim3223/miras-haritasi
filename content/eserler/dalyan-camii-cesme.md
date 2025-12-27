@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.3101101,38.3547325"
 draft: false
+
+weight: 100
 ---
 
 ## Dalyan Camii: Çeşme'nin Tarihi ve Kültürel Mirası

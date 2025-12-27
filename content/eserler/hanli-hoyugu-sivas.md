@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.6481323,39.4612007"
 draft: false
+
+weight: 100
 ---
 
 ## Hanlı Höyüğü, Sivas

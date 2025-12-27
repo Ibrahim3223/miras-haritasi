@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.853252777,39.938463888"
 draft: false
+
+weight: 100
 ---
 
 ### Oda Tiyatrosu: Ankara'nın Antik Tiyatro Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.377676,41.7162895"
 draft: false
+
+weight: 100
 ---
 
 ### Üsküp Varnadere Tümülüsü

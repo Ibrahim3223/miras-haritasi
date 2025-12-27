@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0527,41.10138"
 draft: false
+
+weight: 10
 ---
 
 ## Emirgân Rum Ortodoks Kilisesi

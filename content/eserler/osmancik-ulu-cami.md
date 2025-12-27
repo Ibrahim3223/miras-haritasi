@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.7981987,40.9725075"
 draft: false
+
+weight: 100
 ---
 
 ## Osmancık Ulu Cami: Tarihî Bir Mirasın Gizemi

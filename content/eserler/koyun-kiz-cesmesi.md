@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8701591,39.9342232"
 draft: false
+
+weight: 100
 ---
 
 ## Koyun Kız Çeşmesi: Hacettepe'de Bir Tarihî Çeşme

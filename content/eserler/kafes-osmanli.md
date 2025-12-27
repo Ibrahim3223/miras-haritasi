@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.9835491,41.0137863"
 draft: false
+
+weight: 10
 ---
 
 ## Kafes: Osmanlı Dönemi'nin Gizli Sarayı

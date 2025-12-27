@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8600578,39.9560242"
 draft: false
+
+weight: 100
 ---
 
 ## İsmet İnönü Heykeli, Ziraat

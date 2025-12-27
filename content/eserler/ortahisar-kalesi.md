@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.864329046,38.619935365"
 draft: false
+
+weight: 10
 ---
 
 ## Ortahisar Kalesi: Ürgüp'ün Tarihî Harikası

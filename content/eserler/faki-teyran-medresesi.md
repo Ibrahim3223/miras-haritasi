@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.0722427,37.4075356"
 draft: false
+
+weight: 10
 ---
 
 ### Faki Teyran Medresesi

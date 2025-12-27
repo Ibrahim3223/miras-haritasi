@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.3060112,38.3456535"
 draft: false
+
+weight: 100
 ---
 
 ## Tahtalı Minare Camii

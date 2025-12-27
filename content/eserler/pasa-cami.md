@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8414574,38.9226685"
 draft: false
+
+weight: 10
 ---
 
 ## Paşa Cami Tanıtımı

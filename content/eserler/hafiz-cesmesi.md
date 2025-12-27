@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2831345,39.9100266"
 draft: false
+
+weight: 100
 ---
 
 ## Hafız Çeşmesi

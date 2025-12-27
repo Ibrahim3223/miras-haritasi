@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3711433,37.1654205"
 draft: false
+
+weight: 100
 ---
 
 ### Apostol Kilisesi: Bodrum'un Kıbrıslı Ruhuna Sahip Gizemli Bir Kilise

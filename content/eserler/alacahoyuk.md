@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.695575,40.233895"
 draft: false
+
+weight: 10
 ---
 
 **Alacahöyük: Türkiye'nin En Eski Uygarlıklarından Birinin Yatmakta Olduğu Yer**

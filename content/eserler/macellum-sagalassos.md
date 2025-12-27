@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.518452535,37.676779349"
 draft: false
+
+weight: 100
 ---
 
 ## Macellum (Sagalassos)

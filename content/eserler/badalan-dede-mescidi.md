@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7691174,38.3246765"
 draft: false
+
+weight: 100
 ---
 
 ## Badalan Dede Mescidi: Urla'da Tarihi Bir Miras

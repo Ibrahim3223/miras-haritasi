@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.6210213,36.8248596"
 draft: false
+
+weight: 100
 ---
 
 ### Kaunos Manastır Kompleksi Nedir?

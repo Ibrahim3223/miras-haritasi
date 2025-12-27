@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.307669429,38.323345726"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Çeşme

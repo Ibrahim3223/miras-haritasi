@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0566273,41.1059227"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme 2, Sabancı Müzesi

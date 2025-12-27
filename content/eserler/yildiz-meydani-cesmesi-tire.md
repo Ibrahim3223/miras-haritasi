@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7353935,38.0876312"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldız Meydanı Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası

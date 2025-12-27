@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.2304592,39.5455971"
 draft: false
+
+weight: 100
 ---
 
 ## Tabaklar Köyü Camii: Ayvacık'ta Bir Tarihî Miras

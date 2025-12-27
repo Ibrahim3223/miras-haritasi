@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.7073,36.8842"
 draft: false
+
+weight: 100
 ---
 
 ## Kaleiçi Müzesi: Kıbrıs'ın Tarihsel ve Kültürel Mirası

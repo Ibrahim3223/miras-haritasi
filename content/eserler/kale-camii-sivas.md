@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.014392,39.748999"
 draft: false
+
+weight: 100
 ---
 
 ## Kale Camii, Sivas

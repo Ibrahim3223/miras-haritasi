@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.890049,40.3040886"
 draft: false
+
+weight: 100
 ---
 
 ## Zile Kalesi: Tokat'ın Tarihi ve Kültürel Mirası

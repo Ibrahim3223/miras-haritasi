@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1590919,39.917099"
 draft: false
+
+weight: 100
 ---
 
 ### Akhilleus Tümülüsü: Ezine'deki Antik Miras

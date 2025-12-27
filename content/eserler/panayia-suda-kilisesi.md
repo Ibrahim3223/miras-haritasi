@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.939964,41.036791"
 draft: false
+
+weight: 10
 ---
 
 ## Panayia Suda Kilisesi

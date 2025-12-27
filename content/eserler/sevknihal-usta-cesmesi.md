@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.211113,41.0060806"
 draft: false
+
+weight: 10
 ---
 
 ## Şevknihal Usta Çeşmesi

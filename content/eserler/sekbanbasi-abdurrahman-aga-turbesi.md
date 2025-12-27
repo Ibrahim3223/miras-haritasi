@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9564152,41.0278854"
 draft: false
+
+weight: 10
 ---
 
 ### Sekbanbaşı Abdurrahman Ağa Türbesi

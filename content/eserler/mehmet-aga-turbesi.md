@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9456329,41.0268745"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmet Ağa Türbesi

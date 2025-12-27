@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.1015339,40.8758202"
 draft: false
+
+weight: 100
 ---
 
 ### Bahriye Mektebi Camii

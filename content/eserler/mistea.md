@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.7261111,37.6763889"
 draft: false
+
+weight: 100
 ---
 
 ### Mistea Arkeolojik Sit

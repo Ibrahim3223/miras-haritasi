@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1937408,40.5652084"
 draft: false
+
+weight: 100
 ---
 
 ## Ağcaören Höyük: Çorum'un Gizli Mirası

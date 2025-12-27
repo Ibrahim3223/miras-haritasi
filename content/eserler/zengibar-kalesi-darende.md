@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.4915009,38.5720787"
 draft: false
+
+weight: 100
 ---
 
 ### Zengibar Kalesi, Darende

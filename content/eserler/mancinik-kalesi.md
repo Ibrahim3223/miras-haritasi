@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.05,36.51666667"
 draft: false
+
+weight: 10
 ---
 
 ## Mancınık Kalesi: Silifke'nin Tarihî Bir Anıtı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.965238719,41.008748936"
 draft: false
+
+weight: 10
 ---
 
 ## Dibekli Emin Bey Camii

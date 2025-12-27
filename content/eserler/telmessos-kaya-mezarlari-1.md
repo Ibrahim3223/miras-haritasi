@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1184025,36.61903"
 draft: false
+
+weight: 10
 ---
 
 ## Telmessos Kaya Mezarları 1: Tarihî Bir Mirasın Gizemi

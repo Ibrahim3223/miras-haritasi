@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0761719,41.7790146"
 draft: false
+
+weight: 100
 ---
 
 # Kayalı Köyü Tepeler Batı Tümülüsü

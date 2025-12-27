@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.420258059,37.063608581"
 draft: false
+
+weight: 100
 ---
 
 ### Pedesa T35 Tümülüsü

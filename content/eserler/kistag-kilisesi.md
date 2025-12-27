@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.3960648,38.4455528"
 draft: false
+
+weight: 100
 ---
 
 # Kistağ Kilisesi: Batman'ın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.975903,41.023006"
 draft: false
+
+weight: 100
 ---
 
 ### Bektaş Mehmet Efendi Mescidi

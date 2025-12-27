@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.716083333,41.003388888"
 draft: false
+
+weight: 10
 ---
 
 ## Gülbahar Hatun Camii: Trabzon'un Gizli Çanakkale'si

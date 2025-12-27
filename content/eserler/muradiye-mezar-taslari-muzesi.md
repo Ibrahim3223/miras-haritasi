@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.046402,40.1904831"
 draft: false
+
+weight: 10
 ---
 
 ### Muradiye Mezar Taşları Müzesi

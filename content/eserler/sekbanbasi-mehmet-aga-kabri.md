@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9545403,41.0127563"
 draft: false
+
+weight: 100
 ---
 
 **Sekbanbaşı Mehmet Ağa Kabri**

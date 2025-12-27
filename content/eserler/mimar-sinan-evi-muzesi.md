@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.7144012,38.8156128"
 draft: false
+
+weight: 100
 ---
 
 ## Mimar Sinan Evi Müzesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.933694444,38.933805555"
 draft: false
+
+weight: 10
 ---
 
 ## Çandarlı Kalesi: Dikili'nin Tarihi Öreni

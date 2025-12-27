@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9868298,41.0092163"
 draft: false
+
+weight: 100
 ---
 
 ## Marmara Surları: Mangana Sarayı Limanı Kapısı

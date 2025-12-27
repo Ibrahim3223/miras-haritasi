@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.071455,41.018607"
 draft: false
+
+weight: 10
 ---
 
 ## Bulgurlu Mescidi

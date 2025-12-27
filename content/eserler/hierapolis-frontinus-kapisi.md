@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1220093,37.9317436"
 draft: false
+
+weight: 100
 ---
 
 ### Hierapolis Frontinus Kapısı

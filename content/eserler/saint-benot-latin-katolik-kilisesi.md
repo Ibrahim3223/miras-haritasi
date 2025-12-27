@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9766,41.025"
 draft: false
+
+weight: 10
 ---
 
 ## Saint Benoît Latin Katolik Kilisesi

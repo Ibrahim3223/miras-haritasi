@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.3797226,39.8208313"
 draft: false
+
+weight: 100
 ---
 
 ### Hapis Boğazı Aslanı

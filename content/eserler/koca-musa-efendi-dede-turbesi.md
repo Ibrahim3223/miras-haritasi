@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3744068,37.8526955"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Musa Efendi Dede Türbesi

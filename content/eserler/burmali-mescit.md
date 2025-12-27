@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9563,41.0146"
 draft: false
+
+weight: 10
 ---
 
 ## Burmalı Mescit: İstanbul'un Gizli Çeşmesi

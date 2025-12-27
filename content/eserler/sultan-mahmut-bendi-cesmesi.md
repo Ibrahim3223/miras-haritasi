@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9868759,41.1897716"
 draft: false
+
+weight: 100
 ---
 
 ### Sultan Mahmut Bendi Çeşmesi

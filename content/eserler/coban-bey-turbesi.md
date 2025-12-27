@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.072888888,40.175638888"
 draft: false
+
+weight: 100
 ---
 
 ## Çoban Bey Türbesi: Bursa'nın Tarihi Bir Mirası

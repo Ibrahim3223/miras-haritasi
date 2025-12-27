@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0109806,41.0244446"
 draft: false
+
+weight: 10
 ---
 
 ## Rum Mehmet Paşa Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.3246422,38.7535172"
 draft: false
+
+weight: 100
 ---
 
 ## Kemer Gubbe: Malatya'nın Gizli Anıtı

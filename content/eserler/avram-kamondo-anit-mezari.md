@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.950763,41.052258"
 draft: false
+
+weight: 100
 ---
 
 ### Avram Kamondo Anıt Mezarı

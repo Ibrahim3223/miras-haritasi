@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9433365,37.5837555"
 draft: false
+
+weight: 100
 ---
 
 ## Haznedarlı Camii: Kahramanmaraş'taki Tarihî Bir Cennet

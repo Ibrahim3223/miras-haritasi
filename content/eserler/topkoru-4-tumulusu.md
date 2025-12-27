@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1621513,42.0077972"
 draft: false
+
+weight: 100
 ---
 
 ## Topkoru 4 Tümülüsü

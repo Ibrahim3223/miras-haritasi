@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1473351,38.4213753"
 draft: false
+
+weight: 10
 ---
 
 # İzmir Basın Müzesi

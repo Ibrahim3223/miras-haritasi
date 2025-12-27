@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.7872963,37.1566658"
 draft: false
+
+weight: 100
 ---
 
 ### Millet Köprüsü

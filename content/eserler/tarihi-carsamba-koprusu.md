@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.72453,41.198504"
 draft: false
+
+weight: 100
 ---
 
 ## Tarihi Çarşamba Köprüsü

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.7441006,37.6470985"
 draft: false
+
+weight: 100
 ---
 
 ## Sarnıçgediği Kalesi: Aydın'ın Gizli Hazinesi

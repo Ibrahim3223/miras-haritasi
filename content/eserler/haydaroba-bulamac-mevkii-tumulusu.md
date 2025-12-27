@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.430216009,39.906648403"
 draft: false
+
+weight: 100
 ---
 
 ## Haydaroba Bulamaç Mevkii Tümülüsü

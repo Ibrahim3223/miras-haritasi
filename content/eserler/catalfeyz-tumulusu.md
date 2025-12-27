@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.8946686,38.3240814"
 draft: false
+
+weight: 100
 ---
 
 ## Çatalfeyz Tümülüsü: Malatya'nın Gizli Hazineleri

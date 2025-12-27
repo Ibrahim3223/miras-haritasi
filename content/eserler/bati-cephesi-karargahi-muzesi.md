@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.41509474,38.358131996"
 draft: false
+
+weight: 10
 ---
 
 ## Batı Cephesi Karargahı Müzesi

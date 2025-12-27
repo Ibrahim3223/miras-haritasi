@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.4622097,37.9147301"
 draft: false
+
+weight: 100
 ---
 
 ## Şatır Ali Ağa Camii

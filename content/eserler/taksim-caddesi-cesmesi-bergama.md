@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1856995,39.1232986"
 draft: false
+
+weight: 100
 ---
 
 ## Taksim Caddesi Çeşmesi: Bergama'nın Tarihi Bir Cezbesi

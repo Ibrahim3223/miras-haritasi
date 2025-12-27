@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.5883778,39.5647983"
 draft: false
+
+weight: 100
 ---
 
 ## Yaşçayır Höyük: Keskin'in Gizli Tarihi

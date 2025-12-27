@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0461903,40.1905518"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Alaaddin Türbesi

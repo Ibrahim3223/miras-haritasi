@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.0201893,39.4125862"
 draft: false
+
+weight: 100
 ---
 
 ## Kütahya Hava Müzesi

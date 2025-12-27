@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.025069444,40.990558333"
 draft: false
+
+weight: 10
 ---
 
 ## Sürmeli Ali Paşa Çeşmesi

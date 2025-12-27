@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.016588,41.010771"
 draft: false
+
+weight: 10
 ---
 
 ### Hamam Sokak Çeşmesi: Üsküdar'da Tarihi Bir Çeşme

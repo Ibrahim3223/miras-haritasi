@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.60525,40.730833333"
 draft: false
+
+weight: 10
 ---
 
 ## Tabaklar Hamamı

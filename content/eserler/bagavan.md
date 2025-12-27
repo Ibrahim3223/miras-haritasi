@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.5176665,39.6105298"
 draft: false
+
+weight: 10
 ---
 
 ## Bagavan Manastırı: Türkiye'nin Gizli Cenneti

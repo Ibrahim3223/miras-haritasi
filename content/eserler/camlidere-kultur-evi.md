@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.4758797,40.4903526"
 draft: false
+
+weight: 100
 ---
 
 ## Çamlıdere Kültür Evi: Ankara'nın Gizli Çarpıntısı

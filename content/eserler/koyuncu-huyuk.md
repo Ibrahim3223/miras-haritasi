@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.390833333,36.503055555"
 draft: false
+
+weight: 100
 ---
 
 ### Koyuncu Hüyük: Tarihini ve Kültürel Mirasını Keşfedin

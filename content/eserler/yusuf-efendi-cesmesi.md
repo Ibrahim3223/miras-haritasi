@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.946201,41.021557"
 draft: false
+
+weight: 10
 ---
 
 ## Yusuf Efendi Çeşmesi: Fatih'te Bir Değerli Miras

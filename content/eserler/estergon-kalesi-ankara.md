@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.866388888,39.980694444"
 draft: false
+
+weight: 10
 ---
 
 ## Estergon Kalesi: Ankara'nın Gizli Kalesi

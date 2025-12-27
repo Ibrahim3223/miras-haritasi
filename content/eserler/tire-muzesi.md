@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.730233,38.084945"
 draft: false
+
+weight: 100
 ---
 
 ## Tire Müzesi: Tarih ve Kültür Mirası

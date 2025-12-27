@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Armaşen Kalesi

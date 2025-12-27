@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.6433907,39.1939621"
 draft: false
+
+weight: 100
 ---
 
 ## Yapıldak Tümülüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9545956,40.7942619"
 draft: false
+
+weight: 100
 ---
 
 # Gençoğlu Sokak Çeşmesi: Tarih, Mimarî ve Kültür Mirası

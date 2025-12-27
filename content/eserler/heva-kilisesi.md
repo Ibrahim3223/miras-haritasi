@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.630944444,40.91375"
 draft: false
+
+weight: 100
 ---
 
 ## Heva Kilisesi

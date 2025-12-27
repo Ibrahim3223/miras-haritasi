@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.07073,40.97593"
 draft: false
+
+weight: 10
 ---
 
 ### İstanbul Oyuncak Müzesi

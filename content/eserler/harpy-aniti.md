@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.317944444,36.356777777"
 draft: false
+
+weight: 10
 ---
 
 ## Harpy Anıtı

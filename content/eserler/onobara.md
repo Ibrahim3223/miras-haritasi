@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.502799,36.794221"
 draft: false
+
+weight: 100
 ---
 
 # Onobara Arkeolojik Sit

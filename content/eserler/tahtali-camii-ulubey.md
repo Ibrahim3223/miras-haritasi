@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2916279,38.421402"
 draft: false
+
+weight: 100
 ---
 
 ## Tahtalı Camii, Ulubey

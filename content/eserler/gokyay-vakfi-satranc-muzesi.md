@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8629,39.93474"
 draft: false
+
+weight: 10
 ---
 
 ## Gökyay Vakfı Satranç Müzesi: Satranç Sevgisinin İkincisi

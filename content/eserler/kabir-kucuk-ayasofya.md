@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.970787,41.0059433"
 draft: false
+
+weight: 1
 ---
 
 ## Kabir, Küçük Ayasofya

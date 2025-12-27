@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.958868,41.019355"
 draft: false
+
+weight: 10
 ---
 
 ## Şebsafa Kadın Camii

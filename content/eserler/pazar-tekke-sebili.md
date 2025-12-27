@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9283218,41.0187683"
 draft: false
+
+weight: 100
 ---
 
 ## Pazar Tekke Sebili: Fatih'in Gizli Çeşmesi

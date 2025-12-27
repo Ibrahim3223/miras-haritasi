@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.5479758,40.3158022"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Tusi Türbesi

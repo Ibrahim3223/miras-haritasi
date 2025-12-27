@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.97725,41.014583333"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul'un Tarihi Sinagogu: Bet Avraam Sinagogu

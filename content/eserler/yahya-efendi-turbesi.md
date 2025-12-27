@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.01781,41.04574"
 draft: false
+
+weight: 10
 ---
 
 ### Yahya Efendi Türbesi: Beşiktaş'ta Bir Önemli Anıt

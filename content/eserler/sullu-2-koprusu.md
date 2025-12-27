@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.347389,40.655369"
 draft: false
+
+weight: 100
 ---
 
 ## Süllü 2 Köprüsü: Giresun'un Gizli Cenneti

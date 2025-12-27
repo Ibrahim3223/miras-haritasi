@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.7951927,39.9449463"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Orman Çiftliği Müze ve Sergi Salonu

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.964833,41.015643"
 draft: false
+
+weight: 10
 ---
 
 ## Hürrem Sultan Türbesi: İstanbul'un Gizemli Anıtı

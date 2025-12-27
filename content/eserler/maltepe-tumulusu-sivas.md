@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1013412,39.7874413"
 draft: false
+
+weight: 100
 ---
 
 ## Maltepe Tümülüsü: Sivas'ta Bir İhtişam

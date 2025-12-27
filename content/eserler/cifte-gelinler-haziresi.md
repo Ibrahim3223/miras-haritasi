@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9641334,41.0051182"
 draft: false
+
+weight: 100
 ---
 
 ## Çifte Gelinler Haziresi: İstanbulluğun Güzelliğini Yansıtan Bir Anıt

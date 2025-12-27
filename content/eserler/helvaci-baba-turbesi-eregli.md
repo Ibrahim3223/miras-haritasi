@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.053344603,37.516326575"
 draft: false
+
+weight: 100
 ---
 
 ## Helvacı Baba Türbesi, Ereğli

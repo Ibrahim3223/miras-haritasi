@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.732399,41.0050011"
 draft: false
+
+weight: 100
 ---
 
 # İskenderpaşa Camii: Trabzon'un Tarihi Bir Mirası

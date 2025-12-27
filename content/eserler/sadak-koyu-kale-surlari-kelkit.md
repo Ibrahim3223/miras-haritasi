@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.595796,40.028751"
 draft: false
+
+weight: 100
 ---
 
 ## Sadak Köyü Kale Surları, Kelkit

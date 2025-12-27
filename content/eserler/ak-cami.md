@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4912033,37.8743782"
 draft: false
+
+weight: 10
 ---
 
 ### Ak Cami Tanıtımı

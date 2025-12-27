@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.410387,37.8556595"
 draft: false
+
+weight: 100
 ---
 
 ## Dualar Köyü Eski Cami: Aydın'ın Tarihi Bir Mirası

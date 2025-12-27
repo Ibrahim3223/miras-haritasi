@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9803371,41.0271797"
 draft: false
+
+weight: 100
 ---
 
 ## Karabaş Hazretleri Türbesi

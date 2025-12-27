@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.963777777,41.036694444"
 draft: false
+
+weight: 10
 ---
 
 ## Güzelce Ali Paşa Çeşmesi: Beyoğlu'nun Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.331377,39.8340149"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Agonya Köprüsü

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.509401897,40.427307467"
 draft: false
+
+weight: 10
 ---
 
 ## Alaman Kilisesi

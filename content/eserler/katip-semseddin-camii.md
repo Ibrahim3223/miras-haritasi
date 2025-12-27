@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9628315,41.0178452"
 draft: false
+
+weight: 10
 ---
 
 ## Katip Şemseddin Camii: Fatih'in Gizli Çiçeği

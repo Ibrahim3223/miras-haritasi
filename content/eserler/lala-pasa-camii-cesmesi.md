@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4185162,38.6064987"
 draft: false
+
+weight: 100
 ---
 
 ### Lala Paşa Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.5062126,36.8378482"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuşbaşı Höyük: Gaziantep'in Gizli Anıtı

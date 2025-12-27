@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "27.278611111,37.529166666"
 draft: false
+
+weight: 10
 ---
 
 ## Milet Bouleuterionu: Aydın'ın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0536938,40.1855392"
 draft: false
+
+weight: 10
 ---
 
 ### Nakkaş Ali Mescidi

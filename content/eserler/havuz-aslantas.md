@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.113688877,39.175799726"
 draft: false
+
+weight: 10
 ---
 
 ## Havuz-Aslantaş: Kangal'ın Eski Çağ Mirası

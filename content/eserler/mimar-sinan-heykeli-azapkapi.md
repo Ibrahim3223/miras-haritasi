@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9689579,41.0240631"
 draft: false
+
+weight: 100
 ---
 
 # Mimar Sinan Heykeli, Azapkapı

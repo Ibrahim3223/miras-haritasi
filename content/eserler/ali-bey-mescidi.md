@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8552666,39.9404793"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Bey Mescidi

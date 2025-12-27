@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.371,40.1084"
 draft: false
+
+weight: 10
 ---
 
 ### Geyikli Baba Türbesi: Bursa'nın Gizli Mücevheri

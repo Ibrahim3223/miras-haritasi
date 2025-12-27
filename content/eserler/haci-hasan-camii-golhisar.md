@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5189209,37.1550484"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hasan Camii, Gölhisar

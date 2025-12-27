@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.04525,41.067888888"
 draft: false
+
+weight: 10
 ---
 
 ## Tevfikiye Camii: Beşiktaş'ın Kültürel Mirası

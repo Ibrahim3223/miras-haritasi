@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.052847,37.809243"
 draft: false
+
+weight: 100
 ---
 
 ### Karaçay Camii: Honaz'daki Gizemli Bir Miras

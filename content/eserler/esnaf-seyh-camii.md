@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1327972,38.4159012"
 draft: false
+
+weight: 100
 ---
 
 ## Esnaf Şeyh Camii: İzmir'in Tarihi ve Kültürel Mirası

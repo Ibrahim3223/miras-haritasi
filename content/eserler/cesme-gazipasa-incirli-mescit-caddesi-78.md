@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1752396,39.1215477"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme – Gazipaşa, İncirli Mescit Caddesi, 78: Bergama'nın Şirin Çeşmesi

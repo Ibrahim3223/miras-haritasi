@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.114468,41.029973"
 draft: false
+
+weight: 10
 ---
 
 ## Üsküdar Üniversitesi Tıp Kütüphanesi

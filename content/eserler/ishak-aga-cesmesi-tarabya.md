@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056633,41.1403656"
 draft: false
+
+weight: 10
 ---
 
 ## İshak Ağa Çeşmesi: İstanbul'un Tarabya Köyünde Gizli Kalan Bir Kültür Mirası

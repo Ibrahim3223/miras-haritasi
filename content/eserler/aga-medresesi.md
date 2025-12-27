@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.8577843,39.9345703"
 draft: false
+
+weight: 100
 ---
 
 ### Ağa Medresesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.364722222,37.216666666"
 draft: false
+
+weight: 10
 ---
 
 ## Muğla Kurşunlu Camii: Türkiye'nin Önemli Camilerinden Birini Tanıyalım

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9240856,40.7691727"
 draft: false
+
+weight: 100
 ---
 
 ## Zeytinli Bahçe Camii: İzmit'in Tarihi Bir Mirası

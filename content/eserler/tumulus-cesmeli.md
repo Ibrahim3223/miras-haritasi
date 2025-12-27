@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8348026,41.0481949"
 draft: false
+
+weight: 100
 ---
 
 ## Tümülüs, Çeşmeli: Marmara Ereğlisi'ndeki Antik Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.453369,37.998563"
 draft: false
+
+weight: 100
 ---
 
 ## Aspenzinsos: Tarihi ve Kültürel Mirası

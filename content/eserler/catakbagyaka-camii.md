@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.167078,37.1248245"
 draft: false
+
+weight: 100
 ---
 
 # Çatakbağyaka Camii: Muğla'nın Gizli Cenneti

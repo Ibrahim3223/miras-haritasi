@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "35.240433,36.994777"
 draft: false
+
+weight: 100
 ---
 
 Yeşiloba Şehitliği Müzesi ve Milli Mücadele Kütüphanesi

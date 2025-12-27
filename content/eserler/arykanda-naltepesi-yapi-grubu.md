@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.0587711,36.5124207"
 draft: false
+
+weight: 100
 ---
 
 ## Arykanda Naltepesi Yapı Grubu: Finike'nin Gizli Kâğıt Yüzü

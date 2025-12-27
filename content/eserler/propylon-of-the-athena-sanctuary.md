@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.2970182,37.6592415"
 draft: false
+
+weight: 10
 ---
 
 **Propylon of the Athena Sanctuary**

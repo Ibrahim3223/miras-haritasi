@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.290054706,40.619222034"
 draft: false
+
+weight: 10
 ---
 
 ### Gölbaşı Camii

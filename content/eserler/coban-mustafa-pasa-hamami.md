@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.4341888,40.7985725"
 draft: false
+
+weight: 10
 ---
 
 ### Çoban Mustafa Paşa Hamamı: Gebze'nin Tarihi ve Kültürel Mirası

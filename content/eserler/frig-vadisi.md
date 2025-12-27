@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.52333333,39.04833333"
 draft: false
+
+weight: 10
 ---
 
 ## Frig Vadisi: Tarihçenizi Değiştirecek Bir Arkeolojik Sit

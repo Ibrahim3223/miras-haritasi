@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.7438812,39.0349922"
 draft: false
+
+weight: 100
 ---
 
 ## Kötünün Hanı Köprüsü

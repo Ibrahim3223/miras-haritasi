@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6659107,36.7391815"
 draft: false
+
+weight: 100
 ---
 
 ### Eski Datça Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0793571,40.1835709"
 draft: false
+
+weight: 100
 ---
 
 ### İbn-i Bezzaz Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.396917,41.103683"
 draft: false
+
+weight: 100
 ---
 
 ## Maya Baba Arkeolojik Sit

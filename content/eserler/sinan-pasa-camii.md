@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.006245,41.042343"
 draft: false
+
+weight: 10
 ---
 
 ## Sinan Paşa Camii: Beşiktaş'ta Bir Uygarlık Mirası

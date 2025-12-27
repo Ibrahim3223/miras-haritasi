@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.8337994,38.2489014"
 draft: false
+
+weight: 100
 ---
 
 ## Şehitlik Anıtı, Ulamış: Seferihisar'ın Tarihî Anıtı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.5841198,37.7933006"
 draft: false
+
+weight: 100
 ---
 
 **Esençay Köprüsü: Aydın'ın Tarihî Mirası**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.228027777,41.737972222"
 draft: false
+
+weight: 10
 ---
 
 ## Gerdanlı Çeşmesi

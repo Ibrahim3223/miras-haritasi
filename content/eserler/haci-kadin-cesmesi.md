@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.929534,41.000651"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Kadın Çeşmesi: Fatih'ten Bir Kültürel Miras

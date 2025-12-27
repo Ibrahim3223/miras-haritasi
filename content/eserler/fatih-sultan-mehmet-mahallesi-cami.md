@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.03188,41.09321"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Sultan Mehmet Mahallesi Cami: İstanbul'un Gizli Cenneti

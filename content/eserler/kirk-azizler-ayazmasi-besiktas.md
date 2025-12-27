@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9988976,41.0407448"
 draft: false
+
+weight: 100
 ---
 
 ## Kırk Azizler Ayazması

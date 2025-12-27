@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9254402,41.0128891"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı İbrahim Efendi Çeşmesi

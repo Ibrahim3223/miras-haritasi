@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.850888888,37.874638888"
 draft: false
+
+weight: 10
 ---
 
 ## Hızır Bey Camisi: Eğirdir'in Gizli Çiçeği

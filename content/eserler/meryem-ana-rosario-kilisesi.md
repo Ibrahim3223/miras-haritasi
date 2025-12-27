@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.8795986,40.9770279"
 draft: false
+
+weight: 100
 ---
 
 ## Meryem Ana Rosario Kilisesi

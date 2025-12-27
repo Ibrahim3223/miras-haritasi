@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.3175449,36.2647324"
 draft: false
+
+weight: 100
 ---
 
 ## Patara Liman Hamamı: Antik Çağın Gizli Harikası

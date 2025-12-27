@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.396141,40.916889"
 draft: false
+
+weight: 100
 ---
 
 ### Musalla Anıtı: Giresun'un Tarihî ve Kültürel Mirası

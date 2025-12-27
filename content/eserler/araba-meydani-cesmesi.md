@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0443459,41.0435448"
 draft: false
+
+weight: 10
 ---
 
 #### Araba Meydanı Çeşmesi

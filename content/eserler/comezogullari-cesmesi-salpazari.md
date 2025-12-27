@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.198248,40.949258"
 draft: false
+
+weight: 100
 ---
 
 ## Çömezoğulları Çeşmesi Şalpazarı

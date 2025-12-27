@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.603878746,37.514563979"
 draft: false
+
+weight: 100
 ---
 
 ## Keraia (Pisidya): Bir Arkeolojik Harika

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6439991,38.2237015"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı İbrahim Ağa Camii: İzmir'de Bir Örnek Türk Mimarisinin Mirası

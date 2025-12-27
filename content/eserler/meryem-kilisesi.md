@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.339203,37.944939"
 draft: false
+
+weight: 10
 ---
 
 ## Meryem Kilisesi: Selçuk'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4675159,38.0142288"
 draft: false
+
+weight: 100
 ---
 
 ## Belevi Tümülüsü: İzmir'in Gizli Gizemi

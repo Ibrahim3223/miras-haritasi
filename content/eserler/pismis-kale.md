@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.725702,39.215775"
 draft: false
+
+weight: 100
 ---
 
 ### Pişmiş Kale

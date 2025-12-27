@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.197699,38.461767"
 draft: false
+
+weight: 100
 ---
 
 **Hierapolis (Frigya Pentapolis)**

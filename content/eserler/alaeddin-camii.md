@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.492777777,37.873472222"
 draft: false
+
+weight: 10
 ---
 
 ### Alaeddin Camii: Konya'nın Göbeğinde Yükselen Bir Miras

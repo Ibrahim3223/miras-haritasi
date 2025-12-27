@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.78335556,39.89475833"
 draft: false
+
+weight: 10
 ---
 
 ### ODTÜ Atatürk Anıtı

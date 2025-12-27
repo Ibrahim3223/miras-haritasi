@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6372261,39.0044403"
 draft: false
+
+weight: 100
 ---
 
 ## Reisler Camii ve Türbesi, Demirci

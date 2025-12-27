@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.137777777,38.418888888"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Agorası: Tarihî Bir Mirasın Gizemi

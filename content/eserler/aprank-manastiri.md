@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "40.288888888,39.661388888"
 draft: false
+
+weight: 10
 ---
 
 ## Aprank Manastırı: Erzincan'ın Tarihi Bir Öreni

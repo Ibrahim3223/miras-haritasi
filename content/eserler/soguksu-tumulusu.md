@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.928875,41.1744308"
 draft: false
+
+weight: 100
 ---
 
 ### Soğuksu Tümülüsü: Edirne'nin Gizli Tarihi

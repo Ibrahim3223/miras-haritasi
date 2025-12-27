@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Adıyaman Stele 2: Tarihî Bir Mirasın Gizemi

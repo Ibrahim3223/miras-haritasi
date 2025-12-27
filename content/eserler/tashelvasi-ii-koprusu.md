@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.3076134,37.7645416"
 draft: false
+
+weight: 100
 ---
 
 ## Taşhelvası II Köprüsü

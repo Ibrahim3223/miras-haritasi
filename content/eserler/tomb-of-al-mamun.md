@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Tomb of al-Ma'mun: Tarsus'un Gizli Anıtı

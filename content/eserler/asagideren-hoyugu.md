@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.0211983,36.765892"
 draft: false
+
+weight: 100
 ---
 
 # Aşağıderen Höyük: Şanlıurfa'nın Gizemi

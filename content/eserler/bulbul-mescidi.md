@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.982,39.413888888"
 draft: false
+
+weight: 10
 ---
 
 # Bülbül Mescidi

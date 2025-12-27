@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.246138888,37.639194444"
 draft: false
+
+weight: 10
 ---
 
 ## Atburgazı Kalesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9280739,37.5829163"
 draft: false
+
+weight: 100
 ---
 
 ## İklime Hatun Camii: Kahramanmaraş'ın Tarihi Bir Çanak

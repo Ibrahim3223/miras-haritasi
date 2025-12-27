@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.893729,38.050575"
 draft: false
+
+weight: 100
 ---
 
 # Kleimaks Arkeolojik Sit

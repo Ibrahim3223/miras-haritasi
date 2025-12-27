@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.8896637,37.5673752"
 draft: false
+
+weight: 100
 ---
 
 ## Başkavak Köprüsü

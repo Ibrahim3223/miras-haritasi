@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.066783,38.881033"
 draft: false
+
+weight: 100
 ---
 
 ### Çakran Arkeolojik Sitesi

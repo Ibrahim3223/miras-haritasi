@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9592056,41.0079765"
 draft: false
+
+weight: 10
 ---
 
 ### Çoban Çavuş Camii

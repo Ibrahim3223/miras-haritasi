@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4575462,41.1422653"
 draft: false
+
+weight: 100
 ---
 
 ### Kale Camii, Vezirköprü

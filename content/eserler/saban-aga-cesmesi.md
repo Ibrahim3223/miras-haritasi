@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.875063,40.978683"
 draft: false
+
+weight: 10
 ---
 
 ### Şaban Ağa Çeşmesi

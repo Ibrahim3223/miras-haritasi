@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1774998,39.1239014"
 draft: false
+
+weight: 100
 ---
 
 # Ansarlı Camii

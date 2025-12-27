@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.66283,38.91526"
 draft: false
+
+weight: 100
 ---
 
 ### Ağın Köprüsü: Ağın, Elazığ'da Bir Geçit Yaşıyor

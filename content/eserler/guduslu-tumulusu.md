@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6214008,37.7711983"
 draft: false
+
+weight: 100
 ---
 
 **Güdüşlü Tümülüsü**

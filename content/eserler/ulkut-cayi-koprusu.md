@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3192787,37.5082664"
 draft: false
+
+weight: 100
 ---
 
 ## Ülküt Çayı Köprüsü

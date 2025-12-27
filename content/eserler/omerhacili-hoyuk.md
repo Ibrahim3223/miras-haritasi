@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8381535,39.2639461"
 draft: false
+
+weight: 100
 ---
 
 ## Ömerhacılı Höyük: Kırşehir'in Gizli Cenneti

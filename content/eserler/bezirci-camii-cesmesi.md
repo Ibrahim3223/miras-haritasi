@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5172043,37.8977318"
 draft: false
+
+weight: 100
 ---
 
 ## Bezirci Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi

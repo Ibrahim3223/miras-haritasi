@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3829727,39.0847626"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Kınık

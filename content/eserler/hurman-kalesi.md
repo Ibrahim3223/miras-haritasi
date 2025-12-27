@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.8353081,38.4747109"
 draft: false
+
+weight: 10
 ---
 
 ## Hurman Kalesi: Afşin'in Tarihî Mirası

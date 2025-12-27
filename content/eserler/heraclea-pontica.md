@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.414722222,41.284722222"
 draft: false
+
+weight: 10
 ---
 
 ## Heraclea Pontica: Karadeniz Ereğli'nin Gizli Mirası

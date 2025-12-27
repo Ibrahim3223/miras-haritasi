@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7336636,38.0827522"
 draft: false
+
+weight: 100
 ---
 
 ## Kaziroğlu Çeşmesi

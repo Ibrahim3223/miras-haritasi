@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.135,38.42"
 draft: false
+
+weight: 10
 ---
 
 ### Kestanepazarı Camii: İzmir'in Gizli Cenneti

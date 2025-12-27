@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1306362,37.9307594"
 draft: false
+
+weight: 100
 ---
 
 ## Hierapolis Aziz Philippus Mezarı

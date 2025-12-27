@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.656055555,40.806833333"
 draft: false
+
+weight: 100
 ---
 
 ## Barış Anıtı

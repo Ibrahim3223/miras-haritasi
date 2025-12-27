@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "41.940305555,37.929277777"
 draft: false
+
+weight: 100
 ---
 
 ## Siirt Saat Kulesi: Tarihî Bir Mirasın Öyküsü

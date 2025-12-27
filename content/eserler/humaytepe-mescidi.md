@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2806225,37.5305595"
 draft: false
+
+weight: 100
 ---
 
 ## Humaytepe Mescidi: Didim'in Hicaz Mimarisi'nin Şaşırtıcı Örneği

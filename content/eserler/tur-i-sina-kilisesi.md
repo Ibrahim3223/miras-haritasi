@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.94776,41.03341"
 draft: false
+
+weight: 100
 ---
 
 ## Tur-i Sina Kilisesi: İstanbul'un Gizli Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.737709,37.7374611"
 draft: false
+
+weight: 100
 ---
 
 ## Abditolu Höyüğü

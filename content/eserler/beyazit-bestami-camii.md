@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.891083333,40.302194444"
 draft: false
+
+weight: 100
 ---
 
 ## Beyazıt Bestami Camii

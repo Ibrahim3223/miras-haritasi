@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "42.162709916,37.272900522"
 draft: false
+
+weight: 100
 ---
 
 ### Eser Tanıtım: Suriye - Türkiye Sınır Gerişinde Kervansaray #2724

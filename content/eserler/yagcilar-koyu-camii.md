@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.596342185,40.731698298"
 draft: false
+
+weight: 100
 ---
 
 ### Yağcılar Köyü Camii: Rize'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.018305555,41.019611111"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Numan Çeşmesi

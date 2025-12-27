@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6931953,41.2460823"
 draft: false
+
+weight: 10
 ---
 
 ### Hamamönü Sokak Çeşmesi 2: Safranbolu'nun Gizli Çeşmesi

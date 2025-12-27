@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.02005,40.99981"
 draft: false
+
+weight: 10
 ---
 
 ## Haydarpaşa İngiliz Mezarlığı

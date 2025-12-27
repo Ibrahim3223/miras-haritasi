@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.514031,38.346019"
 draft: false
+
+weight: 100
 ---
 
 ## Philadelphia Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.853,39.9465"
 draft: false
+
+weight: 10
 ---
 
 ### Ankara Roma Hamamı

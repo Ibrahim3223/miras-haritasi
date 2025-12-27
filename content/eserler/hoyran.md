@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8761,36.231"
 draft: false
+
+weight: 100
 ---
 
 ## Hoyran: Tarihi ve Kültürel Mirasın Gizemi

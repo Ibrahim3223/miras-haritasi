@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3078003,38.3120804"
 draft: false
+
+weight: 100
 ---
 
 ### İmam Çeşmesi: Çeşme'nin Tarihi Bir Mirası

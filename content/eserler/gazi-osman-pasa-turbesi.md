@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9505759,41.018955"
 draft: false
+
+weight: 100
 ---
 
 **Gazi Osman Paşa Türbesi**

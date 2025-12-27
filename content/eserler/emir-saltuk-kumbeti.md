@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.27861023,39.9038887"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Saltuk Kümbeti: Erzurum'un Güzelliği

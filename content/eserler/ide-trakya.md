@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.689216,40.504079"
 draft: false
+
+weight: 100
 ---
 
 ## Ide (Trakya) Arkeolojik Sitesi

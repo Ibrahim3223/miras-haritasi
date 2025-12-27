@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4636803,40.8703842"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Hasan Camii: Merzifon'un Tarihî Bir Mirası

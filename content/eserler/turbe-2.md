@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.5155487,37.9274483"
 draft: false
+
+weight: 100
 ---
 
 ## Türbe 2: Germencik, Aydın'daki Bir Hicri Anıt

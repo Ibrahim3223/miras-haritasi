@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.3363533,38.5018158"
 draft: false
+
+weight: 100
 ---
 
 ## Abbasağa Camii: Van'ın Tarihî Mirası

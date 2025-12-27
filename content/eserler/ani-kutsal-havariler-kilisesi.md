@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5707,40.5087"
 draft: false
+
+weight: 10
 ---
 
 ### Ani Kutsal Havariler Kilisesi: Doğu Anadolu'nun Gizli Çehresi

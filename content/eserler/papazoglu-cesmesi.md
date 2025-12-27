@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5610504,41.6720467"
 draft: false
+
+weight: 10
 ---
 
 ### Papazoğlu Çeşmesi: Edirne'nin Tarihi Bir Çeşmesi

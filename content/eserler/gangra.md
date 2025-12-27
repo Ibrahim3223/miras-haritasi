@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.6172,40.603"
 draft: false
+
+weight: 100
 ---
 
 ## Gangra Arkeolojik Sit

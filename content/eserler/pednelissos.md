@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.92055556,37.22138889"
 draft: false
+
+weight: 100
 ---
 
 ## Pednelissos: Antalya'nın Gizli Arkeolojik Mirası

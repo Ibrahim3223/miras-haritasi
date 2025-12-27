@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.01758333,39.74713889"
 draft: false
+
+weight: 10
 ---
 
 ## Sivas Ulu Camii

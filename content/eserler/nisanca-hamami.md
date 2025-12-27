@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.961437,41.005551"
 draft: false
+
+weight: 100
 ---
 
 ### Nişanca Hamamı: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.962944,41.003609"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Bey Çeşmesi, Kumkapı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6473999,38.2266006"
 draft: false
+
+weight: 100
 ---
 
 ## Karakulak Çeşmesi: Bayındır'daki Bir Tarihi Çeşme

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.977222222,41.015277777"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Demiryolu Müzesi

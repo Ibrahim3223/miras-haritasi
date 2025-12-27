@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9820309,41.0268936"
 draft: false
+
+weight: 10
 ---
 
 ## İşçi Heykeli

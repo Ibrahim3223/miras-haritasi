@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.865509,39.9370918"
 draft: false
+
+weight: 10
 ---
 
 ### Ahi Şerafettin Türbesi: Ankara'nın Tarihi ve Kültürel Mirası

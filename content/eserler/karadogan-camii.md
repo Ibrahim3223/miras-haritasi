@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9109859,38.247757"
 draft: false
+
+weight: 100
 ---
 
 ## Karadoğan Camii: İzmir'in Tarihi Bir Mirası

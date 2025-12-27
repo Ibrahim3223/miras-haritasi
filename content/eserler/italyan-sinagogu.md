@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.9725,41.02555556"
 draft: false
+
+weight: 10
 ---
 
 ### İtalyan Sinagogu: İstanbul'un Gizli Çehresini Keşfeden Bir Eser

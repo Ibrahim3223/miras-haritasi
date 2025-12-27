@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.4529991,38.9656982"
 draft: false
+
+weight: 100
 ---
 
 ## Taş Köprü, Karadere: İzmit'in Gizli Çehresinin Bir Parçası

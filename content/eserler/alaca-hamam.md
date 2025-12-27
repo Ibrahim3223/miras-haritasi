@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4320115,38.610559"
 draft: false
+
+weight: 100
 ---
 
 ## Alaca Hamam: Manisa'nın Tarihi Bir Mirası

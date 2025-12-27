@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9745827,41.0056801"
 draft: false
+
+weight: 100
 ---
 
 ## Çukur Çeşme, Sultanahmet

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.9611,39.661833"
 draft: false
+
+weight: 100
 ---
 
 ## Külhöyük: Eskişehir'in Gizemi

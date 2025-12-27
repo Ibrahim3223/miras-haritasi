@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.998169,38.55518"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 51: Salihli'nin Gizli Cenneti

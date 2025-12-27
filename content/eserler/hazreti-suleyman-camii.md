@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.242031,37.914882"
 draft: false
+
+weight: 10
 ---
 
 ## Hazreti Süleyman Camii

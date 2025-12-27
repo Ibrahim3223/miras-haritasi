@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.966055555,41.003666666"
 draft: false
+
+weight: 10
 ---
 
 ### Kumkapı Surp Harutyun Kilisesi

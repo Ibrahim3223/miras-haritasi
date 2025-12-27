@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.030619,41.106322"
 draft: false
+
+weight: 10
 ---
 
 **Abdülhakim Sancak Camii**

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.7865124,39.5716782"
 draft: false
+
+weight: 100
 ---
 
 ## Antandros Roma Villası: Edremit'in Gizli Çarpıntısı

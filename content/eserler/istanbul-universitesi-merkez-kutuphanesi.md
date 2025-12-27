@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.962062924,41.010129408"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Üniversitesi Merkez Kütüphanesi

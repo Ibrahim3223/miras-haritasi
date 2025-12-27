@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.1867523,37.3217354"
 draft: false
+
+weight: 100
 ---
 
 ## Abdaliye Medresesi

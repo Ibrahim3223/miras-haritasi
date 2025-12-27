@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.722754,40.92672"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 2 (Günören Mahallesi), Altınordu

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1465,38.494277777"
 draft: false
+
+weight: 100
 ---
 
 ## Dünya Barış Anıtı: Barışın Simgesi

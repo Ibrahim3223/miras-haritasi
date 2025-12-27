@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.978865,41.024625"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Andreas Kilisesi: İstanbul'un Tarihi ve Kültürel Mirası

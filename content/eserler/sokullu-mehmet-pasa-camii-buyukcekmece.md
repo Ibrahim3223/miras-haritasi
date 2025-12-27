@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.57611111,41.02222222"
 draft: false
+
+weight: 10
 ---
 
 ### Sokullu Mehmet Paşa Camii: Büyükçekmece'nin Gizli Cenneti

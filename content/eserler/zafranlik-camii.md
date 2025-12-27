@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0627041,40.1878777"
 draft: false
+
+weight: 100
 ---
 
 ## Zafranlık Camii: Bursa'nın Gizli Çarı

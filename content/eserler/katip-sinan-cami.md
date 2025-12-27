@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.960705876,41.007856038"
 draft: false
+
+weight: 10
 ---
 
 ## Katip Sinan Cami: Fatih'in Gizli Cenneti

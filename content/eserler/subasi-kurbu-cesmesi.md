@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2702637,39.909935"
 draft: false
+
+weight: 100
 ---
 
 ### Subaşı Kurbu Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5523643,36.5239334"
 draft: false
+
+weight: 100
 ---
 
 ## Phaselis Küçük Hamamı: Antik Bir Evin İzleri

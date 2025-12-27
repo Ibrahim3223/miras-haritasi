@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.2123032,39.5606918"
 draft: false
+
+weight: 100
 ---
 
 ## Fındık Asar Kale

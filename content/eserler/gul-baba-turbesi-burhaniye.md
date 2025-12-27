@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.047544507,41.02907645"
 draft: false
+
+weight: 100
 ---
 
 ## Gül Baba Türbesi, Burhaniye

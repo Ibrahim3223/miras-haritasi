@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "44.1289258,39.52059504"
 draft: false
+
+weight: 1
 ---
 
 ### İshak Paşa Sarayı Tanıtımı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.139166666,38.424444444"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Stepanos Kilisesi: İzmir'de Bir Keşif

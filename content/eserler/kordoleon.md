@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Kordoleon: Karşıyaka'nın Zirvesinde Yükselen Anıt

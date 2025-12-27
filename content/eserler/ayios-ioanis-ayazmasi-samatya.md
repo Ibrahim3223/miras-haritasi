@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9334278,41.0007515"
 draft: false
+
+weight: 100
 ---
 
 **Ayios Ioanis Ayazması, Samatya**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2709885,42.0953789"
 draft: false
+
+weight: 100
 ---
 
 # Ahlatlı Höyükeyrek Tümülüsü: Tarihî Bir Mirasın Gizemi

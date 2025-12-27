@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.019583333,41.201611111"
 draft: false
+
+weight: 10
 ---
 
 ## Guguba Kilisesi

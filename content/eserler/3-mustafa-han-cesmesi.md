@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.095562,41.1156616"
 draft: false
+
+weight: 10
 ---
 
 ## 3. Mustafa Han Çeşmesi: Beykoz'un Gizli Çeşmesi

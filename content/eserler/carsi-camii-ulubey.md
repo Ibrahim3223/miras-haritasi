@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2910938,38.4187889"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Ulubey: Uşak'ın Değerli Eseri

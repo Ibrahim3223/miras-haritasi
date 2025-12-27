@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4558,41.0665"
 draft: false
+
+weight: 100
 ---
 
 ## Yüksekoba Camii

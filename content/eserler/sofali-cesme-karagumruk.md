@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.935987,41.026519"
 draft: false
+
+weight: 10
 ---
 
 ## Sofalı Çeşme, Karagümrük: İstanbul'un Gizli Çeşmesi

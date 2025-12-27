@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.2963505,38.4939003"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Köprü, Çiçekliköy

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.958646,36.909557"
 draft: false
+
+weight: 100
 ---
 
 ### Kocayatak Camii: Serik'in Gölgeli Camii

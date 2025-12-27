@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0129929,41.0090866"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Tahir Efendi Çeşmesi

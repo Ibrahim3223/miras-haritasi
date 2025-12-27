@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.153333333,36.514444444"
 draft: false
+
+weight: 10
 ---
 
 ## Kabaçam Ören Yeri: Erdemli'nin Gizli Kahramanı

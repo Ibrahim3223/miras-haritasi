@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.9402714,36.2418289"
 draft: false
+
+weight: 100
 ---
 
 ## Sura Vadi Kilisesi: Demre'nin Gizli Gözdeleri

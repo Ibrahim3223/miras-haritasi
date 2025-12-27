@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9375362,41.0067253"
 draft: false
+
+weight: 10
 ---
 
 ## Davut Paşa Cami Şadırvanı

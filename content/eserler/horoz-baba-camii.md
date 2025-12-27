@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.0282745,38.3778076"
 draft: false
+
+weight: 100
 ---
 
 ### Aksaray'da Bir Rönesans: Horoz Baba Camii

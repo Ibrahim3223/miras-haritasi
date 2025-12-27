@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.879914593,39.646113032"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Ahmed Çeşmesi, Balıkesir: Tarihi Bir Anıt

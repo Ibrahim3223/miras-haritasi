@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5163,40.9777"
 draft: false
+
+weight: 100
 ---
 
 ## Rüstem Paşa Külliyesi: Tekirdağ'ın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7644882,41.3745651"
 draft: false
+
+weight: 100
 ---
 
 ## Asa Suyu: Kastamonu'nun Değerli Çeşme Mirası

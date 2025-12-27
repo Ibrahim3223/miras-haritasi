@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.396939,39.859717"
 draft: false
+
+weight: 100
 ---
 
 ### Keskin Höyük: Eskişehir'in Gizli Çarpızları

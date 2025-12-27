@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.5676842,38.2683182"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Yavaşgel Türbesi

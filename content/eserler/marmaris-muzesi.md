@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.274374,36.8506622"
 draft: false
+
+weight: 100
 ---
 
 ### Marmaris Müzesi

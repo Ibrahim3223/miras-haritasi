@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.673625,38.094563"
 draft: false
+
+weight: 100
 ---
 
 **Balbissa: Niğde'nin Tarihî Kenti**

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.069462,41.122031"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Yeoryios Rum Ortodoks Kilisesi

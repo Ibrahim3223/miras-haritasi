@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.276944444,37.528333333"
 draft: false
+
+weight: 10
 ---
 
 ## Faustina Hamamları

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.0440617,36.6827393"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşil Ada Kalesi, Bozburun: Marmaris'in Gizli Kahramanı

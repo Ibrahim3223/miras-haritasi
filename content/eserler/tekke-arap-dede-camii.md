@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8066177,39.817337"
 draft: false
+
+weight: 100
 ---
 
 ## Tekke Arap Dede Camii

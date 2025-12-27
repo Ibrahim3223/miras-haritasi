@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.7567787,39.8977928"
 draft: false
+
+weight: 100
 ---
 
 ## Zaralızâde Mehmet Paşa Camii

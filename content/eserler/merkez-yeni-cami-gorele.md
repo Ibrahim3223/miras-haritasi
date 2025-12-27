@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.004776,41.0310707"
 draft: false
+
+weight: 100
 ---
 
 ## Merkez Yeni Cami, Görele: Görele'nin Tarihi Bir Mirası

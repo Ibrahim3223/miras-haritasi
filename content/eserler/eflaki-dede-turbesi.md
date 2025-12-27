@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.5054169,37.8707657"
 draft: false
+
+weight: 10
 ---
 
 ## Eflaki Dede Türbesi

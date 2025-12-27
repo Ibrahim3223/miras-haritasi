@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.989466666,41.03915"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Kitaplığı

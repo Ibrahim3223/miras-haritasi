@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.575722222,41.022305555"
 draft: false
+
+weight: 10
 ---
 
 ## Kanuni Sultan Süleyman Çeşmesi

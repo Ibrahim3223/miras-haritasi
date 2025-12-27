@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.3823318,36.9259453"
 draft: false
+
+weight: 100
 ---
 
 # Fındıkpınar Kalesi

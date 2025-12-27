@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.052166666,40.132194444"
 draft: false
+
+weight: 10
 ---
 
 ## Daskyleion: Balıkesir'in Gizli Mirası

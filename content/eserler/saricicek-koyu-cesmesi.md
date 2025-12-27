@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.855442,40.4435005"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıçiçek Köyü Çeşmesi: Tarihî Bir Mirasın Gizli Öyküsü

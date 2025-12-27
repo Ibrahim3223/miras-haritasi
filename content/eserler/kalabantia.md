@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.134034521,36.42974603"
 draft: false
+
+weight: 100
 ---
 
 ## Kalabantia: Boğaziçi'nin Gizemli Arkeolojik Sitleri

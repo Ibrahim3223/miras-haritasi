@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.729692,41.0079292"
 draft: false
+
+weight: 100
 ---
 
 ## Kral II. Solomon Türbesi

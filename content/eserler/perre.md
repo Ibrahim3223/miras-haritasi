@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.30111111,37.79166667"
 draft: false
+
+weight: 10
 ---
 
 ## Perre Arkeolojik Sit

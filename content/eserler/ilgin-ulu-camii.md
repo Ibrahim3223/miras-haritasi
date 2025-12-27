@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.918027777,38.2815"
 draft: false
+
+weight: 100
 ---
 
 ## Ilgın Ulu Camii: Konya'nın Tarihi Bir Mirası

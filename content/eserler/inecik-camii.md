@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.565197,38.5504112"
 draft: false
+
+weight: 100
 ---
 
 ## İnecik Camii: İzmir'in Gizli Cenneti

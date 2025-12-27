@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.946291,41.02028"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Buhari Medresesi

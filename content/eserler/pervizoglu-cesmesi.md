@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2744331,39.9094582"
 draft: false
+
+weight: 100
 ---
 
 ## Pervizoğlu Çeşmesi

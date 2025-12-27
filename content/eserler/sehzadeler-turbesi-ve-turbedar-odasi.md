@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0174198,41.0459328"
 draft: false
+
+weight: 100
 ---
 
 ## Şehzadeler Türbesi ve Türbedar Odası

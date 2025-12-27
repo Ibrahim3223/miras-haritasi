@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.2547833,36.7067106"
 draft: false
+
+weight: 10
 ---
 
 ### Dağlı Kalesi

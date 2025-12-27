@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4755993,37.9132004"
 draft: false
+
+weight: 100
 ---
 
 ## Balatçık Kalesi: Aydın'ın Gizli Anıtı

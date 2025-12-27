@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.966814,41.004317"
 draft: false
+
+weight: 100
 ---
 
 ## Behram Çavuş Camii

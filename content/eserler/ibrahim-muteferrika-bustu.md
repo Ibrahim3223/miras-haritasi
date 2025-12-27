@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9659576,41.0104027"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Müteferrika Büstü: Fatih'te Bir Kültür Mirası

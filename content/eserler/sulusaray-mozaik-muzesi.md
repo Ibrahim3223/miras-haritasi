@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.09446,39.996232"
 draft: false
+
+weight: 100
 ---
 
 ## Sulusaray Mozaik Müzesi

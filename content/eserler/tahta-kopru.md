@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.460453,38.6394157"
 draft: false
+
+weight: 100
 ---
 
 ## Tahta Köprü

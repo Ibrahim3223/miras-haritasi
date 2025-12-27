@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.4031792,38.6781006"
 draft: false
+
+weight: 100
 ---
 
 ## Özer Hamamı: Uşak'taki Tarihi ve Kültürel Bir Miras

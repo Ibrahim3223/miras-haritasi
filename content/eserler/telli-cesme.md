@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6753635,40.4092178"
 draft: false
+
+weight: 100
 ---
 
 ## Telli Çeşme: Gelibolu'nun Tarihi Bir Çeşmesi

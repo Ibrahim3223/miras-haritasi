@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2836266,39.915905"
 draft: false
+
+weight: 100
 ---
 
 ## Etliğin Çeşmesi: Yakutiye, Erzurum'un Gizli Çeşmesi

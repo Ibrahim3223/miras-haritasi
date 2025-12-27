@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.548204,40.857419"
 draft: false
+
+weight: 100
 ---
 
 ### Yivdincik Köyü Kemer Köprüsü: Giresun'un Gizli Cenneti

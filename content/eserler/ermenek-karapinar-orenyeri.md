@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.9567528,36.4918365"
 draft: false
+
+weight: 100
 ---
 
 ## Ermenek Karapınar Örenyeri

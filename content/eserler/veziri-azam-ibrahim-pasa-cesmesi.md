@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.935239,41.039072"
 draft: false
+
+weight: 100
 ---
 
 ## Veziri Azam İbrahim Paşa Çeşmesi

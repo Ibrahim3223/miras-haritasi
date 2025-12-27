@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.5374015,40.2644105"
 draft: false
+
+weight: 100
 ---
 
 # Ontoraita

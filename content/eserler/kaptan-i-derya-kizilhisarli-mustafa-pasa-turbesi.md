@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4223,37.0331"
 draft: false
+
+weight: 100
 ---
 
 ## Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi

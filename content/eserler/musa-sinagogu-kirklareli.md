@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.22398725,41.73496486"
 draft: false
+
+weight: 10
 ---
 
 ## Musa Sinagogu: Kırklareli'nin Tarihi Kırmızısı

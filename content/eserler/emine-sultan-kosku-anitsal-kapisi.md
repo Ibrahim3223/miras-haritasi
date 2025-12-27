@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0366402,41.0329552"
 draft: false
+
+weight: 10
 ---
 
 ## Emine Sultan Köşkü Anıtsal Kapısı: Üsküdar'ın Muhteşem Anıtı

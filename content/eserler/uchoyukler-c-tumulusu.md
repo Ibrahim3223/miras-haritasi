@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9006252,41.7036743"
 draft: false
+
+weight: 100
 ---
 
 ## Üçhöyükler C Tümülüsü: Edirne'nin Gizli Anıtı

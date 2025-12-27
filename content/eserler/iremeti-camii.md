@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.926638888,41.483166666"
 draft: false
+
+weight: 10
 ---
 
 ## İremeti Camii: Borçka'nın Tarihi Bir Mirası

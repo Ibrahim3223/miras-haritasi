@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.1330109,38.625309"
 draft: false
+
+weight: 100
 ---
 
 ## Fethiye Höyük

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.873944444,41.314583333"
 draft: false
+
+weight: 100
 ---
 
 ### Bagini Kilisesi

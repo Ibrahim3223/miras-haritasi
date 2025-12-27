@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.5479851,37.7151031"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Selim (II) Hamamı

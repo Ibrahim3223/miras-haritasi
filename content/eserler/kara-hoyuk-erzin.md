@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.0925827,36.9336357"
 draft: false
+
+weight: 100
 ---
 
 # Kara Höyük Erzin: Hatay'ın Gizli Kahramanları

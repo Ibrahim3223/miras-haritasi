@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28712,40.2307"
 draft: false
+
+weight: 10
 ---
 
 ### Lone Pine Mezarlığı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8794651,39.6440773"
 draft: false
+
+weight: 100
 ---
 
 ### Sadeddin Efendi Çeşmesi

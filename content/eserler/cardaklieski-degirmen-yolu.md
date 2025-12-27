@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.529844,41.710283"
 draft: false
+
+weight: 100
 ---
 
 # Çardaklı/Eski Değirmen Yolu Arkeolojik Sit

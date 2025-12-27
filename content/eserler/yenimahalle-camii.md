@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.8931007,41.2018013"
 draft: false
+
+weight: 100
 ---
 
 ## Yenimahalle Camii: Samsun'un Tarihi Bir Mirası

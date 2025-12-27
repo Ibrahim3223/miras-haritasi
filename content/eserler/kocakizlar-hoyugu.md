@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.9300558,39.785492"
 draft: false
+
+weight: 100
 ---
 
 ## Kocakızlar Höyüğü: Eskişehir'in Gizli Cenneti

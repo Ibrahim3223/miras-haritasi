@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2198529,40.2610168"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Osman Türbeleri

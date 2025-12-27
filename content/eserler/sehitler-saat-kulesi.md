@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "36.950666666,40.589611111"
 draft: false
+
+weight: 10
 ---
 
 ## Şehitler Saat Kulesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.009131,38.142546"
 draft: false
+
+weight: 100
 ---
 
 **Şeyh Halil Türbesi: Silvan'ın Tarihi Bir Anıtı**

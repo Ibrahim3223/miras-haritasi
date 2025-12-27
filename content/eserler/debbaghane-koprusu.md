@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.455143,40.451156"
 draft: false
+
+weight: 100
 ---
 
 ### Debbağhane Köprüsü

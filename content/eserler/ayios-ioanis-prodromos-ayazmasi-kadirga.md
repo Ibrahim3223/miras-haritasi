@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9668407,41.0045204"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Ioanis Prodromos Ayazması, Kadırga

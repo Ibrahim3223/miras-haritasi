@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4159279,38.4254684"
 draft: false
+
+weight: 100
 ---
 
 ## Tahire Hanım Çeşmesi: Kemalpaşa'nın Şirin Öyküsü

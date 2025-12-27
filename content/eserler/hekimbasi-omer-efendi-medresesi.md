@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9408493,41.0119743"
 draft: false
+
+weight: 100
 ---
 
 ### Hekimbaşı Ömer Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

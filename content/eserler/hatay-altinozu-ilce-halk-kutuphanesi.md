@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Hatay Altınözü İlçe Halk Kütüphanesi: Bilgi Deposu ve Kültür Mirası

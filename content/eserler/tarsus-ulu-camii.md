@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8975,36.9156"
 draft: false
+
+weight: 10
 ---
 
 ## Tarsus Ulu Camii: Kilikya'nın Tarihî ve Kültürel Mirası

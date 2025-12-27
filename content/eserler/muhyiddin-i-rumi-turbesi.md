@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.9818535,39.5040932"
 draft: false
+
+weight: 100
 ---
 
 ## Muhyiddin-i Rumi Türbesi: Balıkesir'in Kültürel Mirası

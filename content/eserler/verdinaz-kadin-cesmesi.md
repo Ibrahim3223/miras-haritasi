@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971376,41.022432"
 draft: false
+
+weight: 10
 ---
 
 ## Verdinaz Kadın Çeşmesi: Beyoğlu'ndaki Bir Kent Edebiyatı İkoni

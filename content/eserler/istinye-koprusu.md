@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0543365,41.1136284"
 draft: false
+
+weight: 100
 ---
 
 ## İstinye Köprüsü: İstanbul'un Kırmızı Taşı

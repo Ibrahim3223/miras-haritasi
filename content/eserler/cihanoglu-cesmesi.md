@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7056847,37.7590446"
 draft: false
+
+weight: 100
 ---
 
 ## Cihanoğlu Çeşmesi

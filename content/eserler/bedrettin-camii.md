@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.970202826,41.02901915"
 draft: false
+
+weight: 10
 ---
 
 ## Bedrettin Camii

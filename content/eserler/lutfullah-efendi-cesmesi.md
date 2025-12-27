@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9521427,41.025631"
 draft: false
+
+weight: 100
 ---
 
 ### Lütfullah Efendi Çeşmesi: Fatih'in Tarihi ve Kültürel Mirası

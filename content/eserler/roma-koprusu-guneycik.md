@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.7745249,36.754285"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Güneycik

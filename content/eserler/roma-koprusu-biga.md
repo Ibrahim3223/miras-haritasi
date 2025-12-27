@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.309811,40.372864"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Biga

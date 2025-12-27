@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.5639915,36.7693825"
 draft: false
+
+weight: 100
 ---
 
 ## Karacaoğlan ve Karaca Kız Anıtı

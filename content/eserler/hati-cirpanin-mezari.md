@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.684330555,40.206730555"
 draft: false
+
+weight: 10
 ---
 
 ## Hatı Çırpan'ın Mezarı

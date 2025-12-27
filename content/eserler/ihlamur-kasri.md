@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "29.001175,41.050747"
 draft: false
+
+weight: 10
 ---
 
 #### Ihlamur Kasrı: İstanbul'un Şöhretli Sarayı

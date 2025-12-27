@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6919479,41.2447205"
 draft: false
+
+weight: 10
 ---
 
 ## Şükrü Efendi Çeşmesi

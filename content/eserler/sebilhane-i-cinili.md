@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9563313,41.0180702"
 draft: false
+
+weight: 100
 ---
 
 ## Sebilhane-i Çinili: Fatih'te Bir Çeşme Mirası

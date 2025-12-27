@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.128388888,38.410888888"
 draft: false
+
+weight: 10
 ---
 
 ### Bayramyeri Saat Kulesi

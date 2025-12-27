@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.018821649,39.595843927"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Camii: Edremit'in Tarihi Cenneti

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9553509,41.0162201"
 draft: false
+
+weight: 10
 ---
 
 ## Gazanfer Ağa Medresesi

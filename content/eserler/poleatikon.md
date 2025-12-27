@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.088941,40.956377"
 draft: false
+
+weight: 100
 ---
 
 ### Poleatikon: Tarihî Bir Mirasın Geri Buzulması

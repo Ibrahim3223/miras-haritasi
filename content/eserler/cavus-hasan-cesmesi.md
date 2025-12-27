@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023028,41.017722"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuş Hasan Çeşmesi

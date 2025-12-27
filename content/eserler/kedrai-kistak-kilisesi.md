@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.2045441,36.9941711"
 draft: false
+
+weight: 100
 ---
 
 ## Kedrai Kıstak Kilisesi

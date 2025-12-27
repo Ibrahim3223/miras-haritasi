@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.03945,41.09295"
 draft: false
+
+weight: 10
 ---
 
 # İmami Azam Camii: İstanbul'un Bir Gizli Çehresinde Bir Camii

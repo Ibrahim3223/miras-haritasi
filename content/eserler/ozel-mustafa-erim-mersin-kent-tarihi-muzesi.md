@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6281166,36.8000679"
 draft: false
+
+weight: 100
 ---
 
 ## Özel Mustafa Erim Mersin Kent Tarihi Müzesi

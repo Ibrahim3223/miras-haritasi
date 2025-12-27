@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.9399223,37.8561096"
 draft: false
+
+weight: 100
 ---
 
 ## Taşköprü, Emirdoğan

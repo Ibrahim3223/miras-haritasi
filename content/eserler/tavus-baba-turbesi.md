@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.419923,37.85237"
 draft: false
+
+weight: 100
 ---
 
 ## Tavus Baba Türbesi

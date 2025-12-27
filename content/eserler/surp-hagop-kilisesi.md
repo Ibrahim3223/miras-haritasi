@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9347,41.0081"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Hagop Kilisesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.0650997,39.4793015"
 draft: false
+
+weight: 100
 ---
 
 **Meydan Çeşmesi**

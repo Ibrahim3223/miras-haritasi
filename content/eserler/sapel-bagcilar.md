@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8244667,41.031208"
 draft: false
+
+weight: 100
 ---
 
 ## Şapel, Bağcılar: İstanbul'un Gizli Çeşme Mirası

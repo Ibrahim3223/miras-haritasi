@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "25.8990746,40.2334518"
 draft: false
+
+weight: 100
 ---
 
 ## Kaleköy Kilise Çeşmesi: Gökçeada'nın Gizli Çeşmesi

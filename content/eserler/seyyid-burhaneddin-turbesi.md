@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.497545785,38.716288241"
 draft: false
+
+weight: 100
 ---
 
 ### Seyyid Burhaneddin Türbesi

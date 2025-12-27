@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3475285,41.40728"
 draft: false
+
+weight: 10
 ---
 
 ## Kadı Ali Camii

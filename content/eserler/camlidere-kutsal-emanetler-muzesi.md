@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.4693222,40.4859467"
 draft: false
+
+weight: 100
 ---
 
 ## Çamlıdere Kutsal Emanetler Müzesi

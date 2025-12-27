@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.982324,41.031217"
 draft: false
+
+weight: 100
 ---
 
 ### Firuz Ağa Mescidi

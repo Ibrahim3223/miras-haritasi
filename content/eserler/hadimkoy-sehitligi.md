@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.6150703,41.1580696"
 draft: false
+
+weight: 100
 ---
 
 ## Hadımköy Şehitliği

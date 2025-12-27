@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.1472012,40.9587853"
 draft: false
+
+weight: 10
 ---
 
 ## Başıbüyük Merkez Camii: İstanbul'un Tarihi ve Kültürel Mirası

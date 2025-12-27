@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9285793,41.0036354"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Beşir Ağa Sütun Çeşmesi

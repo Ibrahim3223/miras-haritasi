@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.6679,38.1929"
 draft: false
+
+weight: 100
 ---
 
 ## Enüş Peygamber Türbesi: Ergani'nin Tarihi ve Kültürel Mirası

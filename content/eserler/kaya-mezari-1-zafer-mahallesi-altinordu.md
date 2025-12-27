@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.960585,40.897451"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 1 (Zafer Mahallesi), Altınordu

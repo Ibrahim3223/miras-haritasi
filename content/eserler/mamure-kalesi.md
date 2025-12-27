@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.894444444,36.080833333"
 draft: false
+
+weight: 10
 ---
 
 ## Mamure Kalesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.052638888,39.813111111"
 draft: false
+
+weight: 10
 ---
 
 ## Uşaklı Höyük: Yozgat'ın Gizli Çağı

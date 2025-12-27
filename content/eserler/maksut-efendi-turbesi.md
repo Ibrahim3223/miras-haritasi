@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.3303642,39.8968544"
 draft: false
+
+weight: 100
 ---
 
 ## Maksut Efendi Türbesi

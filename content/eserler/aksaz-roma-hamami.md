@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1608067,38.2817497"
 draft: false
+
+weight: 100
 ---
 
 ## Aksaz Roma Hamamı: Birinci Yüzyıldan Kalma Önemli Bir Miras

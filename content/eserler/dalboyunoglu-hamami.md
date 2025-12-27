@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5559887,37.7631932"
 draft: false
+
+weight: 10
 ---
 
 **Dalboyunoğlu Hamamı**

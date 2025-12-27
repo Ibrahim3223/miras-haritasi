@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.664219,40.776394"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 7: Gürgentepe'deki Antik Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.4875,38.7225"
 draft: false
+
+weight: 1
 ---
 
 ### Kapadokya Kayserisi: Bir Tarihî Mirasın Gizemi

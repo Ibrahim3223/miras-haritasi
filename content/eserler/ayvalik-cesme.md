@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6952686,39.3186798"
 draft: false
+
+weight: 100
 ---
 
 ## Ayvalık Çeşme: Ayvalık'ın Tarihî ve Kültürel Mirası

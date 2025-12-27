@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9568977,41.0140381"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Mehmet Camii Şadırvanı

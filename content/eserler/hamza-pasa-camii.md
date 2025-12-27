@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.0886612,38.3495789"
 draft: false
+
+weight: 100
 ---
 
 ## Hamza Paşa Camii

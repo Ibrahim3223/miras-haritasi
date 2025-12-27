@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.814579,40.398392"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Kavaklıdere

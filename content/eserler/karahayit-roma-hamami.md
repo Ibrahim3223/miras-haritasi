@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0970917,37.9590721"
 draft: false
+
+weight: 100
 ---
 
 ## Karahayıt Roma Hamamı

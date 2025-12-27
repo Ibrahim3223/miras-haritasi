@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.824638888,40.95975"
 draft: false
+
+weight: 10
 ---
 
 ## Mor Efrem Süryani Kilisesi

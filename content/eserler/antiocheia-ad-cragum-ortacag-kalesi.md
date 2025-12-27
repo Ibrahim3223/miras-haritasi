@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.4149017,36.1569176"
 draft: false
+
+weight: 10
 ---
 
 ## Antiocheia Ad Cragum Ortaçağ Kalesi

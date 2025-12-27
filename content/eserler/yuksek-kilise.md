@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.3504416,38.2734295"
 draft: false
+
+weight: 10
 ---
 
 ## Yüksek Kilise: Güzelyurt'un Kültürel Mirası

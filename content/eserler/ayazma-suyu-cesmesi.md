@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2320213,40.9149704"
 draft: false
+
+weight: 10
 ---
 
 ## Ayazma Suyu Çeşmesi

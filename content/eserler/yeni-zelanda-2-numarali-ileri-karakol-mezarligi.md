@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2808,40.2531"
 draft: false
+
+weight: 10
 ---
 
 ### Yeni Zelanda 2 Numaralı İleri Karakol Mezarlığı

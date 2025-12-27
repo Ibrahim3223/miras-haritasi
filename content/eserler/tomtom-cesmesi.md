@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979053,41.030434"
 draft: false
+
+weight: 100
 ---
 
 ## Tomtom Çeşmesi

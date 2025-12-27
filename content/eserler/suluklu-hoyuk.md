@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.3300171,40.5844269"
 draft: false
+
+weight: 100
 ---
 
 ## Sülüklü Höyük: Çorum'un Gizemli Arkeolojik Sitleri

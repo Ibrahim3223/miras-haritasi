@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.9225,37.223055555"
 draft: false
+
+weight: 1
 ---
 
 ### Göbeklitepe: Tarihî Bir Mirasın Keşfi

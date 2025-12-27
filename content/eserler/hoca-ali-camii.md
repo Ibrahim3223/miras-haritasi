@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.943173105,41.036022682"
 draft: false
+
+weight: 10
 ---
 
 ## Hoca Ali Camii: Ayvansaray'da Gizli Bir Cennet

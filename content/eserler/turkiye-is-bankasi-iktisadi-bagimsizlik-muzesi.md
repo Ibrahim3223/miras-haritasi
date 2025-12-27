@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.85472222,39.94277778"
 draft: false
+
+weight: 10
 ---
 
 ## Türkiye İş Bankası İktisadi Bağımsızlık Müzesi

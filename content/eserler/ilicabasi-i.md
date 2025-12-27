@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.00025,39.338367"
 draft: false
+
+weight: 100
 ---
 
 ## Ilıcabaşı I: Eskişehir'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.723128602,37.707006468"
 draft: false
+
+weight: 100
 ---
 
 ## Aphrodisias'taki Sivil Bazilika

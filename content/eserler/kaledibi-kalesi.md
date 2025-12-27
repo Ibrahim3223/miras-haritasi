@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.528513888,40.3199"
 draft: false
+
+weight: 100
 ---
 
 **Kaledibi Kalesi: Tortum'un Gizli İhtişamı**

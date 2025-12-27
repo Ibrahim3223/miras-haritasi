@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9450493,41.0243416"
 draft: false
+
+weight: 100
 ---
 
 ## Nişancı Cedid Sebili: Fatih'in Gizli Çeşmesi

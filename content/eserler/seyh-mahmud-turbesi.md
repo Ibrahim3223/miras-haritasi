@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.292954,40.267367"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Mahmud Türbesi: Pazar, Tokat'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.946157,41.025898"
 draft: false
+
+weight: 100
 ---
 
 ## Beyceğiz Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.298055555,37.658611111"
 draft: false
+
+weight: 100
 ---
 
 ### Zeus Tapınağı (Priene)

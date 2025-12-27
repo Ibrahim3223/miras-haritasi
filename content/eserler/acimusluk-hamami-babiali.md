@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.973925,41.012831"
 draft: false
+
+weight: 100
 ---
 
 ## Acımusluk Hamamı Babıali: İstanbul'un Tarihi ve Kültürel Mirası

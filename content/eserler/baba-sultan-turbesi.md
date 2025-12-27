@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.0641,39.48"
 draft: false
+
+weight: 100
 ---
 
 ### Baba Sultan Türbesi

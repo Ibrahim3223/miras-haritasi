@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.8132515,40.657341"
 draft: false
+
+weight: 100
 ---
 
 ## Hızır Paşa Hamamı

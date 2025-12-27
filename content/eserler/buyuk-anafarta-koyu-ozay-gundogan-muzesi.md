@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.328484,40.281709"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Anafarta Köyü Özay Gündoğan Müzesi

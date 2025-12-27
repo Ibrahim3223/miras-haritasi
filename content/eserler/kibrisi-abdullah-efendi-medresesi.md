@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.951966,41.023081"
 draft: false
+
+weight: 100
 ---
 
 ## Kıbrısi Abdullah Efendi Medresesi: İstanbul'un Gizli Çehresi

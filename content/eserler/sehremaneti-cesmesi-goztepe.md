@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.068185,40.981649"
 draft: false
+
+weight: 10
 ---
 
 **Şehremaneti Çeşmesi, Göztepe**

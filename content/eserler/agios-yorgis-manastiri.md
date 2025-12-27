@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "26.631831,39.369084"
 draft: false
+
+weight: 10
 ---
 
 ## Agios Yorgis Manastırı: Ayvalık'taki Bir Geçmiş Eser

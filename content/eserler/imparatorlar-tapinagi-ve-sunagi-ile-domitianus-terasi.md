@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.342612788,37.936522611"
 draft: false
+
+weight: 10
 ---
 
 # İmparatorlar Tapınağı ve Sunağı ile Domitianus Terası

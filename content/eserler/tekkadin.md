@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.007221944,36.487221944"
 draft: false
+
+weight: 10
 ---
 
 ## Tekkadın: Silifke'nin Gizli Cenneti

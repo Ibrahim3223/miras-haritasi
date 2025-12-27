@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.6121864,39.8078804"
 draft: false
+
+weight: 10
 ---
 
 ### Taşköprü Camii: Çanakkale'nin Gizli Çeşmesi

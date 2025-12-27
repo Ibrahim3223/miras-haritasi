@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1288834,38.4153748"
 draft: false
+
+weight: 100
 ---
 
 # Süleyman Ferit Eczacıbaşı Heykeli

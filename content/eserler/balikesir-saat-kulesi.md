@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.87916667,39.64527778"
 draft: false
+
+weight: 10
 ---
 
 ## Balıkesir Saat Kulesi: Bir İlahi Görsellik

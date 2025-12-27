@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5595016,41.6790352"
 draft: false
+
+weight: 10
 ---
 
 ### Saray Hamamı, Edirne

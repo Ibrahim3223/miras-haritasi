@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.945486,41.033867"
 draft: false
+
+weight: 10
 ---
 
 ### Surp Hıreşdagabed Kilisesi: İstanbul'un Gizli Çarpıntısı

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.6248398,36.7993011"
 draft: false
+
+weight: 100
 ---
 
 # Şıh Salih Medresesi

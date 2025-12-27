@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.983855,41.033132"
 draft: false
+
+weight: 10
 ---
 
 ## Paşa Baba Çeşmesi

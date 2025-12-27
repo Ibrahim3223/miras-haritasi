@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Harmanören - Göndürle Höyük: Türkiye'nin Gizli Mirası

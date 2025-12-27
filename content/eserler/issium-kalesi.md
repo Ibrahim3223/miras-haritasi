@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.036718,36.282509"
 draft: false
+
+weight: 100
 ---
 
 ## Issium Kalesi: Demre'nin Tarihî Bir Mirası

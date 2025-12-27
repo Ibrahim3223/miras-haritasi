@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.069055555,39.83525"
 draft: false
+
+weight: 10
 ---
 
 ## Kimisis Teodoku Rum Ortodoks Kilisesi

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.109666666,41.192222222"
 draft: false
+
+weight: 10
 ---
 
 ## Ança Manastırı

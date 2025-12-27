@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.988903,36.1667557"
 draft: false
+
+weight: 100
 ---
 
 ## Batıayaz Ermeni Kilisesi: Tarihî Bir Mirasın İzleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1805,39.1155"
 draft: false
+
+weight: 100
 ---
 
 ## Güney Mezarlığı (Pergamon)

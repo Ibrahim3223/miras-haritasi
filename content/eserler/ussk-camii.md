@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.927381,40.996478"
 draft: false
+
+weight: 100
 ---
 
 ## Uşşâkî Camii

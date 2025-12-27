@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7983456,41.1557388"
 draft: false
+
+weight: 100
 ---
 
 ### Çoban Dede Çeşmesi

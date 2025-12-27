@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.064888888,38.660611111"
 draft: false
+
+weight: 10
 ---
 
 ## Kırkgöz Köprüsü: Bir Geçit Köprüsü Olarak Tarihe Yolculuk

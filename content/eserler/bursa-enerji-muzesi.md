@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.05083333,40.20083333"
 draft: false
+
+weight: 100
 ---
 
 ### Bursa Enerji Müzesi

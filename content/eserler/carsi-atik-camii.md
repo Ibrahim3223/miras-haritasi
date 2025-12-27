@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.1912537,38.20047"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Atik Camii

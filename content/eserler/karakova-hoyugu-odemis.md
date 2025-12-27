@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.940867,38.17535"
 draft: false
+
+weight: 100
 ---
 
 ## Karakova Höyüğü: Ödemiş'in Gizli Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.1,37.9"
 draft: false
+
+weight: 100
 ---
 
 ## Acharaka: Aydın'ın Tarihî Mirası

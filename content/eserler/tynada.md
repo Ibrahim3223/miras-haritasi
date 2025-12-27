@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1607155,37.7554975"
 draft: false
+
+weight: 100
 ---
 
 ### Tynada: Aksu, Isparta'daki Antik Bir Arkeolojik Sit

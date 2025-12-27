@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.298363,36.995872"
 draft: false
+
+weight: 100
 ---
 
 ## Termera Arkeolojik Siti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.1384621,38.843338"
 draft: false
+
+weight: 100
 ---
 
 ### Ballıkaya Tümülüsü: Hekimhan'ın Gizemli Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.52005,41.65256"
 draft: false
+
+weight: 10
 ---
 
 ## Lozan Anıtı

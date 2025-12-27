@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0591791,40.184061"
 draft: false
+
+weight: 10
 ---
 
 ### Çakır Hamamı: Bursa'nın İhtişamlı Hamamlarından Birisidir

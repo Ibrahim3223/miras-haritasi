@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.846033771,38.919736234"
 draft: false
+
+weight: 10
 ---
 
 ## Zeynelzade Kütüphanesi

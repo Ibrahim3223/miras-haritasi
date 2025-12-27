@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9857607,41.0353517"
 draft: false
+
+weight: 10
 ---
 
 ## Hafız Ahmet Paşa Çeşmesi: Cihangir'in Gizli Çeşmesi

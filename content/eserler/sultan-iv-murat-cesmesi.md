@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.044191,40.993957"
 draft: false
+
+weight: 100
 ---
 
 ### Sultan IV. Murat Çeşmesi

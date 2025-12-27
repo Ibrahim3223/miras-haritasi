@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.975024402,40.997490806"
 draft: false
+
+weight: 10
 ---
 
 ## Şenyuva Köprüsü: Çamlıhemşin'in Tarihi Mirası

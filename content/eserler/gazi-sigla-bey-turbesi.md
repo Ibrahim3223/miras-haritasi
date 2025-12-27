@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3679619,37.9477539"
 draft: false
+
+weight: 100
 ---
 
 ## Gazi Sığla Bey Türbesi

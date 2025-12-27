@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2794571,40.2674904"
 draft: false
+
+weight: 100
 ---
 
 ## Damakcılbayırı Yazıtı: Eceabat'ın Gizli Anıtı

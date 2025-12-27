@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9731121,39.4211159"
 draft: false
+
+weight: 100
 ---
 
 ## Maruf Çeşmesi: Kütahya'nın Görsel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2173233,37.1836472"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Çeşmesi: Karaman'ın Tarihi Bir Çeşmesi

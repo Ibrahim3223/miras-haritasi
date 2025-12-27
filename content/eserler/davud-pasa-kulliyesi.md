@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.938239,41.006929"
 draft: false
+
+weight: 10
 ---
 
 ## Davud Paşa Külliyesi

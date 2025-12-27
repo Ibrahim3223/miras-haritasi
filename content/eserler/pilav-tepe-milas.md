@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.727683,37.255733"
 draft: false
+
+weight: 100
 ---
 
 ## Pilav Tepe, Milas

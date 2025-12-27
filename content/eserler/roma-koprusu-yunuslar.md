@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.941416,37.911526"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Yunuslar: Beyşehir'in Tarihî Mirası

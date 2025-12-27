@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.941417454,41.011078258"
 draft: false
+
+weight: 100
 ---
 
 # Diş Sağlığı Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.876533,39.3474"
 draft: false
+
+weight: 100
 ---
 
 # Hamitli Höyük: Eskişehir'in Gizli Klasik Mirası

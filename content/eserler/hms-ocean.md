@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.2997913,40.0165443"
 draft: false
+
+weight: 10
 ---
 
 # HMS Ocean: Çanakkale'nin Gizli Anıtı

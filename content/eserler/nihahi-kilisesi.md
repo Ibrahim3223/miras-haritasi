@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.335733333,40.684611111"
 draft: false
+
+weight: 100
 ---
 
 ### Nihahi Kilisesi

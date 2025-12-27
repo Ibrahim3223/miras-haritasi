@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.6045,37.120499"
 draft: false
+
+weight: 100
 ---
 
 ## Sinda (Pisidya): Tarihinin Gizemi ve Mimarisinin Büyüklüğü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.997538548,41.047111248"
 draft: false
+
+weight: 10
 ---
 
 ## Hoca Mehmet Raif Ağa Camii: Beşiktaş'ta Bir Geçiş Dönemi Camii

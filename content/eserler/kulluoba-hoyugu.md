@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.7442055,39.5564651"
 draft: false
+
+weight: 10
 ---
 
 ## Küllüoba Höyüğü: Eskişehir'in Gizli Kahramanı

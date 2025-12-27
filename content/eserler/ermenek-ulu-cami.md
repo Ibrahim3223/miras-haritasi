@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.890277777,36.641361111"
 draft: false
+
+weight: 10
 ---
 
 ## Ermenek Ulu Cami

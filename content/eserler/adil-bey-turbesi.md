@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.8114967,41.2261772"
 draft: false
+
+weight: 100
 ---
 
 # Adil Bey Türbesi: Kastamonu'nun Tarihî Mirası

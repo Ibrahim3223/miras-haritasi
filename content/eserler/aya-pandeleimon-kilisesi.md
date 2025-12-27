@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9784832,41.0247841"
 draft: false
+
+weight: 100
 ---
 
 **Aya Pandeleimon Kilisesi: İstanbul'un Gizli Cenneti**

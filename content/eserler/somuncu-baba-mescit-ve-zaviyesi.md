@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.0401878,38.3746986"
 draft: false
+
+weight: 100
 ---
 
 ## Somuncu Baba Mescit ve Zaviyesi

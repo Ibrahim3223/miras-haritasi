@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.31666667,41.28333333"
 draft: false
+
+weight: 10
 ---
 
 ## Mater Dolorosa Katolik Kilisesi

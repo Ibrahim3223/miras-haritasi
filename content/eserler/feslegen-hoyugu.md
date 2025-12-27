@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8473,38.80592"
 draft: false
+
+weight: 100
 ---
 
 ### Fesleğen Höyüğü

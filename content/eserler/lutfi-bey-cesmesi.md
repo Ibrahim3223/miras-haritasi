@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.045267,41.078845"
 draft: false
+
+weight: 10
 ---
 
 ## Lütfi Bey Çeşmesi

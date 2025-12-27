@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.496760734,38.716890327"
 draft: false
+
+weight: 100
 ---
 
 ## Selçuklu Kümbet, Kayseri

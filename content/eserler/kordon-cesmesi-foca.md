@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7548733,38.672226"
 draft: false
+
+weight: 100
 ---
 
 ## Kordon Çeşmesi, Foça

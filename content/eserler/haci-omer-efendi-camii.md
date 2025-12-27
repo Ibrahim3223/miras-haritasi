@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.05363,41.049439"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Ömer Efendi Camii

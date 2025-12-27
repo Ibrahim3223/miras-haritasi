@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9237804,41.0079994"
 draft: false
+
+weight: 10
 ---
 
 ## Bala Süleyman Ağa Türbesi

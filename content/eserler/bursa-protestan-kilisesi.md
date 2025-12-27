@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0660686,40.1804123"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Protestan Kilisesi: Geçmişin Etkileyici Mirası

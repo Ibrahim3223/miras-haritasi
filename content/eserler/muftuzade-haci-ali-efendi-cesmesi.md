@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7390995,38.0844994"
 draft: false
+
+weight: 100
 ---
 
 ## Müftüzade Hacı Ali Efendi Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.81988,40.99387"
 draft: false
+
+weight: 100
 ---
 
 ## Çobançeşme Köprüsü: İstanbul'un Gizli Cenneti

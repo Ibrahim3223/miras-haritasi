@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3718166,40.1669579"
 draft: false
+
+weight: 100
 ---
 
 ## Çamburnu Balkan Şehitleri Anıtı

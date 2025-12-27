@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.9052067,40.2230644"
 draft: false
+
+weight: 100
 ---
 
 ## Gökçeada'nın Bademli Manastırı: Tarihi ve Kültürel Miras

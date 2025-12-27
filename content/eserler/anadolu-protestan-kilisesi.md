@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0230846,40.9888039"
 draft: false
+
+weight: 100
 ---
 
 **Anadolu Protestan Kilisesi**

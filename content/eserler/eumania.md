@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.85059,38.32585"
 draft: false
+
+weight: 100
 ---
 
 ### Eumania Arkeolojik Sit

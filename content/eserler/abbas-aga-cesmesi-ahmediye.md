@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.018139385,41.021811505"
 draft: false
+
+weight: 10
 ---
 
 ## Abbas Ağa Çeşmesi, Ahmediye

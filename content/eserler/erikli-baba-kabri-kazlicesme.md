@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.914437,40.990908"
 draft: false
+
+weight: 10
 ---
 
 ### Erikli Baba Kabri, Kazlıçeşme

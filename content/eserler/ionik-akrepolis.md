@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.342307371,37.945600636"
 draft: false
+
+weight: 100
 ---
 
 ## İonik Akrepolis: İzmir'in Gizli Cenneti

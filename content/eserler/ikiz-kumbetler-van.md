@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.3400574,38.4969635"
 draft: false
+
+weight: 100
 ---
 
 ## İkiz Kümbetler: Van'ın Efsanevi Anıtı

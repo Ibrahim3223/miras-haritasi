@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.236957,40.941042"
 draft: false
+
+weight: 100
 ---
 
 ## İskenderli Köprüsü 1: Tonya'nın Tarihi Çatısı

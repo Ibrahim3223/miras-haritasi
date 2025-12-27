@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.97555556,41.0025"
 draft: false
+
+weight: 10
 ---
 
 ## Bukoleon Sarayı: İstanbul'un Gizli Çehresini Keşfetmek

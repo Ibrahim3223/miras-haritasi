@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1688728,36.1999207"
 draft: false
+
+weight: 100
 ---
 
 ## Şekerci Camii: Antakya'nın Gizemli Camii

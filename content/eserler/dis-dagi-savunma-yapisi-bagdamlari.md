@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.8492947,37.1353035"
 draft: false
+
+weight: 100
 ---
 
 # Diş Dağı Savunma Yapısı, Bağdamları

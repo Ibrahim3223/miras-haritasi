@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8595505,39.9387093"
 draft: false
+
+weight: 100
 ---
 
 # Yeğenbey Camii: Ankara'nın Tarihi ve Kültürel Mirası

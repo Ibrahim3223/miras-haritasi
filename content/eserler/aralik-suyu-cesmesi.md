@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.055727157,41.168733435"
 draft: false
+
+weight: 10
 ---
 
 ## Aralık Suyu Çeşmesi

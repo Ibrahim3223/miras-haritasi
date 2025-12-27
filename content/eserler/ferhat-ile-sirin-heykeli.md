@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8264198,40.6510239"
 draft: false
+
+weight: 10
 ---
 
 ## Ferhat ile Şirin Heykeli: Amasya'daki Efsanesel Anıt

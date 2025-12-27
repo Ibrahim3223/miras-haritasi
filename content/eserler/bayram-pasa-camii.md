@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.942352,41.008715"
 draft: false
+
+weight: 100
 ---
 
 # Bayram Paşa Camii: İstanbul'un Gizli Çehresini İfade Edecek Bir Anıt

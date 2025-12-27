@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.078211805,40.971643111"
 draft: false
+
+weight: 100
 ---
 
 ## Tellikavak Sokağı Çeşmesi

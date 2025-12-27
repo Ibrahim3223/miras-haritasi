@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9401588,41.0371132"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Nikitas Ayazması

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2766647,39.9126816"
 draft: false
+
+weight: 100
 ---
 
 # Ali Paşa Camii, Erzurum

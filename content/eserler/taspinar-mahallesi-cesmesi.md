@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5251026,38.7544556"
 draft: false
+
+weight: 100
 ---
 
 **Taşpınar Mahallesi Çeşmesi: Afyonkarahisar'ın Değerli Kültürel Mirası**

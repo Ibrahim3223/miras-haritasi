@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.930456,37.338619"
 draft: false
+
+weight: 100
 ---
 
 ## Kaynakkaya Camii: Mardin'in Tarihi ve Kültürel Mirası

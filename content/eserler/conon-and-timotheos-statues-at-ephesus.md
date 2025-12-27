@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3637,37.9497"
 draft: false
+
+weight: 100
 ---
 
 ## Conon ve Timotheos, heykelleri, Efes

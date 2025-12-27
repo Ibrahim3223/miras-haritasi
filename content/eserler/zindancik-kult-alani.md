@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.934466666,38.993225"
 draft: false
+
+weight: 100
 ---
 
 ### Zindancık Kült Alanı: Tarihi ve Kültürel Miras Değerleri

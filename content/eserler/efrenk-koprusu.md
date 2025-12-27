@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.079571,36.60973"
 draft: false
+
+weight: 100
 ---
 
 ### Efrenk Köprüsü: Silifke'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.832361,37.529444"
 draft: false
+
+weight: 100
 ---
 
 ## Boncuklu Tarla: Mardin'in Gizli Öyküsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.076657,38.167719"
 draft: false
+
+weight: 100
 ---
 
 ## Perta: Konya'nın Gizli Cenneti

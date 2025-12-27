@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.9643974,40.5910225"
 draft: false
+
+weight: 100
 ---
 
 ### Alaaddin Savcı Bey Türbesi, Niksar

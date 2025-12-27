@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97211,41.00844"
 draft: false
+
+weight: 10
 ---
 
 ## Türkiye Gazeteciler Cemiyeti Basın Müzesi

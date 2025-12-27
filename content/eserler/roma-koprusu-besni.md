@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.8655891,37.6718559"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Besni

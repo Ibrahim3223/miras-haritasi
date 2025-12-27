@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.289722222,36.331944444"
 draft: false
+
+weight: 10
 ---
 
 ### Letoon: Lycia'nın Gizemi

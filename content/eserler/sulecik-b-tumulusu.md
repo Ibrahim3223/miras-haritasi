@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8458099,41.8045425"
 draft: false
+
+weight: 100
 ---
 
 ### Sülecik B Tümülüsü: Tarihi ve Kültürel Mirası Anlatmak

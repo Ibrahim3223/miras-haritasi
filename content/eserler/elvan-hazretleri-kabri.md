@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.954586,41.0255203"
 draft: false
+
+weight: 100
 ---
 
 ## Elvan Hazretleri Kabri: İstanbul'un Tarihsel Mirası

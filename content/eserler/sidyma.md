@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.19333333,36.40833333"
 draft: false
+
+weight: 10
 ---
 
 ## Sidyma: Muğla'nın Antik Mirası

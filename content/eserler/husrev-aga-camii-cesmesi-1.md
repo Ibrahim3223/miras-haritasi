@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4376888,38.6152267"
 draft: false
+
+weight: 100
 ---
 
 ## Hüsrev Ağa Camii Çeşmesi-1: Manisa'nın Tarihi Bir Çeşmesi

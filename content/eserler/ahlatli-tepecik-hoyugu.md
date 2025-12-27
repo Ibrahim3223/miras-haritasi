@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9626083,38.6040268"
 draft: false
+
+weight: 100
 ---
 
 ## Ahlatlı Tepecik Höyüğü: Manisa'nın Gizli Tarihî Kahramanı

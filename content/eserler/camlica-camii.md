@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0704,41.0343"
 draft: false
+
+weight: 10
 ---
 
 ## Çamlıca Camii: Üsküdar'ın Şehvetli ve Güzelliği

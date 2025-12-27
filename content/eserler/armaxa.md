@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.075031,39.1852"
 draft: false
+
+weight: 100
 ---
 
 ## Armaxa: Eski Çağ'ın Gizemli Kenti

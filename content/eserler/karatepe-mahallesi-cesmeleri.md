@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.0144405,40.6861191"
 draft: false
+
+weight: 100
 ---
 
 ## Karatepe Mahallesi Çeşmeleri: Kocaeli'nin Kültür Mirası

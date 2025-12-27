@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.056111111,41.104444444"
 draft: false
+
+weight: 10
 ---
 
 ## Emirgan Hamid-i Evvel Camii

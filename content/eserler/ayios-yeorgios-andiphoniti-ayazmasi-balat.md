@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9471798,41.0282288"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Yeorgios Andiphoniti Ayazması, Balat

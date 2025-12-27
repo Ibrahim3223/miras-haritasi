@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2774086,39.9089355"
 draft: false
+
+weight: 100
 ---
 
 **Batpazarı Çeşmesi**

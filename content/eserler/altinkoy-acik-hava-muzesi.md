@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.956444444,39.977138888"
 draft: false
+
+weight: 10
 ---
 
 ## Altınköy Açık Hava Müzesi

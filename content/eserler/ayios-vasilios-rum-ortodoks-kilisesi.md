@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.574816,38.714871"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Vasilios Rum Ortodoks Kilisesi - Kayseri'nin Gizli Çehresini Keşfetmek

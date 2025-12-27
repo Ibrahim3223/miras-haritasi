@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.92896,41.014382"
 draft: false
+
+weight: 100
 ---
 
 ## Cafer Ağa Camii Çeşmeleri

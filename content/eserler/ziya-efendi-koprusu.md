@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.6372643,37.3870583"
 draft: false
+
+weight: 100
 ---
 
 ## Ziya Efendi Köprüsü: Bir Tarihsel Mirasın Öyküsü

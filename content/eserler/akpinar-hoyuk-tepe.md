@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.2119553,38.111638"
 draft: false
+
+weight: 100
 ---
 
 **Akpınar Höyük Tepe: Kahramanmaraş'ın Gizli Kahramanı**

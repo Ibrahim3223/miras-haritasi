@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.2883258,39.0234625"
 draft: false
+
+weight: 10
 ---
 
 ## Sugeçti Eski Köprüsü

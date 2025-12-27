@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.717706,41.007982"
 draft: false
+
+weight: 10
 ---
 
 ## Hoca Halil Camii

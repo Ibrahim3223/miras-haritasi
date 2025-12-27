@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.041444444,41.037111111"
 draft: false
+
+weight: 10
 ---
 
 ## Hafıza 15 Temmuz Müzesi

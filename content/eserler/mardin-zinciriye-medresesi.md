@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.739842,37.314096"
 draft: false
+
+weight: 10
 ---
 
 ### Mardin Zinciriye Medresesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.16045674,36.199864561"
 draft: false
+
+weight: 100
 ---
 
 # Hatay Edebiyat Müze Kütüphanesi

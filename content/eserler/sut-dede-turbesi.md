@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5372505,38.7519035"
 draft: false
+
+weight: 100
 ---
 
 ### Süt Dede Türbesi

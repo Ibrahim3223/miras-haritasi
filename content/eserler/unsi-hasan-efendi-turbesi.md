@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9783897,41.0123482"
 draft: false
+
+weight: 10
 ---
 
 **Ünsi Hasan Efendi Türbesi: Fatih'in Gizli Cenneti**

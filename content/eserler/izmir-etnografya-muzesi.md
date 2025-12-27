@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1285,38.413722222"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Etnografya Müzesi

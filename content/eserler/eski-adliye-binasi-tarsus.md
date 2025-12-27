@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.8920631,36.9170456"
 draft: false
+
+weight: 100
 ---
 
 **Eski Adliye Binası, Tarsus**

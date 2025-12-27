@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.061495,40.184818"
 draft: false
+
+weight: 100
 ---
 
 # Prusa

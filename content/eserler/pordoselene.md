@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.654808,39.336684"
 draft: false
+
+weight: 100
 ---
 
 ## Pordoselene: Balıkesir'in Gizli Tarihi Şehri

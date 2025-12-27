@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9513,41.0266"
 draft: false
+
+weight: 10
 ---
 
 ## Yavuz Selim Camii: İstanbul'un Gizli Çeşmesi

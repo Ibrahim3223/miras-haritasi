@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.949833333,41.050166666"
 draft: false
+
+weight: 100
 ---
 
 ## Çıksalın Sinagogu: İstanbul'un Gizli Mirası

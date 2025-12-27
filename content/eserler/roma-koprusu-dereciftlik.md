@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.3532658,37.8057594"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Dereçiftlik

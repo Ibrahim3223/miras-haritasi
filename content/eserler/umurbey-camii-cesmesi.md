@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8845501,39.6469803"
 draft: false
+
+weight: 10
 ---
 
 ## Umurbey Camii Çeşmesi

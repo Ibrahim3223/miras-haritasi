@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.6851,40.207349"
 draft: false
+
+weight: 100
 ---
 
 ## Satıkadın Müzesi

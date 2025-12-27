@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8452208,38.6391928"
 draft: false
+
+weight: 10
 ---
 
 # Elmalı Kilise: Göreme'nin Gizemli Kilisesi

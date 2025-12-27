@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.088277777,40.612611111"
 draft: false
+
+weight: 10
 ---
 
 ### Kars Kutsal Ana Meryem Kilisesi

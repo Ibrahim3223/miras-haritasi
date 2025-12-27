@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9569206,40.2035789"
 draft: false
+
+weight: 100
 ---
 
 ### Akbayırlar Kaya Mezarları

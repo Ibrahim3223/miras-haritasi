@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8095474,41.6656265"
 draft: false
+
+weight: 100
 ---
 
 ## Habiller B Tümülüsü: Edirne'nin Gizli Tarihi

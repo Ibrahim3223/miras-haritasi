@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8799191,41.747509"
 draft: false
+
+weight: 100
 ---
 
 ### Süloğlu 2 Tümülüsü: Edirne'nin Gizli Hazinesi

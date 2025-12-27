@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0158749,41.0256958"
 draft: false
+
+weight: 10
 ---
 
 ## Selman Ağa Kabri: Üsküdar'ın Tarihî Anıtı

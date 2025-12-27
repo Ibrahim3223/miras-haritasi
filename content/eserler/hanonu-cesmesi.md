@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.808,37.6998"
 draft: false
+
+weight: 100
 ---
 
 ## Hanönü Çeşmesi: Tavas'taki Bir Ölümsüz

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9524406,41.0153758"
 draft: false
+
+weight: 100
 ---
 
 **Amcazade Hüseyin Paşa Sebili**

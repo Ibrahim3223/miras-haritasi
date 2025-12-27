@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3804722,41.7635651"
 draft: false
+
+weight: 100
 ---
 
 ### Üsküp Kumtepeler F Tümülüsü

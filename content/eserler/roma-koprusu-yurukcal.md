@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.5428819,41.1526231"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Yürükçal

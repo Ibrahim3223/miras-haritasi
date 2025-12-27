@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.225222222,41.734277777"
 draft: false
+
+weight: 10
 ---
 
 ### Salı Yeri Çeşmesi: Kırklareli'nin Tarihi ve Kültürel Mirası

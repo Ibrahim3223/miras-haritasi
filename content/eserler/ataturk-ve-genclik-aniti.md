@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.736222222,39.868083333"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk ve Gençlik Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9342709,41.0473557"
 draft: false
+
+weight: 100
 ---
 
 ## Sokullu Mehmet Paşa Çeşmesi: İstanbul'un Gizli Çeşme Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2742882,41.4552155"
 draft: false
+
+weight: 100
 ---
 
 ### Kırıkköy Eskibağlar Tümülüsü

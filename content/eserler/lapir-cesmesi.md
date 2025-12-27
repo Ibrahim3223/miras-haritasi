@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.035984,41.1569939"
 draft: false
+
+weight: 100
 ---
 
 ## Lapir Çeşmesi

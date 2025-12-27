@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9873562,39.4175377"
 draft: false
+
+weight: 100
 ---
 
 ## Paşa Çeşmesi, Kütahya

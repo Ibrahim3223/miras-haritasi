@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9294014,41.0528145"
 draft: false
+
+weight: 100
 ---
 
 ## Evlice Baba Kabri

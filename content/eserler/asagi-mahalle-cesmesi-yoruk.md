@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.795432243,41.222875715"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Mahalle Çeşmesi, Yörük: Safranbolu'nun Gizli Çeşmesi

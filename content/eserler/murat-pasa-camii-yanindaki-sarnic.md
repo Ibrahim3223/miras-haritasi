@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.949323181,41.009850746"
 draft: false
+
+weight: 100
 ---
 
 # Murat Paşa Camii Yanındaki Sarnıç

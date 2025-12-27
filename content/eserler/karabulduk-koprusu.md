@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.549407,40.821218"
 draft: false
+
+weight: 100
 ---
 
 **Karabulduk Köprüsü**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.0074387,41.043354"
 draft: false
+
+weight: 100
 ---
 
 # Nekropol, Beşiktaş Metro Kazısı

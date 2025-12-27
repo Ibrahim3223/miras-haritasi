@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.949722,41.019722"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Camii: İstanbul'un Tarihi Bir Mirası

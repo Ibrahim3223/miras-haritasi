@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.222023,37.1800728"
 draft: false
+
+weight: 100
 ---
 
 ### Seki Çeşme Hamamı

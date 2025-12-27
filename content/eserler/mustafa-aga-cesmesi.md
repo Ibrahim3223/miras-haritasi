@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2770004,36.9995995"
 draft: false
+
+weight: 100
 ---
 
 ## Mustafa Ağa Çeşmesi

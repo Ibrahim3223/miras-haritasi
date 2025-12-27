@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.030748,40.200615"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Ormancılık Müzesi Tanıtımı

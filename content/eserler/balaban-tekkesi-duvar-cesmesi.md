@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0137692,41.0251708"
 draft: false
+
+weight: 10
 ---
 
 ## Balaban Tekkesi Duvar Çeşmesi: İstanbul'un Gizli Çeşmesi

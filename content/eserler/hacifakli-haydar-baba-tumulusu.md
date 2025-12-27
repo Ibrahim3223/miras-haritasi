@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5137119,41.7009964"
 draft: false
+
+weight: 100
 ---
 
 ### Hacıfaklı Haydar Baba Tümülüsü: Kırklareli'nin Gizli Cenneti

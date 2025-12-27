@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4883575,38.7213898"
 draft: false
+
+weight: 100
 ---
 
 ### Kale Camii, Kayseri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.4996033,39.7170715"
 draft: false
+
+weight: 100
 ---
 
 ## Dede Paşa Türbesi

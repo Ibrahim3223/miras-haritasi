@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968085873,41.033195987"
 draft: false
+
+weight: 10
 ---
 
 ## Feyzullah Efendi Çeşmesi, Kasımpaşa

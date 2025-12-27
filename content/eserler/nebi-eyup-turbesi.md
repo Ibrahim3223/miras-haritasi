@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6229744,36.7993469"
 draft: false
+
+weight: 100
 ---
 
 ## Nebi Eyüp Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.173004,41.954756"
 draft: false
+
+weight: 100
 ---
 
 ## Anticinolis Arkeolojik Sit

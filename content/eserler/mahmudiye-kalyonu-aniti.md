@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3026009,38.3232002"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmudiye Kalyonu Anıtı

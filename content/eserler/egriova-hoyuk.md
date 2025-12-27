@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.690129,39.307469"
 draft: false
+
+weight: 100
 ---
 
 ## Eğriova Höyük: Seyitgazi'nin Gizli Cenneti

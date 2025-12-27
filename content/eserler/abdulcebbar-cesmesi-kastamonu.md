@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.782822185,41.377801443"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülcebbar Çeşmesi: Kastamonu'nun Tarihi ve Kültürel Mirası

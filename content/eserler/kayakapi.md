@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.905869,38.634634"
 draft: false
+
+weight: 10
 ---
 
 ## Kayakapı: Ürgüp'te Bir Arkeolojik Sitin Gizemi

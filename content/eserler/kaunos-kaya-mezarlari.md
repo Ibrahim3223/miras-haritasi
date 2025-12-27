@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.6341858,36.8335838"
 draft: false
+
+weight: 10
 ---
 
 ### Kaunos Kaya Mezarları: Köyceğiz'in Gizli Mirası

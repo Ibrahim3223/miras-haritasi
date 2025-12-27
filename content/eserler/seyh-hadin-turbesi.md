@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2416763,37.9129524"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Hadin Türbesi

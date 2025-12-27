@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9806194,41.0265656"
 draft: false
+
+weight: 100
 ---
 
 ### Kılıç Ali Paşa Camii Şadırvanı

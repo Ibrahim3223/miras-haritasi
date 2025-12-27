@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.98147,41.008606"
 draft: false
+
+weight: 10
 ---
 
 ## Bab-ı Hümayun: İstanbul'un Tarihî Bir Anıtı

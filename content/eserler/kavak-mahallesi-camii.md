@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.016952079,41.050092853"
 draft: false
+
+weight: 100
 ---
 
 ## Kavak Mahallesi Camii: Rize'nin Tarihi ve Kültürel Mirası

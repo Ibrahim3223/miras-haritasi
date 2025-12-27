@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.971752459,41.001743961"
 draft: false
+
+weight: 100
 ---
 
 ### Şenyuva Köyü Karşı Mahalle Camii Tanıtımı

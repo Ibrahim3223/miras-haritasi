@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.273944444,39.911111111"
 draft: false
+
+weight: 10
 ---
 
 # Erzurum Gürcü Kapı (Aliağa) Camii

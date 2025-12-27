@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.330653112,36.984987244"
 draft: false
+
+weight: 100
 ---
 
 **Adana Ulu Cami Çeşmesi**

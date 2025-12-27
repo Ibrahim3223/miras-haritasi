@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9727863,41.015965"
 draft: false
+
+weight: 10
 ---
 
 # Türkiye İş Bankası Müzesi

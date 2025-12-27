@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.931444444,41.026333333"
 draft: false
+
+weight: 10
 ---
 
 ## Fetih Şehitleri Kabristanı: İstanbul'un Tarihsel Mirası

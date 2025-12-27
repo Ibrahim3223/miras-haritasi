@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Ali Cafer Kümbeti: Tarih Öncesi'nden Günümüze Bir Anıt

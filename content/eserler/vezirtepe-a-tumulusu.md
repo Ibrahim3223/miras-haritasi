@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0779591,41.6319885"
 draft: false
+
+weight: 100
 ---
 
 ## Vezirtepe A Tümülüsü: Tarihî Bir Mirasın Gizemi

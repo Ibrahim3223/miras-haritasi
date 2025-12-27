@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.81106,40.96156"
 draft: false
+
+weight: 10
 ---
 
 ## Ayastefanos Rus Abidesi

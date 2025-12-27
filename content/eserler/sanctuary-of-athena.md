@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.296615,37.6592287"
 draft: false
+
+weight: 10
 ---
 
 **Sanctuary of Athena**

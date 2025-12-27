@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.97456,41.0063"
 draft: false
+
+weight: 10
 ---
 
 **İbrahim Paşa Sarayı: İstanbul'un Gizli Çarı**

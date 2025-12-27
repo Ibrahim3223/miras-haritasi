@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2964296,37.6593025"
 draft: false
+
+weight: 10
 ---
 
 ## Athena Tapınağı (Priene)

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "43.799749,38.316691"
 draft: false
+
+weight: 100
 ---
 
 # Hoşap Köprüsü: Doğu Anadolu'nun Gizli Çehresini Gözler Önüne Koyan Bir Rönesans Eseri

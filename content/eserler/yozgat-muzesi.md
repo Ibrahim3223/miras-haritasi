@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.805,39.823333333"
 draft: false
+
+weight: 10
 ---
 
 ## Yozgat Müzesi: Tarih, Kültür ve Mirasın Birleştiği Yer

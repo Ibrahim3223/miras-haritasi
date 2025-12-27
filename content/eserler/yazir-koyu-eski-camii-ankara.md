@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.975111429,40.185289169"
 draft: false
+
+weight: 100
 ---
 
 ### Yazır Köyü Eski Camii: Ankara'nın Tarihi Bir Mirası

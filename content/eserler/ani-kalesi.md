@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.569589,40.50574"
 draft: false
+
+weight: 10
 ---
 
 **Ani Kalesi**

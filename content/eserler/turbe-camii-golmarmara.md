@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9181442,38.7038193"
 draft: false
+
+weight: 100
 ---
 
 ## Türbe Camii, Gölmarmara

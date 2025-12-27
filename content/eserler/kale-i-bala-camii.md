@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9712715,39.4189453"
 draft: false
+
+weight: 100
 ---
 
 # Kale-i Bala Camii: Kütahya'nın Tarihsel Bir Mirası

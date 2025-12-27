@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2937164,39.9059525"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşlü Kümbet: Yakutiye'nin Gizli Mirası

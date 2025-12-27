@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Ekolojik Oyuncak Müzesi: Samsun'da Kültürel Mirasın Yeniden İfade Edilişi

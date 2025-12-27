@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8927479,39.6508522"
 draft: false
+
+weight: 100
 ---
 
 ## II. Kolordu Çeşmesi

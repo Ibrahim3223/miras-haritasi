@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8330841,40.6510086"
 draft: false
+
+weight: 100
 ---
 
 ## Taceddin Altunbaş Kümbeti

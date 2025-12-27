@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.66268097,40.414681519"
 draft: false
+
+weight: 10
 ---
 
 ## Gelibolu Rus Anıtı

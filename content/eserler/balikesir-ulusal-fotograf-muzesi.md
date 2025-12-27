@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.882366,39.668892"
 draft: false
+
+weight: 100
 ---
 
 ## Balıkesir Ulusal Fotoğraf Müzesi

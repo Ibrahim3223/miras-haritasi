@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.9751,41.0074"
 draft: false
+
+weight: 10
 ---
 
 ## Antiochos Sarayı

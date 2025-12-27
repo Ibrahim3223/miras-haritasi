@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "43.7366905,37.5777092"
 draft: false
+
+weight: 100
 ---
 
 ### Hakkâri Kilim Müzesi

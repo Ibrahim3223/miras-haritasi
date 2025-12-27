@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.931944444,41.051916666"
 draft: false
+
+weight: 10
 ---
 
 **Kaşgari Murtaza Efendi Camii**

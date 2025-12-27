@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.998056,39.653889"
 draft: false
+
+weight: 10
 ---
 
 ## Tümülüs MM (Gordion)

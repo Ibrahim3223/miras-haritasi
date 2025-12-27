@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.9230003,38.2556"
 draft: false
+
+weight: 100
 ---
 
 ## Ortaköy Köprüsü: Ödemiş'in Tarihî ve Kültürel Mirası

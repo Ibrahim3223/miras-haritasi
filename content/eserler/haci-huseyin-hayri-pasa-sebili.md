@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023159,41.0079536"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hüseyin Hayri Paşa Sebili: Üsküdar'ın Tarihi Çeşmesi

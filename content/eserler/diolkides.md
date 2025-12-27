@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.860234,40.72268"
 draft: false
+
+weight: 100
 ---
 
 **Diolkides**

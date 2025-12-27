@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.937652,41.008603"
 draft: false
+
+weight: 10
 ---
 
 ## Beşikçizade Çeşmesi

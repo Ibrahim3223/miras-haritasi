@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.935711648,41.028132981"
 draft: false
+
+weight: 10
 ---
 
 ## Sarmaşık Aya Dimitri Rum Ortodoks Kilisesi

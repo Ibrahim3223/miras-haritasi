@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9683189,41.0353584"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Piyale Hamamı

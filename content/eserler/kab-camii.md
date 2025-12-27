@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.2791367,37.759594"
 draft: false
+
+weight: 100
 ---
 
 ### Kab Camii: Adıyaman'ın Zengini

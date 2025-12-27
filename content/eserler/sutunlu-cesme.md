@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.288269,39.7868805"
 draft: false
+
+weight: 100
 ---
 
 ## Sütunlu Çeşme

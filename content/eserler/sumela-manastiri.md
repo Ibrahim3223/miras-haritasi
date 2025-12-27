@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.65833333,40.69"
 draft: false
+
+weight: 1
 ---
 
 ## Sümela Manastırı: Trabzon'un Gizli Cenneti

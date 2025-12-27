@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9487553,41.0189285"
 draft: false
+
+weight: 100
 ---
 
 # Akdeniz Çifte Baş Kurşunlı Medrese: İstanbul'un Gizli Öyküsü

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.51112,41.099934"
 draft: false
+
+weight: 100
 ---
 
 ## Çatalca Teknoloji Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.96882,41.00953"
 draft: false
+
+weight: 100
 ---
 
 ## Ebüssüade Hüseyin Ağa Camii

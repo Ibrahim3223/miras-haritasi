@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1817398,40.8870811"
 draft: false
+
+weight: 100
 ---
 
 ## Türk Devletlerinin Soy Kütüğü Anıtı

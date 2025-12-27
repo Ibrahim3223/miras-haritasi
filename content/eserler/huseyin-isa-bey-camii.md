@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.218777777,38.467611111"
 draft: false
+
+weight: 10
 ---
 
 ### Hüseyin İsa Bey Camii: Bir Önemli Mirasın Tanıtımı

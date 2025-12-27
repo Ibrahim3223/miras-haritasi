@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.859111111,39.903944444"
 draft: false
+
+weight: 10
 ---
 
 ## Akün Sahnesi: Ankara'nın Tarihi Tiyatro Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.4555551,36.8103112"
 draft: false
+
+weight: 10
 ---
 
 ## Cemilli Kalesi: Tarihî Bir Mirasın Gizemi

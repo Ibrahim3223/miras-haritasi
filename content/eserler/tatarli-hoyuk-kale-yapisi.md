@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.0520668,37.1227493"
 draft: false
+
+weight: 100
 ---
 
 # Tatarlı Höyük Kale Yapısı

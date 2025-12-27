@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8979588,41.6881714"
 draft: false
+
+weight: 100
 ---
 
 ## Arpaç A Tümülüsü: Edirne'nin Gizli Çarpıntısı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8437729,41.5308571"
 draft: false
+
+weight: 100
 ---
 
 ## Evrenli Kocatepe Tümülüsü: Kırklareli'nin Gizli Mirası

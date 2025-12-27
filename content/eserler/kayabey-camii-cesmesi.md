@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8790684,39.6525764"
 draft: false
+
+weight: 100
 ---
 
 ### Kayabey Camii Çeşmesi: Balıkesir'in Zengin Tarihi Mirası

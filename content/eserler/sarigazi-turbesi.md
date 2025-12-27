@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.2111359,41.0060921"
 draft: false
+
+weight: 10
 ---
 
 ## Sarıgazi Türbesi: İstanbul'un Gizli Anıtı

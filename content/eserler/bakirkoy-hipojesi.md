@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.864861111,40.990944444"
 draft: false
+
+weight: 10
 ---
 
 ## Bakırköy Hipojesi: Zuhuratbaba'da Bir Antik Anıtın Gizemi

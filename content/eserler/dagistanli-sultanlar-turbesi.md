@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.6092,39.9397"
 draft: false
+
+weight: 100
 ---
 
 ## Dağıstanlı Sultanlar Türbesi: Erzurum'un Gizli Anıtı

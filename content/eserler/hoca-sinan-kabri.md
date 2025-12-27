@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9666271,41.015831"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Sinan Kabri: Fatih, İstanbul'un Gizli Çeşmesi

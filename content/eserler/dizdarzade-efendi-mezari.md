@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.563161,41.676805"
 draft: false
+
+weight: 100
 ---
 
 # Dizdarzade Efendi Mezarı

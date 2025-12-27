@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972038909,41.002724732"
 draft: false
+
+weight: 100
 ---
 
 ## Bakhos Ayazması

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9090691,38.6316376"
 draft: false
+
+weight: 100
 ---
 
 ## Medreseli Yahya Efendi Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4705009,39.0841408"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Mezar Anıtı, Kepiç

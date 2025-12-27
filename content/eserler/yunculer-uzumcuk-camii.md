@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.3052364,40.794198"
 draft: false
+
+weight: 100
 ---
 
 ## Yüncüler Üzümcük Camii

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.95518,40.58952"
 draft: false
+
+weight: 100
 ---
 
 ### Leylekli Yılanlı Köprü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.963671,41.015182"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Meydan Çeşmesi

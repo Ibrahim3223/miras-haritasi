@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9109344,41.7555885"
 draft: false
+
+weight: 100
 ---
 
 ## Ortahöyük A Tümülüsü

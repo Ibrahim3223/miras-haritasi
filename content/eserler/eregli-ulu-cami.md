@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.04967,37.51385"
 draft: false
+
+weight: 100
 ---
 
 ## Ereğli Ulu Cami

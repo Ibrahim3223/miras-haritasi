@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5582352,41.6794586"
 draft: false
+
+weight: 10
 ---
 
 **Şehabeddin Paşa Camii**

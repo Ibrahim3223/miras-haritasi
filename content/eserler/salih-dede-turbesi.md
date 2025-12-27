@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0125599,41.0150604"
 draft: false
+
+weight: 100
 ---
 
 # Salih Dede Türbesi: Üsküdar'ın Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.00095,41.040924"
 draft: false
+
+weight: 100
 ---
 
 ## Askeriye Çeşmesi

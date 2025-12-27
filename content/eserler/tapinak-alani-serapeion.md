@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.339186309,37.939525925"
 draft: false
+
+weight: 10
 ---
 
 ### Tapınak Alanı (Serapeion): İzmir'in Gizli Çarpısı

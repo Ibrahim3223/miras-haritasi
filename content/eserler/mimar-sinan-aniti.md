@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8551483,39.9303589"
 draft: false
+
+weight: 100
 ---
 
 ## Mimar Sinan Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.44165,36.651672"
 draft: false
+
+weight: 100
 ---
 
 **Claudiopolis Antik Tiyatrosu**

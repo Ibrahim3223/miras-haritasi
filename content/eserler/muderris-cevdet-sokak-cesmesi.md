@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18198056,39.11970278"
 draft: false
+
+weight: 10
 ---
 
 ## Müderris Cevdet Sokak Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9322071,41.052021"
 draft: false
+
+weight: 100
 ---
 
 ## Ubeydullah ve Abdullah Kaşgari Türbesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9769,41.0308"
 draft: false
+
+weight: 100
 ---
 
 ## Saint-Louis-des-Français Kilisesi

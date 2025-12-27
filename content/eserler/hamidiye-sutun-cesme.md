@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1339645,38.41716"
 draft: false
+
+weight: 10
 ---
 
 ### Hamidiye Sütun Çeşme

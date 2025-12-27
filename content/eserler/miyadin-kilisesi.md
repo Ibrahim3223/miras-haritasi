@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.7481956,39.1041641"
 draft: false
+
+weight: 100
 ---
 
 # Miyadin Kilisesi

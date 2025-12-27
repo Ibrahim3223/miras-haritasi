@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.922903207,37.905434932"
 draft: false
+
+weight: 100
 ---
 
 ### Yunuslar Köprüsü

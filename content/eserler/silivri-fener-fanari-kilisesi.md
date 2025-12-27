@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.2366657,41.1538353"
 draft: false
+
+weight: 100
 ---
 
 ### Silivri Fener (Fanari) Kilisesi: Tarihî Bir Miras

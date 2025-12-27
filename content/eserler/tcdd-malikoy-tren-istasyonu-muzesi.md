@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.387636,39.785069"
 draft: false
+
+weight: 10
 ---
 
 # TCDD Malıköy Tren İstasyonu Müzesi

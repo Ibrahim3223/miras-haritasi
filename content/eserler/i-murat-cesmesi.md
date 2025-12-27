@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020888776,40.202509456"
 draft: false
+
+weight: 100
 ---
 
 ## I. Murat Çeşmesi

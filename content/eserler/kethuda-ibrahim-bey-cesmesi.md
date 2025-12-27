@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.027997,41.141119"
 draft: false
+
+weight: 100
 ---
 
 ## Kethüda İbrahim Bey Çeşmesi

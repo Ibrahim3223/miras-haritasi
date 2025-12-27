@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.29785,37.6599"
 draft: false
+
+weight: 10
 ---
 
 ### Priene Antik Tiyatrosu

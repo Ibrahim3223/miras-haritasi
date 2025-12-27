@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0833,38.2276"
 draft: false
+
+weight: 100
 ---
 
 ## Dioshieron (Lidya)

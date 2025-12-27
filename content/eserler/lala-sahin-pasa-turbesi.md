@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.411871,40.0336914"
 draft: false
+
+weight: 10
 ---
 
 **Lala Şahin Paşa Türbesi**

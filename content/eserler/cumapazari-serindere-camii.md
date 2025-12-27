@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.260904825,40.838026174"
 draft: false
+
+weight: 100
 ---
 
 ## Cumapazarı Serindere Camii: Trabzon'un Tarihi Bir Öyküsü

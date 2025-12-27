@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.72782,41.00614"
 draft: false
+
+weight: 10
 ---
 
 ## Şamil Ekinci Müzesi Tanıtımı

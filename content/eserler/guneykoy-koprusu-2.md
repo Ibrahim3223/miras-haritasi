@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.078259,40.99278"
 draft: false
+
+weight: 100
 ---
 
 ### Güneyköy Köprüsü 2: Görele'nin Tarihi Mirası

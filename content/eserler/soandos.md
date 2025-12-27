@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.878905,38.344286"
 draft: false
+
+weight: 100
 ---
 
 ## Soandos: Geçmişin Gizemi

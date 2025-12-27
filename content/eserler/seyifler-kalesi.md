@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.499444444,40.968888888"
 draft: false
+
+weight: 10
 ---
 
 ### Seyifler Kalesi: Sakarya'nın Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.4209808,40.1130524"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi

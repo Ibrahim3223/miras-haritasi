@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1243343,37.8894958"
 draft: false
+
+weight: 100
 ---
 
 ## Kacarkahve Çeşmesi

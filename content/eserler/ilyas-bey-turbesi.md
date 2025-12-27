@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.4405994,40.7998238"
 draft: false
+
+weight: 100
 ---
 
 ## İlyas Bey Türbesi: Gebze'nin Tarihi Mirası

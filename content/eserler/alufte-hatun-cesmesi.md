@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973484,41.0234375"
 draft: false
+
+weight: 10
 ---
 
 ### Alüfte Hatun Çeşmesi: Beyoğlu'ndaki Bir Ölümsüz Miras

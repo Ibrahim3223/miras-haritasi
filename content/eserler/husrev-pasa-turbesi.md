@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.942739,41.01862"
 draft: false
+
+weight: 10
 ---
 
 ### Hüsrev Paşa Türbesi

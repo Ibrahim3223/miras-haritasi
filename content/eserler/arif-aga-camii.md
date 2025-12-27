@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5535374,41.6806946"
 draft: false
+
+weight: 10
 ---
 
 ## Arif Ağa Camii

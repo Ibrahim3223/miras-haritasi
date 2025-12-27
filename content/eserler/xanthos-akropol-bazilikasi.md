@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.32052,36.359032"
 draft: false
+
+weight: 100
 ---
 
 # Xanthos Akropol Bazilikası

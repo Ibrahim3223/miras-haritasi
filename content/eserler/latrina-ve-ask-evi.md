@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34169,37.93918"
 draft: false
+
+weight: 100
 ---
 
 ## Latrina ve Aşk Evi: İzmir'in Gizli Arkeolojik Harikası

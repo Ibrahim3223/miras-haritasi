@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.342608858,37.937807016"
 draft: false
+
+weight: 10
 ---
 
 **Kuretler Caddesi (Embolos)**

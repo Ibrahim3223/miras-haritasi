@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.6188,40.6897"
 draft: false
+
+weight: 100
 ---
 
 ## Praenetus Arkeolojik Sit

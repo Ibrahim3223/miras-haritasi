@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.026598,41.047554"
 draft: false
+
+weight: 10
 ---
 
 # Hamidiye Çeşmesi, Ortaköy

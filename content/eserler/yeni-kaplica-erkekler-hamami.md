@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0385227,40.1989434"
 draft: false
+
+weight: 10
 ---
 
 # Yeni Kaplıca Erkekler Hamamı

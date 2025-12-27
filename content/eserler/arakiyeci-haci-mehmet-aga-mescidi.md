@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.024535,41.01678"
 draft: false
+
+weight: 100
 ---
 
 ### Arakiyeci Hacı Mehmet Ağa Mescidi: Üsküdar'ın Gizli Çeşmesi

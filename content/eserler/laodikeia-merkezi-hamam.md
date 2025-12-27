@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1081047,37.8356819"
 draft: false
+
+weight: 100
 ---
 
 ### Laodikeia Merkezi Hamamı: Tarih, Mimari ve Ziyaret Bilgileri

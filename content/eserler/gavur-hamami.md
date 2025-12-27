@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.967514,39.424263"
 draft: false
+
+weight: 100
 ---
 
 ## Gavur Hamamı: Kütahya'nın Tarihi Bir Mirası

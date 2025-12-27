@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3759174,38.3366508"
 draft: false
+
+weight: 100
 ---
 
 ## Ballıcaoluk Kalesi: İzmir'in Gizli Mücevheri

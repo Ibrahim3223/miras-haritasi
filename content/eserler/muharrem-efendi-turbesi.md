@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8872,40.297"
 draft: false
+
+weight: 100
 ---
 
 ### Muharrem Efendi Türbesi

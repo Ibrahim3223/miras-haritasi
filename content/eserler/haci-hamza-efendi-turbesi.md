@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7655144,41.3750496"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Hamza Efendi Türbesi

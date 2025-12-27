@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934891636,41.004883244"
 draft: false
+
+weight: 10
 ---
 
 ## Hekimoğlu Ali Paşa Cami Avlu Kapısı

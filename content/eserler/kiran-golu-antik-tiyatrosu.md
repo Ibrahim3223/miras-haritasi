@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0032158,36.5922585"
 draft: false
+
+weight: 100
 ---
 
 # Kıran Gölü Antik Tiyatrosu

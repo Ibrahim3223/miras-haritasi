@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.596944444,41.605555555"
 draft: false
+
+weight: 100
 ---
 
 ## Alaçam Mübadele Müzesi

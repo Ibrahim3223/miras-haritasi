@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1709156,41.1569443"
 draft: false
+
+weight: 100
 ---
 
 ## Seymen Eski Camii: Silivri'nin Tarihi Bir Mirası

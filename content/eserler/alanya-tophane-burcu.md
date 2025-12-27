@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.9975147,36.5346031"
 draft: false
+
+weight: 10
 ---
 
 ## Alanya Tophane Burcu: Alanya'nın Tarihî Bir Göze Kattığı Kale

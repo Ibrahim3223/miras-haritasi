@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6816578,41.1894722"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme 3: Arnavutköy'ün Gizli Çeşmesi

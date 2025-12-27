@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5522022,41.6840363"
 draft: false
+
+weight: 100
 ---
 
 ## Devletşah Mescidi: Edirne'nin Gizli Cenneti

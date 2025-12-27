@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7451998,40.9436"
 draft: false
+
+weight: 100
 ---
 
 ### Yukarı Yağcılar Camii: Artvin'in Tarihi Mirası

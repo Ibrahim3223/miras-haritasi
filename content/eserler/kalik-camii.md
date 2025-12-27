@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.6316986,41.388401"
 draft: false
+
+weight: 100
 ---
 
 ## Kalık Camii: Samsun'un Tarihi Bir Mirası

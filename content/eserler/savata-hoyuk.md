@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9170914,40.3085899"
 draft: false
+
+weight: 100
 ---
 
 ### Şavata Höyük: Alaca'nın Gizli Mirası

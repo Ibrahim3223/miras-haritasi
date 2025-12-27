@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.868851633,38.307803111"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Paşa Camii, Altınekin: Bir Geçiş Döneminin Mimari Mirası

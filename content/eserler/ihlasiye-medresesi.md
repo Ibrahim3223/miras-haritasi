@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.1065445,38.4064636"
 draft: false
+
+weight: 100
 ---
 
 ## İhlasiye Medresesi: Bitlis'in Tarihsel Bir Mirası

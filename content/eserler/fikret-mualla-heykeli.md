@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0331707,40.9835129"
 draft: false
+
+weight: 10
 ---
 
 ### Fikret Mualla Heykeli: Kadıköy'ün Simge Heykeli

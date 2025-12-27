@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9731589,41.0164393"
 draft: false
+
+weight: 100
 ---
 
 ## Arpacılar Mescidi Türbesi

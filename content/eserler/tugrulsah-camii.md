@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.9979286,40.4835625"
 draft: false
+
+weight: 100
 ---
 
 ## Tuğrulşah Camii: Erzurum'un Göz Alıcı Mirası

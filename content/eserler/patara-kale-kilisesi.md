@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.3134651,36.2636147"
 draft: false
+
+weight: 100
 ---
 
 ### Patara Kale Kilisesi: Antikçağın Gizemi Kaş'ta

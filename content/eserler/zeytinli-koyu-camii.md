@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.9485397,39.6140175"
 draft: false
+
+weight: 100
 ---
 
 ## Zeytinli Köyü Camii: Edremit'in Gizli Cenneti

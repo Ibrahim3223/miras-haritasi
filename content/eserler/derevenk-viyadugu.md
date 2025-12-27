@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.5847,38.6858"
 draft: false
+
+weight: 100
 ---
 
 ## Derevenk Viyadüğü: Kayseri'nin Tarihi ve Kültürel Mirası

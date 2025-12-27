@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.53722222,39.45083333"
 draft: false
+
+weight: 10
 ---
 
 ## Sivrihisar Ulu Cami

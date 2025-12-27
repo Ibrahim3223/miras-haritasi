@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.6284237,40.8545113"
 draft: false
+
+weight: 100
 ---
 
 ## Hersekzade Ahmed Paşa Camii: Edirne'nin Gizli Çiçeği

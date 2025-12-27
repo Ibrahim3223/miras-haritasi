@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0352185,41.058087"
 draft: false
+
+weight: 10
 ---
 
 ## Kadın Efendi Çeşmesi: Kuruçeşme'nin Tarihi Çeşmesi

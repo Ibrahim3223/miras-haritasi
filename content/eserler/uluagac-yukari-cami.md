@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8363647,38.0452652"
 draft: false
+
+weight: 100
 ---
 
 ### Uluağaç Yukarı Cami

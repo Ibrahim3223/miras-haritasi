@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "31.151666666,40.841944444"
 draft: false
+
+weight: 100
 ---
 
 ## Düzce Saat Kulesi: Tarihe ve Güzelliğe Sahip Bir Miras

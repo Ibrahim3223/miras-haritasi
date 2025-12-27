@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.0180359,39.748764"
 draft: false
+
+weight: 100
 ---
 
 ### Hoca İmam Camii: Sivas'taki Bir Kültür Mirası

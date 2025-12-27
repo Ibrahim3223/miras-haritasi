@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3323593,36.9839973"
 draft: false
+
+weight: 100
 ---
 
 ### Bakımoğlu Mescidi: Seyhan'ın Tarihi Bir Çehresini Taşıyor

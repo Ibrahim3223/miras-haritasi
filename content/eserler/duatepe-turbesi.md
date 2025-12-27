@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.8940507,36.9127677"
 draft: false
+
+weight: 100
 ---
 
 # Duatepe Türbesi

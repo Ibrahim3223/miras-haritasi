@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.4529343,40.451931"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Cami, Gümüşhane

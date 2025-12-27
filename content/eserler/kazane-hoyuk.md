@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.8468514,37.1194574"
 draft: false
+
+weight: 100
 ---
 
 ### Kazane Höyük: Şanlıurfa'nın Eski Uygarlık Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.4550705,40.5280609"
 draft: false
+
+weight: 100
 ---
 
 ## Ürfeçalı Höyük: Mecitözü'ndeki Bir Arkeolojik Sit

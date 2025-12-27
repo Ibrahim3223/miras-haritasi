@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5017548,37.8738403"
 draft: false
+
+weight: 100
 ---
 
 ### Konya'da Gizli Bir Çanak

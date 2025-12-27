@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9747486,41.0278397"
 draft: false
+
+weight: 100
 ---
 
 **Adile Sultan Şadırvanı**

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1712608,40.1753235"
 draft: false
+
+weight: 100
 ---
 
 ### Cumalıkızık Hamamı

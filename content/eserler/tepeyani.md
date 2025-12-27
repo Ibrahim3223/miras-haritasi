@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8882,41.701575"
 draft: false
+
+weight: 100
 ---
 
 ## Tepeyanı Arkeolojik Sit

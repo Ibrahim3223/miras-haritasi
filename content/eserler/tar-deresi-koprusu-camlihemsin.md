@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.059309,40.997025"
 draft: false
+
+weight: 100
 ---
 
 ## Tar Deresi Köprüsü: Çamlıhemşin'in Tarihî ve Mimarî Harikası

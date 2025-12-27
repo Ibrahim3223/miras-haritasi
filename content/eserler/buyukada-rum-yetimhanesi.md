@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.12333333,40.86083333"
 draft: false
+
+weight: 10
 ---
 
 ## Büyükada Rum Yetimhanesi: İstanbul'un Gizli Anıtı

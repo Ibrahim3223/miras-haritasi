@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.111277777,40.969972222"
 draft: false
+
+weight: 10
 ---
 
 ## İçerenköy Camii: Atatürk'ün Kış Konakları'nın Ortak Kullanımı İçin Yaptırılan Tarihi Bir Miras

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.0914001,41.1580009"
 draft: false
+
+weight: 100
 ---
 
 ## Dere Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.706337,36.8883476"
 draft: false
+
+weight: 10
 ---
 
 ### Bali Bey Camii: Antalya'nın Gizli Çehresini Keşfedin

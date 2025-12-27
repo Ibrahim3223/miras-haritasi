@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.139694444,38.418111111"
 draft: false
+
+weight: 100
 ---
 
 ## Namazgâh Hamamı: İzmir'in Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.977293393,41.031519936"
 draft: false
+
+weight: 10
 ---
 
 ## Fransız Anadolu Araştırmaları Enstitüsü

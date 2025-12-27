@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.2385938,37.908534"
 draft: false
+
+weight: 100
 ---
 
 ## Ermeni Katolik Kilisesi: Diyarbakır'ın Gizli Ölümsüzü

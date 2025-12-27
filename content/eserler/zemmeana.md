@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0826,39.108401"
 draft: false
+
+weight: 100
 ---
 
 ### Zemmeana Arkeolojik Sit Tanıtımı

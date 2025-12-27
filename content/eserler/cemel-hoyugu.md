@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6640647,38.800602"
 draft: false
+
+weight: 100
 ---
 
 # Cemel Höyüğü

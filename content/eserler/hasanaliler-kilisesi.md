@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.086027777,36.463944444"
 draft: false
+
+weight: 10
 ---
 
 ### Hasanaliler Kilisesi

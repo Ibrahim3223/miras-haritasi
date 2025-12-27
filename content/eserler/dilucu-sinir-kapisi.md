@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "44.797778,39.655556"
 draft: false
+
+weight: 100
 ---
 
 ## Dilucu Sınır Kapısı: Bir Kervansarayın Gizemi

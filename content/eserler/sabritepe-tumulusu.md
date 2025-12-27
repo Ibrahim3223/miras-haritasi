@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6732655,41.4227524"
 draft: false
+
+weight: 100
 ---
 
 ## Sabritepe Tümülüsü: Tekirdağ'ın Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.3652802,38.2119446"
 draft: false
+
+weight: 100
 ---
 
 # Paritzor Surp Asdvadzadzin Manastırı

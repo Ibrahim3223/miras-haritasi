@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.5350609,39.4506683"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Mahmud Hüdayi Camii: Sivrihisar'ın Kutsal Mirası

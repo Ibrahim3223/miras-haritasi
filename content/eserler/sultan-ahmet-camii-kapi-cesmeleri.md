@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9759712,41.0059624"
 draft: false
+
+weight: 1
 ---
 
 ### Sultan Ahmet Camii Kapı Çeşmeleri

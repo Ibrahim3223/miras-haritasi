@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2293587,37.9115906"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Yusuf Türbesi

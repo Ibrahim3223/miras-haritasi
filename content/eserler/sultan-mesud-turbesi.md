@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.824416666,40.649333333"
 draft: false
+
+weight: 100
 ---
 
 ### Sultan Mesud Türbesi: Amasya'nın Tarihi ve Kültürel Mirası

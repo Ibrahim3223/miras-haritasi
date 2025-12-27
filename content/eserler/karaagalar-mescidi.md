@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9831619,41.0125313"
 draft: false
+
+weight: 100
 ---
 
 ## Karaağalar Mescidi: İstanbul'un Gizli Çekeceği Bir Camisi

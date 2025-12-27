@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.2868824,37.7176247"
 draft: false
+
+weight: 100
 ---
 
 ### Muzafferiye Medresesi: Burdur'un Tarihi ve Kültürel Mirasının Yeri

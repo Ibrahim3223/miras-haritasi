@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0683191,40.181461"
 draft: false
+
+weight: 10
 ---
 
 ## Nasuh Paşa Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

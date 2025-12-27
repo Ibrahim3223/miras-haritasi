@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.750443,38.465686"
 draft: false
+
+weight: 10
 ---
 
 ### Kaymaklı Yeraltı Şehri: Nevşehir'in Gizli Mirası

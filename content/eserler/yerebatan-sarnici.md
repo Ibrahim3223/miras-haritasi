@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9779209,41.0084038"
 draft: false
+
+weight: 1
 ---
 
 ## Yerebatan Sarnıcı: Tarihi ve Kültürel Mirasın Tanığı

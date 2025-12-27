@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.952617,41.020941"
 draft: false
+
+weight: 100
 ---
 
 ## Haraççı Muhiddin Camii

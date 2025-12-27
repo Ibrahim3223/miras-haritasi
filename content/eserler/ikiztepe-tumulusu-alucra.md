@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.782729,40.31837"
 draft: false
+
+weight: 100
 ---
 
 ## İkiztepe Tümülüsü: Alucra'da Geç Neolitik Çağ'ın Gizemi

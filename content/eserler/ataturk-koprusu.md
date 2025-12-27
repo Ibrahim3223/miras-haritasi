@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.96531,41.02424"
 draft: false
+
+weight: 10
 ---
 
 ### Atatürk Köprüsü

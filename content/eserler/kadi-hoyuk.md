@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9728457,39.6987197"
 draft: false
+
+weight: 100
 ---
 
 ### Kadı Höyük: Türkiye'nin Gizli Anıtı

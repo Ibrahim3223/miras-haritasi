@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9200532,41.0157655"
 draft: false
+
+weight: 10
 ---
 
 ## Merkez Efendi Tekkesi Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.93466667,41.00275"
 draft: false
+
+weight: 10
 ---
 
 ## Sancaktar Hayrettin Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9768486,41.0408936"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Fanurios Ayazması: Beyoğlu'ndaki Bir Tarihî Kilise

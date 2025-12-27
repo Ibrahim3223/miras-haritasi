@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.4865646,38.7233505"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyin Bey Hamamı: Kayseri'nin Gizli Cenneti

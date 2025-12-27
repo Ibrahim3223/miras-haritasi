@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.94916667,36.42805556"
 draft: false
+
+weight: 10
 ---
 
 ## İmbriogon Arkeolojik Sit

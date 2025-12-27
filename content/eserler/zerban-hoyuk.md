@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.180032144,38.027334719"
 draft: false
+
+weight: 100
 ---
 
 ## Zerban Höyük: Tarih ve Mirası

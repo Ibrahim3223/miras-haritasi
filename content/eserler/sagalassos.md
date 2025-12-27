@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.51944444,37.67805556"
 draft: false
+
+weight: 10
 ---
 
 **Sagalassos: Antik Kentin Gizemi**

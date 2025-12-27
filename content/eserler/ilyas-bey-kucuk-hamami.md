@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.2779236,37.5270271"
 draft: false
+
+weight: 100
 ---
 
 ## İlyas Bey Küçük Hamamı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0477238,40.9846382"
 draft: false
+
+weight: 100
 ---
 
 ### Tuğlacıbaşı Camii Çeşmesi

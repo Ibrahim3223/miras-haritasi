@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.6601982,40.9231987"
 draft: false
+
+weight: 100
 ---
 
 ## Ulubelen Camii: Samsun'un Tarihi ve Kültürel Mirası

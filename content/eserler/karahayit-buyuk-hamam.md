@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1022758,37.9605331"
 draft: false
+
+weight: 100
 ---
 
 # Karahayıt Büyük Hamamı: Pamukkale'nin Gizemli Hamamı

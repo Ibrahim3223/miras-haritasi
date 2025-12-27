@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.2764385,39.5499496"
 draft: false
+
+weight: 100
 ---
 
 ### Çat Höyük: Türkiye'nin En Eski Yerleşim Yerlerinden Biri

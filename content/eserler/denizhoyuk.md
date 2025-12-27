@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8155239,38.214079"
 draft: false
+
+weight: 100
 ---
 
 ## Denizhöyük: Türkiye'nin Gizli Cenneti

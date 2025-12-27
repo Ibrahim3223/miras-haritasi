@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.7377958,36.9710604"
 draft: false
+
+weight: 100
 ---
 
 # Akınyolu Höyük: Gaziantep'in Gizli Kahramanı

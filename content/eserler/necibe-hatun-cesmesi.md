@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5609093,41.6752243"
 draft: false
+
+weight: 10
 ---
 
 ## Necibe Hatun Çeşmesi

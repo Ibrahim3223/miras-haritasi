@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.798,37.6225"
 draft: false
+
+weight: 10
 ---
 
 ## Ceyhan Köprüsü: Kahramanmaraş'ın Tarihi Bir Mirası

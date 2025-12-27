@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.89584,37.41471"
 draft: false
+
+weight: 100
 ---
 
 ### Kılılı Köprüsü

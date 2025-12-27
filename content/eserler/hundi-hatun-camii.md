@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.514805555,41.627111111"
 draft: false
+
+weight: 100
 ---
 
 ## Hundi Hatun Camii: Pınarhisar'ın Tarihi Cenneti

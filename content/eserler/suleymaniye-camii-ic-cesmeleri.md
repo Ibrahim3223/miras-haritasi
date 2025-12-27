@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.96405677,41.016176585"
 draft: false
+
+weight: 1
 ---
 
 ### Süleymaniye Camii İç Çeşmeleri

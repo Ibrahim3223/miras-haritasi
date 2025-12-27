@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.974187082,41.025074979"
 draft: false
+
+weight: 10
 ---
 
 ## Bereketzade Ali Efendi Cami: Beyoğlu'nun Gizli Çeşmesi

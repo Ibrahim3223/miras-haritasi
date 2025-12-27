@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.5191345,39.7771873"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Yerrortutyun Ermeni Kilisesi

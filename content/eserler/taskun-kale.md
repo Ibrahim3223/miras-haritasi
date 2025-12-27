@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Taşkun Kale: Bir Ölü Deniz'in Sırrı

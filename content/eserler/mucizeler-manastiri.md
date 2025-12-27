@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.712083333,38.830666666"
 draft: false
+
+weight: 10
 ---
 
 ## Mucizeler Manastırı

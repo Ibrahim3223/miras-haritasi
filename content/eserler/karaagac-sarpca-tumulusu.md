@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4548817,41.489254"
 draft: false
+
+weight: 100
 ---
 
 ## Karaağaç Sarpça Tümülüsü: Lüleburgaz'da Bir Arkeolojik Miras

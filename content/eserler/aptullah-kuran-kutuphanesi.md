@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.04425,41.085444444"
 draft: false
+
+weight: 10
 ---
 
 ## Aptullah Kuran Kütüphanesi

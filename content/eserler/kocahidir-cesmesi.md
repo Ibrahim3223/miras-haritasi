@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.226515996,41.734561261"
 draft: false
+
+weight: 10
 ---
 
 # Kocahıdır Çeşmesi

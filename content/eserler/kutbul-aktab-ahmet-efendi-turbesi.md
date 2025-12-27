@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.691494,36.7475373"
 draft: false
+
+weight: 100
 ---
 
 ## Kutbul Aktab Ahmet Efendi Türbesi: Başyayla'daki Zengin Tarihçenin Evi

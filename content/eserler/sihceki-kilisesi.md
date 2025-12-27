@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.016141666,40.615472222"
 draft: false
+
+weight: 100
 ---
 
 ## Sihçeki Kilisesi

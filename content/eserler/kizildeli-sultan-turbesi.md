@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.1085358,38.6156502"
 draft: false
+
+weight: 100
 ---
 
 # Kızıldeli Sultan Türbesi: Malatya'nın Gizli Kahramanı

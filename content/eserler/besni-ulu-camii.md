@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.864305555,37.674638888"
 draft: false
+
+weight: 100
 ---
 
 ## Besni Ulu Camii: Bir Osmanlı Dönemi Mirası

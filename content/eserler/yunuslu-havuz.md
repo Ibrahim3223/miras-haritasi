@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.144416666,38.426"
 draft: false
+
+weight: 10
 ---
 
 ### Yunuslu Havuzu: İzmirlinin Gözde Çeşmesi

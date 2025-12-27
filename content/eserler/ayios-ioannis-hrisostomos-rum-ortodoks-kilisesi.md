@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0416603,40.9766655"
 draft: false
+
+weight: 10
 ---
 
 ### Ayios Ioannis Hrisostomos Rum Ortodoks Kilisesi

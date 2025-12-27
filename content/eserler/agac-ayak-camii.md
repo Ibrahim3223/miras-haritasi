@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.866361111,39.935694444"
 draft: false
+
+weight: 100
 ---
 
 ## Ağaç Ayak Camii: Ankara'nın Tarihî ve Kültürel Mirası

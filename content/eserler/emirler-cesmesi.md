@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.1954079,40.5165062"
 draft: false
+
+weight: 100
 ---
 
 ## Emirler Çeşmesi: Torul'un Tarihî Bir Çeşmesi

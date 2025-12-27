@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.325833,36.9875"
 draft: false
+
+weight: 10
 ---
 
 ## Bebekli Kilise: Adana'nın Tarihî Bir Mirası

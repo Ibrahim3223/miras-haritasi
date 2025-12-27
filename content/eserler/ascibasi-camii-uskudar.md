@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0205895,41.0137523"
 draft: false
+
+weight: 10
 ---
 
 # Aşçıbaşı Camii: Üsküdar'ın Tarihi Bir Mirası

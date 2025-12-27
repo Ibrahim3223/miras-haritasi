@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.628333333,36.8"
 draft: false
+
+weight: 10
 ---
 
 ### Mersin Kent Tarihi Müzesi

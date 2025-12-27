@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.786619115,40.278762685"
 draft: false
+
+weight: 100
 ---
 
 **Köprühisar Hamamı: Tarihi ve Kültürel Mirasın Bir Parçası**

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97982222,41.03093056"
 draft: false
+
+weight: 10
 ---
 
 ## Masumiyet Müzesi

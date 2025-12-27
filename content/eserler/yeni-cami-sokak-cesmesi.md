@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.5666809,41.0209579"
 draft: false
+
+weight: 100
 ---
 
 ### Yeni Cami Sokak Çeşmesi

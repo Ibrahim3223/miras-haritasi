@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.954721,41.020988"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hasan Medresesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0179492,41.0457237"
 draft: false
+
+weight: 10
 ---
 
 ### Yahya Efendi Camii: Beşiktaş'ta Tarihi Bir Miras

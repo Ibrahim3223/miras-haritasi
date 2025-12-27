@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.340437,40.911292"
 draft: false
+
+weight: 100
 ---
 
 ## Demirdöğen Cabirget Camii

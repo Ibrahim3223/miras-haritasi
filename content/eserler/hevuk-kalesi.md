@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.199814,39.530244"
 draft: false
+
+weight: 100
 ---
 
 ## Hevük Kalesi: Sivas'ın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5015984,37.8737373"
 draft: false
+
+weight: 100
 ---
 
 ## Çaputçu Camii Çeşmesi

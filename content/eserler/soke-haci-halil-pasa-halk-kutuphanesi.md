@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.4031677,37.7546959"
 draft: false
+
+weight: 100
 ---
 
 ## Söke Hacı Halil Paşa Halk Kütüphanesi: Aydın'ın Kültür Mirası

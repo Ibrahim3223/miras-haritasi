@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.54867363,38.76972961"
 draft: false
+
+weight: 100
 ---
 
 # Altıgöz Köprüsü

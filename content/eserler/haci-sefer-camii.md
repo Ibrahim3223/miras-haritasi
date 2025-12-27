@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8850288,39.6517143"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Sefer Camii: Karesi'nin Tarihi ve Kültürel Mirası

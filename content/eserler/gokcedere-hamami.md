@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7504158,40.1332855"
 draft: false
+
+weight: 100
 ---
 
 # Gökçedere Hamamı

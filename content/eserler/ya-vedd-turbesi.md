@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.940042,41.040594"
 draft: false
+
+weight: 10
 ---
 
 ### Ya Vedûd Türbesi

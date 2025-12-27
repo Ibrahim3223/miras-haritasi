@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.4297619,39.9494896"
 draft: false
+
+weight: 100
 ---
 
 ## Çalçı Köyü Camii: Eskişehir'de Bir Önemli Mimari Eser

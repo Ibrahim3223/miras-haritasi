@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.1494598,42.0249901"
 draft: false
+
+weight: 100
 ---
 
 ## Saray Mescidi: Sinop'un Tarihi Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.5526778,37.7568131"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Baniya Kilisesi: Isparta'nın Gizli Cenneti

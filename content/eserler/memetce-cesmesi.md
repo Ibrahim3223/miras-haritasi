@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2543812,38.2811928"
 draft: false
+
+weight: 100
 ---
 
 ## Memetçe Çeşmesi

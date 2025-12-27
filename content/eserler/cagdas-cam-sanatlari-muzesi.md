@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.52194444,39.765"
 draft: false
+
+weight: 10
 ---
 
 ### Çağdaş Cam Sanatları Müzesi

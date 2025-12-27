@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.50995,40.97407"
 draft: false
+
+weight: 10
 ---
 
 ### Rakoçi Müzesi

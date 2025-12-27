@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1767989,39.118371"
 draft: false
+
+weight: 10
 ---
 
 ## Bergama Kurşunlı Camii: Tarihi bir Mirasın Ekseni

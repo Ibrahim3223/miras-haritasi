@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.169947656,39.710032613"
 draft: false
+
+weight: 100
 ---
 
 **İne Bey Türbesi: Balıkesir'in Tarihi Mirası**

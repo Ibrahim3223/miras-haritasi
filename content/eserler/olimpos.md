@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4735419,36.3965579"
 draft: false
+
+weight: 10
 ---
 
 ### Olimpos: Antalya'nın Gizli Çarpıntısı

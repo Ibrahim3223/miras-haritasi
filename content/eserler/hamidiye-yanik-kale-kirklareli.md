@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.9608574,41.6838989"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Yanık Kale

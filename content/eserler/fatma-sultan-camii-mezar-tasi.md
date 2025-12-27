@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9285889,41.0223274"
 draft: false
+
+weight: 100
 ---
 
 ### Fatma Sultan Camii, Mezar Taşı

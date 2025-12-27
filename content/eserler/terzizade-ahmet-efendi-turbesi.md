@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4362087,38.6119843"
 draft: false
+
+weight: 100
 ---
 
 ## Terzizade Ahmet Efendi Türbesi: Manisa'nın Gizli Çehresini İnziva Ettiği Bir Anıt

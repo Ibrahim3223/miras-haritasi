@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.954185,37.178456"
 draft: false
+
+weight: 100
 ---
 
 ## Dara Mahallesi Camii: Mardin'in Tarihî Mirası

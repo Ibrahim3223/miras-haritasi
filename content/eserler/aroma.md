@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.138317,37.912227"
 draft: false
+
+weight: 100
 ---
 
 ### Aroma Arkeolojik Sit

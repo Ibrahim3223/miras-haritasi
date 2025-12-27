@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.2977552,37.659649"
 draft: false
+
+weight: 10
 ---
 
 ## Piskopos Kilisesi (Priene)

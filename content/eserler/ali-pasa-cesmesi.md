@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.025883333,40.991013888"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Paşa Çeşmesi

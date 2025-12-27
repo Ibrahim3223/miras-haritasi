@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056612,41.1057777"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme 3, Sabancı Müzesi: İstanbul'un Gizli Çeşme Arkadaşı

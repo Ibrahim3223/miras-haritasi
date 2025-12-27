@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.296633149,36.966088783"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükboğaziye Höyüğü

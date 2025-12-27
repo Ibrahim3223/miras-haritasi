@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9902973,39.4117775"
 draft: false
+
+weight: 10
 ---
 
 ## Kütahya Çinili Cami

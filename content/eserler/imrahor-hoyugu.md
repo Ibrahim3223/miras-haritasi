@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8938713,39.8633804"
 draft: false
+
+weight: 100
 ---
 
 ## İmrahor Höyüğü: Ankara'nın Eski Tarihçesi

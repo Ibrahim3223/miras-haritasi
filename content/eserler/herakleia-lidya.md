@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1693,38.6149"
 draft: false
+
+weight: 100
 ---
 
 ## Herakleia (Lidya): Bir Antik Kentin Mirası

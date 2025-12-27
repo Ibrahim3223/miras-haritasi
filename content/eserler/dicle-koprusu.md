@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.22882,37.88719"
 draft: false
+
+weight: 10
 ---
 
 ## Dicle Köprüsü: Diyarbakır'ın Tarihî ve Kültürel Devleri

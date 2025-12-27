@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7331009,37.7658997"
 draft: false
+
+weight: 100
 ---
 
 ## Koçarlı Türbesi: Aydın'ın Gizli Anıtı

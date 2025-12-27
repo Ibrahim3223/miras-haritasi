@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.2194519,39.0859451"
 draft: false
+
+weight: 100
 ---
 
 ## Mancılık Köprüsü

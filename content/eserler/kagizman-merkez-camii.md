@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.1225,40.142139"
 draft: false
+
+weight: 100
 ---
 
 ## Kağızman Merkez Camii: Tarihî Bir Mirasın Anlamı

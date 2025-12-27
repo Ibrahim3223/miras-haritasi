@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8659172,39.9365311"
 draft: false
+
+weight: 100
 ---
 
 ## Tiritzade Mescidi: Altındağ'daki Bir Tarihî Çanak

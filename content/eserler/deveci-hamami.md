@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.4907646,38.713726"
 draft: false
+
+weight: 100
 ---
 
 ## Deveci Hamamı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.5622864,39.100708"
 draft: false
+
+weight: 100
 ---
 
 # Ağıl Höyük, Mucur: Tarihî Bir Mirasın Gizemi

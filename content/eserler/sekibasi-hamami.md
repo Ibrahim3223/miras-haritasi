@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.3624401,37.2188988"
 draft: false
+
+weight: 100
 ---
 
 ## Sekibaşı Hamamı: Tarihi ve Kültürel Miras

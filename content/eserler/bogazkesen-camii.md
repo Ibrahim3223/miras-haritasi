@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9271393,37.586113"
 draft: false
+
+weight: 100
 ---
 
 ## Boğazkesen Camii

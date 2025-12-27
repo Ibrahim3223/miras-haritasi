@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.974222222,41.025819444"
 draft: false
+
+weight: 10
 ---
 
 ### Bereketzade Çeşmesi: İstanbul'un Gizli Çeşmesi

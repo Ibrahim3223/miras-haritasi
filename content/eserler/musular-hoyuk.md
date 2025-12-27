@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2262872,38.3472475"
 draft: false
+
+weight: 100
 ---
 
 ### Musular Höyük: Aksaray'da Gizli Bir Geçmiş

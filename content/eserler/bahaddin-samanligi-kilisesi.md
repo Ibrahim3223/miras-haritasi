@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.287635,38.2687174"
 draft: false
+
+weight: 100
 ---
 
 ## Bahaddin Samanlığı Kilisesi: Tarihi ve Kültürel Miras

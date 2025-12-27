@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7151985,41.0078621"
 draft: false
+
+weight: 10
 ---
 
 ## Kaledibi Kilise Çeşmesi: Ortahisar'ın Gizli Çeşmesi

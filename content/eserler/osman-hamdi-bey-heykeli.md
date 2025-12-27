@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0384293,40.9805794"
 draft: false
+
+weight: 10
 ---
 
 ### Osman Hamdi Bey Heykeli: Kadıköy'ün Anıtsal Sembolü

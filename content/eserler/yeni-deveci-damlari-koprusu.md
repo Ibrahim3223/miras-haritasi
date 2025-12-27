@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.9279575,38.7921867"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Deveci Damlaları Köprüsü

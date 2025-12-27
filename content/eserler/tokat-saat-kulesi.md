@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "36.553486266,40.311092581"
 draft: false
+
+weight: 10
 ---
 
 **Tokat Saat Kulesi**

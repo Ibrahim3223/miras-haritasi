@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.98357,41.03055"
 draft: false
+
+weight: 10
 ---
 
 ## Orhan Kemal Müzesi

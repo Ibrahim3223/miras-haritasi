@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.96885,41.018884"
 draft: false
+
+weight: 100
 ---
 
 ## Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi

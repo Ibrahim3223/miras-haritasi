@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.231388888,38.458611111"
 draft: false
+
+weight: 100
 ---
 
 ## Ege Üniversitesi Tabiat Tarihi Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.05623,41.168185"
 draft: false
+
+weight: 10
 ---
 
 # Aralık Suyu Çeşmesi: Sarıyer'in Tarihî Mekânı

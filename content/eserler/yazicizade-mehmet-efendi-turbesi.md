@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6772118,40.408886"
 draft: false
+
+weight: 10
 ---
 
 ## Yazıcızade Mehmet Efendi Türbesi

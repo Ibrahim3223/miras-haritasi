@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.01722222,36.10444444"
 draft: false
+
+weight: 10
 ---
 
 ## Softa Kalesi: Mersin'in Eski Zorunlu Sığınağı

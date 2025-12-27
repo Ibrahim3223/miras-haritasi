@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.4848939,39.5364204"
 draft: false
+
+weight: 100
 ---
 
 # Tarihi Ada Köprüsü

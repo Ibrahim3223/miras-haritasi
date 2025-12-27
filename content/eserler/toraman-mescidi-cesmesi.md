@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1362724,38.415451"
 draft: false
+
+weight: 100
 ---
 
 ### Toraman Mescidi Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.401806,38.089908"
 draft: false
+
+weight: 100
 ---
 
 ## Zizima Arkeolojik Sit

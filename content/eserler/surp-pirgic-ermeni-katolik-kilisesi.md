@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97608333,41.02461111"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Pırgiç Ermeni Katolik Kilisesi

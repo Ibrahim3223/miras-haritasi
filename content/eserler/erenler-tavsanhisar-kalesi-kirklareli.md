@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5658989,41.6298561"
 draft: false
+
+weight: 100
 ---
 
 ### Erenler Tavşanhisar Kalesi: Kırklareli'nin Gizli Çehresi

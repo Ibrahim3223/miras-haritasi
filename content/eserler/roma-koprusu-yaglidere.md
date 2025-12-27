@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.519032,40.506016"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Yağlıdere

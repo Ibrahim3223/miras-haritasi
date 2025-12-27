@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1472816,38.4177895"
 draft: false
+
+weight: 100
 ---
 
 ### Vali Mirliva Kazım Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.43435,39.56885"
 draft: false
+
+weight: 100
 ---
 
 ### İbikseydi Arkeolojik Sit

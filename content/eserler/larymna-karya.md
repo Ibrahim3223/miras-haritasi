@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.007502,36.608453"
 draft: false
+
+weight: 100
 ---
 
 ## Larymna (Karya): Antik Şehir ve Arkeolojik Sit

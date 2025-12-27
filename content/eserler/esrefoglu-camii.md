@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.7197,37.6832"
 draft: false
+
+weight: 10
 ---
 
 ## Eşrefoğlu Camii: Beyşehir'in Önemli Camilerinden Birisi

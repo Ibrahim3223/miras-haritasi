@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.0117607,37.9487152"
 draft: false
+
+weight: 10
 ---
 
 ## İsmail Fakirullah Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6841927,41.2488556"
 draft: false
+
+weight: 10
 ---
 
 # Kirişçi Sokağı Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

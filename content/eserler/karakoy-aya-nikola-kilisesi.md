@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.978138888,41.025194444"
 draft: false
+
+weight: 10
 ---
 
 ## Karaköy Aya Nikola Kilisesi: İstanbul'un Tarihi ve Kültürel Mirasından Bir Parça

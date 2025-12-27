@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6768875,40.4090195"
 draft: false
+
+weight: 10
 ---
 
 ## Şerbetçi Baba Türbesi: Gelibolu'nun Gizli Anıtı

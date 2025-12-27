@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.223944444,41.735611111"
 draft: false
+
+weight: 10
 ---
 
 ### Hızırbey Hamamı: Kırklareli'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4036999,37.9165001"
 draft: false
+
+weight: 100
 ---
 
 ## Belevi Camii: Denizli'nin Tarihi Bir Çanak

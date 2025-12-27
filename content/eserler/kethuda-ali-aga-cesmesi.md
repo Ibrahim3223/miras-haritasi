@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.980082,41.033015"
 draft: false
+
+weight: 10
 ---
 
 **Kethüda Ali Ağa Çeşmesi: Beyoğlu'nun Tarihî Bir Çeşmesi**

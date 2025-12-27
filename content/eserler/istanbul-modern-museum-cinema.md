@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.984961,41.028395"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Modern Müzesi Sineması

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.520033,38.3391"
 draft: false
+
+weight: 100
 ---
 
 ### Gavurtepe Höyük

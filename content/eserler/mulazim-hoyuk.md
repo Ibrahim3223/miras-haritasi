@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6020412,39.4680794"
 draft: false
+
+weight: 100
 ---
 
 ## Mülazım Höyük: Şefaatli'nin Gizemi

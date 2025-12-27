@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.46138889,38.40805556"
 draft: false
+
+weight: 100
 ---
 
 ### Pepuza: Uşak'ın Gizli Cenneti

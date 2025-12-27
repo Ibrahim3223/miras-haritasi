@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.06565,39.74827"
 draft: false
+
+weight: 1
 ---
 
 ## Pteria (Kapadokya): Türkiye'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.9558296,38.6991692"
 draft: false
+
+weight: 100
 ---
 
 ## Palu Surp Lusaroviç Kilisesi

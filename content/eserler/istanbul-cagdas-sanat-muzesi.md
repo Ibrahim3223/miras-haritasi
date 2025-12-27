@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.582469,41.13426"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Çağdaş Sanat Müzesi

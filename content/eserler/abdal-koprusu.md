@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.01284,40.21616"
 draft: false
+
+weight: 10
 ---
 
 ### Abdal Köprüsü

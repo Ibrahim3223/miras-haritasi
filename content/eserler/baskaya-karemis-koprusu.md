@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.8932333,41.0677333"
 draft: false
+
+weight: 100
 ---
 
 ## Başkaya-Karemiş Köprüsü

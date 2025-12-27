@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.326232,36.724989"
 draft: false
+
+weight: 100
 ---
 
 ## Derinçay Köprüsü: Mersin'in Tarihi ve Kültürel Mirası

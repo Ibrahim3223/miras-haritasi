@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.4376831,37.6922455"
 draft: false
+
+weight: 100
 ---
 
 ## Kaleboynu Kalesi

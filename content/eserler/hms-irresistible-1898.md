@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.3166428,40.0332832"
 draft: false
+
+weight: 10
 ---
 
 ### HMS Irresistible (1898)

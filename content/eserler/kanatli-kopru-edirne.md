@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.561290764,41.671597594"
 draft: false
+
+weight: 100
 ---
 
 ## Kanatlı Köprü: Edirne'nin Gizli Mirası

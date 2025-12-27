@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941252,41.023111805"
 draft: false
+
+weight: 10
 ---
 
 ## Sineperver Valide Sultan Çeşmesi

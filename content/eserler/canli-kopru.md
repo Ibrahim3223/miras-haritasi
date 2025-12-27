@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.45283,38.63636"
 draft: false
+
+weight: 100
 ---
 
 ### Çanlı Köprü Tanıtım Yazısı

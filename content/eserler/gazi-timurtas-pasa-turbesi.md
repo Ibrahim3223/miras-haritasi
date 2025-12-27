@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.059536407,40.18464534"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Timurtaş Paşa Türbesi

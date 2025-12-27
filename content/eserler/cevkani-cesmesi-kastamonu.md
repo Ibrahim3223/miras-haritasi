@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.768261511,41.37952264"
 draft: false
+
+weight: 100
 ---
 
 ### Çevkani Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.0395624,39.4400981"
 draft: false
+
+weight: 100
 ---
 
 ## Cürek Köprüsü: Divriği'nin Büyüleyici Mimarisi

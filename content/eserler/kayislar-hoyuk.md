@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.706317,38.855117"
 draft: false
+
+weight: 100
 ---
 
 ## Kayışlar Höyük: Geçmişi ve Kültürel Mirası

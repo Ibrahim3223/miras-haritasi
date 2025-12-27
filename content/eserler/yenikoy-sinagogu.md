@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.0663,41.1182"
 draft: false
+
+weight: 10
 ---
 
 ## Yeniköy Sinagogu: Türkiye'nin Kültürel Mirasının Gizli Çehresini Keşfetmek

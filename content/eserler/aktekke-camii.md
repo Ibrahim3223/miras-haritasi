@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.213694444,37.182805555"
 draft: false
+
+weight: 10
 ---
 
 ### Aktekke Camii

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4759216,41.8603973"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurpınar Kalesi: Kırklareli'nin Tarihi Güzelliği

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6735049,39.2383365"
 draft: false
+
+weight: 100
 ---
 
 ### Küllüce Höyüğü: Nevşehir'in Gizli Kalesi

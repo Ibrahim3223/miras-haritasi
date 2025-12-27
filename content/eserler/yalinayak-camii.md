@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7322674,38.082962"
 draft: false
+
+weight: 100
 ---
 
 ## Yalınayak Camii: İzmir'in Gizli Cenneti

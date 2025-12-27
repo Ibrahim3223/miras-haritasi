@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0079533,41.0334982"
 draft: false
+
+weight: 100
 ---
 
 ## Makrevis Köprüsü: Çamlıhemşin'in Tarihi Bir Köprüsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.7605114,40.8198013"
 draft: false
+
+weight: 100
 ---
 
 # Selman Dede Türbesi: Hendek'in Önemli Tarihî Mirası

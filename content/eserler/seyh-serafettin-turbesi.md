@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "29.2763653,40.5512466"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Şerafettin Türbesi

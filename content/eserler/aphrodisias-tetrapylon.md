@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.7251072,37.7100258"
 draft: false
+
+weight: 10
 ---
 
 ## Aphrodisias Tetrapylon: Aydın'ın Altın Çağına Tanıklık Eden İhtişamlı Anıt

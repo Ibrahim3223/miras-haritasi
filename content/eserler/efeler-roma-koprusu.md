@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.9263992,41.4385986"
 draft: false
+
+weight: 100
 ---
 
 # Efeler Roma Köprüsü: Borçka'nın Tarihi Harikası

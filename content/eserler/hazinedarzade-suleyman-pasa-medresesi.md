@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "36.3315201,41.2955437"
 draft: false
+
+weight: 100
 ---
 
 ## Hazinedarzade Süleyman Paşa Medresesi

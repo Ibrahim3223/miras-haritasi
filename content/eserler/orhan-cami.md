@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.400388888,40.779055555"
 draft: false
+
+weight: 10
 ---
 
 ### Orhan Camii: Sakarya'nın Tarihi Mirası

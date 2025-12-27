@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.8766975,40.954586"
 draft: false
+
+weight: 100
 ---
 
 ## Örenkaya Köyü Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası

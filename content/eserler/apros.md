@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.107222222,40.926944444"
 draft: false
+
+weight: 100
 ---
 
 ## Apros Arkeolojik Sit: Malkara'nın Gizli Anıtı

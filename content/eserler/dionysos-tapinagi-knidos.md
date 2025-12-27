@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.374166666,36.686111111"
 draft: false
+
+weight: 10
 ---
 
 # Dionysos Tapınağı (Knidos)

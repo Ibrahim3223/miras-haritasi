@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.171743,36.226691"
 draft: false
+
+weight: 10
 ---
 
 ### Antakya Sirki

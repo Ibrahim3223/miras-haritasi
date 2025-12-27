@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.54,36.741944444"
 draft: false
+
+weight: 10
 ---
 
 ## Soli: Mersin'in Tarihi ve Kültürel Mirası

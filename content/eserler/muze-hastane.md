@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.4291172,37.0402679"
 draft: false
+
+weight: 100
 ---
 
 ### Müze Hastane: Bodrum'un Tarihi ve Kültürel Mirası

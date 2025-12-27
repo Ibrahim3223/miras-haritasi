@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015771,41.025678"
 draft: false
+
+weight: 100
 ---
 
 ## Horhor Çeşmesi, Üsküdar

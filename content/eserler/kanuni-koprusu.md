@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.559,41.6867"
 draft: false
+
+weight: 10
 ---
 
 ## Kanuni Köprüsü

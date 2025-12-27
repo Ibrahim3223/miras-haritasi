@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.2458477,38.7446251"
 draft: false
+
+weight: 100
 ---
 
 # Sinan Paşa Camii (Sinanpaşa)

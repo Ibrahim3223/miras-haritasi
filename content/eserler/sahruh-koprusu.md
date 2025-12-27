@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.93746,39.18392"
 draft: false
+
+weight: 10
 ---
 
 ## Şahruh Köprüsü

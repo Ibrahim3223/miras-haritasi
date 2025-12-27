@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "26.639246,39.345553"
 draft: false
+
+weight: 100
 ---
 
 ## Çamlı Manastırı

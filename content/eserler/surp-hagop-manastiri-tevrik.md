@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.051944444,39.283055555"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Hagop Manastırı (Tevrik): Güresin'deki Büyüleyici Kilise

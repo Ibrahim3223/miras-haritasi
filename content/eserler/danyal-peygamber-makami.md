@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.8974,36.9171"
 draft: false
+
+weight: 10
 ---
 
 ## Danyal Peygamber Makamı: Tarsus'un Gizli Kahramanı

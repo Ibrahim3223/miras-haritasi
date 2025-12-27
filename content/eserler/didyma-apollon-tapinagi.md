@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.256388888,37.385"
 draft: false
+
+weight: 10
 ---
 
 ## Didyma Apollon Tapınağı

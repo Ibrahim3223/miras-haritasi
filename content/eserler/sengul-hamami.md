@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.860388888,39.936611111"
 draft: false
+
+weight: 10
 ---
 
 ### Şengül Hamamı

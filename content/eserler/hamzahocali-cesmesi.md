@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4625664,39.1253548"
 draft: false
+
+weight: 100
 ---
 
 **Hamzahocalı Çeşmesi: Kınık'taki Bir İznik Çeşmesi**

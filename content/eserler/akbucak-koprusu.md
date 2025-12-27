@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9589839,41.0840397"
 draft: false
+
+weight: 100
 ---
 
 ### Akbucak Köprüsü: Pazar'ın Tarihi Mirası

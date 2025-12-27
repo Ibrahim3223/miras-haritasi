@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.182674,39.121575"
 draft: false
+
+weight: 10
 ---
 
 ## Bodrum Köprüsü: Bergama'nın Tarihî Mirası

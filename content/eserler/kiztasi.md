@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9502,41.0155"
 draft: false
+
+weight: 10
 ---
 
 ### Kıztaşı: İstanbul'un Gizli Anıtı

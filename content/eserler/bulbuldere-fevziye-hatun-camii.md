@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0228748,41.0263138"
 draft: false
+
+weight: 10
 ---
 
 ### Bülbüldere Fevziye Hatun Camii

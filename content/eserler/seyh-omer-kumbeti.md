@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.303221637,36.336678948"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Ömer Kümbeti: Gülnar'ın Tarihi Bir Anıtı

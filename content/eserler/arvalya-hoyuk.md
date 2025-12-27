@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3056068,37.9313927"
 draft: false
+
+weight: 100
 ---
 
 ## Arvalya Höyük: İzmir'in Gizli Cenneti

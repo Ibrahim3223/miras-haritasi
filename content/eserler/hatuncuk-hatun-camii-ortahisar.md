@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.710128,41.004144"
 draft: false
+
+weight: 10
 ---
 
 ## Hatuncuk Hatun Camii: Ortahisar'daki Bir Kıymetli Cami

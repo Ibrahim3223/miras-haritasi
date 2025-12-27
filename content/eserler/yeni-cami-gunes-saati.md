@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9715271,41.0170975"
 draft: false
+
+weight: 100
 ---
 
 ### Yeni Cami Güneş Saati

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.4682002,37.8360065"
 draft: false
+
+weight: 100
 ---
 
 ### Memikan Köprüsü: Beşiri'nin Gizli Cenneti

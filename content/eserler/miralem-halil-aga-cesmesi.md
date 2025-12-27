@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9768677,41.0284309"
 draft: false
+
+weight: 10
 ---
 
 ## Miralem Halil Ağa Çeşmesi

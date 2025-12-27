@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.144916666,38.429166666"
 draft: false
+
+weight: 10
 ---
 
 ### Yatan Kadın Heykeli 1: Konak, İzmir'deki Tarihi Bir Çeşme

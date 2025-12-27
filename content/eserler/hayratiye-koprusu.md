@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.9665489,41.0247841"
 draft: false
+
+weight: 100
 ---
 
 ## Hayratiye Köprüsü

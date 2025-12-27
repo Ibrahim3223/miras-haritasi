@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.336472222,41.289055555"
 draft: false
+
+weight: 10
 ---
 
 ## Onur Anıtı

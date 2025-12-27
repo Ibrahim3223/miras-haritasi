@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8685684,39.9377632"
 draft: false
+
+weight: 100
 ---
 
 ### Saraç Sinan Mescidi

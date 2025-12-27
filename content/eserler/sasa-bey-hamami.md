@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.839888888,38.924694444"
 draft: false
+
+weight: 10
 ---
 
 ## Sasa Bey Hamamı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5768,40.5071"
 draft: false
+
+weight: 10
 ---
 
 ## Ani Kutsal Kurtarıcı Kilisesi

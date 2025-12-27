@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7223587,41.3141136"
 draft: false
+
+weight: 100
 ---
 
 ### Çanta Çukuru Tümülüsü Tanıtımı

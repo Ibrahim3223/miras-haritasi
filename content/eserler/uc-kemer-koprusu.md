@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.184227,39.1203117"
 draft: false
+
+weight: 10
 ---
 
 ## Üç Kemer Köprüsü

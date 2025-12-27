@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2007694,38.4169273"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme – Altındağ, Bornova

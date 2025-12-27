@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.891407,39.9820404"
 draft: false
+
+weight: 100
 ---
 
 **Aynalı Köprü: Ankara'nın Tarihî Köprüsü**

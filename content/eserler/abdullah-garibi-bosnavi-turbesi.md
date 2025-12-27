@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4817,37.868559"
 draft: false
+
+weight: 100
 ---
 
 ## Abdullah Garibi Bosnavi Türbesi: Meram, Konya'da Bir Tarihsel Anıtlar Arasındaki Değer

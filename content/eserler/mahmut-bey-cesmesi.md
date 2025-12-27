@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1093597,40.9696557"
 draft: false
+
+weight: 10
 ---
 
 ## Mahmut Bey Çeşmesi: Tarihi ve Kültürel Miras

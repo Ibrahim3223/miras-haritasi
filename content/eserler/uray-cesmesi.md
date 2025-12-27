@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1527996,38.4160995"
 draft: false
+
+weight: 100
 ---
 
 ## Uray Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası

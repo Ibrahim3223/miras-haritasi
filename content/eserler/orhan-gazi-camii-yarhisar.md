@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7311172,40.1816216"
 draft: false
+
+weight: 100
 ---
 
 ## Orhan Gazi Camii, Yarhisar

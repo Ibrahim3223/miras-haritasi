@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9322109,41.0492935"
 draft: false
+
+weight: 100
 ---
 
 ### Şimşir Baba Anıtını Keşfetmek

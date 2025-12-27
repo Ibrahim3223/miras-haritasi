@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.6308784,41.3621368"
 draft: false
+
+weight: 100
 ---
 
 ## Kaz Ova Köprüsü: Edirne'nin Tarihi Bir Köprüsü

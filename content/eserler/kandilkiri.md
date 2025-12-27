@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.094948395,37.83777886"
 draft: false
+
+weight: 100
 ---
 
 ### Kandilkırı: Tarihini ve Kültürel Mirasını Keşfetmek

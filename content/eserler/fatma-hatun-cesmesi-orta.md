@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.955854517,40.577996175"
 draft: false
+
+weight: 100
 ---
 
 ## Fatma Hatun Çeşmesi

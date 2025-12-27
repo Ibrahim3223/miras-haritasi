@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.3566551,37.1174812"
 draft: false
+
+weight: 100
 ---
 
 **Thera Antik Tiyatrosu**

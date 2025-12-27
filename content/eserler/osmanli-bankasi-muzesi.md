@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.972977,41.02409"
 draft: false
+
+weight: 100
 ---
 
 ## Osmanlı Bankası Müzesi

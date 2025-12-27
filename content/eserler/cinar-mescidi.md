@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0874081,37.7733269"
 draft: false
+
+weight: 100
 ---
 
 ## Çınar Mescidi: Pamukkale'nin Tarihi ve Kültürel Mirası

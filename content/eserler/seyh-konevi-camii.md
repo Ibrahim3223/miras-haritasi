@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0572186,40.1786461"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Konevi Camii

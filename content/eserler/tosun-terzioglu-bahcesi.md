@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.377222222,40.890555555"
 draft: false
+
+weight: 10
 ---
 
 ## Tosun Terzioğlu Bahçesi: Anıtsal Bir Zemin

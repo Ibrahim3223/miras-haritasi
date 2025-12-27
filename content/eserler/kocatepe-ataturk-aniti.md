@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.468409,38.655945"
 draft: false
+
+weight: 100
 ---
 
 ### Kocatepe Atatürk Anıtı

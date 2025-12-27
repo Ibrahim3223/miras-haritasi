@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.344888888,37.930861111"
 draft: false
+
+weight: 10
 ---
 
 ## Meryem Ana Heykeli: Selçuk'un sembolü

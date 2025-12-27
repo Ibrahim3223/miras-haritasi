@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9708252,41.0262527"
 draft: false
+
+weight: 10
 ---
 
 **Cududil Valide Sultan Çeşmesi**

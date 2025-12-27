@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.4250069,40.2844963"
 draft: false
+
+weight: 100
 ---
 
 ## Eyvan Çeşme: Şebinkarahisar'ın Göz Alıcı Çeşmesi

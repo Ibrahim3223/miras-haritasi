@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.26138889,39.60611111"
 draft: false
+
+weight: 10
 ---
 
 ### Alişar Höyüğü: Yozgat'ın Gizli Mirası

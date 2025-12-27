@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.7195,40.429"
 draft: false
+
+weight: 10
 ---
 
 ## Nikaia: İznik'te Bir Arkeolojik Sit

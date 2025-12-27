@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.945348,41.021205"
 draft: false
+
+weight: 100
 ---
 
 ## Fındıkoğlu Camii

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.023262,38.3730698"
 draft: false
+
+weight: 100
 ---
 
 ## Debbağlar Köprüsü: Aksaray'ın Eski İmparatorluk Geçişatı

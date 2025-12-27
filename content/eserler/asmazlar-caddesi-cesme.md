@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6937103,41.2477722"
 draft: false
+
+weight: 10
 ---
 
 ## Asmazlar Caddesi Çeşme

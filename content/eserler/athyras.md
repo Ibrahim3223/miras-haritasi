@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.589971,41.034016"
 draft: false
+
+weight: 100
 ---
 
 ### Athyras Arkeolojik Sit

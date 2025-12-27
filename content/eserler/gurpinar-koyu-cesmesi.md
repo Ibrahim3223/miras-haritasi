@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.3050117,40.8347206"
 draft: false
+
+weight: 100
 ---
 
 **Gürpınar Köyü Çeşmesi**

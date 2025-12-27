@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.136583333,38.419055555"
 draft: false
+
+weight: 100
 ---
 
 **Bikur Holim Sinagogu: İzmir'in İlahi Mirasının Gizli Çehresini Açığa Çıkaran Bir Çıkış Noktası**

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9711246,41.0162277"
 draft: false
+
+weight: 100
 ---
 
 ## Mısır Çarşısı Yeni Camii Kapısı

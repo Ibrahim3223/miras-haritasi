@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.237611,37.910778"
 draft: false
+
+weight: 10
 ---
 
 ### Şeyh Mutahhar Camii

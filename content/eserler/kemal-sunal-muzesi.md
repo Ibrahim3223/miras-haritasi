@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0578079,40.9709167"
 draft: false
+
+weight: 10
 ---
 
 ## Kemal Sunal Müzesi

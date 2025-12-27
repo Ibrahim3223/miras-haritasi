@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.280528,39.999871"
 draft: false
+
+weight: 100
 ---
 
 ## Traron: Tarihî Arkeolojik Sit

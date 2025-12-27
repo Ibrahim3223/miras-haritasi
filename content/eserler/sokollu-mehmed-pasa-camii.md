@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.971944444,41.004722222"
 draft: false
+
+weight: 10
 ---
 
 ## Sokollu Mehmed Paşa Camii: Fatih'te bir Altın Çağı Anıtı

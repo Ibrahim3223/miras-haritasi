@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9775,41.003638888"
 draft: false
+
+weight: 100
 ---
 
 ### Nea Eklezya: İstanbul'un Gizli Ören Yeri

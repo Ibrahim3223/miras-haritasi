@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.859085147,39.937448754"
 draft: false
+
+weight: 100
 ---
 
 ### Sebilürreşad Dergisi Müzesi

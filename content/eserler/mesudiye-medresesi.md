@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.2360001,37.9126663"
 draft: false
+
+weight: 10
 ---
 
 ## Mesudiye Medresesi

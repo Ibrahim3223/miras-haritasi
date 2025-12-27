@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4874611,37.8697624"
 draft: false
+
+weight: 10
 ---
 
 ## Serficeli Şirin Hanım Çeşmesi

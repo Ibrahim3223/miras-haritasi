@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.4273703,36.4788402"
 draft: false
+
+weight: 100
 ---
 
 # Çolak Höyüğü: Hatay'ın Gizli Tarihi

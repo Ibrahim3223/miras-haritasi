@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.5252075,39.4467621"
 draft: false
+
+weight: 100
 ---
 
 # Garipçe Çeşme

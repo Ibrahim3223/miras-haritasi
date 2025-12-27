@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.054166666,41.104444444"
 draft: false
+
+weight: 100
 ---
 
 ## Kyparodes Arkeolojik Sit

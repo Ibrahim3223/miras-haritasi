@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.0741005,38.3392982"
 draft: false
+
+weight: 100
 ---
 
 # Bozdağ Hamamı: Ödemiş'in Tarihi Bir Mirası

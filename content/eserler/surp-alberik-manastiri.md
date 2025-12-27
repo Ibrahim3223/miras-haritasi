@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.598053,38.5788765"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Alberik Manastırı

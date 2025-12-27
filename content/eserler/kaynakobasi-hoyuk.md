@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.9591,39.71045"
 draft: false
+
+weight: 100
 ---
 
 ## Kaynakobası Höyük: Eskişehir'in Gizli Kahramanı

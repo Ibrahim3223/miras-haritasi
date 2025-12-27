@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.9259567,41.6102715"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Mirza Bey Türbesi

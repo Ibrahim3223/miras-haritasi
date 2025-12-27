@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3953285,38.6713562"
 draft: false
+
+weight: 100
 ---
 
 ## Morhamam Höyüğü: Malatya'nın Gizemli Arkeolojik Mirası

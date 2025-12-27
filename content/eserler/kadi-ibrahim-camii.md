@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.9810562,38.5055962"
 draft: false
+
+weight: 100
 ---
 
 ## Kadı İbrahim Camii: Malatya'da Bir Örnek Olanı

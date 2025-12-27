@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.7387676,39.5796089"
 draft: false
+
+weight: 10
 ---
 
 ## Altınoluk Hamamı: Edremit'in Tarihi Harikası

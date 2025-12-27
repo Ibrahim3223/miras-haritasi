@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Belen Tepe Höyüğü: Bursa'nın Gizli Kültür Mirası

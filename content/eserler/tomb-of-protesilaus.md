@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.189,40.0447"
 draft: false
+
+weight: 100
 ---
 
 ## Tomb of Protesilaus: Elaeus'taki Tarihi Anıtı Keşfetmek

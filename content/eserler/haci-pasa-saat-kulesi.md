@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "33.88027778,36.31833333"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Paşa Saat Kulesi

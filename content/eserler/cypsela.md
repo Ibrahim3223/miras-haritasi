@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.392051,40.924513"
 draft: false
+
+weight: 100
 ---
 
 ## Cypsela: İpsala'nın Gizemi

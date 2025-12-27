@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "44.61351,39.781"
 draft: false
+
+weight: 100
 ---
 
 ### Borualan Sınır Kapısı: Iğdır'in Gizli Çehresi

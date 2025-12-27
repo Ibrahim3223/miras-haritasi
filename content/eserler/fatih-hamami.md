@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7235985,41.0039558"
 draft: false
+
+weight: 100
 ---
 
 ## Fatih Hamamı: Trabzon'un Tarihi Bir Hamamı

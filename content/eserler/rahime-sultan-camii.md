@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.3092518,40.700428"
 draft: false
+
+weight: 100
 ---
 
 ## Rahime Sultan Camii: Sakarya'nın Tarihi ve Kültürel Mirası

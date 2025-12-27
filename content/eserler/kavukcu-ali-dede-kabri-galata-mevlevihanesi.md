@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9749317,41.0281792"
 draft: false
+
+weight: 10
 ---
 
 ### Kavukçu Ali Dede Kabri, Galata Mevlevihanesi

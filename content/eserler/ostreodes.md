@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.976566,41.023812"
 draft: false
+
+weight: 100
 ---
 
 ## Ostreodes Arkeolojik Sit

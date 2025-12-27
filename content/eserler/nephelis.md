@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.382744,36.175454"
 draft: false
+
+weight: 100
 ---
 
 ## Nephelis Arkeolojik Sit

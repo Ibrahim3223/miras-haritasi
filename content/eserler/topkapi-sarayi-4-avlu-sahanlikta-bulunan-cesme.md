@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.984391,41.013801"
 draft: false
+
+weight: 1
 ---
 
 # Topkapı Sarayı 4. Avlu Sahanlıkta Bulunan Çeşme

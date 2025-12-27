@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.941721,41.04052"
 draft: false
+
+weight: 100
 ---
 
 ### Paulines

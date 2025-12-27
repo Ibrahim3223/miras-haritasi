@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.1339054,37.8986473"
 draft: false
+
+weight: 100
 ---
 
 ## Eskihisar Köprüsü

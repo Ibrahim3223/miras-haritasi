@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.4323769,40.8000565"
 draft: false
+
+weight: 100
 ---
 
 ## Çoban Mustafa Paşa Medresesi

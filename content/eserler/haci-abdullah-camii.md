@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.2892475,37.7129135"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Abdullah Camii

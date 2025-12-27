@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.948246,41.0204926"
 draft: false
+
+weight: 10
 ---
 
 ## Efdalzade Camii: Fatih'teki Bir Tarihi Ölümsüzlük

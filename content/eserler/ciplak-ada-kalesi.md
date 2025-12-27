@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.598206,39.282925"
 draft: false
+
+weight: 100
 ---
 
 ## Çıplak Ada Kalesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.93175427,41.084985202"
 draft: false
+
+weight: 100
 ---
 
 ## Uğrak Köyü Camii: Rize'nin Tarihi Bir Mirası

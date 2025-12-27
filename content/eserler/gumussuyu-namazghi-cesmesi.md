@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9321308,41.0564003"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşsuyu Namazgâhı Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.4744263,41.8199997"
 draft: false
+
+weight: 100
 ---
 
 # Büyükismailçe III Tümülüsü

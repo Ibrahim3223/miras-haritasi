@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.654623528,40.471553193"
 draft: false
+
+weight: 100
 ---
 
 ## Kızılcahamam - Hocalı Müzesi Tanıtımı

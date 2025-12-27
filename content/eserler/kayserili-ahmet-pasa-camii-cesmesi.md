@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.4047184,40.1427917"
 draft: false
+
+weight: 100
 ---
 
 ## Kayserili Ahmet Paşa Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.928567,41.018519"
 draft: false
+
+weight: 100
 ---
 
 ## Muhammed Hariri Türbesi

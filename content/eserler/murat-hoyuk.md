@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.9619522,38.8904877"
 draft: false
+
+weight: 100
 ---
 
 ## Murat Höyük: Bingöl'un Gizli Çarpıntısı

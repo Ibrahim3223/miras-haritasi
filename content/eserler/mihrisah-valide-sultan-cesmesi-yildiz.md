@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0114517,41.0443039"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi: Yıldız'taki bir Anıt

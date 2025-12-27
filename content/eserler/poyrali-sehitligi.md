@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.6083698,41.6278992"
 draft: false
+
+weight: 100
 ---
 
 ### Poyralı Şehitliği

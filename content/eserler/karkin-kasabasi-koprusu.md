@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.88184,37.67753"
 draft: false
+
+weight: 100
 ---
 
 ## Karkın Kasabası Köprüsü: Tarih ve Kültür Mirası

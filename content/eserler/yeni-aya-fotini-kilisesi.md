@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1399002,38.4274559"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Aya Fotini Kilisesi: İzmir'in Eski Şehirinin Tarihi ve Kültürel Mirası

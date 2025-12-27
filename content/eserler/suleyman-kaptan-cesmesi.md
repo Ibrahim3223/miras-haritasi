@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2493687,37.032917"
 draft: false
+
+weight: 100
 ---
 
 **Süleyman Kaptan Çeşmesi**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.969194,41.003403"
 draft: false
+
+weight: 100
 ---
 
 ## Kasapbaşı Mehmet Ağa Çeşmesi

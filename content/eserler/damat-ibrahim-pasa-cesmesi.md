@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0558338,41.0871849"
 draft: false
+
+weight: 100
 ---
 
 ## Damat İbrahim Paşa Çeşmesi

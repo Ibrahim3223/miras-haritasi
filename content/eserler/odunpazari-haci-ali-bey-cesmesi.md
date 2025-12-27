@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.472805,40.7341537"
 draft: false
+
+weight: 100
 ---
 
 # Odunpazarı Hacı Ali Bey Çeşmesi: Çorum'un Tarihî Mirası

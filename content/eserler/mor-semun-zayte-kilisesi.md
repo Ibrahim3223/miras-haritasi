@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.3379593,37.4726677"
 draft: false
+
+weight: 100
 ---
 
 ## Mor Şemun Zayte Kilisesi: Tarihî Bir Mirasın Gizemi

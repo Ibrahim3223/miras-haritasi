@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6325703,41.493618"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmetbey Koçka Tümülüsü: Lüleburgaz'daki Antik Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7226257,38.1026688"
 draft: false
+
+weight: 100
 ---
 
 #### Laletepe Tümülüsü, Tire

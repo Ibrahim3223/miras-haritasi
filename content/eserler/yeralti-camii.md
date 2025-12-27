@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.97648333,41.02253333"
 draft: false
+
+weight: 10
 ---
 
 ## Yeraltı Camii: İstanbul'un Gizli Çatısı

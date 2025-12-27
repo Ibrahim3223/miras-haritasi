@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.881666666,40.379722222"
 draft: false
+
+weight: 10
 ---
 
 **Mudanya Mütareke Evi**

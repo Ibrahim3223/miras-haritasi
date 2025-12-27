@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.124388,41.089325"
 draft: false
+
+weight: 10
 ---
 
 ## Akçakoca Merkez Camii: Düzce'nin Tarihi Bir Mirası

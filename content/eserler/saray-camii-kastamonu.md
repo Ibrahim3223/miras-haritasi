@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7795792,41.3765182"
 draft: false
+
+weight: 100
 ---
 
 ## Saray Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

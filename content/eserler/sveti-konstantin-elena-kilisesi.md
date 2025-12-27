@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.56411944,41.66343056"
 draft: false
+
+weight: 10
 ---
 
 ## Sveti Konstantin-Elena Kilisesi: Edirne'nin Gizli Çehresi

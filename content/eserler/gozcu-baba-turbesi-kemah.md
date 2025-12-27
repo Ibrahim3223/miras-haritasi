@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.0336533,39.6069946"
 draft: false
+
+weight: 100
 ---
 
 ### Gözcü Baba Türbesi, Kemah

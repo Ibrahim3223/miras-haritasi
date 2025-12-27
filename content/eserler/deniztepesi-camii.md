@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.125899,36.979824"
 draft: false
+
+weight: 100
 ---
 
 ## Deniztepesi Camii: Antalya'nın Serik Bölgesinde Gizlenen bir Ören

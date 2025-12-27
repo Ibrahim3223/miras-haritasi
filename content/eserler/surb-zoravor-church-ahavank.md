@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 # Surb Zoravor Church (Ahavank): Van'da Bir Aziz Kilisesi

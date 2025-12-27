@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9305257,41.0785101"
 draft: false
+
+weight: 100
 ---
 
 ## Uğrak Köprüsü

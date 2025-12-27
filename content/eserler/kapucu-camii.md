@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.1605492,39.1440239"
 draft: false
+
+weight: 100
 ---
 
 ## Kapucu Camii

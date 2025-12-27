@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.29168,40.23815"
 draft: false
+
+weight: 10
 ---
 
 ## Quinn's Post Mezarlığı

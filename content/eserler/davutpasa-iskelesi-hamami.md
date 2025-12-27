@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.944138,41.003736"
 draft: false
+
+weight: 100
 ---
 
 ## Davutpaşa İskelesi Hamamı: Istanbul'un Gizli Bir Cenneti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.361506,38.928971"
 draft: false
+
+weight: 10
 ---
 
 ## 33 Şehit Anıtı: Kıbrıs Savaşı'nın Anıtı

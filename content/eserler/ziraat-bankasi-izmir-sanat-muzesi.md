@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.133055555,38.424166666"
 draft: false
+
+weight: 10
 ---
 
 ### Ziraat Bankası İzmir Sanat Müzesi

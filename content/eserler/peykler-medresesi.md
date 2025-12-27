@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "26.5544262,41.6781197"
 draft: false
+
+weight: 100
 ---
 
 **Peykler Medresesi**

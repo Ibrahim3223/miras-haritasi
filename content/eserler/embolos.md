@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1665825,40.7723955"
 draft: false
+
+weight: 100
 ---
 
 ## Embolos: Türkiye'nin Eski Çağ Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0184078,41.0198708"
 draft: false
+
+weight: 10
 ---
 
 ## Toptaşı Anıtı: Üsküdar'ın Sembolü

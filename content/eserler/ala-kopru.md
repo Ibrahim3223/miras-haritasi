@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.894772,36.175109"
 draft: false
+
+weight: 100
 ---
 
 **Ala Köprü: Mersin'in Tarihî ve Kültürel Mirası**

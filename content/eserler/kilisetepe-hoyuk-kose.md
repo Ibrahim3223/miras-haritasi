@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.8105,40.245384"
 draft: false
+
+weight: 100
 ---
 
 # Kilisetepe Höyük, Köse: Geçmişin İzleri

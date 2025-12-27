@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2814751,39.9043045"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Fahreddin Türbesi: Erzurum'un Tarihî Mirası

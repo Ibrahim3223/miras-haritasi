@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.227817,40.918882"
 draft: false
+
+weight: 10
 ---
 
 ## Acı Çeşme, Yakacık: Kartal'da Bir Osmanlı Çeşmesi

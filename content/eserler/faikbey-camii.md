@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.046379,41.0099825"
 draft: false
+
+weight: 100
 ---
 
 ## Faikbey Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.98316111,41.02732778"
 draft: false
+
+weight: 10
 ---
 
 ## Nusretiye Camii

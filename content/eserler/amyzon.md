@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.711,37.6087"
 draft: false
+
+weight: 100
 ---
 
 **Amyzon Arkeolojik Sit**

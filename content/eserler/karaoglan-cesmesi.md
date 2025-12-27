@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8777428,39.6477356"
 draft: false
+
+weight: 100
 ---
 
 ## Karaoğlan Çeşmesi: Balıkesir'in Tarihsel Bir Çeşmesi

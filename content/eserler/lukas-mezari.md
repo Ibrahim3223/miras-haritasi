@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.346374172,37.934697201"
 draft: false
+
+weight: 100
 ---
 
 ## Lukas Mezarı: Selçuk'un Gizli Kahramanı

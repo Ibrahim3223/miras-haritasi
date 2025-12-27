@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.1882579,37.3240551"
 draft: false
+
+weight: 10
 ---
 
 ## Nuh Türbesi: Cizre'nin Tarihi ve Kültürel Mirası

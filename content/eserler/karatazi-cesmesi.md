@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2835846,39.907341"
 draft: false
+
+weight: 100
 ---
 
 ## Karatazı Çeşmesi: Erzurum'un Görsel Yaratısı

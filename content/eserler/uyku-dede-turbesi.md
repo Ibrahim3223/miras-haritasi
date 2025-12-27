@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9264801,41.0036602"
 draft: false
+
+weight: 100
 ---
 
 ### Uyku Dede Türbesi Tanıtımı

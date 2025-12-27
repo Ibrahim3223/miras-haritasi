@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.2431374,40.4814835"
 draft: false
+
+weight: 100
 ---
 
 ### Eziniz Kalesi: Tarihî Bir Yerleşim

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.945797,40.5909119"
 draft: false
+
+weight: 10
 ---
 
 ### Çöreğibüyük Camii: Niksar'da Bir Zemin Camii'nin Anlamları

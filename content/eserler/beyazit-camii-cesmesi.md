@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.965555,41.009617"
 draft: false
+
+weight: 100
 ---
 
 ## Beyazıt Camii Çeşmesi

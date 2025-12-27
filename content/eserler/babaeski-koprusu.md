@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.09885,41.42766944"
 draft: false
+
+weight: 10
 ---
 
 ### Babaeski Köprüsü

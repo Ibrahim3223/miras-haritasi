@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9793034,37.4924545"
 draft: false
+
+weight: 100
 ---
 
 **Solmaz Höyük: Denizli'nin Gizli Kahramanı**

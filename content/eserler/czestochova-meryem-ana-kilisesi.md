@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.2074021,41.1098922"
 draft: false
+
+weight: 10
 ---
 
 ## Czestochova Meryem Ana Kilisesi

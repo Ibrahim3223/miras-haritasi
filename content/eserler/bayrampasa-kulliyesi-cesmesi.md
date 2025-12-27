@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.942312,41.008781"
 draft: false
+
+weight: 10
 ---
 
 ## Bayrampaşa Külliyesi Çeşmesi

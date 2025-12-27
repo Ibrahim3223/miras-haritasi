@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.1689873,36.5896454"
 draft: false
+
+weight: 100
 ---
 
 ## İskenderun Süryani Katolik Kilisesi: Tarih ve Şöhret

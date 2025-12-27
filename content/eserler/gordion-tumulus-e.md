@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.991091,39.652798"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs E: Ankara'nın Gizli Mirası

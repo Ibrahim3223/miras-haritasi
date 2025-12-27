@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.0745926,37.4084892"
 draft: false
+
+weight: 100
 ---
 
 ## Finik Kalesi: Tarihî Bir Mirasın İzleri

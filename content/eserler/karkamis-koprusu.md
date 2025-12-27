@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.0246,36.8301"
 draft: false
+
+weight: 10
 ---
 
 **Karkamış Köprüsü: Tarihî Bir Mimarî Harikası**

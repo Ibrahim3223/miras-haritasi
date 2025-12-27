@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.071317,40.177558"
 draft: false
+
+weight: 10
 ---
 
 ## Umur Bey Türbesi

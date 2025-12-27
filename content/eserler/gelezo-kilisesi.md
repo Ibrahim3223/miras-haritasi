@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.9495392,37.5568962"
 draft: false
+
+weight: 100
 ---
 
 ## Gelezo Kilisesi: Hakkâri'nin Gizemli Kilisesi

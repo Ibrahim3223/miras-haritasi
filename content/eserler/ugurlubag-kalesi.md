@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.936032726,37.73053438"
 draft: false
+
+weight: 100
 ---
 
 ### Uğurlubağ Kalesi: Feke'nin Gizli Şehri

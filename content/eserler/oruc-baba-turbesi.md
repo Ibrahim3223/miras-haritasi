@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.93016,41.01817"
 draft: false
+
+weight: 100
 ---
 
 ## Oruç Baba Türbesi

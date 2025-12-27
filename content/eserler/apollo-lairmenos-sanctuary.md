@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.28035,38.2148"
 draft: false
+
+weight: 100
 ---
 
 ### Apollo Lairmenos Tapınağı

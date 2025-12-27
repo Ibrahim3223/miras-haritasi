@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9216347,40.7683754"
 draft: false
+
+weight: 100
 ---
 
 ## Nikomedia Antik Tiyatrosu: Bir İmparatorlukun Kültür Mirası

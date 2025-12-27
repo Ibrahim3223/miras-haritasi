@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.022167799,39.597422603"
 draft: false
+
+weight: 100
 ---
 
 ### Zekeriya Camii: Edremit'in Tarihi ve Kültürel Mirası

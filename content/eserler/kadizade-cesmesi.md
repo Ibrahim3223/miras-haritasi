@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.932873,41.047117"
 draft: false
+
+weight: 100
 ---
 
 ## Kadızade Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3718719,40.2446327"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağıdemirci Köyü Camii: Biga'nın Tarihi Bir Anıtı

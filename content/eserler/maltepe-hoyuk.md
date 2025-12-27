@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.774094,39.8650121"
 draft: false
+
+weight: 100
 ---
 
 ## Maltepe Höyük: Sivas'ta Bir Arkeolojik SİT

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.368111111,37.9555"
 draft: false
+
+weight: 10
 ---
 
 ## Ayasuluk: Tarihi ve Kültürel Miras

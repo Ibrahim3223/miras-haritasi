@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.0694466,38.2573738"
 draft: false
+
+weight: 100
 ---
 
 ### Sasalı Hamamı

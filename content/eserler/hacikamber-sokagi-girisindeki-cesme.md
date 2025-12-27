@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4214821,37.9295502"
 draft: false
+
+weight: 100
 ---
 
 ## Hacıkamber Sokağı Girişindeki Çeşme

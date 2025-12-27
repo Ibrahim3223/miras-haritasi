@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.6189156,37.3091774"
 draft: false
+
+weight: 100
 ---
 
 ## Mor Dodo Kilisesi: Şırnak'ın Tarihi Bir Mirası

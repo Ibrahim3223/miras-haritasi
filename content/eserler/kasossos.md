@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.812491,37.230248"
 draft: false
+
+weight: 100
 ---
 
 ## Kasossos: Antik Çağ'ın Gizemli Arkeolojik Sitesi

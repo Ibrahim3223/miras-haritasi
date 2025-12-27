@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.465395082,41.141106236"
 draft: false
+
+weight: 100
 ---
 
 ## Tezveren Dede Türbesi, Çatalca

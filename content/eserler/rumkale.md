@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.837916666,37.270777777"
 draft: false
+
+weight: 10
 ---
 
 ## Rumkale: Tarihi ve Kültürel Mirasının Bir Parçası

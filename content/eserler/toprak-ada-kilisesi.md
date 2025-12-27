@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3665085,37.2832108"
 draft: false
+
+weight: 100
 ---
 
 ## Toprak Ada Kilisesi: Ege Bölgesi'ndeki Gizemli Bir Kilise

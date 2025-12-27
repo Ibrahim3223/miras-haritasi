@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.2820969,41.901432"
 draft: false
+
+weight: 100
 ---
 
 ## Kuzulu Kalesi: Kırklareli'nin Gizli Çağı

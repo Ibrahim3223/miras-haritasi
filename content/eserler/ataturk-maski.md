@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.145805555,38.406055555"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Maskı

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.6162453,39.468605"
 draft: false
+
+weight: 100
 ---
 
 ## Kazancı Kalesi: Hınıs'ta Bir Tarihî Miras

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.043888888,41.076666666"
 draft: false
+
+weight: 10
 ---
 
 ### Bebek Camii: İstanbul'un Gizli Çeşmesinde Bir İbadet Mekânı

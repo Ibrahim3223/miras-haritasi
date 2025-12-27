@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9793587,41.0079689"
 draft: false
+
+weight: 1
 ---
 
 ## Ayasofya Şehzadeler Türbesi

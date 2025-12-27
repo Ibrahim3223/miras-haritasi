@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.308445,40.2524147"
 draft: false
+
+weight: 100
 ---
 
 ## Conk Bayırı Atatürk Anıtı

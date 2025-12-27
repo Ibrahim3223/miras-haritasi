@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.0984,38.2535"
 draft: false
+
+weight: 100
 ---
 
 ## Elyasa Peygamber Türbesi: Diyarbakır'ın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.675148,37.376595"
 draft: false
+
+weight: 100
 ---
 
 ## Euromos Antik Tiyatrosu: Antik Çağın Mirası

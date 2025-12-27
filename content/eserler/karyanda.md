@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.383333,37.133333"
 draft: false
+
+weight: 100
 ---
 
 **Karyanda: Muğla'nın Eski Deniz Limanı**

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.660675,36.878907"
 draft: false
+
+weight: 10
 ---
 
 **Antalya Akvaryum: Su ve Yaşamın Gizemi**

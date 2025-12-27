@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.0844212,39.8525009"
 draft: false
+
+weight: 100
 ---
 
 ## Büğdüz Köy Camii: Eskişehir'in Tarihi Bir Mirası

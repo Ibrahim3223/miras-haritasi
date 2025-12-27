@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.843178,38.923894"
 draft: false
+
+weight: 100
 ---
 
 ### Aynalı Camii: Manisa'nın Tarihî Bir Cenneti

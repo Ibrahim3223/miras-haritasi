@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.338786111,41.351416666"
 draft: false
+
+weight: 100
 ---
 
 ## Cvarebi Kilisesi

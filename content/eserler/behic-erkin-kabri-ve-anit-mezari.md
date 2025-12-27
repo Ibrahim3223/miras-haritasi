@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4849987,39.7753029"
 draft: false
+
+weight: 100
 ---
 
 # Behiç Erkin Kabri ve Anıt Mezarı

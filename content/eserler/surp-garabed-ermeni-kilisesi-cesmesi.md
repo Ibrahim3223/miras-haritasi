@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.031079,41.02103"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Garabed Ermeni Kilisesi Çeşmesi

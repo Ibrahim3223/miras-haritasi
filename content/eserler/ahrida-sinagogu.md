@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.945513,41.032897"
 draft: false
+
+weight: 10
 ---
 
 **Ahrida Sinagogu: İstanbul'un Gizli Tarihi**

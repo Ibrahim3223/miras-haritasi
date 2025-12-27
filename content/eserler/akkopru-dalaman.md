@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.939705,36.91954"
 draft: false
+
+weight: 100
 ---
 
 ### Akköprü, Dalaman: Bir Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5157585,40.9763756"
 draft: false
+
+weight: 100
 ---
 
 ## Rüstem Efendi Çeşmesi: Tekirdağ'ın Kültürel Mirası

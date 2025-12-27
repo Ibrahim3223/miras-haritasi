@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5561295,37.4980965"
 draft: false
+
+weight: 100
 ---
 
 ## Aliefendi Mescidi: Yeşilova'da Bir Osmanlı Dönemi Eseri

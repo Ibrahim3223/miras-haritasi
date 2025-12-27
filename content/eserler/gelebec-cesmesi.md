@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3123665,37.6686287"
 draft: false
+
+weight: 100
 ---
 
 ## Gelebeç Çeşmesi: Aydın'ın Zümrütlü Köyü'ndeki Tarihi Bir Çeşme

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8642197,39.932457"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Seyyid Çeşmesi

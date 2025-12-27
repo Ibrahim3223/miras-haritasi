@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.7311745,41.2235718"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, İmrahor

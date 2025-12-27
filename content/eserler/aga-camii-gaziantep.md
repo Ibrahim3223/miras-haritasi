@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3887596,37.0589867"
 draft: false
+
+weight: 100
 ---
 
 ## Ağa Camii, Gaziantep: Tarihi ve Kültürel Miras

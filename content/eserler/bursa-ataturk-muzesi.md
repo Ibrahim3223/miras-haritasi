@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.039805555,40.195111111"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Atatürk Müzesi: Tarih, Kültür ve Miras

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.220047509,38.463490776"
 draft: false
+
+weight: 100
 ---
 
 ## Arkas Deniz Tarihi Merkezi

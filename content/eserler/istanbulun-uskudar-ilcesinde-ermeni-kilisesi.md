@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.031081,41.020897"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul'un Üsküdar İlçesindeki Ermeni Kilisesi: Bir Kültürel Miras

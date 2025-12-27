@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.984028,41.012348"
 draft: false
+
+weight: 100
 ---
 
 ## Sohum Kalesi Abidesi: Fatih'te Bir Tarihi Anıt

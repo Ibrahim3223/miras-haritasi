@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023078,41.049714"
 draft: false
+
+weight: 100
 ---
 
 ## Taş Basamak Sokaktaki Çeşme: Beşiktaş'ta Bir Ölümsüz

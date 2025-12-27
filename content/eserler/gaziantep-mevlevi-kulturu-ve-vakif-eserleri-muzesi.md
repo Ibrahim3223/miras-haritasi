@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.387861111,37.061111111"
 draft: false
+
+weight: 10
 ---
 
 ### Gaziantep Mevlevi Kültürü ve Vakıf Eserleri Müzesi

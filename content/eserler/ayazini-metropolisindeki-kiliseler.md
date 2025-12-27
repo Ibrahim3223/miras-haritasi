@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.565079,39.0105957"
 draft: false
+
+weight: 10
 ---
 
 ### Ayazini Metropolisi'ndeki Kiliseler

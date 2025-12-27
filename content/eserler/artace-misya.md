@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.796268,40.402952"
 draft: false
+
+weight: 100
 ---
 
 ## Artace (Misya): Erdek'teki Gizemli Arkeolojik Sit

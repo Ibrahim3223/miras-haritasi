@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9559644,41.0097344"
 draft: false
+
+weight: 10
 ---
 
 ## III. Mustafa Türbesi: Fatih'in Ölümsüz Hatırası

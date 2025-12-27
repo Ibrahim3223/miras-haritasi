@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.9016342,36.9223289"
 draft: false
+
+weight: 100
 ---
 
 ### Şıh Beril İbri Türbesi

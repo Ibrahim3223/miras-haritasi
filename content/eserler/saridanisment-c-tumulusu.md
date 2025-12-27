@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.811882,41.8764114"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıdanişment C Tümülüsü: Edirne'nin Gizli Klasikliği

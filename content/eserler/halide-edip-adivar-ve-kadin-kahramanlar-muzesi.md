@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.0764809,39.5028534"
 draft: false
+
+weight: 100
 ---
 
 ## Halide Edip Adıvar ve Kadın Kahramanlar Müzesi

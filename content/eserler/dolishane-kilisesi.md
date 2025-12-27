@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.95222222,41.16583333"
 draft: false
+
+weight: 10
 ---
 
 ## Dolishane Kilisesi: Türkiye'nin Tarihi ve Kültürel Mirasının Gizli Çehresi

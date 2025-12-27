@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.783961111,37.145655555"
 draft: false
+
+weight: 10
 ---
 
 ### Edessa: Tarihin Etkileyici Bir Köyü

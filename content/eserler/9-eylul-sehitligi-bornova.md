@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.2111816,38.4579659"
 draft: false
+
+weight: 100
 ---
 
 ### 9 Eylül Şehitliği, Bornova

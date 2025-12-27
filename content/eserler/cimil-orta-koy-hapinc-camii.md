@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.763090402,40.73714207"
 draft: false
+
+weight: 100
 ---
 
 # Cimil Orta Köy Hapinç Camii

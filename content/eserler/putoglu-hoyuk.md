@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.531685,36.289387"
 draft: false
+
+weight: 100
 ---
 
 ## Putoğlu Höyük: Bir Arkeolojik Sitin Gizemi

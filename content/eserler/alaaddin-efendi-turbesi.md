@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.773815,41.381144"
 draft: false
+
+weight: 100
 ---
 
 ## Alaaddin Efendi Türbesi: Kastamonu'nun Değerli Hazinesi

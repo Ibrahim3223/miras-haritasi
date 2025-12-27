@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.1861411,37.6269454"
 draft: false
+
+weight: 100
 ---
 
 ## Battalhöyük: Tarih Öncesi'nin Gizemi

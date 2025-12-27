@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.195959,38.552876"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Karadirek: Tarihî Bir Çatılma

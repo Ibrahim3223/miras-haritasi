@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.3346711,37.4683201"
 draft: false
+
+weight: 100
 ---
 
 ### Mor Loozor Manastırı

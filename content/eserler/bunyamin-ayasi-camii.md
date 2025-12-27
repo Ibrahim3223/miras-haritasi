@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.3341637,40.0157967"
 draft: false
+
+weight: 100
 ---
 
 ## Bünyamin Ayaşi Camii

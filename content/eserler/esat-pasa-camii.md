@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2744102,39.9077225"
 draft: false
+
+weight: 100
 ---
 
 # Esat Paşa Camii

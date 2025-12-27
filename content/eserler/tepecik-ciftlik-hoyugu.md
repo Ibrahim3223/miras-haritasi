@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.49361111,38.17194444"
 draft: false
+
+weight: 100
 ---
 
 ## Tepecik – Çiftlik Höyüğü: Niğde'nin Gizli Kahramanı

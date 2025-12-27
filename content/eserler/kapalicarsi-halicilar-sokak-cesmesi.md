@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.967827,41.011055"
 draft: false
+
+weight: 100
 ---
 
 ## Kapalıçarşı Halıcılar Sokak Çeşmesi

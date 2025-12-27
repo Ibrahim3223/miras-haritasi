@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.4839935,38.7240829"
 draft: false
+
+weight: 10
 ---
 
 ## Gevher Nesibe Şifaiyesi: Kayseri'nin Gizli Çandırı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.675909,41.8539162"
 draft: false
+
+weight: 100
 ---
 
 ## Koyunçeşme I Tümülüsü

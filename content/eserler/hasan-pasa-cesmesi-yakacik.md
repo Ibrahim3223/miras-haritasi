@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.221221,40.915778"
 draft: false
+
+weight: 10
 ---
 
 # Hasan Paşa Çeşmesi, Yakacık

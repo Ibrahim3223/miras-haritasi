@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.6186752,41.0899734"
 draft: false
+
+weight: 100
 ---
 
 ## Türkobası Höyüktepe Tümülüsü: Edirne'nin Gizli Anıtı

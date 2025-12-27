@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.9032,37.2505"
 draft: false
+
+weight: 10
 ---
 
 ## Anazarbus Zafer Takı

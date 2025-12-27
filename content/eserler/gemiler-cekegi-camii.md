@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.401529,40.913834"
 draft: false
+
+weight: 100
 ---
 
 ## Gemiler Çekeği Camii

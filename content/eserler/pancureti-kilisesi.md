@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.303972222,40.776866666"
 draft: false
+
+weight: 100
 ---
 
 # Pancureti Kilisesi

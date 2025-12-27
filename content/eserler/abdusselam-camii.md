@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.7725449,40.9919319"
 draft: false
+
+weight: 100
 ---
 
 ## Abdüsselam Camii: Küçükçekmece'nin Tarihi ve Kültürel Mirası

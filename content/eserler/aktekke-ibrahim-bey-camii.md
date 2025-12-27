@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7808571,41.3799553"
 draft: false
+
+weight: 100
 ---
 
 ### Kastamonu'nun Gizli Cenneti: Aktekke İbrahim Bey Camii

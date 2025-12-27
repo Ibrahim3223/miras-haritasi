@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.463644,37.9152565"
 draft: false
+
+weight: 100
 ---
 
 ## Mescit Sokak Çeşmesi: Aydın'ın Tarihi Bir Çeşme

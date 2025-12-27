@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18105556,39.126175"
 draft: false
+
+weight: 10
 ---
 
 ### Roma Çeşmesi

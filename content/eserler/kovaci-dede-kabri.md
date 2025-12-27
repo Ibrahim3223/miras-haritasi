@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.948247,41.025536"
 draft: false
+
+weight: 100
 ---
 
 ## Kovacı Dede Kabri: Fatih'in Gizli Anıtı

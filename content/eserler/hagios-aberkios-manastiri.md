@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.0264568,40.3617516"
 draft: false
+
+weight: 100
 ---
 
 ### Hagios Aberkios Manastırı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2777328,39.9015846"
 draft: false
+
+weight: 100
 ---
 
 ## Mustafa Mehi Efendi Türbesi

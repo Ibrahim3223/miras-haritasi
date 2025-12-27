@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.448119444,41.298938888"
 draft: false
+
+weight: 100
 ---
 
 ## Meria Kilisesi: Şavşat'ın Gizli Mücevheri

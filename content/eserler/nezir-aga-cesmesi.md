@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961518,41.03704"
 draft: false
+
+weight: 10
 ---
 
 # Nezir Ağa Çeşmesi: Beyoğlu'ndaki Bir Tarihsel Çeşme

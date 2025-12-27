@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.3090706,39.914032"
 draft: false
+
+weight: 10
 ---
 
 ## Aziziye Şehitler Anıtı: Erzurum'un Gizli Şehri

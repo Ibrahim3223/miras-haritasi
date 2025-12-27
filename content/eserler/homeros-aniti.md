@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.171055555,38.446388888"
 draft: false
+
+weight: 10
 ---
 
 ## Homeros Anıtı: İzmir'in Şeref Anıtı

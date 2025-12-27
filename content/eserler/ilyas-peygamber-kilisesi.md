@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1418678,38.4004088"
 draft: false
+
+weight: 10
 ---
 
 ### İlyas Peygamber Kilisesi

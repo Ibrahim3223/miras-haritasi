@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.373055555,36.688611111"
 draft: false
+
+weight: 10
 ---
 
 ### Datça'daki Bir Antik Harika: Apollo Karneios Tapınağı

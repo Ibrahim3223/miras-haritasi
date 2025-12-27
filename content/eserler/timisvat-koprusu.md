@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0400456,41.1233763"
 draft: false
+
+weight: 100
 ---
 
 # Timisvat Köprüsü: Ardeşen'in Gizli Cenneti

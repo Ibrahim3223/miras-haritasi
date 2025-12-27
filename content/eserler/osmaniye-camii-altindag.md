@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8577194,39.9478683"
 draft: false
+
+weight: 100
 ---
 
 ## Osmaniye Camii: Ankara'nın Tarihi Bir Mirası

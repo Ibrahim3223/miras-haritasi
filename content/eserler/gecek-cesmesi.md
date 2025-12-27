@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.7700901,39.3814583"
 draft: false
+
+weight: 100
 ---
 
 ## Gecek Çeşmesi: Eskişehir'in Göz Alıcı Çeşmesi

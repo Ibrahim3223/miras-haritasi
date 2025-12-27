@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.035278,38.341667"
 draft: false
+
+weight: 10
 ---
 
 ## Akdamar Kilisesi: Van'ın Tarihî Bir Mirası

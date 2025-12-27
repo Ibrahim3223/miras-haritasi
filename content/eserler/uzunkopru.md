@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.67669,41.27608"
 draft: false
+
+weight: 10
 ---
 
 ## Uzunköprü: Edirne'nin İhtişamlı Köprüsü

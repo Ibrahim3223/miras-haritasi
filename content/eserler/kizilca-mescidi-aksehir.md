@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.4109306,38.3523064"
 draft: false
+
+weight: 10
 ---
 
 ## Kızılca Mescidi, Akşehir: Bir Tarihi ve Kültürel Miras

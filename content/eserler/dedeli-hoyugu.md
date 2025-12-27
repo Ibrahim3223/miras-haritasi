@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.79736,37.63862"
 draft: false
+
+weight: 100
 ---
 
 ## Dedeli Höyüğü: Çumra'nın Gizli Tarihi

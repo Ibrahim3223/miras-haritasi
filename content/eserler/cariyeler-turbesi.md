@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0469952,40.1908875"
 draft: false
+
+weight: 100
 ---
 
 **Cariyeler Türbesi: Bursa'nın Gizli Anıtı**

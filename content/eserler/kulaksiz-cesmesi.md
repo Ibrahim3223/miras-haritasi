@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.962254,41.038832"
 draft: false
+
+weight: 100
 ---
 
 ## Kulaksız Çeşmesi: Beyoğlu'nun Eski Günlerine Dair Bir Anıt

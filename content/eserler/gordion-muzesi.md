@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.99602778,39.65267222"
 draft: false
+
+weight: 10
 ---
 
 ## Gordion Müzesi

@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "44.5,37.81666667"
 draft: false
+
+weight: 100
 ---
 
 ## Serve Sınır Kapısı: Geçmişin Kervansaraylarından Bir Örnek

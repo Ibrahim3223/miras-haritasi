@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.061038107,40.189716337"
 draft: false
+
+weight: 10
 ---
 
 ### Sülüklü Camii: Bursa'nın Tarihî Mimarı

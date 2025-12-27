@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.608555555,40.732416666"
 draft: false
+
+weight: 10
 ---
 
 ## Saraçhane Camii (Bolu)

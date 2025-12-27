@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3138561,41.8492088"
 draft: false
+
+weight: 100
 ---
 
 ### Koruköy Tavşantepe Güney Tümülüsü

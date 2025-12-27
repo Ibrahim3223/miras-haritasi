@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.892015,40.304562"
 draft: false
+
+weight: 100
 ---
 
 ## Zile Antik Tiyatrosu

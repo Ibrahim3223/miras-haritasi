@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.5375767,39.4501114"
 draft: false
+
+weight: 100
 ---
 
 ## Sivrihisar Kilim Müzesi: Eskişehir'in Gizli Çırağı

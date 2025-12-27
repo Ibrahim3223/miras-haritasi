@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.475731,36.865717"
 draft: false
+
+weight: 10
 ---
 
 ### Trebenna: Antalya'nın Gizli Arkeolojik Çeşmesi

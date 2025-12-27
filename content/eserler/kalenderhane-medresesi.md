@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9602356,41.0128441"
 draft: false
+
+weight: 100
 ---
 
 ## Kalenderhane Medresesi

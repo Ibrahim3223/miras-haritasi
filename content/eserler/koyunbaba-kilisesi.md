@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.0968151,41.7212944"
 draft: false
+
+weight: 100
 ---
 
 ## Koyunbaba Kilisesi: Kırklareli'nin Gizli Çehresini Açığa Çıkaran Biraz Önemli Eser

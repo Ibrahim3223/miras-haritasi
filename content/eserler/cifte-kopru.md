@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.37598,41.27653"
 draft: false
+
+weight: 10
 ---
 
 ### Çifte Köprü

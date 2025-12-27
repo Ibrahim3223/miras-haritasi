@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.7249031,41.0105553"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşmeli Köyü Camii: Rize'nin Gizli Cenneti

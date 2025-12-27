@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.7596817,41.2021294"
 draft: false
+
+weight: 100
 ---
 
 ## Çavdar Tepe Dikilitaşı

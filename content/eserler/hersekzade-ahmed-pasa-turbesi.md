@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.504591,40.7231789"
 draft: false
+
+weight: 100
 ---
 
 ## Hersekzade Ahmed Paşa Türbesi

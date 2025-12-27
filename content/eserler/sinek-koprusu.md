@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.454884,38.173376"
 draft: false
+
+weight: 100
 ---
 
 ## Sinek Köprüsü: Diyarbakır'ın Tarihî Mirası

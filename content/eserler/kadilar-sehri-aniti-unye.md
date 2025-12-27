@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.285481,41.130163"
 draft: false
+
+weight: 100
 ---
 
 # Kadılar Şehri Anıtı: Ünye'nin Tarihî Bir Mirası

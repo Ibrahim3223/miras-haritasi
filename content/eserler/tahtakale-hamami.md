@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.968,41.017694444"
 draft: false
+
+weight: 10
 ---
 
 ## Tahtakale Hamamı

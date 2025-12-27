@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2444324,37.759243"
 draft: false
+
+weight: 100
 ---
 
 ## Alioğullar Köprüsü: Aydın'ın Tarihi Mirası

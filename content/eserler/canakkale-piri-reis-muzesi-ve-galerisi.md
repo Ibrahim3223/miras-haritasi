@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.4072418,40.1524811"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakkale Piri Reis Müzesi ve Galerisi

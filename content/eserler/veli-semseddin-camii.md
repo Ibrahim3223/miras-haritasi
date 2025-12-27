@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.063055,40.1801071"
 draft: false
+
+weight: 100
 ---
 
 ### Veli Şemseddin Camii

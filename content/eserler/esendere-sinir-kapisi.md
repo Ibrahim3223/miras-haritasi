@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "44.6202,37.7161"
 draft: false
+
+weight: 100
 ---
 
 ## Esendere Sınır Kapısı: Tarihi Kervansaray

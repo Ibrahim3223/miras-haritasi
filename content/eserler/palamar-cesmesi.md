@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.091552,41.146182"
 draft: false
+
+weight: 10
 ---
 
 ## Palamar Çeşmesi: Beykoz'un Tarihi Bir Anıtı

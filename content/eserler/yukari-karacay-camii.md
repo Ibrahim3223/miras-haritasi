@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.419381,37.6874"
 draft: false
+
+weight: 100
 ---
 
 ### Yukarı Karaçay Camii: Honaz, Denizli'nin Dini Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.832644101,40.721579445"
 draft: false
+
+weight: 100
 ---
 
 ## Macar Dostluk Anıtı

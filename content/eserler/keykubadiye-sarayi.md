@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "35.423722222,38.757888888"
 draft: false
+
+weight: 100
 ---
 
 **Keykubadiye Sarayı**

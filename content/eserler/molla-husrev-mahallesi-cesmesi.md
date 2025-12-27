@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9609356,41.0146332"
 draft: false
+
+weight: 100
 ---
 
 ### Molla Hüsrev Mahallesi Çeşmesi

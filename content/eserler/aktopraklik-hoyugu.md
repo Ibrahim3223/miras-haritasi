@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.7710495,40.173233"
 draft: false
+
+weight: 100
 ---
 
 ## Aktopraklık Höyüğü: Bursa'nın Gizli Anıtı

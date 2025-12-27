@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.704912537,40.684128168"
 draft: false
+
+weight: 100
 ---
 
 ## Sivrikaya Köyü Camii

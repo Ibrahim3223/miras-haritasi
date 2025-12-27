@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020859,41.027971"
 draft: false
+
+weight: 10
 ---
 
 ## Sultantepe Çeşmesi

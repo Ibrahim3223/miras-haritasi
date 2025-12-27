@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.1776199,37.3953667"
 draft: false
+
+weight: 10
 ---
 
 ## Kasrik Kalesi: Şırnak'ın Tarihsel ve Kültürel Mirası

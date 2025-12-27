@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.897643352,39.934571196"
 draft: false
+
+weight: 100
 ---
 
 **Saniye Hatun Köprüsü: Mamak, Ankara'nın Gizli Çeşmidi**

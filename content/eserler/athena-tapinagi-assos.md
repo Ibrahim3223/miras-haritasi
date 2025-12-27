@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.336944444,39.490833333"
 draft: false
+
+weight: 10
 ---
 
 ## Athena Tapınağı (Assos)

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0229553,41.0260185"
 draft: false
+
+weight: 10
 ---
 
 ## Valide Kethüdası Çeşmesi

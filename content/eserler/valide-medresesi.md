@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9478531,41.024334"
 draft: false
+
+weight: 100
 ---
 
 ## Valide Medresesi

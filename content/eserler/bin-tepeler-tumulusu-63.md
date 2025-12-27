@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9241581,38.5953751"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 63: Manisa'nın Gizli Güzelliği

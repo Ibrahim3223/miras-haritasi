@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5282421,37.6139717"
 draft: false
+
+weight: 100
 ---
 
 ## Asarkale, Sayrakçı: Aydın'ın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.7288818,41.1178322"
 draft: false
+
+weight: 100
 ---
 
 ### Hoynat Kalesi: Perşembe'nin Tarihi ve Kültürel Mirası

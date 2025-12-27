@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.489521,38.7182999"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Tennuri Camii Çeşmesi

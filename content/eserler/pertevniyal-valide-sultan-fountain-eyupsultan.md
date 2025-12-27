@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.939499148,41.041211026"
 draft: false
+
+weight: 10
 ---
 
 ### Pertevniyal Valide Sultan Çeşmesi

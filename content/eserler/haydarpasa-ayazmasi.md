@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.022979554,40.999201815"
 draft: false
+
+weight: 100
 ---
 
 ## Haydarpaşa Ayazması: Kadıköy'de Bir Geçmişin İzleri

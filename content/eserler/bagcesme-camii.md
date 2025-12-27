@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9191448,40.769439"
 draft: false
+
+weight: 10
 ---
 
 ### Bağçeşme Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.255833333,37.386111111"
 draft: false
+
+weight: 100
 ---
 
 ### Didyma Artemis Tapınağı: İyonya'nın Gizemi

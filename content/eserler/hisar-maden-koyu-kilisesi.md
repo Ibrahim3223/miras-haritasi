@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.405979,40.746604"
 draft: false
+
+weight: 100
 ---
 
 ## Hisar (Maden) Köyü Kilisesi

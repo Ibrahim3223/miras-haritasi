@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.6215096,36.8267784"
 draft: false
+
+weight: 10
 ---
 
 ### Kaunos Roma Hamamı: Köyceğiz'in Gizli Harikası

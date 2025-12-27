@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.783691,37.148487"
 draft: false
+
+weight: 10
 ---
 
 ## Şanlıurfa Geleneksel El Sanatları Müzesi

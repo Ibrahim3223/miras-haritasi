@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "http://www.wikidata.org/.well-known/genid/4771f35169818d7fc104a8a708cbb320"
 draft: false
+
+weight: 100
 ---
 
 ## Prinassos: Geçmişin İzlerini Bulmak

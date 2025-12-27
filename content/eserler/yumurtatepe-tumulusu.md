@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.789444,39.953056"
 draft: false
+
+weight: 10
 ---
 
 # Yumurtatepe Tümülüsü

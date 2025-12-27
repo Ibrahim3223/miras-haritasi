@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.19982,40.05973"
 draft: false
+
+weight: 10
 ---
 
 ## Skew Bridge Mezarlığı: Bir Savaşın Eşiğinde Kaderin Düzenleneni

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.860555555,39.916666666"
 draft: false
+
+weight: 10
 ---
 
 **Kocatepe Camii: Ankara'nın Sembolü**

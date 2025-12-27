@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8137979,40.654186"
 draft: false
+
+weight: 100
 ---
 
 **Gazi Atik Ali Paşa Türbesi**

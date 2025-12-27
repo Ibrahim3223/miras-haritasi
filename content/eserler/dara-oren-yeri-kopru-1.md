@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.954063,37.176334"
 draft: false
+
+weight: 100
 ---
 
 ### Dara Ören Yeri – Köprü 1: Tarihî Bir Mimarî İtki

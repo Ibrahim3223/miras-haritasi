@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9755363,41.0023727"
 draft: false
+
+weight: 100
 ---
 
 ### Marmara Surları: Boukoleon Sarayı Batı Birimi Kapısı

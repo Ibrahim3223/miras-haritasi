@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.838768,39.928318"
 draft: false
+
+weight: 100
 ---
 
 ### Ankara Frig Tümülüsü 2, Yücetepe

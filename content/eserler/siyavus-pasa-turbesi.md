@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934361,41.047505"
 draft: false
+
+weight: 100
 ---
 
 ### Siyavuş Paşa Türbesi: Eyüpsultan'da Bir Anıtın Öyküsü

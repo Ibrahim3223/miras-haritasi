@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3469028,39.0875359"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Cami – Poyracık, Kınık: İzmir'in Tarihçesi ve Kültürel Mirası

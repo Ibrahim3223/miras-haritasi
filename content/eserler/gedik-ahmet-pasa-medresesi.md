@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.5405598,38.7528954"
 draft: false
+
+weight: 100
 ---
 
 ### Gedik Ahmet Paşa Medresesi

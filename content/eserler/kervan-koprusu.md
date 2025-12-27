@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.152058333,38.422058333"
 draft: false
+
+weight: 10
 ---
 
 ## Kervan Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

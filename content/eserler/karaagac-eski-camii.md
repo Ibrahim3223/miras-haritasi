@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5212479,41.6581421"
 draft: false
+
+weight: 10
 ---
 
 ## Karaağaç Eski Camii: Edirne'nin Gizli Cenneti

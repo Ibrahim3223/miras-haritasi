@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9279175,41.0187187"
 draft: false
+
+weight: 100
 ---
 
 ## Kürkçü Çeşmesi: Fatih'te Bir Örnek Osmanlı Çeşmesi

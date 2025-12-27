@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7056713,38.5410385"
 draft: false
+
+weight: 100
 ---
 
 ### Kısmalı Köprüsü

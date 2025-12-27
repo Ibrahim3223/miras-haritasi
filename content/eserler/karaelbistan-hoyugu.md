@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1464237,38.2130739"
 draft: false
+
+weight: 100
 ---
 
 ### Karaelbistan Höyüğü: Tarihi ve Kültürel Mirasın Gizemi

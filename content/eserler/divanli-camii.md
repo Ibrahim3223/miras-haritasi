@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9326439,37.5854225"
 draft: false
+
+weight: 100
 ---
 
 ## Divanlı Camii

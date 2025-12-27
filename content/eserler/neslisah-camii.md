@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.933154,41.026539"
 draft: false
+
+weight: 10
 ---
 
 ### Neslişah Camii

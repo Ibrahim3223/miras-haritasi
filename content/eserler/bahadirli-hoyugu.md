@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.1278589,39.0405009"
 draft: false
+
+weight: 100
 ---
 
 ## Bahadırlı Höyüğü: Konya'nın Gizli Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1716219,36.9419069"
 draft: false
+
+weight: 1
 ---
 
 ## Aspendos Stadyumu: Antikçağın En Büyüleyici Spor Tesisi

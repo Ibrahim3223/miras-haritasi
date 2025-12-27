@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.9892,40.870597222"
 draft: false
+
+weight: 10
 ---
 
 ## Vaçedzori Manastırı

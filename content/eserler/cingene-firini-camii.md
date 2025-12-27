@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.018305555,41.024055555"
 draft: false
+
+weight: 10
 ---
 
 ## Çingene Fırını Camii

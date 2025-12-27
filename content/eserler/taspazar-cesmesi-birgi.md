@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0693703,38.2539635"
 draft: false
+
+weight: 100
 ---
 
 ### Taşpazar Çeşmesi, Birgi

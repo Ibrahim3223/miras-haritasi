@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.537455,39.451151"
 draft: false
+
+weight: 100
 ---
 
 ### Alemşah Türbesi, Sivrihisar

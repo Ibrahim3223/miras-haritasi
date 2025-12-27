@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "25.900805555,40.233305555"
 draft: false
+
+weight: 100
 ---
 
 # İmbros: Gökçeada'nın Tarihi ve Kültürel Mirası

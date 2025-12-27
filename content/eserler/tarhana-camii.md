@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.0206985,39.7449722"
 draft: false
+
+weight: 100
 ---
 
 ## Tarhana Camii

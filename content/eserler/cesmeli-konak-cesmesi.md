@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7373009,39.5808258"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşmeli Konak Çeşmesi

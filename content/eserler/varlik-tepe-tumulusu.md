@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7646961,41.5530167"
 draft: false
+
+weight: 100
 ---
 
 # Varlık Tepe Tümülüsü

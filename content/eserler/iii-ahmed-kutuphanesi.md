@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9845,41.013138888"
 draft: false
+
+weight: 10
 ---
 
 ## III. Ahmed Kütüphanesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.281175,40.26155"
 draft: false
+
+weight: 10
 ---
 
 ### 7. Sahra Hastanesi Mezarlığı

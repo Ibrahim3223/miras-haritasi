@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.109138888,38.400861111"
 draft: false
+
+weight: 100
 ---
 
 ## Bitlis Ulu Camii

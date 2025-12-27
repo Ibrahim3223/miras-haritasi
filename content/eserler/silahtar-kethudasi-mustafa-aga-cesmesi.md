@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.927401,41.011139"
 draft: false
+
+weight: 100
 ---
 
 ## Silahtar Kethüdası Mustafa Ağa Çeşmesi

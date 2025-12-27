@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.736958,38.084895"
 draft: false
+
+weight: 10
 ---
 
 ## Alihan Dede Türbesi

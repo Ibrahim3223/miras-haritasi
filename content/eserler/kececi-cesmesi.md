@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8818855,39.644455"
 draft: false
+
+weight: 100
 ---
 
 ### Keçeci Çeşmesi: Karesi'nin Tarihi ve Kültürel Mirası

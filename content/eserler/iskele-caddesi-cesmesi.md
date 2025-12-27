@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.073643,41.182315"
 draft: false
+
+weight: 100
 ---
 
 ### İskele Caddesi Çeşmesi: Rumelikavağı'ndaki Bir Kültür Mirası

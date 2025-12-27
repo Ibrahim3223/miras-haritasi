@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.028527777,40.987416666"
 draft: false
+
+weight: 10
 ---
 
 **Köçeoğlu Hamamı: Kadıköy'ün Tarihi Bir Mirası**

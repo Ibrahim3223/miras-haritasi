@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.277388888,37.7595"
 draft: false
+
+weight: 100
 ---
 
 ## Adıyaman Ulu Camii: Tarihi ve Kültürel Mirasın Bir Parçası

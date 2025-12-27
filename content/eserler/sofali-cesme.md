@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.936,41.026527777"
 draft: false
+
+weight: 10
 ---
 
 ## Sofalı Çeşme: Fatih'teki bir İznik Çini Çeşme

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.293067,39.908533"
 draft: false
+
+weight: 100
 ---
 
 ## Hanay Tepe Arkeolojik Sit

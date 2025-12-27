@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "38.782711,37.1498566"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Hamamı: Şanlıurfa'da Bir Antik Miras

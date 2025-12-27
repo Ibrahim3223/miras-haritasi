@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8708382,39.9400215"
 draft: false
+
+weight: 100
 ---
 
 ## Kayabaşı Camii

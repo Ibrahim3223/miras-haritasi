@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.059723,41.12194"
 draft: false
+
+weight: 100
 ---
 
 ### Neapolis: İstanbul'un Gizli Tarihi

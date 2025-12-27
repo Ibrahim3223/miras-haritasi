@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8580589,39.9404869"
 draft: false
+
+weight: 100
 ---
 
 # Tiflis Camii Çeşmesi

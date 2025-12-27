@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.999821,38.577911"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 29: Salihli'nin Gizli Güzelliği

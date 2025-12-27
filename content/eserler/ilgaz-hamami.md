@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.6237335,40.9252472"
 draft: false
+
+weight: 100
 ---
 
 ### Ilgaz Hamamı

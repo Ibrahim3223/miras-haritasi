@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.587626,39.37063"
 draft: false
+
+weight: 100
 ---
 
 ## Aydul Baba Türbesi

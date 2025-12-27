@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8148518,41.8204002"
 draft: false
+
+weight: 100
 ---
 
 ## Domurcalı Ömerhöyük Tümülüsü

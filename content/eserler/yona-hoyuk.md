@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.587997,36.7919429"
 draft: false
+
+weight: 100
 ---
 
 ## Yona Höyük: Anadolu'nun Gizli Mirası

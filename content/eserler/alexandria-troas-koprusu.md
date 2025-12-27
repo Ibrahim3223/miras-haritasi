@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.1297248,39.5775027"
 draft: false
+
+weight: 100
 ---
 
 ## Alexandria Troas Köprüsü

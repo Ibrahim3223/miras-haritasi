@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.453765,40.449217"
 draft: false
+
+weight: 100
 ---
 
 ## Komiserin Çeşmesi

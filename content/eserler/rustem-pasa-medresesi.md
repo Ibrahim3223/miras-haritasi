@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.980194444,39.41925"
 draft: false
+
+weight: 10
 ---
 
 # Rüstem Paşa Medresesi: Kütahya'nın Tarihi Bir Mirası

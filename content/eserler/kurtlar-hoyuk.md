@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.124291,39.589559"
 draft: false
+
+weight: 100
 ---
 
 ## Kurtlar Höyük: Eskişehir'in Gizli Anıtı

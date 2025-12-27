@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.8395767,40.7849388"
 draft: false
+
+weight: 100
 ---
 
 ### Pamukçular Kalesi

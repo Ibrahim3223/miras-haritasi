@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.9428054,37.0032918"
 draft: false
+
+weight: 100
 ---
 
 ## Turluk Höyük: Şanlıurfa'nın Gizli Cenneti

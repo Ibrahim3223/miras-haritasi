@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.65848611,38.92496111"
 draft: false
+
+weight: 100
 ---
 
 **Karamağara Köprüsü: Ağın'ın Gizli Çehresini Açan Tarihi Bir Harikadır**

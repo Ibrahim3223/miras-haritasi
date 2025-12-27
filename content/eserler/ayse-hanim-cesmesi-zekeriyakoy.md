@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0286369,41.1949043"
 draft: false
+
+weight: 10
 ---
 
 ## Ayşe Hanım Çeşmesi, Zekeriyaköy

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.616662,40.600208"
 draft: false
+
+weight: 10
 ---
 
 ## Çankırı Müzesi: Kültür Mirası ve Tarih Öncesi

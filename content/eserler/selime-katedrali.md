@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.259433,38.301198"
 draft: false
+
+weight: 10
 ---
 
 ### Selime Katedrali: Aksaray'ın Gizli Çehresi

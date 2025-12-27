@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.8463669,37.4312668"
 draft: false
+
+weight: 100
 ---
 
 ## Tabae Roma Hamamı: Denizli'nin Gizli Cenneti

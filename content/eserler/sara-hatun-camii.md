@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.2530823,38.7046585"
 draft: false
+
+weight: 100
 ---
 
 ## Sara Hatun Camii

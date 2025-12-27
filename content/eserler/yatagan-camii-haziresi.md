@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.94207,41.0355301"
 draft: false
+
+weight: 100
 ---
 
 ### Yatağan Camii Haziresi

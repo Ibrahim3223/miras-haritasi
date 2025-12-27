@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3070984,38.3202248"
 draft: false
+
+weight: 100
 ---
 
 ## Kabadayı Çeşmesi: Çeşme'nin Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9720631,41.0111313"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmut Paşa Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

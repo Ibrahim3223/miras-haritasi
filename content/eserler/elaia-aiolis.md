@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.04416667,38.9425"
 draft: false
+
+weight: 100
 ---
 
 ### Elaia (Aiolis): Tarih ve Mitin Birleştiği Yer

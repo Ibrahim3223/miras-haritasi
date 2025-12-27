@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.116611111,38.407388888"
 draft: false
+
+weight: 100
 ---
 
 ## Roş Haar Sinagogu

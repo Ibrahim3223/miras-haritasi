@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2752647,39.9124222"
 draft: false
+
+weight: 100
 ---
 
 ## Dabakhane Ayağı Çeşmesi

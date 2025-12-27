@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.602326,40.26746"
 draft: false
+
+weight: 10
 ---
 
 ### Güvercin Köprüsü: Gönen'in Tarihi Bir Şehri Arayanların Adeta Kaderi

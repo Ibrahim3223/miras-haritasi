@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.972032,41.015651"
 draft: false
+
+weight: 100
 ---
 
 ### Haseki Hürrem Sultan Hamamı: İstanbul'un Gizli Çeşmesi

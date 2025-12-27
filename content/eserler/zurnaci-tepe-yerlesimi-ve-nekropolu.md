@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4335003,37.6310997"
 draft: false
+
+weight: 100
 ---
 
 ## Zurnacı Tepe Yerleşimi ve Nekropolü

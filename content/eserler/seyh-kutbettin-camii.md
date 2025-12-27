@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7259693,40.4299164"
 draft: false
+
+weight: 10
 ---
 
 # Şeyh Kutbettin Camii

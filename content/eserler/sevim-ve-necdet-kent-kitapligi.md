@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "26.659089,39.336158"
 draft: false
+
+weight: 10
 ---
 
 ## Sevim ve Necdet Kent Kütüphanesi

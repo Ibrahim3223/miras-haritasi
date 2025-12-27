@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9247189,38.7425445"
 draft: false
+
+weight: 100
 ---
 
 ## Göbekören Kalesi

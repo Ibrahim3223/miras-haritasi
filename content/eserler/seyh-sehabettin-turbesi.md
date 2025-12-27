@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5246944,39.762043"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Şehabettin Türbesi: Odunpazarı'nın Gizli Cenneti

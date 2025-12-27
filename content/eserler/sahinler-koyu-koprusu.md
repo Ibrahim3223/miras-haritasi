@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.95554,39.436068"
 draft: false
+
+weight: 100
 ---
 
 ## Şahinler Köyü Köprüsü

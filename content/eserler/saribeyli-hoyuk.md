@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.661083,38.178783"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıbeyli Höyük: Denizli'nin Gizli Mirası

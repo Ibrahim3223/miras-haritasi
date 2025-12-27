@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.042055555,41.1605"
 draft: false
+
+weight: 10
 ---
 
 ## Meryem Ana Doğuş Kilisesi: İstanbul'un Gizli Cenneti

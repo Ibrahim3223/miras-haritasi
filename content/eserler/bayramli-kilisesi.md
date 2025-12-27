@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.8205757,41.3078041"
 draft: false
+
+weight: 100
 ---
 
 ## Bayramlı Kilisesi: Edirne'nin Gizli Cenneti

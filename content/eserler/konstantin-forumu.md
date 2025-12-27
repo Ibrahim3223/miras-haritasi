@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.971,41.009"
 draft: false
+
+weight: 10
 ---
 
 ### Konstantin Forumu

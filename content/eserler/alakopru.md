@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.89491,36.18176"
 draft: false
+
+weight: 10
 ---
 
 # Alaköprü: Anamur'un Görsel Mirası

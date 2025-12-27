@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.547447,38.529653"
 draft: false
+
+weight: 10
 ---
 
 # Dicle Tüneli

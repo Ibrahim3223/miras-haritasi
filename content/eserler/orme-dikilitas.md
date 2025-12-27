@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9748,41.0054"
 draft: false
+
+weight: 10
 ---
 
 ## Örme Dikilitaş: İstanbul'un Gizli Anıtı

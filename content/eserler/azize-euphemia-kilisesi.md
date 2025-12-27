@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.975029,41.007335"
 draft: false
+
+weight: 100
 ---
 
 # Azize Euphemia Kilisesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4823227,38.7183571"
 draft: false
+
+weight: 100
 ---
 
 ## İsa Kümbet Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5978661,40.2043037"
 draft: false
+
+weight: 100
 ---
 
 # Sarıköy Çarşı Camii: Balıkesir'in Tarihî Bir Câmii

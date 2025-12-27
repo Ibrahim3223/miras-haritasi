@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.152426,36.441202"
 draft: false
+
+weight: 10
 ---
 
 ## Syedra: Antalya'nın Gizli Arkeolojik Sırrı

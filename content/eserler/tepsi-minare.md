@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "41.276166666,39.907527777"
 draft: false
+
+weight: 10
 ---
 
 ### Tepsi Minare: Erzurum'un Ünlü Saat Kulesi

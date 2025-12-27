@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5358562,38.7549286"
 draft: false
+
+weight: 100
 ---
 
 ## Arasta Camii: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

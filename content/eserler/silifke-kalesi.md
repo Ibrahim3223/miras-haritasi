@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.91555556,36.37666667"
 draft: false
+
+weight: 10
 ---
 
 ### Silifke Kalesi: Mersin'in Tarihî Mirası

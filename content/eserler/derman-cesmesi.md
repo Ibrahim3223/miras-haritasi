@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.733583333,39.895833333"
 draft: false
+
+weight: 10
 ---
 
 ## Derman Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası

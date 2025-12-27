@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.947959,41.016897"
 draft: false
+
+weight: 10
 ---
 
 ## Vezir Çeşmesi (Fatih) Tanıtımı

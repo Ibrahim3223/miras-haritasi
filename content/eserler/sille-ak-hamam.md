@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.4203148,37.9277153"
 draft: false
+
+weight: 10
 ---
 
 ## Sille Ak Hamam: Konya'nın Tarihi ve Kültürel Mirası

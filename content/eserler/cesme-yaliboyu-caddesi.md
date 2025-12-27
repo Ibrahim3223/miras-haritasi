@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0520744,41.04702"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Yalıboyu Caddesi: Üsküdar'ın Tarihi Bir Çeşmesi

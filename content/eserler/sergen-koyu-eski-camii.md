@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7093105,41.7062302"
 draft: false
+
+weight: 100
 ---
 
 # Sergen Köyü Eski Camii

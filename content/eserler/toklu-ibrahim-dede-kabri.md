@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.941288,41.0392494"
 draft: false
+
+weight: 100
 ---
 
 # Toklu İbrahim Dede Kabri

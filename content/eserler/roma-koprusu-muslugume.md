@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.6293716,37.458374"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Muslugüme

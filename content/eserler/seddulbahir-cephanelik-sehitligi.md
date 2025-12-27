@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1889992,40.042038"
 draft: false
+
+weight: 100
 ---
 
 ### Seddülbahir Cephanelik Şehitliği

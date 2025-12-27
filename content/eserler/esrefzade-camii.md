@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7233364,40.4299541"
 draft: false
+
+weight: 100
 ---
 
 ## Eşrefzade Camii: Bursa'nın Tarihî Mirası

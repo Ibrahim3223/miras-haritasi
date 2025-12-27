@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.483223,41.2720413"
 draft: false
+
+weight: 100
 ---
 
 ## Dağyenice Camii: Tarihi ve Kültürel Mirasın bir Parçası

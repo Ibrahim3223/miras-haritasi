@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.607336,37.7297592"
 draft: false
+
+weight: 100
 ---
 
 # Tekke Çeşmesi: Aydın'ın Tarihi Bir Mirası

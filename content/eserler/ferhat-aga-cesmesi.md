@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.871854,41.038137"
 draft: false
+
+weight: 10
 ---
 
 # Ferhat Ağa Çeşmesi

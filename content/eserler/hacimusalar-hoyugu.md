@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.83611111,36.64222222"
 draft: false
+
+weight: 100
 ---
 
 **Hacımusalar Höyüğü: Elmalı, Antalya'da Bir Arkeolojik Sit**

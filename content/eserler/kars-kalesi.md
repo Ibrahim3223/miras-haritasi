@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.089722222,40.613611111"
 draft: false
+
+weight: 10
 ---
 
 **Kars Kalesi: Tarih ve Miras**

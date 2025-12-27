@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0631695,37.3134766"
 draft: false
+
+weight: 10
 ---
 
 ## Şaban Ağa Camisi: Muğla'nın Gizli Cenneti

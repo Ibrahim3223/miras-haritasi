@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.610081,41.103458"
 draft: false
+
+weight: 100
 ---
 
 ## Kurt Köprüsü: Havza'daki Tarihi Bir Miras

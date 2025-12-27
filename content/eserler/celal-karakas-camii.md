@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.98484011,40.257206299"
 draft: false
+
+weight: 10
 ---
 
 ## Celal Karakaş Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.155677777,41.25465"
 draft: false
+
+weight: 100
 ---
 
 ## Hozabiri Kilisesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.80166667,38.31694444"
 draft: false
+
+weight: 10
 ---
 
 ## Hoşap Kalesi: Van'ın Tarihî Mirası

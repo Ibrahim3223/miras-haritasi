@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.119903,41.198455"
 draft: false
+
+weight: 100
 ---
 
 ### Mochadion: Beykoz'un Gizli Arkeolojik Mirası

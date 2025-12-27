@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.46487,38.62947"
 draft: false
+
+weight: 10
 ---
 
 ## Tatlarin Yeraltı Şehri: Nevşehir'in Gizli Mirası

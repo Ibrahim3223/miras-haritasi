@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.8974876,41.019783"
 draft: false
+
+weight: 100
 ---
 
 ## Garpu Kalesi

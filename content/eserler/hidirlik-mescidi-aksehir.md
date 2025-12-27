@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.414802,38.348798"
 draft: false
+
+weight: 10
 ---
 
 ## Hıdırlık Mescidi, Akşehir

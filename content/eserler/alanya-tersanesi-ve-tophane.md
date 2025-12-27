@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.9987582,36.5342477"
 draft: false
+
+weight: 10
 ---
 
 ## Alanya Tersanesi ve Tophane

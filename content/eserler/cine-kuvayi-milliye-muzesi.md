@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.064948,37.609392"
 draft: false
+
+weight: 100
 ---
 
 ## Çine Kuvayı Milliye Müzesi

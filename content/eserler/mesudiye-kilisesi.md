@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.771563,40.461464"
 draft: false
+
+weight: 100
 ---
 
 ### Mesudiye Kilisesi: Türkiye'nin Kültürel Mirası

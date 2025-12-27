@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.937528,41.042868"
 draft: false
+
+weight: 100
 ---
 
 ### Şehit Molla Lütfi Türbesi

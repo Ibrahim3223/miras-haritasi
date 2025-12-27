@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.053698,36.873175"
 draft: false
+
+weight: 100
 ---
 
 ## Ravanda Kalesi: Tarihî Mirasın Gizemli Adresi

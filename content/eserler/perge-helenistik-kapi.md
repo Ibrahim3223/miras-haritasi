@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.8540821,36.96138"
 draft: false
+
+weight: 10
 ---
 
 **Perge Helenistik Kapı**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.263486,40.690513"
 draft: false
+
+weight: 100
 ---
 
 ## Kassa Arkeolojik Sit

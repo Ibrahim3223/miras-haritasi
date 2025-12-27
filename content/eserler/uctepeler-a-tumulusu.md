@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7332363,41.5030136"
 draft: false
+
+weight: 100
 ---
 
 **Üçtepeler A Tümülüsü**

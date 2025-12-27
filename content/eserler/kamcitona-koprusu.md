@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.1655623,41.1313487"
 draft: false
+
+weight: 100
 ---
 
 ## Kamçitona Köprüsü: Ardeşen'in Tarihi Mirası

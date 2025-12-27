@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.286333333,37.717416666"
 draft: false
+
+weight: 10
 ---
 
 ## Burdur Ulu Camii

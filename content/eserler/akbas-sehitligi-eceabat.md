@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.4375706,40.2332687"
 draft: false
+
+weight: 100
 ---
 
 ## Akbaş Şehitliği

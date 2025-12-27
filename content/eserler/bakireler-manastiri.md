@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.5758,40.5045"
 draft: false
+
+weight: 10
 ---
 
 ### Bakireler Manastırı

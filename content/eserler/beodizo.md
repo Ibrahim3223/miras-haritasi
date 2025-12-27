@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.824805,41.087065"
 draft: false
+
+weight: 100
 ---
 
 ## Beodizo Arkeolojik Sit

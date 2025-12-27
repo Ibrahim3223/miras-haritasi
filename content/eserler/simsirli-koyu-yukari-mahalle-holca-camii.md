@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.483912,40.801872"
 draft: false
+
+weight: 100
 ---
 
 ## Şimşirli Köyü Yukarı Mahalle Holca Camii

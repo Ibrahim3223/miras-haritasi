@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.3719855,38.2748532"
 draft: false
+
+weight: 100
 ---
 
 ## Sivişli Kilisesi: Güzelyurt'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2977521,37.6586316"
 draft: false
+
+weight: 10
 ---
 
 ## Agora of Priene: Bir Antik Kentin Kalıntıları

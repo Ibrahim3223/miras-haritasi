@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.915833333,40.7625"
 draft: false
+
+weight: 10
 ---
 
 # Kocaeli Arkeoloji ve Etnografya Müzesi

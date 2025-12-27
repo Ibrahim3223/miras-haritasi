@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.014271,36.897316"
 draft: false
+
+weight: 100
 ---
 
 ## Şadi Tepe Höyüğü

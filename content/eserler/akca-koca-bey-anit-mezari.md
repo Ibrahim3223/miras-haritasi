@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1913112,41.114148162"
 draft: false
+
+weight: 10
 ---
 
 ## Akça Koca Bey Anıt Mezarı

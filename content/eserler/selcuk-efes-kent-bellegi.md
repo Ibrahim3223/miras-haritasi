@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.3686418,37.9508739"
 draft: false
+
+weight: 10
 ---
 
 ## Selçuk Efes Kent Belleği: İzmir'in Tarihî Mirası

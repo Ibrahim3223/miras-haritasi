@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.287227,37.18655"
 draft: false
+
+weight: 100
 ---
 
 ## Pisye: Muğla'nın Gizli Cenneti

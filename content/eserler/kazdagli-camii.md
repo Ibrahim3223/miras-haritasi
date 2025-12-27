@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.692773,41.245536"
 draft: false
+
+weight: 10
 ---
 
 ## Kazdağlı Camii: Safranbolu'nun Değerli Kültürel Mirası

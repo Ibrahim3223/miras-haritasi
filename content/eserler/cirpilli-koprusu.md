@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2734356,38.8170128"
 draft: false
+
+weight: 100
 ---
 
 ### Çirpilli Köprüsü

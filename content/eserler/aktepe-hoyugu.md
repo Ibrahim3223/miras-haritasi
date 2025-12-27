@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.5698934,37.7246337"
 draft: false
+
+weight: 100
 ---
 
 ## Aktepe Höyüğü: Diyarbakır'ın Gizli Mirası

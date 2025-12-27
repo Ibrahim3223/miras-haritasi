@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.980928,41.026373"
 draft: false
+
+weight: 10
 ---
 
 ## Kılıç Ali Paşa Camii: Beyoğlu'ndaki Bir Ölümsüz

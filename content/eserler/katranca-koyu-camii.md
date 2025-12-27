@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0528259,41.3515244"
 draft: false
+
+weight: 100
 ---
 
 ## Katranca Köyü Camii: Kırklareli'nin Gizli Çeşmesi

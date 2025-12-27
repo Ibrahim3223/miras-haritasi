@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.8472486,36.82114"
 draft: false
+
+weight: 100
 ---
 
 ## Arıkdere Höyüğü: Tarih ve Kültürel Mirasın Eseri

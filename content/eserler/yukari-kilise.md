@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.120378,39.3752149"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Kilisesi: Divriği'nin Tarihi ve Kültürel Mirası

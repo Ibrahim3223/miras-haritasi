@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.6107025,37.9793777"
 draft: false
+
+weight: 100
 ---
 
 ### Tekke Camii (Baklan)

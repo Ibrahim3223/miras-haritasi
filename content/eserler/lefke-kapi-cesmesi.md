@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.7289925,40.428875"
 draft: false
+
+weight: 100
 ---
 
 ### Lefke Kapı Çeşmesi: İznik'in Gizli Cenneti

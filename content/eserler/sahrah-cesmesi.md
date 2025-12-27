@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.955187,41.023979"
 draft: false
+
+weight: 100
 ---
 
 ## Şahrah Çeşmesi

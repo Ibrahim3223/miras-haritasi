@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9718761,41.0223274"
 draft: false
+
+weight: 100
 ---
 
 ### Koyun Dede Sultan Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6616001,38.0749016"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuş Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası

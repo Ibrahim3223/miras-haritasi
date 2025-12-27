@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.97376,41.023205"
 draft: false
+
+weight: 100
 ---
 
 ## Valide Kethüdası Mehmet Efendi Darülhadisi

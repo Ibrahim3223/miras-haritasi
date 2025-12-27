@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.8432121,37.8466339"
 draft: false
+
+weight: 100
 ---
 
 ## Aydın İl Halk Kütüphanesi

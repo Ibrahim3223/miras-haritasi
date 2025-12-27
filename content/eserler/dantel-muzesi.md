@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7645111,41.3662758"
 draft: false
+
+weight: 100
 ---
 
 ## Dantel Müzesi: Kastamonu'nun Gizli Özerklik Mirası

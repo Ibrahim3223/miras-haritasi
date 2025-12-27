@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1811543,40.0256538"
 draft: false
+
+weight: 100
 ---
 
 # Türk Büyükleri Abidesi

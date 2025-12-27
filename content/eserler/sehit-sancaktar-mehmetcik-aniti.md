@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.048777777,38.915472222"
 draft: false
+
+weight: 10
 ---
 
 ## Şehit Sancaktar Mehmetçik Anıtı

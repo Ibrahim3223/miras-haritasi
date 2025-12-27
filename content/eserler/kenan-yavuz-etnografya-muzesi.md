@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.855437,40.030804"
 draft: false
+
+weight: 10
 ---
 
 ## Kenan Yavuz Etnografya Müzesi

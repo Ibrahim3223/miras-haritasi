@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.047777777,40.984583333"
 draft: false
+
+weight: 10
 ---
 
 # Tuğlacı Camii: İstanbul'un Gizli Çehresinde Bir Öteki Cami

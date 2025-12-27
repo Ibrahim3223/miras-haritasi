@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.2558479,39.4798927"
 draft: false
+
+weight: 100
 ---
 
 ## Hardal Köyü Camii, Şarkışla

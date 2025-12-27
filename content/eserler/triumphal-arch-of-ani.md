@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 # Triumphal Arch of Ani: Erzurum'a Kadar Uzanan Tarih

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9265423,41.0170708"
 draft: false
+
+weight: 100
 ---
 
 ## Emine Sultan Çeşmesi: Fatih'teki Bir Klasik Osmanlı Çeşmesi

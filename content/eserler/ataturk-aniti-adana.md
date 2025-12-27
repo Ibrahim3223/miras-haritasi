@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.3239365,36.9974556"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Anıtı, Adana

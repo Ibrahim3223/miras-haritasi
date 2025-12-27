@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.27837,40.23394"
 draft: false
+
+weight: 10
 ---
 
 # Şarapnel Vadisi Mezarlığı: Eceabat'ta Bir Savaş Anıtı

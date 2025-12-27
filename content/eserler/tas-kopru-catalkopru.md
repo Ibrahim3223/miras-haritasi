@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7335396,38.4313278"
 draft: false
+
+weight: 100
 ---
 
 ## Taş Köprü, Çatalköprü: Turgutlu'nun Tarihî Mirası

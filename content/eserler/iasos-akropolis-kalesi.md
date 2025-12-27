@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.585125,37.2772713"
 draft: false
+
+weight: 100
 ---
 
 **Iasos Akropolüsü Kalesi**

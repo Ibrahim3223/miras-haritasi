@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28032,40.2375"
 draft: false
+
+weight: 10
 ---
 
 ## Plugge's Plateau Mezarlığı

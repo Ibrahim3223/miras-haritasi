@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.480277777,38.493083333"
 draft: false
+
+weight: 100
 ---
 
 ## Topada Yazıtı: Acıgöl'ün Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0405197,41.0631905"
 draft: false
+
+weight: 10
 ---
 
 ## Makbule Atadan Yalısı Çeşmesi

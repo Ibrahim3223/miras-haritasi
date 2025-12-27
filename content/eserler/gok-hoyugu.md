@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.2375344,39.4804502"
 draft: false
+
+weight: 100
 ---
 
 ### Gök Höyüğü: Ankara'nın Eski Medeniyetin Kalıntıları

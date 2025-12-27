@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.8353424,40.6578865"
 draft: false
+
+weight: 100
 ---
 
 ### Amasya'nın Gizli Çehresinin Kuytu Noktası: Kunç Köprüsü

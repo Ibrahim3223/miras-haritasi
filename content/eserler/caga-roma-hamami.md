@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.2018929,40.1278419"
 draft: false
+
+weight: 100
 ---
 
 ## Çağa Roma Hamamı: Ankara'nın Gizli Cenneti

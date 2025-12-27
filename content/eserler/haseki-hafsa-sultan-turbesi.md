@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9518151,41.0263101"
 draft: false
+
+weight: 10
 ---
 
 ### Haseki Hafsa Sultan Türbesi

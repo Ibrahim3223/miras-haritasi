@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4288177,37.0314026"
 draft: false
+
+weight: 100
 ---
 
 ### Kale Camii, Bodrum

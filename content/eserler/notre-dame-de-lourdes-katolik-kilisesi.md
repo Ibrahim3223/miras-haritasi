@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.091027777,38.397972222"
 draft: false
+
+weight: 10
 ---
 
 ## Notre Dame de Lourdes Katolik Kilisesi

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "31.9069653,38.2777023"
 draft: false
+
+weight: 100
 ---
 
 # Redif Taburu Merkez Konağı: İlginin Tarihî Mirası

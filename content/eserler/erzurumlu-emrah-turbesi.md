@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9556122,40.5885468"
 draft: false
+
+weight: 100
 ---
 
 ### Erzurumlu Emrah Türbesi

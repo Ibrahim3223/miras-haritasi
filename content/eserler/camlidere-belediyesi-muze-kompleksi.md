@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.475810911,40.490349378"
 draft: false
+
+weight: 100
 ---
 
 ### Çamlıdere Belediyesi Müze Kompleksi

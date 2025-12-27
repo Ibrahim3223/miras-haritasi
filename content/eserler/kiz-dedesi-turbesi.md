@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8853283,39.6538849"
 draft: false
+
+weight: 100
 ---
 
 ## Kız Dedesi Türbesi

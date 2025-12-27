@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.2808628,37.5313911"
 draft: false
+
+weight: 100
 ---
 
 ## Milet Humaytepe Roma Hamamı: Aydın'ın Tarihi Bir Çanak Su

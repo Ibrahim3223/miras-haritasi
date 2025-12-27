@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.4104004,38.3528137"
 draft: false
+
+weight: 10
 ---
 
 ## Seyyid Taceddin Ahmet Türbesi

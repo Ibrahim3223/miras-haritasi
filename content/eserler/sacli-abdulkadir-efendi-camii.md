@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.933555555,41.047027777"
 draft: false
+
+weight: 10
 ---
 
 ### Saçlı Abdülkadir Efendi Camii

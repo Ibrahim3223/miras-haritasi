@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9745617,41.0063354"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmudiye Çeşmesi, Türk İslam Eserleri Müzesi

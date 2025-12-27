@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.4953003,38.6431999"
 draft: false
+
+weight: 100
 ---
 
 ## Çullu Camii: İzmir'in Tarihi Bir Mirası

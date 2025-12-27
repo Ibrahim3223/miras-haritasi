@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.978638888,41.007916666"
 draft: false
+
+weight: 10
 ---
 
 ## Jüstinyen Sütunu

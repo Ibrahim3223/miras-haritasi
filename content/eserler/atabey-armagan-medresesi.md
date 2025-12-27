@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.7047806,36.886425"
 draft: false
+
+weight: 100
 ---
 
 ### Atabey Armağan Medresesi

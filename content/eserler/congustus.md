@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8686111,38.3077778"
 draft: false
+
+weight: 100
 ---
 
 # Congustus Arkeolojik Sit

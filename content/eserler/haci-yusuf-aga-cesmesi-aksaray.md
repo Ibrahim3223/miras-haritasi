@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9523125,41.0104752"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Yusuf Ağa Çeşmesi

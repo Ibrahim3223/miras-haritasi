@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.665526,38.535371"
 draft: false
+
+weight: 100
 ---
 
 ## Pegella Arkeolojik Sit

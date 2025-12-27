@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.0776901,38.1468544"
 draft: false
+
+weight: 100
 ---
 
 # Murat Bey Kümbeti, Eğil

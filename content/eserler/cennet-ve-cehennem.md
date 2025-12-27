@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.105555555,36.4525"
 draft: false
+
+weight: 10
 ---
 
 ### Cennet ve Cehennem: Silifke'nin Gizemi

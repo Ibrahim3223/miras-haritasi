@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.766888,41.575207"
 draft: false
+
+weight: 10
 ---
 
 ## Şerbetdar Hasan Bey Camii

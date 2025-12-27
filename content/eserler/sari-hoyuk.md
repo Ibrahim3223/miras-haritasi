@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.2902336,39.3102226"
 draft: false
+
+weight: 100
 ---
 
 ## Sarı Höyük: Ankara'nın Gizli Zenginliği

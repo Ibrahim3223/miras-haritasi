@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5572205,41.6905861"
 draft: false
+
+weight: 100
 ---
 
 ## Balkan Şehitliği Mezarlığı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9682522,41.0188332"
 draft: false
+
+weight: 100
 ---
 
 ### Ahi Çelebi Camii Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

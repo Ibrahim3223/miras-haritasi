@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9286919,41.0203705"
 draft: false
+
+weight: 100
 ---
 
 ## Emete Hatun Kabri: İstanbul'un Tarihi ve Kültürel Mirası

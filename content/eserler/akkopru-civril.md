@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.730408,38.179974"
 draft: false
+
+weight: 100
 ---
 
 ### Akköprü, Çivril

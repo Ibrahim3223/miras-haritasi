@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.933388888,41.001916666"
 draft: false
+
+weight: 10
 ---
 
 ## Peribleptos Manastırı

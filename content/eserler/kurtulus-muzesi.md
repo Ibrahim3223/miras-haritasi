@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.52361111,39.76444444"
 draft: false
+
+weight: 10
 ---
 
 ## Kurtuluş Müzesi: Eskişehir'in Tarihî Mirası

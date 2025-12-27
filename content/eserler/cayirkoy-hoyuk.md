@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.91225,40.210483"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırköy Höyük: Bursa'nın Gizli Hazinesi

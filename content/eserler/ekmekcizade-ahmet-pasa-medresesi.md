@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.95901,41.014976"
 draft: false
+
+weight: 10
 ---
 
 ### Ekmekçizade Ahmet Paşa Medresesi: Fatih'te Bir Kültürel Miras

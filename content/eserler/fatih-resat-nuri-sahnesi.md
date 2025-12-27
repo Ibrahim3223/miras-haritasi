@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.95619858,41.0159179"
 draft: false
+
+weight: 100
 ---
 
 ## Fatih Reşat Nuri Sahnesi

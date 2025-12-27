@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.919861111,41.095027777"
 draft: false
+
+weight: 100
 ---
 
 # Şatberdi Manastırı: Artvin'in Gizli Cenneti

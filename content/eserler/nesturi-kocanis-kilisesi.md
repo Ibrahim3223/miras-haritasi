@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.8017464,37.6525002"
 draft: false
+
+weight: 100
 ---
 
 ## Nesturi Koçanis Kilisesi

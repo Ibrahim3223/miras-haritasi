@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4659157,37.872036"
 draft: false
+
+weight: 100
 ---
 
 ## Karatay Mescidi

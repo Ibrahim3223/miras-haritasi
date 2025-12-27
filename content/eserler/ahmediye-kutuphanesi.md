@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.0162888,41.0204391"
 draft: false
+
+weight: 10
 ---
 
 **Ahmediye Kütüphanesi**

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "38.4739761,39.0597038"
 draft: false
+
+weight: 100
 ---
 
 ### Molla Eyüp Mescidi: Arapgir'in Tarihi ve Kültürel Mirası Kütüphanesi

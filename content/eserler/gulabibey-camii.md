@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.03619,39.60224"
 draft: false
+
+weight: 100
 ---
 
 ### Gülabibey Camii: Erzincan'ın Tarihi ve Kültürel Mirası

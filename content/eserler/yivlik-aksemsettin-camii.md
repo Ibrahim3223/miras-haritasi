@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.4179192,40.9408875"
 draft: false
+
+weight: 100
 ---
 
 ### Yivlik Akşemsettin Camii

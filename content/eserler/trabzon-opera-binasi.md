@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "39.731138888,41.005333333"
 draft: false
+
+weight: 10
 ---
 
 ## Trabzon Opera Binası: Tarihi ve Kültürel Miras

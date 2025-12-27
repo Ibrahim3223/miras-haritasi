@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.72361111,36.69222222"
 draft: false
+
+weight: 10
 ---
 
 ### Alarahan Anıtı

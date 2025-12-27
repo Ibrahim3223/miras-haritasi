@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4725,37.181111111"
 draft: false
+
+weight: 10
 ---
 
 ## Ariassos: Antalya'nın Gizli Tarihî Mirası

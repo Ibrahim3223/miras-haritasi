@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.344436714,37.936959116"
 draft: false
+
+weight: 10
 ---
 
 ## Çift Anıtlı Kutsal Alan: İzmir'in Gizli Gölleri

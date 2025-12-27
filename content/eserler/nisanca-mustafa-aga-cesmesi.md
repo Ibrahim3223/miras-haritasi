@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.94278,41.024864"
 draft: false
+
+weight: 10
 ---
 
 ## Nişanca Mustafa Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.976713,41.004209"
 draft: false
+
+weight: 100
 ---
 
 ## İskender Paşa Türbesi

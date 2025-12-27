@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0087166,39.5840569"
 draft: false
+
+weight: 100
 ---
 
 ### Değirmentepe Höyüğü

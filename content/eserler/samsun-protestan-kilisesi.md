@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Samsun Protestan Kilisesi: Tarihi ve Kültürel Mirasın Parıldayışı

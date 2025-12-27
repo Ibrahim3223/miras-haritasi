@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.2101352,40.5114349"
 draft: false
+
+weight: 100
 ---
 
 ## Çit Deresi Köprüsü (Büyük)

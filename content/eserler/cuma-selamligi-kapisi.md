@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9811974,41.0088234"
 draft: false
+
+weight: 100
 ---
 
 ## Cuma Selamlığı Kapısı: İstanbul'un Tarihi Mirası

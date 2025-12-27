@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.535833333,40.960833333"
 draft: false
+
+weight: 100
 ---
 
 # Cicori Kilisesi

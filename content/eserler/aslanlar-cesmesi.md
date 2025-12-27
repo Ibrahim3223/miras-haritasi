@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6722221,41.2589684"
 draft: false
+
+weight: 10
 ---
 
 ## Aslanlar Çeşmesi: Safranbolu'nun Gizli Çeşmesi

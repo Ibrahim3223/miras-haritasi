@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.70275,40.071067"
 draft: false
+
+weight: 100
 ---
 
 ## Tütüncüyolu Üyücek: Tarihi ve Kültürel Miras

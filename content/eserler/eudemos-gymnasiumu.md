@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.280277777,37.528888888"
 draft: false
+
+weight: 100
 ---
 
 ### Aydın'ın Tarihi Mirası: Eudemos Gymnasiumu

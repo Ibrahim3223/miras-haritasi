@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2416763,37.9143257"
 draft: false
+
+weight: 100
 ---
 
 ## Halvet Baba Türbesi: Diyarbakır'ın Tarihi Bir Anıtı

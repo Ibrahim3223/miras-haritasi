@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.5164185,39.24403"
 draft: false
+
+weight: 100
 ---
 
 ## Şahruh Bey Mescidi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9680514,41.1869102"
 draft: false
+
+weight: 100
 ---
 
 ## Müderris Neşet Bey Çeşmesi

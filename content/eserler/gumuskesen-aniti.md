@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7720356,37.3178101"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşkesen Anıtı

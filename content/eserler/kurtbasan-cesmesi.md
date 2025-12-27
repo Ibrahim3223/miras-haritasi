@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0806065,40.1811104"
 draft: false
+
+weight: 10
 ---
 
 ## Kurtbasan Çeşmesi: Bursa'nın tarihi ve kültürel mirası

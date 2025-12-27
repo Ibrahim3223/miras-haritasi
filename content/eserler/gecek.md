@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.067317,39.083833"
 draft: false
+
+weight: 100
 ---
 
 ## Gecek Arkeolojik Sit

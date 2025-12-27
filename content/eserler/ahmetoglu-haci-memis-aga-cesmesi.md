@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.30513,38.3213921"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmetoğlu Hacı Memiş Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "26.5539227,41.6784554"
 draft: false
+
+weight: 10
 ---
 
 ## Edirne'nin Gizli Çehresinde: Saatli Medrese

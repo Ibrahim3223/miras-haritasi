@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.0386982,36.6738319"
 draft: false
+
+weight: 100
 ---
 
 ## Ada Boğazı Kilisesi: Marmaris'in Gizli Şansı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.870839,39.02792"
 draft: false
+
+weight: 100
 ---
 
 ## Eulepa Arkeolojik Sit: Ege Bölgesi'nin Gizli Cenneti

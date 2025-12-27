@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.65694444,37.94277778"
 draft: false
+
+weight: 10
 ---
 
 ## Arsameia: Tarihî Bir Kale

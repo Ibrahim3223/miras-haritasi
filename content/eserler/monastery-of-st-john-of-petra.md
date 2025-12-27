@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Monastery of St. John of Petra: İstanbul'un Gizli Tarihi Birlikte

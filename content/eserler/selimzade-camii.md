@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0777473,40.1854439"
 draft: false
+
+weight: 10
 ---
 
 ## Selimzade Camii

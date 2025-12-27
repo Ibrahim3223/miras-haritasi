@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0819473,40.1834145"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Seyfettin Camii: Bursa'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7325172,38.0833206"
 draft: false
+
+weight: 10
 ---
 
 ## Yayla Fakih Mescidi: Tire'nin Tarihi Bir Mirası

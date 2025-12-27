@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6185951,38.3850555"
 draft: false
+
+weight: 100
 ---
 
 ## Biretepe Höyüğü: Malatya'nın Gizli Zirvesi

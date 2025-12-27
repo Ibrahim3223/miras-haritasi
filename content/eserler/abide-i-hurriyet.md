@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.982083333,41.068138888"
 draft: false
+
+weight: 10
 ---
 
 ### Abide-i Hürriyet

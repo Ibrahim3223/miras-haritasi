@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.463888888,40.872694444"
 draft: false
+
+weight: 10
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Camii

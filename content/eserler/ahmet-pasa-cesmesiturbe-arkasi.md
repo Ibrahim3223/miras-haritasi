@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9499332,41.0190634"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Paşa Çeşmesi, Türbe Arkası

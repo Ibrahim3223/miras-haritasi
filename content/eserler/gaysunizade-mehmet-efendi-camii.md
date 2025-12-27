@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.942522,41.048589"
 draft: false
+
+weight: 10
 ---
 
 ## Gaysunizade Mehmet Efendi Camii: Beyoğlu'nun Gizli Cenneti

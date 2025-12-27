@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.509159,39.07119"
 draft: false
+
+weight: 100
 ---
 
 ### Menekşekaya Arkeolojik Sit

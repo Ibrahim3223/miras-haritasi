@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0566769,41.0871315"
 draft: false
+
+weight: 10
 ---
 
 ## Benlizade Ahmet Raşit Efendi Çeşmesi (Sarıyer)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.572777777,40.5075"
 draft: false
+
+weight: 10
 ---
 
 ## Ani: Türkiye'nin Tarihi ve Kültürel Mirası

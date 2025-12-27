@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.284713888,40.965586111"
 draft: false
+
+weight: 100
 ---
 
 ### Lelusi Manastırı

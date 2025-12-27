@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.053972,41.170627"
 draft: false
+
+weight: 10
 ---
 
 ### Ayazma Çeşmesi, Sarıyer

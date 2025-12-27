@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.1,36.6833"
 draft: false
+
+weight: 10
 ---
 
 ## Üçayaklı Villa Rustika: Erdemli'nin Gizli Çehresini Açığa Çıkaran Bir Arkeolojik Harikalar Evi

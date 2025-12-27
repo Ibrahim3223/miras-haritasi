@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.986462,41.008575"
 draft: false
+
+weight: 100
 ---
 
 ## Hodegeria Kapısı: İstanbul'un Gerçek Bir Anıt

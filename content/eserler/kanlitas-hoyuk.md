@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0829945,39.6973839"
 draft: false
+
+weight: 100
 ---
 
 ### Kanlıtaş Höyük: Eskişehir'in Gizli Tarih Öreni

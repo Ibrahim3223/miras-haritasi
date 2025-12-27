@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.94047736,41.033792676"
 draft: false
+
+weight: 100
 ---
 
 ## Tekfur Sarayı Çini Müzesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.147666666,38.421472222"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Vukolos Kilisesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.2198181,38.4658432"
 draft: false
+
+weight: 10
 ---
 
 ## Santa Maria Kilisesi

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.970942,41.009708"
 draft: false
+
+weight: 100
 ---
 
 ## Nuruosmaniye Medresesi: İstanbul'un Gizemli Tarihi

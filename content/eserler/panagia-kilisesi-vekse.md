@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.672444,38.804334"
 draft: false
+
+weight: 100
 ---
 
 ### Panagia Kilisesi (Vekse): Kayseri'nin Hristiyan Mirası

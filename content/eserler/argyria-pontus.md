@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.869903,41.005623"
 draft: false
+
+weight: 100
 ---
 
 ### Argyria (Pontus): Antik Dönemin Gizemi

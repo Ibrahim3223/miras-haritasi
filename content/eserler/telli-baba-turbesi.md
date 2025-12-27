@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.071639,41.175236"
 draft: false
+
+weight: 100
 ---
 
 ## Telli Baba Türbesi

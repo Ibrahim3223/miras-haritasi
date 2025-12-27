@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.1191177,39.3736687"
 draft: false
+
+weight: 100
 ---
 
 ## Sitte Melik Kümbeti, Divriği

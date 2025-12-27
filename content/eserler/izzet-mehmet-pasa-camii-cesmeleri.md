@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6931038,41.2440987"
 draft: false
+
+weight: 10
 ---
 
 ## İzzet Mehmet Paşa Camii Çeşmeleri

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.30166,40.567841"
 draft: false
+
+weight: 100
 ---
 
 ### Kızıltaş Köyü Köprüsü 

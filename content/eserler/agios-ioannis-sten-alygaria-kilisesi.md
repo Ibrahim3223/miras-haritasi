@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1536007,38.4291115"
 draft: false
+
+weight: 100
 ---
 
 ### Agios Ioannis Sten Alygaria Kilisesi

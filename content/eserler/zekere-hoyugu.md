@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4961182,39.3759136"
 draft: false
+
+weight: 100
 ---
 
 ## Zekere Höyüğü: Kırşehir'in Gizli Kahramanı

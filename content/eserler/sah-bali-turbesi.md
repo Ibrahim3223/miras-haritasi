@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.895412,41.246282"
 draft: false
+
+weight: 100
 ---
 
 ### Şah Bali Türbesi: Uzunköprü'nün Gizli Cenneti

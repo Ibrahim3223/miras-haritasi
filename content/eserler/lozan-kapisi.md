@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.142083333,38.429805555"
 draft: false
+
+weight: 10
 ---
 
 ## Lozan Kapısı: İzmir'in Tarihî Bir Anıtı

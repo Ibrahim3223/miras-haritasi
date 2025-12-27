@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0701885,40.9869461"
 draft: false
+
+weight: 10
 ---
 
 # Gözcü Baba Türbesi: Kadıköy'ün Efsanevi Anıtı

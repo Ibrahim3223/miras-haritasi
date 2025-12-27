@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.0975876,38.0622597"
 draft: false
+
+weight: 100
 ---
 
 **Keçi Kalesi, Altunhisar**

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.9106998,40.2232018"
 draft: false
+
+weight: 100
 ---
 
 ## Bağlar Mevki Manastırı

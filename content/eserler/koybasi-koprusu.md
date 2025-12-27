@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.1642895,37.9493675"
 draft: false
+
+weight: 100
 ---
 
 ## Köybaşı Köprüsü: Aydın'ın Gölgeli Köprüsü

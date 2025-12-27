@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.857913714,39.937538388"
 draft: false
+
+weight: 10
 ---
 
 ## Hatuniye Çeşmesi

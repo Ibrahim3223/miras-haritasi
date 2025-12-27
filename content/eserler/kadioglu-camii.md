@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7891083,37.1540833"
 draft: false
+
+weight: 100
 ---
 
 ### Kadıoğlu Camii: Şanlıurfa'nın Tarihî Bir Çağına İnanın

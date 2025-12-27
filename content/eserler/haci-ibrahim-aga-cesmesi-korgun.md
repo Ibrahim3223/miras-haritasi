@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.525586521,40.789671761"
 draft: false
+
+weight: 100
 ---
 
 **Hacı İbrahim Ağa Çeşmesi, Korgun**

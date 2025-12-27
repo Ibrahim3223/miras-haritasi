@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.862118,36.191259"
 draft: false
+
+weight: 100
 ---
 
 ### Simena Tiyatrosu: Antik Dönemin Gizli Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.4004368,40.1482348"
 draft: false
+
+weight: 100
 ---
 
 ### Yalı Hamamı: Çanakkale'nin Tarihi ve Kültürel Mirası

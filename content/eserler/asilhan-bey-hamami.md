@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.2354088,39.7593155"
 draft: false
+
+weight: 100
 ---
 
 ## Asılhan Bey Hamamı

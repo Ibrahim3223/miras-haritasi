@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.7096539,39.2178192"
 draft: false
+
+weight: 100
 ---
 
 ## Areyastis Anıtı

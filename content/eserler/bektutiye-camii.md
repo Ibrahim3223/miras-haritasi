@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9277191,37.5881653"
 draft: false
+
+weight: 100
 ---
 
 ## Bektutiye Camii: Kahramanmaraş'ta Bir Tarihi Çandır

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7875862,37.1474342"
 draft: false
+
+weight: 100
 ---
 
 ### Hasan Padişah Camii: Şanlıurfa'nın Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.9298859,37.5936432"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Kahramanmaraş Lisesi: Kahramanmaraş'ın Tarihi ve Kültürel Mirası

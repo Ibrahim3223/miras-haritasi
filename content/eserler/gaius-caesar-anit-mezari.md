@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1679,36.341852"
 draft: false
+
+weight: 10
 ---
 
 ### Gaius Caesar Anıt Mezarı

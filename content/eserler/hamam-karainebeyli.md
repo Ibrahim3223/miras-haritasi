@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.4317112,40.3492508"
 draft: false
+
+weight: 100
 ---
 
 # Hamam, Karainebeyli

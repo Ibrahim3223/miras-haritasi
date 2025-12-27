@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.1272833,41.0626667"
 draft: false
+
+weight: 100
 ---
 
 ### Zisto Köprüsü: Çamlıhemşin'in Tarihî ve Kültürel Özellikleri

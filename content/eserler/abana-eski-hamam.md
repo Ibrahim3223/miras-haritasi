@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.0085487,41.9780045"
 draft: false
+
+weight: 100
 ---
 
 ## Abana Eski Hamamı: Kastamonu'nun Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5509834,36.5268517"
 draft: false
+
+weight: 100
 ---
 
 ## Phaselis Nekropol Hamamı: Antik Kentin Gizli Harikası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.107851,41.2350655"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Ağa Çeşmesi, Rumelifeneri

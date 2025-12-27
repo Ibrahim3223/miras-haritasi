@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7773018,41.3839645"
 draft: false
+
+weight: 100
 ---
 
 # İsmail Bey Türbesi

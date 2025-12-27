@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "32.7989,39.9311"
 draft: false
+
+weight: 10
 ---
 
 ## Cumhurbaşkanlığı Sarayı

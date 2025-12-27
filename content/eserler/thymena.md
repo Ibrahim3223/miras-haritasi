@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.189074,41.958253"
 draft: false
+
+weight: 100
 ---
 
 ## Thymena Arkeolojik Sit

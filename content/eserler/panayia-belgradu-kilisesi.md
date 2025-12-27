@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.921859,41.000197"
 draft: false
+
+weight: 10
 ---
 
 ## Panayia Belgradu Kilisesi

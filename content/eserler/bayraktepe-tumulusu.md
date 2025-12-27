@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9950161,41.1547775"
 draft: false
+
+weight: 100
 ---
 
 **Bayraktepe Tümülüsü**

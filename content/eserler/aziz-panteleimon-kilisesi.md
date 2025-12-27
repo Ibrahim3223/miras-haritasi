@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.68038,40.170296"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Panteleimon Kilisesi: Nilüfer, Bursa'nın Gizli Çehresi

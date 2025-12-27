@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.664051,40.776416"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 4 (Tikenlice Mahallesi) Gürgentepe: Ordu'nun Gizli İhtişamı

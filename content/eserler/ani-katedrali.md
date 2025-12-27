@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.572777777,40.506111111"
 draft: false
+
+weight: 10
 ---
 
 ## Ani Katedrali: Tarihî Bir Mirasın Etkileyici Örneği

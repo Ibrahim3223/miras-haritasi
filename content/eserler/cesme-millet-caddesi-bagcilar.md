@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.825178,41.053101"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme (Millet Caddesi, Bağcılar)

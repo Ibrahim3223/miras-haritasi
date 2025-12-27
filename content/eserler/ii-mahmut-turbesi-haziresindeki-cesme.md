@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973274,41.008536"
 draft: false
+
+weight: 100
 ---
 
 ### II. Mahmut Türbesi Haziresi’ndeki Çeşme

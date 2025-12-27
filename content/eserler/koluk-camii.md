@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4809761,38.7187996"
 draft: false
+
+weight: 10
 ---
 
 ## Kölük Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.084795258,41.162260021"
 draft: false
+
+weight: 100
 ---
 
 ## Hz. Yuşa Türbesi

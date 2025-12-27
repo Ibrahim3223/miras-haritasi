@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.011832,41.019204"
 draft: false
+
+weight: 10
 ---
 
 ## İzmirli Ali Paşa Çeşmesi

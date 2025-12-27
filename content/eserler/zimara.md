@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.37593,39.41281"
 draft: false
+
+weight: 100
 ---
 
 ## Zimara: Türkiye'nin Gizli Cenneti

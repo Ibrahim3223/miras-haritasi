@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.682777777,41.136111111"
 draft: false
+
+weight: 100
 ---
 
 ## Jasonia (Pontus): Ege Denizi'nin Güzeli

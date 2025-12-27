@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.2500172,40.0333366"
 draft: false
+
+weight: 10
 ---
 
 ## HMS Triumph: Eceabat'taki Bir Düzenin Efsanesi

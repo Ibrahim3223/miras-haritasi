@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.789351795,40.351418738"
 draft: false
+
+weight: 100
 ---
 
 ## Karadayı Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi

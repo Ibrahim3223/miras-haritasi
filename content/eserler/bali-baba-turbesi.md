@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.976963472,37.026722702"
 draft: false
+
+weight: 100
 ---
 
 ### Bali Baba Türbesi

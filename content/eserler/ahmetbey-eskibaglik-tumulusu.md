@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5809021,41.4557877"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmetbey Eskibağlık Tümülüsü: Lüleburgaz'ın Gizli Öreni

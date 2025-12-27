@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Kürkçü Camii: Topkapı'da Gizli Bir Çanak

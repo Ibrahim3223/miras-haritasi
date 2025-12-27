@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.26829,41.080158"
 draft: false
+
+weight: 10
 ---
 
 ## Selymbria: Silivri'nin Gizli Tarihî Mirası

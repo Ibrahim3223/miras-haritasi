@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.979088,41.007147"
 draft: false
+
+weight: 10
 ---
 
 ## Haseki Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

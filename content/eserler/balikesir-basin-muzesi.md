@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.8788261,39.6502151"
 draft: false
+
+weight: 100
 ---
 
 ## Balıkesir Basın Müzesi

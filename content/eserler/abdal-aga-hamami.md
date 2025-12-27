@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.3177223,37.7542458"
 draft: false
+
+weight: 100
 ---
 
 ### Abdal Ağa Hamamı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.935833333,39.498888888"
 draft: false
+
+weight: 10
 ---
 
 # Adramytteion: Tarihe Dokunan Bir Arkeolojik Sit

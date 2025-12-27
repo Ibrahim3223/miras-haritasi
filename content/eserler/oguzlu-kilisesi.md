@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5473723,40.6582459"
 draft: false
+
+weight: 10
 ---
 
 ## Oğuzlu Kilisesi

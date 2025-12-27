@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Dijital Arşiv Projesi: Türkiye'nin Kültürel Mirasının Yeniden Keşfi

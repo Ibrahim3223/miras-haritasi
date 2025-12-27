@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.863842,39.9348488"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ayvaz Camii: Ankara'nın Tarihî Mirası

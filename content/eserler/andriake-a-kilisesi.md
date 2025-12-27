@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.9586926,36.2273674"
 draft: false
+
+weight: 100
 ---
 
 ## Andriake A Kilisesi: Demre'nin Hellenistik Mirası

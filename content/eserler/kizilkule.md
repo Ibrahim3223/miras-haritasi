@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.998308333,36.536444444"
 draft: false
+
+weight: 10
 ---
 
 # Kızılkule: Antalya'nın Tarihî ve Kültürel Mirası

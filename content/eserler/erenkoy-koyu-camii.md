@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.611287,41.306383"
 draft: false
+
+weight: 100
 ---
 
 ## Erenköy Köyü Camii: Tarihi ve Kültürel Mirası

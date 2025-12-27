@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5288754,38.7543335"
 draft: false
+
+weight: 100
 ---
 
 ## Hüdalı Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi

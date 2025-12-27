@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9412174,41.0393944"
 draft: false
+
+weight: 100
 ---
 
 ### Küçük Blakhernai Kapısı

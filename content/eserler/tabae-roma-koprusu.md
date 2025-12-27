@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.8516998,37.4336014"
 draft: false
+
+weight: 100
 ---
 
 ### Tabae Roma Köprüsü

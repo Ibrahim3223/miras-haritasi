@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.864593501,38.620638667"
 draft: false
+
+weight: 100
 ---
 
 ## Abdioğlu Camii: Ürgüp'te Bir Tarihî Miras

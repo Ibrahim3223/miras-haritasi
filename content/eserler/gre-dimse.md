@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.9664345,37.8277016"
 draft: false
+
+weight: 100
 ---
 
 ## Gre Dimse Arkeolojik Sit

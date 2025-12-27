@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2904587,37.0651093"
 draft: false
+
+weight: 100
 ---
 
 ### Gökçe Köyü Camii: Karaman'ın Gizli Çatısı

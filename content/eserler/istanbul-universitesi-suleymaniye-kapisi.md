@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.964014,41.015038"
 draft: false
+
+weight: 1
 ---
 
 ## İstanbul Üniversitesi Süleymaniye Kapısı

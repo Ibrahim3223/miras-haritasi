@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.931245755,41.004819389"
 draft: false
+
+weight: 10
 ---
 
 **Çavuşzade Ahmet Efendi Çeşmesi**

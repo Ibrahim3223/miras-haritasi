@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.016759,41.020213"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmediye Çeşmesi: Üsküdar'ın Tarihi ve Kültürel Mirası

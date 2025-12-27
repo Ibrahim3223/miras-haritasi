@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7837906,37.1476402"
 draft: false
+
+weight: 10
 ---
 
 ### Halilürrahman Camii

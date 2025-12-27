@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2732391,37.8377991"
 draft: false
+
+weight: 100
 ---
 
 ## Hamza Abdullah Oğlu Hacı Hasan Çeşmesi

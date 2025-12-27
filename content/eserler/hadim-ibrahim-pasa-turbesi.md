@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9224834,41.0059357"
 draft: false
+
+weight: 100
 ---
 
 ## Hadım İbrahim Paşa Türbesi: İstanbul'un Gizli Cenneti

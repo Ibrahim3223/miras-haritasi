@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.5233994,41.3176994"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşova Camii: Alaçam'ın Tarihi ve Kültürel Mirası

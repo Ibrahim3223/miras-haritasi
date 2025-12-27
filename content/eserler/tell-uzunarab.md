@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.299786,36.234798"
 draft: false
+
+weight: 100
 ---
 
 **Tell Uzunarab Arkeolojik Sit: Antakya'nın Gizli Mirası**

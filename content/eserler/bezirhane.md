@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.2890995,38.2698208"
 draft: false
+
+weight: 100
 ---
 
 ## Bezirhane: Aksaray'ın Gizli Cenneti

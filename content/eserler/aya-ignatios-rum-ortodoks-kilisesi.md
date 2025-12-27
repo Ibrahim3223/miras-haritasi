@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0476265,40.999176"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Ignatios Rum Ortodoks Kilisesi: Kadıköy'ün Gizli Çehresinde Bir İhtişam

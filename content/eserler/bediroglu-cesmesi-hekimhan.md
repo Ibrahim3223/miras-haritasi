@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.854967358,38.852675065"
 draft: false
+
+weight: 100
 ---
 
 ## Bediroğlu Çeşmesi, Hekimhan

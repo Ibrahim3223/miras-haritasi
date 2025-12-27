@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.9538536,41.2186813"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ahmet Ağa Camii: Zonguldak'ta Bir Kültür Mirası

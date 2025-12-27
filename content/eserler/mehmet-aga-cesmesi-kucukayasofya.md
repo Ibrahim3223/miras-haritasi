@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970998,41.002858"
 draft: false
+
+weight: 1
 ---
 
 ## Mehmet Ağa Çeşmesi Küçükayasofya

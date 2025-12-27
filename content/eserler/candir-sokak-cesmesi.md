@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4308739,37.8498611"
 draft: false
+
+weight: 100
 ---
 
 ### Çandır Sokak Çeşmesi

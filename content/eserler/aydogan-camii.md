@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.0077782,39.7492599"
 draft: false
+
+weight: 100
 ---
 
 ## Aydoğan Camii: Sivas'taki Bir Örenlik

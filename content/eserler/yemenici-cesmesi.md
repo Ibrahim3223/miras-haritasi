@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9730873,41.0296516"
 draft: false
+
+weight: 100
 ---
 
 ## Yemenici Çeşmesi

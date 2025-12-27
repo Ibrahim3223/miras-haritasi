@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Akhisar Sinagogu

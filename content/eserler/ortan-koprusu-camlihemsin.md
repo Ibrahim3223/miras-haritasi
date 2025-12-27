@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.013066,41.071275"
 draft: false
+
+weight: 100
 ---
 
 ## Ortan Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

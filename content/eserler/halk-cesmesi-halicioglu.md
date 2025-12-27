@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9453697,41.0457382"
 draft: false
+
+weight: 10
 ---
 
 ### Halk Çeşmesi, Halıcıoğlu: Beyoğlu'ndaki Bir İhtişam

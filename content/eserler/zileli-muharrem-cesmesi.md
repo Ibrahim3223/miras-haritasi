@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0756168,40.9734306"
 draft: false
+
+weight: 100
 ---
 
 ## Zileli Muharrem Çeşmesi: Bir Çeşmenin Öyküsü

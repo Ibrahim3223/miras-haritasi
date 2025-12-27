@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## 1071'den 15 Temmuz'a Destanlar Müzesi

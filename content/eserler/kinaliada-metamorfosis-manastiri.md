@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.050243,40.905869"
 draft: false
+
+weight: 10
 ---
 
 ## Kınalıada Metamorfosis Manastırı: Eine Tarihî Miras

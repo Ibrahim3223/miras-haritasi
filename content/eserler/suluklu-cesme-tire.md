@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7407036,38.083889"
 draft: false
+
+weight: 100
 ---
 
 ## Sülüklü Çeşme: Tarihî Bir Mimarî Eserin Hikayesi

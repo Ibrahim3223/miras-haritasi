@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.227596,40.514801"
 draft: false
+
+weight: 100
 ---
 
 ## Meryem Ana Köprüsü 1: Torul'un Efsanevi Köprüsü

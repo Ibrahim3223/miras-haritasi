@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.4522266,39.0580101"
 draft: false
+
+weight: 100
 ---
 
 # Karaosmanoğlu Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

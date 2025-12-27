@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.134462,36.760796"
 draft: false
+
+weight: 100
 ---
 
 ## Aulae (Likya) Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.439455879,40.20401063"
 draft: false
+
+weight: 100
 ---
 
 ## Valide Sultan Camii

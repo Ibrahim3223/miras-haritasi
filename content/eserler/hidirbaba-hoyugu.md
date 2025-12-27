@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.9575729,38.7762947"
 draft: false
+
+weight: 100
 ---
 
 ### Hıdırbaba Höyüğü

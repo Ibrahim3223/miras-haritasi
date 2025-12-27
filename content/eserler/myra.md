@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.985277777,36.259166666"
 draft: false
+
+weight: 10
 ---
 
 ## Myra: Antik Bir Kentin Mirası

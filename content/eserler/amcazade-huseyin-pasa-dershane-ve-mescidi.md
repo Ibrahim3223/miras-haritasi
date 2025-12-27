@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.952387,41.015198"
 draft: false
+
+weight: 100
 ---
 
 ## Amcazade Hüseyin Paşa Dershane ve Mescidi

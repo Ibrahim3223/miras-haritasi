@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.855555555,39.933333333"
 draft: false
+
+weight: 100
 ---
 
 ### Türkocağı Sahnesi: Antik Tiyatro Mirasının Öreni

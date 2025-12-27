@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01593598,41.024319464"
 draft: false
+
+weight: 10
 ---
 
 ### Tıflıgül Hanım Çeşmesi

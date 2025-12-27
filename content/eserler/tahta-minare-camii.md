@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.948423042,41.031714638"
 draft: false
+
+weight: 10
 ---
 
 ## Tahta Minare Camii: Balat'taki Bir Tarihî Eser

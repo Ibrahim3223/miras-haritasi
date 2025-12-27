@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.9036598,40.8912315"
 draft: false
+
+weight: 100
 ---
 
 ## Hamam 1, Malkara: Tarihi ve Kültürel Miras

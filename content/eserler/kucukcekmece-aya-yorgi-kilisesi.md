@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.7712173,40.9901161"
 draft: false
+
+weight: 100
 ---
 
 ### Küçükçekmece Aya Yorgi Kilisesi: İstanbul'un Gizli Cenneti

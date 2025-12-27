@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.384972222,41.035972222"
 draft: false
+
+weight: 100
 ---
 
 # Muriana Kilisesi

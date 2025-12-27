@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.143,42.025"
 draft: false
+
+weight: 100
 ---
 
 ## Sinop: Türkiye'nin Tarihî ve Kültürel Bir Mirası

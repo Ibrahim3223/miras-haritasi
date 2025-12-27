@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.057124,40.652488"
 draft: false
+
+weight: 100
 ---
 
 ### Kabaktepe Şehitliği, Kürtün

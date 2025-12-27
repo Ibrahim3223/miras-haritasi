@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.9833965,39.5008163"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Ahmet Camii, Burhaniye

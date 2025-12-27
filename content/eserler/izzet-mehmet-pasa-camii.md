@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.68594,41.24833"
 draft: false
+
+weight: 10
 ---
 
 ## İzzet Mehmet Paşa Camii Tanıtımı

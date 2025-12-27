@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941373,41.0221881"
 draft: false
+
+weight: 10
 ---
 
 ## Çorlulu Ali Paşa Çeşmesi, Hırka-i Şerif

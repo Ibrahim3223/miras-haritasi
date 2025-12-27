@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.916836,40.760185"
 draft: false
+
+weight: 10
 ---
 
 ## TCG Gayret: Kocaeli'nin Denizcilik Tarihi ve Kültürel Mirası

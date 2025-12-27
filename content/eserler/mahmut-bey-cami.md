@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.688017,41.480531"
 draft: false
+
+weight: 10
 ---
 
 # Mahmut Bey Camii: Kastamonu'da Bir Osmanlı Dönemi Eseri

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9265442,41.0083809"
 draft: false
+
+weight: 100
 ---
 
 ### Bezmialem Valide Sultan Çeşmesi, Mevlanakapı

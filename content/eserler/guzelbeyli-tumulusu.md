@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.682045,37.7104836"
 draft: false
+
+weight: 100
 ---
 
 ## Güzelbeyli Tümülüsü: Aydın'ın Karacasu'nda Gizemli Bir Miras

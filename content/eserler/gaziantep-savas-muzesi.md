@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.391015,37.058005"
 draft: false
+
+weight: 10
 ---
 
 ### Gaziantep Savaş Müzesi: Tarih, Kültür ve Miras

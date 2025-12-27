@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.4107952,39.6974754"
 draft: false
+
+weight: 100
 ---
 
 ### Dedeninyanı Tümülüsü

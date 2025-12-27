@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.9464512,36.2230873"
 draft: false
+
+weight: 100
 ---
 
 ## Andriake Helenistik Garnizonu: Demre'nin Gizli Kahramanı

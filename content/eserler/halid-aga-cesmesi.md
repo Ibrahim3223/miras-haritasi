@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.028025111,40.991211111"
 draft: false
+
+weight: 10
 ---
 
 ## Halid Ağa Çeşmesi

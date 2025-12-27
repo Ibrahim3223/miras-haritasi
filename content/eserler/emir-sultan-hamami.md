@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0811119,40.1806755"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Sultan Hamamı

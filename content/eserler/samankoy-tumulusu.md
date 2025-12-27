@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.239296,38.3930817"
 draft: false
+
+weight: 100
 ---
 
 ## Samanköy Tümülüsü: Yeşilyurt'ta bir Arkeolojik Kahramanlık

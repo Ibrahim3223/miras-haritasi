@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.778327439,40.757665039"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Faruk Yücel Çeşmesi, Yapraklı

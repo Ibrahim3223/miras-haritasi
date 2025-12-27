@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.885843,36.683529"
 draft: false
+
+weight: 100
 ---
 
 ## Karallia (Pamfilya): Tarihi ve Kültürel Miras

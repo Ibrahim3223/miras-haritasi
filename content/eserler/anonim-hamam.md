@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4232559,37.0367622"
 draft: false
+
+weight: 100
 ---
 
 ## Bodrum'un Gizli Çeşmesi: Anonim Hamam

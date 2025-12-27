@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "29.001666666,41.039444444"
 draft: false
+
+weight: 1
 ---
 
 # Dolmabahçe Sarayı

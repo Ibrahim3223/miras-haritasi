@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9693031,41.0043106"
 draft: false
+
+weight: 10
 ---
 
 ### Sultan Süleyman Çeşmesi

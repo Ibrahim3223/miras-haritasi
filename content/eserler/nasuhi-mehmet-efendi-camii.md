@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.01340216,41.018185502"
 draft: false
+
+weight: 10
 ---
 
 ## Nasuhi Mehmet Efendi Camii

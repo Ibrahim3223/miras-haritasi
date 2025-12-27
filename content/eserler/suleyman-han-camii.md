@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.992888888,36.534888888"
 draft: false
+
+weight: 10
 ---
 
 ## Süleyman Han Camii: Alanya'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8561516,39.941906"
 draft: false
+
+weight: 100
 ---
 
 ### Zincirli Camii Çeşmesi: Altındağ'un Tarihi Bir Çeşmesi

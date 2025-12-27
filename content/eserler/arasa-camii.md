@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9264526,37.5818863"
 draft: false
+
+weight: 100
 ---
 
 ## Arasa Camii: Tarihi ve Kültürel Mirasın Gözbebeği

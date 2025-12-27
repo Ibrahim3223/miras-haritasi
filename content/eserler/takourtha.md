@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.419758,37.262517"
 draft: false
+
+weight: 100
 ---
 
 ## Takourtha Arkeolojik Sit

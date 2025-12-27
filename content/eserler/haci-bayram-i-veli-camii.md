@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.775873,39.223454"
 draft: false
+
+weight: 100
 ---
 
 **Hacı Bayram-ı Veli Camii: Balıkesir'in Tarihî ve Kültürel Mirası**

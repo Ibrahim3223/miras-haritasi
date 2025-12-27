@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0664062,40.1817703"
 draft: false
+
+weight: 100
 ---
 
 ## Hacılar Camii: Bursa'nın Altın Çağının Gizli Çehresi

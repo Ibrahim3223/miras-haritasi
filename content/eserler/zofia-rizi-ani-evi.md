@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.210967404,41.109867777"
 draft: false
+
+weight: 100
 ---
 
 ## Zofia Rizi Anı Evi Müzesi

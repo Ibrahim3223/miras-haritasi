@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.118721,39.3709564"
 draft: false
+
+weight: 100
 ---
 
 ## Saracın Türbesi

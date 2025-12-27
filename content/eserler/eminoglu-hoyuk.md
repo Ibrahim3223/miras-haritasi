@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6339756,39.6776231"
 draft: false
+
+weight: 100
 ---
 
 ### Eminoğlu Höyük: Yozgat'ta Bir Arkeolojik Sitin Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.7632,39.9064"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Hamdi Akseki Camii

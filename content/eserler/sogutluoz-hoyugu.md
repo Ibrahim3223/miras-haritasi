@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.430876,36.6114327"
 draft: false
+
+weight: 100
 ---
 
 ## Söğütlüöz Höyüğü: Tarih, Kültür ve Miras

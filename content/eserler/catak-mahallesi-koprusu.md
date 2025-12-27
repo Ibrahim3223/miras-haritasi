@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.402612,40.807249"
 draft: false
+
+weight: 100
 ---
 
 ## Çatak Mahallesi Köprüsü

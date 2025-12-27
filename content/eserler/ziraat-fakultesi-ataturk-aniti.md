@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8600922,39.9551239"
 draft: false
+
+weight: 100
 ---
 
 ## Ziraat Fakültesi Atatürk Anıtı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.6987782,36.885704"
 draft: false
+
+weight: 100
 ---
 
 # Kadınyarı Köprüsü

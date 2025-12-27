@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.114234,36.715592"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Dur Türbesi: Kilis'in Gizemi

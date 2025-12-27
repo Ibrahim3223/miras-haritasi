@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9585972,41.0054321"
 draft: false
+
+weight: 100
 ---
 
 ## Tülbentçi Hüsamettin Camii Çeşmesi

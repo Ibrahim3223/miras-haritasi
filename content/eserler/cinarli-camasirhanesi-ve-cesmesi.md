@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "25.9064007,40.1908989"
 draft: false
+
+weight: 100
 ---
 
 ## Çınarlı Çamaşırhanesi ve Çeşmesi

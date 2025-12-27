@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.6309929,40.8372955"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkız Köprüsü

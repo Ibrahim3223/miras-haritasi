@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.8714409,39.806057"
 draft: false
+
+weight: 100
 ---
 
 ## Cengerli Kalesi: Refahiye'nin Tarihi Zirvesinde

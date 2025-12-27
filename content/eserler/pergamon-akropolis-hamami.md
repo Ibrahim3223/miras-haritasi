@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1832542,39.1293068"
 draft: false
+
+weight: 100
 ---
 
 ## Pergamon Akropolis Hamamı: Bergama'da Bir Antik Miras

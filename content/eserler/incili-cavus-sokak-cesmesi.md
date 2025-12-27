@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976877,41.0081989"
 draft: false
+
+weight: 100
 ---
 
 ## İncili Çavuş Sokak Çeşmesi: Fatih'ten Bir Kültürel Miras

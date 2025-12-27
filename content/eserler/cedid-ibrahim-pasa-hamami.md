@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.994532,41.03752"
 draft: false
+
+weight: 100
 ---
 
 ## Cedid İbrahim Paşa Hamamı

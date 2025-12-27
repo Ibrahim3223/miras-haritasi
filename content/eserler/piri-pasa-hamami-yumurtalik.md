@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.786555234,36.771270828"
 draft: false
+
+weight: 100
 ---
 
 ## Piri Paşa Hamamı, Yumurtalık

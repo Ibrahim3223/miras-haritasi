@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7385445,38.0832127"
 draft: false
+
+weight: 100
 ---
 
 ## Hekim Hamamı: Tarihi ve Kültürel Miras

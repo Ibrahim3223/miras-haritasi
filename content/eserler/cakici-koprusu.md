@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7415009,38.3843002"
 draft: false
+
+weight: 100
 ---
 
 # Çakıcı Köprüsü

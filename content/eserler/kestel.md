@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.917,37.812"
 draft: false
+
+weight: 100
 ---
 
 ## Kestel Arkeolojik Sit

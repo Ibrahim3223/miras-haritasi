@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976694444,41.007111111"
 draft: false
+
+weight: 10
 ---
 
 ## Alman Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.363267,40.99645"
 draft: false
+
+weight: 100
 ---
 
 ## Köşklü Değirmen Köprüsü: İyidere'nin Güzelliği

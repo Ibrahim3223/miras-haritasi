@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1420898,38.412487"
 draft: false
+
+weight: 100
 ---
 
 ## Kadifekale Hava Şehitliği

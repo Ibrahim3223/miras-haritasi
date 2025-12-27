@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.972128,41.005001"
 draft: false
+
+weight: 100
 ---
 
 **Kadırga Sokullu Mehmet Paşa Medresesi**

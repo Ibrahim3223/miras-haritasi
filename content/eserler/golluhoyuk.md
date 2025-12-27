@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.6882542,37.0040693"
 draft: false
+
+weight: 100
 ---
 
 ### Göllühöyük: Tarihî Mirasın Gizemi

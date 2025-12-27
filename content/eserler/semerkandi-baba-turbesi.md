@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.4326496,37.5706978"
 draft: false
+
+weight: 100
 ---
 
 ## Semerkandi Baba Türbesi

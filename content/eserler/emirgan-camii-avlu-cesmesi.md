@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056181,41.104577"
 draft: false
+
+weight: 10
 ---
 
 ## Emirgan Camii Avlu Çeşmesi

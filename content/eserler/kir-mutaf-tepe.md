@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9841957,38.5845184"
 draft: false
+
+weight: 100
 ---
 
 ### Kır Mutaf Tepe: Manisa'nın Gizli Çarpıntısı

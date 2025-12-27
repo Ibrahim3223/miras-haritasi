@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6452084,38.2267685"
 draft: false
+
+weight: 100
 ---
 
 **Kanlıdere Köprüsü: İzmirlinin Klasik Bir Mirası**

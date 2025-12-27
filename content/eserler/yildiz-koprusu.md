@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.765102,39.75863"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldız Köprüsü: Sivas'ta Bir Tarihi Miras

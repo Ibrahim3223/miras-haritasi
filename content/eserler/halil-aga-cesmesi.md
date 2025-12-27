@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9485,41.031583333"
 draft: false
+
+weight: 10
 ---
 
 ### Halil Ağa Çeşmesi: Balat'ın Tarihi Bir Çeşmesi

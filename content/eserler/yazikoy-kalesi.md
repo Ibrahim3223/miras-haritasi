@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4482002,36.6883621"
 draft: false
+
+weight: 100
 ---
 
 ## Yazıköy Kalesi: Datça'nın Tarihi Mirası

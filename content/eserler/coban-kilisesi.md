@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5746994,40.5133553"
 draft: false
+
+weight: 100
 ---
 
 ## Çoban Kilisesi: Ani'nin Gizli Çeşmesi

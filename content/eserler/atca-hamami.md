@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.2133999,37.8871994"
 draft: false
+
+weight: 100
 ---
 
 ## Atça Hamamı

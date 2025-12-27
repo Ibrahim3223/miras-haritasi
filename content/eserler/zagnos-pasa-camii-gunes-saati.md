@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.879773891,39.648435191"
 draft: false
+
+weight: 100
 ---
 
 ## Zağnos Paşa Camii Güneş Saati: Balıkesir'in Tarihi Bir Mirası

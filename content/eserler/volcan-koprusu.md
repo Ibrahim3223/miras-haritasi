@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6001797,41.944191"
 draft: false
+
+weight: 100
 ---
 
 ## Volçan Köprüsü: Kırklareli'nin Kırmızıtaşlı Anıtı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.39589,41.38022"
 draft: false
+
+weight: 100
 ---
 
 ## Kepirtepe Höyüğü: Tarihî ve Kültürel Mirasın Gizemi

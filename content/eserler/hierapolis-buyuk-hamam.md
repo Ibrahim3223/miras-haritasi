@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1240368,37.9252357"
 draft: false
+
+weight: 100
 ---
 
 ## Hierapolis Büyük Hamam: Pamukkale'nin Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.538813,38.753898"
 draft: false
+
+weight: 100
 ---
 
 ## Sahibler Sultan Türbesi: Afyonkarahisar'ın Gizli Cenneti

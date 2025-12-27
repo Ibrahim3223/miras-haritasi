@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.0815735,40.7235909"
 draft: false
+
+weight: 1
 ---
 
 ## Enez Ayasofya Camii: Edirne'nin Gizli Çağından Kalmış Bir Değer

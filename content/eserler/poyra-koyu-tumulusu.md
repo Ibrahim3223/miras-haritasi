@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.1936703,39.8769417"
 draft: false
+
+weight: 100
 ---
 
 ## Poyra Köyü Tümülüsü: Bozüyük'te Yüzyıllar Önceki Gizem

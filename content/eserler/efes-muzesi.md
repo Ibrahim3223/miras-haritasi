@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.367854,37.948994"
 draft: false
+
+weight: 10
 ---
 
 ## Efes Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer

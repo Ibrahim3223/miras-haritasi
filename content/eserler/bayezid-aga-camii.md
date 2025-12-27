@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.927777777,41.020583333"
 draft: false
+
+weight: 10
 ---
 
 ## Bayezid Ağa Camii: İstanbul'un Gizli Çehresinde Bir Örnek

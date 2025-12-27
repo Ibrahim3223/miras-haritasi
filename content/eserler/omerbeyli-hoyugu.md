@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6527004,37.8796997"
 draft: false
+
+weight: 100
 ---
 
 ## Ömerbeyli Höyüğü: Aydın'ın Gizli Zirvesi

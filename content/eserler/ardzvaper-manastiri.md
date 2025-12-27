@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.434536,39.048233"
 draft: false
+
+weight: 100
 ---
 
 ## Ardzvaper Manastırı: Erciş'in Gizli Hazinesi

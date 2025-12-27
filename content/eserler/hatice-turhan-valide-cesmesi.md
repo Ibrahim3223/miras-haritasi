@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971985,41.015984"
 draft: false
+
+weight: 10
 ---
 
 ## Hatice Turhan Valide Çeşmesi

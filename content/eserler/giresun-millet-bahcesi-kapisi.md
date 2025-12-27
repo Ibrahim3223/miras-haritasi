@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.3862953,40.9189186"
 draft: false
+
+weight: 100
 ---
 
 ## Giresun Millet Bahçesi Kapısı: Tarihi ve Kültürel Mirasın Parçası

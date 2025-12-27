@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4917202,37.5059204"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük İkiz Ada Kalesi

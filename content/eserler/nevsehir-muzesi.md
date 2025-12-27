@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.725,38.628055555"
 draft: false
+
+weight: 10
 ---
 
 ## Nevşehir Müzesi: Geçmişten Geleceğe Bir Yolculuk

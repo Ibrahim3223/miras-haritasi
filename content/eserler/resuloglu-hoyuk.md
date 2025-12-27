@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.175602,40.429882"
 draft: false
+
+weight: 100
 ---
 
 ### Resuloğlu Höyük: Bir Tarih Öncesi Mirasın Gizemi

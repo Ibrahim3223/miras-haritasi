@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.206955,37.661968"
 draft: false
+
+weight: 100
 ---
 
 ### Gökyurt Köprüsü

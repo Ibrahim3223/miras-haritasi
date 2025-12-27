@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.5749168,38.3493462"
 draft: false
+
+weight: 100
 ---
 
 ## İçmesutepe Höyüğü

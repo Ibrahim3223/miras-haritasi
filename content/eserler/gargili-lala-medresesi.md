@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.469101,38.0710335"
 draft: false
+
+weight: 100
 ---
 
 **Gargılı Lala Medresesi**

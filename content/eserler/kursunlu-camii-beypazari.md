@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.9187965,40.1695938"
 draft: false
+
+weight: 10
 ---
 
 ## Kurşunlu Camii, Beypazarı

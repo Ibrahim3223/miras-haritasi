@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.524233,39.333733"
 draft: false
+
+weight: 100
 ---
 
 ## Akın Höyük: Eskişehir'de Gizli Bir Geçmişi

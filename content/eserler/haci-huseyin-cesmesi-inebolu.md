@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.759928159,41.976749846"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hüseyin Çeşmesi, İnebolu

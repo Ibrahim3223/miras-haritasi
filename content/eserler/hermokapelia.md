@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.614993,38.921548"
 draft: false
+
+weight: 100
 ---
 
 ## Hermokapelia: Manisa'nın Gizemli Arkeolojik Sitleri

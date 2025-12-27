@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.2185154,38.4620361"
 draft: false
+
+weight: 100
 ---
 
 ## Ege Üniversitesi Kağıt ve Kitap Sanatları Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.188333,38.99635"
 draft: false
+
+weight: 100
 ---
 
 ## Beşkarış: Altıntaş'taki Eski Şehir

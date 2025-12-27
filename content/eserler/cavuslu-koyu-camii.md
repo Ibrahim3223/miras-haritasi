@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7005005,41.4392014"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuşlu Köyü Camii: Artvin'in Tarihi ve Kültürel Mirası

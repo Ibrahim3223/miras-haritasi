@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.861903988,39.942712272"
 draft: false
+
+weight: 100
 ---
 
 ## Çakırlar Çeşmesi

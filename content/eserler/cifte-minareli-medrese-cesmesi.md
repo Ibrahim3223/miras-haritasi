@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2784691,39.9058914"
 draft: false
+
+weight: 100
 ---
 
 ## Çifte Minareli Medrese Çeşmesi

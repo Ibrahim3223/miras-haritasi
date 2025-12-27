@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.2374687,40.2550049"
 draft: false
+
+weight: 10
 ---
 
 ## Şapinuva Arkeolojik Sit

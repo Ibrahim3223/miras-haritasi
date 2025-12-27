@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.4479027,36.7870255"
 draft: false
+
+weight: 100
 ---
 
 # Manavgat Köprüsü: Antalya'nın Tarihi ve Mimari Değerleri Arasındaki Bir Örnek

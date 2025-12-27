@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9404278,41.0079575"
 draft: false
+
+weight: 100
 ---
 
 ## Tellak Dede Kabri

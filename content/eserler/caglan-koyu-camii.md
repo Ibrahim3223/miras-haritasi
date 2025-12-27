@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.013184,39.132389"
 draft: false
+
+weight: 100
 ---
 
 ### Çağlan Köyü Camii: İzmir'in Gizli Cenneti

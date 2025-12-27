@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.751613,40.063979"
 draft: false
+
+weight: 100
 ---
 
 ## Abalı Baba Türbesi: Yenimahalle'nin Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9550359,38.2942143"
 draft: false
+
+weight: 100
 ---
 
 ## Bakraç Höyüğü: Kahramanmaraş'ın Gizemi

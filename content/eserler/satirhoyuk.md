@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9737238,37.2175854"
 draft: false
+
+weight: 100
 ---
 
 # Şatırhöyük Arkeolojik Sit

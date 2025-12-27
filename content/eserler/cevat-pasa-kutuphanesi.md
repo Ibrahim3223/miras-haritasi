@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9760151,41.0127945"
 draft: false
+
+weight: 100
 ---
 
 # Cevat Paşa Kütüphanesi

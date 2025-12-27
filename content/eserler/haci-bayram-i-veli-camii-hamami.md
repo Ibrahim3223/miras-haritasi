@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.8574409,39.9437218"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Bayram-ı Veli Camii Hamamı

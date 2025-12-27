@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.0397358,39.6858368"
 draft: false
+
+weight: 100
 ---
 
 ## Uyuzhamamköyü Çeşmesi: Alpu, Eskişehir'de Bir Önemli Kültürel Miras

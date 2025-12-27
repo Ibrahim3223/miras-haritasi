@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4618988,37.9145851"
 draft: false
+
+weight: 100
 ---
 
 ### Yakup Paşa Çeşmesi

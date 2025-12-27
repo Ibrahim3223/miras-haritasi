@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0620636,39.8815216"
 draft: false
+
+weight: 100
 ---
 
 ## Ziyarettepesi Höyüğü: İmranlı'nın Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.12611111,36.52138889"
 draft: false
+
+weight: 10
 ---
 
 ### Çatıören Arkeolojik Sit

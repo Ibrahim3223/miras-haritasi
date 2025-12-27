@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.974444444,41.0075"
 draft: false
+
+weight: 10
 ---
 
 ## Binbirdirek Sarnıcı

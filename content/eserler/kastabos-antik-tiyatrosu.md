@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.1538506,36.7834663"
 draft: false
+
+weight: 100
 ---
 
 ## Kastabos Antik Tiyatrosu: Marmaris'in Gizli Çehresi

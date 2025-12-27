@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.14016,41.304922"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakçılar A.Ş. Arkeoloji ve Etnografya Müzesi

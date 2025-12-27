@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.6224,41.139609"
 draft: false
+
+weight: 100
 ---
 
 ## Sora Arkeolojik Sit

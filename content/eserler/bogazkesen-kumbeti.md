@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.9243774,40.1740608"
 draft: false
+
+weight: 100
 ---
 
 ### Boğazkesen Kümbeti: Ankara'nın Gizli Cenneti

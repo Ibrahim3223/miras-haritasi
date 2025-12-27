@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.450851,40.931491"
 draft: false
+
+weight: 100
 ---
 
 ## Tonik Köprüsü, Kalkandere

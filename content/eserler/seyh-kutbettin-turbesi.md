@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7262,40.4299"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Kutbettin Türbesi

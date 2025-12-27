@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4616661,40.8706245"
 draft: false
+
+weight: 100
 ---
 
 ## Dobak Minare Camii: Tarihi ve Kültürel Miras

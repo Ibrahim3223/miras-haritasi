@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.646767,39.792533"
 draft: false
+
+weight: 100
 ---
 
 ## Maltepesi Höyük: Eskişehir'in Gizli Tarihî Mirası

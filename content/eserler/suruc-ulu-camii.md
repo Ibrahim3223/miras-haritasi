@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.425888888,36.975527777"
 draft: false
+
+weight: 100
 ---
 
 ## Suruç Ulu Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası

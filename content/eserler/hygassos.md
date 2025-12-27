@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.120727,36.739573"
 draft: false
+
+weight: 100
 ---
 
 ## Hygassos Arkeolojik Sit

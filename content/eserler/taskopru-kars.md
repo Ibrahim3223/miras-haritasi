@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "43.08861111,40.61166667"
 draft: false
+
+weight: 10
 ---
 
 ## Taşköprü (Kars)

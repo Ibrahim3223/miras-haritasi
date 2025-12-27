@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1416054,38.4128418"
 draft: false
+
+weight: 100
 ---
 
 # Kadifekale Hava Şehitleri Çeşmesi

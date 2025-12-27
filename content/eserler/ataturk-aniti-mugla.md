@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3637066,37.2151375"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Anıtı, Muğla

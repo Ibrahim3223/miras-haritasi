@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.954746,41.025101"
 draft: false
+
+weight: 100
 ---
 
 ## Kandili Güzel Camii: İstanbul'un Gizli Cenneti

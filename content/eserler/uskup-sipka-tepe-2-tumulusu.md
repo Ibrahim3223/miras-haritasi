@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4519329,41.7820625"
 draft: false
+
+weight: 100
 ---
 
 ## Üsküp Şipka Tepe 2 Tümülüsü

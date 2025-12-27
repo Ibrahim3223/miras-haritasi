@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.1634865,37.4462585"
 draft: false
+
+weight: 100
 ---
 
 ### Göksu Köprüsü: Tarih ve Kültür Mirası

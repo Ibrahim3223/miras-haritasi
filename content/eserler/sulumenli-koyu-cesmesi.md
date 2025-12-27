@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2023449,38.3532753"
 draft: false
+
+weight: 100
 ---
 
 ## Sülümenli Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi

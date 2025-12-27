@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4871254,38.7232933"
 draft: false
+
+weight: 100
 ---
 
 ## Sahabiye Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7929726,37.1439743"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Lütfullah Camii

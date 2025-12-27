@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3652532,37.2191076"
 draft: false
+
+weight: 100
 ---
 
 ### Muğla Ulu Camii

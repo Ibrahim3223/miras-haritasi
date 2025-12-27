@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4399624,40.8098373"
 draft: false
+
+weight: 100
 ---
 
 ### Arap Çeşme

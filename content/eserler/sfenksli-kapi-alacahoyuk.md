@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.696186,40.233669"
 draft: false
+
+weight: 100
 ---
 
 # Sfenksli Kapı, Alacahöyük

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0417423,40.9712982"
 draft: false
+
+weight: 100
 ---
 
 # St. Augustins Katolik Kilisesi: Kadıköy'deki Tarihi Bir Ziyaretçi

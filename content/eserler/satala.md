@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.59055556,40.02611111"
 draft: false
+
+weight: 100
 ---
 
 ## Satala: Kelkit'in Tarihî Mirası

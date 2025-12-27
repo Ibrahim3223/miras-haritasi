@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0576869,41.1692539"
 draft: false
+
+weight: 10
 ---
 
 **Abbas Okumuşoğlu Çeşmesi**

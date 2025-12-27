@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.0559921,36.7262535"
 draft: false
+
+weight: 100
 ---
 
 ## Bozuk Kilise: Marmaris'ten Bir Örnek Hristiyan Mirası

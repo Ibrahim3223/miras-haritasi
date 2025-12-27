@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.14455,37.264746"
 draft: false
+
+weight: 100
 ---
 
 ## Tilki Kalesi: Karaman'ın Gizli Mülkiyeti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.020060314,41.008992829"
 draft: false
+
+weight: 100
 ---
 
 ## Tazıcılar Mescidi: Üsküdar'ın Eski ve Gizli Çeşmesi

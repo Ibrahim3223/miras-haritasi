@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0953999,37.9099007"
 draft: false
+
+weight: 100
 ---
 
 # Azaplı Çeşmesi: Aydın'ın Gizli Çeşmesi

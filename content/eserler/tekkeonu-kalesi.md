@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.6669655,41.8312836"
 draft: false
+
+weight: 100
 ---
 
 ## Tekkeönü Kalesi: Bartın'ın Gizli Kahramanı

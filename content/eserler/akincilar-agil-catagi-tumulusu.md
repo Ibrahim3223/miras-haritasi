@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6215172,41.4579582"
 draft: false
+
+weight: 100
 ---
 
 ## Akıncılar Ağıl Çatağı Tümülüsü

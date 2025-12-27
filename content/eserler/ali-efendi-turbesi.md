@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.533554,38.753404"
 draft: false
+
+weight: 100
 ---
 
 ### Ali Efendi Türbesi: Afyonkarahisar'da Gizli Bir Anıt

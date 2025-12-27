@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.94509,41.026814"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Ağa Camii Batı Kapısı Çeşmesi

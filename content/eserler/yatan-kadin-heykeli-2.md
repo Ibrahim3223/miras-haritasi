@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.144972222,38.429361111"
 draft: false
+
+weight: 10
 ---
 
 ## Yatan Kadın Heykeli 2: İzmir'in Tarihî Çeşmesindeki Gizemi

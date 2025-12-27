@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.5403709,39.4482193"
 draft: false
+
+weight: 100
 ---
 
 ### Ak Minare, Sivrihisar: Eskişehir'in Gizli Çehresini Keşfedin

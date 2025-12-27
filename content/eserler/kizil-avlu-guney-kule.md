@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1834316,39.1216278"
 draft: false
+
+weight: 10
 ---
 
 ### Kızıl Avlu Güney Kule: Bergama'nın Tarihi ve Kültür Mirası

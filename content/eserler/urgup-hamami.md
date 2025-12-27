@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.909668,38.6299438"
 draft: false
+
+weight: 100
 ---
 
 ### Ürgüp Hamamı: Tarihi ve Kültürel Miras

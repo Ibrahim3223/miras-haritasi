@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 **Ayğek Manastırı: Kahramanmaraş'ta Bir Tarihî Çanak**

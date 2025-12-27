@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0338001,41.0727615"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Ioannis Ayazması

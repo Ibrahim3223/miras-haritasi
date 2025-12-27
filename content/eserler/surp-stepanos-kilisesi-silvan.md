@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.0032253,38.1420478"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Stepanos Kilisesi (Silvan)

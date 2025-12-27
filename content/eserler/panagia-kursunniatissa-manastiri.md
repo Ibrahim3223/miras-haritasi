@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "27.283205,37.7051201"
 draft: false
+
+weight: 100
 ---
 
 ## Panagia Kursunniatissa Manastırı

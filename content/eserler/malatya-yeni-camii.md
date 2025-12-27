@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.3181,38.3495"
 draft: false
+
+weight: 10
 ---
 
 # Malatya Yeni Camii: Türkiye'nin Güzelliği

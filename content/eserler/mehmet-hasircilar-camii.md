@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.619923477,41.092262049"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmet Hasırcılar Camii

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.173584,36.2113953"
 draft: false
+
+weight: 100
 ---
 
 ### Antakya Antik Yapıları: Antik Hamam

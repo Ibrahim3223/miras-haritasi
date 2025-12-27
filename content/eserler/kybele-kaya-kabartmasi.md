@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.5,38.59777778"
 draft: false
+
+weight: 10
 ---
 
 ## Kybele Kaya Kabartması

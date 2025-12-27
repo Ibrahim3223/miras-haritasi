@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8148651,41.5547447"
 draft: false
+
+weight: 100
 ---
 
 ### Okçular Hantepe Tümülüsü

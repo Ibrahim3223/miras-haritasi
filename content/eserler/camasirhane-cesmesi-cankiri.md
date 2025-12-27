@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.615560569,40.601221052"
 draft: false
+
+weight: 100
 ---
 
 ## Çamaşırhane Çeşmesi: Çankırı'nın Tarihi Bir Mirası

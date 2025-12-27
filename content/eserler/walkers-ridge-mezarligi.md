@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28822,40.24168"
 draft: false
+
+weight: 10
 ---
 
 ## Walker's Ridge Mezarlığı: Çanakkale'nin Gizli Çatısı

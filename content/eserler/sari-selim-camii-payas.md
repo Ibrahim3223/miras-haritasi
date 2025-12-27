@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.2032089,36.7537384"
 draft: false
+
+weight: 10
 ---
 
 ## Sarı Selim Camii (Payas)

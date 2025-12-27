@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.976635,39.417248"
 draft: false
+
+weight: 100
 ---
 
 **Erguvan Çelebi Türbesi: Kütahya'nın Gizli Cenneti**

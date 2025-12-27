@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.062243,36.690466"
 draft: false
+
+weight: 100
 ---
 
 ### Tymnos: Marmaris'in Gizli Şehri

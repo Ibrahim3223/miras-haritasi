@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9990234,41.0424194"
 draft: false
+
+weight: 100
 ---
 
 ## Servirevan Sokak Çeşmesi: Beşiktaş'ta Bir Tarihî Eser

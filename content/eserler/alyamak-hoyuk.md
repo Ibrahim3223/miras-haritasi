@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.593167,39.81855"
 draft: false
+
+weight: 100
 ---
 
 ## Alyamak Höyük: Eskişehir'in Gizli Hazineleri

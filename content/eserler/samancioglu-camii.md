@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1340218,38.2476807"
 draft: false
+
+weight: 100
 ---
 
 ## Samancıoğlu Camii

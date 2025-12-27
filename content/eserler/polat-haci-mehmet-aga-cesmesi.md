@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4327335,38.6127472"
 draft: false
+
+weight: 100
 ---
 
 ## Polat Hacı Mehmet Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

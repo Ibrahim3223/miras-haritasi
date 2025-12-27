@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.98632,41.034779"
 draft: false
+
+weight: 10
 ---
 
 ## Silahdar Mehmet Ağa Çeşmesi

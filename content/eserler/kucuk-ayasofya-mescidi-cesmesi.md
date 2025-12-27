@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.4094124,38.3567467"
 draft: false
+
+weight: 1
 ---
 
 ## Küçük Ayasofya Mescidi Çeşmesi: Akşehir'in Gizli Çeşmesi

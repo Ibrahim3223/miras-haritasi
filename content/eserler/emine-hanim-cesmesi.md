@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.957298,41.013294"
 draft: false
+
+weight: 10
 ---
 
 ## Emine Hanım Çeşmesi: Fatih'in Gizli Cenneti

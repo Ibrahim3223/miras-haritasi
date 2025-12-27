@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1024094,41.7275276"
 draft: false
+
+weight: 100
 ---
 
 ## Koyunbaba Höyüğü

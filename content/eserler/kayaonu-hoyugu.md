@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.2225761,39.6623993"
 draft: false
+
+weight: 100
 ---
 
 ## Kayaönü Höyüğü: Sivas'ın Gizli Anıtı

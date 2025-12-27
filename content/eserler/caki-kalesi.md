@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.802027777,41.507333333"
 draft: false
+
+weight: 10
 ---
 
 ## Caki Kalesi: Posof'un Efsanevi Kalesi

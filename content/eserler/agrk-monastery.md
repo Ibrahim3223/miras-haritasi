@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Agrk Monastery: Tortum'un Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.1702614,40.8442192"
 draft: false
+
+weight: 100
 ---
 
 ## Maden Camii: Gümüşhacıköy'ün Tarihi ve Kültürel Mirası

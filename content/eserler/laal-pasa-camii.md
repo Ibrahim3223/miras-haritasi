@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.43611111,36.64444444"
 draft: false
+
+weight: 10
 ---
 
 ## Laal Paşa Camii: Mut, Mersin'de Tarih ve Görsellik Birleştiriyor

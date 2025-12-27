@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.4398289,37.0302582"
 draft: false
+
+weight: 10
 ---
 
 ## Zeki Müren Sanat Müzesi

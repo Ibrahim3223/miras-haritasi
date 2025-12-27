@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.848975,40.901166"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu: Bir Tarih Öreni

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5403877,41.6758301"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Mihal Bey Camii

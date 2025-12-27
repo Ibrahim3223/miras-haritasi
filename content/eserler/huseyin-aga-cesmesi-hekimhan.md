@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.934170603,38.817889669"
 draft: false
+
+weight: 100
 ---
 
 ### Hüseyin Ağa Çeşmesi, Hekimhan

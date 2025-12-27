@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7600594,41.9765663"
 draft: false
+
+weight: 100
 ---
 
 ## Tevfikiye Camii: İnebolu'nun Tarihî ve Mimarî Harikası

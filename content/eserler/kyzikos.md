@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.870555555,40.387777777"
 draft: false
+
+weight: 10
 ---
 
 ## Kyzikos: Antik Kentin Efsanevi Mirası

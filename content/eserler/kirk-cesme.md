@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2748375,39.9087601"
 draft: false
+
+weight: 100
 ---
 
 ### Kırk Çeşme: Erzurum'un Tarihî ve Kültürel Mirası

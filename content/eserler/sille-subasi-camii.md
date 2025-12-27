@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4136429,37.9241219"
 draft: false
+
+weight: 10
 ---
 
 ## Sille Subaşı Camii

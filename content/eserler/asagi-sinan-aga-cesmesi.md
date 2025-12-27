@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944882,41.036177"
 draft: false
+
+weight: 10
 ---
 
 ### Aşağı Sinan Ağa Çeşmesi

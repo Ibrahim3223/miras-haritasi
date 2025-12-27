@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.390203,38.516659"
 draft: false
+
+weight: 10
 ---
 
 ## Mher Kapısı: Van'ın Tarihî Mirası

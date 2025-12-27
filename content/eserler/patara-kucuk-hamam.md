@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.31469,36.262333"
 draft: false
+
+weight: 10
 ---
 
 ## Patara Küçük Hamam

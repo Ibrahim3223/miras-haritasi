@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.681586558,40.42011237"
 draft: false
+
+weight: 10
 ---
 
 ## Gelibolu Şehitliği

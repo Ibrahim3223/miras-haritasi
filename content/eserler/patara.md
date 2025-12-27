@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.314167,36.260278"
 draft: false
+
+weight: 10
 ---
 
 ### Patara: Antik Kentin Gizemi

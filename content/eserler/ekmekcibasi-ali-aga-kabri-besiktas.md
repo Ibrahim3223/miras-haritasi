@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0001087,41.0435257"
 draft: false
+
+weight: 100
 ---
 
 ## Ekmekçibaşı Ali Ağa Kabri: Beşiktaş'ta Bir Anıtın Tarihi

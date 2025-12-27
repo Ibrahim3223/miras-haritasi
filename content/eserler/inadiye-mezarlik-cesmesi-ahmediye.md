@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.018224,41.016682"
 draft: false
+
+weight: 10
 ---
 
 ## İnadiye Mezarlık Çeşmesi (Ahmediye)

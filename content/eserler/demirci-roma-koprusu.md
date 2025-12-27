@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.2196007,41.4329987"
 draft: false
+
+weight: 100
 ---
 
 ## Demirci Roma Köprüsü

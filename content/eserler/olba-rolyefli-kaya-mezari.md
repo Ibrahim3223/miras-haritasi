@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.9717026,36.5978622"
 draft: false
+
+weight: 100
 ---
 
 ## Olba Rölyefli Kaya Mezarı

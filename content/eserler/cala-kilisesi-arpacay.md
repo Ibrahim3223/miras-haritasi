@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.334,41.061527777"
 draft: false
+
+weight: 10
 ---
 
 **Çala Kilisesi: Arpaçay'da Bir İncelik**

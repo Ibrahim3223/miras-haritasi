@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0624542,40.1839371"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Münir Paşa Çeşmesi 2

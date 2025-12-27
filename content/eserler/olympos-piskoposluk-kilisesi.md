@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.4737339,36.3965111"
 draft: false
+
+weight: 100
 ---
 
 ## Olympos Piskoposluk Kilisesi

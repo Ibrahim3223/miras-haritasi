@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.956458,41.024006"
 draft: false
+
+weight: 100
 ---
 
 ## Aşık Paşazade Türbesi

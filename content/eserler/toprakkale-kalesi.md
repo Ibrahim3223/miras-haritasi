@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.136569,37.050362"
 draft: false
+
+weight: 100
 ---
 
 ## Toprakkale Kalesi: Osmaniye'nin Tarihi Çehresini Taşıyan Bir Miras

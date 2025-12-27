@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4912605,37.8757019"
 draft: false
+
+weight: 100
 ---
 
 ## Süt Tekkesi Çeşmesi: Konya'da Bir Çeşmenin Öyküsü

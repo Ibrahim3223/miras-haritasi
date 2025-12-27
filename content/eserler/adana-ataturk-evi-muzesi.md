@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.33194444,36.98861111"
 draft: false
+
+weight: 10
 ---
 
 ## Adana Atatürk Evi Müzesi

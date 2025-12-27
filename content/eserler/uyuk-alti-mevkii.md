@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.171367,38.36595"
 draft: false
+
+weight: 100
 ---
 
 ## Üyük Altı Mevkii: Sandıklı'nın Gizli Harikası

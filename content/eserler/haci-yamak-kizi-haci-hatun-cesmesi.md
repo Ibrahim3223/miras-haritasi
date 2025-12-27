@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1791,39.1161995"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Yamak Kızı Hacı Hatun Çeşmesi: Bergama'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.617542,40.013058"
 draft: false
+
+weight: 10
 ---
 
 ## Nişantaş Anıt

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7283878,40.4290085"
 draft: false
+
+weight: 100
 ---
 
 ## Çandarlı Türbesi

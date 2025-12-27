@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.2612316,37.7865637"
 draft: false
+
+weight: 100
 ---
 
 ## Colossae Antik Tiyatrosu

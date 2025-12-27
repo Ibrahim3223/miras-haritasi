@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0537796,41.3535805"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükmandıra Bağlık Tümülüsü

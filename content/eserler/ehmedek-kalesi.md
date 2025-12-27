@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.9927387,36.5368042"
 draft: false
+
+weight: 10
 ---
 
 ## Ehmedek Kalesi: Alanya'nın Gizli Gözdeleri

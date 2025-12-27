@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.1182788,39.6959487"
 draft: false
+
+weight: 100
 ---
 
 ## Ürk Tepesi Höyük: Eskişehir'in Gizli Mirası

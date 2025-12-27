@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.33413181,37.937859089"
 draft: false
+
+weight: 10
 ---
 
 ## Paulos Mağarası: İzmir'in Gizli Cenneti

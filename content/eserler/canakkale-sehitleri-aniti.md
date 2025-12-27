@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.21928,40.050164"
 draft: false
+
+weight: 10
 ---
 
 ## Çanakkale Şehitleri Anıtı

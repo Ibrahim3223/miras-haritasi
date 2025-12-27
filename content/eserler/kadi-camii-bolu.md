@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.60725,40.731638888"
 draft: false
+
+weight: 10
 ---
 
 ## Kadı Camii, Bolu: Bir Geçmişten Kalan Mimari Harikası

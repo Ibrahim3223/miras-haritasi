@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.002283,39.757606"
 draft: false
+
+weight: 100
 ---
 
 ### Köprübaşı Höyük: Alpu, Eskişehir'de Bir Arkeolojik Miras

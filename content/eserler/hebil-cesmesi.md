@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4020748,38.68116"
 draft: false
+
+weight: 100
 ---
 
 ## Hebil Çeşmesi

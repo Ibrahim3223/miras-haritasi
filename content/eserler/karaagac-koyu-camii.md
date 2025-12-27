@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.7158623,41.0090561"
 draft: false
+
+weight: 100
 ---
 
 ## Karaağaç Köyü Camii: Rize'nin Tarihi Bir Mirası

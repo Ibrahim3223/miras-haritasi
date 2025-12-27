@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2718563,41.163681"
 draft: false
+
+weight: 100
 ---
 
 **Bozhane Köyü Camii: İstanbul'un Gizli Cenneti**

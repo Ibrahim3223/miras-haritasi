@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6894531,41.2450371"
 draft: false
+
+weight: 10
 ---
 
 ## Kütükçü Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

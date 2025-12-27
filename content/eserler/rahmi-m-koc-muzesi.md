@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.94926,41.04227"
 draft: false
+
+weight: 10
 ---
 
 ### Rahmi M. Koç Müzesi

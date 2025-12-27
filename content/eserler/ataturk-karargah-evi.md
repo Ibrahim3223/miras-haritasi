@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.9791965,38.8545265"
 draft: false
+
+weight: 100
 ---
 
 ### Atatürk Karargah Evi Müzesi

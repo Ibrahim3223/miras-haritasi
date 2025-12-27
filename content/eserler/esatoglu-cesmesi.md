@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2823868,39.9153519"
 draft: false
+
+weight: 100
 ---
 
 ## Esatoğlu Çeşmesi: Yakutiye'nin Tarihine Bir Katkı

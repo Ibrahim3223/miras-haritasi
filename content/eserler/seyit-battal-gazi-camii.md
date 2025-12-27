@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.6946926,39.4421349"
 draft: false
+
+weight: 10
 ---
 
 ## Seyit Battal Gazi Camii: Eskişehir'in Tarihi Bir Mirası

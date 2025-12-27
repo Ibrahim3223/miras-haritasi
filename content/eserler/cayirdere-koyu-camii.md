@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5130558,41.7000275"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırdere Köyü Camii

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.929813,41.019809"
 draft: false
+
+weight: 100
 ---
 
 ## Sefa Hamamı

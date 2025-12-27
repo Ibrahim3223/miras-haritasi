@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7409821,38.083786"
 draft: false
+
+weight: 100
 ---
 
 ### Doğancıyan Çeşmesi: İzmir'in Tarihi Bir Ögesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.972141,41.016875"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Camii: İstanbul'un Tarihi bir Camisi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.712622275,41.805553974"
 draft: false
+
+weight: 100
 ---
 
 ## Bedesten Sokak Çeşmesi, Küre

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2167397,38.4700851"
 draft: false
+
+weight: 100
 ---
 
 ## Sokak Çeşmesi, Bornova

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.039751495,40.379998706"
 draft: false
+
+weight: 100
 ---
 
 ## Okçular Köyü Türbesi: Tarihi ve Kültürel Mirasın Örnekleri Arasından Bir

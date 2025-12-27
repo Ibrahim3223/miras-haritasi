@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.03137,41.08292"
 draft: false
+
+weight: 10
 ---
 
 ## Etiler Camii: Beşiktaş'ın Tarihi Bir Mirası

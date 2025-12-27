@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.7441826,37.3125648"
 draft: false
+
+weight: 100
 ---
 
 ## Mort Şimuni Kilisesi

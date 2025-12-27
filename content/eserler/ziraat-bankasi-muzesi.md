@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.85410278,39.93933611"
 draft: false
+
+weight: 10
 ---
 
 # Ziraat Bankası Müzesi: Türkiye'nin Agronomi ve Tarım Mirası

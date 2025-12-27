@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.708638888,39.917055555"
 draft: false
+
+weight: 100
 ---
 
 ## Etimesgut Camii: Etimesgut'un Tarihî Bir Cephesi

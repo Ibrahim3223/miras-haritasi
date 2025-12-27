@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973542694,41.040306"
 draft: false
+
+weight: 10
 ---
 
 ## Hoşyar Kadın Çeşmesi

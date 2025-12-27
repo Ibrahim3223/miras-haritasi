@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2296486,40.2602654"
 draft: false
+
+weight: 10
 ---
 
 ## Karasakal Camii Tanıtımı

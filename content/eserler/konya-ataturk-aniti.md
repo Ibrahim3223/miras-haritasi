@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.48525,37.867694444"
 draft: false
+
+weight: 10
 ---
 
 ## Konya Atatürk Anıtı

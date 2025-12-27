@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.7990093,41.1626587"
 draft: false
+
+weight: 100
 ---
 
 ## Tarihi Belediye Binası, Çorlu

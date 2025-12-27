@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "42.057833333,41.127861111"
 draft: false
+
+weight: 100
 ---
 
 ## Adakale Hamamı: Kars Oblastı'nda Bir Tarih Öreni

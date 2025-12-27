@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.4781799,36.3946304"
 draft: false
+
+weight: 10
 ---
 
 **Olympos Ceneviz Kalesi: Antalya'nın Tarihi Bir Mirası**

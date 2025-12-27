@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9364594,41.0288158"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrimah Sultan Hamamı, Edirnekapı

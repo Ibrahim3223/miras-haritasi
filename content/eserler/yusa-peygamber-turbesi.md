@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.3872,37.0619"
 draft: false
+
+weight: 100
 ---
 
 ## Yuşa Peygamber Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.5302063,36.2671262"
 draft: false
+
+weight: 100
 ---
 
 ### Tell Dhahab Höyüğü

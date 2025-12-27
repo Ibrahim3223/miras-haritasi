@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.148485,42.026845"
 draft: false
+
+weight: 100
 ---
 
 **Candaroğulları Türbesi**

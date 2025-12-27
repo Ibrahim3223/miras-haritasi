@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9584312,41.0244598"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Cibali: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.112795,37.805999"
 draft: false
+
+weight: 100
 ---
 
 **Hamzabali Höyüğü: Aydın'ın Gizli Anıtı**

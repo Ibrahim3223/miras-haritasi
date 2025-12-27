@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.03527778,41.22361111"
 draft: false
+
+weight: 10
 ---
 
 ## Opiza Manastırı: Tarihi ve Kültürel Mirasın Bir Parçası

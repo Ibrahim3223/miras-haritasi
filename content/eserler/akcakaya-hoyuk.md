@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.457883,39.59485"
 draft: false
+
+weight: 100
 ---
 
 ## Akçakaya Höyük: Eskişehir'in Gizli Mirası

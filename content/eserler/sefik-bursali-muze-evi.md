@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.853217,39.884189"
 draft: false
+
+weight: 100
 ---
 
 **Şefik Bursalı Müze Evi**

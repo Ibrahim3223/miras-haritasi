@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.165592,41.965573"
 draft: false
+
+weight: 100
 ---
 
 ## Ginolu Kalesi

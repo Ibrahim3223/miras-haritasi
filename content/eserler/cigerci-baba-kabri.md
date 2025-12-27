@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.92317452,41.016730872"
 draft: false
+
+weight: 100
 ---
 
 **Ciğerci Baba Kabri: Fatih'in Gizli Anıtı**

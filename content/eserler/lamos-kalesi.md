@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.24111111,36.55722222"
 draft: false
+
+weight: 10
 ---
 
 ### Lamos Kalesi

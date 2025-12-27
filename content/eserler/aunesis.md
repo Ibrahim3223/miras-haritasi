@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.920471,36.570274"
 draft: false
+
+weight: 100
 ---
 
 ## Aunesis Arkeolojik Sit: Tarih, Mimari Özellikler ve Ziyaret Bilgileri

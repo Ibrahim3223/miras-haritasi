@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1867008,39.1225014"
 draft: false
+
+weight: 100
 ---
 
 ### Parmak Batıran Çeşmesi: Bergama'nın Görsel Zirvesi

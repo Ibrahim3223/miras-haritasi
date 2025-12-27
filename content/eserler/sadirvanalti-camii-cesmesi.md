@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1350727,38.4210281"
 draft: false
+
+weight: 100
 ---
 
 ## Şadırvanaltı Camii Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası

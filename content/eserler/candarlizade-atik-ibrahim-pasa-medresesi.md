@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9680729,41.0144691"
 draft: false
+
+weight: 100
 ---
 
 ## Çandarlızade Atik İbrahim Paşa Medresesi

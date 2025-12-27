@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.058754,40.174311"
 draft: false
+
+weight: 100
 ---
 
 ## Ay Dede Türbesi: Bursa'nın Gizli Çarpıcısı

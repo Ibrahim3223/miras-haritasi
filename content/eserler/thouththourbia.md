@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.5797245,36.93999"
 draft: false
+
+weight: 100
 ---
 
 ## Thouththourbia: Eski Dünya'nın Gizli Harikası

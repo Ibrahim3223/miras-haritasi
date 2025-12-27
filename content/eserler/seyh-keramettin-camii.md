@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.386416,40.917038"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Keramettin Camii Tanıtımı

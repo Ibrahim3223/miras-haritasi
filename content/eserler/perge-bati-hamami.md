@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.8518047,36.9654922"
 draft: false
+
+weight: 100
 ---
 
 ## Perge Batı Hamamı: Antalya'nın Tarihî Zenginliklerinin Ortaya Çıkışı

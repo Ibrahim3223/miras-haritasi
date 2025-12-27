@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.236479,37.914928"
 draft: false
+
+weight: 100
 ---
 
 ## Zübeyde ve Leyla Hanım Türbesi: Diyarbakır'ın Tarihî Mirası

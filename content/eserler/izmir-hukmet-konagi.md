@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "27.129722222,38.418611111"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Hükûmet Konağı

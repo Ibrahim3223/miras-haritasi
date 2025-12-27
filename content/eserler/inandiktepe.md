@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.535277777,40.381111111"
 draft: false
+
+weight: 10
 ---
 
 ### İnandıktepe: Çankırı'nın Gizli Hazinesi

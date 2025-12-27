@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.944651611,41.037069427"
 draft: false
+
+weight: 10
 ---
 
 ## Ayvansaray Aya Dimitri Kilisesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8109016,39.9294891"
 draft: false
+
+weight: 100
 ---
 
 ## Ankara Frig Tümülüsü 8, Emniyet

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4816551,38.7260475"
 draft: false
+
+weight: 100
 ---
 
 ## Çandır Camii Çeşmesi

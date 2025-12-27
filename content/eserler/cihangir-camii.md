@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.987083333,41.030138888"
 draft: false
+
+weight: 10
 ---
 
 ## Cihangir Camii: İstanbul'un Gizli Çeşmesi

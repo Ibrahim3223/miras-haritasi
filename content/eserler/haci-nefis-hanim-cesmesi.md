@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0556927,41.2337914"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Nefis Hanım Çeşmesi: Sarıyer'in Tarihî Bir Çeşmesi

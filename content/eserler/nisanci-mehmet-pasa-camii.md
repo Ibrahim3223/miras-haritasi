@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.944916666,41.024138888"
 draft: false
+
+weight: 10
 ---
 
 ## Nişancı Mehmet Paşa Camii: İstanbul'un Gizli Çehresinde Bir Kıymetli Miras

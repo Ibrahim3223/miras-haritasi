@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.72277778,37.68069444"
 draft: false
+
+weight: 10
 ---
 
 ## Taşköprü, Beyşehir

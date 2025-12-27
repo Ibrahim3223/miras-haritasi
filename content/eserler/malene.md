@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.804206,39.200303"
 draft: false
+
+weight: 100
 ---
 
 # Malene Arkeolojik Sit

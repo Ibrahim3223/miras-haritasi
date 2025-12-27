@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5490093,41.6786499"
 draft: false
+
+weight: 10
 ---
 
 ### Gazi Hoca Camii: Edirne'nin Gerçek Hazinesi

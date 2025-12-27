@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.949849397,41.017447193"
 draft: false
+
+weight: 10
 ---
 
 ## Millet Kütüphanesi: İstanbul'un Kitap Evi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.562075,38.738844"
 draft: false
+
+weight: 100
 ---
 
 **Surp Stepanos Ermeni Kilisesi: Kayseri'nin Görsel Zengini**

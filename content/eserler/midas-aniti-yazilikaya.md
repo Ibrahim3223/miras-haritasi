@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.7136669,39.2004814"
 draft: false
+
+weight: 10
 ---
 
 ### Midas Anıtı (Yazılıkaya)

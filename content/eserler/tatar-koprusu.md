@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.5918522,38.2776833"
 draft: false
+
+weight: 100
 ---
 
 ## Tatar Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

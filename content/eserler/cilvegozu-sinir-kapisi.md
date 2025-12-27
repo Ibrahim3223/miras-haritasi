@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "36.67971,36.23383"
 draft: false
+
+weight: 10
 ---
 
 ## Cilvegözü Sınır Kapısı: Hatay'ın Gizli Çandırı

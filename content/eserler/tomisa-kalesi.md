@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.8161964,38.452137"
 draft: false
+
+weight: 100
 ---
 
 ## Tomisa Kalesi: Baskil'in Tarihî Mirası

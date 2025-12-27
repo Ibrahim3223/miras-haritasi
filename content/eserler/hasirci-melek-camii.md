@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9235535,41.0140495"
 draft: false
+
+weight: 100
 ---
 
 # Hasırcı Melek Camii: İstanbul'un Gizli Çehresinde Bir Örnek

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.8938,39.62265"
 draft: false
+
+weight: 100
 ---
 
 ## Akyurt Höyük: Eskişehir'in Gizli Mirası

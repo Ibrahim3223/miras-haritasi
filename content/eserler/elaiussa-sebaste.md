@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.173725,36.483624"
 draft: false
+
+weight: 10
 ---
 
 ## Elaiussa Sebaste: Tarihî Bir Mirasın Geri Dönüşü

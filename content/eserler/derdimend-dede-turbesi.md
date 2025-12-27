@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.94572,37.589469"
 draft: false
+
+weight: 100
 ---
 
 ## Derdimend Dede Türbesi

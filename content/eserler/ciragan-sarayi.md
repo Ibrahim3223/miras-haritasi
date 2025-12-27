@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "29.015388888,41.043444444"
 draft: false
+
+weight: 10
 ---
 
 ## Çırağan Sarayı: İstanbul'un Gizli Çiçeği

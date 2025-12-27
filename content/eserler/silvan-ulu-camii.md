@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.005083333,38.1425"
 draft: false
+
+weight: 100
 ---
 
 # Silvan Ulu Camii: Tarihi ve Kültürel Miras Değerinde Bir Örnek

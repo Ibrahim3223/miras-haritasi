@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.459008,38.747208"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Bayındır Mescidi

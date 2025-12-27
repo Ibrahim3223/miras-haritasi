@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.433943,40.203779"
 draft: false
+
+weight: 100
 ---
 
 ## Lopadion Arkeolojik Sit

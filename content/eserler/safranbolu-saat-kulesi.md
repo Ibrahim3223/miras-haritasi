@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "32.690416666,41.245916666"
 draft: false
+
+weight: 10
 ---
 
 ## Safranbolu Saat Kulesi: Karabük'te Bir Tarihî Miras

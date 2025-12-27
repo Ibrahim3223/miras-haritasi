@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97666667,41.00444444"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük Saray Mozaikleri Müzesi

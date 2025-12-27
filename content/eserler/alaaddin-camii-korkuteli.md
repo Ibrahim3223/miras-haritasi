@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1697235,37.0818176"
 draft: false
+
+weight: 100
 ---
 
 ## Alaaddin Camii, Korkuteli

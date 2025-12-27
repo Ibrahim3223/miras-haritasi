@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4664383,37.8719864"
 draft: false
+
+weight: 100
 ---
 
 # Hoca Ahmet Fakih Türbesi

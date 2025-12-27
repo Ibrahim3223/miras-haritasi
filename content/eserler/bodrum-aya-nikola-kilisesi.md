@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4315497,37.033381"
 draft: false
+
+weight: 10
 ---
 
 ### Bodrum Aya Nikola Kilisesi

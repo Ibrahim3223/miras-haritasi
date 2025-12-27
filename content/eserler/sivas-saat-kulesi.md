@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "37.015055555,39.745666666"
 draft: false
+
+weight: 100
 ---
 
 ## Sivas Saat Kulesi: Tarihi Bir Miras

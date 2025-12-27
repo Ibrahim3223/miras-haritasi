@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.2674835,39.0307584"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Harutyun Kilisesi (Yerkan)

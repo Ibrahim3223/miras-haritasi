@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5817661,37.278038"
 draft: false
+
+weight: 100
 ---
 
 ### Iasos Nekropolis ve Tonozlu Oda Mezarları

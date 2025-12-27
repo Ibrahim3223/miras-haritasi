@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "36.9655914,40.5921173"
 draft: false
+
+weight: 100
 ---
 
 ## Kulak Türbesi: Niksar'ın Gizli Çağından Bir Anı

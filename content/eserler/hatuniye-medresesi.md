@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "33.21138,37.1829376"
 draft: false
+
+weight: 10
 ---
 
 # Hatuniye Medresesi

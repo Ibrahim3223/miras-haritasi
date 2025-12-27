@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.753345,38.462816"
 draft: false
+
+weight: 100
 ---
 
 ## Troketta: Antik Bir Kentin İzleri

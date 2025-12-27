@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0937634,41.1347466"
 draft: false
+
+weight: 10
 ---
 
 ### Ahi Baba Hafız El-Hac İbrahim Çeşmesi

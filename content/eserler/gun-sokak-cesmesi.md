@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.953001,40.7962151"
 draft: false
+
+weight: 100
 ---
 
 ## Gün Sokak Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.4790993,40.4595375"
 draft: false
+
+weight: 100
 ---
 
 ### Kemaliye Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.93775,41.006527777"
 draft: false
+
+weight: 10
 ---
 
 ## Davud Paşa Camii: İstanbul'un Tarihî Camileri Arasındaki Bir Öncü

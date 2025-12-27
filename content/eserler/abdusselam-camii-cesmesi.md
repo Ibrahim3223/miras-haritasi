@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.7723503,40.9917564"
 draft: false
+
+weight: 10
 ---
 
 ## Abdüsselam Camii Çeşmesi

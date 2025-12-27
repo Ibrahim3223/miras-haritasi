@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.1718636,39.4909782"
 draft: false
+
+weight: 100
 ---
 
 ## Oğul Paşa Türbesi

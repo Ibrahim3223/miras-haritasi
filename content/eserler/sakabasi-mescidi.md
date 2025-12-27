@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.984234859,41.029103226"
 draft: false
+
+weight: 100
 ---
 
 ## Sakabaşı Mescidi: Beyoğlu'ndaki Bir Önemli Cami

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.348888888,38.201666666"
 draft: false
+
+weight: 10
 ---
 
 ## Key Museum

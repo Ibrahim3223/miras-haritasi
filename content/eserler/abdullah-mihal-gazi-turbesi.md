@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.422408086,40.126133118"
 draft: false
+
+weight: 100
 ---
 
 # Abdullah Mihal Gazi Türbesi

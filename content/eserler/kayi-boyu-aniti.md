@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0090141,40.1190376"
 draft: false
+
+weight: 100
 ---
 
 ### Kayı Boyu Anıtı: Bilecik'in Tarihi ve Kültürel Mirası

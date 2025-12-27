@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.407421,40.146442"
 draft: false
+
+weight: 100
 ---
 
 ## Seddülbahir Çanakkale Savaşları Galerisi

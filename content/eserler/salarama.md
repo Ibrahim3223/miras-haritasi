@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8104235,38.008246"
 draft: false
+
+weight: 100
 ---
 
 ## Salarama

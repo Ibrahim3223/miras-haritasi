@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28794,40.23036"
 draft: false
+
+weight: 10
 ---
 
 ## Lone Pine Anıtı

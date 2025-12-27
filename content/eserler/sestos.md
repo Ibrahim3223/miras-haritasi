@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.383333333,40.216666666"
 draft: false
+
+weight: 10
 ---
 
 # Sestos: Antik Çağın Gizli Harikası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.303055555,38.322472222"
 draft: false
+
+weight: 10
 ---
 
 ## Pandrot Osman Ağa Camii

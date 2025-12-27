@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.1062088,38.3983002"
 draft: false
+
+weight: 100
 ---
 
 ## Memi Dede Mescidi ve Türbesi

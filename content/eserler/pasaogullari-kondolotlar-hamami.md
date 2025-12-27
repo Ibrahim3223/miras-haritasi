@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.223551,40.256521"
 draft: false
+
+weight: 10
 ---
 
 ## Paşaoğulları Kondolotlar Hamamı

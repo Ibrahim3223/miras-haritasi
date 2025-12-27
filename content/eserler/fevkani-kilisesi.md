@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.7873,37.0118"
 draft: false
+
+weight: 10
 ---
 
 ## Fevkani Kilisesi

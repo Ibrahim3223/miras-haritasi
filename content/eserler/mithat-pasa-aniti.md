@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.853944444,39.938916666"
 draft: false
+
+weight: 10
 ---
 
 ### Mithat Paşa Anıtı: Ankara'nın Tarihi Anıtı

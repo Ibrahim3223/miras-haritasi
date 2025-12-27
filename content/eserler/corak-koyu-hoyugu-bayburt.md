@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.973526,40.254011"
 draft: false
+
+weight: 100
 ---
 
 ### Çorak Köyü Höyüğü, Bayburt

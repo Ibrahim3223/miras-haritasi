@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978359,41.037453"
 draft: false
+
+weight: 10
 ---
 
 ## II. Mahmut Çeşmesi: Beyoğlu'ndaki Bir Ören

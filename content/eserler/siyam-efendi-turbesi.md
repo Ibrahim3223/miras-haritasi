@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.7218361,36.8614006"
 draft: false
+
+weight: 100
 ---
 
 ## Siyam Efendi Türbesi

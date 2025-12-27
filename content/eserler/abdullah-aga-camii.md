@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.042896,41.042708"
 draft: false
+
+weight: 10
 ---
 
 ## Abdullah Ağa Camii: Beylerbeyi'de Bir Öncü

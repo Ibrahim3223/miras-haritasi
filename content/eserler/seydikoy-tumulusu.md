@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1358871,38.3370552"
 draft: false
+
+weight: 10
 ---
 
 ## Seydiköy Tümülüsü

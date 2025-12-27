@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.842617,37.8512421"
 draft: false
+
+weight: 100
 ---
 
 ### Gümrükönü Hamamı

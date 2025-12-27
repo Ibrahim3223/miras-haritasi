@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.0667,38.6081009"
 draft: false
+
+weight: 100
 ---
 
 ### Karakadı Hamamı: Tarihî ve Mimari Bir Çıkın

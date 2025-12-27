@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9728031,41.0045547"
 draft: false
+
+weight: 100
 ---
 
 ## Üçler Hamamı: Osmanlı Döneminin Gizli Çehresi

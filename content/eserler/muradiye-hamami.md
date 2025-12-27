@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0450325,40.1908798"
 draft: false
+
+weight: 100
 ---
 
 ### Muradiye Hamamı

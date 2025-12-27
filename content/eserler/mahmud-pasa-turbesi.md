@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.971303,41.0108759"
 draft: false
+
+weight: 10
 ---
 
 ## Mahmud Paşa Türbesi: Fatih'te Bir Aziz Ruhun Ebedi Yurdu

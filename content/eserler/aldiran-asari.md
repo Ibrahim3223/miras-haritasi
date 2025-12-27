@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.2681484,37.2275543"
 draft: false
+
+weight: 100
 ---
 
 # Aldıran Asarı

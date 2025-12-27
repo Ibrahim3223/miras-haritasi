@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.05541015,39.52426956"
 draft: false
+
+weight: 100
 ---
 
 ### Ovacık Sultan Türbesi: Havran'ın Gizli Anıtı

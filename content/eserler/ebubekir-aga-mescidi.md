@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7490196,38.0821152"
 draft: false
+
+weight: 100
 ---
 
 ## Ebubekir Ağa Mescidi: Tarih ve Kültür Mirası

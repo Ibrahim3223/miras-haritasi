@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.08602778,37.78283333"
 draft: false
+
+weight: 10
 ---
 
 ## Denizli Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri

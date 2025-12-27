@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.128444444,38.419361111"
 draft: false
+
+weight: 10
 ---
 
 ## İlk Kurşun Anıtı: İzmir'in Tarihi Mirası

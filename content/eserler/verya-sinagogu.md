@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.945722222,41.033388888"
 draft: false
+
+weight: 100
 ---
 
 ## Verya Sinagogu: İstanbul'un Gizli Cenneti

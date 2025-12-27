@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.7504807,37.3164482"
 draft: false
+
+weight: 100
 ---
 
 # Sultan Hamza Türbesi

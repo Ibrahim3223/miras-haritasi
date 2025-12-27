@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.3651161,37.9495277"
 draft: false
+
+weight: 100
 ---
 
 ## Hamam 4: Selçuk, İzmir'in Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.08083333,40.18111111"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Özbek Camii

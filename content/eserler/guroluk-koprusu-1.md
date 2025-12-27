@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.059017,41.0199"
 draft: false
+
+weight: 100
 ---
 
 ## Güroluk Köprüsü 1

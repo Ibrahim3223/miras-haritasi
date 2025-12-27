@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.404611111,38.676444444"
 draft: false
+
+weight: 100
 ---
 
 ## Çakaloz Camii

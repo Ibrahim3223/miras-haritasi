@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.676914102,36.912785768"
 draft: false
+
+weight: 100
 ---
 
 ## Anadolu Oyuncak Müzesi: Kepez'in Tarihsel Bir Çılgınlığı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.704444444,36.886388888"
 draft: false
+
+weight: 10
 ---
 
 ## Yivli Minare: Antalya'nın Tarihsel ve Kültürel Mirası

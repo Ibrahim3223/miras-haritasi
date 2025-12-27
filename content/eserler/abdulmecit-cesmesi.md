@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.982613,41.039898"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülmecit Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.185205,36.945624"
 draft: false
+
+weight: 100
 ---
 
 ## Amnista: Marmaris'in Gizli Şehri

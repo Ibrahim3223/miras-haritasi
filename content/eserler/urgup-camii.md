@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8683243,39.9364319"
 draft: false
+
+weight: 100
 ---
 
 ### Ürgüp Camii: Ankara'nın Gizli Cenneti

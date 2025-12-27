@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.026489,41.04763"
 draft: false
+
+weight: 10
 ---
 
 ## İbrahim Paşa Çeşmesi, Ortaköy

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0449257,40.1886406"
 draft: false
+
+weight: 10
 ---
 
 ## Azep Bey Camii: Bursa'nın Tarihî ve Kültürel Mirasının Bir Parçası

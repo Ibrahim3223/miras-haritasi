@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.2341499,37.910038"
 draft: false
+
+weight: 100
 ---
 
 ## Dengbej Evi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.625808,40.621147"
 draft: false
+
+weight: 100
 ---
 
 ## Kuşluvan Mahallesi Kilisesi Gölköy

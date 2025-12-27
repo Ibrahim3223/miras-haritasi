@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.72017,40.4292"
 draft: false
+
+weight: 1
 ---
 
 ## İznik Ayasofya Camii: Türkiyeminin En Eski ve Önemli Camileri Arasinda Duran Bir Miras

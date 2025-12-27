@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.349939815,37.809221242"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 2, Esenköy: Aydın'ın Tarihi Bir Çeşmesi

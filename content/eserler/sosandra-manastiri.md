@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "27.25011,38.6142"
 draft: false
+
+weight: 100
 ---
 
 ## Sosandra Manastırı

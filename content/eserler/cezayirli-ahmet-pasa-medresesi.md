@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9780159,41.0142593"
 draft: false
+
+weight: 100
 ---
 
 ## Cezayirli Ahmet Paşa Medresesi: Tarihi ve Kültürel Mirasın Özü

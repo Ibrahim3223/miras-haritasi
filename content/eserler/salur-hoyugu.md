@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.82145,37.70289"
 draft: false
+
+weight: 100
 ---
 
 **Salur Höyüğü: Tarihî Mirasın Gizemi**

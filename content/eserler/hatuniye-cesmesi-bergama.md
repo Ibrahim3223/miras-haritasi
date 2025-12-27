@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1776981,39.1161995"
 draft: false
+
+weight: 10
 ---
 
 ## Hatuniye Çeşmesi, Bergama

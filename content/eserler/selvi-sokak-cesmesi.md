@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.609599,41.174706"
 draft: false
+
+weight: 100
 ---
 
 ## Selvi Sokak Çeşmesi: Şile'nin Tarihî Bir Mirası

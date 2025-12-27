@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.225942,40.919455"
 draft: false
+
+weight: 10
 ---
 
 ## İsmail Bey Çeşmesi: Kartal'da Bir Altın Çeşme

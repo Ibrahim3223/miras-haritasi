@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.977551,41.096561"
 draft: false
+
+weight: 100
 ---
 
 ### Kınıklıdere Köprüsü: Tekirdağ'ın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.407741,38.678606"
 draft: false
+
+weight: 100
 ---
 
 ## Uşak Kent Tarihi Müzesi

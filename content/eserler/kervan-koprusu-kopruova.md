@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7586861,37.9546127"
 draft: false
+
+weight: 100
 ---
 
 ## Kervan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

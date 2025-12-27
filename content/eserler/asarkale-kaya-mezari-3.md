@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.7651863,41.3733978"
 draft: false
+
+weight: 100
 ---
 
 ## Asarkale Kaya Mezarı -3: Trabzon'un Gizli Anıtı

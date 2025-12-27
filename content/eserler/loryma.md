@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.015277777,36.566111111"
 draft: false
+
+weight: 10
 ---
 
 ## Loryma: Muğla'nın Altın Sahili'nde Bir Arkeolojik Sit

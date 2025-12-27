@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.16472222,39.86527778"
 draft: false
+
+weight: 10
 ---
 
 ### Sultançayır Köprüsü: Geçmişi ve Etkisi

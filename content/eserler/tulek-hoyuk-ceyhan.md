@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.8799057,36.9552383"
 draft: false
+
+weight: 100
 ---
 
 ## Tülek Höyük, Ceyhan: Tarihî Bir Mirasın İzleri

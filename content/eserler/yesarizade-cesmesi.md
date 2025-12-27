@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.034916,41.020211"
 draft: false
+
+weight: 100
 ---
 
 ## Yesarizade Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi

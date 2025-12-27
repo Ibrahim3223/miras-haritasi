@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.917367,41.093233"
 draft: false
+
+weight: 100
 ---
 
 ### Ortayol Köprüsü: Pazar, Rize'nin Efsanevi Köprüsü

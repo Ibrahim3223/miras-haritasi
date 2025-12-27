@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.965757,41.03223"
 draft: false
+
+weight: 10
 ---
 
 ## Kaptan Hüseyin Paşa Çeşmesi

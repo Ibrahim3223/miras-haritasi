@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.326297222,40.618013888"
 draft: false
+
+weight: 100
 ---
 
 ### Leksori Manastırı: Birkaç Yüzyıllık Geçmişi ve Etkileyici Mimarisine Sahip Bir Manastır

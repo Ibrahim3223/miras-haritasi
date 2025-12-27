@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5685043,41.6694221"
 draft: false
+
+weight: 10
 ---
 
 ## Nazır Mehmet Bey Çeşmesi

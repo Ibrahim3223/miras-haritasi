@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.215037,41.099999"
 draft: false
+
+weight: 100
 ---
 
 # Kelesa: Eski Çağ'ın Gizemi

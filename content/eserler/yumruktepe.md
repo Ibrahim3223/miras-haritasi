@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.473028,39.047444"
 draft: false
+
+weight: 10
 ---
 
 ## Yumruktepe Arkeolojik Sit

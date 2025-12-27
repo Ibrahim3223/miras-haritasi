@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.750652,40.856523"
 draft: false
+
+weight: 100
 ---
 
 ## Prepa: Türkiye'nin Gizli Arkeolojik Mirası

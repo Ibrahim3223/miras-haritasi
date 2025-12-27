@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.9530029,39.929512"
 draft: false
+
+weight: 100
 ---
 
 ## Araplar Köyü Çeşmesi: Mamak'taki Bir Örnek

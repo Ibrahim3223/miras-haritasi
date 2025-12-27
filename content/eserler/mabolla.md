@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.381291,37.224849"
 draft: false
+
+weight: 100
 ---
 
 ## Mabolla: Muğla'nın Gizli Çağı

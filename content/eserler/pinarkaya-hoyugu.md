@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.7242146,37.110666"
 draft: false
+
+weight: 100
 ---
 
 ### Pınarkaya Höyüğü

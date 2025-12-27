@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.019859,41.013031"
 draft: false
+
+weight: 10
 ---
 
 ## Fethi Ahmet Paşa Camii

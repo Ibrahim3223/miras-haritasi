@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8561192,37.8484421"
 draft: false
+
+weight: 100
 ---
 
 ## Karacaahmet Sultan Türbesi: Aydın'ın Tarihi ve Kültürel Mirası

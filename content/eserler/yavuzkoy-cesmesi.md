@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0866261,37.8698349"
 draft: false
+
+weight: 100
 ---
 
 ## Yavuzköy Çeşmesi

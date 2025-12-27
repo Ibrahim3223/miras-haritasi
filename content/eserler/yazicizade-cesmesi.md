@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.269146,39.9034309"
 draft: false
+
+weight: 100
 ---
 
 ## Yazıcızade Çeşmesi: Yakutiye'nin Tarihî Çeşmesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.6198196,38.9592438"
 draft: false
+
+weight: 100
 ---
 
 ### Yılan Kalesi, Muş

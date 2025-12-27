@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.317688,37.7596207"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Camii: Siverek'in Tarihi Bir Mirası

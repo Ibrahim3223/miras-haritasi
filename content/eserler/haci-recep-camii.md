@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9867935,41.0333595"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Recep Camii: Beyoğlu'ndaki Bir Tarihi Özellik

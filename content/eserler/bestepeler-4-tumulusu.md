@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9288292,41.1674271"
 draft: false
+
+weight: 100
 ---
 
 ## Beştepeler 4 Tümülüsü: Edirne'nin Gizli Mirası

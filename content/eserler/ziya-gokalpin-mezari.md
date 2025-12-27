@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9728528,41.0086872"
 draft: false
+
+weight: 100
 ---
 
 # Ziya Gökalp'in Mezarı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.3371124,40.650856"
 draft: false
+
+weight: 100
 ---
 
 ## Çifteler Köprüsü: Giresun'un Tarihî ve Kültürel Mirası

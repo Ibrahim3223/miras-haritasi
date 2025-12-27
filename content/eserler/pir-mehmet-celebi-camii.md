@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.8340302,40.6515503"
 draft: false
+
+weight: 10
 ---
 
 ### Pir Mehmet Çelebi Camii Tanıtımı

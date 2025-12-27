@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.5125,40.975555555"
 draft: false
+
+weight: 10
 ---
 
 ## Tekirdağ Arkeoloji ve Etnografya Müzesi

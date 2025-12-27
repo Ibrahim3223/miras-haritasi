@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946388888,41.029166666"
 draft: false
+
+weight: 10
 ---
 
 ## Fethiye Camii: İstanbul'un Gizli Cenneti

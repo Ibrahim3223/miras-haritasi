@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.0929298,38.2553101"
 draft: false
+
+weight: 10
 ---
 
 ## Eğil Kalesi: Tarihçesi ve Ziyaret Bilgileri

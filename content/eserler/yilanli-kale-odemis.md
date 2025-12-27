@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.1235714,38.2996407"
 draft: false
+
+weight: 100
 ---
 
 ### Yılanlı Kale: İzmir'in Tarihî Bir Çehresi

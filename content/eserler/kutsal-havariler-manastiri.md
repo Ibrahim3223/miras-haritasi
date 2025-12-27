@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.519517,38.695786"
 draft: false
+
+weight: 10
 ---
 
 ## Kutsal Havariler Manastırı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.85834782,39.941720298"
 draft: false
+
+weight: 100
 ---
 
 ## Anonim Çeşme-7, Altındağ: Ankara'nın Gizli Bir Çeşmesi

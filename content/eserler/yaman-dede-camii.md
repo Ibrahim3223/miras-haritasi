@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.5647185,38.687775"
 draft: false
+
+weight: 10
 ---
 
 ## Yaman Dede Camii: Talas'taki Önemli Kültür Mirası

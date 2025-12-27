@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.8777084,39.6610413"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbulluoğlu Camii: Akdağmadeni'nin Tarihi ve Kültürel Mirası

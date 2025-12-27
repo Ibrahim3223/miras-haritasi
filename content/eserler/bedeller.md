@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.778,38.6856"
 draft: false
+
+weight: 100
 ---
 
 ## Bedeller Arkeolojik Sit

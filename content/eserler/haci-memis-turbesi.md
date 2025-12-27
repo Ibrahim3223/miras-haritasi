@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.929908,37.610038"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Memiş Türbesi: Seydişehir'in Gizli Cenneti

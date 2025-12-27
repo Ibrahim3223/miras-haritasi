@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4684181,40.7369614"
 draft: false
+
+weight: 100
 ---
 
 ### Çatlakdere Hacı Ali Çeşmesi: İskilip'in Tarihi Mirası

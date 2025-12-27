@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.10882,40.7597961"
 draft: false
+
+weight: 100
 ---
 
 ## Aydınpınar Camii: Düzce'nin Tarihi Özellikleri

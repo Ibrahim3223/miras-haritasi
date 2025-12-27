@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8633461,39.9342079"
 draft: false
+
+weight: 100
 ---
 
 ## Dibekoğlu Süleyman Çeşmesi

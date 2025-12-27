@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.414722,40.371389"
 draft: false
+
+weight: 10
 ---
 
 # Tekor Bazilikası

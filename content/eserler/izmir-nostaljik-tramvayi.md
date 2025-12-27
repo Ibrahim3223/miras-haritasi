@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.140277777,38.436666666"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Nostaljik Tramvayı: Bir Zengin Tarih ve Kültür Mirası

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.5048218,37.8706398"
 draft: false
+
+weight: 100
 ---
 
 **Mevlana Külliyesi Tilavet Odası**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1801529,39.1252937"
 draft: false
+
+weight: 100
 ---
 
 ## Soğan Dere Sokak Çeşmesi, Bergama

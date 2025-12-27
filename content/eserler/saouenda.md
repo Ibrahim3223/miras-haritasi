@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.944572,38.098071"
 draft: false
+
+weight: 100
 ---
 
 ## Saouenda: Tarihî Bir Mirasın İzleri

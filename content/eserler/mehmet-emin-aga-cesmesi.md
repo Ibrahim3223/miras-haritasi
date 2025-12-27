@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.948858,41.018593"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Emin Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "38.7890663,37.1491623"
 draft: false
+
+weight: 100
 ---
 
 ## Arasa Hamamı: Şanlıurfa'nın Tarihî ve Kültürel Mirası

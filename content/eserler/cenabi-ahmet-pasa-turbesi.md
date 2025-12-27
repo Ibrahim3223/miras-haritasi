@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8707123,39.9369812"
 draft: false
+
+weight: 10
 ---
 
 ### Cenabi Ahmet Paşa Türbesi: Altındağ'ın Gizli Cenneti

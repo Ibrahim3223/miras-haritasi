@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973611,41.005743"
 draft: false
+
+weight: 100
 ---
 
 ### Hatice Kadın Çeşmesi

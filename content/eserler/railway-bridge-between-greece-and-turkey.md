@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.6311,41.3621"
 draft: false
+
+weight: 10
 ---
 
 ## Railway Bridge Between Greece and Turkey: Edirne-Kırklareli Sınır Köprüsü

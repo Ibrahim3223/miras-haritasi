@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978622,41.012531"
 draft: false
+
+weight: 10
 ---
 
 ### Zeynep Sultan Çeşmesi: Fatih'in Öyküsü

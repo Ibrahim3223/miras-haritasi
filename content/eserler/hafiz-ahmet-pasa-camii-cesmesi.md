@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9475466,41.0218844"
 draft: false
+
+weight: 100
 ---
 
 ### Hafız Ahmet Paşa Camii Çeşmesi

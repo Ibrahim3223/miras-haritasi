@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.294538,40.459405"
 draft: false
+
+weight: 100
 ---
 
 ## Charmidea Arkeolojik Sit

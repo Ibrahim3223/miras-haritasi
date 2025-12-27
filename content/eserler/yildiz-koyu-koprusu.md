@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.178198,40.497543"
 draft: false
+
+weight: 100
 ---
 
 ### Yıldız Köyü Köprüsü: Torul'un Gizli Mirası

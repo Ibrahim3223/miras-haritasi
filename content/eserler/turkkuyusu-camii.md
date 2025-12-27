@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4306355,37.0386505"
 draft: false
+
+weight: 100
 ---
 
 ## Türkkuyusu Camii: Bodrum'un Tarihi Mirası

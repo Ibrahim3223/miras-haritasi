@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8801575,39.6489182"
 draft: false
+
+weight: 100
 ---
 
 ### Zağanos Paşa Camii Çeşmesi: Tarihi ve Kültürel Bir Miras

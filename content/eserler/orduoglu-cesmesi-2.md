@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.7093849,38.6222496"
 draft: false
+
+weight: 100
 ---
 
 ## Orduoğlu Çeşmesi 2: Nevşehir'in Tarihî Mirası

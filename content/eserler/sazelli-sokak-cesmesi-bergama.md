@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1842995,39.1240005"
 draft: false
+
+weight: 100
 ---
 
 ### Şazelli Sokak Çeşmesi, Bergama

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.069352,36.553448"
 draft: false
+
+weight: 10
 ---
 
 ## Gemiler Adası: Muğla'nın Gizli Cenneti

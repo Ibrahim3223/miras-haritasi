@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.910277777,40.358333333"
 draft: false
+
+weight: 10
 ---
 
 ## Son Kurşun Anıtı

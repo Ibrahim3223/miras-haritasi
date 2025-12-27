@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.5941582,39.1476669"
 draft: false
+
+weight: 100
 ---
 
 ## Ocak Köyü Özel Müzesi, Kemaliye

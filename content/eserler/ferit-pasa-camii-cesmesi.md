@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5179443,37.8717499"
 draft: false
+
+weight: 100
 ---
 
 ## Ferit Paşa Camii Çeşmesi

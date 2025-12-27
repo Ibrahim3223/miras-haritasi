@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.7911606,39.1242981"
 draft: false
+
+weight: 100
 ---
 
 ## Düzgün Baba Anıt'ı

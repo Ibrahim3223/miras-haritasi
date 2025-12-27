@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.984444444,39.416388888"
 draft: false
+
+weight: 10
 ---
 
 ### Kütahya Saray Camii: Tarihi ve Kültürel Mirasının Bir Örneği

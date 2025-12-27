@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6973,41.2463875"
 draft: false
+
+weight: 10
 ---
 
 ### Akçasu Sokak Çeşmesi

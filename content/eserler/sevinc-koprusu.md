@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.627395,40.840156"
 draft: false
+
+weight: 100
 ---
 
 ## Sevinç Köprüsü: Yağlıdere'nin Tarihi ve Kültürel Mirası

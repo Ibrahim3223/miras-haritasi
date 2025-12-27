@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.2425243,36.468441"
 draft: false
+
+weight: 100
 ---
 
 # Herkül Köprüsü: Alanya'nın Tarihçesi ve Mimari Harikası

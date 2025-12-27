@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.981101,41.029211"
 draft: false
+
+weight: 10
 ---
 
 ### Kethüda Yusuf Efendi Çeşmesi

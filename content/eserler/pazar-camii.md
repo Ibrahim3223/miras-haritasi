@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.331722222,41.2945"
 draft: false
+
+weight: 100
 ---
 
 ### Pazar Camii

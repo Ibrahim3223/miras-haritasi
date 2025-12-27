@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6772881,37.4763015"
 draft: false
+
+weight: 100
 ---
 
 **Titriş Höyük**

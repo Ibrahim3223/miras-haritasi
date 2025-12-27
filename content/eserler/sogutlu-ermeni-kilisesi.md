@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.0649757,40.1985855"
 draft: false
+
+weight: 100
 ---
 
 ### Söğütlü Ermeni Kilisesi

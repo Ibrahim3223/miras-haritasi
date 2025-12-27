@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.986357,41.008442"
 draft: false
+
+weight: 100
 ---
 
 ### Ahırkapı Feneri Çeşmesi

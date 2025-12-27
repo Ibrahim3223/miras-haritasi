@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.06805556,41.12027778"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniköy Aya Nikola Rum Ortodoks Kilisesi

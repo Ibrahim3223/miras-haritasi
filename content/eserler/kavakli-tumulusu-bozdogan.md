@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.3036995,37.7514992"
 draft: false
+
+weight: 100
 ---
 
 ### Kavaklı Tümülüsü

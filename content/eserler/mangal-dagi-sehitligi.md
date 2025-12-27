@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4567261,39.2159119"
 draft: false
+
+weight: 100
 ---
 
 ## Mangal Dağı Şehitliği

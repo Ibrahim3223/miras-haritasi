@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.949358,41.0307922"
 draft: false
+
+weight: 10
 ---
 
 ## Metroloji Kilisesi

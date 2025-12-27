@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4959545,40.3929253"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkız Türbesi: Taraklı'nın Gizli Çehresi

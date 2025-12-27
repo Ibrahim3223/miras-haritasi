@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.878983818,39.939182704"
 draft: false
+
+weight: 100
 ---
 
 ## Beylik Değirmeni Köprüsü: Ankara'nın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.465806,40.461773"
 draft: false
+
+weight: 100
 ---
 
 ### Özcan Mahallesi Köprüsü

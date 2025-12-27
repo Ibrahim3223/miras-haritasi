@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.0760956,38.4796524"
 draft: false
+
+weight: 100
 ---
 
 ### Hamza Rüstem Fotoğraf Evi

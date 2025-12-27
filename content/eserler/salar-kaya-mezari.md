@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6857681,41.5327339"
 draft: false
+
+weight: 100
 ---
 
 ## Salar Kaya Mezarı: Boyabat'taki Tarihî Bir Anıt

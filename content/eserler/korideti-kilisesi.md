@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.60125,41.296333333"
 draft: false
+
+weight: 100
 ---
 
 ## Korideti Kilisesi: Tarihi ve Kültürel Miras

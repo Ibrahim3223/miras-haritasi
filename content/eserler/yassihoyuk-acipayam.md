@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.3287792,37.5163345"
 draft: false
+
+weight: 100
 ---
 
 ## Yassıhöyük: Acıpayam'ın Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.149028,39.461577"
 draft: false
+
+weight: 100
 ---
 
 ### Polymedion: Ayvacık'ın Eski Efsanesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0679474,40.1842499"
 draft: false
+
+weight: 100
 ---
 
 # Şerafettin Paşa Camii

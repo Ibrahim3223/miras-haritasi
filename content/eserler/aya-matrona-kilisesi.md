@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.4810848,38.38134"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Matrona Kilisesi

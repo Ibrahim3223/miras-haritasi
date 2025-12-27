@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.214722222,38.441388888"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşilova Höyüğü: İzmir'nin Gizli Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8470325,40.1912575"
 draft: false
+
+weight: 100
 ---
 
 ## Apalir Mevki Manastırı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.928551,40.995331"
 draft: false
+
+weight: 100
 ---
 
 ## Dülbendcizade Çeşmesi: Yedikule'nin Tarihî Bir Hatırası

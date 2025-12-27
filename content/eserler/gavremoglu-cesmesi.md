@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4924164,38.720108"
 draft: false
+
+weight: 100
 ---
 
 ### Gavremoğlu Çeşmesi: Melikgazi'nin Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "28.9610329,41.0121536"
 draft: false
+
+weight: 100
 ---
 
 ## Deruni Mehmet Efendi Türbesi

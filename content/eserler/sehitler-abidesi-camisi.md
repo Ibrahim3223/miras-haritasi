@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.220111111,40.050805555"
 draft: false
+
+weight: 100
 ---
 
 ## Şehitler Abidesi Camisi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8502,36.1971"
 draft: false
+
+weight: 10
 ---
 
 ## Teimiussa Arkeolojik Sit

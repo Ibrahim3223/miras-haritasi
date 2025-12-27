@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.595458,38.630906"
 draft: false
+
+weight: 100
 ---
 
 ## Dioskouria: Eski Yunanistan'ın Gizemi

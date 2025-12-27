@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.487222222,38.721388888"
 draft: false
+
+weight: 10
 ---
 
 ## Bürüngüz Camii: Kayseri'nin Gizli Çehresinde Bir Aziz

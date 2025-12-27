@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.057675,41.129319444"
 draft: false
+
+weight: 100
 ---
 
 ## Artanuci Kilisesi: Ardanuç'un Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0524788,40.1854439"
 draft: false
+
+weight: 10
 ---
 
 ### Şeyh Paşa Dibekli Camii: Bursa'nın Tarihi Esrarlarından Birisi

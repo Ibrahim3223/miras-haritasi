@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.997156,41.038127"
 draft: false
+
+weight: 1
 ---
 
 ### Dolmabahçe Sarayı Hazine Kapısı

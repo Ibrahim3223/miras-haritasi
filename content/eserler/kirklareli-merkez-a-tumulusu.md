@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2190323,41.7124825"
 draft: false
+
+weight: 100
 ---
 
 ## Kırklareli Merkez A Tümülüsü

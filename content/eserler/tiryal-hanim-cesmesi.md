@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.065005,41.027024"
 draft: false
+
+weight: 100
 ---
 
 ## Tiryal Hanım Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

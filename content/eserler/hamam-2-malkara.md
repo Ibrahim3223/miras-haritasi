@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.9024906,40.8900795"
 draft: false
+
+weight: 100
 ---
 
 ## Hamam 2, Malkara: Tarihi ve Kültürel Mirasın Gizemi

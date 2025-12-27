@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9684258,41.0137177"
 draft: false
+
+weight: 100
 ---
 
 ## Valide Han İran Camii: Fatih'te bir Tarih ve Kültür Mirası

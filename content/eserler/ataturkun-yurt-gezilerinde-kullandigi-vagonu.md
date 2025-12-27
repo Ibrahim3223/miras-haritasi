@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8424416,39.9365273"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk'ün Yurt Gezilerinde Kullandığı Vagonu

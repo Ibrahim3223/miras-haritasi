@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.9548321,41.2192497"
 draft: false
+
+weight: 100
 ---
 
 ## Vakıf Çeşmesi: Devrek'teki Bir Tarihi Anıt

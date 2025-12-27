@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.115883,40.862083"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükada Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi

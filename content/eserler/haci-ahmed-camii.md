@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.973833333,41.040861111"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ahmed Camii: Beyoğlu'nun Gizli Cenneti

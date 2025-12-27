@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.1910973,40.5184784"
 draft: false
+
+weight: 100
 ---
 
 ### Emirler Kilisesi: Gümüşhane'nin Gizli Çehresi

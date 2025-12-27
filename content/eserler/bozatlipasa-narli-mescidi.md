@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.480175,38.7202072"
 draft: false
+
+weight: 100
 ---
 
 ## Bozatlıpaşa Narlı Mescidi: Kayseri'nin Tarihi Bir Mirası

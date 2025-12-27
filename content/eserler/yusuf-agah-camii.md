@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.966806842,41.031507397"
 draft: false
+
+weight: 10
 ---
 
 ### Yusuf Agah Camii: İstanbul'un Gizli Çehresinde Bir Örgü

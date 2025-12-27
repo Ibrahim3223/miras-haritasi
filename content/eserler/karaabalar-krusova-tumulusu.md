@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3023987,42.0425644"
 draft: false
+
+weight: 100
 ---
 
 ## Karaabalar Kruşova Tümülüsü

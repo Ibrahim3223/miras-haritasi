@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.94336,41.06917"
 draft: false
+
+weight: 10
 ---
 
 ## Fil Köprüsü: İstanbul'un Gizli Mirası

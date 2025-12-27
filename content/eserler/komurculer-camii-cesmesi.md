@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4967232,37.8664093"
 draft: false
+
+weight: 100
 ---
 
 ### Kömürcüler Camii Çeşmesi: Konya'nın Gizli Çeşmesi

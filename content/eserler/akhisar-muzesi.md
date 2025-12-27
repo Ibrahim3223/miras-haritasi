@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.837222222,38.920277777"
 draft: false
+
+weight: 10
 ---
 
 ## Akhisar Müzesi: Manisa'nın Kültür Mirası

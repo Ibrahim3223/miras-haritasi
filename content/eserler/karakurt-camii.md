@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.9874458,39.1172218"
 draft: false
+
+weight: 100
 ---
 
 ### Karakurt Camii: Kırşehir'in Tarihî ve Mimari Mirası

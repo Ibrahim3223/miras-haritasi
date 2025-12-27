@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6922607,41.2466278"
 draft: false
+
+weight: 10
 ---
 
 ## Kurubeyzade Ali Bey Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

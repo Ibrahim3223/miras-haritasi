@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.189995,38.242183"
 draft: false
+
+weight: 100
 ---
 
 ## Hisarköy Kalesi, Kiraz: İzmir'in Gizli Çehresini Keşfedin

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.53333333,39.43388889"
 draft: false
+
+weight: 10
 ---
 
 ### Sivrihisar Uçak Anıtı

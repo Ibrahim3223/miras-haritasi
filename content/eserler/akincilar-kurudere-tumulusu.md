@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6585369,41.4550514"
 draft: false
+
+weight: 100
 ---
 
 ## Akıncılar Kurudere Tümülüsü: Kırklareli'deki Antik Bir Miras

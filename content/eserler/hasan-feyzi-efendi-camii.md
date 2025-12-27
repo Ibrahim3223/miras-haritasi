@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0823116,37.7641335"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Feyzi Efendi Camii

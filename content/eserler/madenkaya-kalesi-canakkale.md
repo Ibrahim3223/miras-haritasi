@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.5606136,40.0469894"
 draft: false
+
+weight: 100
 ---
 
 ### Madenkaya Kalesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.6367302,38.2241478"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Baba Türbesi: Bir Osmanlı Dönemi Anıtı

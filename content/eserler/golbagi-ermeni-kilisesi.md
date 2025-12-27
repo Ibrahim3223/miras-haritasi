@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.6055984,39.0225983"
 draft: false
+
+weight: 100
 ---
 
 ### Gölbağı Ermeni Kilisesi

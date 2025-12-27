@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9816761,41.0074921"
 draft: false
+
+weight: 100
 ---
 
 ## Matbaa-i Amire Kapısı

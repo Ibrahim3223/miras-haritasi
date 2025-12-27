@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.84838,40.78408"
 draft: false
+
+weight: 100
 ---
 
 ## Kainon Chorion: Türkiye'nin Gizli Mirası

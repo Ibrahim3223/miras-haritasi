@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.6599744,37.3356746"
 draft: false
+
+weight: 100
 ---
 
 **Ağzıkaraca Kalesi: Adana'nın Gizli Kahramanı**

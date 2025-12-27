@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.933742,41.007662"
 draft: false
+
+weight: 100
 ---
 
 ### Nişancı Mehmet Paşa Medresesi

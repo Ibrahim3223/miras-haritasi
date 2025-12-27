@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "32.838185669,39.938979705"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Büyükşehir Belediyesi Hizmet Binası: Tarihi ve Kültürel Mirasın Bir Parçası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.82361111,37.55833333"
 draft: false
+
+weight: 10
 ---
 
 ## Alinda: Aydın'ın Gizli Hazineleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.308917,39.895"
 draft: false
+
+weight: 100
 ---
 
 ## Fığla Tepe: Ezine'nin Gizli Öyküsü

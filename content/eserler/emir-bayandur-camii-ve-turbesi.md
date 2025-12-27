@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.4588,38.74722"
 draft: false
+
+weight: 10
 ---
 
 **Emir Bayandur Camii ve Türbesi**

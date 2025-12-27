@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.78254,40.9726"
 draft: false
+
+weight: 10
 ---
 
 ### Florya Atatürk Deniz Köşkü

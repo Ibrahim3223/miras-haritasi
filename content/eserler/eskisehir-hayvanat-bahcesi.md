@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.476388888,39.768055555"
 draft: false
+
+weight: 10
 ---
 
 ### Eskişehir Hayvanat Bahçesi

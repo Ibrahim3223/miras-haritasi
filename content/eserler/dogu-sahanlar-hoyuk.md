@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.852275,38.201089"
 draft: false
+
+weight: 100
 ---
 
 # Doğu Şahanlar Höyük: Tarihî Mirasın Gizemi

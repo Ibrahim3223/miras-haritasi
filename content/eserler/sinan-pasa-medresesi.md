@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0060177,41.0424919"
 draft: false
+
+weight: 100
 ---
 
 ## Sinan Paşa Medresesi

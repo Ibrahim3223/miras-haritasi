@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.8194486,38.4662257"
 draft: false
+
+weight: 100
 ---
 
 ## Taşkemer Köprüsü: Turgutlu'nun Gizli Mimari Harikası

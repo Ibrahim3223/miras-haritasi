@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2071419,37.1810875"
 draft: false
+
+weight: 100
 ---
 
 ### Hamam Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası

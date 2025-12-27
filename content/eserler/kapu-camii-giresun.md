@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.38696,40.918646"
 draft: false
+
+weight: 100
 ---
 
 ## Kapu Camii, Giresun

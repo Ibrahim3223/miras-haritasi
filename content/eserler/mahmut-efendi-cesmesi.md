@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.981894,41.029133"
 draft: false
+
+weight: 10
 ---
 
 ## Mahmut Efendi Çeşmesi

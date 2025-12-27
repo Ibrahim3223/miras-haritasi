@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.835472,37.859993"
 draft: false
+
+weight: 10
 ---
 
 ### Tralleis: Aydın'ın Gizli Cenneti

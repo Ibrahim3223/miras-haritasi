@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.044386,41.042027"
 draft: false
+
+weight: 10
 ---
 
 ### Abdullah Ağa Çeşmesi, Beylerbeyi

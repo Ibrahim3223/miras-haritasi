@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.966335,41.03548"
 draft: false
+
+weight: 10
 ---
 
 ## Cezayirli Hasan Paşa Çeşmesi, Küçük Piyale

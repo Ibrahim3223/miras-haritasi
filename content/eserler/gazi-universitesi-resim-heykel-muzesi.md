@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.855702,39.933272"
 draft: false
+
+weight: 100
 ---
 
 ## Gazi Üniversitesi Resim Heykel Müzesi

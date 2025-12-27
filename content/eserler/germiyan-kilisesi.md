@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.0297,41.13175"
 draft: false
+
+weight: 10
 ---
 
 **Germiyan Kilisesi: İstanbul'un Gizli Çehresinde Bir Kaplıca Kilisesi**

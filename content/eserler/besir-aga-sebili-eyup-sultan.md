@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9333744,41.0480881"
 draft: false
+
+weight: 100
 ---
 
 ## Beşir Ağa Sebili: İstanbul'un Göz Alımlı Çeşmesi

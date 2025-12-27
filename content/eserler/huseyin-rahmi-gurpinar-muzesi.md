@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.09222222,40.87694444"
 draft: false
+
+weight: 100
 ---
 
 ### Hüseyin Rahmi Gürpınar Müzesi Tanıtımı

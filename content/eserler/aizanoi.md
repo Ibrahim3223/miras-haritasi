@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.6105,39.2043"
 draft: false
+
+weight: 10
 ---
 
 **Aizanoi: Antik Bir Kentin Mirası**

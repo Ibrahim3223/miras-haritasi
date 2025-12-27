@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5277863,38.757122"
 draft: false
+
+weight: 100
 ---
 
 ## Kabe Mescidi: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

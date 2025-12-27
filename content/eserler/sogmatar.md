@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.3394623,36.9960823"
 draft: false
+
+weight: 100
 ---
 
 ### Soğmatar: Şanlıurfa'nın Gizli Cenneti

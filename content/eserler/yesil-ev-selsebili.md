@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979187,41.006374"
 draft: false
+
+weight: 100
 ---
 
 ### Yeşil Ev Selsebili: Fatih'te Bir Çeşme Eseri

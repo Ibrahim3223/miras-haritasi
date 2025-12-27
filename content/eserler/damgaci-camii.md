@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6037769,39.1781387"
 draft: false
+
+weight: 100
 ---
 
 ## Damgacı Camii: Soma'nın Tarihi Bir Mirası

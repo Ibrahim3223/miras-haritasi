@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.399067767,37.197963602"
 draft: false
+
+weight: 100
 ---
 
 ## Sürekli Höyük: Tarihî ve Kültürel Değerlerin Kalesi

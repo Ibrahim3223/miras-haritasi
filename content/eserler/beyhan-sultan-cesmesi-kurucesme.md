@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.037281,41.061484"
 draft: false
+
+weight: 100
 ---
 
 ### Beyhan Sultan Çeşmesi, Kuruçeşme

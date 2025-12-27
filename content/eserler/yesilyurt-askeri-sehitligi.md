@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.2982407,38.3318443"
 draft: false
+
+weight: 100
 ---
 
 **Yeşilyurt Askeri Şehitliği: Malatya'nın Onuruna Yaptırılmış Bir Anıt**

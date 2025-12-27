@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.1340675,39.5841179"
 draft: false
+
+weight: 100
 ---
 
 ### Sakarya Şehitliği: Polatlı'da Yıkılmaz Şehitler Anıtı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.85411,41.118799"
 draft: false
+
+weight: 100
 ---
 
 ## Zeytinlik Köyü Yukarı Türbe: Artvin'in Gizli Cenneti

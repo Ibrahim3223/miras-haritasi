@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6035995,37.7224998"
 draft: false
+
+weight: 100
 ---
 
 ### Zerdali Çeşmesi: Aydın'ın Tarihini Ebediyen Koruyan Bir Çeşme

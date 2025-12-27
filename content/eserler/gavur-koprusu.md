@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3583832,38.4665337"
 draft: false
+
+weight: 100
 ---
 
 ## Gavur Köprüsü: Manisa'nın Tarihi Bir Mirası

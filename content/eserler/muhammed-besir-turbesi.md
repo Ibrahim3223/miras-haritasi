@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "39.4993896,39.7170715"
 draft: false
+
+weight: 100
 ---
 
 ## Muhammed Beşir Türbesi

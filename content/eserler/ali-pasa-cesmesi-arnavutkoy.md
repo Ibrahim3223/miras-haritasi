@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0403767,41.0654869"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Paşa Çeşmesi: Beşiktaş'ta Bir Çeşme Müstesna

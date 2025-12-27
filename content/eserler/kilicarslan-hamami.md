@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.3424664,38.7324448"
 draft: false
+
+weight: 100
 ---
 
 ### Kılıçarslan Hamamı: Afyonkarahisar'ın Tarihi bir Ören Yeri

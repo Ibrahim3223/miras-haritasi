@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.6424179,36.1994476"
 draft: false
+
+weight: 10
 ---
 
 ## Antiphellos Aslanlı Lahit: Kaş'taki Antik Miras

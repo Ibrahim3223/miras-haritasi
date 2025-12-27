@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.74149,37.311506"
 draft: false
+
+weight: 100
 ---
 
 ### Kızlık Çeşmesi: Mardin'in Gizli Çeşmesi

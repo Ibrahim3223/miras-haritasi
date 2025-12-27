@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2434006,37.9093971"
 draft: false
+
+weight: 100
 ---
 
 ## Arap Şeyh Camii, Diyarbakır

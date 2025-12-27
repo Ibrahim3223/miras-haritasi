@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.8911915,37.5018425"
 draft: false
+
+weight: 100
 ---
 
 ### Sığırlık-II Kalesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4234409,38.6138763"
 draft: false
+
+weight: 100
 ---
 
 ## Hidayetullah Paşa Çeşmesi

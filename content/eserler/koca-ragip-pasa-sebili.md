@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958669,41.009389"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Ragıp Paşa Sebili: İstanbul'un Tarihi ve Kültürel Mirası

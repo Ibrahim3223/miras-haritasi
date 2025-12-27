@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.904778,40.969862"
 draft: false
+
+weight: 100
 ---
 
 ## Porsuk Köprüsü: Tarihi ve Kültürel Mirasımız

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.4545904,38.9293261"
 draft: false
+
+weight: 100
 ---
 
 ## Yağcılar Höyüğü: Muş'un Gizli Mirası

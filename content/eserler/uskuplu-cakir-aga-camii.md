@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.958722222,41.024388888"
 draft: false
+
+weight: 10
 ---
 
 ### Üsküplü Çakır Ağa Camii Tanıtımı

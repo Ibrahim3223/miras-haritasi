@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.54811936,38.63071149"
 draft: false
+
+weight: 100
 ---
 
 ## Karasu Köprüsü, Endürlük

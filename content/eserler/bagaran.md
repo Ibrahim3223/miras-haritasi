@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.6547,40.2017"
 draft: false
+
+weight: 10
 ---
 
 # Bagaran

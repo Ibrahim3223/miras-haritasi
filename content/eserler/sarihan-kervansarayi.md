@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.90888889,38.71166667"
 draft: false
+
+weight: 10
 ---
 
 ## Sarıhan Kervansarayı: Tarihî Bir Eğri Boyu Kervansarayı

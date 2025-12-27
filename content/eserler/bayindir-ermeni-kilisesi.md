@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.650222222,38.223111111"
 draft: false
+
+weight: 100
 ---
 
 ## Bayındır Ermeni Kilisesi

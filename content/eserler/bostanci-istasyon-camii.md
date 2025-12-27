@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.093916666,40.955055555"
 draft: false
+
+weight: 100
 ---
 
 ## Bostancı İstasyon Camii: Birinci Sınıf Bir Cami

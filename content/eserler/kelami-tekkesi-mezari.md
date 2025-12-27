@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.930048,41.0115547"
 draft: false
+
+weight: 100
 ---
 
 **Kelami Tekkesi Mezarı: İstanbul'un Gizli Tarihi**

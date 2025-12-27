@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5358334,38.7540665"
 draft: false
+
+weight: 100
 ---
 
 ## Germiyanoğlu Süleyman Şah Türbesi

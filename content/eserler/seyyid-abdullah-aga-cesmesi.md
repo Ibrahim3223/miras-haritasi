@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.947497,41.045357"
 draft: false
+
+weight: 10
 ---
 
 ## Seyyid Abdullah Ağa Çeşmesi

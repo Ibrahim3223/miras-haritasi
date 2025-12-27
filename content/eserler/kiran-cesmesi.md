@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.1461868,41.0163956"
 draft: false
+
+weight: 100
 ---
 
 ### Kıran Çeşmesi: Eynesil'in Tarihi ve Kültürel Mirası

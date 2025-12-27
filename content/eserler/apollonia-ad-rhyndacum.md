@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.682527777,40.169638888"
 draft: false
+
+weight: 10
 ---
 
 ### Apollonia Ad Rhyndacum: Bursa'nın Tarihî Mirasının Gizemi

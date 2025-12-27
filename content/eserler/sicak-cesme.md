@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9754143,39.4162827"
 draft: false
+
+weight: 100
 ---
 
 **Sıcak Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası**

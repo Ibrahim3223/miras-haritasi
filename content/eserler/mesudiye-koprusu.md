@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.411895,40.810147"
 draft: false
+
+weight: 100
 ---
 
 ## Mesudiye Köprüsü: Türkiye'nin Gizli Cenneti

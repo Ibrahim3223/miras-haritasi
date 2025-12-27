@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9122028,41.0047569"
 draft: false
+
+weight: 10
 ---
 
 ## Seyitnizam Çeşmesi, Telsiz

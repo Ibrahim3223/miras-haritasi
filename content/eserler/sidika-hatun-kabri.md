@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9285355,41.0034294"
 draft: false
+
+weight: 100
 ---
 
 ## Sıdıka Hatun Kabri: İstanbul'un Gizli Anıtı

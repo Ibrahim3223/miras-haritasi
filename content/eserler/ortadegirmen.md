@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.897382,41.726023"
 draft: false
+
+weight: 100
 ---
 
 ## Ortadağırmen: Edirne'nin Gizli Harikası

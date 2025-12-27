@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.344186111,41.090872222"
 draft: false
+
+weight: 100
 ---
 
 ### Kagari Kilisesi: Taron Nehri'nin Eski Kilisesi

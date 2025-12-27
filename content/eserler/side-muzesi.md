@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.3909969,36.7690659"
 draft: false
+
+weight: 10
 ---
 
 ## Side Müzesi

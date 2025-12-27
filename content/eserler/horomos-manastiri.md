@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.629158,40.519689"
 draft: false
+
+weight: 10
 ---
 
 ## Horomos Manastırı: Kars'ın Gizli Çağına Yolculuk

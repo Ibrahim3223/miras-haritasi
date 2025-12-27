@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "26.402731,40.145991"
 draft: false
+
+weight: 100
 ---
 
 ### ÇOMÜ Kütüphanesi: Türkiye'nin Kültür ve Öğrenim Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.864333333,39.939138888"
 draft: false
+
+weight: 10
 ---
 
 ## Sultan Alaeddin Camii

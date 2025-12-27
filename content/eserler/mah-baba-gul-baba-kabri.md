@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0737038,40.9880219"
 draft: false
+
+weight: 100
 ---
 
 ### Mah Baba Gül Baba Kabri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9731178,41.0107307"
 draft: false
+
+weight: 100
 ---
 
 ## Servili Baba Türbesi

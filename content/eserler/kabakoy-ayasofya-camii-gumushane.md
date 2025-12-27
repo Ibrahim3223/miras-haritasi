@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.695355,40.436652"
 draft: false
+
+weight: 1
 ---
 
 ## Kabaköy (Ayasofya) Camii: Gümüşhane'nin Yüzyıllık Tarihi ve Mimari Harikası

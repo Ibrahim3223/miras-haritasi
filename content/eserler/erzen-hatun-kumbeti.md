@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.4993834,38.7575918"
 draft: false
+
+weight: 100
 ---
 
 ## Erzen Hatun Kümbeti: Ahlat'ın Gizli Hazinesi

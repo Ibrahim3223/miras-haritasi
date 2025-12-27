@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.5803223,41.9467964"
 draft: false
+
+weight: 100
 ---
 
 ## Arkhangelos Kilisesi: Sinop'un Gizli Cenneti

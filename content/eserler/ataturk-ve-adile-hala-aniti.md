@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.8865547,36.9201813"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk ve Adile Hala Anıtı: Tarsus'taki Bir Anıtın Öyküsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8407936,40.6532059"
 draft: false
+
+weight: 100
 ---
 
 ## Şehzâde Bâyezid Anıtı

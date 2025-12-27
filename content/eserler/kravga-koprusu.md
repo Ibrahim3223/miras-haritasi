@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.185,36.782"
 draft: false
+
+weight: 100
 ---
 
 ## Kravga Köprüsü

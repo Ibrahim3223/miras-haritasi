@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.8382607,38.7404938"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Çeşmesi: Foça'nın Tarihi Bir Anıtı

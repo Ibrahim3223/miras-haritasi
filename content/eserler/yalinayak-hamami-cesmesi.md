@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7318954,38.083313"
 draft: false
+
+weight: 100
 ---
 
 ## Yalınayak Hamamı Çeşmesi: Tarihî Bir Ziyaret Günü

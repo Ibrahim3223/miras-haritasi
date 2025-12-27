@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.147728,38.4377861"
 draft: false
+
+weight: 10
 ---
 
 ## Alsancak Garı Saat Kulesi: İzmir'in Tarihi ve Kültürel Mirası

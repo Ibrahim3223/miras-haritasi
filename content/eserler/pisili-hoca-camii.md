@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.2776566,37.190506"
 draft: false
+
+weight: 100
 ---
 
 ## Pisili Hoca Camii: Menteşe'nin tarihi bir güzelliği

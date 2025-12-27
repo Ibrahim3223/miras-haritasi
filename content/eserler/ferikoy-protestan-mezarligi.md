@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.983889,41.053889"
 draft: false
+
+weight: 10
 ---
 
 ## Feriköy Protestan Mezarlığı

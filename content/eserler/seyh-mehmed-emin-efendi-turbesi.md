@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0615253,40.1794052"
 draft: false
+
+weight: 100
 ---
 
 **Şeyh Mehmed Emin Efendi Türbesi**

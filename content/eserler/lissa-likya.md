@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.839144,36.664252"
 draft: false
+
+weight: 100
 ---
 
 ## Lissa (Likya) Arkeolojik Sit

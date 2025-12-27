@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0468731,37.3683395"
 draft: false
+
+weight: 100
 ---
 
 ## Çapalıbağ: Muğla'nın Gizli Cenneti

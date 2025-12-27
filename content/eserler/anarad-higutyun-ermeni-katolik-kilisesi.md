@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9306717,40.9994812"
 draft: false
+
+weight: 100
 ---
 
 ## Anarad Hığutyun Ermeni Katolik Kilisesi

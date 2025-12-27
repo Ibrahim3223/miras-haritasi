@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.17888889,36.52583333"
 draft: false
+
+weight: 10
 ---
 
 ## Çanakçı Kaya Mezarları

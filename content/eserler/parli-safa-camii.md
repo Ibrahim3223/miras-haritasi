@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.232339,37.911536"
 draft: false
+
+weight: 10
 ---
 
 ## Parlı Safa Camii

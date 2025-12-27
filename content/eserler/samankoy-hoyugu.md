@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.2393646,38.3931007"
 draft: false
+
+weight: 100
 ---
 
 ### Samanköy Höyüğü: Malatya'nın Gizli Kıymeti

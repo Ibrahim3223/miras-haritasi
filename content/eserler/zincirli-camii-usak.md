@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4028263,38.6781807"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirli Camii, Uşak

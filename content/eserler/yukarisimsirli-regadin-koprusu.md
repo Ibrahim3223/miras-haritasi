@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0639,41.019933"
 draft: false
+
+weight: 100
 ---
 
 ### Yukarışimşirli Regadin Köprüsü

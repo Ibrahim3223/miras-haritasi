@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.79188,38.79751"
 draft: false
+
+weight: 100
 ---
 
 ### Hierokaisareia: Antik Yunanistan'ın Gizli Anıtı

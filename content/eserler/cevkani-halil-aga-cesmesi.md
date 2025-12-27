@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934254,41.041225"
 draft: false
+
+weight: 100
 ---
 
 ## Cevkani Halil Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8855324,40.9809227"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Paşa Çeşmesi: Bakırköy'un Tarihî Bir Çeşmesi

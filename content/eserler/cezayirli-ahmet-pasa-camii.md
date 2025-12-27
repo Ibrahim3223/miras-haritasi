@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9782385,41.0141607"
 draft: false
+
+weight: 10
 ---
 
 ### Cezayirli Ahmet Paşa Camii

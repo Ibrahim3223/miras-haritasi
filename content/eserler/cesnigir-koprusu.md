@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.42939,39.58086"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşnigir Köprüsü: Tarım ve Kültür Mirası

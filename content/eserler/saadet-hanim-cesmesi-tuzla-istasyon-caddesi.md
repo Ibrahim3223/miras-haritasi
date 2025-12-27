@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.3031616,40.8158951"
 draft: false
+
+weight: 10
 ---
 
 ### Saadet Hanım Çeşmesi: Tuzla'nın Tarihî Bir Simgesi

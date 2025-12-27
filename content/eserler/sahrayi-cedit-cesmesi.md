@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.077404,40.980244"
 draft: false
+
+weight: 100
 ---
 
 ## Sahrayı Cedit Çeşmesi: Kadıköy'ün Gizli Çeşmesi

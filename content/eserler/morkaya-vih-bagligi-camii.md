@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.6618572,40.7277023"
 draft: false
+
+weight: 100
 ---
 
 ## Morkaya Vih Bağlığı Camii

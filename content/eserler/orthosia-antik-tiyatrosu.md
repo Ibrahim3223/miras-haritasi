@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.2288876,37.8237"
 draft: false
+
+weight: 100
 ---
 
 ## Orthosia Antik Tiyatrosu: Aydın'ın Yenipazar'daki Kültürel Mirası

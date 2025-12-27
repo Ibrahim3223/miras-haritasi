@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.4927711,37.8764915"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Gav Medresesi

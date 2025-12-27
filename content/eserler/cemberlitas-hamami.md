@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9716495,41.0085972"
 draft: false
+
+weight: 10
 ---
 
 ## Çemberlitaş Hamamı: İstanbul'un Tarihi Bir Zirvesi

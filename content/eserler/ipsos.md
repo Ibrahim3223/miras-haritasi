@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.549206,38.856193"
 draft: false
+
+weight: 100
 ---
 
 ## İpsos: Antik Kentin Gizemi

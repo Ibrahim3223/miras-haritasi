@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3248,38.160533"
 draft: false
+
+weight: 100
 ---
 
 ### Arap Kahvesi: İzmir'in Gizli Çehresini Keşfedin

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1110596,37.8352184"
 draft: false
+
+weight: 10
 ---
 
 ## Doğu Roma Kapısı: Denizli'nin Tarihî Mirası

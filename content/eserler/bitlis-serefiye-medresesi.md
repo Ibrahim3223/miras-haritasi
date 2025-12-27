@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.1073532,38.3993454"
 draft: false
+
+weight: 100
 ---
 
 ## Bitlis Şerefiye Medresesi: Bir İhtişamın Kalıntısı

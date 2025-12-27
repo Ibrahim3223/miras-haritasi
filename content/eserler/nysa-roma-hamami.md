@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.1457214,37.9003983"
 draft: false
+
+weight: 100
 ---
 
 ## Nysa Roma Hamamı

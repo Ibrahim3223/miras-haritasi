@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.2529297,39.8020668"
 draft: false
+
+weight: 100
 ---
 
 ## Gökdin-Kale Höyüğü: Sivas'ta Bir Arkeolojik İhtişam

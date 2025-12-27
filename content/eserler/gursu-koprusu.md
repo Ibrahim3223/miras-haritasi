@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.1964533,41.1938578"
 draft: false
+
+weight: 100
 ---
 
 ### Gürsu Köprüsü

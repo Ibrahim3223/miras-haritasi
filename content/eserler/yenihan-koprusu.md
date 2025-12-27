@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.5349846,41.5261955"
 draft: false
+
+weight: 100
 ---
 
 ## Yenihan Köprüsü: Tarihi ve Kültürel Mirasımız

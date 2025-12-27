@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.970768,40.8828354"
 draft: false
+
+weight: 100
 ---
 
 ### Eserli Kilisesi: Görele'nin Ölümsüz Kilisesi

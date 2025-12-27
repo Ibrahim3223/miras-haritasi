@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.7853432,40.9513702"
 draft: false
+
+weight: 100
 ---
 
 ## Şehitler Camii: Samsun'un Tarihi ve Kültürel Bir Mirası

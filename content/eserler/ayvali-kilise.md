@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.858385324,38.654231401"
 draft: false
+
+weight: 100
 ---
 
 # Ayvalı Kilisesi: Göbeklitepe'nin Yakınında Gizli Bir Anıtlar

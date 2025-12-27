@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.825765,40.963862"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Havacılık Müzesi

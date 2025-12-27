@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1672935,36.2030716"
 draft: false
+
+weight: 100
 ---
 
 # Hünkar Mescidi: Antakya'nın Tarihi ve Kültürel Mirası

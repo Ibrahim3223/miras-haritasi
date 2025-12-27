@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.960361,41.017034"
 draft: false
+
+weight: 100
 ---
 
 ## Rehabula Kadın Sebili: Fatih'in Gizli Çeşmesi

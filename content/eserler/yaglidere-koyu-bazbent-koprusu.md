@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.51297,40.54095"
 draft: false
+
+weight: 100
 ---
 
 ## Yağlıdere Köyü Bazbent Köprüsü: Gümüşhane'nin Tarihi Bir Mirası

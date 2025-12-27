@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.2525232,36.7913382"
 draft: false
+
+weight: 100
 ---
 
 ## Karamelik Höyük: Kilis'in Gizli İncisi

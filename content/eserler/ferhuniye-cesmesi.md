@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4900093,37.8763885"
 draft: false
+
+weight: 100
 ---
 
 ## Ferhuniye Çeşmesi: Konya'nın Selçuklu Dönemine Ait Bir Harikası

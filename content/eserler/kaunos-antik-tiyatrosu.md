@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.623435,36.825307"
 draft: false
+
+weight: 10
 ---
 
 ## Kaunos Antik Tiyatrosu: Köyceğiz'in Gizli Hazineleri

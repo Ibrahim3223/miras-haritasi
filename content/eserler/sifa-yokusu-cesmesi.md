@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.929418,41.045674"
 draft: false
+
+weight: 100
 ---
 
 ## Şifa Yokuşu Çeşmesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9763412,41.0304642"
 draft: false
+
+weight: 100
 ---
 
 ## Hollanda Şapeli

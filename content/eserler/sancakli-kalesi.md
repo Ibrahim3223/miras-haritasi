@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.1520004,38.5229988"
 draft: false
+
+weight: 100
 ---
 
 # Sancaklı Kalesi: Karşıyaka'nın Tarihsel Mirası

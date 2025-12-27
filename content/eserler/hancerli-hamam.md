@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.942116,41.038003"
 draft: false
+
+weight: 10
 ---
 
 ## Hançerli Hamam: Fatih'teki Tarihi Bir Miras

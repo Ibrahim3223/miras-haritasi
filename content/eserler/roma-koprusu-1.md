@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.9556274,38.2762642"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü 1: Ödemiş'in Kırmızı Taşları

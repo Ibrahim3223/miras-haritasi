@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.550891,37.755049"
 draft: false
+
+weight: 100
 ---
 
 **Turan Yazgan Etnografya Müzesi**

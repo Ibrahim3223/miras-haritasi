@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.358194444,40.504083333"
 draft: false
+
+weight: 100
 ---
 
 ### Odeki Kilisesi: Tortum'un Gizli Cenneti

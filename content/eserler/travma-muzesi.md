@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "43.735928,37.577815"
 draft: false
+
+weight: 100
 ---
 
 ## Travma Müzesi

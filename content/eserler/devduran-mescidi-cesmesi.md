@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8639565,39.9388428"
 draft: false
+
+weight: 100
 ---
 
 ## Devduran Mescidi Çeşmesi: Altındağ'daki Bir Önemli Kültürel Miras

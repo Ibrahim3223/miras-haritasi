@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.21403,40.07807"
 draft: false
+
+weight: 10
 ---
 
 ## Redoubt Mezarlığı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9510994,38.2943459"
 draft: false
+
+weight: 100
 ---
 
 **İkinciler Höyüğü: Malatya'nın Önemli Arkeolojik Mirası**

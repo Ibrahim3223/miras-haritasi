@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.933529,41.048255"
 draft: false
+
+weight: 10
 ---
 
 **Eyüp Sultan Türbesi**

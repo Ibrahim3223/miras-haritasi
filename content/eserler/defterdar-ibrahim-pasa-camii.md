@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.033273,41.05102"
 draft: false
+
+weight: 10
 ---
 
 ### Defterdar İbrahim Paşa Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.503003,37.873944"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Fakih Sarı Camii: Karatay'da Bir Ölümsüz

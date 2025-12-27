@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.3825455,37.9790192"
 draft: false
+
+weight: 100
 ---
 
 ## Ayasuluk Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

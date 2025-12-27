@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.6864185,38.5563698"
 draft: false
+
+weight: 100
 ---
 
 ### Tijentepe Höyüğü: Manisa'nın Gizli İncisi

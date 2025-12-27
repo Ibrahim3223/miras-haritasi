@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.259819,36.1015434"
 draft: false
+
+weight: 100
 ---
 
 ## Tokaçlı Meryem Ana Ortodoks Kilisesi: Altınözü'ndeki Bir Azizin Evi

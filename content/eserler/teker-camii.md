@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.746587,37.315317"
 draft: false
+
+weight: 100
 ---
 
 ## Teker Camii: Mardin'in Tarihi ve Kültürel Mirası

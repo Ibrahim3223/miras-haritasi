@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7658691,38.3232193"
 draft: false
+
+weight: 100
 ---
 
 # Hamam Sokak Çeşmesi, Urla

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.722751374,39.812249593"
 draft: false
+
+weight: 100
 ---
 
 ## Ankara Müze Kumbaram

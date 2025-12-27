@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.872,40.711"
 draft: false
+
+weight: 100
 ---
 
 ## Eribolon: Antik Çağın Gizemli Kenti

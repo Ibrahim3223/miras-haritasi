@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.63644,40.56645"
 draft: false
+
+weight: 100
 ---
 
 ## Kobara: Geçmişe Dökülen Bir Kent

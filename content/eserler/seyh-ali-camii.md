@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1675606,36.202095"
 draft: false
+
+weight: 10
 ---
 
 ### Şeyh Ali Camii: Hatay'ın Tarihi ve Kültürel Mirası

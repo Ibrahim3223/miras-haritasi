@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.974313,36.291555"
 draft: false
+
+weight: 100
 ---
 
 ### Kastellon: Demre'nin Tarihî ve Kültürel Mirası

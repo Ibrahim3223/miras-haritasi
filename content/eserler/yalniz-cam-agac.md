@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28742778,40.23041111"
 draft: false
+
+weight: 10
 ---
 
 ## Yalnız Çam Anıtı: Gelibolu Yarımadası'nın Efsanevi Ağacı

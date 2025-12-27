@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9431,41.0078"
 draft: false
+
+weight: 10
 ---
 
 # Arkadios Sütunu

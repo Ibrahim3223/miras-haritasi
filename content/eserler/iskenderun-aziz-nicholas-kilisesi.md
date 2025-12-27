@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.170583333,36.587416666"
 draft: false
+
+weight: 10
 ---
 
 ## İskenderun Aziz Nicholas Kilisesi

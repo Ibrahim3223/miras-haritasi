@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "34.6337128,36.8018799"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin İl Halk Kütüphanesi Binası

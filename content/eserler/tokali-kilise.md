@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8446297,38.6411058"
 draft: false
+
+weight: 10
 ---
 
 ## Tokalı Kilise

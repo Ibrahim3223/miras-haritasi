@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.2294,40.2636"
 draft: false
+
+weight: 10
 ---
 
 ## Bayburt Kalesi: Tarih, Kültür ve Miras

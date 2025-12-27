@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.98972222,36.9925"
 draft: false
+
+weight: 10
 ---
 
 ## Sillyon Arkeolojik Sit

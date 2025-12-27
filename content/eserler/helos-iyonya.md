@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.361312,38.574035"
 draft: false
+
+weight: 100
 ---
 
 # Helos (İyonya)

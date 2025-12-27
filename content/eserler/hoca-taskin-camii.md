@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0777645,40.180809"
 draft: false
+
+weight: 10
 ---
 
 ### Hoca Taşkın Camii: Bursa'nın Tarihi ve Kültürel Mirası

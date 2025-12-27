@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.9812,40.781664"
 draft: false
+
+weight: 100
 ---
 
 ## Taştepe Mahallesi Köprüsü

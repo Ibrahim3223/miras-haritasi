@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8960571,37.2133217"
 draft: false
+
+weight: 100
 ---
 
 ### Songrus Höyük

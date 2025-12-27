@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.780827824,41.218659051"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Derviş Mehmet Ağa Camii: Safranbolu'un Tarihi ve Kültürel Mirası

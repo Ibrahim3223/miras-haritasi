@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.263729,37.862209"
 draft: false
+
+weight: 10
 ---
 
 ## Pygela: Kuşadası'nın Gizli Cenneti

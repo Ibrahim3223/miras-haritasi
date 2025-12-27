@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.410719,37.619454"
 draft: false
+
+weight: 100
 ---
 
 ## Bargasa (Kuzey Karya)

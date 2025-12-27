@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.492856304,38.359360468"
 draft: false
+
+weight: 100
 ---
 
 ## Yedek Camii: Develi'nin Değerli Mirası

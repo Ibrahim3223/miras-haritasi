@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.7595005,39.9648018"
 draft: false
+
+weight: 100
 ---
 
 ## Asartepe Kale Yerleşimi

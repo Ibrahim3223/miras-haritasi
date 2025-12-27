@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4113464,37.7138252"
 draft: false
+
+weight: 10
 ---
 
 ### Er-Rızk Camii: Hasankeyf'in Gizli Çehresini Keşfetmek

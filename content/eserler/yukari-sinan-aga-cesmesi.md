@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9448738,41.0355606"
 draft: false
+
+weight: 10
 ---
 
 **Yukarı Sinan Ağa Çeşmesi**

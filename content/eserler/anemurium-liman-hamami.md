@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.8035316,36.022419"
 draft: false
+
+weight: 100
 ---
 
 ## Anemurium Liman Hamamı: Mersin'in Tarihi Bir Mirası

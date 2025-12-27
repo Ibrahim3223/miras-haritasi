@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958698,41.026214"
 draft: false
+
+weight: 100
 ---
 
 ### Sivrikoz Çeşmesi

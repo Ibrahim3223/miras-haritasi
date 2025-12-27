@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.071967,39.017933"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmentepe: Bergama'nın Gizli Harikası

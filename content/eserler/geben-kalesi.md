@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.4082489,37.8145905"
 draft: false
+
+weight: 100
 ---
 
 ## Geben Kalesi

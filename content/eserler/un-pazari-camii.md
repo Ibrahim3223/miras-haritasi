@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0847836,37.7863121"
 draft: false
+
+weight: 100
 ---
 
 ## Un Pazarı Camii

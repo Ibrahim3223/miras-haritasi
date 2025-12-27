@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.019184112,41.02794557"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hesna Hatun Camii 

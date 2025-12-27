@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.832828,40.651927"
 draft: false
+
+weight: 100
 ---
 
 ## İğneci Baba Türbesi: Amasya'nın Kültürel Mirası

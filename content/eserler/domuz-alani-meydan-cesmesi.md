@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1811085,39.125576"
 draft: false
+
+weight: 100
 ---
 
 # Domuz Alanı Meydan Çeşmesi

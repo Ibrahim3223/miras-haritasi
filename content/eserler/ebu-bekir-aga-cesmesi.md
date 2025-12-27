@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.936174,41.054344"
 draft: false
+
+weight: 100
 ---
 
 ### Ebu Bekir Ağa Çeşmesi

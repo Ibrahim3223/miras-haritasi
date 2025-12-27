@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.098788051,40.872539446"
 draft: false
+
+weight: 100
 ---
 
 ## Kangelaris Ailesi Anıt Mezarı: Adalar'ın Gizli Anıtı

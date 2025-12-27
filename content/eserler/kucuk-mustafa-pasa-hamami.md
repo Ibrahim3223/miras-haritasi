@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.956334784,41.026173707"
 draft: false
+
+weight: 10
 ---
 
 ### Küçük Mustafa Paşa Hamamı: İstanbul'un Eski Günleri

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.383055555,41.746944444"
 draft: false
+
+weight: 10
 ---
 
 ## Amasra Müzesi: Tarihi ve Kültürel Mirası Koruyan Bir Ziyaretçi Çekici

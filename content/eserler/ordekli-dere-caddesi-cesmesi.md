@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5179157,40.9810257"
 draft: false
+
+weight: 100
 ---
 
 ## Ördekli Dere Caddesi Çeşmesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.475512875,36.400251945"
 draft: false
+
+weight: 100
 ---
 
 # Olympos 4 No'lu Kilise: Antalya'nın Gizli Çehresini Keşfetmek

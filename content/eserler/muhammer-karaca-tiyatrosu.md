@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.976455186,41.031068036"
 draft: false
+
+weight: 100
 ---
 
 ## Muhammer Karaca Tiyatrosu: Beyoğlu'ndaki Bir Antik Tiyatro'nun Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.7387077,39.1662976"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Lüğlük Höyük: Sivas'ın Tarihî Mirasını Bekliyor

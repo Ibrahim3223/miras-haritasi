@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972431,41.038387"
 draft: false
+
+weight: 10
 ---
 
 ## Vuslat Kadın Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi

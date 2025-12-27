@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1784,39.1217995"
 draft: false
+
+weight: 100
 ---
 
 ## Mescitaltı Mescidi: Bergama'nın Gizli Cenneti

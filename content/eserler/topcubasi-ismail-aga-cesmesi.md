@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.980549,41.029846"
 draft: false
+
+weight: 10
 ---
 
 ## Topçubaşı İsmail Ağa Çeşmesi

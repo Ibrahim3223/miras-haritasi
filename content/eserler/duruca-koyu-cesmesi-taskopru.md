@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.192313986,41.600674678"
 draft: false
+
+weight: 100
 ---
 
 ## Duruca Köyü Çeşmesi: Taşköprü'nün Gizli Cevheri

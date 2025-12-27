@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9798698,41.0046463"
 draft: false
+
+weight: 100
 ---
 
 ## Theotokos Ayazması: İstanbul'un Gizli Cenneti

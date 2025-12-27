@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5453205,37.7028236"
 draft: false
+
+weight: 100
 ---
 
 ## Kemalpaşa Camii Çeşmesi: Söke'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0846882,40.9289818"
 draft: false
+
+weight: 100
 ---
 
 ## Kermeyan Tümülüsü I

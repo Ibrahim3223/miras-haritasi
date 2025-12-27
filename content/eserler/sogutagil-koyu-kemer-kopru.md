@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.77044,40.44451"
 draft: false
+
+weight: 100
 ---
 
 ### Söğütağıl Köyü Kemer Köprü

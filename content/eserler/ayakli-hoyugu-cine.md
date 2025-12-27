@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.048378,37.595974"
 draft: false
+
+weight: 100
 ---
 
 ## Ayaklı Höyüğü, Çine

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.975555555,41.0125"
 draft: false
+
+weight: 10
 ---
 
 ### Nallı Mescit: Fatih'teki Bir Önemli Cami

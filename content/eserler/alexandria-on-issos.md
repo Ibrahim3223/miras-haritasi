@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.166,36.589"
 draft: false
+
+weight: 100
 ---
 
 ### Alexandria on Issos

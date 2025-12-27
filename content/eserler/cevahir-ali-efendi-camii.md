@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8031845,39.8240128"
 draft: false
+
+weight: 100
 ---
 
 **Yozgat'ın Tarihî Mirası: Cevahir Ali Efendi Camii**

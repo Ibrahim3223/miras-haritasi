@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9308167,40.7623634"
 draft: false
+
+weight: 100
 ---
 
 # İzmit'in Tarihî Çeşmesi: Pertev Paşa Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Altınyayla Stelesi: Tarihi ve Kültürel Mirasın Bir Parçası

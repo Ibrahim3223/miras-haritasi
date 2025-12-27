@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.1419678,40.9067421"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Konuralp

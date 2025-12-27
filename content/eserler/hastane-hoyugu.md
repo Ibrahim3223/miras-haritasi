@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.837328,38.923384"
 draft: false
+
+weight: 10
 ---
 
 **Hastane Höyüğü: Manisa'nın Gizli Mirası**

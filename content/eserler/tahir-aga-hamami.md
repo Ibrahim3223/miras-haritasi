@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.8842468,40.3770676"
 draft: false
+
+weight: 100
 ---
 
 ## Tahir Ağa Hamamı: Mudanya'nın Tarihî Bir Mirası

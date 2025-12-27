@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.938351,41.035762"
 draft: false
+
+weight: 10
 ---
 
 ## Hırami Ahmet Paşa Camii: Eyüpsultan'ın Gizli Çarı

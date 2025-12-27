@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.4382324,36.6464958"
 draft: false
+
+weight: 100
 ---
 
 ### Taş Köprü, Mut

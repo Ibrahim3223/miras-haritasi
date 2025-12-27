@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8536,37.9055"
 draft: false
+
+weight: 100
 ---
 
 ## Larisa (Karya): Aydın'ın Gizli Çarıltısı

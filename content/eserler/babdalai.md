@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.538588,38.543079"
 draft: false
+
+weight: 100
 ---
 
 ### Babadalai Arkeolojik Sit

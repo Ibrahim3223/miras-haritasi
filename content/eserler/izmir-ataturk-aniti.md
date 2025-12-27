@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.134388888,38.428861111"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Atatürk Anıtı

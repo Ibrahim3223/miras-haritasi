@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0198479,41.0139008"
 draft: false
+
+weight: 10
 ---
 
 ## Nişancı Hamza Paşa Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.42,41.207"
 draft: false
+
+weight: 10
 ---
 
 ## Nerik: Samsun'un Gizli Tarihi

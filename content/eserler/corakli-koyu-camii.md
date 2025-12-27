@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.358,41.365027777"
 draft: false
+
+weight: 100
 ---
 
 ## Çoraklı Köyü Camii

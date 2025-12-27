@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8072548,39.9224396"
 draft: false
+
+weight: 100
 ---
 
 ## Ankara Frig Tümülüsü 12, Beştepe: Bir Efsanenin Kalıntıları

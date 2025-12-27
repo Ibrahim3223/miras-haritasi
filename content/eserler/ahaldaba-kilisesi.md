@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.16611111,41.07444444"
 draft: false
+
+weight: 10
 ---
 
 ## Ahaldaba Kilisesi: Türkiye'nin Gizli Cenneti

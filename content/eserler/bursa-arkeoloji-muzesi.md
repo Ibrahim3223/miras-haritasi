@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.041111111,40.195833333"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Arkeoloji Müzesi

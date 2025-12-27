@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "28.9827919,41.0150757"
 draft: false
+
+weight: 100
 ---
 
 # Demirkapı Kışlası Karargah Binası

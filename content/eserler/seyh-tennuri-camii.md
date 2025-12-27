@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4897766,38.7183151"
 draft: false
+
+weight: 10
 ---
 
 ### Şeyh Tennuri Camii: Kayseri'nin Görsel Bir Harikası

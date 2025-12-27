@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.844602777,39.136086111"
 draft: false
+
+weight: 100
 ---
 
 ### Makaron Çiftlik Höyük, Malena

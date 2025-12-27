@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.968334,41.031358"
 draft: false
+
+weight: 100
 ---
 
 ### Cezayirli Hasan Paşa Camii

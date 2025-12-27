@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5225773,40.9821129"
 draft: false
+
+weight: 100
 ---
 
 ## Kazım Karabekir Caddesi Çeşmesi: Tekirdağ'ın Tarihi Bir Anıtı

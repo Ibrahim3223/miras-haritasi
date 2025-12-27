@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.5385,40.4718"
 draft: false
+
+weight: 10
 ---
 
 ## Maghasberd: Kars'ın Gizli Arkeolojik Mirası

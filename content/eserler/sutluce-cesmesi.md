@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941062,41.048366"
 draft: false
+
+weight: 10
 ---
 
 ## Sütlüce Çeşmesi Tanıtımı

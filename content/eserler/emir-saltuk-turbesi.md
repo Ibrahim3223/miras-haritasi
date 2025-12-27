@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2785416,39.9039497"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Saltuk Türbesi

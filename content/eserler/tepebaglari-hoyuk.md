@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6345895,37.9591804"
 draft: false
+
+weight: 100
 ---
 
 **Tepebağları Höyük: Niğde'nin Gizli Anıtı**

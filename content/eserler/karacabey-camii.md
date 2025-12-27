@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.865555555,39.93125"
 draft: false
+
+weight: 10
 ---
 
 ## Karacabey Camii: Ankara'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0166,41.0097"
 draft: false
+
+weight: 1
 ---
 
 ## Üsküdar Selimiye Camii: İstanbul'un Güzelliği

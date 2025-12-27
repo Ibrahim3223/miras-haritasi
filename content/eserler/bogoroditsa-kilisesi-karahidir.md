@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1982841,41.7152901"
 draft: false
+
+weight: 100
 ---
 
 ## Bogoroditsa Kilisesi (Karahıdır)

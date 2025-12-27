@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9783726,41.0054169"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Ahmet Külliyesi Sebili 3: İstanbul'un Tarihî Esintileri

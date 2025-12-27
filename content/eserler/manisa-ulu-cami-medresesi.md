@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.4299507,38.6081085"
 draft: false
+
+weight: 100
 ---
 
 ## Manisa Ulu Cami Medresesi

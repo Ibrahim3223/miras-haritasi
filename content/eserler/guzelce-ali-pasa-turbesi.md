@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.01804,41.04569"
 draft: false
+
+weight: 10
 ---
 
 ### Güzelce Ali Paşa Türbesi

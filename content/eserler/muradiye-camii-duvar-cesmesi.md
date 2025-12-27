@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9989624,41.04879"
 draft: false
+
+weight: 100
 ---
 
 ## Muradiye Camii Duvar Çeşmesi

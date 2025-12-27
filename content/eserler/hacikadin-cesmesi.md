@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7713852,41.3775444"
 draft: false
+
+weight: 100
 ---
 
 ### Hacıkadın Çeşmesi

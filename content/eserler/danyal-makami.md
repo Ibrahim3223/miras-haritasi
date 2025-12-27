@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.897344,36.917139"
 draft: false
+
+weight: 10
 ---
 
 ## Danyal Makamı: Tarsus'un Gizemi

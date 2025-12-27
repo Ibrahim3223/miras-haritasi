@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5708122,40.5105057"
 draft: false
+
+weight: 100
 ---
 
 ## Ani Surp Stephanos Kilisesi

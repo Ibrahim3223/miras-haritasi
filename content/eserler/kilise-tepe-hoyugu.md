@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.5535,36.50244"
 draft: false
+
+weight: 10
 ---
 
 # Kilise Tepe Höyüğü

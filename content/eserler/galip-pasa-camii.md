@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.069583333,40.965972222"
 draft: false
+
+weight: 10
 ---
 
 ## Galip Paşa Camii

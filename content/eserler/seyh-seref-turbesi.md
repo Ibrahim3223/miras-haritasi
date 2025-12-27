@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.408226,37.711483"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Şeref Türbesi

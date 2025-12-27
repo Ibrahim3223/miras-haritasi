@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2790031,39.9045219"
 draft: false
+
+weight: 100
 ---
 
 ## Gürcü Mehmet Paşa Camii: Erzurum'un Gizli Çehresini Keşfetmek

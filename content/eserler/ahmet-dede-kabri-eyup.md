@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.923821,41.046608"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Dede Kabri, Eyüp

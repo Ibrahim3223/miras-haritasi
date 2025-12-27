@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8355,40.6546"
 draft: false
+
+weight: 100
 ---
 
 ### Habib Ömer Karamani Türbesi: Amasya'nın Gizli Mücevheri

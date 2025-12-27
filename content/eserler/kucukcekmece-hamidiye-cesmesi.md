@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.771966,40.990308"
 draft: false
+
+weight: 10
 ---
 
 ### Küçükçekmece Hamidiye Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9692954,41.0124376"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Yeni Han Duvar Çeşmesi

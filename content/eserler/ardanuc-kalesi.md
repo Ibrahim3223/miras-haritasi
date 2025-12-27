@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.0546,41.1267"
 draft: false
+
+weight: 10
 ---
 
 ### Ardanuç Kalesi: Artvin'in Gizli İhtişamı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.301636,38.255788"
 draft: false
+
+weight: 10
 ---
 
 ### Yılanlı Kilise: Aksaray'daki Bir Geçiş Dönemi Kilisesi

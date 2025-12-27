@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.920002,40.9998207"
 draft: false
+
+weight: 100
 ---
 
 # Belgratkapı Köprüsü

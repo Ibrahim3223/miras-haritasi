@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.273513,37.00864"
 draft: false
+
+weight: 100
 ---
 
 ## Kymnissa Arkeolojik Sit

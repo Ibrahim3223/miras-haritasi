@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.9182014,38.7041397"
 draft: false
+
+weight: 100
 ---
 
 ## Halil Oğlu Haşim Hamamı

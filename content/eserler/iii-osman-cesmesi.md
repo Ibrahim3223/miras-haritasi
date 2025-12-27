@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9699898,41.0100403"
 draft: false
+
+weight: 100
 ---
 
 ### III. Osman Çeşmesi: Fatih'te Bir Altın Çeşme

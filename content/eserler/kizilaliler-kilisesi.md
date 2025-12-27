@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.774231,36.0641975"
 draft: false
+
+weight: 100
 ---
 
 **Kızılaliler Kilisesi**

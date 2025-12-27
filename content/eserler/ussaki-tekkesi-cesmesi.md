@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.927517,40.996536"
 draft: false
+
+weight: 100
 ---
 
 ## Uşşaki Tekkesi Çeşmesi

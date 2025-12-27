@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7712212,41.3758812"
 draft: false
+
+weight: 100
 ---
 
 **İsa Dede Türbesi**

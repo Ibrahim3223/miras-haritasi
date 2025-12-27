@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.259149,37.031449"
 draft: false
+
+weight: 100
 ---
 
 ### Palaemyndus: Muğla'nın Gizli Harikası

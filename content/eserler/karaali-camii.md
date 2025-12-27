@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.402995,38.679299"
 draft: false
+
+weight: 10
 ---
 
 ## Karaali Camii: Uşak'ta Bir Türk Müziği Evinin Geriye Bıraktığı Miras

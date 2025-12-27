@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.796976,36.957798"
 draft: false
+
+weight: 100
 ---
 
 **Ashab-ı Kehf Camii**

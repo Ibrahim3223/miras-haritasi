@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.853333333,37.875833333"
 draft: false
+
+weight: 10
 ---
 
 ## Eğirdir Kalesi: Tarihe ve Kültür Mirasına Kanat Geren Bir Kahramanlık

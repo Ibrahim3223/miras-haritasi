@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5648155,41.6684265"
 draft: false
+
+weight: 100
 ---
 
 ## Abdurrahman Camii, Edirne

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5087318,37.8747063"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mustafa Ağa Camii: Konya'nın Ölümsüz Mirası

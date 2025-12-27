@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.89779,36.91414"
 draft: false
+
+weight: 10
 ---
 
 # Aziz Pavlus Kilisesi: Tarsus'un Tarihi Bir Mirası

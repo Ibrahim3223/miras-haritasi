@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.6923973,40.4615408"
 draft: false
+
+weight: 100
 ---
 
 ### Çakırca Roma Köprüsü: İznik'in Tarihi Bir Mirası

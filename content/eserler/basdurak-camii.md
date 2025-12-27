@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.133472222,38.418472222"
 draft: false
+
+weight: 10
 ---
 
 ## Başdurak Camii: İzmir'in Tarihi ve Kültürel Mirası

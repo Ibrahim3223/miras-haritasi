@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0459003,40.1918869"
 draft: false
+
+weight: 100
 ---
 
 ## Şair Ahmet Paşa Medresesi

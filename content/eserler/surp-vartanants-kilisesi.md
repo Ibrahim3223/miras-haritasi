@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.981027777,41.05375"
 draft: false
+
+weight: 10
 ---
 
 **Surp Vartanants Kilisesi: Ermeni Tarihinin Bir Parçası**

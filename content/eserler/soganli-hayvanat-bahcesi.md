@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.047089,40.218525"
 draft: false
+
+weight: 100
 ---
 
 **Soğanlı Hayvanat Bahçesi**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.861472222,36.190555555"
 draft: false
+
+weight: 10
 ---
 
 # Simena: Antik Tarihin Gizemi

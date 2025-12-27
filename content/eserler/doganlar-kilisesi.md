@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.2532959,38.4523163"
 draft: false
+
+weight: 100
 ---
 
 ### Doğanlar Kilisesi: Bornova, İzmir'de Bir Tarihi Anıt

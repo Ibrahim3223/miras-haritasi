@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3293495,39.1831703"
 draft: false
+
+weight: 100
 ---
 
 **Ayazköy / Ayaskent: Bergama'nın Gizli Mücevheri**

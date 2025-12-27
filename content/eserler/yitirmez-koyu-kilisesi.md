@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.6748695,40.4524345"
 draft: false
+
+weight: 100
 ---
 
 ## Yitirmez Köyü Kilisesi

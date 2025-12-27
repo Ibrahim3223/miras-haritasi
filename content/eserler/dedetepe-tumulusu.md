@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5506859,38.5648193"
 draft: false
+
+weight: 100
 ---
 
 ## Dedetepe Tümülüsü: Tarihî Bir Mirasın Gizemi

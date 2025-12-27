@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.857917644,39.943925373"
 draft: false
+
+weight: 100
 ---
 
 ## Anonim Türbe-4, Altındağ: Ankara'nın Gizli Ören Yeri

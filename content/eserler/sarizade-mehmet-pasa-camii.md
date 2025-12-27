@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.0107498,39.7509689"
 draft: false
+
+weight: 100
 ---
 
 ## Sarızade Mehmet Paşa Camii

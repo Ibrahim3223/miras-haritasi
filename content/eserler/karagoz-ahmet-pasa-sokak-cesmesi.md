@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9804573,39.4187469"
 draft: false
+
+weight: 100
 ---
 
 ## Karagöz Ahmet Paşa Sokak Çeşmesi

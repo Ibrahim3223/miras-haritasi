@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.10964,37.89673"
 draft: false
+
+weight: 100
 ---
 
 ## Plutonion of Acharaka: Aydın'ın Gizemli Arkeolojik Sitleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.764683,41.028946"
 draft: false
+
+weight: 100
 ---
 
 ## Melantias: Avcılar'daki Antik Sit

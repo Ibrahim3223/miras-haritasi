@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.054906,41.101418"
 draft: false
+
+weight: 10
 ---
 
 ### Boyacıköy Kanlıkavak Suyu Çeşmesi: İstanbul'un Gizli Çeşmesi

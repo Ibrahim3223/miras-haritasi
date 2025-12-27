@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.94987,41.016993"
 draft: false
+
+weight: 100
 ---
 
 ## Feyzullah Efendi Medresesi

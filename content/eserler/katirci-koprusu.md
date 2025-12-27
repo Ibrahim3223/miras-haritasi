@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.4851532,41.1412086"
 draft: false
+
+weight: 100
 ---
 
 ### Katırcı Köprüsü

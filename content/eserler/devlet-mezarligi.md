@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.807222222,39.936944444"
 draft: false
+
+weight: 10
 ---
 
 ## Devlet Mezarlığı

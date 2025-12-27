@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.0383797,40.3880081"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarca Köyü Camii

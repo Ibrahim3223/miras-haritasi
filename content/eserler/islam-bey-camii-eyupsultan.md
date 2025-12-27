@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.92662,41.051484"
 draft: false
+
+weight: 10
 ---
 
 ## İslam Bey Camii, Eyüpsultan

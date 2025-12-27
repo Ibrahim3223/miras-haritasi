@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0533657,40.1915703"
 draft: false
+
+weight: 1
 ---
 
 ## Selimiye Camii (Bursa)

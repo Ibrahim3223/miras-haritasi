@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9846266,41.0130633"
 draft: false
+
+weight: 1
 ---
 
 ## III. Ahmet Çeşmesi: Topkapı Sarayı'nın Gizli Çeşmesi

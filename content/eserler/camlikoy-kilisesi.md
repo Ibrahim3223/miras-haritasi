@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.448932,40.389276"
 draft: false
+
+weight: 100
 ---
 
 # Çamlıköy Kilisesi: Tarihî Bir Mirasın Gizemi

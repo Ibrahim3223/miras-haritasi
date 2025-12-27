@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9494934,41.019577"
 draft: false
+
+weight: 10
 ---
 
 ## Güneş Saati: Fatih Camii'nin Gizli Şarkısı

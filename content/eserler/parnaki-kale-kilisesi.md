@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.155527777,40.684083333"
 draft: false
+
+weight: 100
 ---
 
 ## Parnaki Kale Kilisesi: Tarihi ve Kültürel Bir Miras

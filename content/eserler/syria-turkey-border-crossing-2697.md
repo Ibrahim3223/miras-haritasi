@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "38.957104,36.69660203"
 draft: false
+
+weight: 100
 ---
 
 # Suriye-Türkiye Sınırı #2697 Kervansarayı

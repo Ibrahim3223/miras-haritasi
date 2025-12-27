@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.4262886,38.6111259"
 draft: false
+
+weight: 100
 ---
 
 ## Hafsa Sultan Darüşşifası

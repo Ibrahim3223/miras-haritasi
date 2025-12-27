@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.949693,41.013804"
 draft: false
+
+weight: 100
 ---
 
 ### Bıçakçı Alaaddin Camii Tanıtımı

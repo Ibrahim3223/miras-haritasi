@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.6949806,39.358654"
 draft: false
+
+weight: 100
 ---
 
 ### Hınıs Kalesi 

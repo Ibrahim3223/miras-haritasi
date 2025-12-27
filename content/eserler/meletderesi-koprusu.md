@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.0223579,38.1482201"
 draft: false
+
+weight: 100
 ---
 
 ### Meletderesi Köprüsü: Malatya'nın Tarihî Mirası

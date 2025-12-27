@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.32305556,41.31888889"
 draft: false
+
+weight: 10
 ---
 
 ## Amisos Tepesi: Samsun'un Tarihi İncisi

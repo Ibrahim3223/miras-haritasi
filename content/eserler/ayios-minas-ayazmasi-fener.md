@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9494591,41.030674"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Minas Ayazması, Fener

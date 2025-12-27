@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.957222222,41.019722222"
 draft: false
+
+weight: 10
 ---
 
 # Petra'daki Sanctus Angelus Manastırı Nedir?

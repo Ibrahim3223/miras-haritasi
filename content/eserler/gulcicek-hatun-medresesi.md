@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0498924,40.1889648"
 draft: false
+
+weight: 100
 ---
 
 ### Gülçiçek Hatun Medresesi: Bursa'nın Tarihi Mirası

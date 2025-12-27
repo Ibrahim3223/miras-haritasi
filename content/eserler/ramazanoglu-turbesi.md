@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.331043,36.9846612"
 draft: false
+
+weight: 100
 ---
 
 # Ramazanoğlu Türbesi

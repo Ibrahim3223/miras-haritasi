@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.2664948,36.7559891"
 draft: false
+
+weight: 100
 ---
 
 ## Amos Antik Tiyatrosu

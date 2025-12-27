@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.489703,38.717494"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Meryem Ana Kilisesi

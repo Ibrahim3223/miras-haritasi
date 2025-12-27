@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.04333333,41.06805556"
 draft: false
+
+weight: 10
 ---
 
 ## Arnavutköy Tahsisarhis Rum Kilisesi

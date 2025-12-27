@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.971735,41.0161438"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan V. Murat Türbesi

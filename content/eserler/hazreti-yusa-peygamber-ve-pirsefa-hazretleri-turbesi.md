@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.387111,37.062256"
 draft: false
+
+weight: 100
 ---
 
 ## Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi

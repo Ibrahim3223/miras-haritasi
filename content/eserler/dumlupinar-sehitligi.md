@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.958585,38.843186"
 draft: false
+
+weight: 10
 ---
 
 ## Dumlupınar Şehitliği

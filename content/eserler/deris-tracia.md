@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.808976,40.657809"
 draft: false
+
+weight: 100
 ---
 
 ## Deris (Tracia): Gelibolu'nun Gizli Mirası

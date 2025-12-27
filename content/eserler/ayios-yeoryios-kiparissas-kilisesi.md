@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.933413,41.000911"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Yeoryios Kiparissas Kilisesi: İstanbul'un Gizli Cenneti

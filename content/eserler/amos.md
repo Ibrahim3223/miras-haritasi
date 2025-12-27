@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.26889444,36.75755556"
 draft: false
+
+weight: 10
 ---
 
 ### Amos Arkeolojik Sit: Muğla'nın Gizli Güzelliği

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.944,41.01538056"
 draft: false
+
+weight: 10
 ---
 
 ## Fenari İsa Camii

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.059903,40.878437"
 draft: false
+
+weight: 100
 ---
 
 ## Hristos Manastırı: Adalar'ın Gizli Pearlağı

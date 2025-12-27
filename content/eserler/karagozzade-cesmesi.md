@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9492302,41.0477066"
 draft: false
+
+weight: 100
 ---
 
 ## Karagözzade Çeşmesi

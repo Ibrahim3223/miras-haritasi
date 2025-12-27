@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0695057,41.6506767"
 draft: false
+
+weight: 100
 ---
 
 ## Dokuzhöyük Höyükler 8 Tümülüsü: Kırklareli'nin Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.8110008,37.7743988"
 draft: false
+
+weight: 100
 ---
 
 ## Türbe Höyük: Siirt'in Gizli Mirası

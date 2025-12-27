@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "41.278357,39.905806"
 draft: false
+
+weight: 10
 ---
 
 ## Çifte Minareli Medrese

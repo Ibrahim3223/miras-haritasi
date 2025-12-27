@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0460204,40.1905504"
 draft: false
+
+weight: 10
 ---
 
 ## Sultan II. Murat Türbesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.331910404,36.983666142"
 draft: false
+
+weight: 10
 ---
 
 ## İlter Uzel Tıp ve Diş Hekimliği Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4281006,37.8335648"
 draft: false
+
+weight: 100
 ---
 
 ## Zahruddin Ali Türbesi: Konya'nın Tarihi Mirası

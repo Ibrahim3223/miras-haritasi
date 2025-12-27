@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.97805556,41.01111111"
 draft: false
+
+weight: 10
 ---
 
 ### Babıali: İstanbul'un Tarihi Anıtı

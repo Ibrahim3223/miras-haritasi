@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.7843456,39.5720215"
 draft: false
+
+weight: 100
 ---
 
 ## Antandros Roma Hamamı

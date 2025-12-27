@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1656367,36.2016763"
 draft: false
+
+weight: 10
 ---
 
 ## Habib-i Neccar Camii

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.4615631,40.8740311"
 draft: false
+
+weight: 10
 ---
 
 ### Merzifon Mehmet Çelebi Medresesi: Amasya'nın Gizli Çağı

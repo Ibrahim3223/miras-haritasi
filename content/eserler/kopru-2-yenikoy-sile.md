@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.6499882,41.1230392"
 draft: false
+
+weight: 100
 ---
 
 ## Köprü 2, Yeniköy-Şile: İstanbul'un Doğası ile Birleşen Gizemli Köprü

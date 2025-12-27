@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.388475,40.90977"
 draft: false
+
+weight: 100
 ---
 
 ## Yüzbaşı Suyu Çeşmesi

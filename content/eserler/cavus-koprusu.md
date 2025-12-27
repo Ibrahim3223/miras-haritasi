@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.8465061,37.8475609"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuş Köprüsü

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.6212883,37.9682274"
 draft: false
+
+weight: 100
 ---
 
 ## Fertek Hamamı: Niğde'nin Tarihi Bir Mirası

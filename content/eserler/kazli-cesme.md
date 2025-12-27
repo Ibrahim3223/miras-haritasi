@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.914658626,40.990683327"
 draft: false
+
+weight: 10
 ---
 
 ### Kazlı Çeşme: İstanbul'un Zeytinburnu'ndaki Tarihi Bir Çeşme

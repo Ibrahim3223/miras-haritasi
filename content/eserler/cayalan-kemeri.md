@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.353857,37.5979614"
 draft: false
+
+weight: 100
 ---
 
 ## Çayalan Kemeri: Aydın'ın Gizli Harikası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2356339,37.9060707"
 draft: false
+
+weight: 10
 ---
 
 ## Mardin Kapısının Gizemi ve Tarihi

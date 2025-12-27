@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3310013,36.9870338"
 draft: false
+
+weight: 100
 ---
 
 ### Şefika Hatun Camii: Kayalıbağ'da Bir Önemli Cami

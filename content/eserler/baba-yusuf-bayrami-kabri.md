@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9333973,41.0483284"
 draft: false
+
+weight: 100
 ---
 
 ## Baba Yusuf Bayrami Kabri

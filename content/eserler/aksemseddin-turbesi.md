@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.7858047,40.3984489"
 draft: false
+
+weight: 10
 ---
 
 ## Akşemseddin Türbesi: Göynük'te Bir Ölümsüz Ziyaretgah

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3970356,41.4195786"
 draft: false
+
+weight: 100
 ---
 
 ## Umurca Tümülüsü 5: Lüleburgaz'ın Gizli Mirası

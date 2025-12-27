@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8263262,41.0528"
 draft: false
+
+weight: 10
 ---
 
 ## Burmalı Çeşmesi: İstanbul'un Gizli Cenneti

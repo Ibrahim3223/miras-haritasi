@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.928091,39.585106"
 draft: false
+
+weight: 100
 ---
 
 ### Krise (Aiolis)

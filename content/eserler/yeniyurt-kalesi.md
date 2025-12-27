@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.130277777,36.626388888"
 draft: false
+
+weight: 10
 ---
 
 # Yeniyurt Kalesi: Mersin'in Gizli Kırlangıçları

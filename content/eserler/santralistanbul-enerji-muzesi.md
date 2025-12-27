@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.946595012,41.066439475"
 draft: false
+
+weight: 10
 ---
 
 ### Santralistanbul Enerji Müzesi

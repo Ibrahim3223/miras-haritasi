@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.920535,40.7631"
 draft: false
+
+weight: 10
 ---
 
 ## Av Köşkü Saray Müzesi

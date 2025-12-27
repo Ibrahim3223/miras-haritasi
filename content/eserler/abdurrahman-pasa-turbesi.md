@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935418,41.047583"
 draft: false
+
+weight: 10
 ---
 
 ### Abdurrahman Paşa Türbesi: Eyüpsultan'ın Gizli Çeşmesi

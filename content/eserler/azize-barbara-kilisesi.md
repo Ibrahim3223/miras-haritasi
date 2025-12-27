@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8451292,38.6387322"
 draft: false
+
+weight: 10
 ---
 
 ## Azize Barbara Kilisesi

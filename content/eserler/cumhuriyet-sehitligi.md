@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4538822,38.7923927"
 draft: false
+
+weight: 100
 ---
 
 ## Cumhuriyet Şehitliği

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3248062,37.9033127"
 draft: false
+
+weight: 100
 ---
 
 # Ağa Camii Meydan Çeşmesi

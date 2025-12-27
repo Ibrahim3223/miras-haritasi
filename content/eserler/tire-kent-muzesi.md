@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.73222222,38.08833333"
 draft: false
+
+weight: 100
 ---
 
 ## Tire Kent Müzesi

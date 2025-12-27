@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.659346,36.880906"
 draft: false
+
+weight: 10
 ---
 
 **Arapsuyu Köprüsü**

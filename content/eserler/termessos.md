@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.46444444,36.9825"
 draft: false
+
+weight: 10
 ---
 
 ### Termessos: Antik bir Kentin Mirası

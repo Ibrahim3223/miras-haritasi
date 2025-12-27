@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3964996,37.1912003"
 draft: false
+
+weight: 100
 ---
 
 ## Berberler Kahvesi Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti

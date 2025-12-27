@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9110851,41.7550354"
 draft: false
+
+weight: 100
 ---
 
 # Ortahöyük B Tümülüsü

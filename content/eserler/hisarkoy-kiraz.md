@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.190317,38.241817"
 draft: false
+
+weight: 100
 ---
 
 ### Hisarköy, Kiraz: İzmir'in Gizli Arkeolojik Harikası

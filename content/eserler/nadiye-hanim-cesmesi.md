@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8650055,39.9347191"
 draft: false
+
+weight: 100
 ---
 
 ## Nadiye Hanım Çeşmesi

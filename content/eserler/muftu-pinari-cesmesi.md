@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6701164,41.2618942"
 draft: false
+
+weight: 10
 ---
 
 ## Müftü Pınarı Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.198352728,39.922225771"
 draft: false
+
+weight: 100
 ---
 
 ## Ezine'deki Mahmudiye Köyü Camisi: Bir Örnek Osmanlı Mimarisinden

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9797077,41.0082779"
 draft: false
+
+weight: 1
 ---
 
 **Ayasofya Kütüphanesi**

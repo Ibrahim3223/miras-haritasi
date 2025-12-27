@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.051652,41.023119"
 draft: false
+
+weight: 100
 ---
 
 ## Tophanelioğlu Meydan Çeşmesi

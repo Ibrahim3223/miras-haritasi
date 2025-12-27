@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5376797,38.7587776"
 draft: false
+
+weight: 100
 ---
 
 ## Alaca Hamamı

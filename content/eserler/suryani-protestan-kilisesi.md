@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.2374954,37.9085732"
 draft: false
+
+weight: 100
 ---
 
 ## Süryani Protestan Kilisesi: Diyarbakır'ın Tarihi ve Kültürel Bir Mirası

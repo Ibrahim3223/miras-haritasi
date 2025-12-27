@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9455605,41.0057983"
 draft: false
+
+weight: 10
 ---
 
 ## Pervane Dede Kabri: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri

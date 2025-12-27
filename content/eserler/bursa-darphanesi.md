@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0605946,40.1779861"
 draft: false
+
+weight: 100
 ---
 
 ### Bursa Darphanesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.359938229,40.183811203"
 draft: false
+
+weight: 10
 ---
 
 ## Tarihe Saygı Anıtı

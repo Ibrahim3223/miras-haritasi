@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.662953,40.242125"
 draft: false
+
+weight: 10
 ---
 
 ### Mren Katedrali: Kars'ın Gizli Cağlısı

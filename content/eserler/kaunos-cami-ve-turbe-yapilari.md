@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6208725,36.8248863"
 draft: false
+
+weight: 100
 ---
 
 ## Kaunos Cami ve Türbe Yapıları

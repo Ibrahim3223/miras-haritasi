@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1175,39.53638889"
 draft: false
+
+weight: 10
 ---
 
 ### Khrysa (Troad): Ayvacık'taki Eski Bir Kent

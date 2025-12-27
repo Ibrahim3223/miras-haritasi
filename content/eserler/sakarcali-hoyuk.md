@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.77085,39.118767"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarcalı Höyük: Eski Uygarlığın İzleri Manisa'da

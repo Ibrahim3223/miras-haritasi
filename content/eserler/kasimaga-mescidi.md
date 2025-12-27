@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.939,41.029"
 draft: false
+
+weight: 10
 ---
 
 ## Kasımağa Mescidi: İstanbul'un Gizli Çamı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.3261909,36.9815636"
 draft: false
+
+weight: 100
 ---
 
 ## Merhum Ali Dede Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.6657143,37.5352631"
 draft: false
+
+weight: 100
 ---
 
 # Alibeyhüyüğü Arkeolojik Sit

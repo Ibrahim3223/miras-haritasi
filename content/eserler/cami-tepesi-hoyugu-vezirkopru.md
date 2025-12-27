@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.492898,41.163423"
 draft: false
+
+weight: 100
 ---
 
 ## Cami Tepesi Höyüğü: Vezirköprü'nün Tarihî Mirası

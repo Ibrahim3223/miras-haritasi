@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1378403,38.4204483"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Hoca Camii Çeşmesi

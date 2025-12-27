@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.9743195,39.4161491"
 draft: false
+
+weight: 10
 ---
 
 ### Kütahya Jeoloji Müzesi

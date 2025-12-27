@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1294098,38.4135361"
 draft: false
+
+weight: 100
 ---
 
 # Damlacık Camii Çeşmesi, Konak

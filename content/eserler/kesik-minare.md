@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.70606,36.88258"
 draft: false
+
+weight: 10
 ---
 
 ## Kesik Minare: Antalya'nın Tarihi Bir Çarığı

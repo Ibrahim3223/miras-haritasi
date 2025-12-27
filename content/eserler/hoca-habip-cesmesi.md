@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5020447,37.8732071"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Habip Çeşmesi

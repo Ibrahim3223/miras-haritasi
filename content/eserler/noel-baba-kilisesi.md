@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.985555555,36.244722222"
 draft: false
+
+weight: 10
 ---
 
 ## Noel Baba Kilisesi: Demre'nin Gizli Çehresini Keşfetmek

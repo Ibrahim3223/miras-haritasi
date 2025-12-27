@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.873083333,41.161466666"
 draft: false
+
+weight: 100
 ---
 
 ## Uri Kilisesi: Ardahan'ın Gizli Kahramanı

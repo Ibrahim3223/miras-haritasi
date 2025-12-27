@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.751628,39.842665"
 draft: false
+
+weight: 10
 ---
 
 ## Jandarma Müzesi

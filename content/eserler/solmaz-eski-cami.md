@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9679317,37.4918671"
 draft: false
+
+weight: 100
 ---
 
 ## Solmaz Eski Cami: Denizli'nin Tarihi ve Kültürel Mirası

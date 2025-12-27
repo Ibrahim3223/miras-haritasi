@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.051927777,40.975558333"
 draft: false
+
+weight: 10
 ---
 
 **Selâmi Çeşme: Kadıköy'un Eski ve Önemli Hazinesi**

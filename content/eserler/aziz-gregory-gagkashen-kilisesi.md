@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5687,40.51"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Gregory Gagkashen Kilisesi

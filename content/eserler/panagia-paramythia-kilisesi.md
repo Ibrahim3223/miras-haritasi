@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9484234,41.0307083"
 draft: false
+
+weight: 10
 ---
 
 ## Panagia Paramythia Kilisesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.8905247,36.6408977"
 draft: false
+
+weight: 100
 ---
 
 ### Karamanoğlu Hamamı

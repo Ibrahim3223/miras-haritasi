@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.881164,37.127563"
 draft: false
+
+weight: 100
 ---
 
 ## Dorumlar Camii: Antalya'nın Değerli Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976589,41.022926"
 draft: false
+
+weight: 10
 ---
 
 ## Kemankeş Mustafa Paşa Sıbyan Mektebi Çeşmesi

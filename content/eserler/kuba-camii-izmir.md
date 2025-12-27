@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3695068,37.9477768"
 draft: false
+
+weight: 100
 ---
 
 ## Kuba Camii: Tarihî Bir Mirasın İmzası

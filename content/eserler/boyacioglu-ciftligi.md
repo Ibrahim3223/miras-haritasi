@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.379477,39.769254"
 draft: false
+
+weight: 100
 ---
 
 ## Boyacıoğlu Çiftliği: Eskişehir'in Tarihî Mirası

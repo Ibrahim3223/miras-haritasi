@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.2302399,37.9057655"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Paşa Medresesi: Diyarbakır'ın Kültürel Mirası

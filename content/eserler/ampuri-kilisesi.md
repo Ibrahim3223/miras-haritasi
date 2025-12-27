@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.166527777,41.2865"
 draft: false
+
+weight: 100
 ---
 
 ## Ampuri Kilisesi: Kenardere'nin Tarihî Mirası

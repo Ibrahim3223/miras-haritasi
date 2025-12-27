@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8370171,38.923008"
 draft: false
+
+weight: 100
 ---
 
 ## Hergelen Cami

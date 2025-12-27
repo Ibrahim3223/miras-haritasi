@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.333712269,39.786099612"
 draft: false
+
+weight: 100
 ---
 
 ### Şerife Hanım Çeşmesi: Ezine'nin Değerli Mirası

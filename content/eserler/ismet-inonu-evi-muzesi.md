@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.09333333,40.87805556"
 draft: false
+
+weight: 10
 ---
 
 ## İsmet İnönü Evi Müzesi

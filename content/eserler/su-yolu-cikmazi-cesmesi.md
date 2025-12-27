@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.179688888,39.118155555"
 draft: false
+
+weight: 10
 ---
 
 ## Su Yolu Çıkmazı Çeşmesi

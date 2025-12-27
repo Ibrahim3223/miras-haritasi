@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.77643,41.3776"
 draft: false
+
+weight: 10
 ---
 
 # Nasrullah Köprüsü

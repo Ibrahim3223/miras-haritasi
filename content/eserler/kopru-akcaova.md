@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2875996,37.2406998"
 draft: false
+
+weight: 100
 ---
 
 ### Köprü, Akçaova: Muğla'nın Eski Kenti Menteşe'de Gizli Bir Miras

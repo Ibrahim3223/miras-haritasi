@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.862333333,39.931861111"
 draft: false
+
+weight: 10
 ---
 
 ## Hacettepe Sanat Müzesi

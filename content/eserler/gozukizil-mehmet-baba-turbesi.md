@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.388936,37.057903"
 draft: false
+
+weight: 100
 ---
 
 ## Gözükızıl Mehmet Baba Türbesi: Gaziantep'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.959105,41.012052"
 draft: false
+
+weight: 100
 ---
 
 ## Acemoğlu Camii: Fatih'in Gizli Çehresini Keşfetmek

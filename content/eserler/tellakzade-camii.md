@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2263145,41.7394104"
 draft: false
+
+weight: 100
 ---
 
 ### Giriş

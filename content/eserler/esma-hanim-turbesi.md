@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.5550728,38.6870232"
 draft: false
+
+weight: 100
 ---
 
 ## Esma Hanım Türbesi

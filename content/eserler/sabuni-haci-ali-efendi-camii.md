@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5552387,41.6743126"
 draft: false
+
+weight: 100
 ---
 
 # Sabuni Hacı Ali Efendi Camii

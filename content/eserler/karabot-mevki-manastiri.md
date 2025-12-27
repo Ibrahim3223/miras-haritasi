@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.7737179,40.1573486"
 draft: false
+
+weight: 100
 ---
 
 ## Karabot Mevki Manastırı: Gökçeada'nın Eski Bir Manastırı

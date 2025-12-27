@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.782956,37.1399533"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Mesud Türbesi

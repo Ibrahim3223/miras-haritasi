@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.6192207,40.6010437"
 draft: false
+
+weight: 100
 ---
 
 **Buğdaypazarı Camii**

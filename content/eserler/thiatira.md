@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.841666666,38.920833333"
 draft: false
+
+weight: 10
 ---
 
 ## Thiatira: Antik Çağın Gizemi

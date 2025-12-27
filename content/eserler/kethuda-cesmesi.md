@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.086405,41.1371"
 draft: false
+
+weight: 10
 ---
 
 ## Kethüda Çeşmesi: İstanbul'un Gizli Çeşmesi

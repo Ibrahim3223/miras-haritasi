@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1135,38.458388888"
 draft: false
+
+weight: 10
 ---
 
 ### Latife Hanım Köşkü Anı Evi

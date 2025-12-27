@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968905,41.016927"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Çeşmesi (Fatih)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Bağbaşı Höyüğü: Türkiye'nin Eski Uygarlığının Gizemi

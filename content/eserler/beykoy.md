@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.46095,39.02435"
 draft: false
+
+weight: 100
 ---
 
 # Beyköy Arkeolojik Sit

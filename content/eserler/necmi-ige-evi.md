@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.5618954,41.6809158"
 draft: false
+
+weight: 10
 ---
 
 ## Necmi İğe Evi: Edirne'nin Gizli Müzesi

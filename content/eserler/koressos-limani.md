@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3335,37.9435"
 draft: false
+
+weight: 100
 ---
 
 ## Koressos Limanı: Ege'nin Gizemli Arkeolojik Sitleri

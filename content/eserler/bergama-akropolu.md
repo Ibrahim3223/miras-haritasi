@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.18421,39.13216"
 draft: false
+
+weight: 10
 ---
 
 ## Bergama Akropolü

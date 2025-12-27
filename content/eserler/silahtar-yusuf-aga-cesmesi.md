@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.952244,41.08384"
 draft: false
+
+weight: 100
 ---
 
 ### Silahtar Yusuf Ağa Çeşmesi

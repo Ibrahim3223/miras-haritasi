@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.325638888,36.986361111"
 draft: false
+
+weight: 10
 ---
 
 ## Seyhan, Adana'da Cami: Geçmişten Günümüze Bir Miras

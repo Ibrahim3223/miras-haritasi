@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9789963,41.0084152"
 draft: false
+
+weight: 1
 ---
 
 ## Güneş Saati, Ayasofya Camii Avlusu

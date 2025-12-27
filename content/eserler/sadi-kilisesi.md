@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.000104,40.884028"
 draft: false
+
+weight: 100
 ---
 
 ### Şadı Kilisesi: Tarihî Bir Mirasın Gizemi

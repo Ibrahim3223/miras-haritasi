@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.011161899,41.049631788"
 draft: false
+
+weight: 100
 ---
 
 ## Şehir Müzesi: İstanbulluların Tarihini Anlattığı Bir Yer

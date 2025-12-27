@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.4801674,39.1058655"
 draft: false
+
+weight: 100
 ---
 
 # Dereboğaz Kalesi: Tarihi ve Ünlü Yerinin Gizemi

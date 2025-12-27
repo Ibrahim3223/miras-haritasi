@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.232749,40.914403"
 draft: false
+
+weight: 100
 ---
 
 ## Şemsettin Camii (Bulancak)

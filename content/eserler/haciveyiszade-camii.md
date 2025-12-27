@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.488388888,37.876305555"
 draft: false
+
+weight: 10
 ---
 
 ## Hacıveyiszade Camii

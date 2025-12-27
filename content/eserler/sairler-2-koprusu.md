@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.74855,41.06675"
 draft: false
+
+weight: 100
 ---
 
 ## Şairler 2 Köprüsü: Rize'nin Kültürel Mirası

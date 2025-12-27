@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.72361111,37.65833333"
 draft: false
+
+weight: 100
 ---
 
 ## Faustinopolis: Niğde'nin Gizli Mirası

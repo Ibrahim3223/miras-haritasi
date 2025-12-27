@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.70257,41.7155342"
 draft: false
+
+weight: 100
 ---
 
 ## Karayusuf Tümülüsü: Edirne'nin Gizli Şövalyesi

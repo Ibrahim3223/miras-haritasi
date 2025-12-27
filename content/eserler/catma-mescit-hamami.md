@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.969929916,41.031318445"
 draft: false
+
+weight: 100
 ---
 
 ### Çatma Mescit Hamamı

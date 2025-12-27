@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.7940998,40.9810219"
 draft: false
+
+weight: 100
 ---
 
 ## Şenlikköy Meydan Çeşmesi: Bakırköy'nin Tarihi Çöpçülerinin Mirası

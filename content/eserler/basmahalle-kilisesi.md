@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.9723701,40.5096054"
 draft: false
+
+weight: 100
 ---
 
 ## Başmahalle Kilisesi

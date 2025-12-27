@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.045621,41.040288"
 draft: false
+
+weight: 100
 ---
 
 ## Bedevi Tekkesi Çeşmesi: Üsküdar'ın Gizli Cenneti

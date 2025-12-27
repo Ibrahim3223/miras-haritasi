@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.181036,40.8000069"
 draft: false
+
+weight: 100
 ---
 
 ## Kumbağlar 1 Tümülüsü: Şarköy'de Bir Arkeolojik Harikalar Diyarı

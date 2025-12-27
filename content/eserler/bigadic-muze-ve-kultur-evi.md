@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.132809,39.3916"
 draft: false
+
+weight: 100
 ---
 
 ### Bigadiç Müze Ve Kültür Evi

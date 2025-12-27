@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1834507,39.1220665"
 draft: false
+
+weight: 100
 ---
 
 ## Moreno Korkidi Çeşmesi: Bergama'nın Tarihi Çeşmesi

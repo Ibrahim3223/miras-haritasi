@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "36.0111,35.9054"
 draft: false
+
+weight: 10
 ---
 
 ## Yayladağı Sınır Kapısı

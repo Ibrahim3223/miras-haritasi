@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.022131055,40.439819825"
 draft: false
+
+weight: 100
 ---
 
 ## Avcıova Köyü Eski Camii: Çubuk'ta Bir Kültür Mirası

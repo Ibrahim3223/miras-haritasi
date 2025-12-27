@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.1104378,37.8364608"
 draft: false
+
+weight: 10
 ---
 
 ## Laodicea Kilisesi: Geçmişin Gizemli Kalıntıları

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.595075,40.202952"
 draft: false
+
+weight: 10
 ---
 
 ## Mariegordus: Ankara'nın Gizli Kahramanı

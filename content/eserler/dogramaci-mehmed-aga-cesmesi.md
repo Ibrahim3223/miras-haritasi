@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944958805,41.019713235"
 draft: false
+
+weight: 100
 ---
 
 ### Doğramacı Mehmed Ağa Çeşmesi

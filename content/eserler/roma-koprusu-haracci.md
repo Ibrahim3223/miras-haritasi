@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.696608,41.185753"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Haraççı

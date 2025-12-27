@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.959964461,40.36755323"
 draft: false
+
+weight: 100
 ---
 
 ### Kuruçay Köy Müzesi

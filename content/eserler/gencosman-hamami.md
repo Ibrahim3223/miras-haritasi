@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.0630395,40.3829862"
 draft: false
+
+weight: 100
 ---
 
 **Gençosman Hamamı**

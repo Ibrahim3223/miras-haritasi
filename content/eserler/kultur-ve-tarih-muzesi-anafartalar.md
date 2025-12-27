@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.85753,39.935375"
 draft: false
+
+weight: 100
 ---
 
 ## Kültür ve Tarih Müzesi, Anafartalar

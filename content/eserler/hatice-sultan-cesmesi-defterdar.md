@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9403934,41.0411148"
 draft: false
+
+weight: 100
 ---
 
 ## Hatice Sultan Çeşmesi, Defterdar

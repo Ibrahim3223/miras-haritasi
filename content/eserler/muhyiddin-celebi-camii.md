@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.981111111,41.031972222"
 draft: false
+
+weight: 10
 ---
 
 ### Muhyiddin Çelebi Camii

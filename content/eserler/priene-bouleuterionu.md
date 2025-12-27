@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "27.2981318,37.6591231"
 draft: false
+
+weight: 10
 ---
 
 **Priene Bouleuterionu: Aydın'ın Tarihi Mirası**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4697189,41.6274529"
 draft: false
+
+weight: 100
 ---
 
 ## Batak Değirmen Höyüğü: Kırklareli'nin Gizli Anıtı

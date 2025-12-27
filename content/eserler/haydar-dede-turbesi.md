@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.840895,39.290185"
 draft: false
+
+weight: 100
 ---
 
 ## Haydar Dede Türbesi

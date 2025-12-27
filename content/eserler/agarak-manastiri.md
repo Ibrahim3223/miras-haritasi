@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.6664363,39.962602"
 draft: false
+
+weight: 10
 ---
 
 ### Agarak Manastırı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.1067848,37.9551849"
 draft: false
+
+weight: 100
 ---
 
 ## Halıcı Ahmet Urkay Etnografya ve Arkeoloji Müzesi

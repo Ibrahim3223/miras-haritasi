@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7401,40.7511"
 draft: false
+
+weight: 100
 ---
 
 ## Arpacık Camii: Artvin'in Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Çukur Çeşmeler: Ankara'nın Gizli Çeşmesi

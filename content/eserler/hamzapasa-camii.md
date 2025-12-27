@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.712827,41.004289"
 draft: false
+
+weight: 10
 ---
 
 ## Hamzapaşa Camii: Trabzon'un Tarihî Mirası

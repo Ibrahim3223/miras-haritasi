@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.0984821,39.5584793"
 draft: false
+
+weight: 100
 ---
 
 ## Mektep Çeşmesi: Havran'ın tarihi bir şaheseri

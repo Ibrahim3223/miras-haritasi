@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2802277,39.9056702"
 draft: false
+
+weight: 100
 ---
 
 **Ahi Toman Baba Türbesi**

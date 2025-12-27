@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.013354,41.021709"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Çelebi Camii Çeşmesi

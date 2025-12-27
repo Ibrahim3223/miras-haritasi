@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.069468,39.83497"
 draft: false
+
+weight: 100
 ---
 
 ### Bozcaada Yerel Tarih Müzesi

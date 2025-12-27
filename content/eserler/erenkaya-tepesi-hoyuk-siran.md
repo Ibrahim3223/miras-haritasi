@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.109018,40.230758"
 draft: false
+
+weight: 100
 ---
 
 ## Erenkaya Tepesi Höyük: Şiran'in Gizemi

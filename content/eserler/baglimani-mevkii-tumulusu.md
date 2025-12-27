@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1620064,39.8881645"
 draft: false
+
+weight: 100
 ---
 
 ### Bağlimanı Mevkii Tümülüsü

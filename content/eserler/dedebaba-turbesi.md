@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.914194901,38.246806831"
 draft: false
+
+weight: 100
 ---
 
 ## Dedebaba Türbesi: Kahramanmaraş'ta Bir İnanç Mirası

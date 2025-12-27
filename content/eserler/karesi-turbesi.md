@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.879388888,39.64975"
 draft: false
+
+weight: 10
 ---
 
 ## Karesi Türbesi: Balıkesir'in Tarihi ve Kültürel Mirası

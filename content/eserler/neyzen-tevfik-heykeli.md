@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.189818,40.889697"
 draft: false
+
+weight: 100
 ---
 
 ## Neyzen Tevfik Heykeli

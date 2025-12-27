@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.129472222,38.413638888"
 draft: false
+
+weight: 10
 ---
 
 ### Damlacık Camii: Konak, İzmir'in Tarihi Bir Örneği

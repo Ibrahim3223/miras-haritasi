@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.8865509,36.4131165"
 draft: false
+
+weight: 100
 ---
 
 ## Mar Yuhanna Ortodoks Kilisesi

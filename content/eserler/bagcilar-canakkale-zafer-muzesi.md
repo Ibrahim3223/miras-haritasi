@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.816487885,41.040413228"
 draft: false
+
+weight: 100
 ---
 
 ## Bağcılar Çanakkale Zafer Müzesi

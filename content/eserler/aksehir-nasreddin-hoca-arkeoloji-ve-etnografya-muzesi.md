@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.411111111,38.356666666"
 draft: false
+
+weight: 10
 ---
 
 ## Akşehir Nasreddin Hoca Arkeoloji ve Etnografya Müzesi: Kültür Mirasının Bir Anıtı

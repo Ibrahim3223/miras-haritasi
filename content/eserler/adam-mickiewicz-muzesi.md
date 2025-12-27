@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9771,41.038777"
 draft: false
+
+weight: 10
 ---
 
 ## Adam Mickiewicz Müzesi

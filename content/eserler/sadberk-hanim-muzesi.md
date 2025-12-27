@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.04777,41.16308"
 draft: false
+
+weight: 10
 ---
 
 ## Sadberk Hanım Müzesi: İstanbulluların En Büyük Değerleri Arasındaki Bir Anıt

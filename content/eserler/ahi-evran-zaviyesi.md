@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.159232,39.148227"
 draft: false
+
+weight: 10
 ---
 
 ## Ahi Evran Zaviyesi: Kırşehir'in Tarihi Bir Mirası

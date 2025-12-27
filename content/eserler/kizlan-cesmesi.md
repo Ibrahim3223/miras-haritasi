@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6922874,36.7739983"
 draft: false
+
+weight: 100
 ---
 
 ## Kızlan Çeşmesi

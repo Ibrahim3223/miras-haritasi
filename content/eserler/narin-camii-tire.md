@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.736208,38.0820808"
 draft: false
+
+weight: 100
 ---
 
 ## Narin Camii: Tire'nin Tarihi Bir Mirası

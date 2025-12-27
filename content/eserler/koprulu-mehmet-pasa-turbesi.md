@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9718862,41.0082595"
 draft: false
+
+weight: 10
 ---
 
 ## Köprülü Mehmet Paşa Türbesi: Fatih'in Tarihi Bir Anıtı

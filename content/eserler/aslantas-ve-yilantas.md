@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.52333333,39.04833333"
 draft: false
+
+weight: 10
 ---
 
 ## Aslantaş ve Yılantaş: Afyonkarahisar'ın Gizli Anıtı

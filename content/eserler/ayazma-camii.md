@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.008882,41.022657"
 draft: false
+
+weight: 10
 ---
 
 ## Ayazma Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.603039,38.54711"
 draft: false
+
+weight: 100
 ---
 
 ## Nisyra Arkeolojik Siti

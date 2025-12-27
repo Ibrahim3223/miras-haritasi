@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.265833333,37.520277777"
 draft: false
+
+weight: 100
 ---
 
 ## Kalabak Tepe Tapınağı

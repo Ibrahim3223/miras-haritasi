@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.964833,41.015668"
 draft: false
+
+weight: 10
 ---
 
 ### Tomb of Hürrem Sultan

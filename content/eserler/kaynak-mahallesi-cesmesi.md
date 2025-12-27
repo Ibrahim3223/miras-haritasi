@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4138279,38.6089897"
 draft: false
+
+weight: 100
 ---
 
 ## Kaynak Mahallesi Çeşmesi

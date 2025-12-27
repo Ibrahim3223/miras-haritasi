@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.0839386,37.9742203"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Saimbey Deresi

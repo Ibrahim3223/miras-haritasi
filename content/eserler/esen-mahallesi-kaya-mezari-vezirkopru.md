@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.329235,41.104167"
 draft: false
+
+weight: 100
 ---
 
 ## Esen Mahallesi Kaya Mezarı, Vezirköprü

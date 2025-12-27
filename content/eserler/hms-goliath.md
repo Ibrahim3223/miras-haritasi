@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1999531,40.0332718"
 draft: false
+
+weight: 10
 ---
 
 ## HMS Goliath: Eceabat'ta Bir Savaş Gemininin Efsanesi

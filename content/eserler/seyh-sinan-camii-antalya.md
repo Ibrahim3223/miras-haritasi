@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.7157516,36.8862534"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Sinan Camii: Antalya'nın Tarihi ve Kültürel Mirası

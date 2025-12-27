@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.671567,39.35195"
 draft: false
+
+weight: 100
 ---
 
 # Sarıcailyas Arkeolojik Sit

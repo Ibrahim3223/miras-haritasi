@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4856758,41.8208046"
 draft: false
+
+weight: 100
 ---
 
 ## Avyeri Tümülüsü

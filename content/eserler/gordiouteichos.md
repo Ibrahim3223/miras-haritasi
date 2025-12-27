@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.609,37.685"
 draft: false
+
+weight: 100
 ---
 
 ## Gordiouteichos: Aydın'ın Gizli Cenneti

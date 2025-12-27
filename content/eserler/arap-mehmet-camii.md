@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0613804,40.1807632"
 draft: false
+
+weight: 10
 ---
 
 # Arap Mehmet Camii: Bursa'nın Tarihi Bir Mirası

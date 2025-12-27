@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "44.07948,39.93679"
 draft: false
+
+weight: 10
 ---
 
 **Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi**

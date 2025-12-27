@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.2003708,40.0061455"
 draft: false
+
+weight: 100
 ---
 
 ## Kumkale Kalesi Camii

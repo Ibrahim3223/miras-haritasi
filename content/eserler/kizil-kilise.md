@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.4284989,38.2598295"
 draft: false
+
+weight: 10
 ---
 
 ## Kızıl Kilise: Güzelyurt'taki Tarihi Bir Miras

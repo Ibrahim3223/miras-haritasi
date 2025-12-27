@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.4004345,40.1486702"
 draft: false
+
+weight: 100
 ---
 
 ### Yalı Camii: Çanakkale'nin Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.5637703,41.1772766"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Nakkaş: Çatalca'nın Gizli Cenneti

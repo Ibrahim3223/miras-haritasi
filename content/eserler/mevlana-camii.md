@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.265439,37.76379"
 draft: false
+
+weight: 100
 ---
 
 ## Mevlana Camii: Honaz'ın Tarihî Bir Mirası

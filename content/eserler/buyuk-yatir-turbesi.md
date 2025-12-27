@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.617728,40.704428"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Yatır Türbesi

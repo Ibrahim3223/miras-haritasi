@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34527778,37.94722222"
 draft: false
+
+weight: 100
 ---
 
 ## Vedius Gymnasionu: İzmir'in Gizli Mirası

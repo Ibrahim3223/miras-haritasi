@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.1866245,38.8306732"
 draft: false
+
+weight: 100
 ---
 
 **Aigai Antik Tiyatrosu**

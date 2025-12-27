@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.9307079,40.7636147"
 draft: false
+
+weight: 100
 ---
 
 ### Pertev Paşa Hamamı

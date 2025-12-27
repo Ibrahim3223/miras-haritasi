@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.879444444,39.645833333"
 draft: false
+
+weight: 10
 ---
 
 ## Balıkesir Kuvay-ı Milliye Müzesi

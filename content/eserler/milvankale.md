@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.9765816,37.307457"
 draft: false
+
+weight: 100
 ---
 
 ## Milvankale: Adana'nın Gizli Tarihi

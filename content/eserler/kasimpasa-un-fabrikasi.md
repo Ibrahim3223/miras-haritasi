@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.969270525,41.030562082"
 draft: false
+
+weight: 10
 ---
 
 **Kasımpaşa Un Fabrikası: İstanbul'un Unlu Mirası**

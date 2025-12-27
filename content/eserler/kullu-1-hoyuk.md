@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4803977,39.4989101"
 draft: false
+
+weight: 100
 ---
 
 ## Küllü 1 Höyük: Çiçekdağı'nda Gizlenen Geç Çağataylı Mirası

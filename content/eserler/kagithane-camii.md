@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.962888888,41.069944444"
 draft: false
+
+weight: 10
 ---
 
 ## Kağıthane Camii: Bir Osmanlı Dönemi Eseri

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2762642,37.0004005"
 draft: false
+
+weight: 100
 ---
 
 ## Veli Zevcesi Ümmühan Çeşmesi

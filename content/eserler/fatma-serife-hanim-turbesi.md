@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9352283,41.0481873"
 draft: false
+
+weight: 100
 ---
 
 ## Fatma Şerife Hanım Türbesi

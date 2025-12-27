@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9223461,41.0061417"
 draft: false
+
+weight: 100
 ---
 
 ## Hadım İbrahim Paşa Camii Şadırvanı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.536747,38.7614326"
 draft: false
+
+weight: 100
 ---
 
 ## Karamanoğlu Orta Çeşme: Afyonkarahisar'da Bir Önemli Kültür Mirası

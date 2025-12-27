@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.280277777,37.529166666"
 draft: false
+
+weight: 10
 ---
 
 # İyon Stoası (Milet)

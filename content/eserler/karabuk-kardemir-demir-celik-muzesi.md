@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.633333333,41.183333333"
 draft: false
+
+weight: 100
 ---
 
 ## Karabük Kardemir Demir-Çelik Müzesi

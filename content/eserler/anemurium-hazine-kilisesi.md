@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.8037415,36.0245781"
 draft: false
+
+weight: 100
 ---
 
 ## Anemurium Hazine Kilisesi: Mersin'in Tarihî ve Kültürel Mirası

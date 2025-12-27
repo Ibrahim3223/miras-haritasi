@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.1883659,39.6762238"
 draft: false
+
+weight: 100
 ---
 
 **Ballıbostan Höyüğü: Ağrı'nın Gizli Mirası**

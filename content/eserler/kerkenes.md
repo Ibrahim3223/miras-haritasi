@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.06555556,39.75"
 draft: false
+
+weight: 10
 ---
 
 ## Kerkenes: Yozgat'ın Gizli Harikası

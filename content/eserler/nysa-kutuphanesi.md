@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.143465,37.9026833"
 draft: false
+
+weight: 100
 ---
 
 ## Nysa Kütüphanesi: Aydın'ın Tarihî Bir Mirası

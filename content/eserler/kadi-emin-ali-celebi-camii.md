@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2254238,41.7362823"
 draft: false
+
+weight: 10
 ---
 
 ## Kadı Emin Ali Çelebi Camii

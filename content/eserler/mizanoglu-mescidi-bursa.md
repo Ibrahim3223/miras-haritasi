@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0630856,40.1896172"
 draft: false
+
+weight: 100
 ---
 
 ### Mizanoğlu Mescidi, Bursa

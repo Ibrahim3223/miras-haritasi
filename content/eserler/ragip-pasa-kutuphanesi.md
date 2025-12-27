@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.958641666,41.009130555"
 draft: false
+
+weight: 10
 ---
 
 ## Ragıp Paşa Kütüphanesi

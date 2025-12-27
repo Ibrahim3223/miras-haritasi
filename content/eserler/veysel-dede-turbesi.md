@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5023568,40.765962"
 draft: false
+
+weight: 100
 ---
 
 ## Veysel Dede Türbesi: Sakarya'nın Tarihi Çarıklarının Yansıması

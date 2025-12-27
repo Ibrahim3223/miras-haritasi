@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.706707,36.8874969"
 draft: false
+
+weight: 100
 ---
 
 ### Pazar Hamamı Tanıtımı

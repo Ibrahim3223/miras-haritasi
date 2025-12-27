@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.0281563,38.3753433"
 draft: false
+
+weight: 100
 ---
 
 ## Beramuniye Medresesi: Aksaray'ın Tarihî Mirası

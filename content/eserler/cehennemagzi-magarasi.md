@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.41024,41.29131"
 draft: false
+
+weight: 10
 ---
 
 ### Cehennemağzı Mağarası: Tarihî ve Kültürel Mirasımız

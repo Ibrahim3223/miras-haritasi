@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6002998,37.7262993"
 draft: false
+
+weight: 100
 ---
 
 ## Burmalı Mescit, Karacasu

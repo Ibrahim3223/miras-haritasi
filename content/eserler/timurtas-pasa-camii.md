@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.976083333,39.419638888"
 draft: false
+
+weight: 10
 ---
 
 # Timurtaş Paşa Camii: Kütahya'nın Tarihi Bir Mirası

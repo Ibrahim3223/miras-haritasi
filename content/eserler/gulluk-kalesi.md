@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8811385,39.9161283"
 draft: false
+
+weight: 100
 ---
 
 ## Güllük Kalesi: Yozgat'ın Gizli Cenneti

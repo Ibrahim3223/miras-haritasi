@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.1666222,39.7511559"
 draft: false
+
+weight: 10
 ---
 
 # Alexandria Troas Herodes Atticus Hamamı

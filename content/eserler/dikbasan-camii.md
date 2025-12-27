@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2163811,37.180809"
 draft: false
+
+weight: 100
 ---
 
 ## Dikbasan Camii: Karaman'ın Tarihî Bir Mirası

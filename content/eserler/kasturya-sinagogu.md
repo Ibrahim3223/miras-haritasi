@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.941638888,41.033972222"
 draft: false
+
+weight: 100
 ---
 
 # Kasturya Sinagogu

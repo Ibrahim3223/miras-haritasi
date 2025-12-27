@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.650052,37.191684"
 draft: false
+
+weight: 100
 ---
 
 ## Cindye: Milas'ın Gizli Mirası

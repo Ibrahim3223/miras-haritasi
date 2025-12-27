@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6737003,37.7652016"
 draft: false
+
+weight: 100
 ---
 
 ## Sobuca Çeşmesi: Aydın'ın Değerli Mimari Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.9331989,38.9321098"
 draft: false
+
+weight: 100
 ---
 
 ## Çandarlı Etnografya Müzesi

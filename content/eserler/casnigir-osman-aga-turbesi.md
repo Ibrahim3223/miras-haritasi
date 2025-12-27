@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9443779,41.0201149"
 draft: false
+
+weight: 100
 ---
 
 ## Çaşnıgir Osman Ağa Türbesi: İstanbul'un Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.990039,41.037993"
 draft: false
+
+weight: 100
 ---
 
 ## Gümüşsuyu Hastanesi Hamamı

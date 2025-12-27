@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8381681,40.653542"
 draft: false
+
+weight: 100
 ---
 
 ## Pir Sücaaddin İlyas Türbesi

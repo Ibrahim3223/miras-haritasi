@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.055292,41.106763"
 draft: false
+
+weight: 100
 ---
 
 ### İstanbul Lale Müzesi

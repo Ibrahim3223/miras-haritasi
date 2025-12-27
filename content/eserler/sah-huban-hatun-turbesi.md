@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.940437,41.015366"
 draft: false
+
+weight: 10
 ---
 
 ## Şah Huban Hatun Türbesi

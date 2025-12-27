@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2599888,37.5773735"
 draft: false
+
+weight: 100
 ---
 
 ## Ağalar Camii: Serinhisar'ın Tarihi Bir Mirası

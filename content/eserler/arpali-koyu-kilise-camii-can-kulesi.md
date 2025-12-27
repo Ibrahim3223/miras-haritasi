@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.137434,40.53569"
 draft: false
+
+weight: 100
 ---
 
 ### Arpalı Köyü Kilise Camii Çan Kulesi: Tarihi ve Kültürel Mirasın Gizemi

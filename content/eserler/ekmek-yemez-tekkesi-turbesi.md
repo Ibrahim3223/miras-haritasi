@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "29.0091209,41.0212898"
 draft: false
+
+weight: 10
 ---
 
 ## Ekmek Yemez Tekkesi Türbesi

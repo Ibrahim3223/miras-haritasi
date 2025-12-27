@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.587439969,39.208205379"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Garipli Höyüğü

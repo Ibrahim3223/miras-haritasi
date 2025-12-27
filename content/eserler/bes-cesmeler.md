@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.12895,40.922031"
 draft: false
+
+weight: 10
 ---
 
 ### Beş Çeşmeler: İstanbul'un Tarihi ve Kültürel Mirası

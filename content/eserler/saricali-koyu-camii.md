@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.3817997,40.9848747"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıcalı Köyü Camii: Edirne'nin Tarihi Bir Mirası

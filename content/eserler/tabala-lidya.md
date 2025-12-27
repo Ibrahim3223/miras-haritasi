@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.803492,38.612243"
 draft: false
+
+weight: 100
 ---
 
 ## Tabala (Lidya) Arkeolojik Sit

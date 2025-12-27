@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.6888466,41.2479706"
 draft: false
+
+weight: 10
 ---
 
 ## Safranbolu Köprüsü: Bir Geçit Zamanı Anıtı

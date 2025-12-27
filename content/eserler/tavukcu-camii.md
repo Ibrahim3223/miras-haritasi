@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0607796,40.1864319"
 draft: false
+
+weight: 10
 ---
 
 # Tavukçu Camii: Bursa'nın Tarihi ve Kültürel Mirası

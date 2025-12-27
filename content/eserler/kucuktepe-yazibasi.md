@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3112,38.210083"
 draft: false
+
+weight: 100
 ---
 
 ## Küçüktepe, Yazıbaşı: İzmir'in Gizli Harikası

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.349778,37.505015"
 draft: false
+
+weight: 100
 ---
 
 ## Hyllarima Antik Tiyatrosu

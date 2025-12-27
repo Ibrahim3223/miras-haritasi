@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.18333333,39.12194444"
 draft: false
+
+weight: 10
 ---
 
 # Kızıl Avlu: Bergama'nın Gizli Cenneti

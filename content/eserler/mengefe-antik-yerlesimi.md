@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9451504,37.0832443"
 draft: false
+
+weight: 100
 ---
 
 # Mengefe Antik Yerleşimi

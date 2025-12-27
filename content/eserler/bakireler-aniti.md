@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.123555555,40.926083333"
 draft: false
+
+weight: 10
 ---
 
 ## Bakireler Anıtı: İstanbul'un Gizli Çeşmesi

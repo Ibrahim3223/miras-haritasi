@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6416035,36.8341217"
 draft: false
+
+weight: 100
 ---
 
 ## Dalyan Camii

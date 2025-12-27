@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.2768,39.9077"
 draft: false
+
+weight: 10
 ---
 
 ## Erzurum Kalesi: Tarihi ve Kültürel Bir Miras

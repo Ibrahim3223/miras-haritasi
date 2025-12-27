@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.083972222,38.398916666"
 draft: false
+
+weight: 10
 ---
 
 ## Şehit Kerem Oğuz Erbay Üst Geçidi

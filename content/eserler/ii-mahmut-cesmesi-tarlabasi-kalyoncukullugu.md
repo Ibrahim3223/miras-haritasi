@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9766505,41.0379111"
 draft: false
+
+weight: 10
 ---
 
 ## II. Mahmut Çeşmesi, Tarlabaşı Kalyoncukulluğu

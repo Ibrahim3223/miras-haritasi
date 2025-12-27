@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.42777778,37.59444444"
 draft: false
+
+weight: 10
 ---
 
 ## Myus Arkeolojik Sit

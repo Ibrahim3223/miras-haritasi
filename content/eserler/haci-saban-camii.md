@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9528694,41.0439987"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Şaban Camii: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4941139,37.8709183"
 draft: false
+
+weight: 100
 ---
 
 ### Kadı Mürsel Camii: Konya'nın Gizli Çatısı

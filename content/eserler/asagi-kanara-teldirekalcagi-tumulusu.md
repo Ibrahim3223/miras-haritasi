@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0324306,42.01091"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Kanara Teldirekalçağı Tümülüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.360775766,38.098665846"
 draft: false
+
+weight: 100
 ---
 
 ## Yahyalı Ulu Cami: Tarihi ve Kültürel Miras

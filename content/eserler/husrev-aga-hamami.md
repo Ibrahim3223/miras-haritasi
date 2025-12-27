@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4379692,38.6153526"
 draft: false
+
+weight: 100
 ---
 
 # Hüsrev Ağa Hamamı

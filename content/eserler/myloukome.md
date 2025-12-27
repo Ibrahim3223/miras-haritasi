@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.42664,38.46374"
 draft: false
+
+weight: 100
 ---
 
 ## Myloukome: Kemaliye'de Bir Arkeolojik Sit

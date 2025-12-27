@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9664993,41.0099716"
 draft: false
+
+weight: 100
 ---
 
 ## Fesciler Kapısı

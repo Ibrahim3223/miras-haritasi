@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9404907,41.0334625"
 draft: false
+
+weight: 100
 ---
 
 ## Beşir Gazi Kabri

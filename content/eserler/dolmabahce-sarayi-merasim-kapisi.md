@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9984779,41.0391922"
 draft: false
+
+weight: 1
 ---
 
 ## Dolmabahçe Sarayı Merasim Kapısı

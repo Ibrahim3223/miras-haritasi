@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0649605,41.1388168"
 draft: false
+
+weight: 100
 ---
 
 ## Çantaköy Tümülüsü 4 Tanıtımı

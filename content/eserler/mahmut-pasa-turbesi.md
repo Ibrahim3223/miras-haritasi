@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2852424,39.9052787"
 draft: false
+
+weight: 100
 ---
 
 ### Mahmut Paşa Türbesi

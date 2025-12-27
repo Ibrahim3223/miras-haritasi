@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1781006,39.1236992"
 draft: false
+
+weight: 100
 ---
 
 ## Konyalızade İsmail Efendi Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9391937,41.0050735"
 draft: false
+
+weight: 100
 ---
 
 ## Bıyıklı Hüsrev Camii

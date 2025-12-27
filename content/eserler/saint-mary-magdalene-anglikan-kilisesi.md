@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.223916666,38.462333333"
 draft: false
+
+weight: 10
 ---
 
 ## Saint Mary Magdalene Anglikan Kilisesi

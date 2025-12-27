@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2788246,39.9106567"
 draft: false
+
+weight: 10
 ---
 
 ## Karanlık Kümbet: Yakutiye'nin Gizemli Anıtı

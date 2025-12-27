@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.341132516,37.939218664"
 draft: false
+
+weight: 10
 ---
 
 ## Güney Kapısı (Agora)

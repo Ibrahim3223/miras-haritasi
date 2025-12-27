@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4666481,37.8722229"
 draft: false
+
+weight: 100
 ---
 
 ### Hoca Ahmet Fakih Camii Çeşmesi 

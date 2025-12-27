@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.49444444,37.8675"
 draft: false
+
+weight: 10
 ---
 
 ## Sahip Ata Müzesi

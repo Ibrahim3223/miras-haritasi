@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.953538666,41.016888933"
 draft: false
+
+weight: 10
 ---
 
 ### İtfaiye Şehitleri Camii

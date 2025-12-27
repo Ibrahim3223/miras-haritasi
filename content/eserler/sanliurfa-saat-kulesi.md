@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "38.790194444,37.151305555"
 draft: false
+
+weight: 10
 ---
 
 ### Şanlıurfa Saat Kulesi

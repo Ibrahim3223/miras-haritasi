@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7715874,41.3770218"
 draft: false
+
+weight: 100
 ---
 
 ## Maden Dede Türbesi

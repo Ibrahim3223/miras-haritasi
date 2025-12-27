@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.5852547,38.6478767"
 draft: false
+
+weight: 100
 ---
 
 ### Zincidere Hamamı: Talas'taki Bir Osmanlı Dönemi Eseri

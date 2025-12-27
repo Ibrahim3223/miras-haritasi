@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.930916666,41.015666666"
 draft: false
+
+weight: 100
 ---
 
 ### Ceylani Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6068001,37.7282982"
 draft: false
+
+weight: 100
 ---
 
 ## Köseoğlu Çeşmesi

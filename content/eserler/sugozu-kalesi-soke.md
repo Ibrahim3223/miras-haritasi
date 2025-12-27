@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4493999,37.7953987"
 draft: false
+
+weight: 100
 ---
 
 ## Sugözü Kalesi: Aydın'ın Gizli Kahramanı

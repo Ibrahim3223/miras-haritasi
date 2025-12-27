@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.21825,38.464416666"
 draft: false
+
+weight: 10
 ---
 
 ## Meçhul Kadın Anıtı: Bornova, İzmir'deki Gizemli Bir Anıt

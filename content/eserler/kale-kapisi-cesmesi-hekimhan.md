@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.934009332,38.815732045"
 draft: false
+
+weight: 100
 ---
 
 ### Kale Kapısı Çeşmesi, Hekimhan

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.8442612,37.5617714"
 draft: false
+
+weight: 100
 ---
 
 ## Sere Şippe Höyük: Mardin'in Gizemli Arkeolojik Mirası

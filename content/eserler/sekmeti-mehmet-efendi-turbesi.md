@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.569416,41.6803474"
 draft: false
+
+weight: 100
 ---
 
 ## Şekmeti Mehmet Efendi Türbesi

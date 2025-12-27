@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9593086,41.0110283"
 draft: false
+
+weight: 100
 ---
 
 ## İzzet Paşa ve İffet Hanım Çeşmesi

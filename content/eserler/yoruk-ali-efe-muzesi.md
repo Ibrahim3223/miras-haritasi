@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.1901779,37.8221321"
 draft: false
+
+weight: 10
 ---
 
 ## Yörük Ali Efe Müzesi

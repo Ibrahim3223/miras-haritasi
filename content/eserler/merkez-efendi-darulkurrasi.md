@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9199276,41.0159683"
 draft: false
+
+weight: 10
 ---
 
 ### Merkez Efendi Darülkurrası: Zeytinburnu'nun Tarihi Mirası

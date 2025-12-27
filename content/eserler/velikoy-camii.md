@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9355106,41.2593918"
 draft: false
+
+weight: 100
 ---
 
 ## Veliköy Camii: Çerkezköy'ün Göbeği

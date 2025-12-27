@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7755061,41.3750635"
 draft: false
+
+weight: 100
 ---
 
 ### Livapaşa Konağı Etnografya Müzesi

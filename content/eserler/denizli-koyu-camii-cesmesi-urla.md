@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.739397,38.37957"
 draft: false
+
+weight: 100
 ---
 
 ### Urla'nın Tarihî Çeşmesi: Urla Köyü Camii Çeşmesi

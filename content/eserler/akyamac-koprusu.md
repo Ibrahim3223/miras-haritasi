@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.919483,41.044267"
 draft: false
+
+weight: 100
 ---
 
 ## Akyamaç Köprüsü

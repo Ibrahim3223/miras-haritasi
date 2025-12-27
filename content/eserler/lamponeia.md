@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.40888889,39.53583333"
 draft: false
+
+weight: 100
 ---
 
 ## Lamponeia Arkeolojik Sit

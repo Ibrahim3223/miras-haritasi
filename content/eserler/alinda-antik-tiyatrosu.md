@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.82713,37.558714"
 draft: false
+
+weight: 100
 ---
 
 # Alinda Antik Tiyatrosu

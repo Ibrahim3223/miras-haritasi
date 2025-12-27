@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.05444444,41.14027778"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Andon Kilisesi: İstanbul'un Gizli Çarşılarını Geri Getiren Bir Örnek

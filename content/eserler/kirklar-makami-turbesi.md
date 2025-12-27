@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5276,38.7552"
 draft: false
+
+weight: 100
 ---
 
 ## Kırklar Makamı Türbesi: Afyonkarahisar'ın Ölümsüz Mirası

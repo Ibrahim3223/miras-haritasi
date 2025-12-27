@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.55,38.53333333"
 draft: false
+
+weight: 10
 ---
 
 ### Synnada: Antik Kentin Gizemi

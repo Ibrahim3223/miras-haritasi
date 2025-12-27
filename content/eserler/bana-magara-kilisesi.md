@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.3025017,40.6536903"
 draft: false
+
+weight: 100
 ---
 
 ## Bana Mağara Kilisesi

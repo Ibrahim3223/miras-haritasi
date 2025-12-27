@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.6887741,41.2501144"
 draft: false
+
+weight: 10
 ---
 
 ## Taş Minare Camii: Karabük'te Bir Zenginlik Abidesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.139666666,38.428666666"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Yuhanna Katedrali: İzmir'in Tarihi ve Kültürel Mirası

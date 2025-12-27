@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.8842239,40.8077698"
 draft: false
+
+weight: 100
 ---
 
 ## Kemer Köprü, Çerkeş: Bir İmparatorlukun Kalıntısı

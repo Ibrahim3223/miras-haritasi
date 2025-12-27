@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.4111,37.7144"
 draft: false
+
+weight: 10
 ---
 
 ## Hasankeyf Eski Köprüsü

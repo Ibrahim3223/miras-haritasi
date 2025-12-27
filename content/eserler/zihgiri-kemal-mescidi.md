@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.929416666,41.009416666"
 draft: false
+
+weight: 100
 ---
 
 ## Zihgiri Kemal Mescidi: Fatih'in Gizli Cenneti

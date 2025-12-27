@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.683611,40.343889"
 draft: false
+
+weight: 10
 ---
 
 ## Lampsakos Arkeolojik Sit

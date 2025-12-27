@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.998539871,40.210145538"
 draft: false
+
+weight: 10
 ---
 
 ### Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi

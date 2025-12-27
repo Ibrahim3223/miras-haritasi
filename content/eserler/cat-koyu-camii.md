@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.938757254,40.870692817"
 draft: false
+
+weight: 100
 ---
 
 ## Çat Köyü Camii: Tarihi ve Kültürel Mirasın Bir Parçası

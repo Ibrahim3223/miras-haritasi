@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.2525,37.0487"
 draft: false
+
+weight: 10
 ---
 
 ## Harbetsuvan Tepesi: Şanlıurfa'nın Gizli Anıtı

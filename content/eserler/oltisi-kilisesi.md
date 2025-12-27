@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.993361111,40.543388888"
 draft: false
+
+weight: 100
 ---
 
 ## Oltusi Kilisesi: Erzurum'un Tarihi Bir Anıtı

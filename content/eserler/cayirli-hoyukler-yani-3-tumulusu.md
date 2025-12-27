@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0618534,41.8803215"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırlı Höyükler Yanı 3 Tümülüsü: Kırklareli'nin Gizli Kahramanı

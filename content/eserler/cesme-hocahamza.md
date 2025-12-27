@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.682169,40.4184685"
 draft: false
+
+weight: 100
 ---
 
 ## Hocahamza Çeşmesi: Gelibolu'nun Tarihsel Bir Örneği

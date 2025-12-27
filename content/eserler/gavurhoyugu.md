@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4100902,38.91009"
 draft: false
+
+weight: 100
 ---
 
 # Gavurhöyüğü Arkeolojik Sit

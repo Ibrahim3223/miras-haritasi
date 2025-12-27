@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.009685,41.049504"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Demir Çeşmesi: Beşiktaş'ta Bir İmparatorluk Mirası

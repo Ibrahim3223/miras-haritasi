@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2732353,39.9049568"
 draft: false
+
+weight: 100
 ---
 
 ## Kuloğlu Çeşmesi: Yakutiye'nin Şövalyesi

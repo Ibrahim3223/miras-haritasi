@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.7150142,41.0078703"
 draft: false
+
+weight: 10
 ---
 
 ## Kaledibi Kilisesi: Trabzon'un İhtişamlı Kilisesi

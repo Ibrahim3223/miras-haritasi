@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9265,41.013611111"
 draft: false
+
+weight: 100
 ---
 
 ## Mimar Sinan'ın Yaratıcılığını Tanıklık Eden Mimar Acem Camii

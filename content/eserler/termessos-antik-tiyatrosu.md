@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.464538888,36.982466666"
 draft: false
+
+weight: 10
 ---
 
 ## Termessos Antik Tiyatrosu: Antalya'nın Tarihi Mirası

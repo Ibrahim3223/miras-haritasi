@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.5461909,40.3163"
 draft: false
+
+weight: 100
 ---
 
 ### Mustafa Paşa Hamamı: Tokat'ta Bir Osmanlı Dönemi Eseri

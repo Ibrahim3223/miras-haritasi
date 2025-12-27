@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.2903671,41.0727043"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Muslihiddin Camii

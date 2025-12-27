@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8561993,37.8056984"
 draft: false
+
+weight: 10
 ---
 
 ## Düvenönü Camii

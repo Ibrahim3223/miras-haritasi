@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.078598,41.6333275"
 draft: false
+
+weight: 100
 ---
 
 ### Vezirtepe D Tümülüsü

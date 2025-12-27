@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.231701,36.333176"
 draft: false
+
+weight: 10
 ---
 
 ### Pydnai: Muğla'nın Eski Yunanistan'a Ait Gizemi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.9574089,40.9692459"
 draft: false
+
+weight: 100
 ---
 
 ## Marmaraereğlisi Açık Hava Müzesi: Türkiye'nin Tarihi ve Kültürel Mirası

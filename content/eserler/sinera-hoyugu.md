@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.394450193,37.138761942"
 draft: false
+
+weight: 100
 ---
 
 ## Sinera Höyüğü: Mardin'in Gizli Öyküsü

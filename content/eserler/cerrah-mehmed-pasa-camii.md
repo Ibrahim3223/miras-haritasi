@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.944888888,41.007911111"
 draft: false
+
+weight: 10
 ---
 
 ### Cerrah Mehmed Paşa Camii

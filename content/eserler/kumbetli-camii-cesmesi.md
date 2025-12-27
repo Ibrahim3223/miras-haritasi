@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5293541,37.8868866"
 draft: false
+
+weight: 100
 ---
 
 ## Kümbetli Camii Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.8036652,36.0237503"
 draft: false
+
+weight: 100
 ---
 
 ### Anemurium Merkez Kilisesi: Mersin'in Tarihi ve Kültürel Mirası

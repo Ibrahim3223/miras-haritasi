@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.732569842,39.893736578"
 draft: false
+
+weight: 100
 ---
 
 ## Biyoçeşitlilik Müzesi (Biyosfer Müze)

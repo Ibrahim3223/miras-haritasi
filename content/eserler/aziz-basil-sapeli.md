@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.845178127,38.638905548"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Basil Şapeli

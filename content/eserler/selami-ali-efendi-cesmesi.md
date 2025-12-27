@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023493,41.023327"
 draft: false
+
+weight: 10
 ---
 
 ## Selami Ali Efendi Çeşmesi

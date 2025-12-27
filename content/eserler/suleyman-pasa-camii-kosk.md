@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0519943,37.8531342"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Paşa Camii (Köşk): Aydın'ın Gizli Çehresini İnceleyelim

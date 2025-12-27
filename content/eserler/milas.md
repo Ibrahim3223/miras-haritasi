@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.78333333,37.31666667"
 draft: false
+
+weight: 10
 ---
 
 ### Milas Arkeolojik Sit

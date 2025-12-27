@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.0735,41.1824"
 draft: false
+
+weight: 100
 ---
 
 ## Sarapieium of Thrace: Byzantion'un Gizli Cenneti

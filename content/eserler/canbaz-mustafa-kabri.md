@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.928048231,41.005203614"
 draft: false
+
+weight: 100
 ---
 
 ## Canbaz Mustafa Kabri

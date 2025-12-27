@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.666838,40.407086"
 draft: false
+
+weight: 10
 ---
 
 ## Antika Traktör Müzesi

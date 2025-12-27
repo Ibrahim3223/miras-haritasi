@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2718506,39.9095306"
 draft: false
+
+weight: 100
 ---
 
 ### Karanlık Çeşme

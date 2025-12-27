@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7503605,38.0811348"
 draft: false
+
+weight: 100
 ---
 
 ## Hafsa Hatun Hamamı: Tarihî Bir Mirasın Anlamı

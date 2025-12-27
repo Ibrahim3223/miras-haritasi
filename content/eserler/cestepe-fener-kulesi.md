@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.3966866,41.2964973"
 draft: false
+
+weight: 100
 ---
 
 ## Çeştepe Fener Kulesi

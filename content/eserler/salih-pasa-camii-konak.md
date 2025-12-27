@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1359997,38.4085999"
 draft: false
+
+weight: 100
 ---
 
 ## Salih Paşa Camii, Konak: İzmir'in Tarihî Mirası

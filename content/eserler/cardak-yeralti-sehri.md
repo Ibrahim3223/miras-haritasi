@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.7679903,38.5511539"
 draft: false
+
+weight: 10
 ---
 
 ## Çardak Yeraltı Şehri: Türkiye'nin Gizli Mirası

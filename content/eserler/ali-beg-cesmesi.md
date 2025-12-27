@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5548897,40.5857582"
 draft: false
+
+weight: 100
 ---
 
 ### Ali Beğ Çeşmesi

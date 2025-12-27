@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.14831,42.02693"
 draft: false
+
+weight: 10
 ---
 
 ### Pervane Medresesi Tanıtımı

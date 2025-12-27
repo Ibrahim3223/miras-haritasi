@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.586667,37.9985"
 draft: false
+
+weight: 10
 ---
 
 ## Küçükköy Kilisesi: Tarihi ve Kültürel Miras

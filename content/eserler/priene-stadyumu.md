@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.298611111,37.657222222"
 draft: false
+
+weight: 100
 ---
 
 ## Priene Stadyumu: Antik Yunanının Mirası

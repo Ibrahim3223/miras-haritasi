@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.981396,41.005688"
 draft: false
+
+weight: 100
 ---
 
 ## İnce Alemdarzade Mehmet Paşa Çeşmesi

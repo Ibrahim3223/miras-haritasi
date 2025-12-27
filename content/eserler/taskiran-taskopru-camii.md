@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4494129,40.9402473"
 draft: false
+
+weight: 100
 ---
 
 ## Taşkıran Taşköprü Camii: Artvin'in Gizli Cenneti

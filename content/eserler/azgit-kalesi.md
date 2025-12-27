@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.373876,37.60121"
 draft: false
+
+weight: 100
 ---
 
 # Azgıt Kalesi

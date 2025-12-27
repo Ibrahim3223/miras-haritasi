@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.5564,41.6902"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Köprüsü

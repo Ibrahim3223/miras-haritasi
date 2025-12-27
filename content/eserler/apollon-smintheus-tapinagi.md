@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1175,39.536111111"
 draft: false
+
+weight: 10
 ---
 
 ## Apollon Smintheus Tapınağı: Tarihi ve Kültürel Mirasın Gizemi

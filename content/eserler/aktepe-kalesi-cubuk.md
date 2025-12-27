@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.990988,40.390015"
 draft: false
+
+weight: 100
 ---
 
 ## Aktepe Kalesi: Ankara'nın Tarihi Bir Mirası

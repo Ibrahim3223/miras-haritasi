@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0295373,41.0011509"
 draft: false
+
+weight: 10
 ---
 
 ### İbrahim Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "34.000583333,39.894222222"
 draft: false
+
+weight: 100
 ---
 
 ## Çerikli Saat Kulesi: Kırıkkale'de Tarihi Bir Ölümsüzlük

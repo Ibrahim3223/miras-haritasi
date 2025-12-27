@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1324177,38.4170609"
 draft: false
+
+weight: 100
 ---
 
 ## Salepçioğlu Camii Çeşmeleri

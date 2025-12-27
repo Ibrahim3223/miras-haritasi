@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Sokullu Mehmet Paşa Hamamı Çeşmesi, Havsa

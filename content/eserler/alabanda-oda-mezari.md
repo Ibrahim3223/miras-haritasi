@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.985323,37.5959549"
 draft: false
+
+weight: 100
 ---
 
 ## Alabanda Oda Mezarı

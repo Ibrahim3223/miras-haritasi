@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.942179,41.014916"
 draft: false
+
+weight: 100
 ---
 
 ### Sultan Selim Medresesi Çeşmesi

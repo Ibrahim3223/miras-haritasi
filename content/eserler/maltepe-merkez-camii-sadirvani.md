@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1306038,40.9247208"
 draft: false
+
+weight: 100
 ---
 
 ## Maltepe Merkez Camii Şadırvanı

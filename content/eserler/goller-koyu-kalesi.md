@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.4480705,40.9014397"
 draft: false
+
+weight: 100
 ---
 
 ## Göller Köyü Kalesi: Ordu'nun Gizli Cenneti

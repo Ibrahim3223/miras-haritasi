@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.542191,38.8279505"
 draft: false
+
+weight: 100
 ---
 
 # Sadagolthina: Türkiye'nin Gizli Arkeolojik Sitleri

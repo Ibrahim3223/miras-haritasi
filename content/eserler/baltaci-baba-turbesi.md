@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.785834,37.156895"
 draft: false
+
+weight: 100
 ---
 
 ## Baltacı Baba Türbesi

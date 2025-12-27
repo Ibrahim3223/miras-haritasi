@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.572237,40.046257"
 draft: false
+
+weight: 100
 ---
 
 ## Serçeler Köyü Tepetarla Yerleşimi: Çanakkale'nin Gizli Anıtı

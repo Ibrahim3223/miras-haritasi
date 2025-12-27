@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968977621,41.013304843"
 draft: false
+
+weight: 10
 ---
 
 ## Saka Çeşmesi

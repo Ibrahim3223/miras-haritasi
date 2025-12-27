@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.739305555,37.312722222"
 draft: false
+
+weight: 10
 ---
 
 ### Mardin Ulu Camii: Tarih, Kültür ve Mimari Harika

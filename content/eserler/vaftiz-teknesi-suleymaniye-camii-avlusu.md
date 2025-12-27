@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.963224112,41.015943314"
 draft: false
+
+weight: 1
 ---
 
 ### Vaftiz Teknesi, Süleymaniye Camii Avlusu

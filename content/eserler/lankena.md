@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.906358,38.876554"
 draft: false
+
+weight: 100
 ---
 
 ## Lankena Arkeolojik Sit

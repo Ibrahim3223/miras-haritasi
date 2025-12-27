@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.124474723,40.85271261"
 draft: false
+
+weight: 100
 ---
 
 ## Profitis İlias Mezarlık Kilisesi

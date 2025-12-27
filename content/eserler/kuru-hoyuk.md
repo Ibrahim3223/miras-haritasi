@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3651199,39.1732178"
 draft: false
+
+weight: 100
 ---
 
 ## Kuru Höyük

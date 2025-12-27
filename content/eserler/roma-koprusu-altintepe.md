@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1631104,38.2301349"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Altıntepe

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.85803,41.85942"
 draft: false
+
+weight: 10
 ---
 
 # Gideros Arkeolojik Sit

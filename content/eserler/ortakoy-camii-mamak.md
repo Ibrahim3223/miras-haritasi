@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.021055733,39.930813161"
 draft: false
+
+weight: 100
 ---
 
 ## Ortaköy Camii: Mamak'taki Bir Önemli Cami

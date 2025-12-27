@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.766667,41.966667"
 draft: false
+
+weight: 10
 ---
 
 ## Abonuteikhos: İnebolu'nun Gizli Mirası

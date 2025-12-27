@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.0088105,39.7461993"
 draft: false
+
+weight: 100
 ---
 
 ## Hamamcıoğlu Hamamı

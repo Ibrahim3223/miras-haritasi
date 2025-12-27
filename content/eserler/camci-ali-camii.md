@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.960682,41.011538"
 draft: false
+
+weight: 100
 ---
 
 **Camcı Ali Camii: Kalenderhane'nin Gizli Pearlu**

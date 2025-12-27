@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "35.813888888,37.445277777"
 draft: false
+
+weight: 10
 ---
 
 ## Sis Katolikosluğu

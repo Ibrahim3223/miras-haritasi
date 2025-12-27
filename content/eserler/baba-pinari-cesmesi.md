@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.5530777,38.9745598"
 draft: false
+
+weight: 100
 ---
 
 ## Baba Pınarı Çeşmesi

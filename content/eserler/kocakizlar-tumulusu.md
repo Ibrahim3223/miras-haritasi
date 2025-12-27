@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.9453526,39.780117"
 draft: false
+
+weight: 100
 ---
 
 ## Kocakızlar Tümülüsü

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.5358887,38.7593994"
 draft: false
+
+weight: 100
 ---
 
 **Çeşmeli Konak, Afyonkarahisar: Tarihi Bir Müze**

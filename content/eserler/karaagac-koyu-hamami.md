@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.1536446,40.2316399"
 draft: false
+
+weight: 100
 ---
 
 ## Karaağaç Köyü Hamamı: Gölpazarı'nın Tarihi Bir Mirası

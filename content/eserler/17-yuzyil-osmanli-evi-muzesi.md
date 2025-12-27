@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.045637,40.191465"
 draft: false
+
+weight: 100
 ---
 
 ## 17. Yüzyıl Osmanlı Evi Müzesi

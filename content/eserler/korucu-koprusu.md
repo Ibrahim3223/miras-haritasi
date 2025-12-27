@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.5304298,36.9609604"
 draft: false
+
+weight: 100
 ---
 
 ### Korucu Köprüsü

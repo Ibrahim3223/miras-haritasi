@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9539642,41.0223122"
 draft: false
+
+weight: 100
 ---
 
 ### Esat Efendi Çeşmesi

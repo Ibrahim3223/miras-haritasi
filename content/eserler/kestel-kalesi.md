@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.215584,40.201805"
 draft: false
+
+weight: 100
 ---
 
 ## Kestel Kalesi: Bursa'nın Tarihi Mirası

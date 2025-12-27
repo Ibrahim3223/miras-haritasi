@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.3655,36.532"
 draft: false
+
+weight: 10
 ---
 
 # Darb-ı Sak Kalesi: Tarihî ve Kültürel Bir Değer

@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.136277777,38.419916666"
 draft: false
+
+weight: 10
 ---
 
 # Etz Hayim Sinagogu

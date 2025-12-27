@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2234802,37.1784363"
 draft: false
+
+weight: 100
 ---
 
 **Halil Efendi Çeşmesi**

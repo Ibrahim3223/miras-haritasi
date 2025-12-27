@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.0640411,40.884491"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Yorgi Karibi Manastırı: Adalar'ın Gizli Çehresi

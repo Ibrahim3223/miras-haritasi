@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.4227524,39.1915665"
 draft: false
+
+weight: 100
 ---
 
 ## Arpalı Köprüsü

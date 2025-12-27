@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5447807,41.6754112"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Burnaz Camii

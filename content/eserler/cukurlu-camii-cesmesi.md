@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.476368,38.720768"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurlu Camii Çeşmesi: Kayseri'nin Tarihî Bir Mirası

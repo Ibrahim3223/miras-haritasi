@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.6692009,37.3272018"
 draft: false
+
+weight: 100
 ---
 
 **Yarımca Köprüsü**

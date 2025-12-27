@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.001527777,41.195833333"
 draft: false
+
+weight: 10
 ---
 
 ## Ardeşen Kilisesi: Tarihi ve Kültürel Bir Miras

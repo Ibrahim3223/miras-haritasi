@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.5553761,41.1882248"
 draft: false
+
+weight: 10
 ---
 
 **Baba Nakkaş Camii**

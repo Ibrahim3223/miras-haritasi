@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.6214409,37.9737396"
 draft: false
+
+weight: 100
 ---
 
 ## Fertek Kilise Camii: Niğde'nin Görsel Anıtı

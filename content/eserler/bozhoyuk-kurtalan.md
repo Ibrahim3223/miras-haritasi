@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.4120918,37.9813311"
 draft: false
+
+weight: 100
 ---
 
 ## Bozhöyük Arkeolojik Sit: Kurtalan, Siirt

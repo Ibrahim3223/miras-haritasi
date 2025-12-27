@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.041441,40.9765282"
 draft: false
+
+weight: 10
 ---
 
 **Ayios Ioannis Hrisostomos Ayazması**

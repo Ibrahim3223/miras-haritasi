@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.283861,36.855981"
 draft: false
+
+weight: 100
 ---
 
 ## Yakup Baba Türbesi

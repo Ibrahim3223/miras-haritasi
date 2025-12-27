@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.6495743,41.1246414"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 3, Yeniköy-Şile: Tarihî Bir Çeşme

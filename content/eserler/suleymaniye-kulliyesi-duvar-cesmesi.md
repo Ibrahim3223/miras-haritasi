@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.964096,41.016946"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Külliyesi Duvar Çeşmesi

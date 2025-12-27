@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.630976,38.444168"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Bağyurdu

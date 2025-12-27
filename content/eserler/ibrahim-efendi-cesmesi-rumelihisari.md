@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0556087,41.0886604"
 draft: false
+
+weight: 10
 ---
 
 ### İbrahim Efendi Çeşmesi, Rumelihisarı

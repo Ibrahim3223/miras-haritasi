@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.2733345,39.9103639"
 draft: false
+
+weight: 100
 ---
 
 ## Erzurum Hamamı: Tarihi ve Kültürel Mirasının Bir Anıtı

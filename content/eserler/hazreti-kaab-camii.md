@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9407501,41.039753"
 draft: false
+
+weight: 10
 ---
 
 ## Hazreti Kaab Camii: Fatih'te Bir Tarihsel Anıt

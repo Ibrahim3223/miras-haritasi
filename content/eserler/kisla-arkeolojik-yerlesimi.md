@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.7712994,38.3363991"
 draft: false
+
+weight: 100
 ---
 
 ## Kışla Arkeolojik Yerleşimi: Çivril'in Gizli Mirası

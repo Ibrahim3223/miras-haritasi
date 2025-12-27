@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7572994,37.9482994"
 draft: false
+
+weight: 100
 ---
 
 ## Köprüova Höyüğü: Aydın'ın Gizli Mirası

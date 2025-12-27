@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3013153,38.3192139"
 draft: false
+
+weight: 100
 ---
 
 ### Giriş

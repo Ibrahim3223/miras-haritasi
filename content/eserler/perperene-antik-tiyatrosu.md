@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9722958,39.2705154"
 draft: false
+
+weight: 100
 ---
 
 ## Perperene Antik Tiyatrosu

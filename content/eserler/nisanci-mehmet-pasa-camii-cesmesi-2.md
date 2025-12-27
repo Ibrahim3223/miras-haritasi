@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9608088,41.0063254"
 draft: false
+
+weight: 100
 ---
 
 ### Nişancı Mehmet Paşa Camii Çeşmesi 2: Fatih'in Gizli Çeşmesi

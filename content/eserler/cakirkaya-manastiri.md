@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "39.082653,40.1163177"
 draft: false
+
+weight: 100
 ---
 
 ## Çakırkaya Manastırı: Şiran'ın Gizli Görselliği

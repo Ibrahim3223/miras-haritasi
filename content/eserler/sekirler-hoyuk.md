@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3112697,39.1349729"
 draft: false
+
+weight: 100
 ---
 
 ### Şekirler Höyük: Tarihî ve Kültürel Mirasın Gizli Cenneti

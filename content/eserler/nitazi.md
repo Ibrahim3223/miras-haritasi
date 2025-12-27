@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.912591,38.709571"
 draft: false
+
+weight: 100
 ---
 
 ## Nitazi: Aksaray'ın Gizemli Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.08083333,36.60444444"
 draft: false
+
+weight: 10
 ---
 
 ## Sömek Athena Kabartması: Antik Çağın Gizemi

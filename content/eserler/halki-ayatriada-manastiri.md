@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.094639,40.882139"
 draft: false
+
+weight: 10
 ---
 
 **Halki Ayatriada Manastırı: Adalar'ın Gizli Cenneti**

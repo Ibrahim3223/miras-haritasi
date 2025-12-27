@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.85993,41.629818"
 draft: false
+
+weight: 100
 ---
 
 ### Cevizlik Arkeolojik Sit

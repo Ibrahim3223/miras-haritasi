@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.0429511,39.7150891"
 draft: false
+
+weight: 100
 ---
 
 ## Fadlum Köprüsü

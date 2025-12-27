@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9232998,37.9238014"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Sarayköy: Bir Kültür Mirası

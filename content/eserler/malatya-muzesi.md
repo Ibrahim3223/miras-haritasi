@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.32444444,38.34277778"
 draft: false
+
+weight: 10
 ---
 
 ## Malatya Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5388699,38.7593536"
 draft: false
+
+weight: 100
 ---
 
 ## Karaman Camii: Afyonkarahisar'ın Güzeli

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.391527777,36.7685"
 draft: false
+
+weight: 10
 ---
 
 ### Side Agorası

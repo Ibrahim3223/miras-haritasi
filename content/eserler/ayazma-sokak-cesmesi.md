@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.771225,40.9897766"
 draft: false
+
+weight: 10
 ---
 
 ### Ayazma Sokak Çeşmesi: Küçükçekmece'de Bir Tarihî Anıtsal Abide

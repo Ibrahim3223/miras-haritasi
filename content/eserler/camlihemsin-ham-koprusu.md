@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0069933,41.0428353"
 draft: false
+
+weight: 100
 ---
 
 # Çamlıhemşin Ham Köprüsü

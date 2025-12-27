@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.945055,40.811719"
 draft: false
+
+weight: 100
 ---
 
 ## Geragathe: Türkiye'nin Gizli Arkeolojik Sitleri

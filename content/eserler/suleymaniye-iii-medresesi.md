@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9648685,41.0165749"
 draft: false
+
+weight: 1
 ---
 
 ### Süleymaniye III. Medresesi

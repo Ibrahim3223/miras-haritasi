@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.90755998,40.238082412"
 draft: false
+
+weight: 10
 ---
 
 ## Özlüce Kilisesi

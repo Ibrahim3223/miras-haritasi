@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.967144,41.0171623"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Davut Türbesi

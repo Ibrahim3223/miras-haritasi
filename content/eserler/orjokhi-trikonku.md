@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.8038,40.5144"
 draft: false
+
+weight: 100
 ---
 
 ## Orjokhi Trikonku: Antik Kilise

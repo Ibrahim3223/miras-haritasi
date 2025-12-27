@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9692,36.4472"
 draft: false
+
+weight: 10
 ---
 
 # Meydankale

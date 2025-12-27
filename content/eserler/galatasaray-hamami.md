@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.979927,41.032647"
 draft: false
+
+weight: 100
 ---
 
 ## Galatasaray Hamamı

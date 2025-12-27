@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.345861111,41.40775"
 draft: false
+
+weight: 10
 ---
 
 ## Sokullu Mehmed Paşa Köprüsü

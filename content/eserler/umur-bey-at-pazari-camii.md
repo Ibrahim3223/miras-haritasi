@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.537466,38.7580109"
 draft: false
+
+weight: 100
 ---
 
 ## Umur Bey At Pazarı Camii

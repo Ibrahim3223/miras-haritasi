@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7130089,41.0046272"
 draft: false
+
+weight: 10
 ---
 
 ### Hamza Paşa Camii Çeşmesi

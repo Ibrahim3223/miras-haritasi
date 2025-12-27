@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8580017,39.9403496"
 draft: false
+
+weight: 100
 ---
 
 ## Tiflis Camii: Ankara'nın Gizli Çiçeği

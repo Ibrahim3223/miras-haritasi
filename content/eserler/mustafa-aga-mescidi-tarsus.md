@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8973999,36.9167633"
 draft: false
+
+weight: 100
 ---
 
 ### Mustafa Ağa Mescidi, Tarsus

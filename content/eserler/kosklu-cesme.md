@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4144669,40.7961464"
 draft: false
+
+weight: 100
 ---
 
 ## Köşklü Çeşme: Gebze'nin Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.4819489,40.6631317"
 draft: false
+
+weight: 100
 ---
 
 ## Kılıçkaya Kalesi: Artvin'in Gizli Hazineleri

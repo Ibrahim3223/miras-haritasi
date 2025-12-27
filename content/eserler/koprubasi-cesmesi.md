@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.689682,41.2527275"
 draft: false
+
+weight: 10
 ---
 
 ### Köprübaşı Çeşmesi: Safranbolu'nun Gizli Çeşmesi

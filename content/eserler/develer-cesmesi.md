@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2799187,39.9101982"
 draft: false
+
+weight: 100
 ---
 
 ## Develer Çeşmesi

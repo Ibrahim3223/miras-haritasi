@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.3045826,37.6567268"
 draft: false
+
+weight: 100
 ---
 
 ## Gelebeç Köprüsü: Aydın'ın Tarihî Mirası

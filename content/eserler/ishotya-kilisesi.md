@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.547094,37.756714"
 draft: false
+
+weight: 100
 ---
 
 ## İshotya Kilisesi

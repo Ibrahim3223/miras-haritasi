@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.206027777,37.182"
 draft: false
+
+weight: 10
 ---
 
 ### Karaman Kalesi: Karaman'ın Tarihi ve Kültürel Mirası

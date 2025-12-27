@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.47437141,38.745639592"
 draft: false
+
+weight: 100
 ---
 
 ## Beşparmak Türbesi

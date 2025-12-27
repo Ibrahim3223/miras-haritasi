@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2971077,37.6844978"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Ziyaretli: Bozdoğan, Aydın'da Bir Öne Çıkan Çeşme

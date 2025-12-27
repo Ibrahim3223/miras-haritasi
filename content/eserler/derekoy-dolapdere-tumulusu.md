@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.337429,41.9637184"
 draft: false
+
+weight: 100
 ---
 
 ### Dereköy Dolapdere Tümülüsü: Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.17669,38.678448"
 draft: false
+
+weight: 100
 ---
 
 ### Temnos Antik Tiyatrosu: Eski Bir Kültür Mirası

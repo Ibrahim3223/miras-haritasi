@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.7713763,41.373182"
 draft: false
+
+weight: 100
 ---
 
 ### Tarihi Vakıf Hamamı

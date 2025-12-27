@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.4696503,41.4773827"
 draft: false
+
+weight: 10
 ---
 
 ## Daday Hamamı: Kastamonu'nun Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.964527777,41.256527777"
 draft: false
+
+weight: 100
 ---
 
 ### Eruşeti Kilisesi

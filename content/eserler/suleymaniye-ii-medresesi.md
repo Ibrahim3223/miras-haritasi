@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.962706,41.015739"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye II. Medresesi

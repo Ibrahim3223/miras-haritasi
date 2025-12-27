@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8197327,37.4197655"
 draft: false
+
+weight: 100
 ---
 
 ## Labraunda Anıt Mezarı

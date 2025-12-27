@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1357231,38.4166718"
 draft: false
+
+weight: 100
 ---
 
 ## Asmalı Mescit: Tarihi ve Kültürel Miras

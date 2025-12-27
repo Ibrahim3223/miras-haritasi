@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0198822,41.0195389"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Beşir Ağa Çeşmesi: Üsküdar'ın Gizli Çeşmesi

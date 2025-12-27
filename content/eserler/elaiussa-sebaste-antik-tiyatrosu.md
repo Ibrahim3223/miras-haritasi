@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "34.173901,36.483635"
 draft: false
+
+weight: 100
 ---
 
 ### Elaiussa Sebaste Antik Tiyatrosu

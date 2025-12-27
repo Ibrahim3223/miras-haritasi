@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.210450342,41.257777055"
 draft: false
+
+weight: 100
 ---
 
 # Çağlayan Köyü Camii: Rize'nin Gizli Cenneti

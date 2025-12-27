@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.94177778,41.02181944"
 draft: false
+
+weight: 10
 ---
 
 ### Hırka-i Şerif Camii Tanıtımı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9791012,41.0078125"
 draft: false
+
+weight: 100
 ---
 
 ## Sebilhane-i Musanna: Fatih İstanbul'un Tarihi Çeşmesi

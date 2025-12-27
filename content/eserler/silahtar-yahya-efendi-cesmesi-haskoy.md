@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.951229,41.038361"
 draft: false
+
+weight: 10
 ---
 
 ## Silahtar Yahya Efendi Çeşmesi, Hasköy

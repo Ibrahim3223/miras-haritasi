@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.8062347,39.8215746"
 draft: false
+
+weight: 100
 ---
 
 ## Çapanoğlu Hamamı

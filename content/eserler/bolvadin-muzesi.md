@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.040018,38.7188"
 draft: false
+
+weight: 100
 ---
 
 ## Bolvadin Müzesi: Afyonkarahisar'daki Bir Kültür Emeği

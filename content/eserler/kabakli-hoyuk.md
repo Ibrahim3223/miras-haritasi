@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2367888,39.7209239"
 draft: false
+
+weight: 100
 ---
 
 ## Kabaklı Höyük: Tarihi ve Kültürel Mirasının Gizemi

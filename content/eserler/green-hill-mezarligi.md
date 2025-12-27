@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.27983,40.29303"
 draft: false
+
+weight: 10
 ---
 
 ## Green Hill Mezarlığı: Eceabat'ın Gizli Anıtı

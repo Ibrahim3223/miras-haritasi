@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.7178726,37.6843033"
 draft: false
+
+weight: 100
 ---
 
 # Beyşehir Hamamı

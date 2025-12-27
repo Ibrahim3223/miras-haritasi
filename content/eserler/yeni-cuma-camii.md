@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.7225,41.0011"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Cuma Camii

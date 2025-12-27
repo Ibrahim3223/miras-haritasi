@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.04872,41.09231"
 draft: false
+
+weight: 10
 ---
 
 # Fatih Sultan Mehmet Camii

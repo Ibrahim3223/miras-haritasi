@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "44.3785,39.7201"
 draft: false
+
+weight: 10
 ---
 
 ## Ahura Manastırı: Iğdır'ın Gizli Öyküsü

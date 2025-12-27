@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.6390991,38.853157"
 draft: false
+
+weight: 100
 ---
 
 ## Kültepe Aşağı Şehir: Kayseri'nin Gizli Kahramanı

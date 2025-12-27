@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.425833,38.613056"
 draft: false
+
+weight: 10
 ---
 
 **Magnesia ad Sipylum: Tarihî Mirasın Gizemi**

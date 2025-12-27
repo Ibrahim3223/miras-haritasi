@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4153023,41.138649"
 draft: false
+
+weight: 100
 ---
 
 # Havuzlu Çeşme, Elbasan

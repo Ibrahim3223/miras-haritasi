@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2082787,37.1809731"
 draft: false
+
+weight: 100
 ---
 
 **Alaaddin Bey Camii**

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0765686,40.1780205"
 draft: false
+
+weight: 10
 ---
 
 ## Roma Köprüsü, Karamazak: Bursa'nın Gizli Cezvesi

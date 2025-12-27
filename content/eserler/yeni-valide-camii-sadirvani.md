@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0148926,41.0248604"
 draft: false
+
+weight: 10
 ---
 
 **Yeni Valide Camii Şadırvanı**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2737833,40.8847324"
 draft: false
+
+weight: 100
 ---
 
 ## Yaylalar Adatepe Camii

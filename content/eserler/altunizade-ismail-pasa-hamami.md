@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.045204,41.02007"
 draft: false
+
+weight: 10
 ---
 
 **Altunizade İsmail Paşa Hamamı: İskoç Sarayı'nın Karşıtı**

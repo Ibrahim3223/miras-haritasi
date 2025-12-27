@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.8605,39.9355"
 draft: false
+
+weight: 10
 ---
 
 ## Lisieux'lü Azize Tereza Kilisesi

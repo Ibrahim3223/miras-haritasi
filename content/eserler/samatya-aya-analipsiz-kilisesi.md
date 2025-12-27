@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.93194444,40.99916667"
 draft: false
+
+weight: 10
 ---
 
 **Samatya Aya Analipsiz Kilisesi**

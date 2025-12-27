@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.970772,41.002449"
 draft: false
+
+weight: 100
 ---
 
 **Mirzeban Sultan Medresesi**

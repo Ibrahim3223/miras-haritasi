@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.0633554,39.6070974"
 draft: false
+
+weight: 100
 ---
 
 ### Duatepe Anıtı

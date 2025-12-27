@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.025,40.98194444"
 draft: false
+
+weight: 10
 ---
 
 ## All Saints Moda Kilisesi

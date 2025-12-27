@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9817562,41.0686722"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmut Şevket Paşa Türbesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.145514,37.903405"
 draft: false
+
+weight: 10
 ---
 
 ## Nysa Köprüsü: Aydın'ın Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.6179199,39.2260208"
 draft: false
+
+weight: 100
 ---
 
 ## Kümbet Asar Kale: Eskişehir'in Gizli Kalesi

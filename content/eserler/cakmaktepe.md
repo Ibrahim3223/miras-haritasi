@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6301804,37.0863419"
 draft: false
+
+weight: 100
 ---
 
 ## Çakmaktepe: Şanlıurfa'nın Eski Kent Merkezi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.226615195,36.822218533"
 draft: false
+
+weight: 100
 ---
 
 ## İlk Kurşun Müzesi: Hatay'da Bir Kültür Mirası

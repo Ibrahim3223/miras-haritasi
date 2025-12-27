@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9853878,41.0532722"
 draft: false
+
+weight: 100
 ---
 
 # Feriköy Protestan Mezarlığı Şapeli

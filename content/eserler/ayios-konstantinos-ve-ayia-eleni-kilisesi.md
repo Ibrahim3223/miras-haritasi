@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97666667,41.03777778"
 draft: false
+
+weight: 10
 ---
 
 ## Ayios Konstantinos ve Ayia Eleni Kilisesi

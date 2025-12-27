@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2209778,37.1754341"
 draft: false
+
+weight: 100
 ---
 
 ## Aşiran Çeşmesi

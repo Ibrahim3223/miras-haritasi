@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4484005,37.6077003"
 draft: false
+
+weight: 100
 ---
 
 ## Bulaylı Çeşmesi: Aydın'da Bir Tarihî Çeşme

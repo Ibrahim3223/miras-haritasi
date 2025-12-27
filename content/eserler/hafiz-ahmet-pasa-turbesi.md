@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.947667,41.0217"
 draft: false
+
+weight: 100
 ---
 
 **Hafız Ahmet Paşa Türbesi**

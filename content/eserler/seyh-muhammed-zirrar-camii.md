@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.734467912,37.309518114"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Muhammed Zırrar Camii

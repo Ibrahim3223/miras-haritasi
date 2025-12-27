@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1175,38.409166666"
 draft: false
+
+weight: 100
 ---
 
 ## Avrasya Anı Evi: İzmir'in Tarihî ve Kültürel Mirası

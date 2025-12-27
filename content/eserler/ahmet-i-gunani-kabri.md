@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9671974,41.0121536"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet-i Günani Kabri

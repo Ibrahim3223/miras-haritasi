@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5636864,41.6700668"
 draft: false
+
+weight: 10
 ---
 
 ## Feyzullah Paşa İmaret Çeşmesi

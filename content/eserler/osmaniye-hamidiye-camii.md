@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.883881929,40.993667168"
 draft: false
+
+weight: 100
 ---
 
 ## Osmaniye Hamidiye Camii

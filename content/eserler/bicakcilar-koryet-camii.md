@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.429611,41.0290441"
 draft: false
+
+weight: 100
 ---
 
 # Bıçakçılar Koryet Camii

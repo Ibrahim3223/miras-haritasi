@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.981388888,41.011669444"
 draft: false
+
+weight: 10
 ---
 
 ### İstanbul Arkeoloji Müzeleri: Tarih, Kültür ve Sanatın Karşımızda

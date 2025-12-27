@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.94578889,41.02785556"
 draft: false
+
+weight: 10
 ---
 
 ### Hırami Ahmet Paşa Mescidi

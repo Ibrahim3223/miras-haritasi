@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.977286,41.010574"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Beşir Ağa Kütüphanesi

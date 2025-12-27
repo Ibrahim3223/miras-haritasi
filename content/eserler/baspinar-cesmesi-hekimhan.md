@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.919465723,38.759238934"
 draft: false
+
+weight: 100
 ---
 
 ## Başpınar Çeşmesi: Hekimhan'da Bir Tarihî Çeşme

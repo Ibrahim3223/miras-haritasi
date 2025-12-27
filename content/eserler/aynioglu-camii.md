@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5415554,38.752964"
 draft: false
+
+weight: 100
 ---
 
 ## Aynıoğlu Camii Tanıtımı

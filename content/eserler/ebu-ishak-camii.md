@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0707016,40.1853714"
 draft: false
+
+weight: 100
 ---
 
 ## Ebu İshak Camii

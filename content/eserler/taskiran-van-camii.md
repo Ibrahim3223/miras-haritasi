@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.3729793,38.5012085"
 draft: false
+
+weight: 100
 ---
 
 # Taşkıran Van Camii: Artvin'in Gizli Çehresini Açığa Çıkaran Bir Cami

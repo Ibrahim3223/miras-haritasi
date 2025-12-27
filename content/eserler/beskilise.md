@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.376389,40.380556"
 draft: false
+
+weight: 10
 ---
 
 ## Beşkilise: Kars'ta Bir Manastırın Gizemi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.562267,40.898933"
 draft: false
+
+weight: 100
 ---
 
 ## Karasu Küçükdere Köprüsü

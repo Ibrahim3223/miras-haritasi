@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.738142,40.261831"
 draft: false
+
+weight: 100
 ---
 
 ### Yaylım Köyü Kilisesi

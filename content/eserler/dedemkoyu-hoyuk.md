@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.692817,38.197617"
 draft: false
+
+weight: 100
 ---
 
 ## Dedemköyü Höyük: Denizli'nin Eski Eserlerinden Biri

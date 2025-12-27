@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.077867551,40.986176561"
 draft: false
+
+weight: 10
 ---
 
 ## Emine Hanım Çeşmesi, Kadıköy: İstanbul'un Gizli Cenneti

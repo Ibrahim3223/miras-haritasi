@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.332915,41.294392"
 draft: false
+
+weight: 10
 ---
 
 # Büyük Camii: İlkadım'daki Bir Özerklik Eseri

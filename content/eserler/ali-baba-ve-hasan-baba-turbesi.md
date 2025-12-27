@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.693908,41.247"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Baba ve Hasan Baba Türbesi

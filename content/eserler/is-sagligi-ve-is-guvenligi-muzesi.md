@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.699245986,39.952603244"
 draft: false
+
+weight: 100
 ---
 
 ## İş Sağlığı ve İş Güvenliği Müzesi

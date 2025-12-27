@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9359856,41.0222511"
 draft: false
+
+weight: 100
 ---
 
 **Keçeciler Hamamı Kalıntısı**

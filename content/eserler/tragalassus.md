@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8459,36.3189"
 draft: false
+
+weight: 100
 ---
 
 ## Tragalassus: Tarihî Bir Arkeolojik Sit

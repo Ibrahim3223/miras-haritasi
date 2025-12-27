@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.932005287,36.832550363"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Yunus Efendi Türbesi

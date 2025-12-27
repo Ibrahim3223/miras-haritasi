@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9496346,41.0152512"
 draft: false
+
+weight: 100
 ---
 
 ### Kıztaşı Hamamı Tanıtımı

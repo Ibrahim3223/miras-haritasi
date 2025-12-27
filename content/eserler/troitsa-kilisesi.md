@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.844017,40.1535149"
 draft: false
+
+weight: 100
 ---
 
 ## Manyas'lı Örenler Arasında Troitsa Kilisesi

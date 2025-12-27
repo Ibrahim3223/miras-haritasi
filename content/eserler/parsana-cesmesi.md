@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4902649,37.8824158"
 draft: false
+
+weight: 10
 ---
 
 ### Parsana Çeşmesi: Konya'nın Tarihi Çeşme Çehresini Taşıyan Bir Güzellik

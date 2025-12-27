@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.041174,41.04288"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmut Han II Çeşmesi 5: Üsküdar'daki Bir Çeşmenin Tarihi ve Özellikleri

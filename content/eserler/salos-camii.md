@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2362251,37.9084663"
 draft: false
+
+weight: 100
 ---
 
 # Salos Camii: Diyarbakır'ın Tarihi Mirası

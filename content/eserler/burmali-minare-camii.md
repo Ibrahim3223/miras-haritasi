@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.832438,40.65025"
 draft: false
+
+weight: 10
 ---
 
 # Burmalı Minare Camii

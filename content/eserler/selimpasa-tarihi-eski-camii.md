@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3666039,41.053833"
 draft: false
+
+weight: 100
 ---
 
 ## Selimpaşa Tarihi Eski Camii

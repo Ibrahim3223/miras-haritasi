@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.740125,37.312368"
 draft: false
+
+weight: 100
 ---
 
 ## Saray Çeşmesi, Mardin

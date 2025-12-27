@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1270008,38.4115982"
 draft: false
+
+weight: 100
 ---
 
 ## Akarcalızade Çeşmesi: Tarih ve Kültür Mirasının Bir Örneği

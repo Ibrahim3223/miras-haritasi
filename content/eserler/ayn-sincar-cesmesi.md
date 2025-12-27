@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.74567,37.312549"
 draft: false
+
+weight: 100
 ---
 
 # Ayn Sincar Çeşmesi

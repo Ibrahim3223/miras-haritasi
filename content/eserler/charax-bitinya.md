@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.613672,40.788976"
 draft: false
+
+weight: 100
 ---
 
 ## Charax (Bitinya): İzmit'in Gizli Harikası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.8792152,39.6491318"
 draft: false
+
+weight: 100
 ---
 
 ### Zağanos Paşa Hamamı: Karesi, Balıkesir'in Gizli Cenneti

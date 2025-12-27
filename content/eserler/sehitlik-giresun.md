@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.390586,40.922403"
 draft: false
+
+weight: 100
 ---
 
 ## Şehitlik, Giresun

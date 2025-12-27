@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.06705,41.099341"
 draft: false
+
+weight: 100
 ---
 
 ### Ayşe Hanım Çeşmesi, Kanlıca: Beykoz'un Gizli Çeşmesi

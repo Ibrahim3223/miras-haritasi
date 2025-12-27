@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.790162125,39.023955122"
 draft: false
+
+weight: 100
 ---
 
 ## Çeltik Merkez Camii: Çeltik'in Tarihi Bir Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.810629,40.284653"
 draft: false
+
+weight: 100
 ---
 
 ## Otroea: Ege Denizi'nin Gizli Mirası

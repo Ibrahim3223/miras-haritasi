@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.410142,40.038628"
 draft: false
+
+weight: 10
 ---
 
 ### Hamzabey Camii Tanıtımı

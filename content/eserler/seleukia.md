@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.47555278,36.873725"
 draft: false
+
+weight: 10
 ---
 
 ## Seleukia: Antik Çağın Efsanevi Kenti

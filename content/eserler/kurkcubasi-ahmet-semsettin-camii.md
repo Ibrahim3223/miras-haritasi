@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.92825,41.018611111"
 draft: false
+
+weight: 10
 ---
 
 ## Kürkçübaşı Ahmet Şemsettin Camii: Tarihi ve Kültürel Mirasımız

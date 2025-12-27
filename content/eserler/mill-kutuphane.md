@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.8271,39.9169"
 draft: false
+
+weight: 10
 ---
 
 ## Millî Kütüphane

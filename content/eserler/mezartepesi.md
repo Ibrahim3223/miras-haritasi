@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.6068561,40.2074953"
 draft: false
+
+weight: 100
 ---
 
 ### Mezartepesi: Tokat'taki Antik Bir Miras

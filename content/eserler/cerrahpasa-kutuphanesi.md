@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Cerrahpaşa Kütüphanesi: İstanbul'un Gizli Öykülerini Hafızasında Tutmak

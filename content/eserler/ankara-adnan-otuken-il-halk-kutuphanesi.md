@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.850435162,39.919599361"
 draft: false
+
+weight: 10
 ---
 
 ### Ankara Adnan Ötüken İl Halk Kütüphanesi

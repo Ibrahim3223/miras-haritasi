@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4660568,40.8713417"
 draft: false
+
+weight: 100
 ---
 
 # Ahi Kerim Sultan Türbesi

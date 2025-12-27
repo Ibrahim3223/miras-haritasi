@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6928329,41.2455864"
 draft: false
+
+weight: 10
 ---
 
 ## Kazdağlıoğlu Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

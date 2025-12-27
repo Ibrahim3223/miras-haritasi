@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.813175,39.393183"
 draft: false
+
+weight: 100
 ---
 
 # Kisthene: Balıkesir'in Gizli Cenneti

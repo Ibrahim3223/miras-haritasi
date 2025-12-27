@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.3804741,38.4163666"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Basri Hazretleri Türbesi: Battalgazi'nin Gizli Çehresi

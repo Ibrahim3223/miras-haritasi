@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9310188,41.0121155"
 draft: false
+
+weight: 100
 ---
 
 ## Odabaşı Behruz Ağa Camii Şadırvanı

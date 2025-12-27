@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9726,41.00725"
 draft: false
+
+weight: 10
 ---
 
 ## Şerefiye Sarnıcı: İstanbul'un Gizli Çeşmesi

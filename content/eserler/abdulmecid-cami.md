@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.2956928,36.9725678"
 draft: false
+
+weight: 100
 ---
 
 # Abdulmecid Cami: Adana'nın Güzeli

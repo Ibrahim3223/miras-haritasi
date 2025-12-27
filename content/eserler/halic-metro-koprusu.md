@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.966527777,41.0225"
 draft: false
+
+weight: 10
 ---
 
 ### Haliç Metro Köprüsü: İstanbul'un Tarihi ve Mimarisi

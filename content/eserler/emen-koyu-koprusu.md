@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.776013896,37.801859229"
 draft: false
+
+weight: 100
 ---
 
 ## Emen Köyü Köprüsü: Beyşehir'in Gizli Cenneti

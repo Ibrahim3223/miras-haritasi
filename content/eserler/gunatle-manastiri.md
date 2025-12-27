@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.298666666,41.244916666"
 draft: false
+
+weight: 100
 ---
 
 ### Gunatle Manastırı: Tarihi ve Kültürel Miras

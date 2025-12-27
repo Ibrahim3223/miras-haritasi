@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.8757095,40.1880951"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Todori Kilisesi: Gökçeada'nın Tarihî Bir Mirası

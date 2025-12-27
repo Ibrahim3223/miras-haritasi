@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.556830457,37.763523685"
 draft: false
+
+weight: 10
 ---
 
 ## Kutlu Bey Camii: Isparta'nın Tarihi ve Kültürel Mirası

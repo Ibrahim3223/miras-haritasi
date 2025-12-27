@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9742336,41.0053253"
 draft: false
+
+weight: 100
 ---
 
 ## Cumhuriyet Eğitim Müzesi

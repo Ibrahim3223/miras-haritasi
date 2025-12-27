@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.092674,41.6337037"
 draft: false
+
+weight: 10
 ---
 
 ## Kıyıköy Kalesi: Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.039518,41.032701"
 draft: false
+
+weight: 100
 ---
 
 **Mahbup Ağa Çeşmesi**

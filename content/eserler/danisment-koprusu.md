@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.8427353,37.8840408"
 draft: false
+
+weight: 100
 ---
 
 ## Danişment Köprüsü

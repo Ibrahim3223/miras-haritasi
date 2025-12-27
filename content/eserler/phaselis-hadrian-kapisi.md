@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5511284,36.5229149"
 draft: false
+
+weight: 100
 ---
 
 ## Phaselis Hadrian Kapısı

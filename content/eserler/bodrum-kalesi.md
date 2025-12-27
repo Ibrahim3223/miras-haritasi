@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.429444444,37.031666666"
 draft: false
+
+weight: 10
 ---
 
 # Bodrum Kalesi: Bir Tarihî Mirasın Gizemi

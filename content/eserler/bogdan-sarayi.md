@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.94212,41.02975"
 draft: false
+
+weight: 10
 ---
 
 ## Boğdan Sarayı: İstanbul'un Gizli Çehresi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2631874,37.2695732"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Bayır Köprüsü: Muğla'nın Gizli Kahramanı

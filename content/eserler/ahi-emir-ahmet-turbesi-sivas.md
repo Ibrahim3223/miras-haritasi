@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.0205879,39.7464447"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Emir Ahmet Türbesi: Sivas'ta Bir Geçmişin Mirası

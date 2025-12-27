@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.2127762,41.9539528"
 draft: false
+
+weight: 100
 ---
 
 ## Çatalzeytin Hamamı: Kastamonu'nun Tarihi ve Kültürel Mirası

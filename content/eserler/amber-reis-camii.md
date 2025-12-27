@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4852753,37.8678932"
 draft: false
+
+weight: 10
 ---
 
 ## Amber Reis Camii

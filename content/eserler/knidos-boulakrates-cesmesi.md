@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3730545,36.6864357"
 draft: false
+
+weight: 100
 ---
 
 ## Knidos Boulakrates Çeşmesi

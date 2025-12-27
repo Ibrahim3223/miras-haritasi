@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "31.438837,37.7433337"
 draft: false
+
+weight: 10
 ---
 
 ## Kubadabad Sarayı: Konya'nın Gizli Anıtı

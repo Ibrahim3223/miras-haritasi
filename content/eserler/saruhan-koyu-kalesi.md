@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.105217,40.066281"
 draft: false
+
+weight: 100
 ---
 
 ## Saruhan Köyü Kalesi: Bir Bayburt'tan Tarih Mirası

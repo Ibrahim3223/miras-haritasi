@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.8487911,37.2843742"
 draft: false
+
+weight: 100
 ---
 
 ## Taşkemer Köprüsü 1

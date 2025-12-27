@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.49617,39.4324036"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarya Meydan Muharebesi Müzesi: Türkiye'nin Köklü Tarihine Yönelik Bir Yolculuk

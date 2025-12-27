@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5308895,38.7542534"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Pazar Camii: Afyonkarahisar'ın Tarihi bir Anıtı

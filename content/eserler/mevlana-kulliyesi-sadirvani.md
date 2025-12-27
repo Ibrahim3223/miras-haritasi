@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.504675365,37.870718211"
 draft: false
+
+weight: 100
 ---
 
 ## Mevlana Külliyesi Şadırvanı: Konya'nın Tarihi ve Kültürel Mirası

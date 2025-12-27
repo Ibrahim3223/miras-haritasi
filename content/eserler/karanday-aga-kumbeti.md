@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.024498,38.5770683"
 draft: false
+
+weight: 100
 ---
 
 ### Karanday Ağa Kümbeti

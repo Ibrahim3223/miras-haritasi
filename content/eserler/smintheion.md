@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.11775,39.536211"
 draft: false
+
+weight: 10
 ---
 
 ## Smintheion: Ayvacık'ın Gizli Mabeti

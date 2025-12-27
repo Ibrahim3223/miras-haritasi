@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.058003,41.054805"
 draft: false
+
+weight: 100
 ---
 
 ## Taylan Doğuer Çeşmesi: Üsküdar'da Bir Geçit Açılmış Tarih

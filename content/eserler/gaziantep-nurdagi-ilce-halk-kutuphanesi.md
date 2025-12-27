@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Gaziantep Nurdağı İlçe Halk Kütüphanesi: Tarih, Kültür ve Bilgi Deposu

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.237692,40.930293"
 draft: false
+
+weight: 100
 ---
 
 ## İskenderli Köprüsü 2

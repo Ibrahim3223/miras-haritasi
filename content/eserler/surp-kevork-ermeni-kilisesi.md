@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.9969444,39.7746658"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Kevork Ermeni Kilisesi: Sivas'taki Bir Tarihî Miras

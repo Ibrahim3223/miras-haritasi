@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "36.544519462,40.316219918"
 draft: false
+
+weight: 100
 ---
 
 ## Alaca Mescit Çeşmesi: Tokat'taki Bir Tarihi Çeşmenin Gizemi

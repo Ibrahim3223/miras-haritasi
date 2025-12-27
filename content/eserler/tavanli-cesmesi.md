@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5166759,40.9823151"
 draft: false
+
+weight: 100
 ---
 
 ## Tavanlı Çeşmesi: Ortacami'nin Tarihi Bir Çeşmesi

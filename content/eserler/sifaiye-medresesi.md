@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "37.014871,39.74842"
 draft: false
+
+weight: 10
 ---
 
 ### Şifaiye Medresesi

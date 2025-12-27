@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.211246,40.771898"
 draft: false
+
+weight: 100
 ---
 
 ## Taşçılar Medresesi: Trabzon'un Gizli Çehresi

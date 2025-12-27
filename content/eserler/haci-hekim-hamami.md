@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1798211,39.1209369"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hekim Hamamı: Bergama'nın Tarihi Bir Çıkış Noktası

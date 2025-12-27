@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.327222222,36.148611111"
 draft: false
+
+weight: 10
 ---
 
 ## Dörtayak Anıt

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.146569654,40.906322316"
 draft: false
+
+weight: 100
 ---
 
 ## Terzialiler Mahallesi Tekke Camii

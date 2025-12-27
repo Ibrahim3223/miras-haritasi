@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.989487,39.608148"
 draft: false
+
+weight: 100
 ---
 
 ## Şıp Şıp Dede Türbesi: Edremit'in Gizli Anıtı

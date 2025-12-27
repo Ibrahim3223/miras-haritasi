@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.0284996,40.9584007"
 draft: false
+
+weight: 100
 ---
 
 ## Kalecik Kalesi: Araklı'nın Tarihî Mirası

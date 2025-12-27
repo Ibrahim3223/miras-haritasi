@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.635212,37.830209"
 draft: false
+
+weight: 100
 ---
 
 # Altınlı Köprü: Adıyaman'ın Gizli Cenneti

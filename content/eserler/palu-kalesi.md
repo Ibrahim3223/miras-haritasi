@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.9543997,38.7023642"
 draft: false
+
+weight: 10
 ---
 
 # Palu Kalesi: Elazığ'ın Tarihî Bir Güzelliği

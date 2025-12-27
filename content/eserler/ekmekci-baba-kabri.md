@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.936964539,41.02865028"
 draft: false
+
+weight: 10
 ---
 
 ## Ekmekçi Baba Kabri: İstanbul'un Gizli Cezvesi

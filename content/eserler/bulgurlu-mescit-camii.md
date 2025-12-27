@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.017736794,41.02189521"
 draft: false
+
+weight: 10
 ---
 
 # Bulgurlu Mescit Camii: Üsküdar'da Bir Tarih Ören Yeri

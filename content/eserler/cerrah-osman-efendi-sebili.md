@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9443913,41.0201378"
 draft: false
+
+weight: 100
 ---
 
 **Cerrah Osman Efendi Sebili**

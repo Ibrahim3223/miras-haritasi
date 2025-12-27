@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0607338,40.1876335"
 draft: false
+
+weight: 10
 ---
 
 ## Şehreküstü Camii: Tarihi ve Kültürel Mirasın Gizli Çehresini Açığa Çıkaran Bir Çanak

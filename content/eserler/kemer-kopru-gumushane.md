@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.478,40.45864"
 draft: false
+
+weight: 100
 ---
 
 ### Kemer Köprü'sü Keşfetmek

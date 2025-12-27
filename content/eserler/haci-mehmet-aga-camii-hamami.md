@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.627394,40.857109"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mehmet Ağa Camii Hamamı: Keşan'ın Tarihi bir Cenneti

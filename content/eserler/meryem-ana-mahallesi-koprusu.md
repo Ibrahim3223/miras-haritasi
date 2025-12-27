@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.988695,40.510247"
 draft: false
+
+weight: 100
 ---
 
 ## Meryem Ana Mahallesi Köprüsü

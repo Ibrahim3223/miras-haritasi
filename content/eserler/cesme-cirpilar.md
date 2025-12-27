@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.84824234,39.808158346"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Çırpılar: Bir Çanakkale Efsanesi

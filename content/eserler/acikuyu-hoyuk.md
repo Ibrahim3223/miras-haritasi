@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.033947085,38.873102602"
 draft: false
+
+weight: 100
 ---
 
 ## Acıkuyu Höyük: Konya'nın Gizli Mirası

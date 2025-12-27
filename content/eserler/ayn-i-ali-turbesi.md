@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4214,38.6134"
 draft: false
+
+weight: 100
 ---
 
 ## Ayn-i Ali Türbesi

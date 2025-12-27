@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0140228,41.0221863"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi

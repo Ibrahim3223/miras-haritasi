@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.269194444,40.712527777"
 draft: false
+
+weight: 100
 ---
 
 ### Kamhisi Kilisesi

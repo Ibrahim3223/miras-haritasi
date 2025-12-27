@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0567322,41.0864601"
 draft: false
+
+weight: 100
 ---
 
 ## Sokak Çeşmesi, Rumelihisarı

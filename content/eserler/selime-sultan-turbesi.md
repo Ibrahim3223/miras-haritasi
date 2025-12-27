@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.2592239,38.3004189"
 draft: false
+
+weight: 100
 ---
 
 # Selime Sultan Türbesi

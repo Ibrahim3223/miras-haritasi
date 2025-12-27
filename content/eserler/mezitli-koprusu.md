@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.5321839,36.7505461"
 draft: false
+
+weight: 10
 ---
 
 ## Mezitli Köprüsü: Mersin'in Tarihi ve Kültürel Mirası

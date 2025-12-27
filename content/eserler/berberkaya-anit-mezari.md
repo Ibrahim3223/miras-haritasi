@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7406006,40.4272003"
 draft: false
+
+weight: 100
 ---
 
 ## Berberkaya Anıt Mezarı: İznik'in Tarihi Gözdelerinden BİRİ

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7996616,41.824707"
 draft: false
+
+weight: 100
 ---
 
 ## Domurcalı Kızılhöyük Tümülüsü: Edirne'nin Gizli Mirası

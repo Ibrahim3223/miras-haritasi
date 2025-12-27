@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4916668,37.9096375"
 draft: false
+
+weight: 100
 ---
 
 # Çeşme 2, Balatçık: Aydın'ın Germencik İlçesindeki Tarihi Bir Çeşme

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.28237722,40.881214522"
 draft: false
+
+weight: 10
 ---
 
 ### Pendik Kavakpınar Kütüphanesi

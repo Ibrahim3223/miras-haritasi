@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.173727,41.0948143"
 draft: false
+
+weight: 100
 ---
 
 ## Arpalık Tümülüsü: Tekirdağ'ın Gizli Mirası

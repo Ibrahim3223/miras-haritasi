@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1838627,39.1281967"
 draft: false
+
+weight: 100
 ---
 
 ### Pergamon Küçük Gymnasium Hamamı: Tarihi ve Kültürel Bir Miras

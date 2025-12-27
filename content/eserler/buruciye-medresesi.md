@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.015317,39.749094"
 draft: false
+
+weight: 10
 ---
 
 ## Buruciye Medresesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.16301,36.91441"
 draft: false
+
+weight: 10
 ---
 
 ## Köprüpazar Köprüsü: Aspendos'un Gizli Cenneti

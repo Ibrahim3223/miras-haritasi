@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.81408,38.34712"
 draft: false
+
+weight: 100
 ---
 
 ## Tempsis: Ödemiş'in Gizli Çarpıntısı

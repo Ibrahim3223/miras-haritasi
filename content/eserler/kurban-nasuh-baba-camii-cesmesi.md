@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.019911,41.018694"
 draft: false
+
+weight: 100
 ---
 
 ## Kurban Nasuh Baba Camii Çeşmesi

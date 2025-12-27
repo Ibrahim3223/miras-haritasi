@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7292042,38.08358"
 draft: false
+
+weight: 100
 ---
 
 ### Alaeddin Sultan Mescidi: Tire'de Bir Ölümsüz Cami

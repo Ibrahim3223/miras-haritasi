@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.934972222,41.017666666"
 draft: false
+
+weight: 100
 ---
 
 ### Bezmialem Valide Camii

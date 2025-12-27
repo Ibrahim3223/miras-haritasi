@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.391831,40.921458"
 draft: false
+
+weight: 10
 ---
 
 ### Giresun Kalesi: Tarihî Bir Mirasın İncelenmesi

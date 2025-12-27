@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.8475971,38.3209152"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Cami Türbesi: Denizli'nin Gizli Cenneti

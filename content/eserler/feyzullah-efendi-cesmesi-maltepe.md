@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.12986,40.920702"
 draft: false
+
+weight: 10
 ---
 
 ## Feyzullah Efendi Çeşmesi, Maltepe

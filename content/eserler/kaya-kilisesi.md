@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.248228,41.03255"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Kilisesi: Trabzon'un Gizli Cenneti

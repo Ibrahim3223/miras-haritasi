@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.2777233,37.5266304"
 draft: false
+
+weight: 10
 ---
 
 ## İlyas Bey Medresesi: Didim'in Ölümsüz Mirası

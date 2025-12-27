@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9731445,41.0625725"
 draft: false
+
+weight: 100
 ---
 
 ### Karacagür Tümülüsü: Tarihî bir Anıtın Gizemi

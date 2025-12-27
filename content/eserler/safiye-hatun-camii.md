@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.441836744,38.820547283"
 draft: false
+
+weight: 100
 ---
 
 ## Safiye Hatun Camii: Kayseri'nin Gizli Cenneti

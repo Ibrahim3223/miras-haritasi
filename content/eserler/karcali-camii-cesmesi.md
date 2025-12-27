@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7589645,38.0836449"
 draft: false
+
+weight: 100
 ---
 
 ### Karcalı Camii Çeşmesi

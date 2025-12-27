@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0101662,41.0182686"
 draft: false
+
+weight: 10
 ---
 
 ## Sinan Paşa Camii Çeşmesi: Üsküdar'ın Gizli Çeşmesi

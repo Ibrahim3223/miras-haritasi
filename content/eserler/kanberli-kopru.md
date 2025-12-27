@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.46255,40.48286"
 draft: false
+
+weight: 100
 ---
 
 ## Kanberli Köprü: Gümüşhane'nin Tarihi ve Kültürel Mirası

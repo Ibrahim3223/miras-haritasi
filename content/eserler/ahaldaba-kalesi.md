@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.165651,41.074516"
 draft: false
+
+weight: 10
 ---
 
 ### Ahaldaba Kalesi: Tarihî Mirasın Gizemi

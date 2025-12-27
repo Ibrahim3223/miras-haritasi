@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.984119,41.013101"
 draft: false
+
+weight: 10
 ---
 
 ## Ağalar Camii

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "28.996368,41.037612"
 draft: false
+
+weight: 10
 ---
 
 ### Dolmabahçe Saat Kulesi

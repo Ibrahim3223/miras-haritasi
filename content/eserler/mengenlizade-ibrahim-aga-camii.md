@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.274576197,36.851986328"
 draft: false
+
+weight: 10
 ---
 
 ## Mengenlizade İbrahim Ağa Camii

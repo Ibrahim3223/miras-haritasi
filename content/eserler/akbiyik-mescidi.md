@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.979372,41.003271"
 draft: false
+
+weight: 10
 ---
 
 ## Akbıyık Mescidi: Sultanahmet'te Tarih ve Kültür

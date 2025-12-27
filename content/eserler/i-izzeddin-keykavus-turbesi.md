@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.0148811,39.7481537"
 draft: false
+
+weight: 100
 ---
 
 ## I. İzzeddin Keykavus Türbesi

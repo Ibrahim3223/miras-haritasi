@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.0839348,39.8494072"
 draft: false
+
+weight: 100
 ---
 
 ## Sırataşlar Kalesi

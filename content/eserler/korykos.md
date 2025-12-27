@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.15416667,36.46527778"
 draft: false
+
+weight: 10
 ---
 
 ## Korykos Arkeolojik Sit

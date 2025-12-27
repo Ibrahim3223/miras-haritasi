@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.316667,37.816667"
 draft: false
+
+weight: 100
 ---
 
 ## Kekikli Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4743958,36.3972054"
 draft: false
+
+weight: 100
 ---
 
 ## Olympos Lykiarkh Mezarı

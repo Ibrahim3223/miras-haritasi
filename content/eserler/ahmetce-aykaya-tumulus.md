@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2425117,41.8168411"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmetçe Aykaya Tümülüs: Kırklareli'nin Gizli Anıtı

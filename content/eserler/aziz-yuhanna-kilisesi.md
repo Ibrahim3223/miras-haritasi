@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.147277777,38.437055555"
 draft: false
+
+weight: 10
 ---
 
 ### Aziz Yuhanna Kilisesi

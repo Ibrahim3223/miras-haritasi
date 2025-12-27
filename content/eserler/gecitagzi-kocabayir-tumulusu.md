@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2925301,41.9189835"
 draft: false
+
+weight: 100
 ---
 
 ## Geçitağzı Kocabayır Tümülüsü

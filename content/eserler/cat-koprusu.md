@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9502791,40.8632515"
 draft: false
+
+weight: 10
 ---
 
 # Çat Köprüsü

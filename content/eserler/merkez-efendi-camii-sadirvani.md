@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.920269,41.0161057"
 draft: false
+
+weight: 100
 ---
 
 ### Merkez Efendi Camii Şadırvanı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.40472222,38.67972222"
 draft: false
+
+weight: 10
 ---
 
 ### Uşak Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirası

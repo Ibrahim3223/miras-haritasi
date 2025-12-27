@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.018277777,41.019416666"
 draft: false
+
+weight: 100
 ---
 
 ## Hayrettin Çavuş Camii

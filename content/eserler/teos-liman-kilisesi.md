@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.7917385,38.1711731"
 draft: false
+
+weight: 100
 ---
 
 ## Teos Liman Kilisesi: İzmir'in Tarihî bir Ören Yeri

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9652233,41.0441933"
 draft: false
+
+weight: 100
 ---
 
 ## Piyale Paşa Sebili

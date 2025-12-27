@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.405624,42.002968"
 draft: false
+
+weight: 100
 ---
 
 ## Callistratia: Antik Çağın Gizemi

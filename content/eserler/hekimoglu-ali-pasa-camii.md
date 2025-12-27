@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.93497222,41.00615833"
 draft: false
+
+weight: 10
 ---
 
 ## Hekimoğlu Ali Paşa Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.4953957,37.4505615"
 draft: false
+
+weight: 100
 ---
 
 ## Akçaşehir Camii: Karaman'ın Tarihî Bir Çeşidi

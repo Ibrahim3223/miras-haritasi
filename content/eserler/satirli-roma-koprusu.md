@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.9713001,36.9836006"
 draft: false
+
+weight: 10
 ---
 
 # Şatırlı Roma Köprüsü

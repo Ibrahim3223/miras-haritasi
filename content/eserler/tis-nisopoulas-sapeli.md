@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.6358223,39.299633"
 draft: false
+
+weight: 100
 ---
 
 ## Tis Nisopoulas Şapeli: Ayvalık'taki Bir Kıbrıs Rum Kilisesi

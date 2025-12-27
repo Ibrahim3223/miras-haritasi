@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.139164,38.4158669"
 draft: false
+
+weight: 100
 ---
 
 ## Piyaleoğlu Camii

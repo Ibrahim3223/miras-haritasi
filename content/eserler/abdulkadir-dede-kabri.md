@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9557514,41.019722"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülkadir Dede Kabri

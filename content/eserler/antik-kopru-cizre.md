@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.3288994,37.3805008"
 draft: false
+
+weight: 100
 ---
 
 ## Antik Köprü, Cizre

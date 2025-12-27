@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5821342,38.3241501"
 draft: false
+
+weight: 100
 ---
 
 # Barbaros Eski Cami

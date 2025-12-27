@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.952472222,40.551222222"
 draft: false
+
+weight: 10
 ---
 
 ### Çorum Ulu Camii

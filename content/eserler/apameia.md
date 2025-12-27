@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.883611111,37.066666666"
 draft: false
+
+weight: 10
 ---
 
 ## Apameia: Şanlıurfa'nın Gizli Şehri

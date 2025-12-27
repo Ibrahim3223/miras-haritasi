@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.972541,41.008157"
 draft: false
+
+weight: 10
 ---
 
 ## Köprülü Kütüphanesi: İstanbul'un Gizli Çehresinde Saklı Bir Klasik

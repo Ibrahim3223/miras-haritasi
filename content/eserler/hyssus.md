@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.039388,40.942435"
 draft: false
+
+weight: 100
 ---
 
 ## Hyssus: Antik Çağın Gizemi

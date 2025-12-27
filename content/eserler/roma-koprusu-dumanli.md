@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.157631,37.330059"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Dumanlı

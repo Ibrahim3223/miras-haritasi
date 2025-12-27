@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.851111111,39.911666666"
 draft: false
+
+weight: 100
 ---
 
 ## TBMM Kütüphanesi

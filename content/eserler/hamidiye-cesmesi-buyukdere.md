@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.045481,41.161459"
 draft: false
+
+weight: 10
 ---
 
 # Hamidiye Çeşmesi, Büyükdere: İstanbul'un Şirin Bir Çeşmesi

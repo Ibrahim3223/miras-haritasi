@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97749,41.03376"
 draft: false
+
+weight: 10
 ---
 
 ## Galatasaray Müzesi: İstanbul'un Beyoğlu semtinde Yükselen Tarihsel Bir Miras

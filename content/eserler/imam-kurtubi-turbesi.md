@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.511127,40.738241"
 draft: false
+
+weight: 100
 ---
 
 ### İmam Kurtubi Türbesi

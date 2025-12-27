@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0771866,40.2323914"
 draft: false
+
+weight: 100
 ---
 
 ### Küçükyenice Tümülüsü: Bir Arkeolojik Harikası

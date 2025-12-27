@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6286659,39.5853653"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Dursunbey: Tarihi ve Kültürel Mirasın Bir Örneği

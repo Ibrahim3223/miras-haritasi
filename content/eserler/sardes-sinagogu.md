@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.040694444,38.488"
 draft: false
+
+weight: 10
 ---
 
 ## Sardes Sinagogu

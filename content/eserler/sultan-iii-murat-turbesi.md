@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9793667,41.0078784"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan III. Murat Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.5557017,39.3732286"
 draft: false
+
+weight: 100
 ---
 
 ### Küçük Höyük, Çamalak

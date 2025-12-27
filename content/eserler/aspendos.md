@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.17222,36.93889"
 draft: false
+
+weight: 1
 ---
 
 ### Aspendos: Antik Çağın En Büyük Tiyatro Yapısı

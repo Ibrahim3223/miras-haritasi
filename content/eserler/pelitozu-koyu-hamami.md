@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.0509491,40.2942696"
 draft: false
+
+weight: 100
 ---
 
 ### Pelitözü Köyü Hamamı: Tarihî Bir Mirasın Öyküsü

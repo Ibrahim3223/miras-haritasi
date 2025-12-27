@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.328295101,41.101380279"
 draft: false
+
+weight: 100
 ---
 
 ## Sırapınar Camii Çeşmesi: İstanbul'un Gizli Çeşmesi

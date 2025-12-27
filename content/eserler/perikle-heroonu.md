@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.1728191,36.3462486"
 draft: false
+
+weight: 100
 ---
 
 # Perikle Heroonu

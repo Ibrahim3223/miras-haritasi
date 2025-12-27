@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.4012203,40.146553"
 draft: false
+
+weight: 100
 ---
 
 ### Fatih Camii, Çanakkale: Tarihi ve Kültürel Miras

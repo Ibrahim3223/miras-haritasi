@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.6850557,41.282249"
 draft: false
+
+weight: 10
 ---
 
 ## İncekaya Su Kemeri: Safranbolu'da Tarihi Bir Köprü

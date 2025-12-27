@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.960104938,41.02351443"
 draft: false
+
+weight: 10
 ---
 
 ## Haraççı Kara Mehmet Camii: Cibali'nin Gizli Çeşidi

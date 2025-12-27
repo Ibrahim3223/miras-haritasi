@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.4843597,37.408989"
 draft: false
+
+weight: 10
 ---
 
 ### Mor Hadbşabo Kilisesi: Mardin'in Tarihi Bir Harikası

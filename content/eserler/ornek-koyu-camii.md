@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.7901,41.1371"
 draft: false
+
+weight: 100
 ---
 
 ## Örnek Köyü Camii: Pazar, Rize'nin Değerli Mirası

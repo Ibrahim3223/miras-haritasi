@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.099858,40.87611"
 draft: false
+
+weight: 100
 ---
 
 ## Bahriye Nezareti Çeşmesi

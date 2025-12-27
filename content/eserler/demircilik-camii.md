@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6542225,38.2210655"
 draft: false
+
+weight: 100
 ---
 
 ### Demircilik Camii: Bayındır'ın Gizli Çehresini Açıklamak

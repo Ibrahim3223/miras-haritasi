@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.5033989,36.4812927"
 draft: false
+
+weight: 100
 ---
 
 ## Baş Pınar Höyük

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.694683,38.8569"
 draft: false
+
+weight: 100
 ---
 
 ## Tepebağlar Höyük: Manisa'nın Gizli Ödülleri

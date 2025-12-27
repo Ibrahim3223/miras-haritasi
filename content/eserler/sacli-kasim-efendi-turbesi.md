@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9233817,41.0002793"
 draft: false
+
+weight: 10
 ---
 
 # Saçlı Kasım Efendi Türbesi

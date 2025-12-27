@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9661334,41.0149266"
 draft: false
+
+weight: 100
 ---
 
 ## Has Yunus Paşa Türbesi

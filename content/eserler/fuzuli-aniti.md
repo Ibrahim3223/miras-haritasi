@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.043661,41.075953"
 draft: false
+
+weight: 100
 ---
 
 ## Fuzuli Anıtı

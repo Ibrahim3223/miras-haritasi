@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "41.54625,41.517527777"
 draft: false
+
+weight: 10
 ---
 
 ## Sarp Sınır Kapısı: Artvin'in Tarihi Mirası

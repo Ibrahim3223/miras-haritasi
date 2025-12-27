@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9693031,41.0065308"
 draft: false
+
+weight: 100
 ---
 
 ## II. Mahmud Han Çeşmesi, Emin Sinan

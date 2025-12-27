@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.568284765,39.011843301"
 draft: false
+
+weight: 10
 ---
 
 ## Ayazini Metropolisi'ndeki Mezarlar: Afyonkarahisar'ın Gizli Anıtı

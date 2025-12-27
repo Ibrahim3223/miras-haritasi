@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.5250187,39.763176"
 draft: false
+
+weight: 100
 ---
 
 ## Kurşunlu Külliyesi Kervansarayı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.801845619,39.931953175"
 draft: false
+
+weight: 10
 ---
 
 ## 15 Temmuz Şehitler Abidesi

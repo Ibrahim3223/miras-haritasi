@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9589195,41.018074"
 draft: false
+
+weight: 100
 ---
 
 # Meryem Ana (Panagia) Ayazması, Vefa

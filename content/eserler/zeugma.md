@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.86583333,37.05861111"
 draft: false
+
+weight: 1
 ---
 
 ## Zeugma: Gaziantep'in Gizli Kahramanı

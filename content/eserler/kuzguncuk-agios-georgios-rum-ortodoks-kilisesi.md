@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.02972222,41.03611111"
 draft: false
+
+weight: 10
 ---
 
 ## Kuzguncuk Agios Georgios Rum Ortodoks Kilisesi

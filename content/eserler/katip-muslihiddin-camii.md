@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9456596,41.0305939"
 draft: false
+
+weight: 10
 ---
 
 ### Katip Muslihiddin Camii

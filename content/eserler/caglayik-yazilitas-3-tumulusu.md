@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3753166,42.0022774"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayık Yazılıtaş 3 Tümülüsü

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.2744,36.8506"
 draft: false
+
+weight: 10
 ---
 
 # Marmaris Kalesi

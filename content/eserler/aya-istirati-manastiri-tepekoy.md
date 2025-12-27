@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8223,40.1771011"
 draft: false
+
+weight: 100
 ---
 
 ## Aya İstirati Manastırı (Tepeköy)

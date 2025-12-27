@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.7057838,36.8906479"
 draft: false
+
+weight: 100
 ---
 
 ## Kavaklı Mescit: Antalya'nın Tarihi Camisi

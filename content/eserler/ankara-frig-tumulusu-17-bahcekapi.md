@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.797472,39.922707"
 draft: false
+
+weight: 100
 ---
 
 ### Ankara Frig Tümülüsü 17, Bahçekapı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.12998,36.738576"
 draft: false
+
+weight: 100
 ---
 
 ## Lycae Arkeolojik Sit

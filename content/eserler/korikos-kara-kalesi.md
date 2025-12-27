@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.1508064,36.4637642"
 draft: false
+
+weight: 100
 ---
 
 ### Korikos Kara Kalesi: Erdemli'nin Tarihi Mirası

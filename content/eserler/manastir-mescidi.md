@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.92840726,41.017370503"
 draft: false
+
+weight: 10
 ---
 
 ### Manastır Mescidi: İstanbul'un Gizli Cenneti

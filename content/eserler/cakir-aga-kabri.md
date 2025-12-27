@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9389191,41.0325737"
 draft: false
+
+weight: 100
 ---
 
 ## Çakır Ağa Kabri: İstanbul'un Tarihi Mirası

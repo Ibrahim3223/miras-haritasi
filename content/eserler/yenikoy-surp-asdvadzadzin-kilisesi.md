@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.062207,41.117167"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniköy Surp Asdvadzadzin Kilisesi: Tarihî ve Kültürel Bir Miras

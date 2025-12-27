@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2368431,42.0211029"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmetler Höyükler Bayırı 1 Tümülüsü: Tarihî Bir Arkeolojik Sit

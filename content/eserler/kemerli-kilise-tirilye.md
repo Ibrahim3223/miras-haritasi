@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.795333333,40.39325"
 draft: false
+
+weight: 10
 ---
 
 ## Kemerli Kilise (Tirilye): Tarihi ve Kültürel Bir Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.173789885,38.690240458"
 draft: false
+
+weight: 100
 ---
 
 ## İkiztepe 2 Tümülüsü

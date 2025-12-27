@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.484436,38.7241402"
 draft: false
+
+weight: 100
 ---
 
 ### Gevher Nesibe Hatun Kümbeti

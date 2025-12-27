@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.4872665,40.5512505"
 draft: false
+
+weight: 100
 ---
 
 ## Bazbent Köprüsü: Tarihi Bir Örnek

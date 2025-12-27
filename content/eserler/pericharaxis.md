@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.641936,39.765088"
 draft: false
+
+weight: 100
 ---
 
 # Pericharaxis: Eski Çağın Gizemi

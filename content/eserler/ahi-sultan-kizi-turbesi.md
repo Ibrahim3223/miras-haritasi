@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.703822,36.88559"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Sultan Kızı Türbesi

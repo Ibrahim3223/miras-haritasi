@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.225660945,41.736469758"
 draft: false
+
+weight: 10
 ---
 
 ### Kadı Emin Ali Çelebi Mezarı

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.1883507,40.0432816"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Hamam, Seddülbahir

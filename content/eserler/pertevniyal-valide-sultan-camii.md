@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.953055555,41.01"
 draft: false
+
+weight: 10
 ---
 
 # Pertevniyal Valide Sultan Camii: İstanbul'un Gizli Cenneti

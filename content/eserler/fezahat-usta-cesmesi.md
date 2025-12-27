@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970277777,41.035694444"
 draft: false
+
+weight: 10
 ---
 
 ## Fezahat Usta Çeşmesi

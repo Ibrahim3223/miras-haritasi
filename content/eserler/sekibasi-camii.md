@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.359444444,37.219111111"
 draft: false
+
+weight: 10
 ---
 
 ## Sekibaşı Camii: Muğla'nın Tarihî ve Kültürel Mirası

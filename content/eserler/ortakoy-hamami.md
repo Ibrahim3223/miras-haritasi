@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.026885,41.04878"
 draft: false
+
+weight: 10
 ---
 
 ## Ortaköy Hamamı: Beşiktaş'taki Tarihi Bir Miras

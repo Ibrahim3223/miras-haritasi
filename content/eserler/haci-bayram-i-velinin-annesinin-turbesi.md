@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8989716,39.9907951"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Bayram-ı Veli'nin Annesinin Türbesi

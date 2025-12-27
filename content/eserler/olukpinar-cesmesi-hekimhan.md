@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.915964795,38.759310523"
 draft: false
+
+weight: 100
 ---
 
 ## Olukpınar Çeşmesi, Hekimhan

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.4508781,37.3773308"
 draft: false
+
+weight: 100
 ---
 
 ## Cudi Dağı Manastırı: Güneydoğu Anadolu Bölgesi'nin Gizli Hazinası

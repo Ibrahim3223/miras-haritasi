@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.0808,40.719851"
 draft: false
+
+weight: 100
 ---
 
 ### Yunus Bey Türbesi: Enez'in Tarihî Mirası

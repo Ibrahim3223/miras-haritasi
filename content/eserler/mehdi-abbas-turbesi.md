@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2795067,39.9047813"
 draft: false
+
+weight: 100
 ---
 
 ## Mehdi Abbas Türbesi

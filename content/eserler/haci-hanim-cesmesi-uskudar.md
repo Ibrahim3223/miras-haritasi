@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0540921,41.047583"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hanım Çeşmesi: Üsküdar'ın Gizli Çeşmesi

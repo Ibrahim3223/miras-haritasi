@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.225,36.426944444"
 draft: false
+
+weight: 10
 ---
 
 **Bakras Kalesi: Hatay'ın Tarihi Kalesi**

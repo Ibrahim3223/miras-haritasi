@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.06059,41.171098"
 draft: false
+
+weight: 10
 ---
 
 ## Cezayirli Gazi Hasan Paşa Çeşmesi: Istanbul'un Gizli Çeşmesi

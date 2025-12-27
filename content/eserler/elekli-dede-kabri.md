@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9214935,41.0060196"
 draft: false
+
+weight: 10
 ---
 
 ### Elekli Dede Kabri: İstanbul'un Gizli Anıtı

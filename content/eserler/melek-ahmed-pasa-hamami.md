@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.233611111,37.910722222"
 draft: false
+
+weight: 10
 ---
 
 ### Melek Ahmed Paşa Hamamı

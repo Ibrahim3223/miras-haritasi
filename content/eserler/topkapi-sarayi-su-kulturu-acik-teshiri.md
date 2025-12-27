@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9829273,41.0108719"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Su Kültürü Açık Teşhiri: İstanbul'un Gizemli Çeşmesinde Bir Seyahat

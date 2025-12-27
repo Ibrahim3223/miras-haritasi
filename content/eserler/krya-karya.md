@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.85707,36.67653"
 draft: false
+
+weight: 100
 ---
 
 ## Karya (Krya) Arkeolojik Sit

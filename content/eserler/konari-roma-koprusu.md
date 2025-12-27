@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.785282,41.2352187"
 draft: false
+
+weight: 100
 ---
 
 # Konarı Roma Köprüsü

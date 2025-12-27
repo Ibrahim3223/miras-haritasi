@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.177567,41.136051"
 draft: false
+
+weight: 100
 ---
 
 # Boğaziçi Mahallesi Köprüsü 2

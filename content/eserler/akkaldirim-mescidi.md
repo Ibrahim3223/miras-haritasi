@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9821815,40.1423225"
 draft: false
+
+weight: 100
 ---
 
 ## Akkaldırım Mescidi: Bilecik'in Tarihsel Özelliklerini Barındıran Bir Cami

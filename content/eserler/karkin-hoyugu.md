@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8863139,37.6802269"
 draft: false
+
+weight: 100
 ---
 
 ## Karkın Höyüğü: Konya'nın Gizli Anıtı

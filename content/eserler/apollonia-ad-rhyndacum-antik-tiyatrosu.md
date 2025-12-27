@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.6826,40.169735"
 draft: false
+
+weight: 100
 ---
 
 ## Apollonia ad Rhyndacum Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9361442,41.0444316"
 draft: false
+
+weight: 100
 ---
 
 ## Şah Sultan Külliye Çeşmesi

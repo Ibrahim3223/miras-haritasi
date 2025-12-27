@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.090004,41.6436195"
 draft: false
+
+weight: 100
 ---
 
 ## Kaz Limanı Tümülüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0392,40.9948"
 draft: false
+
+weight: 10
 ---
 
 ## Kaptan Hasan Paşa Camii: Kadıköy'ün Gizli Çehresinde Bir Miras

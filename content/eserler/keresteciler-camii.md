@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.616178045,40.035511056"
 draft: false
+
+weight: 10
 ---
 
 ### Keresteciler Camii: Kahramankazan'daki Bir Örnek

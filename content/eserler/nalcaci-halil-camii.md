@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.019861111,41.016472222"
 draft: false
+
+weight: 10
 ---
 
 ## Nalçacı Halil Camii: Üsküdar'ın Tarihi Bir Çağına Tanıklık Eden Mimari Harikası

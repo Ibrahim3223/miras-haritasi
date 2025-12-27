@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.452732,38.984588"
 draft: false
+
+weight: 100
 ---
 
 ### Metaon

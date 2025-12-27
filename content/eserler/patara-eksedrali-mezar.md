@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3205566,36.2767105"
 draft: false
+
+weight: 100
 ---
 
 ## Patara Eksedralı Mezar: Antik Çağın Gizemi

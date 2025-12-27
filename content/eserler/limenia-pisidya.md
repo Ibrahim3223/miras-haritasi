@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.886580555,38.260161111"
 draft: false
+
+weight: 100
 ---
 
 # Limenia (Pisidya)

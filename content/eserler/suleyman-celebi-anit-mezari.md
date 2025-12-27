@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.028835,40.201466"
 draft: false
+
+weight: 10
 ---
 
 ## Süleyman Çelebi Anıt Mezarı

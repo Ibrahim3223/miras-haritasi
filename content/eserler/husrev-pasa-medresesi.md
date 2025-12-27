@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "43.3386879,38.4984245"
 draft: false
+
+weight: 100
 ---
 
 ## Hüsrev Paşa Medresesi

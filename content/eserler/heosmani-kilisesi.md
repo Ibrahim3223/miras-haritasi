@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.803972222,41.506277777"
 draft: false
+
+weight: 100
 ---
 
 ## Heosmani Kilisesi: Posof'un Gizli Çağı

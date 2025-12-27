@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8926923,38.6142213"
 draft: false
+
+weight: 10
 ---
 
 ## Pancarlık Kilisesi

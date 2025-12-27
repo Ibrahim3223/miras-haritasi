@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.89583333,37.65833333"
 draft: false
+
+weight: 10
 ---
 
 **Fasıllar Anıtı: Konya'nın Gizli Anıtı**

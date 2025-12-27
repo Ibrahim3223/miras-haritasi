@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.944992,41.024304"
 draft: false
+
+weight: 100
 ---
 
 ### Nişancı Mehmet Paşa Türbesi

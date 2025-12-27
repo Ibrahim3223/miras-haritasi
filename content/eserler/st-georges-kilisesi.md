@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9623566,41.1908836"
 draft: false
+
+weight: 100
 ---
 
 ## St. George's Kilisesi: Osmanlı Dönemi'nin Aziz George'a Adanmış Örgütlü Kilisesi

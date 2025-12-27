@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9130993,38.2056007"
 draft: false
+
+weight: 100
 ---
 
 **Tepetarla Höyüğü, Ödemiş**

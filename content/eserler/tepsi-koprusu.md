@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.591278,40.651289"
 draft: false
+
+weight: 100
 ---
 
 # Tepsi Köprüsü

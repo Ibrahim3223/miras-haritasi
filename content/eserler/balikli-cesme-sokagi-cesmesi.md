@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.497715,37.8678246"
 draft: false
+
+weight: 100
 ---
 
 ### Balıklı Çeşme Sokağı Çeşmesi: Konya'da Bir Öykü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.1785875,38.7593918"
 draft: false
+
+weight: 100
 ---
 
 ## Akpınar Höyüğü: Aksaray'ın Gizli Mirası

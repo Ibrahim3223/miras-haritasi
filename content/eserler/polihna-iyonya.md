@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.57715,38.429149"
 draft: false
+
+weight: 100
 ---
 
 ## Polihna: İyonya'nın Eski Kenti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2354126,38.1471672"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Muhammed Zilan Türbesi

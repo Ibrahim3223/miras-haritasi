@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.389333333,41.304416666"
 draft: false
+
+weight: 10
 ---
 
 ## Tbeti Manastırı: Şavşat'ta Bir Tarihî Harika

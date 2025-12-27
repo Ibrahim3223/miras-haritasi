@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.60585144,39.539366721"
 draft: false
+
+weight: 100
 ---
 
 ## Molla Yusuf Çeşmesi: İvrindi'nin Değerli Tarihi Eseri

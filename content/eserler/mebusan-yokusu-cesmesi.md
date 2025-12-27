@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.987975,41.032652"
 draft: false
+
+weight: 10
 ---
 
 ### Mebusan Yokuşu Çeşmesi

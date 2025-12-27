@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.453533,40.912883"
 draft: false
+
+weight: 100
 ---
 
 ### Şeytan Köprüsü, Rize

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.339919355,37.944089594"
 draft: false
+
+weight: 100
 ---
 
 ### Xystoi/ Verulanus Stoaları

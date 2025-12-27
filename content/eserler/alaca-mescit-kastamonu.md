@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7730026,41.3769455"
 draft: false
+
+weight: 100
 ---
 
 # Alaca Mescit, Kastamonu

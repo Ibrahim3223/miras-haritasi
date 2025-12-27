@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.3071423,41.8411026"
 draft: false
+
+weight: 100
 ---
 
 ## Demircihalil Babatepe Köprüsü

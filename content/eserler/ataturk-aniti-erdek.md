@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7904205,40.3967743"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Anıtı, Erdek

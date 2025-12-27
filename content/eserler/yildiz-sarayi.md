@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "29.0111,41.0494"
 draft: false
+
+weight: 10
 ---
 
 ## Yıldız Sarayı: Osmanlı İmparatorluğu'nun Son Yüzyılını Temsil Eden Bir Saray

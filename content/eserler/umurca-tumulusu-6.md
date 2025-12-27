@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4492321,41.4317665"
 draft: false
+
+weight: 100
 ---
 
 ## Umurca Tümülüsü 6: Lüleburgaz'ın Tarihî Mirası

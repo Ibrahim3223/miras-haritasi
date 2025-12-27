@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.920684387,40.765384606"
 draft: false
+
+weight: 10
 ---
 
 ## Selim Sırrı Paşa Konağı: İzmit'in Tarihi Mirası

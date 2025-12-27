@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.952795,38.0490952"
 draft: false
+
+weight: 100
 ---
 
 ## Tripolis Yukarı Kale: Denizli'nin Tarihî Bir Mirası

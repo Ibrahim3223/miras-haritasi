@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1371975,38.4192276"
 draft: false
+
+weight: 10
 ---
 
 ### Smyrna Roma Hamamı

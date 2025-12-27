@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.855472222,39.944194444"
 draft: false
+
+weight: 100
 ---
 
 ## Mecidiye Çeşmesi

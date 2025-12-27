@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.316111111,36.341388888"
 draft: false
+
+weight: 10
 ---
 
 **Amik Ovası: Türkiye'nin Bir Arkeolojik Kıvılcımı**

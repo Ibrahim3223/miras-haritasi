@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8230566,39.8226452"
 draft: false
+
+weight: 100
 ---
 
 ### Çengeltepe Höyüğü 

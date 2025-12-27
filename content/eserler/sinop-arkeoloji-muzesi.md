@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.151666666,42.0275"
 draft: false
+
+weight: 10
 ---
 
 ### Sinop Arkeoloji Müzesi

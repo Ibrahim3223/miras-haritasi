@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7199554,41.0047874"
 draft: false
+
+weight: 100
 ---
 
 ## Kulaklı Çeşme: Ortahisar'ın Gizli Çeşmesi

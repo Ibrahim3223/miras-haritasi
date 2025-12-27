@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.4462128,38.1534119"
 draft: false
+
+weight: 100
 ---
 
 ## Nevine Kalesi: Konya'nın Gizli Tarihi

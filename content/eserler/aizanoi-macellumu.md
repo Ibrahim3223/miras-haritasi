@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.610911,39.198457"
 draft: false
+
+weight: 10
 ---
 
 ## Aizanoi Macellumu: Tarihî Bir Mirasın Gizli Harikası

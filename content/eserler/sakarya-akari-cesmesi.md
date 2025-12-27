@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976222,41.053742"
 draft: false
+
+weight: 100
 ---
 
 # Sakarya Akarı Çeşmesi: Şişli'nin Güzel Çeşmesi

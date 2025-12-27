@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972435,41.003549"
 draft: false
+
+weight: 1
 ---
 
 ### Rüstem Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

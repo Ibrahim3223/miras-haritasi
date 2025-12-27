@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2814178,39.9091034"
 draft: false
+
+weight: 100
 ---
 
 ### Kadana Camii: Erzurum'un Tarihi Bir Mirası

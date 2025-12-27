@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.411202,40.13231"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Oka Arkeolojik Sit

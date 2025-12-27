@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "29.0575,40.1875"
 draft: false
+
+weight: 10
 ---
 
 ## Tophane Saat Kulesi: Bursa'nın Tarihî Mirası

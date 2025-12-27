@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "43.2010746,41.235091297"
 draft: false
+
+weight: 100
 ---
 
 ## Aktaş Sınır Kapısı: Tarihî Bir Kervansarayın Öyküsü

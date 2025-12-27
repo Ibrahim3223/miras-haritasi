@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.8095894,36.0925713"
 draft: false
+
+weight: 100
 ---
 
 ## Titiopolis Kilisesi

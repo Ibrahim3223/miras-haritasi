@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.2216854,41.7311859"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Tanaş Kilisesi: Kırklareli'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1602669,39.9142952"
 draft: false
+
+weight: 100
 ---
 
 ## Orta Camii (Susurluk)

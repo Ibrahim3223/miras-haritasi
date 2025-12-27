@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.888530913,39.650504235"
 draft: false
+
+weight: 100
 ---
 
 # Hamidiye Camii Çeşmesi, Balıkesir

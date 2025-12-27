@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.337823,39.488331"
 draft: false
+
+weight: 10
 ---
 
 ### Assos Tiyatrosu: Antik Yunan ve Roma Mirası

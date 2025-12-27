@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.962222222,41.009444444"
 draft: false
+
+weight: 10
 ---
 
 ### İstanbul Orhan Kemal İl Halk Kütüphanesi

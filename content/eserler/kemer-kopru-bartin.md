@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.3368568,41.6287117"
 draft: false
+
+weight: 10
 ---
 
 ## Kemer Köprü, Bartın: Tarihi ve Kültürel Miras

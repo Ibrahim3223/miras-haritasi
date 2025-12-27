@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.516666666,39.783333333"
 draft: false
+
+weight: 10
 ---
 
 ## Şarhöyük: Eskişehir'in Gizli Ören Yeri

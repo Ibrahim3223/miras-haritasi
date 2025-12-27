@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "41.1411,37.8986"
 draft: false
+
+weight: 10
 ---
 
 ## Batman Müzesi: Tarih, Kültür ve Miras

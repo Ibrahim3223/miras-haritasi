@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.39352,40.52494"
 draft: false
+
+weight: 100
 ---
 
 ## İkisu Köyü Kemer Köprü: Gümüşhane'nin Gizli Cenneti

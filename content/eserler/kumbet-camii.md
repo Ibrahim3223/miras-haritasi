@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.091444444,40.611305555"
 draft: false
+
+weight: 10
 ---
 
 ## Kümbet Camii: Kars'ın Tarihi ve Kültürel Mirası

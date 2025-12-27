@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.0673962,38.25634"
 draft: false
+
+weight: 100
 ---
 
 # Ümmü Sultan Türbesi: Ödemiş'in Gizli Çeşmesi

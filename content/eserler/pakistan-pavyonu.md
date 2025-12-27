@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.143333333,38.43"
 draft: false
+
+weight: 10
 ---
 
 ## Pakistan Pavyonu: İzmir'in Tarihi Saat Kulesi

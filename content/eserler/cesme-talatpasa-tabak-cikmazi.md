@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1826,39.1226997"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme – Talatpaşa, Tabak Çıkmazı

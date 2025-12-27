@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.3747559,38.191494"
 draft: false
+
+weight: 100
 ---
 
 ## Ladik Paşa Meydanı Çeşmesi

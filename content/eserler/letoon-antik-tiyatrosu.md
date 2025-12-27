@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.289946,36.331893"
 draft: false
+
+weight: 100
 ---
 
 ### Letoon Antik Tiyatrosu

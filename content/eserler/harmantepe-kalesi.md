@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.436061111,40.891205555"
 draft: false
+
+weight: 10
 ---
 
 ## Harmantepe Kalesi: Sakarya'nın Tarihî ve Kültürel Mirası

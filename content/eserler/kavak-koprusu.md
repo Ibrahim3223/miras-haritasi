@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0112186,41.0444774"
 draft: false
+
+weight: 100
 ---
 
 ### Kavak Köprüsü

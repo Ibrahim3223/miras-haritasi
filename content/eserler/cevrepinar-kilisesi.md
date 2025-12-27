@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.286374,40.255557"
 draft: false
+
+weight: 100
 ---
 
 ## Çevrepınar Kilisesi: Şiran'ın Tarihî ve Kültürel Mirası

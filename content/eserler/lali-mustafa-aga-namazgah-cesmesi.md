@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.933268,41.032558"
 draft: false
+
+weight: 10
 ---
 
 ## La'li Mustafa Ağa Namazgah Çeşmesi

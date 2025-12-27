@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7730293,41.3707962"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Dede Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

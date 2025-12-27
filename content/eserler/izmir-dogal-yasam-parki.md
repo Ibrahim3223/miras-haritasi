@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.963611111,38.491111111"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Doğal Yaşam Parkı: Doğası İle Birleşen Müze

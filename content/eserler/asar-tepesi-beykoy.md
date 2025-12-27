@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.4651067,39.5662149"
 draft: false
+
+weight: 100
 ---
 
 ## Asar Tepesi, Beyköy

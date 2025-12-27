@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.932878,41.043213"
 draft: false
+
+weight: 100
 ---
 
 ### Beyzade Mehmet Efendi Çeşmesi

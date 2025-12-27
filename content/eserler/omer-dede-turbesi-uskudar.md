@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0276527,41.0170631"
 draft: false
+
+weight: 100
 ---
 
 ## Ömer Dede Türbesi, Üsküdar

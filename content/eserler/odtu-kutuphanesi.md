@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.78320833,39.89609722"
 draft: false
+
+weight: 10
 ---
 
 ## ODTÜ Kütüphanesi

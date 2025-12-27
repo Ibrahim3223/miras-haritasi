@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3076611,38.3213768"
 draft: false
+
+weight: 100
 ---
 
 ## Hamaloğlu Çeşmesi

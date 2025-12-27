@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.943319,41.039391"
 draft: false
+
+weight: 10
 ---
 
 ## İskender Bey Çeşmesi

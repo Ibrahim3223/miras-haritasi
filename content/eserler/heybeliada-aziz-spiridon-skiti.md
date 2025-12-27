@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.08108,40.8683"
 draft: false
+
+weight: 10
 ---
 
 ## Heybeliada Aziz Spiridon Skiti

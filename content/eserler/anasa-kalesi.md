@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.9047394,37.3932457"
 draft: false
+
+weight: 100
 ---
 
 ## Anaşa Kalesi: Pozantı'nın Tarihî Mirası

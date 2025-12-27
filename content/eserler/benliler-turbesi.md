@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.6714725,36.9772415"
 draft: false
+
+weight: 100
 ---
 
 ### Benliler Türbesi: Köyceğiz'in Gizli Çağı

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5216446,39.7644997"
 draft: false
+
+weight: 10
 ---
 
 ## Eskişehir Hamam Müzesi

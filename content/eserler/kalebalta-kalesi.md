@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.1884346,38.5882797"
 draft: false
+
+weight: 100
 ---
 
 ### Kalebalta Kalesi: Aksaray'ın Efsanevi Kalesi

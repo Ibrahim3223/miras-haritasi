@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.969125,41.013768"
 draft: false
+
+weight: 100
 ---
 
 ## İsmail Ağa Çeşmesi, Mercan

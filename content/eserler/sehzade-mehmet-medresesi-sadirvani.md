@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9573746,41.0147057"
 draft: false
+
+weight: 100
 ---
 
 ## Şehzade Mehmet Medresesi Şadırvanı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.9568214,36.2265854"
 draft: false
+
+weight: 100
 ---
 
 ## Andriake B Kilisesi: Demre'de Bir Tarihi Kıymet

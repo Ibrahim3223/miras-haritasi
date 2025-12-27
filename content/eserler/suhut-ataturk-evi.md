@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.54181,38.53019"
 draft: false
+
+weight: 10
 ---
 
 ## Şuhut Atatürk Evi: Türkiye'nin Kültür Mirası

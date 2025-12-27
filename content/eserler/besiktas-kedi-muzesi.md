@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.012993383,41.043551121"
 draft: false
+
+weight: 100
 ---
 
 ## Beşiktaş Kedi Müzesi

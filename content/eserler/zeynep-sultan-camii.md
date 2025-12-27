@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.978415,41.010074"
 draft: false
+
+weight: 10
 ---
 
 **Zeynep Sultan Camii: İstanbul'un Gizli Cenneti**

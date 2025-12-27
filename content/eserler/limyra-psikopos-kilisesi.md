@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.170716532,36.341494227"
 draft: false
+
+weight: 100
 ---
 
 ### Limyra Psikopos Kilisesi

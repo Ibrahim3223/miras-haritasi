@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.3879262,38.1367273"
 draft: false
+
+weight: 100
 ---
 
 ## Malap Höyüğü: Elbistan'da Bir Tarih Özetleniyor

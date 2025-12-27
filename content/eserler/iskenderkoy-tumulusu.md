@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.6575222,41.6258125"
 draft: false
+
+weight: 100
 ---
 
 ## İskenderköy Tümülüsü

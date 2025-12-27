@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.736702,39.5668716"
 draft: false
+
+weight: 100
 ---
 
 ## Kalecik Kalesi: Erzincan'ın Tarihi Esmeri

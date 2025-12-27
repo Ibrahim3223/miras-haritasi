@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.373361,38.279374"
 draft: false
+
+weight: 100
 ---
 
 ### Aşıklar Köprüsü, Alaçatı

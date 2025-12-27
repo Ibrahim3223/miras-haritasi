@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.887472222,37.538666666"
 draft: false
+
+weight: 100
 ---
 
 ## Savur Ulu Camii: Tarihî ve Kültürel Bir Miras

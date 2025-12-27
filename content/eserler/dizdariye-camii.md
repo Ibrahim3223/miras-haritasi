@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.971833,41.006122"
 draft: false
+
+weight: 100
 ---
 
 ## Dizdariye Camii: İstanbul'un Gizli Çehresinde Bir Azizlik

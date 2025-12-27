@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.49133333,40.92577778"
 draft: false
+
+weight: 100
 ---
 
 # Hadrianapolis (Paflagonya)

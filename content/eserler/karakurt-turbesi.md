@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.9875412,39.1172142"
 draft: false
+
+weight: 100
 ---
 
 ## Karakurt Türbesi: Kırşehir'in Tarihi Bir Anıtı

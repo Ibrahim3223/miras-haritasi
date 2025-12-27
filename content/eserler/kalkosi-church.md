@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.342533333,40.608836111"
 draft: false
+
+weight: 100
 ---
 
 ## K'alk'osi Church: Gürcistan'ın Gizli Cenneti

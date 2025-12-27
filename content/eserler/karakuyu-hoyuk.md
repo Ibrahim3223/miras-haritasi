@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.260733,38.069667"
 draft: false
+
+weight: 100
 ---
 
 ### Karakuyu Höyük: Dinar'ın Gizli Anıtı

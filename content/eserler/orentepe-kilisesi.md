@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.4864445,37.265461"
 draft: false
+
+weight: 100
 ---
 
 # Örentepe Kilisesi: Bucak'taki Bir Gizem

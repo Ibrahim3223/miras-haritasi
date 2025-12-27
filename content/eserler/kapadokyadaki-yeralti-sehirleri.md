@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 1
 ---
 
 ## Kapadokya'daki Yeraltı Şehirleri

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7394333,38.3794594"
 draft: false
+
+weight: 100
 ---
 
 ### Denizli Köyü Camii: Tarihe ve Kültür Mirasına Dair Bir Kâse

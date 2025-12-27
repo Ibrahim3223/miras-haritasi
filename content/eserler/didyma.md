@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.25638889,37.385"
 draft: false
+
+weight: 10
 ---
 
 ## Didyma: Antikçağın Gizemi

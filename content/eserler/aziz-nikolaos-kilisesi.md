@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.314661,37.6685677"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Nikolaos Kilisesi: Aydın'ın Söke Kasabasında Gizlenmiş Bir Kültür Mirası

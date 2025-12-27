@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34253,37.93808"
 draft: false
+
+weight: 10
 ---
 
 ## Traianus Çeşmesi: Selçuk'taki Efsanevi Bir Arkeolojik Sit

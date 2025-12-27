@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.773536,41.374852"
 draft: false
+
+weight: 100
 ---
 
 ## 75.Yıl Cumhuriyet Evi Müzesi

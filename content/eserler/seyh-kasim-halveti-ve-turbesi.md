@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.736603,37.310602"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Kasım Halveti ve Türbesi

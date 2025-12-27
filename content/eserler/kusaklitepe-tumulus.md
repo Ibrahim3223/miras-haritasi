@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.778088,38.574627"
 draft: false
+
+weight: 100
 ---
 
 ## Kusaklitepe Tumulus

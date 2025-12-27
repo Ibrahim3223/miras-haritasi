@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0494461,41.0861778"
 draft: false
+
+weight: 100
 ---
 
 ## Şüheda Kuyusu: Beşiktaş'ta Bir Anıt'ın Gizemi

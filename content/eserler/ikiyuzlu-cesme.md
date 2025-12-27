@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9278641,40.9985237"
 draft: false
+
+weight: 100
 ---
 
 ## İkiyüzlü Çeşme: Yedikule'de Gizemli Bir Çeşme

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.756413,37.31718"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Hamit Türbesi: Mardin'in Gizli Cenneti

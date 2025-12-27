@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3315887,37.0425186"
 draft: false
+
+weight: 100
 ---
 
 ## Yahşi Meydan Çeşmesi: Bodrum'un Efsanevi Çeşmesi

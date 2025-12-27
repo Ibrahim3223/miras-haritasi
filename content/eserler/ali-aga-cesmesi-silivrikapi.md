@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.926678,41.005156"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Ağa Çeşmesi, Silivrikapı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.980272,41.009358"
 draft: false
+
+weight: 100
 ---
 
 ## Soğuk Çeşme Sokaktaki Çeşme: Fatih'ten Bir Zeyil

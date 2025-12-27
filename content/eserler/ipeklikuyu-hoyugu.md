@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2212772,38.446312"
 draft: false
+
+weight: 100
 ---
 
 ### İpeklikuyu Höyüğü: İzmir'in Gizli Cevheri

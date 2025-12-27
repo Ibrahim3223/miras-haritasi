@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9223774,39.1222741"
 draft: false
+
+weight: 100
 ---
 
 ## Tilkihöyük: Kangal'da Bir Arkeolojik Sit

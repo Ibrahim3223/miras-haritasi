@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.978416666,41.025666666"
 draft: false
+
+weight: 10
 ---
 
 ## Galata Surp Krikor Lusavoriç Kilisesi

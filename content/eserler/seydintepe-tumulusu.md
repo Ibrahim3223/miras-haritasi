@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8294794,40.0955128"
 draft: false
+
+weight: 100
 ---
 
 ### Seydintepe Tümülüsü: Kırıkkale'nin Gizli Güzelliği

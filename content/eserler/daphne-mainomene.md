@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.078667,41.153315"
 draft: false
+
+weight: 100
 ---
 
 ## Daphne Mainomene: Tarihi ve Kültürel Bir Miras

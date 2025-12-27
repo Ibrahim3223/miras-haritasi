@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.255138888,38.706111111"
 draft: false
+
+weight: 10
 ---
 
 **Harput Ulu Camii: Elazığ'ın Tarihi ve Kültürel Mirası**

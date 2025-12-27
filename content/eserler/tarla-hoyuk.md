@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.5447574,39.4108698"
 draft: false
+
+weight: 100
 ---
 
 ## Tarla Höyük: Tarihî Mirasın Gizemi

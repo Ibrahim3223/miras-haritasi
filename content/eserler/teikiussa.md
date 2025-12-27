@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.457993,37.353179"
 draft: false
+
+weight: 100
 ---
 
 ## Teikiussa: İyonya'nın Gizemli Şehri

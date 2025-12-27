@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.472138888,38.01475"
 draft: false
+
+weight: 10
 ---
 
 ## Belevi Anıt Mezarı

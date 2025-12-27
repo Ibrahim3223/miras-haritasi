@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5103703,40.9809608"
 draft: false
+
+weight: 100
 ---
 
 ## Damat Ağa Çeşmesi

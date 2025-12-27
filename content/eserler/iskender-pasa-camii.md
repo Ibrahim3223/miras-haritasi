@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2332152,37.9135"
 draft: false
+
+weight: 10
 ---
 
 ## İskender Paşa Camii: Tarihi Miras ve Mimari Çeşitleme

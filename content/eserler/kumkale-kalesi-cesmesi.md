@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.2004585,40.0059395"
 draft: false
+
+weight: 100
 ---
 
 ## Kumkale Kalesi Çeşmesi: Çanakkale'nin Gizli Çeşmesi

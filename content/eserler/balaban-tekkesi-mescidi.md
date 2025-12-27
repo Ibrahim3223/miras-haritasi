@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.013972222,41.025277777"
 draft: false
+
+weight: 10
 ---
 
 ## Balaban Tekkesi Mescidi: Üsküdar'da bir Mimar Sinan Eseri

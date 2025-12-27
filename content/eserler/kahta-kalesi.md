@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.6533203,37.9479866"
 draft: false
+
+weight: 10
 ---
 
 # Kahta Kalesi

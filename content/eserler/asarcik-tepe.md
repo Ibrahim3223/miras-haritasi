@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.3257141,37.4929924"
 draft: false
+
+weight: 100
 ---
 
 ## Asarcık Tepe: Muğla'nın Gizli Öreni

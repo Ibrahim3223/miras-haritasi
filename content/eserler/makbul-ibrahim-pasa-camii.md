@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9715,41.02225"
 draft: false
+
+weight: 10
 ---
 
 ### Makbul İbrahim Paşa Camii: Azapkapı'nın Gizli Çehresi

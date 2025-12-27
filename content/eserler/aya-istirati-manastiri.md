@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8463001,40.1689987"
 draft: false
+
+weight: 100
 ---
 
 ## Aya İstirati Manastırı: Gökçeada'nın Gizli Kahramanı

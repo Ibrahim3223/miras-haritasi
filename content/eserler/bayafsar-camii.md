@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.799599241,37.580418998"
 draft: false
+
+weight: 100
 ---
 
 ## Bayafşar Camii: Beyşehir'in Gizli Cenneti

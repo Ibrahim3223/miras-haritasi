@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0456219,40.1905098"
 draft: false
+
+weight: 10
 ---
 
 ## Cem Sultan Türbesi

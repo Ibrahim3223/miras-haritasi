@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.238012,41.41929"
 draft: false
+
+weight: 100
 ---
 
 ## Urisio: Tarihî ve Kültürel Bir Miras

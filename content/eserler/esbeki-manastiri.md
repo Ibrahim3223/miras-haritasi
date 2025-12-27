@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.7989,40.7237"
 draft: false
+
+weight: 10
 ---
 
 # Esbeki Manastırı: Artvin'in Tarihi Bir Mirası

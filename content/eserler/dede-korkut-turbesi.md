@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.569767,40.1974716"
 draft: false
+
+weight: 100
 ---
 
 ### Dede Korkut Türbesi

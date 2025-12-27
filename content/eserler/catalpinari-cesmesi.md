@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6942062,41.2428093"
 draft: false
+
+weight: 10
 ---
 
 ## Çatalpınarı Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.857,39.940777777"
 draft: false
+
+weight: 10
 ---
 
 ## Hallaç Mahmut Cami: Ankara'nın Tarihi Bir Çeşmesi

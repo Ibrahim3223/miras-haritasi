@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.940691,41.0163574"
 draft: false
+
+weight: 100
 ---
 
 ### Molla Gürani Çeşmesi: Fatih'in Tarihi Çeşmesi

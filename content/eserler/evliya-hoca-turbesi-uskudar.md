@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0183735,41.0225258"
 draft: false
+
+weight: 100
 ---
 
 ## Evliya Hoca Türbesi: Üsküdar'daki Tarihi Bir Anıt

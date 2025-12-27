@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1075,37.835833333"
 draft: false
+
+weight: 10
 ---
 
 ## Laodikeia: Tarihî Mirasın Gizli Cenneti

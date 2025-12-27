@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.860222222,39.942055555"
 draft: false
+
+weight: 10
 ---
 
 ### Ankara Roma Tiyatrosu

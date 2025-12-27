@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1657715,36.2027512"
 draft: false
+
+weight: 100
 ---
 
 ### Debruz Camii: Antakya'nın Tarihi Bir Mirası

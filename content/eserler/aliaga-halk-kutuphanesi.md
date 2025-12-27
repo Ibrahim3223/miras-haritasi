@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "26.9731197,38.8006325"
 draft: false
+
+weight: 100
 ---
 
 ## Aliağa Halk Kütüphanesi: İzmir'in Kültür Mirası

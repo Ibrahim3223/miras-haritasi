@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.390555555,36.768611111"
 draft: false
+
+weight: 10
 ---
 
 ### Vespasianus Kapısı (Side)

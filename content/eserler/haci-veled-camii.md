@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4941978,38.714222"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Veled Camii Tanıtımı

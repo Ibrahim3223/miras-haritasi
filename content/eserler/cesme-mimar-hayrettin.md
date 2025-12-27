@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9656868,41.0055809"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Mimar Hayrettin: Fatih'te Bir İhtişamlı Çeşme

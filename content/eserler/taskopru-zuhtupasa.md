@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0363255,40.990509"
 draft: false
+
+weight: 100
 ---
 
 ## Taşköprü, Zühtüpaşa: Kadıköy'ün Tarihi Köprüsü

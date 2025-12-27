@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.544663,41.674007"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Şüca Camii: Edirne'nin Gizli Çehresini Etkileyen Bir Öykü

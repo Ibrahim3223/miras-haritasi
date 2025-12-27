@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.173727,38.3855095"
 draft: false
+
+weight: 100
 ---
 
 ## Muradiye Camii (Buca)

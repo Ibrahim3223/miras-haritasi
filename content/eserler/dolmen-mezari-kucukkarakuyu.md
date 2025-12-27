@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.5658989,37.3465996"
 draft: false
+
+weight: 100
 ---
 
 ## Dolmen Mezarı, Küçükkarakuyu

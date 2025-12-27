@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1292572,38.2531357"
 draft: false
+
+weight: 100
 ---
 
 # Kasımpaşa Türbesi: İzmirlinin Gizli Cenneti

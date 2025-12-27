@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9235579,38.1885065"
 draft: false
+
+weight: 100
 ---
 
 # Tilafşın Höyük

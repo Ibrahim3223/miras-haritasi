@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "34.9426537,38.5144196"
 draft: false
+
+weight: 10
 ---
 
 ## Keşlik Manastırı: Ürgüp'ün Gizli Öreni

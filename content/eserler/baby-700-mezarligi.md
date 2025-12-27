@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.29444444,40.24277778"
 draft: false
+
+weight: 100
 ---
 
 ## Baby 700 Mezarlığı

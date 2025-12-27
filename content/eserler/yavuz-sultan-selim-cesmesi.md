@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4979019,37.8742714"
 draft: false
+
+weight: 100
 ---
 
 # Yavuz Sultan Selim Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası

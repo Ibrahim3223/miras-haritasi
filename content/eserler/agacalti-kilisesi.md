@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.303657,38.2532097"
 draft: false
+
+weight: 10
 ---
 
 ## Ağaçaltı Kilisesi: Aksaray'da Bir Geçmişe Dair Harika Bir Miras

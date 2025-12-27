@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.910194444,38.632638888"
 draft: false
+
+weight: 100
 ---
 
 # Karamanoğlu Camii: Ürgüp'ün Gizli Bir Çeşidi

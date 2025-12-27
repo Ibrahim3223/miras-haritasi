@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.014477,41.00972"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülmecit Meydan Çeşmesi: Üsküdar'da Bir Gizli Çeşme

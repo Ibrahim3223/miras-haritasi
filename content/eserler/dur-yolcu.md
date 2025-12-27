@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.373101301,40.156223648"
 draft: false
+
+weight: 10
 ---
 
 ### Dur Yolcu Anıt

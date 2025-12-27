@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9878778,41.0345815"
 draft: false
+
+weight: 100
 ---
 
 ### Ayşe ve Ercüment Kalmık Müzesi: Beyoğlu'ndaki Bir Kültür Mirası

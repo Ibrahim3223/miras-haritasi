@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8577995,39.9427567"
 draft: false
+
+weight: 100
 ---
 
 **Eti Zafer Sokak Çeşmesi**

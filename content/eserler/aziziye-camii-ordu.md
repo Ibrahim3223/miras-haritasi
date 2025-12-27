@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.8791237,40.9857903"
 draft: false
+
+weight: 100
 ---
 
 ## Aziziye Camii, Ordu

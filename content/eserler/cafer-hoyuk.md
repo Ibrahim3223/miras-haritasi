@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.75,38.4166"
 draft: false
+
+weight: 10
 ---
 
 ## Cafer Höyük: Malatya'nın Gizli İnsanlık Mirası

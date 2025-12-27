@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.4843205,40.5134061"
 draft: false
+
+weight: 10
 ---
 
 ## Bagnayr Manastırı: Kars'ta bir Hristiyan Evi

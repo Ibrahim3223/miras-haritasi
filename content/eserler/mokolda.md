@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.059625,37.392782"
 draft: false
+
+weight: 100
 ---
 
 ## Mokolda Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.904356,40.1949883"
 draft: false
+
+weight: 100
 ---
 
 ## Gökçeada Metropolithanesi: Tarihi ve Kültürel Mirasımız

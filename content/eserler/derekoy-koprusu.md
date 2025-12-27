@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.59785,40.726933"
 draft: false
+
+weight: 100
 ---
 
 ## Dereköy Köprüsü

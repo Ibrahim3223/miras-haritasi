@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1334438,39.3949432"
 draft: false
+
+weight: 100
 ---
 
 ## Evliya Çelebi Camii Tanıtımı

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.086841019,40.875222289"
 draft: false
+
+weight: 100
 ---
 
 ## Panayia Kamariotissa Manastırı

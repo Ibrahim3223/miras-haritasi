@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.711984867,40.424443526"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşmeci Millet Camii: İznik'in Tarihî ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.164527777,41.239138888"
 draft: false
+
+weight: 100
 ---
 
 ## Tskarostavi Kilisesi: Tarihî Bir Mirasın Gizemi

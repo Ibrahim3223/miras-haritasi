@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.697899,36.7030025"
 draft: false
+
+weight: 100
 ---
 
 ## Pisilis Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01526,41.021798"
 draft: false
+
+weight: 10
 ---
 
 ## Sadrazam Halil Paşa Sebili: Üsküdar'ın Tarihi Çeşmesi

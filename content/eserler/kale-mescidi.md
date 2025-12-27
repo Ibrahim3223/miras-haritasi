@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.276783,39.9075546"
 draft: false
+
+weight: 10
 ---
 
 ### Kale Mescidi: Erzurum'un Tarihi Bir Örneği

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3805847,37.0610886"
 draft: false
+
+weight: 100
 ---
 
 # Balıklı Mescidi, Gaziantep

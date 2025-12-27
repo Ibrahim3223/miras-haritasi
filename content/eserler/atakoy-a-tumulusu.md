@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.455822,41.6004677"
 draft: false
+
+weight: 100
 ---
 
 ## Ataköy A Tümülüsü: Pınarhisar'daki Antik Miras

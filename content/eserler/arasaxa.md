@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.8757016,38.6183522"
 draft: false
+
+weight: 100
 ---
 
 ## Arasaxa Arkeolojik Sit

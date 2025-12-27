@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.274361111,39.909277777"
 draft: false
+
+weight: 10
 ---
 
 **Erzurum Pervizoğlu Camii**

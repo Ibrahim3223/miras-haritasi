@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.513284463,39.765923478"
 draft: false
+
+weight: 10
 ---
 
 ## Eskişehir Arkeoloji Müzesi

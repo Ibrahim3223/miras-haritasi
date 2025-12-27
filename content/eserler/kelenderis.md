@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.32277778,36.14416667"
 draft: false
+
+weight: 10
 ---
 
 ## Kelenderis: Tarihî Bir Arkeolojik Sit

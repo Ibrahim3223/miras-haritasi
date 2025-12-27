@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5552235,41.6831169"
 draft: false
+
+weight: 10
 ---
 
 ### Beylerbeyi Türbesi

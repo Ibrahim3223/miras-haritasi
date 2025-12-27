@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934197,41.036802"
 draft: false
+
+weight: 100
 ---
 
 ## Hakkı Bey Çeşmesi

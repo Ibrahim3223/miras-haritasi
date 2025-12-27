@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.2585812,40.9497643"
 draft: false
+
+weight: 100
 ---
 
 ## Şapel, Aydos Kalesi: İstanbul'un Gizli Kahramanı

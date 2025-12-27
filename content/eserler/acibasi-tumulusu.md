@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1786785,39.3925285"
 draft: false
+
+weight: 100
 ---
 
 ## Acıbaşı Tümülüsü: Eskişehir'in Gizli Çanakkale'si

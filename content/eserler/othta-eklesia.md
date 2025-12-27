@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.471111111,40.814166666"
 draft: false
+
+weight: 10
 ---
 
 ## Othta Eklesia: Artvin'in Gizli Cenneti

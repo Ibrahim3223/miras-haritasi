@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.824627777,39.211752777"
 draft: false
+
+weight: 100
 ---
 
 ## Pandırtepe Yerleşimi

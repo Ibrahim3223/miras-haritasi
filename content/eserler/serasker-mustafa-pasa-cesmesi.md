@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0957146,41.1155357"
 draft: false
+
+weight: 10
 ---
 
 ## Serasker Mustafa Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.0347,38.4125"
 draft: false
+
+weight: 10
 ---
 
 ## TCG Ege Müzesi: İzmir'in Tarihsel Mirası

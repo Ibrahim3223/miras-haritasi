@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1134014,36.6179504"
 draft: false
+
+weight: 100
 ---
 
 **Telmessos Kaya Mezarları 2**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.057518,40.1829567"
 draft: false
+
+weight: 100
 ---
 
 ### Üftade Sokağı Çeşmesi

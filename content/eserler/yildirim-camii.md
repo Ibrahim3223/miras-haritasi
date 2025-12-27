@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0825,40.1875"
 draft: false
+
+weight: 10
 ---
 
 # Yıldırım Camii: Bursa'nın Tarihî Bir Mirası

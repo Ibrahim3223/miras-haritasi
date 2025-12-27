@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9883862,40.1437149"
 draft: false
+
+weight: 100
 ---
 
 ## Malhun Hatun Türbesi

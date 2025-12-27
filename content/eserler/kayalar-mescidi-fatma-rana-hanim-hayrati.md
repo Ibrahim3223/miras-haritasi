@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0525112,41.0803871"
 draft: false
+
+weight: 10
 ---
 
 ### Kayalar Mescidi Fatma Rana Hanım Hayratı

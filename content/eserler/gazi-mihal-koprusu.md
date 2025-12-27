@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.5417,41.6767"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Mihal Köprüsü

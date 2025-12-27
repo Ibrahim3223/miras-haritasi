@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4478912,37.8301353"
 draft: false
+
+weight: 100
 ---
 
 ## Harmancık Çeşmesi

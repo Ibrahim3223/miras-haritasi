@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.2815304,37.7142334"
 draft: false
+
+weight: 100
 ---
 
 ## Kavaklı Rum Kilisesi: Burdur'un Gizli Cenneti

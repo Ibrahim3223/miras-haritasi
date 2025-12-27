@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.176388888,38.443333333"
 draft: false
+
+weight: 100
 ---
 
 # Nevvar Salih İşgören Ulu Camii

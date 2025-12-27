@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.191350152,38.304094852"
 draft: false
+
+weight: 100
 ---
 
 ## Augusteum, Antioch in Pisidia

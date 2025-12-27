@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.958258,41.014441"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Ali Paşa Kütüphanesi

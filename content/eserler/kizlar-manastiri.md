@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "39.729,40.9985"
 draft: false
+
+weight: 10
 ---
 
 ## Kızlar Manastırı: Trabzon'da Bir Kutsal Yer

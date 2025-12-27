@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.697472222,40.979777777"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Köşkü: Trabzon'un Gizli Gözdeleri

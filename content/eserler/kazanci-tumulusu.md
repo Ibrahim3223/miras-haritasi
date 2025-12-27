@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6388988,41.4932327"
 draft: false
+
+weight: 100
 ---
 
 ## Kazancı Tümülüsü: Vize'nin Gizli Tarihi

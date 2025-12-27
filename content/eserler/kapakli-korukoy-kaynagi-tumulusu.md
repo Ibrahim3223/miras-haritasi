@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3481045,41.8804474"
 draft: false
+
+weight: 100
 ---
 
 ## Kapaklı Koruköy Kaynağı Tümülüsü

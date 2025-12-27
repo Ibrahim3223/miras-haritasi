@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4174728,41.4810257"
 draft: false
+
+weight: 100
 ---
 
 ### Turgutbey Tepeyanı Tümülüsü: Lüleburgaz'ın Gizli Ören Yeri

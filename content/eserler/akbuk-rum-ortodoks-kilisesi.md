@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.432024,37.3887596"
 draft: false
+
+weight: 100
 ---
 
 ## Akbük Rum Ortodoks Kilisesi

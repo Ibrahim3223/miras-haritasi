@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "26.688951,39.334462"
 draft: false
+
+weight: 100
 ---
 
 ## Evangelistria Manastırı: Ayvalık'ta Bir Azizlik Mirası

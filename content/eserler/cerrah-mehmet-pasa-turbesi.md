@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9446455,41.0078136"
 draft: false
+
+weight: 100
 ---
 
 ## Cerrah Mehmet Paşa Türbesi

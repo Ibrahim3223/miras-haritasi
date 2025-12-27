@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.35238,38.367131"
 draft: false
+
+weight: 100
 ---
 
 ## Bekse Kalesi: Batman'ın Tarihî Mirası

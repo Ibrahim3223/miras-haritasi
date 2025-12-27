@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.975518,41.004201"
 draft: false
+
+weight: 100
 ---
 
 ### Şifa Hamamı Sultanahmet

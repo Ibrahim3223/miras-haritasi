@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.716404,41.003376"
 draft: false
+
+weight: 10
 ---
 
 ## Gülbahar Hatun Türbesi: Ortadoğu'nun Gizemi

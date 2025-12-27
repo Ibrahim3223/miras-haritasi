@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.503727,41.1771812"
 draft: false
+
+weight: 10
 ---
 
 ### İzzettin Çeşmesi: Çatalca'nın Gizli Çeşmesi

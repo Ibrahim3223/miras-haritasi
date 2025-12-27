@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.793,37.7935"
 draft: false
+
+weight: 100
 ---
 
 ### Ziyaret Tepe Höyüğü: Diyarbakır'ın Keşiflerine Yol Açan Bir Arkeolojik Sit

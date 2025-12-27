@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.987397156,41.070036969"
 draft: false
+
+weight: 10
 ---
 
 ## İzzetpaşa Camii: Şişli'nin Tarihi ve Kültürel Mirasının Bir Parçası

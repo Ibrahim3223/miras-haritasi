@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8460445,37.8496284"
 draft: false
+
+weight: 100
 ---
 
 ### Ömer Muharrem Şefkatiye Çeşmesi

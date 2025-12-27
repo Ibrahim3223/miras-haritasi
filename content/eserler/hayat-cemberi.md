@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.147583333,38.439805555"
 draft: false
+
+weight: 10
 ---
 
 ## Hayat Çemberi: İzmir'in İncisi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.4842072,38.4105644"
 draft: false
+
+weight: 100
 ---
 
 ## Kaletepe Yerleşimi: Malatya'nın Tarihî Bir Mirası

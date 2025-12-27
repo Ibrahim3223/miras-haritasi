@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7266731,37.4082184"
 draft: false
+
+weight: 100
 ---
 
 ## Savran Höyük

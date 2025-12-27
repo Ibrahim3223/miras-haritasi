@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.04541,40.190707"
 draft: false
+
+weight: 10
 ---
 
 **Şirin Hatun Türbesi: Bursa'nın Gizli Öyküsü**

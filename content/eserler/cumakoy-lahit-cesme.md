@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.7887001,40.9302673"
 draft: false
+
+weight: 100
 ---
 
 ## Cumaköy Lahit Çeşme: Kocaeli'nin Gizli Çeşmesi

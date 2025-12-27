@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.780611111,41.569555555"
 draft: false
+
+weight: 100
 ---
 
 ## Ğvime Kilisesi: Bir Geçmişi ve Etkileyici Mimarisine Sahip Tarihi Bir Ölümsüz

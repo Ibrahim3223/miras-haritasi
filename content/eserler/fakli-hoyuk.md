@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.7434983,39.184061"
 draft: false
+
+weight: 100
 ---
 
 ## Faklı Höyük Tanıtımı

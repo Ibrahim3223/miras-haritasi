@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.970833333,37.992777777"
 draft: false
+
+weight: 10
 ---
 
 ## Ertokuş Hanı

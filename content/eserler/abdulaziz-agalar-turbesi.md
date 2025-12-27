@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7837486,37.3155174"
 draft: false
+
+weight: 100
 ---
 
 # Abdülaziz Ağalar Türbesi

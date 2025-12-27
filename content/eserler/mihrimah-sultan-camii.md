@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.935833333,41.029166666"
 draft: false
+
+weight: 10
 ---
 
 **Mihrimah Sultan Camii**

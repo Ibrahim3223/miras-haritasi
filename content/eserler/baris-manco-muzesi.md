@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0251217,40.981739"
 draft: false
+
+weight: 100
 ---
 
 ## Barış Manço Müzesi: Kadıköy'ün İkonik Yerleşimi

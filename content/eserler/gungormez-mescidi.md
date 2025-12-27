@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9764748,41.0044937"
 draft: false
+
+weight: 100
 ---
 
 ## Güngörmez Mescidi; Fatih Devri'nin Efsanevi Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8453726,38.6382477"
 draft: false
+
+weight: 10
 ---
 
 ## Pantokrator Kilisesi

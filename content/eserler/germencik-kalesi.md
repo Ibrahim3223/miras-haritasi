@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.359562,40.945889"
 draft: false
+
+weight: 100
 ---
 
 ## Germencik Kalesi

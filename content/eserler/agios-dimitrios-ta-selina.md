@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.655378,39.386373"
 draft: false
+
+weight: 100
 ---
 
 ## Agios Dimitrios ta Selina: Ayvalık'ta Bir Kıbrıs Kilisesi

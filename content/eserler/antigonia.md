@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.20516667,36.25391667"
 draft: false
+
+weight: 100
 ---
 
 ## Antigonia: Hatay'ın Antik Dönemden Kalma Gizemi

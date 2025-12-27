@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.96619,41.00487"
 draft: false
+
+weight: 10
 ---
 
 ## Kumkapı Ayia Kiriaki Kilisesi

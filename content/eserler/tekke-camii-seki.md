@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.6621723,36.8041153"
 draft: false
+
+weight: 100
 ---
 
 ## Tekke Camii, Seki: Muğla'nın Tarihi Bir Mirası

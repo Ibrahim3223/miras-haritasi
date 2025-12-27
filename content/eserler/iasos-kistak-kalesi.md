@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5847073,37.2805252"
 draft: false
+
+weight: 100
 ---
 
 ## Iasos Kıstak Kalesi: Tarihî Bir Mirasın Gizemi

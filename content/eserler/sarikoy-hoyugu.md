@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.6226107,37.2871865"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıköy Höyüğü: Tarihi ve Kültürel Mirasının Gizemi

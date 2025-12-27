@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.6635532,37.8662491"
 draft: false
+
+weight: 100
 ---
 
 ## Erbeyli İlk Kurşun Şehitliği ve Şehitler Abidesi

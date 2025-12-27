@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9800339,41.0096703"
 draft: false
+
+weight: 100
 ---
 
 ## Darphane-i Amire Kapısı, Sur-i Sultani

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5303192,38.7534218"
 draft: false
+
+weight: 100
 ---
 
 ## Tac-ı Ahmet Camii: Afyonkarahisar'ın Tarihi Mirası

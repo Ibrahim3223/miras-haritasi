@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9779739,41.0119095"
 draft: false
+
+weight: 10
 ---
 
 ## Şah-ı Huban Medresesi

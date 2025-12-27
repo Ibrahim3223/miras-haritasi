@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7901363,40.0353279"
 draft: false
+
+weight: 100
 ---
 
 ## Alanköy 2 Tümülüsü: Çanakkale'nin Gizli Hazinesi

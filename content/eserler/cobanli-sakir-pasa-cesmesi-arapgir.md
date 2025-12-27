@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.502309457,39.044524526"
 draft: false
+
+weight: 100
 ---
 
 ### Çobanlı Şakir Paşa Çeşmesi: Arapgir'in Tarihî Bir Mirası

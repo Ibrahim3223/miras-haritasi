@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9828281,39.4171257"
 draft: false
+
+weight: 100
 ---
 
 ## Cafer Dede Türbesi

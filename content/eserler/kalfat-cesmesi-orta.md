@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.098934958,40.667933914"
 draft: false
+
+weight: 100
 ---
 
 ## Kalfat Çeşmesi

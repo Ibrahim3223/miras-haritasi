@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6362305,38.4145432"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Bağyurdu: İzmir'in Gizli Cenneti

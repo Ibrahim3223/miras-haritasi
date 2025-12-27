@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9503422,41.0070076"
 draft: false
+
+weight: 100
 ---
 
 ## Cellad Camii Tanıtımı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4086647,38.2682838"
 draft: false
+
+weight: 100
 ---
 
 ### Pir Hüseyin Bey Camii

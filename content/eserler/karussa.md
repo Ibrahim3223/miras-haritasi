@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1956,41.8025"
 draft: false
+
+weight: 100
 ---
 
 ## Karussa: Gerze'nin Gizemi

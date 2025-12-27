@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.012054,41.019186"
 draft: false
+
+weight: 10
 ---
 
 ## Çakırcı Hasan Paşa Camii

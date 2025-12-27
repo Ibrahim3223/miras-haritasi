@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.027092,41.0167847"
 draft: false
+
+weight: 100
 ---
 
 ## Alaca Minare Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.016245,41.00531"
 draft: false
+
+weight: 100
 ---
 
 ## Musahip Ali Ağa Çeşmesi

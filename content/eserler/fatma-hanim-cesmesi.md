@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0806446,40.1812553"
 draft: false
+
+weight: 10
 ---
 
 # Fatma Hanım Çeşmesi

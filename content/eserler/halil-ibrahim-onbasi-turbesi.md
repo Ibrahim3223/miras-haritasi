@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1823,40.0448"
 draft: false
+
+weight: 100
 ---
 
 ### Halil İbrahim Onbaşı Türbesi: Eceabat'ın Önemli Anıtı

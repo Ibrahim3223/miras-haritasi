@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.7287979,37.3137741"
 draft: false
+
+weight: 100
 ---
 
 ## Mor Efrem Kilisesi

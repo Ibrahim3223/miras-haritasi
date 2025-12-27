@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.94417283,41.02904183"
 draft: false
+
+weight: 10
 ---
 
 ## Draman Yunus Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8884983,39.6505966"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Camii, Balıkesir

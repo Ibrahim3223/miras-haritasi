@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.952243,41.022091"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyiniye Medresesi

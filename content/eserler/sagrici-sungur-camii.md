@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0603237,40.1851768"
 draft: false
+
+weight: 100
 ---
 
 ## Sağrıcı Sungur Camii: Bursa'nın Gizli Çehresi

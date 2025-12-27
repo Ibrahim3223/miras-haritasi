@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4215425,37.040121"
 draft: false
+
+weight: 10
 ---
 
 ## Bodrum Antik Tiyatrosu

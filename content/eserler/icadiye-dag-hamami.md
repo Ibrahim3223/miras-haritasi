@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.031128,41.031157"
 draft: false
+
+weight: 100
 ---
 
 ## İcadiye Dağ Hamamı: Üsküdar'ın Tarihi Bir Öreni

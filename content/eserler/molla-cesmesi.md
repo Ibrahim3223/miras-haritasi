@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6764488,37.7636757"
 draft: false
+
+weight: 100
 ---
 
 ## Molla Çeşmesi: Aydın'ın Güzelliği

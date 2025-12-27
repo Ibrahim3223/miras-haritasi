@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.1805481,39.170442"
 draft: false
+
+weight: 100
 ---
 
 ## Çokumağıl Höyük

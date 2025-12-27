@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.16,39.76"
 draft: false
+
+weight: 100
 ---
 
 ### Alexandria Troas (Samian Ware Discovery Site)

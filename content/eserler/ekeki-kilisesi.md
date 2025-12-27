@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.424166666,40.398888888"
 draft: false
+
+weight: 10
 ---
 
 ## Ekeki Kilisesi

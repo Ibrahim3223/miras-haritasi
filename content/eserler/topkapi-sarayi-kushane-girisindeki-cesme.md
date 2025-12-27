@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9837041,41.0128746"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Kuşhane Girişindeki Çeşme: İhtişam ve Edeplilikin Bir Mirası

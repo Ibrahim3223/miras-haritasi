@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.837082,39.885212"
 draft: false
+
+weight: 100
 ---
 
 ## Eğit-Der Eğitim Müzesi

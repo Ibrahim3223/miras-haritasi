@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.966,41.011"
 draft: false
+
+weight: 100
 ---
 
 ## Bakkalzade Mescidi: Geçmişin Eserleri ve Kültürel Mirası

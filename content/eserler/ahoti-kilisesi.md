@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.658,40.883722222"
 draft: false
+
+weight: 100
 ---
 
 ### Ahoti Kilisesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0155506,37.6135597"
 draft: false
+
+weight: 100
 ---
 
 ## Hanife ve Ahmet Paralı Yöresel El Sanatları ve Tekstil Müzesi

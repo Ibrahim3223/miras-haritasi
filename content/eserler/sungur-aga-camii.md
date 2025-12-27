@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.6773643,37.9656487"
 draft: false
+
+weight: 10
 ---
 
 ## Sungur Ağa Camii

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.32977778,36.98845556"
 draft: false
+
+weight: 10
 ---
 
 ## Adana Sinema Müzesi: Türkiye'nin Sinema Tarihi için Değerli Bir Miras

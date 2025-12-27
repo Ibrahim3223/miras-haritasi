@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "42.107947,38.399112"
 draft: false
+
+weight: 100
 ---
 
 ## Bitlis'in Tarihi Bir Eseri: Han Hamamı

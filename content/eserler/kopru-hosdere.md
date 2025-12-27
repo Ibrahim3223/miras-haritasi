@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.6455498,41.0800514"
 draft: false
+
+weight: 100
 ---
 
 ### Hoşdere Köprüsü: Esenyurt'taki Tarihi bir Ölümsüz

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.907093,39.1803513"
 draft: false
+
+weight: 100
 ---
 
 ### Çevre Kale: Konya'nın Gizli Mirası

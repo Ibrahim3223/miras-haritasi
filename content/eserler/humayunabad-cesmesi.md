@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0441208,41.0769005"
 draft: false
+
+weight: 100
 ---
 
 ## Hümayunabad Çeşmesi

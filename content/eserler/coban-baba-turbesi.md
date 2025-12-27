@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.6946297,39.4421997"
 draft: false
+
+weight: 100
 ---
 
 ## Çoban Baba Türbesi: Seyitgazi'nin Semavi Tarihi

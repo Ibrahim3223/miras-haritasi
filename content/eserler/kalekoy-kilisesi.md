@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.8991928,40.2334023"
 draft: false
+
+weight: 100
 ---
 
 ## Kaleköy Kilisesi

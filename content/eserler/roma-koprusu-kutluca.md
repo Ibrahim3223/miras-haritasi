@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.7593632,40.9173022"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Kutluca

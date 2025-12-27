@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.76991,40.991694"
 draft: false
+
+weight: 100
 ---
 
 ## Ayazma Sokak Çeşmesi (Eski Yeri)

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5695152,41.5852585"
 draft: false
+
+weight: 100
 ---
 
 ## Tozaklı Köyiçi Camii: Pınarhisar'ın Tarihî Bir Çeşiti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.538599,38.7613487"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Vezir Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.12722,37.229309"
 draft: false
+
+weight: 100
 ---
 
 **Selge Antik Tiyatrosu**

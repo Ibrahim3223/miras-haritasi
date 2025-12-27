@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.954277777,41.014555555"
 draft: false
+
+weight: 10
 ---
 
 ## İbrahim Paşa Hamamı: İstanbul'un Kültürel Miraslarından Bir Örnek

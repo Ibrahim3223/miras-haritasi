@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8463,39.9327"
 draft: false
+
+weight: 10
 ---
 
 ### TCDD Açık Hava Buharlı Lokomotif Müzesi

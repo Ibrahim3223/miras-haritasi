@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6923033,41.0337766"
 draft: false
+
+weight: 100
 ---
 
 # Karaevli Köprüsü

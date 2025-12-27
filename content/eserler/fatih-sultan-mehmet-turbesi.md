@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9502674,41.0192788"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Sultan Mehmet Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8793736,39.6503143"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Kaya Camii: Balıkesir'in Tarihi Bir Mirası

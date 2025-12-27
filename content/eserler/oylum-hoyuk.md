@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.178462,36.699138"
 draft: false
+
+weight: 10
 ---
 
 # Oylum Höyük: Kilis'te Gizli Tarih

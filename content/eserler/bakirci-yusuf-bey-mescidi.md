@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.501500617,37.869598873"
 draft: false
+
+weight: 100
 ---
 
 ## Bakırcı Yusuf Bey Mescidi

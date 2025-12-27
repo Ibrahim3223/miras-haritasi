@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941306,41.048919"
 draft: false
+
+weight: 10
 ---
 
 # Memba Suyu Çeşmesi

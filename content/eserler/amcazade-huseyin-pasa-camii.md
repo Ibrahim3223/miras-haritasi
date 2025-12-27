@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9521427,41.0152245"
 draft: false
+
+weight: 100
 ---
 
 **Amcazade Hüseyin Paşa Camii**

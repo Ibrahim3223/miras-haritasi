@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5899963,37.7503052"
 draft: false
+
+weight: 100
 ---
 
 ## Bıyıklı Kalesi, Koçarlı

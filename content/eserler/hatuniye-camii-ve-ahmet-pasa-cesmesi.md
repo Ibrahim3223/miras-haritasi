@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.988876,41.030873"
 draft: false
+
+weight: 100
 ---
 
 # Hatuniye Camii ve Ahmet Paşa Çeşmesi

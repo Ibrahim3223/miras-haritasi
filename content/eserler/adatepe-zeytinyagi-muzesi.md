@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.60111111,39.5475"
 draft: false
+
+weight: 100
 ---
 
 ## Adatepe Zeytinyağı Müzesi

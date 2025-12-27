@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.85499,36.6402397"
 draft: false
+
+weight: 100
 ---
 
 ## Batık Hamam

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.423645,38.6101875"
 draft: false
+
+weight: 100
 ---
 
 ### İbrahim Çelebi Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8541794,38.7813148"
 draft: false
+
+weight: 100
 ---
 
 # Avanos Tümülüsü: Tarihi ve Kültürel Mirasın Anıtı

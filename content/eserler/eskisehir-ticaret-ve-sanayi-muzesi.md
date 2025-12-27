@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.523222,39.7648239"
 draft: false
+
+weight: 100
 ---
 
 ## Eskişehir Ticaret ve Sanayi Müzesi

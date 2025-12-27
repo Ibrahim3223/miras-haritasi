@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.887233,41.071217"
 draft: false
+
+weight: 100
 ---
 
 ### Büyüktaş Köprüsü

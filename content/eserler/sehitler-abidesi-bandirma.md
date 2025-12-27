@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.9705696,40.3546066"
 draft: false
+
+weight: 100
 ---
 
 **Şehitler Abidesi, Bandırma**

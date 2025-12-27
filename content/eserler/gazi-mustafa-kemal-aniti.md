@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.925916666,36.380277777"
 draft: false
+
+weight: 10
 ---
 
 ### Gazi Mustafa Kemal Anıtı

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.272082,39.713047"
 draft: false
+
+weight: 100
 ---
 
 ### Naendria Kalesi: Ezine'nin Tarihi ve Kültürel Mirası

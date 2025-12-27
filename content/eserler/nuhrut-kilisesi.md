@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.1131387,37.2899051"
 draft: false
+
+weight: 100
 ---
 
 ## Nuhrut Kilisesi

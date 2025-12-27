@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3985004,37.1771011"
 draft: false
+
+weight: 100
 ---
 
 ## Elmalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti

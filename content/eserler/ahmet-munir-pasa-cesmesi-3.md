@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0618439,40.1842422"
 draft: false
+
+weight: 100
 ---
 
 **Ahmet Münir Paşa Çeşmesi 3: Bursa'nın Gizli Çeşmesi**

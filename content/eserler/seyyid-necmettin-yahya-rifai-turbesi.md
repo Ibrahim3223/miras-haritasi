@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.752233889,40.759836252"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Necmettin Yahya Rifai Türbesi

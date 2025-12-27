@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0604267,40.1834564"
 draft: false
+
+weight: 100
 ---
 
 ## Güngörmez Camii: Bursa'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7604218,40.5100136"
 draft: false
+
+weight: 100
 ---
 
 ## Hilal Çeşmesi: Gelibolu'nun Tarihi Bir Ölümsüzü

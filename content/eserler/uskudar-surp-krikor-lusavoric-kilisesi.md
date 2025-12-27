@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.030277777,41.036666666"
 draft: false
+
+weight: 10
 ---
 
 ## Üsküdar Surp Krikor Lusavoriç Kilisesi: İstanbul'un Gizli Cenneti

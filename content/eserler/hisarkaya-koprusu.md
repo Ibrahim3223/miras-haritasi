@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9061699,37.6444054"
 draft: false
+
+weight: 100
 ---
 
 ## Hisarkaya Köprüsü: Savur'un Gizli Anıtı

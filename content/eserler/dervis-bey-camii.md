@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.703694444,41.115027777"
 draft: false
+
+weight: 100
 ---
 
 ## Derviş Bey Camii

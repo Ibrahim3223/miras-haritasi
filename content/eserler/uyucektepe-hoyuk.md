@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.621767,39.340352"
 draft: false
+
+weight: 100
 ---
 
 ### Üyücektepe Höyük

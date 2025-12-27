@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3281574,41.8471794"
 draft: false
+
+weight: 100
 ---
 
 ### Koruköy Sazlık Çukuru Tümülüsü: Tarihî ve Kültürel Mirası Tanıyın

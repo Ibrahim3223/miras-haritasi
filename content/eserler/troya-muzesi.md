@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.24916667,39.95527778"
 draft: false
+
+weight: 10
 ---
 
 ## Troya Müzesi: Çanakkale'nin Gizemi

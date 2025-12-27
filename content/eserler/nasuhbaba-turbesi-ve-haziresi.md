@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8640003,41.368"
 draft: false
+
+weight: 100
 ---
 
 ## Nasuhbaba Türbesi ve Haziresi

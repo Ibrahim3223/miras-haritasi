@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1480122,40.9062614"
 draft: false
+
+weight: 10
 ---
 
 ## Prusias Ad Hypium Antik Tiyatrosu

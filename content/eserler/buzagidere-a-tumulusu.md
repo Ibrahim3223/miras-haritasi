@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7828541,41.5462265"
 draft: false
+
+weight: 100
 ---
 
 ## Buzağıdere A Tümülüsü: Tarihî Mirasın Gizemli Yeri

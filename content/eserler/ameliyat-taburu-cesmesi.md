@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.992572,41.179163"
 draft: false
+
+weight: 100
 ---
 
 ### Ameliyat Taburu Çeşmesi: Sarıyer'in Gizli Çeşmesi

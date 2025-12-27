@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4151878,38.4247513"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Hamam, Kemalpaşa

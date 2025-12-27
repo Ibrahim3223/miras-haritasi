@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.669569,39.0995255"
 draft: false
+
+weight: 100
 ---
 
 ## Satıoğlu Camii: Kırkağaç'taki Bir Önemli Cami

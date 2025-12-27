@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.482279423,38.721598611"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Hasan Camii: Kayseri'nin Tarihi ve Kültürel Mirası

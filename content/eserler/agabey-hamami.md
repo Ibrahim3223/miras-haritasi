@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0281944,40.990448"
 draft: false
+
+weight: 100
 ---
 
 ## Ağabey Hamamı: Kadıköy'de Bir Osmanlı Dönemi Mirası

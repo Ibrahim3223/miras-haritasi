@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.03442,41.56813"
 draft: false
+
+weight: 100
 ---
 
 ## Tios Antik Tiyatrosu: Çaycuma'da Tarihçenin Gizemi

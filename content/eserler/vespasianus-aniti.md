@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.3905525,36.7686348"
 draft: false
+
+weight: 10
 ---
 
 **Vespasianus Anıtı**

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.326624,38.365242"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Ulubey

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.940134,41.0405083"
 draft: false
+
+weight: 10
 ---
 
 ### Şemsi Cemal Usta Çeşmesi

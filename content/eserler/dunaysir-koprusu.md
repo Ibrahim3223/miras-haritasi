@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.5832634,37.1972198"
 draft: false
+
+weight: 100
 ---
 
 ## Dunaysır Köprüsü: Tarihi ve Kültürel Mirasımız

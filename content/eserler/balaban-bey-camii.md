@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.3492622,39.3164406"
 draft: false
+
+weight: 100
 ---
 
 ## Balaban Bey Camii: Kiğı'nın Tarihî Mirası

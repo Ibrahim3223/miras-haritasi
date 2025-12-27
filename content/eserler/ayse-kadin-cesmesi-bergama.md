@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.180994,39.1249657"
 draft: false
+
+weight: 100
 ---
 
 **Ayşe Kadın Çeşmesi: Bergama'nın Tarihsel ve Kültürel Mirası**

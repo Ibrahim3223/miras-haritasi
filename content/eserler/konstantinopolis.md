@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.98,41.0125"
 draft: false
+
+weight: 10
 ---
 
 ## Konstantinopolis: Tarihî Bir Kentin İzleri

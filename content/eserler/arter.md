@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9787,41.0409"
 draft: false
+
+weight: 10
 ---
 
 ## Arter: İstanbul'un Çağdaş Sanat Evi

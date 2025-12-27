@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4222298,38.6071625"
 draft: false
+
+weight: 100
 ---
 
 ## İvaz Paşa Türbesi

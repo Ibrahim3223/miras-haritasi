@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0379562,37.5139542"
 draft: false
+
+weight: 100
 ---
 
 ## Sadullah Köprüsü: Aydın'ın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.915305555,41.007111111"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Sarkis Anıt Mezar Şapeli

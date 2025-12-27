@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.6285515,37.305542"
 draft: false
+
+weight: 100
 ---
 
 ### Mor Barsavmo Manastırı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.017722222,41.017916666"
 draft: false
+
+weight: 10
 ---
 
 ## İbnü'l-Emin Ahmed Ağa Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi

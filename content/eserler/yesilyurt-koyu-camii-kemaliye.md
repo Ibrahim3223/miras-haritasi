@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.5574875,39.1978073"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşilyurt Köyü Camii: Kemaliye'nin Gizli Cenneti

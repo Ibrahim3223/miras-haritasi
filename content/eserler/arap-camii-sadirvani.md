@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971271066,41.024419784"
 draft: false
+
+weight: 10
 ---
 
 ## Arap Camii Şadırvanı: Beyoğlu'nun Tarihi Çeşmesi

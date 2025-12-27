@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.853467,39.935167"
 draft: false
+
+weight: 10
 ---
 
 ### Ankara'nın Eskişehir Yolu'nda Bulunan Antik Opera Sahnesi

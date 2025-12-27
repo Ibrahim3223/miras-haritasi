@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.784916666,37.147722222"
 draft: false
+
+weight: 100
 ---
 
 ## Rızvaniye Camii: Şanlıurfa'nın Tarihi Bir Mirası

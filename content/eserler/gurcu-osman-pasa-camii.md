@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4877472,38.7227821"
 draft: false
+
+weight: 100
 ---
 
 ## Gürcü Osman Paşa Camii

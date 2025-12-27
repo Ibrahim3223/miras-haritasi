@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9651432,41.0104065"
 draft: false
+
+weight: 10
 ---
 
 ## Beyazıt Camii Şadırvanı: İstanbul'un Kültürel Mirasının Örnekleri arasında

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.241623,37.913442"
 draft: false
+
+weight: 10
 ---
 
 ## Nasuh Paşa Camii

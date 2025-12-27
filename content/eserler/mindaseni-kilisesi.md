@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.725394444,41.102127777"
 draft: false
+
+weight: 100
 ---
 
 ## Mindaşeni Kilisesi

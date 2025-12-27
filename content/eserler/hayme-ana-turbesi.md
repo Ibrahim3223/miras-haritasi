@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.50058242,39.75006084"
 draft: false
+
+weight: 10
 ---
 
 ## Hayme Ana Türbesi: Domaniç'te Bir Ölümsüzün Evinde

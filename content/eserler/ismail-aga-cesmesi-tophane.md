@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9805698,41.0297699"
 draft: false
+
+weight: 100
 ---
 
 # İsmail Ağa Çeşmesi, Tophane

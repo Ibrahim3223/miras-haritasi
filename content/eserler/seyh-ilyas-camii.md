@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.5673141,37.8944893"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh İlyas Camii: Bor, Niğde'nin Gizli Çehresi

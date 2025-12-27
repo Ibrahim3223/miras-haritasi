@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.45461,40.454252"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Karabet Ermeni Kilisesi: Gümüşhane'nin Gizli Hazineleri

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4906998,38.7139206"
 draft: false
+
+weight: 100
 ---
 
 ## Deveci Hamamı Çeşmesi: Kayseri'nin Ölümsüz Çeşmesi

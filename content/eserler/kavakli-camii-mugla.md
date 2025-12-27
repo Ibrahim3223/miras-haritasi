@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3630619,37.219059"
 draft: false
+
+weight: 10
 ---
 
 ## Kavaklı Camii: Muğla'nın Gizli Çehresi

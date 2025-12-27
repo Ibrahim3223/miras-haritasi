@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.4841309,38.7239265"
 draft: false
+
+weight: 100
 ---
 
 ## Selçuklu Müzesi: Kayseri'nin İhtişamlı Tarihsel Mirası

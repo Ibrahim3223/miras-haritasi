@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.0172084,39.5710508"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Sarınınören

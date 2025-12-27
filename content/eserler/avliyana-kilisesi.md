@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.1346359,40.4513054"
 draft: false
+
+weight: 100
 ---
 
 ### Avliyana Kilisesi: Torul'un Tarihi Harikası

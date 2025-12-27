@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.936498,41.004764"
 draft: false
+
+weight: 100
 ---
 
 # Esekapı Medresesi

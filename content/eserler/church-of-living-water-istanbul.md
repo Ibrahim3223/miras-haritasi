@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Church of Living Water, İstanbul

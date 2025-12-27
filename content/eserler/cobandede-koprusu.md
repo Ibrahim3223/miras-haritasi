@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.88863,39.96985"
 draft: false
+
+weight: 10
 ---
 
 # Çobandede Köprüsü

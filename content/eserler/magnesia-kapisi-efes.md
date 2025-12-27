@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.342111944,37.940246111"
 draft: false
+
+weight: 100
 ---
 
 ## Magnesia Kapısı

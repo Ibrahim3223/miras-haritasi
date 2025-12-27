@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.294641,41.141346"
 draft: false
+
+weight: 100
 ---
 
 ## Türk Japon Anıtı, Ünye

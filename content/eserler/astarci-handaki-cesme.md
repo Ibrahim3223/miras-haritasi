@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9673367,41.0118027"
 draft: false
+
+weight: 10
 ---
 
 ## Astarcı Han'daki Çeşme: İstanbul'un Gizli Cenneti

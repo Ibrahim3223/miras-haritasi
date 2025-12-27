@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4398022,38.6124611"
 draft: false
+
+weight: 100
 ---
 
 ## Dilşikar Hatun Camii Çeşmesi

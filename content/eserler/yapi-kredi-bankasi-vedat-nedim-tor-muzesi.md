@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.976863,41.033198"
 draft: false
+
+weight: 100
 ---
 
 ## Yapı Kredi Bankası Vedat Nedim Tör Müzesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.346687,40.654749"
 draft: false
+
+weight: 100
 ---
 
 ## Süllü 1 Köprüsü: Giresun'un Gizli Çehresini Keşfedin

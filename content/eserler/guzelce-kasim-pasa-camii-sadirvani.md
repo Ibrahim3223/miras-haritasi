@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9683132,41.0331459"
 draft: false
+
+weight: 100
 ---
 
 ## Güzelce Kasım Paşa Camii Şadırvanı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0001847,39.1207279"
 draft: false
+
+weight: 100
 ---
 
 # Roma Köprüsü, Kayganlı

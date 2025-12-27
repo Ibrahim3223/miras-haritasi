@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.4050312,40.7687836"
 draft: false
+
+weight: 100
 ---
 
 ## Sokak Çeşmesi, Akıncılar Mahallesi: Sakarya'nın Gizli Çeşmesi

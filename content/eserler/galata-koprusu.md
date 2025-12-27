@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.973055555,41.02"
 draft: false
+
+weight: 10
 ---
 
 ## Galata Köprüsü: İstanbul'un Sembolü

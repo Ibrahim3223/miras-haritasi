@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0649986,37.3104057"
 draft: false
+
+weight: 100
 ---
 
 ## Stratonikeia Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8739738,41.0269241"
 draft: false
+
+weight: 100
 ---
 
 ## Genç Osman Camii

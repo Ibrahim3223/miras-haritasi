@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.01885,39.588333"
 draft: false
+
+weight: 100
 ---
 
 ### Emre Mevkii Arkeolojik Sit

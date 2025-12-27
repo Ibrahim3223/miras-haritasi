@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0248852,41.9816933"
 draft: false
+
+weight: 100
 ---
 
 ## Devletliağaç Höyükler 1 Tümülüsü

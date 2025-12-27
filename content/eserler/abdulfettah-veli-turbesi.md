@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.774740126,41.376695413"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülfettah Veli Türbesi

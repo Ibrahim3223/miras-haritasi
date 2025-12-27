@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.338974,38.464111"
 draft: false
+
+weight: 100
 ---
 
 ## Şeytan Köprüsü, Sason

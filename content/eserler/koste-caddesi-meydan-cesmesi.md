@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3052254,38.3269157"
 draft: false
+
+weight: 100
 ---
 
 ## Köste Caddesi Meydan Çeşmesi: Çeşme'nin Zümrütlü Kavşağında Bir Miras

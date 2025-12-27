@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.20754,36.34885"
 draft: false
+
+weight: 10
 ---
 
 ## Kırkgöz Kemeri: Antik Limyra'nın Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9494057,41.0316734"
 draft: false
+
+weight: 100
 ---
 
 ## Stefan Bogoridi Büstü

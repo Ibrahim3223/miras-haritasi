@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.691138888,41.243472222"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Süleyman Paşa Camii, Safranbolu

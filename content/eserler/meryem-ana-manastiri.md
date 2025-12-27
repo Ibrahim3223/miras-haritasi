@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.50634766,40.2761879"
 draft: false
+
+weight: 100
 ---
 
 ## Meryem Ana Manastırı: Şebinkarahisar'ın Tarihi ve Kültürel Mirası

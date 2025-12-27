@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.570473,37.823445"
 draft: false
+
+weight: 10
 ---
 
 ### Tuvana Krallığı: Bor'daki Antik Miras

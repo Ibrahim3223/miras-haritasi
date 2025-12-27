@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.3528137,37.8357468"
 draft: false
+
+weight: 100
 ---
 
 ## Toygar Tümülüsü, Nazilli

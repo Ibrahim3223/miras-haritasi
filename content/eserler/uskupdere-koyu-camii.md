@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3639374,41.6874771"
 draft: false
+
+weight: 100
 ---
 
 ### Üsküpdere Köyü Camii

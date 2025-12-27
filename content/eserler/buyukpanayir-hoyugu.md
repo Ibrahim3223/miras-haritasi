@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9853001,37.6511993"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükpanayır Höyüğü: Aydın'ın Gizli Cenneti

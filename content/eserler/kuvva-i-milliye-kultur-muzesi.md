@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.9810925,39.5038795"
 draft: false
+
+weight: 100
 ---
 
 ## Kuvva-i Milliye Kültür Müzesi

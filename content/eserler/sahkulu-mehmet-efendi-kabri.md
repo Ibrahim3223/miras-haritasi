@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9743423,41.0273857"
 draft: false
+
+weight: 100
 ---
 
 ## Şahkulu Mehmet Efendi Kabri

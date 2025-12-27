@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.977618,41.008108"
 draft: false
+
+weight: 100
 ---
 
 ## Halide Edip Büstü

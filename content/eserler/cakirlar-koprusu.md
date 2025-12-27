@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.862436293,39.943004963"
 draft: false
+
+weight: 100
 ---
 
 ## Çakırlar Köprüsü

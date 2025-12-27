@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.100399,40.9034538"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh İdris Camii

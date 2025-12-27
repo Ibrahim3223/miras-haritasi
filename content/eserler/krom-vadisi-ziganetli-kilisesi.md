@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.505194,40.534666"
 draft: false
+
+weight: 100
 ---
 
 # Krom Vadisi Ziganetli Kilisesi

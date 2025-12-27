@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.070623172,40.174403644"
 draft: false
+
+weight: 10
 ---
 
 ## Vefikiye Camii

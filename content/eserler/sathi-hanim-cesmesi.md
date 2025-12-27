@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.182175,39.12065556"
 draft: false
+
+weight: 10
 ---
 
 ## Sathı Hanım Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.9011612,36.9196777"
 draft: false
+
+weight: 100
 ---
 
 **Güzeyloğlu Camii: Tarsus'un Gizli Çeşmesi**

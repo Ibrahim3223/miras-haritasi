@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9364339,41.0444043"
 draft: false
+
+weight: 100
 ---
 
 ## Şah Sultan Türbesi Çeşmeleri

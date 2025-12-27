@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.1365,38.418833333"
 draft: false
+
+weight: 10
 ---
 
 ## Portekiz Sinagogu

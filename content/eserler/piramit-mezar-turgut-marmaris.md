@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.1264,36.7403984"
 draft: false
+
+weight: 100
 ---
 
 ## Piramit Mezar-Turgut: Marmaris'in Gizli Cenneti

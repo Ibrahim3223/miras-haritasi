@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.5037231,39.2405281"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Kutsi Tecer Kültür Evi

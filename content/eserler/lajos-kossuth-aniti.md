@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.973772,39.4164734"
 draft: false
+
+weight: 100
 ---
 
 ## Lajos Kossuth Anıtı

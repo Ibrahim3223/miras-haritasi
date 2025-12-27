@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.27145,41.947448"
 draft: false
+
+weight: 100
 ---
 
 ## Colussa: Antik bir Kentin Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0702934,40.1837997"
 draft: false
+
+weight: 100
 ---
 
 ## Kayıhan Çeşmesi

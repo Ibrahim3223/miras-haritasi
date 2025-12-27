@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.96752,41.007656"
 draft: false
+
+weight: 100
 ---
 
 ### Divanı Ali Camii

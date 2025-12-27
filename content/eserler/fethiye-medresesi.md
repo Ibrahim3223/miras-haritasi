@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.945942645,41.029206848"
 draft: false
+
+weight: 100
 ---
 
 ### Fethiye Medresesi: Tarihi ve Kültürel Miras

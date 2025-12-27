@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8601151,39.9424324"
 draft: false
+
+weight: 100
 ---
 
 ### Tabakhane Camisi Çeşmesi

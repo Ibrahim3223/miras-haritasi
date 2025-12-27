@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9314518,37.0993805"
 draft: false
+
+weight: 100
 ---
 
 ## Belentepe Antik Yerleşimi

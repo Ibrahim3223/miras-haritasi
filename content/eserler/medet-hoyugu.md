@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.02296,37.50631"
 draft: false
+
+weight: 100
 ---
 
 ### Medet Höyüğü: Tavas'taki Bir Arkeolojik Sit

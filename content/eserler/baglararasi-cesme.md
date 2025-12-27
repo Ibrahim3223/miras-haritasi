@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.304983,38.319517"
 draft: false
+
+weight: 100
 ---
 
 ## Bağlararası Arkeolojik Sit

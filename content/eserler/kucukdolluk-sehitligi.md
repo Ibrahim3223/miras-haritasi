@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6677799,41.7553787"
 draft: false
+
+weight: 100
 ---
 
 ### Küçükdöllük Şehitliği

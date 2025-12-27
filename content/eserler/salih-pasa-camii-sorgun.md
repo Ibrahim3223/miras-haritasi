@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.1827965,39.8107224"
 draft: false
+
+weight: 100
 ---
 
 **Salih Paşa Camii: Sorgun'un Tarihî Mirası**

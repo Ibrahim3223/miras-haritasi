@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.753077,36.812812"
 draft: false
+
+weight: 100
 ---
 
 ## Aulae: Akdeniz'in Gizemi

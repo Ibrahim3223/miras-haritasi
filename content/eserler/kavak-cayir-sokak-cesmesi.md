@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.071578,41.181622"
 draft: false
+
+weight: 10
 ---
 
 ## Kavak Çayır Sokak Çeşmesi

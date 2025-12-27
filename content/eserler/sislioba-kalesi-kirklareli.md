@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.9159298,41.9618721"
 draft: false
+
+weight: 100
 ---
 
 ## Sislioba Kalesi: Kırklareli'nin Gizli Mirası

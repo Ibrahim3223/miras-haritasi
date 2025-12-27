@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.820691237,40.958025806"
 draft: false
+
+weight: 10
 ---
 
 **Yeşilköy Bezmi Alem Camii**

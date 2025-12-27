@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2911816,40.229187"
 draft: false
+
+weight: 100
 ---
 
 ## Kanlı Sırt Anıtı

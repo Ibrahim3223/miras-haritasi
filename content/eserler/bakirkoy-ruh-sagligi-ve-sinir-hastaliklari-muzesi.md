@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.864973,40.993657"
 draft: false
+
+weight: 100
 ---
 
 ### Bakırköy Ruh Sağlığı ve Sinir Hastalıkları Müzesi

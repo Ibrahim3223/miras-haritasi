@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0630836,40.1783943"
 draft: false
+
+weight: 10
 ---
 
 ### Başçı İbrahim Camii: Bursa'nın Tarihi Bir Çeşidi

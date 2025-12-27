@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.9314041,41.0224838"
 draft: false
+
+weight: 1
 ---
 
 ## Tiyatro Binası, Topkapı

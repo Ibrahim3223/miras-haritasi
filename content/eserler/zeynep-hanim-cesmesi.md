@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.223397,40.917015"
 draft: false
+
+weight: 10
 ---
 
 ## Zeynep Hanım Çeşmesi

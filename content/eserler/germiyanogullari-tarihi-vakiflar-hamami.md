@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0848065,37.7831617"
 draft: false
+
+weight: 100
 ---
 
 ## Germiyanoğulları Tarihi Vakıflar Hamamı

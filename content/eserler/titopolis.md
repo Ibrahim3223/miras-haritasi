@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.81089,36.09401"
 draft: false
+
+weight: 100
 ---
 
 ## Titopolis: Anamur'un Gizli Kahramanı

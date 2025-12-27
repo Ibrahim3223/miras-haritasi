@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.27901333,39.90276833"
 draft: false
+
+weight: 10
 ---
 
 ## Rabia Hatun Türbesi: Tarihî Bir Miras

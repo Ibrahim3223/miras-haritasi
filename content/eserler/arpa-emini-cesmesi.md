@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.932545124,41.020658752"
 draft: false
+
+weight: 10
 ---
 
 ## Arpa Emini Çeşmesi: Fatih'teki Bir Örnek Çeşme

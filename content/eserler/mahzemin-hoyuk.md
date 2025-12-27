@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.320571345,38.858685763"
 draft: false
+
+weight: 100
 ---
 
 **Mahzemin Höyük: Kayseri'nin Gizemli Mirası**

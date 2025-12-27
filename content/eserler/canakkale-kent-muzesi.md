@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.400813,40.148547"
 draft: false
+
+weight: 10
 ---
 
 ## Çanakkale Kent Müzesi

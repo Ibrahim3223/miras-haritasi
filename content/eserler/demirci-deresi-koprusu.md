@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.357992628,39.564695112"
 draft: false
+
+weight: 100
 ---
 
 ## Demirci Deresi Köprüsü: Ayvacık'ta Bir Köprü Tarihçesi

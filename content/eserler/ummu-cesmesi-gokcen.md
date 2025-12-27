@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8724003,38.1100998"
 draft: false
+
+weight: 100
 ---
 
 ### Ümmü Çeşmesi, Gökçen: Tarihî Bir Mirasın Anlamı

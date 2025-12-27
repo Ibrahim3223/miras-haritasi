@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.692586,41.350523"
 draft: false
+
+weight: 100
 ---
 
 ## Göveren Türbesi: Safranbolu'nun Birincil Anıtı

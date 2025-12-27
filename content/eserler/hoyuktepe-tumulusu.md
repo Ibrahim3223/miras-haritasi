@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3339424,41.3813019"
 draft: false
+
+weight: 100
 ---
 
 ## Höyüktepe Tümülüsü: Lüleburgaz'ın Gizli Kahramanı

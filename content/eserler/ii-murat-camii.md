@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2718906,37.7486877"
 draft: false
+
+weight: 100
 ---
 
 ## II. Murat Camii Tanıtımı

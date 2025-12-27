@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.95527778,41.01166667"
 draft: false
+
+weight: 10
 ---
 
 ## Kemalpaşa Camii

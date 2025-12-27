@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Fındıklı Sarayı

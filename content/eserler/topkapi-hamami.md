@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5483017,41.6778297"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Hamamı

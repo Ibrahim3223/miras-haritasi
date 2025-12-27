@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0203367,41.0274381"
 draft: false
+
+weight: 10
 ---
 
 ## Müderris Abdülbaki Efendi Camii: Üsküdar'ın Tarihi Bir Zengini

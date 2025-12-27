@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.3711319,37.2203522"
 draft: false
+
+weight: 100
 ---
 
 ## Andon’un Hamamı: Menteşe'nin Tarihi ve Kültürel Mirası

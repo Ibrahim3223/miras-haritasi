@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.2864275,39.6976455"
 draft: false
+
+weight: 100
 ---
 
 ## Sibora Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.489804,38.71748"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Surp Krikor Lusavoriç Ermeni Kilisesi

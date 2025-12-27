@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.5912776,39.6259597"
 draft: false
+
+weight: 100
 ---
 
 ### Çayırlı Höyük

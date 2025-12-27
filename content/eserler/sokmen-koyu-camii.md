@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.630987,40.056464"
 draft: false
+
+weight: 100
 ---
 
 ## Sökmen Köyü Camii

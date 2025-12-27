@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.0807095,40.7266541"
 draft: false
+
+weight: 100
 ---
 
 ## Enez Hamamı: Edirne'de Bir Örenlik

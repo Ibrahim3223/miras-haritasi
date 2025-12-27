@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.5584984,38.687355"
 draft: false
+
+weight: 100
 ---
 
 ### Ali Saip Paşa Cami

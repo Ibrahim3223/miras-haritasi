@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4954987,37.8852196"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Halili Türbesi: Selçuklu'nun Kültürel Mirası

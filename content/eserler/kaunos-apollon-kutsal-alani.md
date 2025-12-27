@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.619915,36.8257446"
 draft: false
+
+weight: 100
 ---
 
 ## Kaunos Apollon Kutsal Alanı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0539284,38.5817719"
 draft: false
+
+weight: 100
 ---
 
 # Bin Tepeler Tümülüsü 70

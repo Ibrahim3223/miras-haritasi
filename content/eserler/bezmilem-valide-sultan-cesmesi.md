@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.009595,41.045062"
 draft: false
+
+weight: 10
 ---
 
 ## Bezmiâlem Valide Sultan Çeşmesi

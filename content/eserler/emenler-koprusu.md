@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.9288006,38.293499"
 draft: false
+
+weight: 100
 ---
 
 ## Emenler Köprüsü: Ödemiş'in Tarihi Bir Çaprazı

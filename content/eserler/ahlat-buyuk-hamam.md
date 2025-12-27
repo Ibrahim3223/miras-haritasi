@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "42.499054,38.7537575"
 draft: false
+
+weight: 100
 ---
 
 **Ahlat Büyük Hamam**

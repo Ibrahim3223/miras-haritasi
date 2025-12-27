@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.6591377,40.6895638"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Varvara Kilisesi: Trabzon'un Gizli Cenneti

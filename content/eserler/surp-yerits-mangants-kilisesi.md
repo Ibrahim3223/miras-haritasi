@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0512,41.1023"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Yerits Mangants Kilisesi

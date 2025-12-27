@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.969777777,38.227083333"
 draft: false
+
+weight: 10
 ---
 
 # Ödemiş Yıldız Kent Arşivi ve Müzesi

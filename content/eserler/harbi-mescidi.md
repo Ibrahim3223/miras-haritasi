@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.926941854,41.020544361"
 draft: false
+
+weight: 10
 ---
 
 ### Harbi Mescidi: Fatih'teki Bir Tarihi Çağı Yaşatan Cami

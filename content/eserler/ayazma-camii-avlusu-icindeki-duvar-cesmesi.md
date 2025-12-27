@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.008746,41.022872"
 draft: false
+
+weight: 10
 ---
 
 ### Ayazma Camii Avlusu İçindeki Duvar Çeşmesi

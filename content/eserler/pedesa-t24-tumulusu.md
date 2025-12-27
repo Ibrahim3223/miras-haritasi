@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.428119271,37.060476774"
 draft: false
+
+weight: 100
 ---
 
 ### Pedesa T24 Tümülüsü: Bodrum'un Gizli Hazineleri

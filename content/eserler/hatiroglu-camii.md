@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4858856,38.7172623"
 draft: false
+
+weight: 10
 ---
 
 # Hatıroğlu Camii: Kayseri'nin Bir Değerli Mirası

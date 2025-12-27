@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.946779,36.756324"
 draft: false
+
+weight: 100
 ---
 
 ## Callimache: Geçmişin Gizemi

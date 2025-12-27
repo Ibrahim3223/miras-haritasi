@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.1876,40.89"
 draft: false
+
+weight: 10
 ---
 
 ### Surp Nışan Ermeni Kilisesi

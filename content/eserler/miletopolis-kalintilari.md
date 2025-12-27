@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.3642426,40.0582504"
 draft: false
+
+weight: 100
 ---
 
 ## Miletopolis Kalıntıları: Tarihçesi ve Mimari Özellikleri

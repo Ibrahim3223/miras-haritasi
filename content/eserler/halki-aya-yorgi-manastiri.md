@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.098556004,40.871688121"
 draft: false
+
+weight: 100
 ---
 
 ## Halkı Aya Yorgi Manastırı

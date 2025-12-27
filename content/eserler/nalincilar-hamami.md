@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0667763,40.1845055"
 draft: false
+
+weight: 100
 ---
 
 ### Nalıncılar Hamamı

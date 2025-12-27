@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.5252991,40.3523445"
 draft: false
+
+weight: 100
 ---
 
 ## Hisarkale, Müşküle: İznik'in Gizli Harbi

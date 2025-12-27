@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3865166,37.0611839"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Nasır Camii: Gaziantep'in Kültürel Mirası

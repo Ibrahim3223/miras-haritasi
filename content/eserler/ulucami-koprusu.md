@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1791,39.1246986"
 draft: false
+
+weight: 10
 ---
 
 ## Ulucami Köprüsü: Bergama'nın Tarihi ve Kültürel Mirası

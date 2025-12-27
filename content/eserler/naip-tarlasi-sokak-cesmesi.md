@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6940575,41.2447815"
 draft: false
+
+weight: 10
 ---
 
 ## Naip Tarlası Sokak Çeşmesi

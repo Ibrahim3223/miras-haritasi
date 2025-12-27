@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0335814,40.9922063"
 draft: false
+
+weight: 10
 ---
 
 ### Söğütlüçeşme Camii: Kadıköy'deki Büyüleyici Bir Cami

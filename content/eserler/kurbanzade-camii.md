@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.362333333,37.216305555"
 draft: false
+
+weight: 100
 ---
 
 ## Kurbanzade Camii Tanıtımı

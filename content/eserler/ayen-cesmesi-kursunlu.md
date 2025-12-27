@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.262024643,40.840643251"
 draft: false
+
+weight: 100
 ---
 
 ## Ayen Çeşmesi, Kurşunlu: Tarihî Bir Çeşmenin Eksik Bilinen Öyküsü

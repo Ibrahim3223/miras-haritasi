@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4803467,38.7067451"
 draft: false
+
+weight: 100
 ---
 
 ## Battal Gazi Camii ve Türbesi

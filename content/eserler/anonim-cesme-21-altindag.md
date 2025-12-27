@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.866565087,39.932750341"
 draft: false
+
+weight: 100
 ---
 
 ## Anonim Çeşme-21, Altındağ

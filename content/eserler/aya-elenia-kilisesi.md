@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.413859483,37.925437838"
 draft: false
+
+weight: 10
 ---
 
 ### Aya Elenia Kilisesi

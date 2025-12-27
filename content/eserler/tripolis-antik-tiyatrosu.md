@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.949337,38.039873"
 draft: false
+
+weight: 100
 ---
 
 ## Tripolis Antik Tiyatrosu

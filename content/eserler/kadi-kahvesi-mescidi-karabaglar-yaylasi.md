@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3881092,37.1775322"
 draft: false
+
+weight: 100
 ---
 
 ## Kadı Kahvesi Mescidi, Karabağlar Yaylası

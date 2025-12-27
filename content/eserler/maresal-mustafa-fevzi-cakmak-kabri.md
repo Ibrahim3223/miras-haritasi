@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9330959,41.0499268"
 draft: false
+
+weight: 10
 ---
 
 ## Mareşal Mustafa Fevzi Çakmak Kabri

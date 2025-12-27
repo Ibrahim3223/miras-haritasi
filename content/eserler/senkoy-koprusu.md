@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9680537,40.9413808"
 draft: false
+
+weight: 100
 ---
 
 ## Şenköy Köprüsü

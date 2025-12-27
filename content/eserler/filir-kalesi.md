@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.6499825,36.1325493"
 draft: false
+
+weight: 100
 ---
 
 ## Filir Kalesi: Anamur'un Gizli Kalesi

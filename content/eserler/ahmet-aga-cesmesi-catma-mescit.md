@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971731,41.031818"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Ağa Çeşmesi: Beyoğlu'ndaki Tarihi Bir Çeşme

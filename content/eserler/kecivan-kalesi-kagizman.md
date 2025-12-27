@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.8642921,40.2758942"
 draft: false
+
+weight: 100
 ---
 
 ## Keçivan Kalesi: Kağızman'daki Tarihi Bir Miras

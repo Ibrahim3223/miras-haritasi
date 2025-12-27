@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8051872,39.9138985"
 draft: false
+
+weight: 100
 ---
 
 ## Künk Dağı Yerleşimi: Çanakkale'nin Gizli Mirası

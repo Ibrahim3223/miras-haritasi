@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6993408,41.2473907"
 draft: false
+
+weight: 10
 ---
 
 ## Kaymakam Suyu Çeşmesi

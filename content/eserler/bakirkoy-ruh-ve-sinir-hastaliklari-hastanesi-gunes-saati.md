@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.8635311,40.9873924"
 draft: false
+
+weight: 100
 ---
 
 ### Bakırköy Ruh ve Sinir Hastalıkları Hastanesi Güneş Saati

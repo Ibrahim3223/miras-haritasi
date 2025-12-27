@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.611561,40.739479"
 draft: false
+
+weight: 100
 ---
 
 ## Bithynium: Bithynia'da Antik Bir Yerleşme

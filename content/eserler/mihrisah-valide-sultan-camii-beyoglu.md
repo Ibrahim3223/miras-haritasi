@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.943,41.046111111"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Valide Sultan Camii: İstanbul'un Gizli Çehresine Giriş

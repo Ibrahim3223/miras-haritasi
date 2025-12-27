@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97415319,41.025632324"
 draft: false
+
+weight: 1
 ---
 
 # Galata Kulesi: İstanbul'un Sembolü

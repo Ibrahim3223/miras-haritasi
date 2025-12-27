@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.784,37.1454"
 draft: false
+
+weight: 10
 ---
 
 ## Şanlıurfa Kalesi

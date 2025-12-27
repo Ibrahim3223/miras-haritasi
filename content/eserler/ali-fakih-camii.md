@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.92665,41.001564"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Fakih Camii

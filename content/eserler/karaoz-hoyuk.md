@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.9315831,39.1933783"
 draft: false
+
+weight: 100
 ---
 
 ### Karaöz Höyük: Kayseri'nin Gizli Arkeolojik Mirası

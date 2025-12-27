@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4998999,40.9567"
 draft: false
+
+weight: 100
 ---
 
 ### Taşkıran Camii

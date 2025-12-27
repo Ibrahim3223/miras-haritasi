@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.486221653,37.870251415"
 draft: false
+
+weight: 10
 ---
 
 ## Hoca Hasan Mescidi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.634407,37.623843"
 draft: false
+
+weight: 100
 ---
 
 ## Plarasa

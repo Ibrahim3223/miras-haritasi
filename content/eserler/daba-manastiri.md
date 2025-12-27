@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.983388888,41.1975"
 draft: false
+
+weight: 100
 ---
 
 ## Daba Manastırı

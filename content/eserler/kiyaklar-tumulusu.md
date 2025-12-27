@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0687294,40.0889397"
 draft: false
+
+weight: 100
 ---
 
 # Kıyaklar Tümülüsü: Yenipazar'ın Gizli Mirası

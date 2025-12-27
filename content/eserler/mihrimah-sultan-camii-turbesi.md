@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.016106925,41.027075299"
 draft: false
+
+weight: 10
 ---
 
 ### Mihrimah Sultan Camii Türbesi

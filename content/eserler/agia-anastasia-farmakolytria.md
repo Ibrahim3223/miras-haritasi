@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Agia Anastasia Farmakolytria: İstanbullu Mütevazı Bir Kilise

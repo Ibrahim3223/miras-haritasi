@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0956478,41.1156349"
 draft: false
+
+weight: 10
 ---
 
 **Ayazma: Beykoz'un Gizli Çeşmesi**

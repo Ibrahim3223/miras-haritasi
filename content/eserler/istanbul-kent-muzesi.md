@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9187145,41.0182266"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Kent Müzesi

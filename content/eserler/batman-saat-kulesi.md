@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "41.125805555,37.887805555"
 draft: false
+
+weight: 10
 ---
 
 ## Batman Saat Kulesi

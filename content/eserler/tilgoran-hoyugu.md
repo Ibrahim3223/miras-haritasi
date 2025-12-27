@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.656966,37.3107547"
 draft: false
+
+weight: 100
 ---
 
 # Tılgoran Höyüğü: Şanlıurfa'nın Gizli Tarihi

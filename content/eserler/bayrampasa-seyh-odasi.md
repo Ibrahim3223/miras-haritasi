@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.942368,41.00832"
 draft: false
+
+weight: 100
 ---
 
 **Bayrampaşa Şeyh Odası: İstanbul'un Gizli Medresesi**

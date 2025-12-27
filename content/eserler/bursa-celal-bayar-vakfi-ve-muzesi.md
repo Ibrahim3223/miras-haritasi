@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.181667,40.41472"
 draft: false
+
+weight: 100
 ---
 
 ## Bursa-Celal Bayar Vakfı ve Müzesi

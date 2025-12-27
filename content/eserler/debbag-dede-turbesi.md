@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.7862,40.3979"
 draft: false
+
+weight: 100
 ---
 
 ## Debbağ Dede Türbesi: Göynük'te Kutsal Yer

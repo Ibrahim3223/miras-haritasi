@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3857117,36.689518"
 draft: false
+
+weight: 100
 ---
 
 ## Kumyer Kalesi: Tarihçenin Gizemi

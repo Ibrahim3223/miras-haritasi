@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.926861111,41.021777777"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Nigoğayos Ermeni Kilisesi

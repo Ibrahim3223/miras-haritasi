@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.026138888,40.994222222"
 draft: false
+
+weight: 10
 ---
 
 ### Aziziye Hamamı

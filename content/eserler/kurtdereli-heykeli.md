@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8830795,39.6448097"
 draft: false
+
+weight: 100
 ---
 
 ### Kurtdereli Heykeli: Balıkesir'in Gizli Kahramanı

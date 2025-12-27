@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.694639,37.425891"
 draft: false
+
+weight: 100
 ---
 
 ## Araban Kalesi: Gaziantep'in Gizli Şehri

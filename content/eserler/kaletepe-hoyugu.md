@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.2176819,38.2837715"
 draft: false
+
+weight: 100
 ---
 
 ## Kaletepe Höyüğü: Malatya'nın Gizli Kahramanları

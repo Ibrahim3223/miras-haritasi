@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0952625,40.8784714"
 draft: false
+
+weight: 100
 ---
 
 ## Heybeliada Camii: Adalar'ın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.600692,39.023626"
 draft: false
+
+weight: 100
 ---
 
 ## Mazgirt Kalesi: Tunceli'nin Eski Bir Zirvesi

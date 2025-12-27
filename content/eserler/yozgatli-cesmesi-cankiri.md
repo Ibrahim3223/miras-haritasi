@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.611636881,40.60518751"
 draft: false
+
+weight: 100
 ---
 
 ## Yozgatlı Çeşmesi: Çankırı'nın Tarihi ve Kültürel Mirası

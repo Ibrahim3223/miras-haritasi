@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9857,41.0447"
 draft: false
+
+weight: 10
 ---
 
 ## Saint Esprit Kilisesi: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.391189395,36.768358391"
 draft: false
+
+weight: 10
 ---
 
 ## Tyche Tapınağı: Side'deki Antik Bir Miras

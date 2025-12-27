@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.433794,38.611866"
 draft: false
+
+weight: 100
 ---
 
 ## Cumhuriyet Hamamı

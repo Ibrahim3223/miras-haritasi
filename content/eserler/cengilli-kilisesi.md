@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.913334,40.1234826"
 draft: false
+
+weight: 10
 ---
 
 ### Çengilli Kilisesi

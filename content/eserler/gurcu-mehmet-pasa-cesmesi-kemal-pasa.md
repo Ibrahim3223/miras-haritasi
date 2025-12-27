@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.954237,41.0143738"
 draft: false
+
+weight: 100
 ---
 
 ## Gürcü Mehmet Paşa Çeşmesi, Kemal Paşa

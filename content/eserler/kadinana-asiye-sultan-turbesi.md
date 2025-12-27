@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.540083,38.754942"
 draft: false
+
+weight: 100
 ---
 
 ## Kadınana Asiye Sultan Türbesi

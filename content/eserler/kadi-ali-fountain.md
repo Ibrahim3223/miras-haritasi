@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2256211,41.7363994"
 draft: false
+
+weight: 10
 ---
 
 ### Kadı Ali Fountain

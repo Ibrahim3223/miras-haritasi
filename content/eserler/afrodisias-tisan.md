@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.690555555,36.1575"
 draft: false
+
+weight: 100
 ---
 
 ## Afrodisias (Tisan): Mersin'in Gizli Cenneti

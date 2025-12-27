@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0667591,40.1851807"
 draft: false
+
+weight: 100
 ---
 
 ## Hayrettin Paşa Camii: Bursa'nın Yüzyılın En İyisi

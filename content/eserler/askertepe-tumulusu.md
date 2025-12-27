@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2000885,40.801712"
 draft: false
+
+weight: 100
 ---
 
 ## Askertepe Tümülüsü: Şarköy'ün Gizli Mirası

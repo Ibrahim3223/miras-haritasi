@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.0764999,41.1292"
 draft: false
+
+weight: 100
 ---
 
 ### Doğanay Köyü Merkez Camii: Rize'nin Tarihi ve Kültürel Mirası

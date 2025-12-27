@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9455967,41.0071907"
 draft: false
+
+weight: 10
 ---
 
 ### Kürkçübaşı Camii: Tarihi ve Miras Değerleri

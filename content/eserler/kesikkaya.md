@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ### Kesikkaya: Tarihi ve Kültürel Miras

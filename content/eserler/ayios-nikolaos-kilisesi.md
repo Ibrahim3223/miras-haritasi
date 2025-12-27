@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.956755,41.027431"
 draft: false
+
+weight: 10
 ---
 
 ## Ayios Nikolaos Kilisesi: İstanbul'un Gizli Çarşısı

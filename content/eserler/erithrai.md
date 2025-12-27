@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.480827,38.382709"
 draft: false
+
+weight: 10
 ---
 
 ### Erithrai: İzmir'in Gizli Cenneti

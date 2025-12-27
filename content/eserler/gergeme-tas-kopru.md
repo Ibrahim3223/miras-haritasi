@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.818523,38.849251"
 draft: false
+
+weight: 100
 ---
 
 # Gergeme Taş Köprü

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.817575,37.3267"
 draft: false
+
+weight: 100
 ---
 
 ## Akçatekir Kalesi: Pozantı'nın Gizli Kalesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.50833333,40.24166667"
 draft: false
+
+weight: 10
 ---
 
 ## HMS Arno (1915)

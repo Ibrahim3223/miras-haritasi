@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.344373715,37.936552958"
 draft: false
+
+weight: 10
 ---
 
 ## Devlet Agorası

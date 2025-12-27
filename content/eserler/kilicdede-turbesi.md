@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.3488045,41.2797318"
 draft: false
+
+weight: 100
 ---
 
 ### Giriş

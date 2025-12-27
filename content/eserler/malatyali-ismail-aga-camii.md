@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.016833333,41.018638888"
 draft: false
+
+weight: 10
 ---
 
 ## Malatyalı İsmail Ağa Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.98423556,41.029030565"
 draft: false
+
+weight: 100
 ---
 
 ## Sakabaşı Kabri: Beyoğlu'ndaki Antik Anıt

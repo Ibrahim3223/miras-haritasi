@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1446149,38.434051"
 draft: false
+
+weight: 10
 ---
 
 ## Alsancak Hocazade Camii: İzmir'in Tarihi ve Kültürel Mirası

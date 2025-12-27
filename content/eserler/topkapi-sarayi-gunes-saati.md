@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9845238,41.0133247"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Güneş Saati

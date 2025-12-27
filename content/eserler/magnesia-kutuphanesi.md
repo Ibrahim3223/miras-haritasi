@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.5260601,37.8535576"
 draft: false
+
+weight: 100
 ---
 
 ## Magnesia Kütüphanesi: Aydın'in Gizli Cenneti

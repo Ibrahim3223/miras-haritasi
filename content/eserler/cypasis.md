@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.841143,40.625134"
 draft: false
+
+weight: 100
 ---
 
 ## Cypasis: Gelibolu'nun Gizli Mirası

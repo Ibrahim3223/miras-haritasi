@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.181904,40.636065"
 draft: false
+
+weight: 100
 ---
 
 ## Neapolis (Trakya) Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.430852,41.031403"
 draft: false
+
+weight: 100
 ---
 
 ### Bıçakcılar Camii: Artvin'in Tarihî ve Kültürel Mirası

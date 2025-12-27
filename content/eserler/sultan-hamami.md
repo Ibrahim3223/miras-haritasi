@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.5461117,40.314964"
 draft: false
+
+weight: 100
 ---
 
 ### Sultan Hamamı

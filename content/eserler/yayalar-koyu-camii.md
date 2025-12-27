@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2683182,40.9034348"
 draft: false
+
+weight: 10
 ---
 
 ## Yayalar Köyü Camii: Pendik'in Tarihî Mirası

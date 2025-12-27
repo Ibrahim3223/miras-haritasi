@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.957182,41.018826"
 draft: false
+
+weight: 100
 ---
 
 **Zembilli Ali Efendi Türbesi**

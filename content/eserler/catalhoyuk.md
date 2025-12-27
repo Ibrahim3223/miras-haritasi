@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.828333333,37.6675"
 draft: false
+
+weight: 10
 ---
 
 **Çatalhöyük: Tarihî Bir Mirasın Öyküsü**

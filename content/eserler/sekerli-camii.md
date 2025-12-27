@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9308319,37.583374"
 draft: false
+
+weight: 100
 ---
 
 ## Şekerli Camii: Kahramanmaraş'ta Bir Tarihî Cennet

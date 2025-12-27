@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6781025,40.4097862"
 draft: false
+
+weight: 10
 ---
 
 ## Hallac-ı Mansur Türbesi

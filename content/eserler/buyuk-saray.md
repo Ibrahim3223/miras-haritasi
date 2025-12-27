@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.97777778,41.00638889"
 draft: false
+
+weight: 10
 ---
 
 # Büyük Saray: İstanbul'un Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.482391666,40.437755555"
 draft: false
+
+weight: 100
 ---
 
 ## Kishakapı Kilisesi

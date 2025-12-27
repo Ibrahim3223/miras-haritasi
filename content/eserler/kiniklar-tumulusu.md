@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1887321,40.9179192"
 draft: false
+
+weight: 100
 ---
 
 ## Kınıklar Tümülüsü: Tekirdağ'ın Gizemi

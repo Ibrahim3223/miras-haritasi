@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "30.196111111,40.848333333"
 draft: false
+
+weight: 10
 ---
 
 ## Çarxapan Surp Asdvadzadzin Manastırı

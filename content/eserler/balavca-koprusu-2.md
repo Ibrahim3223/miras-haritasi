@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7842731,37.3145676"
 draft: false
+
+weight: 100
 ---
 
 ### Balavca Köprüsü 2

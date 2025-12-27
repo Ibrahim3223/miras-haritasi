@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.7632961,36.1866951"
 draft: false
+
+weight: 100
 ---
 
 ### Apollonia Antik Tiyatrosu

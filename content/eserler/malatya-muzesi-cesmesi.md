@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.324689779,38.343118168"
 draft: false
+
+weight: 100
 ---
 
 ## Malatya Müzesi Çeşmesi: Tarihi ve Kültürel Miras Değerinde Bir Çeşme

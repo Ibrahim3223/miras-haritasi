@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9530067,41.0121994"
 draft: false
+
+weight: 100
 ---
 
 ## Abbas Ağa Sebili, İskenderpaşa

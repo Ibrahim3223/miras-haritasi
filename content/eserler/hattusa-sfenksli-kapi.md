@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6166763,40.0061798"
 draft: false
+
+weight: 10
 ---
 
 ## Hattuşa Sfenksli Kapı: Boğazkale'nin Gizemi

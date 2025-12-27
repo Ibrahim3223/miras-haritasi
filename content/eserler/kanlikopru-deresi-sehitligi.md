@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3026123,40.3022652"
 draft: false
+
+weight: 100
 ---
 
 ## Kanlıköprü Deresi Şehitliği: Eceabat'ın Anıtlı Yüzü

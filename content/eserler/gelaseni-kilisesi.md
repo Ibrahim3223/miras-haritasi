@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.20325,41.040027777"
 draft: false
+
+weight: 100
 ---
 
 ### Gelaşeni Kilisesi

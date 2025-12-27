@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.973877,41.036129"
 draft: false
+
+weight: 100
 ---
 
 ## Aynalıçeşme Alman Protestan Kilisesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.127573,36.7716141"
 draft: false
+
+weight: 100
 ---
 
 ## Bizans Kilisesi: Marmaris'in Gizli Tarihi

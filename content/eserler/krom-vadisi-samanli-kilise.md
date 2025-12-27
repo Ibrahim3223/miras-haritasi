@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.595946,40.564132"
 draft: false
+
+weight: 100
 ---
 
 ## Krom Vadisi Şamanlı Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek

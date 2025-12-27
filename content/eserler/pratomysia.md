@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.343911,40.611226"
 draft: false
+
+weight: 100
 ---
 
 ## Pratomysia: Tarihi ve Kültürel Mirasın Gizemi

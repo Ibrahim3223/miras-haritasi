@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.018029682,41.026804381"
 draft: false
+
+weight: 10
 ---
 
 ## Arslan Ağa Çeşmesi: Üsküdar'da Bir İhtişam

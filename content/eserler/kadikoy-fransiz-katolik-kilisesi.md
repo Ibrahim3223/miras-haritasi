@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.02552778,40.98433333"
 draft: false
+
+weight: 10
 ---
 
 ### Kadıköy Fransız Katolik Kilisesi

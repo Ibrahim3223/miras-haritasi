@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8356724,41.34478"
 draft: false
+
+weight: 100
 ---
 
 # Uzunhacı Köyü Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Gizli Çekevi

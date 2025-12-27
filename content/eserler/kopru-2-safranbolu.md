@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.6886063,41.2490921"
 draft: false
+
+weight: 10
 ---
 
 ## Köprü 2: Safranbolu'nun Tarihi Bir Mirası

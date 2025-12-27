@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.770237,41.3786888"
 draft: false
+
+weight: 100
 ---
 
 ## Server Camii: Kastamonu'un Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.4693451,40.4895897"
 draft: false
+
+weight: 100
 ---
 
 ## Soba Müzesi: Çamlıdere'nin Tarihi Bir Mirası

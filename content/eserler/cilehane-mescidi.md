@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0689087,41.0154906"
 draft: false
+
+weight: 10
 ---
 
 ### Çilehane Mescidi

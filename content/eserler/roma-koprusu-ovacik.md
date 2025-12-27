@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.4861794,36.6005821"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Ovacık

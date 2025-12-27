@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.722789,40.926884"
 draft: false
+
+weight: 100
 ---
 
 ### Kaya Mezarı 1: Altınordu'nun Gizli Eseri

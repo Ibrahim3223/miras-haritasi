@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4316483,37.9435387"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Demetrius Kilisesi: Tarih ve Kültür Mirasının Gizemi

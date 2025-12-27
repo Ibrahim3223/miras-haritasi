@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.9818962,37.0699636"
 draft: false
+
+weight: 100
 ---
 
 ## Töngüşlü Camii

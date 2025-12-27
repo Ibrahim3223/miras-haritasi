@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.2747288,40.8597374"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Kemikli Türbesi

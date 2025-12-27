@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0699501,38.2574348"
 draft: false
+
+weight: 100
 ---
 
 ## Sasalı Mescidi, Birgi: Tarihî ve Kültürel Miras

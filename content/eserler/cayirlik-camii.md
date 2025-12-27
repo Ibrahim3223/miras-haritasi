@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0123711,37.6111755"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırlık Camii: Denizli'de Bir Örnek Osmanlı Mimarisinden

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.4397545,40.797142"
 draft: false
+
+weight: 100
 ---
 
 ## Kadı Fazlullah Efendi Türbesi: Kocaeli'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3243999,37.9035988"
 draft: false
+
+weight: 100
 ---
 
 ### Ağa Camii, Nazilli

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "37.999440535,36.836417477"
 draft: false
+
+weight: 100
 ---
 
 ## Gaziantep Karkamış İlçe Halk Kütüphanesi

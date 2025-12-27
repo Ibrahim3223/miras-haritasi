@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5526676,41.6780586"
 draft: false
+
+weight: 10
 ---
 
 ### Sokullu Mehmet Paşa Hamamı, Edirne

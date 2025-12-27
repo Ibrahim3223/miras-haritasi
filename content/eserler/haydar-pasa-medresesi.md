@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.956092,41.022227"
 draft: false
+
+weight: 100
 ---
 
 ### Haydar Paşa Medresesi: İstanbul'un Gizli Çeşmesi

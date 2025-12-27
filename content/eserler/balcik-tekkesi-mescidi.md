@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9368956,41.0431372"
 draft: false
+
+weight: 100
 ---
 
 ## Balçık Tekkesi Mescidi

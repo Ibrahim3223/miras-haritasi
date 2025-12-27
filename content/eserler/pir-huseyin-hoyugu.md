@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.3875502,38.1113137"
 draft: false
+
+weight: 100
 ---
 
 # Pir Hüseyin Höyüğü: Diyarbakır'ın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.952833333,41.015927777"
 draft: false
+
+weight: 10
 ---
 
 **Tayyare Şehitleri Anıtı**

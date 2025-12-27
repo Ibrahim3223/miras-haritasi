@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.5563087,36.5364494"
 draft: false
+
+weight: 100
 ---
 
 ## Tuğrul Köyü Camii

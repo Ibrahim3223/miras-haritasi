@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.66222222,36.82583333"
 draft: false
+
+weight: 10
 ---
 
 ## Tırmıl: Akdeniz'in Gizli Kaleleri Arasındaki Ejderha

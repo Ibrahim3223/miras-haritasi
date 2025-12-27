@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.936686,41.02898"
 draft: false
+
+weight: 10
 ---
 
 ### Cağalizade İbrahim Bey Çeşmesi: İstanbul'un Gizli Çeşmesi

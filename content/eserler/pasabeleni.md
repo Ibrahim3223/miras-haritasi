@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.978168,36.099828"
 draft: false
+
+weight: 10
 ---
 
 **Paşabeleni: Bir Ören Yeri ve Tarih Öncesi Kaya Mezarı**

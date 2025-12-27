@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.115167,36.713517"
 draft: false
+
+weight: 100
 ---
 
 ## Kilis Ulu Camii: Tarihi ve Kültürel Mirasın İncelenmesi

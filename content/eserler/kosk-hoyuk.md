@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.612222,37.8475"
 draft: false
+
+weight: 10
 ---
 
 ## Köşk Höyük: Niğde'de Bir Arkeolojik Sit

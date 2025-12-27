@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946286,41.031833"
 draft: false
+
+weight: 10
 ---
 
 **Hızır Çavuş Camii: Fatih'in Gizli Çeşmelerinden Birini Saklayan Tarihi Bir Miras**

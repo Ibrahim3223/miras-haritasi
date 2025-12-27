@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.9833755,37.6266708"
 draft: false
+
+weight: 100
 ---
 
 ## Sofraz Anıt Mezarı

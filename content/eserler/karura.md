@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.822929,37.940338"
 draft: false
+
+weight: 100
 ---
 
 ## Karura Arkeolojik Sit

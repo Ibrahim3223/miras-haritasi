@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2793159,39.9051247"
 draft: false
+
+weight: 100
 ---
 
 ### Abdullah Paşa Çeşmesi

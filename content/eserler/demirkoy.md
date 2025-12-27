@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.021153,40.006839"
 draft: false
+
+weight: 100
 ---
 
 ## Demirköy Arkeolojik Sit

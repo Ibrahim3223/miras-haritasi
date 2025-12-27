@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1240158,41.1012192"
 draft: false
+
+weight: 100
 ---
 
 ## Delibedir Mahallesi Camii

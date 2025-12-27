@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0470276,40.1907845"
 draft: false
+
+weight: 10
 ---
 
 ### Hümâ Hatun Türbesi

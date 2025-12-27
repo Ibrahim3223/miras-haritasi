@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.4640923,41.3554306"
 draft: false
+
+weight: 100
 ---
 
 ## Pınarlı Köyü Camii: Artvin'in Tarihi Bir Mirası

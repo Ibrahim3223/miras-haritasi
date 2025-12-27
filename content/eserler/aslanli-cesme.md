@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.5623131,38.9424858"
 draft: false
+
+weight: 100
 ---
 
 ## Aslanlı Çeşme

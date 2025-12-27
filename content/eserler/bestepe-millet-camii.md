@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.802222222,39.9275"
 draft: false
+
+weight: 10
 ---
 
 ## Beştepe Millet Camii

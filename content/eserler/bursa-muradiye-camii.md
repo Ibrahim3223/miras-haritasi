@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.046555555,40.190972222"
 draft: false
+
+weight: 10
 ---
 
 ## Bursa Muradiye Camii: Bursa'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.485166666,38.722083333"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Kurşunlu Cami

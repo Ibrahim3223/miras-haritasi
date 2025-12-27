@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.6579819,37.9804764"
 draft: false
+
+weight: 100
 ---
 
 ## Hamamlı Köyü Kilisesi

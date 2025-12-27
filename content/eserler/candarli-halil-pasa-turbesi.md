@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7254601,40.4292068"
 draft: false
+
+weight: 100
 ---
 
 ## Çandarlı Halil Paşa Türbesi

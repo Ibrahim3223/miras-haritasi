@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.680069,39.7140732"
 draft: false
+
+weight: 100
 ---
 
 ## Alidemirci Camii: Balıkesir'in Tarihi bir Mirası

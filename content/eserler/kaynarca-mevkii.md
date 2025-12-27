@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.6152382,40.3797684"
 draft: false
+
+weight: 100
 ---
 
 ## Kaynarca Mevkii Arkeolojik Sit

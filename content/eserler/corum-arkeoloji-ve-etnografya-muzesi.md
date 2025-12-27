@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.951126,40.542519"
 draft: false
+
+weight: 100
 ---
 
 ### Çorum Arkeoloji ve Etnografya Müzesi: Türkiye'nin Kültürel Mirasının Başucu Alanlarından biri

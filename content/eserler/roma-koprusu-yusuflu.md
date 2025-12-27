@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6889897,38.224865"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Yusuflu

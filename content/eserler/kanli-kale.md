@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.8436089,37.8341026"
 draft: false
+
+weight: 100
 ---
 
 **Kanlı Kale: Tarihçesi ve Mirası**

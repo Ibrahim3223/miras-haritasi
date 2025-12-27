@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6890602,41.2448997"
 draft: false
+
+weight: 10
 ---
 
 ## Akseki Sokak Çeşmesi 2: Safranbolu'un Gizli Çeşmesi

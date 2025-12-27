@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0715256,41.034565"
 draft: false
+
+weight: 100
 ---
 
 ## İslam Medeniyetleri Müzesi

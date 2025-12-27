@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.975031,41.012238"
 draft: false
+
+weight: 100
 ---
 
 ## Şerife Zeliha Hanım Çeşmesi

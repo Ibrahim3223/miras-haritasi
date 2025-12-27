@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.681576,39.980303"
 draft: false
+
+weight: 100
 ---
 
 ## Çamur Köyü Türbe Kelkit: Tarihi Bir Miras

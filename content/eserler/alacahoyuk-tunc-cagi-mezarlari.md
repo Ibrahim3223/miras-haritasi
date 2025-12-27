@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.695694,40.2340355"
 draft: false
+
+weight: 100
 ---
 
 **Alacahöyük Tunç Çağı Mezarları**

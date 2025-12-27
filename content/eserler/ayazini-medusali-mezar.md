@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.571597107,39.012486875"
 draft: false
+
+weight: 10
 ---
 
 ## Ayazini Medusalı Mezar: Afyonkarahisar'ın Gizli Anıtı

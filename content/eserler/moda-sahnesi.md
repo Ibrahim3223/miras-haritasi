@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.028638888,40.987"
 draft: false
+
+weight: 10
 ---
 
 ## Moda Sahnesi: Antik Tiyatro'nun Gizemi

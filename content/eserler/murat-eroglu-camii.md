@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.883027777,38.377166666"
 draft: false
+
+weight: 100
 ---
 
 ## Murat Eroğlu Camii: Güzelbahçe'nin Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.9128,38.6321"
 draft: false
+
+weight: 100
 ---
 
 ## Ürgüp Müzesi

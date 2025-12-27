@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.2065086,39.803318"
 draft: false
+
+weight: 100
 ---
 
 ## Geyikli Hamamı: Ezine'nin Tarihi Bir Mirası

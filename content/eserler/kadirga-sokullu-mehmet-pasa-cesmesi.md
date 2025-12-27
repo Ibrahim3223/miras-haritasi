@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971612,41.004829"
 draft: false
+
+weight: 100
 ---
 
 ## Kadırga Sokullu Mehmet Paşa Çeşmesi

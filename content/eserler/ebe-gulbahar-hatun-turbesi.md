@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0454254,40.1905174"
 draft: false
+
+weight: 10
 ---
 
 ### Ebe Gülbahar Hatun Türbesi

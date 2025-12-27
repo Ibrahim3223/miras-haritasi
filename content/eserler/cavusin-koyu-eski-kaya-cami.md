@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.844527777,38.666944444"
 draft: false
+
+weight: 10
 ---
 
 ## Çavuşin Köyü Eski Kaya Cami

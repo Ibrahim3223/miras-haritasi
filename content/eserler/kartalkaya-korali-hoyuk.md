@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.25754351,37.471164213"
 draft: false
+
+weight: 100
 ---
 
 ### Kartalkaya-Körali Höyük: Kahramanmaraş'ın Gizli Anıtı

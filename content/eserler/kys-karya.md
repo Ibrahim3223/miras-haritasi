@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.423734,37.428882"
 draft: false
+
+weight: 100
 ---
 
 ## Kys (Karya): Antik Uygarlığın Kalıntıları

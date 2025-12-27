@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9552593,41.0140457"
 draft: false
+
+weight: 100
 ---
 
 ## Ebü'l-Fazl Medresesi

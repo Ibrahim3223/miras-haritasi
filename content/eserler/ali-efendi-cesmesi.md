@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961029,41.018746"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Efendi Çeşmesi

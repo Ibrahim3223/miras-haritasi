@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2363994,39.7240127"
 draft: false
+
+weight: 100
 ---
 
 ## Kabaklı Höyük 2: Osmanlı Dönemi'nden Kalma Gizemli Bir Kent

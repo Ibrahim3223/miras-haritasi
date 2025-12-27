@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.773312,41.379712"
 draft: false
+
+weight: 100
 ---
 
 ### Aşıklı Sultan Türbesi: Tarihi ve Kültürel Miras

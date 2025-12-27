@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4266567,41.9440498"
 draft: false
+
+weight: 100
 ---
 
 **Karadere Dokuztepeler Tümülüsü**

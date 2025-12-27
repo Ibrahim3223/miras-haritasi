@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.933512,41.028179"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Galip Paşa Çeşmesi

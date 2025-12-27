@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8437366,37.8468094"
 draft: false
+
+weight: 100
 ---
 
 ### Aydın Şehitler Anıtı

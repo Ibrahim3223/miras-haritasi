@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.735034,38.373403"
 draft: false
+
+weight: 10
 ---
 
 ## Derinkuyu Yeraltı Şehri: Tarihî Bir Mirasın Gizemi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.96797,41.025229"
 draft: false
+
+weight: 10
 ---
 
 ## Sokullu Mehmet Paşa Camii Çeşmesi

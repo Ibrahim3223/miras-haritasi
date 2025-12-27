@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.480205596,37.306359503"
 draft: false
+
+weight: 100
 ---
 
 ## Uğurlu Höyük: Gökçeada'nın Gizli Kahramanı

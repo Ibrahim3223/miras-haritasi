@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.37127,40.47223"
 draft: false
+
+weight: 100
 ---
 
 # Dibekli Köyü Kemer Köprü

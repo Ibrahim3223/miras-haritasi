@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.9678993,40.2154007"
 draft: false
+
+weight: 100
 ---
 
 **Aya Varvara Şapeli: Gökçeada'nın Gizli Çehresi**

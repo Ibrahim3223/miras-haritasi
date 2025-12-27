@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.058386019,41.168972076"
 draft: false
+
+weight: 10
 ---
 
 **Ahmet Kemali Efendi Çeşmesi**

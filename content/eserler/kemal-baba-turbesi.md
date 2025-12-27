@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.030863,38.372437"
 draft: false
+
+weight: 100
 ---
 
 ## Kemal Baba Türbesi

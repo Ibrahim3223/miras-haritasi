@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.7363,40.6938"
 draft: false
+
+weight: 10
 ---
 
 ## Yerazgavors Kutsal Kurtarıcı Manastırı

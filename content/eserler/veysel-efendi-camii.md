@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.230131,40.259037"
 draft: false
+
+weight: 10
 ---
 
 ## Veysel Efendi Camii

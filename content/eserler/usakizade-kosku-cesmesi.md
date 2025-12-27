@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.0985432,38.4029541"
 draft: false
+
+weight: 100
 ---
 
 ## Uşakizade Köşkü Çeşmesi

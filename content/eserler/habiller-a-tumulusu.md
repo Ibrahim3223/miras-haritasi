@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8022594,41.6532555"
 draft: false
+
+weight: 100
 ---
 
 ## Habiller A Tümülüsü

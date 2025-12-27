@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.024315,40.989913"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Takavor Kilisesi: Kadıköy'de Bir Aziz Kilisesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.0907516,40.6084633"
 draft: false
+
+weight: 100
 ---
 
 ## Yusuf Paşa Camii, Kars

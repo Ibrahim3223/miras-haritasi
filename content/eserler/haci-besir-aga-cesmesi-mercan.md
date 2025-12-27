@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968456,41.0117"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Beşir Ağa Çeşmesi, Mercan

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.069042,41.122364"
 draft: false
+
+weight: 100
 ---
 
 ## Kum Suyu Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.721908,40.715707"
 draft: false
+
+weight: 10
 ---
 
 ## Şirakavan Arkeolojik Sit

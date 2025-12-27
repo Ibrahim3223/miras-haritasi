@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.945748,41.034196"
 draft: false
+
+weight: 10
 ---
 
 **Balat Hamamı: Ayvansaray'daki Tarihsel Bir Miras**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "http://www.wikidata.org/.well-known/genid/f2e10aa4d10c21eb456e901fe659489c"
 draft: false
+
+weight: 100
 ---
 
 ## Melisse: Antik Çağın Gizemi

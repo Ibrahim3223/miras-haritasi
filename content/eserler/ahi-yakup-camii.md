@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8592911,39.9448204"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Yakup Camii

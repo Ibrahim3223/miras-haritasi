@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.767551234,41.573283037"
 draft: false
+
+weight: 10
 ---
 
 ### Yeni Camii: Vize'nin Değerli Tarihi Mirası

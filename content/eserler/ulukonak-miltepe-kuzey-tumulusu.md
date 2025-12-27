@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9979401,41.6333008"
 draft: false
+
+weight: 100
 ---
 
 ### Ulukonak Miltepe Kuzey Tümülüsü

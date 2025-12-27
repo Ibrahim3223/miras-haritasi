@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "42.7246857,39.0383606"
 draft: false
+
+weight: 100
 ---
 
 ## Özdemir Köyü Höyük ve Yerleşimi

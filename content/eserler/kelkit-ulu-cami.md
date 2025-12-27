@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.437733,40.128678"
 draft: false
+
+weight: 100
 ---
 
 ### Kelkit Ulu Cami

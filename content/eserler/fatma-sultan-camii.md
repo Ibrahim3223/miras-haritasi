@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9758933,41.0117118"
 draft: false
+
+weight: 100
 ---
 
 ## Fatma Sultan Camii: İstanbul'un Gizli Çeşmesi

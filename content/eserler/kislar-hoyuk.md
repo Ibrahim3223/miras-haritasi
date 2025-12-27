@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.101485327,39.08734052"
 draft: false
+
+weight: 100
 ---
 
 ## Kışlar Höyük: Boğazlıyan'ın Eski Mirası

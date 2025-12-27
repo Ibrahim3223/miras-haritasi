@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.029388888,38.376888888"
 draft: false
+
+weight: 10
 ---
 
 ## Eğri Minare: Aksaray'ın Tarihi Bir Öreni

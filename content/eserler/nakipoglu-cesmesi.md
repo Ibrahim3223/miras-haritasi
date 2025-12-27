@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.504818,37.8761444"
 draft: false
+
+weight: 100
 ---
 
 ### Nakipoğlu Çeşmesi

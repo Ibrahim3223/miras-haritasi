@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.639541625,40.233674005"
 draft: false
+
+weight: 100
 ---
 
 ## Taraççı Höyük: Balıkesir'in Gizli Anıtı

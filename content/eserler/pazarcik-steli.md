@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.2907753,37.4243698"
 draft: false
+
+weight: 10
 ---
 
 ### Pazarcık Steli

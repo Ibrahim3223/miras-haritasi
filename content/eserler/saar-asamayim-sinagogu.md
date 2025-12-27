@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.887277777,41.177027777"
 draft: false
+
+weight: 100
 ---
 
 **Şaar Aşamayim Sinagogu**

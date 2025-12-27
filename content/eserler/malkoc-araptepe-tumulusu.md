@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.744524,41.2713203"
 draft: false
+
+weight: 100
 ---
 
 ## Malkoç Araptepe Tümülüsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.605555555,37.518333333"
 draft: false
+
+weight: 10
 ---
 
 ### Nevali Çori: Şanlıurfa'daki Eski Çağlar Uygarlığı

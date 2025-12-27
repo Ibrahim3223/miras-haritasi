@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.2372589,40.2290306"
 draft: false
+
+weight: 100
 ---
 
 ## Biga Şehitliği: Bir Kahramanların Anıtı

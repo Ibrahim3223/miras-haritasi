@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.996122,41.041973"
 draft: false
+
+weight: 10
 ---
 
 # I. Mahmut Çeşmesi, Vişnezade

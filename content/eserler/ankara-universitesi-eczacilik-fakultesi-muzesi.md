@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.834463288,39.93594835"
 draft: false
+
+weight: 100
 ---
 
 ## Ankara Üniversitesi Eczacılık Fakültesi Müzesi

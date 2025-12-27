@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9543114,41.0125732"
 draft: false
+
+weight: 100
 ---
 
 ## Dibekli Çeşme: İstanbul'un Gizli Çeşmesi

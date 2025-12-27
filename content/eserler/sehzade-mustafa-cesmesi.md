@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.014374,41.023398"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Mustafa Çeşmesi

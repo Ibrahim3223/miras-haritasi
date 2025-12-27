@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7697582,38.0112228"
 draft: false
+
+weight: 100
 ---
 
 ## Kemer Köprü, Dündarlı: Antikçağın Gizli Harikası

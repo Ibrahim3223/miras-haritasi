@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.4436455,38.8506088"
 draft: false
+
+weight: 100
 ---
 
 ### Bozbulut Höyüğü: Muş'un Gizli Kahramanı

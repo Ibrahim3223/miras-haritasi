@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.7920227,39.949337"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Orman Çiftliği Köprüsü

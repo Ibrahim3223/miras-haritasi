@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.906,38.239"
 draft: false
+
+weight: 100
 ---
 
 ### Arabissus Arkeolojik Sitesi

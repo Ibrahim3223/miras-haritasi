@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.22999,37.9087"
 draft: false
+
+weight: 100
 ---
 
 ### Diyarbakır Meryem Ana Katedrali: Tarihi ve Kültürel Miras

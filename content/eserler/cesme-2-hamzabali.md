@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1331997,37.8060989"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 2, Hamzabali: Aydın'ın Yenipazar'ındaki Bir Önemli Çeşme

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5106544,37.870285"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Veyis Camii: Konya'nın Tarihî Bir Görseli

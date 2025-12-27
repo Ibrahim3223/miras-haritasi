@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9789696,38.8542023"
 draft: false
+
+weight: 100
 ---
 
 ## Dumlupınar İlk Hedef Anıtı

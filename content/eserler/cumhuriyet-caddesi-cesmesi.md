@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6945343,39.3226585"
 draft: false
+
+weight: 100
 ---
 
 ### Cumhuriyet Caddesi Çeşmesi

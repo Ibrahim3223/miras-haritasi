@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2076225,40.0021706"
 draft: false
+
+weight: 100
 ---
 
 **Taşköprü, Mustafakemalpaşa**

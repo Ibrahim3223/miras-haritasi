@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2581882,37.8591232"
 draft: false
+
+weight: 100
 ---
 
 ### Emine Kadın Çeşmesi

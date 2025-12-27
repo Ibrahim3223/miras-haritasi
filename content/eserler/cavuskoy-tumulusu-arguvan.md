@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.2388153,38.8221054"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuşköy Tümülüsü, Arguvan

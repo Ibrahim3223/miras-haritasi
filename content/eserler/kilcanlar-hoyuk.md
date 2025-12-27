@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.98145,38.676217"
 draft: false
+
+weight: 100
 ---
 
 ## Kılcanlar Höyük: Manisa'nın Gizli Kahramanı

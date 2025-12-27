@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.280833333,37.53"
 draft: false
+
+weight: 100
 ---
 
 ## Delfinion (Milet): Aydın'ın Tarihi ve Kültürel Mirasının Gizli Çırağı

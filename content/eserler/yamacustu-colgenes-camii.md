@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.3940709,40.60272"
 draft: false
+
+weight: 100
 ---
 
 ### Yamaçüstü Çölgenes Camii

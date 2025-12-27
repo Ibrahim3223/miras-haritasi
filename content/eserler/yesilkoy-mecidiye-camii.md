@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.83131,40.96055"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşilköy Mecidiye Camii: İstanbul'un Gizli Cenneti

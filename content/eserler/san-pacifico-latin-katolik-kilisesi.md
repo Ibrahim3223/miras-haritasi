@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.1277485,40.8721581"
 draft: false
+
+weight: 100
 ---
 
 ## San Pacifico Latin Katolik Kilisesi

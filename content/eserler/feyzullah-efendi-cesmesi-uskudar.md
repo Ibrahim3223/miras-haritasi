@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0633068,41.0763245"
 draft: false
+
+weight: 100
 ---
 
 ## Feyzullah Efendi Çeşmesi, Üsküdar

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.032579,41.021096"
 draft: false
+
+weight: 100
 ---
 
 ### Profil İlya Kilisesi

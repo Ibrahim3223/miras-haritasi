@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6286469,36.7938347"
 draft: false
+
+weight: 10
 ---
 
 ## Refah Şehitleri Anıtı

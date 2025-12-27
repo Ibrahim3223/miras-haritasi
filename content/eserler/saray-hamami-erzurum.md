@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.2797089,39.9044495"
 draft: false
+
+weight: 100
 ---
 
 # Saray Hamamı, Erzurum

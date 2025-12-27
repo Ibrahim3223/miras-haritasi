@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9851112,41.0126801"
 draft: false
+
+weight: 100
 ---
 
 ## Enderun Hamamı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.6271744,36.7981911"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Georgios Rum Ortodoks Kilisesi

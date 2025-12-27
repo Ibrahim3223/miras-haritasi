@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.278335,40.858064"
 draft: false
+
+weight: 100
 ---
 
 ## Doğa ve Bilim Müzesi: İstanbul'un Doğası ve Teknolojisi Üzerine Bilgi Paylaşıyor

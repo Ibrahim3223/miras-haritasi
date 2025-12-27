@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9291,41.014331"
 draft: false
+
+weight: 100
 ---
 
 ### Cafer Ağa Camii

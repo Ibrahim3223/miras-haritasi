@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.982044,41.00542"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyit Kethüda Mehmet Ağa Çeşmesi

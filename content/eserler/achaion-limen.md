@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.039491,38.858153"
 draft: false
+
+weight: 100
 ---
 
 ## Achaion Limeni: Aliağa'da Geç Antik Çağın Gizemi

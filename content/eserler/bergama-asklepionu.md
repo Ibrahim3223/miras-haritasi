@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.165475,39.118857"
 draft: false
+
+weight: 10
 ---
 
 ## Bergama Asklepionu: Türkiye'nin En Önemli Tıp Merkezi

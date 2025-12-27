@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.6165203,40.7747628"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Ğorğor Kilisesi: Trabzon'un Gizli Çehresini Keşfetmek

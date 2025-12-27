@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.4951515,39.2622299"
 draft: false
+
+weight: 10
 ---
 
 ### Dörtyol Ağzı Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5377884,38.756218"
 draft: false
+
+weight: 100
 ---
 
 ## Zülali Camii: Afyonkarahisar'ın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.964241,40.5910034"
 draft: false
+
+weight: 100
 ---
 
 ### Nureddin Alparslan Türbesi, Niksar

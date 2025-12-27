@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.975699087,41.024837"
 draft: false
+
+weight: 10
 ---
 
 ### Or Hodeş Sinagogu: İstanbul'un Eski Çağlardan Kalan Gizemi

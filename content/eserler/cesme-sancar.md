@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.7820969,40.2156944"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Sancar: Kahramankazan'ın Eski Köy Çeşmesi

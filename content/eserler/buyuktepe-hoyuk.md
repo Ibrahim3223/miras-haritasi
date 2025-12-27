@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.9148041,40.2061805"
 draft: false
+
+weight: 100
 ---
 
 ## Büyüktepe Höyük: Demirözü'de Gizli Bir Geçmişi

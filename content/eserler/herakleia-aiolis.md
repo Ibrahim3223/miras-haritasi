@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.689814,39.307546"
 draft: false
+
+weight: 100
 ---
 
 ### Herakleia (Aiolis): Ayvalık'taki Antik Bir Şehre Yolculuk

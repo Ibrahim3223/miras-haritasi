@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.522166666,39.765138888"
 draft: false
+
+weight: 10
 ---
 
 ### Yılmaz Büyükerşen Balmumu Heykeller Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9347916,41.0030899"
 draft: false
+
+weight: 100
 ---
 
 ## Sancaktar Hayrettin Çeşmesi

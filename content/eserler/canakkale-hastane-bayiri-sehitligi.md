@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.4181042,40.1608276"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakkale Hastane Bayırı Şehitliği: Tarihi ve Kültürel Miras

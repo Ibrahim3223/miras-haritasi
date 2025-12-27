@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9983425,41.0449409"
 draft: false
+
+weight: 10
 ---
 
 ## Amber Ağa Çeşmesi

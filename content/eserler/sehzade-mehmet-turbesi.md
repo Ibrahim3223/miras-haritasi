@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9576757,41.0133471"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Mehmet Türbesi

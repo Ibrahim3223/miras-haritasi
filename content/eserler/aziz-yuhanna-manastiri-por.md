@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.153808,38.435015"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Yuhanna Manastırı, Por

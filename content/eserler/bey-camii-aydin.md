@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8434219,37.84758"
 draft: false
+
+weight: 100
 ---
 
 ## Bey Camii, Aydın

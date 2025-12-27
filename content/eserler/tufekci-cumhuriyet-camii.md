@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.227788975,40.781234919"
 draft: false
+
+weight: 100
 ---
 
 ## Tüfekçi Cumhuriyet Camii: Trabzon'un Gizli Çehresini İyileştiren Bir Mimari Harikası

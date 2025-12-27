@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.121006,40.8125343"
 draft: false
+
+weight: 100
 ---
 
 ## Turabi Hazretleri Türbesi

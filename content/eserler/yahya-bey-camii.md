@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5634613,41.6762619"
 draft: false
+
+weight: 10
 ---
 
 ## Yahya Bey Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.217488,37.381718"
 draft: false
+
+weight: 100
 ---
 
 ### Astragon (Karya)

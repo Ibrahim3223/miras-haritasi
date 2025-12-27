@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.977953,41.002923"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hasan Efendi Çeşmesi (Fatih)

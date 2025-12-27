@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.945547,41.007336"
 draft: false
+
+weight: 10
 ---
 
 ## Cerrahpaşa Camii Sokak Çeşmesi

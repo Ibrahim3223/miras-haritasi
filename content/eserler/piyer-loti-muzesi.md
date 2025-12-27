@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.93416667,41.05444444"
 draft: false
+
+weight: 10
 ---
 
 ## Piyer Loti Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.011501977,40.996943245"
 draft: false
+
+weight: 10
 ---
 
 ## II. Abdülhamid Anıtı

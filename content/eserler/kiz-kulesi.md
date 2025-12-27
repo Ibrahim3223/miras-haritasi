@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.00416667,41.02111111"
 draft: false
+
+weight: 1
 ---
 
 ## Kız Kulesi: Üsküdar'ın Gizli Çiçeği

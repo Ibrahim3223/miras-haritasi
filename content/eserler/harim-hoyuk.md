@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4532645,39.0418112"
 draft: false
+
+weight: 100
 ---
 
 ## Harım Höyük: Mucur'un Tarihî Mirası

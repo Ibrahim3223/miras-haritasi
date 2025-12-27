@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.975534,41.01369"
 draft: false
+
+weight: 100
 ---
 
 ### Dördüncü Kadın Çeşmesi: Fatih'te Bir Azizlik Eseri

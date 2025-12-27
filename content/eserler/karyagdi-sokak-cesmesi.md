@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9333,41.053488"
 draft: false
+
+weight: 10
 ---
 
 ## Karyağdı Sokak Çeşmesi: Eyüpsultan'ın Tarihi bir Çeşmesi

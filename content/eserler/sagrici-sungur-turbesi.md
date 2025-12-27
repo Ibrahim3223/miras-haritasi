@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0604458,40.1852264"
 draft: false
+
+weight: 100
 ---
 
 ## Sağrıcı Sungur Türbesi

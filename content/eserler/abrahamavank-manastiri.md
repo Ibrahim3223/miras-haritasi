@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.488841666,38.34612"
 draft: false
+
+weight: 100
 ---
 
 ## Abrahamavank Manastırı: Van'ın Gizemli Manastırı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.8838997,37.5391006"
 draft: false
+
+weight: 100
 ---
 
 ### Ebeciler Höyük: Denizli'nin Tarihi Yıkıntısı

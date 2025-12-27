@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6728783,39.1026917"
 draft: false
+
+weight: 100
 ---
 
 # Çiftehanlar Camii: Manisa'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.6080551,40.7286224"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayan Köyü Çeşmesi

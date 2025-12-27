@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.082421,41.138794"
 draft: false
+
+weight: 100
 ---
 
 ## Moukaporis: Kıbrıs'ın Gizli Mirası

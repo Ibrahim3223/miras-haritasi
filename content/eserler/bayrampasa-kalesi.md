@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.8321495,40.1846466"
 draft: false
+
+weight: 100
 ---
 
 ### Bayrampaşa Kalesi

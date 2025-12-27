@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.561555184,41.671904998"
 draft: false
+
+weight: 100
 ---
 
 ## Turgut Bazergan Mescidi: Edirne'nin Tarihi ve Kültürel Mirası

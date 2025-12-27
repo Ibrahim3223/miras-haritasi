@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.871355,39.936043"
 draft: false
+
+weight: 10
 ---
 
 **Anne Müzesi**

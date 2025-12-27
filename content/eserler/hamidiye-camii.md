@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.106805555,38.407194444"
 draft: false
+
+weight: 10
 ---
 
 ### Hamidiye Camii: İzmir'in Görsel Bir Mirası

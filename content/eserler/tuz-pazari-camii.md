@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0655994,40.1849098"
 draft: false
+
+weight: 100
 ---
 
 ### Tuz Pazarı Camii: Bursa'nın Tarihî ve Kültürel Mirası

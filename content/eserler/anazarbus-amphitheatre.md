@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.895,37.244"
 draft: false
+
+weight: 100
 ---
 
 **Anazarbus Amphitheatersi: Tarihî Bir Mirasın Gizemi**

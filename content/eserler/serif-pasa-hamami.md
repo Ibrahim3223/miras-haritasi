@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.1747456,39.2367401"
 draft: false
+
+weight: 100
 ---
 
 **Şerif Paşa Hamamı**

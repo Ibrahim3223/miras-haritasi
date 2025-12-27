@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.5546398,40.1742897"
 draft: false
+
+weight: 100
 ---
 
 ## Damyeri Kale Yerleşimi: Çanakkale'nin Gizli Kahramanları

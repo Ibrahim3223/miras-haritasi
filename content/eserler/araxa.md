@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.36897222,36.74602778"
 draft: false
+
+weight: 10
 ---
 
 ## Araxa Arkeolojik Sitesi: Muğla'nın Gizli Cenneti

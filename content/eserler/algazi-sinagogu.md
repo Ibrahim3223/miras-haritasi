@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.135916666,38.420222222"
 draft: false
+
+weight: 10
 ---
 
 ## Algazi Sinagogu: İzmir'in Tarihî ve Kültürel Mirasının Gizli Çeşmesi

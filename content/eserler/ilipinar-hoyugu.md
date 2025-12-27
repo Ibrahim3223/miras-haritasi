@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.3086395,40.4682121"
 draft: false
+
+weight: 100
 ---
 
 ## Ilıpınar Höyükü: Bursa'nın Gizli Ören Yeri

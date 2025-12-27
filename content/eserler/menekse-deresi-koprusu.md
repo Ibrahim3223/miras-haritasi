@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.767851,41.035297"
 draft: false
+
+weight: 10
 ---
 
 ## Menekşe Deresi Köprüsü

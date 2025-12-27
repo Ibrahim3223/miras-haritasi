@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.7133293,38.6110878"
 draft: false
+
+weight: 100
 ---
 
 ## Kurtlu Çeşmesi

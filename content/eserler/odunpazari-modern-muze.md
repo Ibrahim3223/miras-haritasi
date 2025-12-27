@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.5225,39.764722222"
 draft: false
+
+weight: 10
 ---
 
 ## Odunpazarı Modern Müze: Eskişehir'in İncelenmiş Eseri

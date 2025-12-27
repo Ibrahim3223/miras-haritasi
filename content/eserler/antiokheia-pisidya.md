@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.189166666,38.306111111"
 draft: false
+
+weight: 10
 ---
 
 ## Antiokheia (Pisidya): Bir Arkeolojik Sitin Gizemi

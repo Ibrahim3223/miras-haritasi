@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0698395,40.1822472"
 draft: false
+
+weight: 10
 ---
 
 ### Selçuk Hatun Camii Çeşmesi: Bursa'nın Gizli Çeşmesi

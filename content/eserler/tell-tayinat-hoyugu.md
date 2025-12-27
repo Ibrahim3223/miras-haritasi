@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.376388888,36.2475"
 draft: false
+
+weight: 10
 ---
 
 ### Tell Tayinat Höyüğü

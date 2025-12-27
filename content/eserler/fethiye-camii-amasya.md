@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.8345337,40.6474571"
 draft: false
+
+weight: 100
 ---
 
 ## Fethiye Camii, Amasya: Tarihî Bir Yapı

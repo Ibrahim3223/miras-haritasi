@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.882812475,39.650310162"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldırım Camii Çeşmesi, Balıkesir

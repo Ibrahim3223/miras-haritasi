@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1825,39.132222222"
 draft: false
+
+weight: 10
 ---
 
 ## Dionysos Tapınağı (Bergama)

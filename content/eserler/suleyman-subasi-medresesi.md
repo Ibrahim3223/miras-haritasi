@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9607983,41.0143204"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Subaşı Medresesi

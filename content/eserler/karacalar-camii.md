@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9855995,40.1406593"
 draft: false
+
+weight: 100
 ---
 
 ## Karacalar Camii: Bilecik'te Bir Önemli Cami

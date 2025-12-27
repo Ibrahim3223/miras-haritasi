@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.225,37.529444"
 draft: false
+
+weight: 10
 ---
 
 # Lade Adası: Aydın'ın Gizli Cenneti

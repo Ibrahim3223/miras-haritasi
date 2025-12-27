@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.0322304,37.3661919"
 draft: false
+
+weight: 100
 ---
 
 ## Adahöyük: Kahramanmaraş'taki Eski Yerleşme

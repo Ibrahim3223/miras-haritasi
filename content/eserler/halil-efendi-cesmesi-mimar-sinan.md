@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020438,41.022531"
 draft: false
+
+weight: 10
 ---
 
 ### Halil Efendi Çeşmesi: Mimar Sinan'ın Bir Çeşme Harikası

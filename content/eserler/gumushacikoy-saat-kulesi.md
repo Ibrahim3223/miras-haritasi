@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.216694444,40.873"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşhacıköy Saat Kulesi

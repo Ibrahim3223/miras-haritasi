@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.570833333,37.077777777"
 draft: false
+
+weight: 10
 ---
 
 ## Karain Mağarası: Antalya'nın Gizli Mirası

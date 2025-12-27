@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "26.788855,38.376293"
 draft: false
+
+weight: 100
 ---
 
 ## Klazomenai Antik Tiyatrosu

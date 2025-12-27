@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9588184,41.0181808"
 draft: false
+
+weight: 100
 ---
 
 ## Ayın Biri Kilisesi: İstanbul'un Gizemli Kilisesi

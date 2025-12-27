@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.606799,38.586969"
 draft: false
+
+weight: 100
 ---
 
 ## İaza Arkeolojik Sit

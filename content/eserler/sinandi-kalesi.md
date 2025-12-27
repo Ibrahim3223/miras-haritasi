@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.9929657,38.6738701"
 draft: false
+
+weight: 100
 ---
 
 ## Sinandı Kalesi: Aksaray'ın Tarihi ve Kültürel Mirası

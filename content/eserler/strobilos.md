@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.335621,40.654483"
 draft: false
+
+weight: 100
 ---
 
 # Strobilos: Yalova'nın Gizli Kahramanı

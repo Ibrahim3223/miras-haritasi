@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.171068,38.429062"
 draft: false
+
+weight: 100
 ---
 
 # Karaca Ahmet Sultan Türbesi, Ulubey

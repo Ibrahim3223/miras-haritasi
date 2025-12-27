@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.854833,39.792833"
 draft: false
+
+weight: 100
 ---
 
 ## Midaion Arkeolojik Sit

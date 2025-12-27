@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.95083333,41.04194444"
 draft: false
+
+weight: 100
 ---
 
 ## Kırmızı Minare Camii: Beyoğlu'ndaki Tarihi Bir Miras

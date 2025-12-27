@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.8390865,40.2323723"
 draft: false
+
+weight: 10
 ---
 
 ### Mübadele Evi: Bursa'nın Kayıp Tarihi

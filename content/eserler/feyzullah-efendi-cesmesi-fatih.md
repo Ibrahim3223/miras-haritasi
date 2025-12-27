@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9497985,41.0171766"
 draft: false
+
+weight: 100
 ---
 
 ## Feyzullah Efendi Çeşmesi

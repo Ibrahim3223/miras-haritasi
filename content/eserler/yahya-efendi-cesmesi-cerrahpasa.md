@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9413242,41.0055161"
 draft: false
+
+weight: 100
 ---
 
 ## Yahya Efendi Çeşmesi, Cerrahpaşa

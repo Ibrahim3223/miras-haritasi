@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5412006,37.8927994"
 draft: false
+
+weight: 100
 ---
 
 ### Baklankuyucak Camii: Denizli'nin Gizli Cenneti

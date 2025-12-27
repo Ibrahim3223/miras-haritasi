@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4753227,36.3965797"
 draft: false
+
+weight: 10
 ---
 
 ## Olympos Liman Anıt Mezarları

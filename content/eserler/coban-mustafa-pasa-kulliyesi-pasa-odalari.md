@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.4309692,40.7997284"
 draft: false
+
+weight: 100
 ---
 
 ### Çoban Mustafa Paşa Külliyesi Paşa Odaları

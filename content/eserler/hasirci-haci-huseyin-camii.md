@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.6301765,36.8052788"
 draft: false
+
+weight: 10
 ---
 
 ## Hasırcı Hacı Hüseyin Camii

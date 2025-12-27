@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.9171829,40.1700249"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Alaeddin Camii: Beypazarı'nın Tarihi Bir Mirası

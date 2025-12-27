@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.036169287,41.020039439"
 draft: false
+
+weight: 100
 ---
 
 #### Halim Baba Çeşmesi, Tosya

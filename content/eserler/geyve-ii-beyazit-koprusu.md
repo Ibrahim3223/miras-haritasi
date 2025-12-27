@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.2968,40.53503"
 draft: false
+
+weight: 100
 ---
 
 ## Geyve II. Beyazıt Köprüsü

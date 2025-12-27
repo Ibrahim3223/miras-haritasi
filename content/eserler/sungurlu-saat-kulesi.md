@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "34.374138888,40.162527777"
 draft: false
+
+weight: 10
 ---
 
 ## Sungurlu Saat Kulesi: Çorum'un Tarihi Mirası

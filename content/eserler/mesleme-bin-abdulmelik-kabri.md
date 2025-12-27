@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.97136,41.024283"
 draft: false
+
+weight: 10
 ---
 
 ### Mesleme Bin Abdülmelik Kabri

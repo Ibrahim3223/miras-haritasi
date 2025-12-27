@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.234232,40.258296"
 draft: false
+
+weight: 100
 ---
 
 ## Bayburt Kalesi Kilisesi

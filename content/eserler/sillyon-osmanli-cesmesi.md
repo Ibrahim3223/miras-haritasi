@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.984977925,36.988672536"
 draft: false
+
+weight: 100
 ---
 
 ## Sillyon Osmanlı Çeşmesi

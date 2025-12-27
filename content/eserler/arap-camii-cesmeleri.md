@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970882,41.024606"
 draft: false
+
+weight: 10
 ---
 
 ### Arap Camii Çeşmeleri: İstanbul'un Gizli Çeşmesi

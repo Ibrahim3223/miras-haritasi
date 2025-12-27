@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.178224,38.298041"
 draft: false
+
+weight: 10
 ---
 
 ## Yalvaç Müzesi: Isparta'nın Kültür Mirasının Anıtlarından Biridir

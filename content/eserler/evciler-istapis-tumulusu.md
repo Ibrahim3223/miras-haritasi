@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.585186,41.767437"
 draft: false
+
+weight: 100
 ---
 
 ## Evciler İstapiş Tümülüsü: Pınarhisar'ın Gizli Anıtı

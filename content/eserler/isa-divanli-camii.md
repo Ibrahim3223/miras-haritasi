@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9331398,37.5807152"
 draft: false
+
+weight: 100
 ---
 
 ## İsa Divanlı Camii: Kahramanmaraş'ın Tarihî Bir Mirası

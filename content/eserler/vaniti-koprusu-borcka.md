@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.643585,41.367855"
 draft: false
+
+weight: 100
 ---
 
 ## Vaniti Köprüsü: Borçka'nın Tarihi Taşınmazı

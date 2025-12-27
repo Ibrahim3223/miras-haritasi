@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.01111111,41.04944444"
 draft: false
+
+weight: 100
 ---
 
 ### İslâm Tarih, Sanat ve Kültür Araştırma Merkezi

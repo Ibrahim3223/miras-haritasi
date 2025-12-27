@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.0232849,37.4988022"
 draft: false
+
+weight: 100
 ---
 
 ## Gaffarlı Taş Köprüsü: Sumbas'taki Eski Şehrinin Gizemi

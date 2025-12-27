@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.1058655,38.3983002"
 draft: false
+
+weight: 100
 ---
 
 ## Alemdar Köprüsü: Bitlis'in Tarihi Bir Mirası

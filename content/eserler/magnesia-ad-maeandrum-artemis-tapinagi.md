@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.527222222,37.853333333"
 draft: false
+
+weight: 10
 ---
 
 ## Magnesia ad Maeandrum Artemis Tapınağı

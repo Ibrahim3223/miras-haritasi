@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2789459,39.9102745"
 draft: false
+
+weight: 100
 ---
 
 ## Derviş Ağa Şadırvanı

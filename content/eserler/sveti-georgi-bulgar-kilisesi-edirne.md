@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.57023333,41.68042778"
 draft: false
+
+weight: 10
 ---
 
 ## Sveti Georgi Bulgar Kilisesi: Edirne'nin Gizli Çehresi

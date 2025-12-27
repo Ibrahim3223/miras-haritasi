@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9349592,41.0530524"
 draft: false
+
+weight: 100
 ---
 
 ### Eczacı Eşref Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.3916798,38.5658951"
 draft: false
+
+weight: 100
 ---
 
 ## Karahasan Köprüsü

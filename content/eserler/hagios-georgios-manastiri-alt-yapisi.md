@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.986734783,41.010869079"
 draft: false
+
+weight: 100
 ---
 
 ## Hagios Georgios Manastırı Alt Yapısı

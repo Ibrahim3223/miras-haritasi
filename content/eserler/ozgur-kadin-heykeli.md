@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.141166666,38.427916666"
 draft: false
+
+weight: 10
 ---
 
 ## Özgür Kadın Heykeli: Konak, İzmir'in Ölümsüz Yıldızı

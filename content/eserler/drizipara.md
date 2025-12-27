@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.607128,41.3082"
 draft: false
+
+weight: 100
 ---
 
 ## Drizipara Arkeolojik Sit

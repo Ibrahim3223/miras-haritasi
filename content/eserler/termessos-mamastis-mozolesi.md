@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.465425,36.980965"
 draft: false
+
+weight: 100
 ---
 
 ## Termessos Mamastis Mozolesi

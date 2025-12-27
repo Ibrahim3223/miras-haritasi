@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.936388888,38.759166666"
 draft: false
+
+weight: 10
 ---
 
 **Kyme Arkeolojik Sit**

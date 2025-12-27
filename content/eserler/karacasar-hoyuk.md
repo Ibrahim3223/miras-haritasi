@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.574672,38.7009994"
 draft: false
+
+weight: 100
 ---
 
 ### Karacaşar Höyük: Tarihî Bir Mirasın İzleri

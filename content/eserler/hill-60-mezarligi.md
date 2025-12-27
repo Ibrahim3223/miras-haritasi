@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.29276,40.27276"
 draft: false
+
+weight: 10
 ---
 
 ## Hill 60 Mezarlığı

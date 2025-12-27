@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.044125,40.582908"
 draft: false
+
+weight: 100
 ---
 
 ## Gozalena: Türkiye'nin Gizli Öreni

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.2537842,38.7049103"
 draft: false
+
+weight: 100
 ---
 
 ## Harput Esediye Camii

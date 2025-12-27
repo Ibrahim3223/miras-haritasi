@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9898239,41.007176"
 draft: false
+
+weight: 100
 ---
 
 ## Ortanköy Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası

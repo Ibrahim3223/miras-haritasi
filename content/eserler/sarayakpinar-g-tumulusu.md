@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.4625874,41.7865448"
 draft: false
+
+weight: 100
 ---
 
 # Sarayakpınar G Tümülüsü

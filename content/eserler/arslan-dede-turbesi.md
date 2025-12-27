@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.405,40.1481"
 draft: false
+
+weight: 100
 ---
 
 ## Arslan Dede Türbesi

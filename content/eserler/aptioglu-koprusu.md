@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9244102,41.047647"
 draft: false
+
+weight: 100
 ---
 
 ## Aptioğlu Köprüsü

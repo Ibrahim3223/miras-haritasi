@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.725668,40.4302559"
 draft: false
+
+weight: 10
 ---
 
 ### İznik Türk İslam Eserleri Müzesi

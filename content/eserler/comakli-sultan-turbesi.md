@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9389,37.5815"
 draft: false
+
+weight: 100
 ---
 
 ### Çomaklı Sultan Türbesi

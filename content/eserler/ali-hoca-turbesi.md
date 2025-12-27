@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9741402,41.0304298"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Hoca Türbesi: Beyoğlu'ndaki Tarihî Bir Anıt

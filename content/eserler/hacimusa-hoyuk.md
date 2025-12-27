@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8220817,39.226286"
 draft: false
+
+weight: 100
 ---
 
 ## Hacımusa Höyük: Kozaklı'nın Gizli Mirası

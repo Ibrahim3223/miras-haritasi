@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.9213772,40.764801"
 draft: false
+
+weight: 100
 ---
 
 **Atatürk ve Milli Mücadele Anı Evi**

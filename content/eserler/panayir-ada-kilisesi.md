@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3329163,37.330101"
 draft: false
+
+weight: 100
 ---
 
 ## Panayır Ada Kilisesi: Didim'in Gizli Çehresini Keşfedin

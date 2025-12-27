@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3195534,38.6155167"
 draft: false
+
+weight: 100
 ---
 
 ## Çapaçarık Türbesi: Manisa'nın Tarihi bir Anıtı

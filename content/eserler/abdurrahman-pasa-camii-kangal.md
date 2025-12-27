@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3914223,39.2353821"
 draft: false
+
+weight: 100
 ---
 
 ## Abdurrahman Paşa Camii: Kangal'ın Tarihi Bir Mirası

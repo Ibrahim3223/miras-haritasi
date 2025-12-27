@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7073708,41.365509"
 draft: false
+
+weight: 100
 ---
 
 ## Kurttepe B Tümülüsü: Edirne'nin Gizli Anıtı

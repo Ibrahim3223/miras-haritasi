@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9328136,41.0205612"
 draft: false
+
+weight: 100
 ---
 
 **Baltalı Baba Kabri**

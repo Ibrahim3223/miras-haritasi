@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.94648,41.02369"
 draft: false
+
+weight: 100
 ---
 
 ### Kumrulu Mescit: İstanbul'un Fethinin Ardından Yükselen Bir Cami

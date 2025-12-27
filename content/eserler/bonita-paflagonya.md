@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.125022,41.48741"
 draft: false
+
+weight: 100
 ---
 
 ## Bonita (Paflagonya): Bir Arkeolojik Sitin Gizemi

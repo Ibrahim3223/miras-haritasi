@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.336842884,39.785560344"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme, Ezine: Tarihi ve Kültürel Bir Miras

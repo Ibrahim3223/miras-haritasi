@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0110493,41.0259514"
 draft: false
+
+weight: 10
 ---
 
 # Şemsi Paşa Medresesi: Üsküdar'ın Eski ve Güçlü Mirası

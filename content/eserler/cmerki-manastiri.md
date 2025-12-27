@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.969833333,41.193388888"
 draft: false
+
+weight: 100
 ---
 
 ## Cmerki Manastırı: Artvin'in Gizli Cenneti

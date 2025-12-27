@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9474864,41.0105307"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ahmet Ağa Çeşmesi: Fatih'te Bir Zeytinlik Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.02865,41.020042"
 draft: false
+
+weight: 10
 ---
 
 ## Mahpeyker Kösem Sultan Çeşmesi

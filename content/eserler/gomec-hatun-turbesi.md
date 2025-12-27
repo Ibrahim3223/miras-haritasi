@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4943708,37.8820297"
 draft: false
+
+weight: 10
 ---
 
 ### Gömeç Hatun Türbesi: Konya'nın Gizli Cenneti

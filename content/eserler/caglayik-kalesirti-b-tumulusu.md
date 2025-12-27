@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3265858,42.0338326"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayık Kalesırtı B Tümülüsü: Kırklareli'nin Gizli Hazinesi

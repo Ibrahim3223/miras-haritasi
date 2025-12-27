@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.857028791,39.941544259"
 draft: false
+
+weight: 100
 ---
 
 ## Antik Hamam, Hacı Bayram

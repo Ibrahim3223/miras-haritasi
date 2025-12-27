@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.21175,37.182583333"
 draft: false
+
+weight: 10
 ---
 
 ## Karaman Müzesi

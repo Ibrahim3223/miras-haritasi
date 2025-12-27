@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.31421,38.876702"
 draft: false
+
+weight: 100
 ---
 
 ## Gordos (Lidya)

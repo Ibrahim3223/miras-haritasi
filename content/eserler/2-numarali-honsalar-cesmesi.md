@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7703323,41.3801308"
 draft: false
+
+weight: 100
 ---
 
 # 2 Numaralı Honsalar Çeşmesi: Kastamonu'nun Tarihî bir Çeşmesi

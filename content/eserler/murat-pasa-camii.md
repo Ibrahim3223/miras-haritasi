@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.7025,36.8915"
 draft: false
+
+weight: 10
 ---
 
 ## Murat Paşa Camii

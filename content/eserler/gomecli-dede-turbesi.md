@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.6270428,38.2195625"
 draft: false
+
+weight: 10
 ---
 
 **Gömeçli Dede Türbesi: İzmir'in Gizli Çiçeği**

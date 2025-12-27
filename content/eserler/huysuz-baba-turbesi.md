@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5635166,41.6671333"
 draft: false
+
+weight: 100
 ---
 
 ## Huysuz Baba Türbesi

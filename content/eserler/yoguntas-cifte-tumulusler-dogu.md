@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0075684,41.8220177"
 draft: false
+
+weight: 100
 ---
 
 # Yoğuntaş Çifte Tümülüsler Doğu: Kırklareli'nin Gizli Cenneti

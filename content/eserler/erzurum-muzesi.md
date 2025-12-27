@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "41.27744,39.90335"
 draft: false
+
+weight: 10
 ---
 
 ## Erzurum Müzesi

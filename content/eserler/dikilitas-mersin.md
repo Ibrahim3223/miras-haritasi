@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.65,36.85"
 draft: false
+
+weight: 100
 ---
 
 ### Dikilitaş, Mersin

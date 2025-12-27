@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.920146,41.015951"
 draft: false
+
+weight: 10
 ---
 
 ## Merkez Efendi Türbesi

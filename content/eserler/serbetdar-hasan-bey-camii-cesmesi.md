@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.766654666,41.57518293"
 draft: false
+
+weight: 100
 ---
 
 ### Şerbetdar Hasan Bey Camii Çeşmesi

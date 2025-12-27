@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9694996,37.8003006"
 draft: false
+
+weight: 100
 ---
 
 ## Kırtaşlık Tümülüsü

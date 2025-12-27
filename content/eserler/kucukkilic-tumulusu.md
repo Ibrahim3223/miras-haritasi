@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.1918602,41.1233521"
 draft: false
+
+weight: 100
 ---
 
 ### Küçükkılıç Tümülüsü

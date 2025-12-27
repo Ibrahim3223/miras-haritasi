@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.685033,40.462683"
 draft: false
+
+weight: 100
 ---
 
 ## Çakırca Höyük: İznik'in Gizli Tarihi

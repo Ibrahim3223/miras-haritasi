@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.5413437,40.4752159"
 draft: false
+
+weight: 100
 ---
 
 ### Mağazberd Kalesi: Kars'ın Göçer Kalesi

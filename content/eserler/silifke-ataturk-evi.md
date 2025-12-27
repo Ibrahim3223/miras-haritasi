@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.928055555,36.376944444"
 draft: false
+
+weight: 10
 ---
 
 ## Silifke Atatürk Evi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0187,37.8922"
 draft: false
+
+weight: 100
 ---
 
 ### Abdurrahman Sultan Türbesi: Başmakçı'nın Gizli Çağı

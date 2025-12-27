@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.344249005,37.937390529"
 draft: false
+
+weight: 10
 ---
 
 ### Prytaneion (Belediye Sarayı): Selçuk'ta Geç Antik Döneme Ait Bir Arkeolojik Örenlik

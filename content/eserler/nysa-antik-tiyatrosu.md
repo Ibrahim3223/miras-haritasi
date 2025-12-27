@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.145333,37.903569"
 draft: false
+
+weight: 100
 ---
 
 ### Nysa Antik Tiyatrosu

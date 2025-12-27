@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.417154,37.828811"
 draft: false
+
+weight: 100
 ---
 
 ### Şehit Teğmen Adem Buran Camii

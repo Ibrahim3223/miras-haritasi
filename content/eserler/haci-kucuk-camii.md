@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.970648,41.014083"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Küçük Camii: İstanbul'un Tarihi Cenneti

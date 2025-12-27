@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8678741,39.9311295"
 draft: false
+
+weight: 100
 ---
 
 ## Çelebi Mehmet Camii: Ankara'nın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.354444,38.518611"
 draft: false
+
+weight: 10
 ---
 
 ## Alay Han: Aksaray'da Bir Anıtın Öyküsü

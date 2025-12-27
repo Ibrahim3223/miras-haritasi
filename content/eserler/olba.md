@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.92527778,36.58083333"
 draft: false
+
+weight: 10
 ---
 
 ## Olba: Mersin'in Gizli Çarpıntısı

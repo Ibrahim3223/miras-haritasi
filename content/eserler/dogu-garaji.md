@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.7125,36.88805556"
 draft: false
+
+weight: 100
 ---
 
 ## Doğu Garajı: Kırsal Alanın Gizli Çehresi

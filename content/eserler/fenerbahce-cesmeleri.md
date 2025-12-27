@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.036472222,40.969305555"
 draft: false
+
+weight: 10
 ---
 
 ## Fenerbahçe Çeşmeleri: Tarihî Bir Mirasın Gizemi

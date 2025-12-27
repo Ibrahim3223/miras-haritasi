@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.285225,41.078819444"
 draft: false
+
+weight: 100
 ---
 
 ## Tetrtsihe Kilisesi: Çıldır, Ardahan'daki Bir Geçiş Dönemi Kilisesi

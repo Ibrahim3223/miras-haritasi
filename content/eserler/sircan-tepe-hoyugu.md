@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Sırçan Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi

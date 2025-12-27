@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.60116,39.1818085"
 draft: false
+
+weight: 100
 ---
 
 ## Ulupınar Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4963303,37.864151"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Fettah Camii Çeşmesi

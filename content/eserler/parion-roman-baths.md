@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.067709,40.42577"
 draft: false
+
+weight: 100
 ---
 
 ## Parion, Roma Hamamları

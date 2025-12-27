@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.530146,38.755209"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet ve Mehmet Efendiler Türbesi

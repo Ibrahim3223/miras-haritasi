@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.6554794,40.1128578"
 draft: false
+
+weight: 100
 ---
 
 ## Hagios Paraskeva Kilisesi

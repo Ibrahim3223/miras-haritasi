@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.614748,41.177475"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Osman Ağa Camii: Şile'nin Gizli Cenneti

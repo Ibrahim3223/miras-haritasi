@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4217224,41.9487839"
 draft: false
+
+weight: 100
 ---
 
 ## Yangınkule Tümülüsü

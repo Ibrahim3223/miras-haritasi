@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.386169,40.919603"
 draft: false
+
+weight: 100
 ---
 
 ### Kale Camii, Giresun

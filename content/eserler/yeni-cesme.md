@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18683889,39.123125"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Çeşme: Bir Çeşme'nin Gizemi

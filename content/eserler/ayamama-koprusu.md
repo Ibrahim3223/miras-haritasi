@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.836585,40.986969"
 draft: false
+
+weight: 100
 ---
 
 ### Ayamama Köprüsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.1619034,40.823555"
 draft: false
+
+weight: 100
 ---
 
 ## Yabalı Dede Mehmet Efendi Türbesi

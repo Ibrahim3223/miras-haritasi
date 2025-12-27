@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0825405,41.1070747"
 draft: false
+
+weight: 10
 ---
 
 ### Damat İbrahim Paşa Çeşmesi, Çubuklu

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8379936,40.6565247"
 draft: false
+
+weight: 100
 ---
 
 ## Mir Hamza Nigârî Türbesi: Amasya'nın Kültürel Mirası

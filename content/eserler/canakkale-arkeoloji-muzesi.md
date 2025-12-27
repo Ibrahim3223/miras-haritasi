@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.41,40.13333333"
 draft: false
+
+weight: 10
 ---
 
 ## Çanakkale Arkeoloji Müzesi

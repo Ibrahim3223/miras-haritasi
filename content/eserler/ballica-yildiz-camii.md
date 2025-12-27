@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.289556923,40.886804438"
 draft: false
+
+weight: 100
 ---
 
 ## Ballıca Yıldız Camii

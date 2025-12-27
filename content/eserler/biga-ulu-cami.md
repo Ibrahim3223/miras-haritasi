@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2392406,40.2271461"
 draft: false
+
+weight: 100
 ---
 
 ## Biga Ulu Camii: Çanakkale'nin Tarihi ve Kültürel Mirası

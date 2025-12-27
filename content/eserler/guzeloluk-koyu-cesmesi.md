@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.1060829,40.5060921"
 draft: false
+
+weight: 100
 ---
 
 ## Güzeloluk Köyü Çeşmesi: Torul'un Tarihi Bir Çeşmesi

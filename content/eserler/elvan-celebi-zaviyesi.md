@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.1642,40.5664"
 draft: false
+
+weight: 100
 ---
 
 ## Elvan Çelebi Zaviyesi: Çorum'un Gizli Çehresini İcradan Kaldırıyor

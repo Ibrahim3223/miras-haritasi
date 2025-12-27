@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.464972222,40.872388888"
 draft: false
+
+weight: 100
 ---
 
 ## Tacettin İbrahim Paşa Camii

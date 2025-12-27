@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.95,36.5167"
 draft: false
+
+weight: 10
 ---
 
 **Gökkale: Tarihi ve Kültürel Miras**

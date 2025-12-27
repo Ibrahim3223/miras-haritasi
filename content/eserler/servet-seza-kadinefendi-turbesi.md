@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9519691,41.0264282"
 draft: false
+
+weight: 100
 ---
 
 ## Servet Seza Kadınefendi Türbesi

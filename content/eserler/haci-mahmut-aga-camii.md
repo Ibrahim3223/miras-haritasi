@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3304901,36.9820404"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mahmut Ağa Camii: Adana'nın Tarihi Bir Mirası

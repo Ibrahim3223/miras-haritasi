@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978535,41.026997"
 draft: false
+
+weight: 100
 ---
 
 ## Bilal Ağa Çeşmesi: Hacımimi'de Gizlenen Bir Çeşme

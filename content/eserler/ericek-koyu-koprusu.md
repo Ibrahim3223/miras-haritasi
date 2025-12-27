@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.7180176,40.7144623"
 draft: false
+
+weight: 100
 ---
 
 **Ericek Köyü Köprüsü**

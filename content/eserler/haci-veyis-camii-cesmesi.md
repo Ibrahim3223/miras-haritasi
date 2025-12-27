@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.51054,37.8705635"
 draft: false
+
+weight: 10
 ---
 
 # Hacı Veyis Camii Çeşmesi

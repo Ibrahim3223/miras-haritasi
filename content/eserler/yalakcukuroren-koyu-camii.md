@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.019268,40.7308807"
 draft: false
+
+weight: 100
 ---
 
 ## Yalakçukurören Köyü Camii: Çerkeş'te Bir Geçmişin İzleri

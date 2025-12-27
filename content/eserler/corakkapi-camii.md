@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.143805555,38.421805555"
 draft: false
+
+weight: 10
 ---
 
 ## Çorakkapı Camii Tanıtımı

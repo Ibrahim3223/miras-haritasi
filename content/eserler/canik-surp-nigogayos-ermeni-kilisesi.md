@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.3285,41.2977"
 draft: false
+
+weight: 10
 ---
 
 ## Canik Surp Nigoğayos Ermeni Kilisesi

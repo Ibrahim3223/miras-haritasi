@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.8546066,38.2490997"
 draft: false
+
+weight: 100
 ---
 
 ## Eshab-ı Kehf Külliyesi: Afşin'in Tarihî Mirası

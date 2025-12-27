@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.144805555,38.429277777"
 draft: false
+
+weight: 10
 ---
 
 ## Kaskatlı Havuz: İzmir'in Tarihi Çeşmesi

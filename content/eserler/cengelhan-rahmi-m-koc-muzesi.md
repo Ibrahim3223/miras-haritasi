@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.99722222,39.9375"
 draft: false
+
+weight: 10
 ---
 
 ## Çengelhan Rahmi M. Koç Müzesi

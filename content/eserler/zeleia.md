@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.595073,40.203564"
 draft: false
+
+weight: 100
 ---
 
 ## Zeleia Arkeolojik Sit

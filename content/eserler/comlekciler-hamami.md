@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.935821,41.042971"
 draft: false
+
+weight: 100
 ---
 
 ## Çömlekçiler Hamamı: Eyüpsultan'ın Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4203739,37.0363846"
 draft: false
+
+weight: 100
 ---
 
 ### Eski Çeşme Mahallesi Mescidi: Bodrum'un Tarihi Bir Zeytin Dalı

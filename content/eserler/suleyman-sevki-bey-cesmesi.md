@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.856205,39.9440918"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Şevki Bey Çeşmesi

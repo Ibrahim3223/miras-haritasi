@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.852222222,39.656666666"
 draft: false
+
+weight: 10
 ---
 
 # Karesi Atatürk Evi

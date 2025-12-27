@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7317286,38.0861771"
 draft: false
+
+weight: 100
 ---
 
 ## İbni Melek Türbesi: Tarihî ve Kültürel Mirasın Değerli Armağanı

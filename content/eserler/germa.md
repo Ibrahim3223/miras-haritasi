@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.8333,39.3333"
 draft: false
+
+weight: 100
 ---
 
 ## Germa Arkeolojik Sit

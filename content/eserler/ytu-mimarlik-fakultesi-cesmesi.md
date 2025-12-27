@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0108573,41.0521388"
 draft: false
+
+weight: 10
 ---
 
 ## YTÜ Mimarlık Fakültesi Çeşmesi: Beşiktaş'taki Bir Ören

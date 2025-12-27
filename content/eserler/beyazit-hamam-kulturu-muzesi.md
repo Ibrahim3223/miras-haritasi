@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.961555,41.009792"
 draft: false
+
+weight: 10
 ---
 
 ## Beyazıt Hamam Kültürü Müzesi: İstanbul'un Gizli Çehresi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.26604,40.41559"
 draft: false
+
+weight: 100
 ---
 
 ## Dedeli Köprüsü: Torul'un Tarihi Bir Mirası

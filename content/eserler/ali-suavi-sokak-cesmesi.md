@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4981766,37.8652382"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Suavi Sokak Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.976955261,41.006928164"
 draft: false
+
+weight: 100
 ---
 
 ## Düğümlü Baba Kabri: İstanbul'un Tarihi Bir Mirası

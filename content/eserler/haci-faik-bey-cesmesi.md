@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015995,41.015587"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Faik Bey Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

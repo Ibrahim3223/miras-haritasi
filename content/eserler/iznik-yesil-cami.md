@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.72686,40.42975"
 draft: false
+
+weight: 10
 ---
 
 **İznik Yeşil Cami: Bir Önemli Kültür Mirası**

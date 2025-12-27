@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2579136,37.8599091"
 draft: false
+
+weight: 100
 ---
 
 ## Kaleiçi Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4605026,36.9824181"
 draft: false
+
+weight: 100
 ---
 
 ## Karaada Kilisesi: Bodrum'un Gizli Çarpıntısı

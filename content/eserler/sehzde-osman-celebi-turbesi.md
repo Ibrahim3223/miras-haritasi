@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8273277,40.6501808"
 draft: false
+
+weight: 100
 ---
 
 ### Şehzâde Osman Çelebi Türbesi

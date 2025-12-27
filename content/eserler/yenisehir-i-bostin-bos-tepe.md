@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.645717,40.266667"
 draft: false
+
+weight: 100
 ---
 
 ## Yenişehir I (Bostin Boş Tepe): Bursa'nın Gizemli Arkeolojik Sitleri

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.242611281,37.915507822"
 draft: false
+
+weight: 10
 ---
 
 ## Diyarbakır Arkeoloji Müzesi

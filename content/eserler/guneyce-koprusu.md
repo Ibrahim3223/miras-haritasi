@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.476517,40.821867"
 draft: false
+
+weight: 100
 ---
 
 ### Güneyce Köprüsü

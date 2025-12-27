@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.0374985,39.1226006"
 draft: false
+
+weight: 100
 ---
 
 ## Seyda Köprüsü: Tarihi ve Kültürel Miras

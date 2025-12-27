@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.425148,38.6163673"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Cami (Şehzadeler): Manisa'nın Tarihî Bir Anıtı

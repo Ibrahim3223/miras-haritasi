@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.7045555,36.886982"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirkıran Mehmet Bey Türbesi

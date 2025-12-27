@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.7454667,41.0879667"
 draft: false
+
+weight: 100
 ---
 
 # Yanıkdağ Köprüsü

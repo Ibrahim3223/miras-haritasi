@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9303608,41.0418701"
 draft: false
+
+weight: 100
 ---
 
 ## Sivasi Abdülmecid Efendi Türbesi

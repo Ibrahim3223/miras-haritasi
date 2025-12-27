@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.862863,39.957814"
 draft: false
+
+weight: 100
 ---
 
 **Veteriner Anatomi Müzesi**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8173294,39.9329338"
 draft: false
+
+weight: 100
 ---
 
 ## Ankara Frig Tümülüsü 5, Emniyet: Geçmişten bugüne

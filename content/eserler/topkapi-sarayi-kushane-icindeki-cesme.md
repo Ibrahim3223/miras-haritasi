@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9837809,41.0129319"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Kuşhane İçindeki Çeşme: Türkiye'nin En Güzel Çeşmelerinden Bir Örneği

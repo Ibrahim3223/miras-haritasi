@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4796646,38.480291"
 draft: false
+
+weight: 100
 ---
 
 ## Ağıllı Höyük: Türkiye'nin Eski Kültür Mirası

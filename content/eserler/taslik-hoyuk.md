@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.5534558,39.3337394"
 draft: false
+
+weight: 100
 ---
 
 ## Taşlık Höyük: Kırşehir'in Gizemli Yitik Evi

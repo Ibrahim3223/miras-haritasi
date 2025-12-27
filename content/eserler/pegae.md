@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.965242,41.035504"
 draft: false
+
+weight: 100
 ---
 
 ## Pegae: Tarihi ve Kültürel Mirasın Gizemi

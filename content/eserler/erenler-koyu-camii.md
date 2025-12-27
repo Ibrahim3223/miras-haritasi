@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.831765221,41.091537216"
 draft: false
+
+weight: 100
 ---
 
 ### Erenler Köyü Camii: Rize'nin Gizli Çehresini Aydınlатаyan Bir Cami

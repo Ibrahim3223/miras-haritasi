@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9305706,41.8553123"
 draft: false
+
+weight: 100
 ---
 
 ## Üçhöyükler A Tümülüsü

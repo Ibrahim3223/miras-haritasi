@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1751995,39.1208"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme – Atmaca, Hacı İlyas Caddesi, 32: Bergama'da Bir Tarihî Çeşme

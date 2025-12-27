@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5739498,41.3703995"
 draft: false
+
+weight: 100
 ---
 
 ## Akçaköy Tümülüsü 2: Lüleburgaz'ın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.941375,41.02515"
 draft: false
+
+weight: 10
 ---
 
 ## Mustafa Rakım Efendi Türbesi

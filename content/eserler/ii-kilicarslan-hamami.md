@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.0288544,38.3755188"
 draft: false
+
+weight: 100
 ---
 
 ## II. Kılıçarslan Hamamı

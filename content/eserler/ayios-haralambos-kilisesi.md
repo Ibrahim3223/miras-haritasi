@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.304277777,38.32525"
 draft: false
+
+weight: 10
 ---
 
 **Ayios Haralambos Kilisesi: Çeşme'nin Tarihi Bir Mirası**

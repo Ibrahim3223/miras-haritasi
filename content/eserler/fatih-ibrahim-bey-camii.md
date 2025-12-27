@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7671871,38.3206863"
 draft: false
+
+weight: 100
 ---
 
 ## Fatih İbrahim Bey Camii: İzmir'in Tarihi ve Kültürel Kıymeti

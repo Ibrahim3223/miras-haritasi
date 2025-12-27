@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.6519547,37.9454575"
 draft: false
+
+weight: 10
 ---
 
 ## Kâhta Köprüsü: Tarihi ve Kültürel Bir Miras

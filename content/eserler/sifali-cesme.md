@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.951718,41.019398"
 draft: false
+
+weight: 100
 ---
 
 ## Şifalı Çeşme

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4698,40.9048"
 draft: false
+
+weight: 100
 ---
 
 ### Sahabe-i Kiram Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.1899853,37.8220062"
 draft: false
+
+weight: 100
 ---
 
 ## Yörük Ali Efe Anıt Mezarı

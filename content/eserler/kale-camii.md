@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.5104485,41.0271797"
 draft: false
+
+weight: 100
 ---
 
 ## Kale Camii: Rize'nin Tarihi Bir Mirası

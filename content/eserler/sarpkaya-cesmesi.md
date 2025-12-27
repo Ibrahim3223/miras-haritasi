@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.5542068,40.1373901"
 draft: false
+
+weight: 100
 ---
 
 # Sarpkaya Çeşmesi: Giresun'un Kültürel Mirası

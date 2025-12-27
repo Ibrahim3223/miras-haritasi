@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9517975,41.0200043"
 draft: false
+
+weight: 100
 ---
 
 # Baş Tetimme Medresesi: İstanbul'un Tarihi Bir Mirası

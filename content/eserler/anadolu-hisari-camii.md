@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.067607,41.085045"
 draft: false
+
+weight: 10
 ---
 
 ## Anadolu Hisarı Camii

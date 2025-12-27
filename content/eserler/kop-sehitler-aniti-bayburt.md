@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.519638,40.026792"
 draft: false
+
+weight: 100
 ---
 
 ### Kop Şehitler Anıtı, Bayburt

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4994087,38.7143974"
 draft: false
+
+weight: 100
 ---
 
 ## Sırçalı Kümbet: Melikgazi'de Bir Ölümsüz Abid

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.51061,40.7673299"
 draft: false
+
+weight: 10
 ---
 
 ## Boğazkesen Köprüsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.87569,36.83353"
 draft: false
+
+weight: 100
 ---
 
 # Halae Arkeolojik Sitesi

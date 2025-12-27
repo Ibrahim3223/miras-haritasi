@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.699444444,36.809722222"
 draft: false
+
+weight: 10
 ---
 
 # Karaduvar (Anchiale) Arkeolojik Sit

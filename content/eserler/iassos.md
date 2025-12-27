@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.58638889,37.27777778"
 draft: false
+
+weight: 10
 ---
 
 ## İassos: Antik Kentin Gizemi

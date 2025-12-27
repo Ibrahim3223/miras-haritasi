@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.983562,40.366364"
 draft: false
+
+weight: 100
 ---
 
 ### Ege'nin Gizemi: Mygdum Arkeolojik Sit

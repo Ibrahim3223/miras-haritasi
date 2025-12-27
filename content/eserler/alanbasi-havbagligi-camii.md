@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4105998,40.6898"
 draft: false
+
+weight: 100
 ---
 
 # Alanbaşı Havbağlığı Camii: Artvin'in Gizli Cenneti

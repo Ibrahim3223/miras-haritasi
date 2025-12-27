@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.198761,36.9556274"
 draft: false
+
+weight: 100
 ---
 
 ## Erzin Merkez Camii

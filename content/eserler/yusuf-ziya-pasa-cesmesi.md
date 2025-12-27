@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.053727,41.050437"
 draft: false
+
+weight: 100
 ---
 
 ## Yusuf Ziya Paşa Çeşmesi

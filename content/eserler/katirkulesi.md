@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.80575,39.50515"
 draft: false
+
+weight: 100
 ---
 
 ## Katırkulesi: Seyitgazi'nin Gizli Ölümsüzü

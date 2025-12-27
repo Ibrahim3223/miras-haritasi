@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.004268154,40.304796106"
 draft: false
+
+weight: 100
 ---
 
 ### Karaman Köyü Camii: Ankara'nın Gizli Cenneti

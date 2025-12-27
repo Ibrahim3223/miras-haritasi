@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.0688572,38.6077423"
 draft: false
+
+weight: 100
 ---
 
 ## Çınarlı Camii Çeşmeleri, Menemen

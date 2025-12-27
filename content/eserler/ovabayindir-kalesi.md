@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.1036167,39.5572472"
 draft: false
+
+weight: 100
 ---
 
 # Ovabayındır Kalesi: Balıkesir'in Gizli Kahramanı

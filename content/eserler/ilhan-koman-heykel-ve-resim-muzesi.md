@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.522694444,41.651666666"
 draft: false
+
+weight: 10
 ---
 
 ## İlhan Koman Heykel ve Resim Müzesi

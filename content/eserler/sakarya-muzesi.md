@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.401666666,40.773888888"
 draft: false
+
+weight: 10
 ---
 
 ### Sakarya Müzesi

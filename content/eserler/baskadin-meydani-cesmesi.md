@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.010399,41.021477"
 draft: false
+
+weight: 10
 ---
 
 ## Başkadın Meydanı Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7205734,41.0086555"
 draft: false
+
+weight: 100
 ---
 
 ## Tophane Hamamı: Trabzon'un Tarihi Bir Mirası

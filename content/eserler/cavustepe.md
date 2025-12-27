@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.46111111,38.35297222"
 draft: false
+
+weight: 10
 ---
 
 ### Çavuştepe: Van'ın Tarihî ve Kültürel Mirası

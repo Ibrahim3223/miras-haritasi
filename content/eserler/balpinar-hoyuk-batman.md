@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.0529976,37.8656273"
 draft: false
+
+weight: 100
 ---
 
 ## Balpınar Höyük: Batman'ın Gizemli Eseri

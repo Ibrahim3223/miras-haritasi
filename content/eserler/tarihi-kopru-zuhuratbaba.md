@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.8656635,40.9873505"
 draft: false
+
+weight: 100
 ---
 
 ## Tarihi Köprü, Zuhuratbaba

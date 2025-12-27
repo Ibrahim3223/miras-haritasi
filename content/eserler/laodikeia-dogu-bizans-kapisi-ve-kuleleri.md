@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1111946,37.8351746"
 draft: false
+
+weight: 10
 ---
 
 ### Laodikeia Doğu Bizans Kapısı ve Kuleleri

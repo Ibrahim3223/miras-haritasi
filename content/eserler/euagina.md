@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.011965,38.521909"
 draft: false
+
+weight: 100
 ---
 
 ## Euagina Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.115865,41.139585"
 draft: false
+
+weight: 100
 ---
 
 ## Kasımzade Ahmet Sofi Camii

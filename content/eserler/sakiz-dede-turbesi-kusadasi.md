@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.2525959,37.8564606"
 draft: false
+
+weight: 100
 ---
 
 ## Sakız Dede Türbesi, Kuşadası

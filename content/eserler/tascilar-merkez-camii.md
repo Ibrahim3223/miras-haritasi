@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2113,40.7719"
 draft: false
+
+weight: 100
 ---
 
 ## Taşçılar Merkez Camii: Trabzon'un Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.27639,40.23299"
 draft: false
+
+weight: 10
 ---
 
 ## Sahil Mezarlığı (ANZAK)

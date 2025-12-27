@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18053333,39.12388056"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Bayraktar Kızı Hatice Çeşmesi: Bergama'nın Tarihi ve Kültür Mirası

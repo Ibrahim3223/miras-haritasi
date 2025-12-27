@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.292138888,40.641694444"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Karglıhi Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası

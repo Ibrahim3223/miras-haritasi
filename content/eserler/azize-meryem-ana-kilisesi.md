@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.3275,36.986111111"
 draft: false
+
+weight: 10
 ---
 
 ## Azize Meryem Ana Kilisesi: Adana'nın Tarihi ve Kültürel Mirası

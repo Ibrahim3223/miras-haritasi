@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0224056,41.0195389"
 draft: false
+
+weight: 100
 ---
 
 ## Abacı Dede Türbesi - Üsküdar, İstanbul'un Gizli Çeşmesi

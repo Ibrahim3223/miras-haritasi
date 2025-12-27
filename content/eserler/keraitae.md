@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.602777777,37.514444444"
 draft: false
+
+weight: 100
 ---
 
 ## Keraitae Arkeolojik Sit

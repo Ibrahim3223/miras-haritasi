@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.97055556,36.5775"
 draft: false
+
+weight: 100
 ---
 
 ## Belbaşı Arkeolojik Sit

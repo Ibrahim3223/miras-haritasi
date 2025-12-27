@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3728218,36.6867867"
 draft: false
+
+weight: 100
 ---
 
 ### Knidos D Kilisesi

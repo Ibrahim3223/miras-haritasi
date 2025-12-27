@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0161648,41.0220413"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Çeşme, Üsküdar

@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "27.234974,37.712878"
 draft: false
+
+weight: 100
 ---
 
 ## Panionion Antik Tiyatrosu

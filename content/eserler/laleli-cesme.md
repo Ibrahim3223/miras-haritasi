@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972583333,41.025694444"
 draft: false
+
+weight: 10
 ---
 
 ### Laleli Çeşme

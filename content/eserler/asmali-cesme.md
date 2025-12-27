@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4861832,38.7208672"
 draft: false
+
+weight: 100
 ---
 
 ## Asmalı Çeşme: Kayseri'nin Gizli Çeşmesi

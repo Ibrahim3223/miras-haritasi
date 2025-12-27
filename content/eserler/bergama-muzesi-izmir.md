@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.17583333,39.11666667"
 draft: false
+
+weight: 10
 ---
 
 ## Bergama Müzesi: İzmir'in Tarihi ve Kültürel Mirası

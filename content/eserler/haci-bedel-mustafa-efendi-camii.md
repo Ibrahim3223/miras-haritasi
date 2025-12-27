@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.018833333,41.019833333"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Bedel Mustafa Efendi Camii: Üsküdar'da Bir Miras

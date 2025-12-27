@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.783444444,37.313444444"
 draft: false
+
+weight: 100
 ---
 
 # Milas Ulu Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8601608,39.9441071"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh İzzettin Türbesi, Altındağ

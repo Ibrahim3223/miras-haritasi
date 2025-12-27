@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7841854,41.015934"
 draft: false
+
+weight: 100
 ---
 
 ### Tümülüs: Marmara Ereğlisi'ndeki Antik Bir Miras

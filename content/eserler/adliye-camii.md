@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.430361111,37.034333333"
 draft: false
+
+weight: 10
 ---
 
 ## Adliye Camii: Bodrum'un Gizli Çehresini Keşfetmek

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0118484,41.0194206"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Ahmed Paşa Türbesi

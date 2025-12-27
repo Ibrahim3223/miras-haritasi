@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.250777777,38.703611111"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Hasan Hamamı: Elazığ'ın Tarihî ve Kültürel Mirası

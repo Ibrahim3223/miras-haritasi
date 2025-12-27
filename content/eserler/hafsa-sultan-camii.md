@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.427305555,38.610638888"
 draft: false
+
+weight: 10
 ---
 
 **Hafsa Sultan Camii: Manisa'nın Gizli Cenneti**

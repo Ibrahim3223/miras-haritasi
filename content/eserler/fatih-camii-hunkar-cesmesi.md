@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2480698,41.0708046"
 draft: false
+
+weight: 100
 ---
 
 ## Fatih Camii Hünkar Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi

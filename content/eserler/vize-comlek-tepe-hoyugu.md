@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.770647,41.5745773"
 draft: false
+
+weight: 10
 ---
 
 ### Vize Çömlek Tepe Höyüğü: Kırklareli'nin Gizli Harikası

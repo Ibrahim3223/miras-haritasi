@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.068569,41.10136"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Sait Efendi Çeşmesi, Kanlıca

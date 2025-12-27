@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.619502072,40.600646557"
 draft: false
+
+weight: 100
 ---
 
 ## Buğday Pazarı Çeşmesi, Çankırı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.553196,41.678046"
 draft: false
+
+weight: 100
 ---
 
 ## Müezzin Sultan Mezarı: Edirne'nin Gizli Güzelliği

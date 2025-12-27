@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.272348,39.9079417"
 draft: false
+
+weight: 100
 ---
 
 ## Boyahane Hamamı: Erzurum'un Tarihi ve Kültürel Mirası

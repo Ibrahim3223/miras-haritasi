@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4917297,38.7146988"
 draft: false
+
+weight: 100
 ---
 
 ## Etiler Sokak Çeşmesi

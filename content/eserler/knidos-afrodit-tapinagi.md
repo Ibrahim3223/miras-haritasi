@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.373333333,36.688888888"
 draft: false
+
+weight: 10
 ---
 
 ### Knidos Afrodit Tapınağı

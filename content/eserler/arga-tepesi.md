@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9720039,38.3456459"
 draft: false
+
+weight: 100
 ---
 
 ## Arga Tepesi: Akçadağ'ın Gizemli Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.1015675,37.3664785"
 draft: false
+
+weight: 100
 ---
 
 ### Flaviopolis Arkeolojik Sit

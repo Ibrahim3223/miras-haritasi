@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.472896051,38.785889841"
 draft: false
+
+weight: 10
 ---
 
 ## Afyonkarahisar Arkeoloji Müzesi: Bir Tarihî Mirasın Güncel Yüzü

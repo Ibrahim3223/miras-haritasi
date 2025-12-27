@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0647297,38.2557602"
 draft: false
+
+weight: 100
 ---
 
 ### Elif Dede Çeşmesi: Birgi'nin Tarihi ve Kültürel Mirası

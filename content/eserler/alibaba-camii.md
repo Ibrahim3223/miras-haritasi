@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.024307,39.757569"
 draft: false
+
+weight: 100
 ---
 
 ## Alibaba Camii: Sivas'ta Bir Osmanlı Dönemi Eseri

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4658051,40.7383461"
 draft: false
+
+weight: 100
 ---
 
 ## Cafergazi Çeşmesi: İskilip'te Bir Tarihî Çeşme

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.413626,37.620384"
 draft: false
+
+weight: 100
 ---
 
 ### Piginda Antik Tiyatrosu

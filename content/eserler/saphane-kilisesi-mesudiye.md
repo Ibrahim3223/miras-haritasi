@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.806577,40.615668"
 draft: false
+
+weight: 100
 ---
 
 ## Şaphane Kilisesi Mesudiye: Tarihi ve Kültürel Mirasın Bir Parçası

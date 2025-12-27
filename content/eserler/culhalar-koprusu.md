@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.1490326,37.6893005"
 draft: false
+
+weight: 100
 ---
 
 ## Çulhalar Köprüsü: Aydın'ın Tarihi Mirası

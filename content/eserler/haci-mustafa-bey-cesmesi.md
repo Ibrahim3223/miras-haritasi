@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6069069,37.728817"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mustafa Bey Çeşmesi: Karacasu'nun Tarihî Bir Çeşmesi

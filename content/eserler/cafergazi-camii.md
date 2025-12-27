@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.4657249,40.7382431"
 draft: false
+
+weight: 100
 ---
 
 ## Cafergazi Camii Tanıtımı

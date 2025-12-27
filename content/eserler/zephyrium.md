@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.448145,42.012657"
 draft: false
+
+weight: 100
 ---
 
 ## Zephyrium: Antik Bir Liman Kenti

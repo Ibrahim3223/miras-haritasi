@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.386158,37.074881"
 draft: false
+
+weight: 1
 ---
 
 ### Zeugma Mozaik Müzesi

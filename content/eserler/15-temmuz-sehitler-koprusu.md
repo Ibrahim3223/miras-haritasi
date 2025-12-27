@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.034444444,41.045277777"
 draft: false
+
+weight: 10
 ---
 
 ## 15 Temmuz Şehitler Köprüsü

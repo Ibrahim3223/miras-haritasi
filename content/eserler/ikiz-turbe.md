@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8382683,37.4092293"
 draft: false
+
+weight: 100
 ---
 
 ## İkiz Türbe

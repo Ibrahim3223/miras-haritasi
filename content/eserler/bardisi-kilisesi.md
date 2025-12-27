@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.344777777,40.427472222"
 draft: false
+
+weight: 100
 ---
 
 ## Bardisi Kilisesi: Tarihi ve Mücevher

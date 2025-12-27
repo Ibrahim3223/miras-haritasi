@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.005388888,41.043666666"
 draft: false
+
+weight: 100
 ---
 
 ## Panayia Rum Ortodoks Kilisesi

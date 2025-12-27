@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.425067386,37.060270331"
 draft: false
+
+weight: 100
 ---
 
 ## Pedesa T29 Tümülüsü: Bodrum'un Gizli Anıtı

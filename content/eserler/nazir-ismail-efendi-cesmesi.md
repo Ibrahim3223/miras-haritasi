@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979485,41.009888"
 draft: false
+
+weight: 100
 ---
 
 ## Nazır İsmail Efendi Çeşmesi: Cankurtaran'da Bir Örgü Çeşme

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015282,41.011921"
 draft: false
+
+weight: 100
 ---
 
 ## Daye Kadın Çeşmesi

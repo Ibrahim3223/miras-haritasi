@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7229633,40.4258804"
 draft: false
+
+weight: 100
 ---
 
 # Yakup Çelebi Türbesi

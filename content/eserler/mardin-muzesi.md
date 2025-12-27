@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.068055555,37.313611111"
 draft: false
+
+weight: 10
 ---
 
 # Mardin Müzesi

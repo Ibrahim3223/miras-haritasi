@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.7022,36.885494"
 draft: false
+
+weight: 10
 ---
 
 ## Antalya Oyuncak Müzesi

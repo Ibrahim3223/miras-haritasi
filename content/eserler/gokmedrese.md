@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.016727,39.744291"
 draft: false
+
+weight: 10
 ---
 
 ## Gökmedrese

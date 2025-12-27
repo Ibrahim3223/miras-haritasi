@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.094754,41.133976"
 draft: false
+
+weight: 10
 ---
 
 ## Beykoz Surp Nigoğayos Kilisesi

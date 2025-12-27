@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.74527778,37.00388889"
 draft: false
+
+weight: 10
 ---
 
 ### Sirkeli Höyük: Adana'nın Eski Kenti

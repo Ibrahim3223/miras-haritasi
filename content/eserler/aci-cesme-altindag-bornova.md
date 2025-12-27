@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2036228,38.4168053"
 draft: false
+
+weight: 100
 ---
 
 ### Acı Çeşme - Bornova, İzmir

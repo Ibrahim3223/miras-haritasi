@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.05345,41.08265"
 draft: false
+
+weight: 10
 ---
 
 ### Aşiyan Müzesi

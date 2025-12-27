@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0821493,41.1067756"
 draft: false
+
+weight: 100
 ---
 
 ## Çubuklu Merkez Halil Ağa Camii

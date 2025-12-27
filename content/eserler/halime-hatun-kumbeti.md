@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.11725,38.310638888"
 draft: false
+
+weight: 10
 ---
 
 ## Halime Hatun Kümbeti: Van'ın Gizli Cenneti

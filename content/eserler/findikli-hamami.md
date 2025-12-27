@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.989955,41.031901"
 draft: false
+
+weight: 100
 ---
 
 ## Fındıklı Hamamı: Beyoğlu'ndaki Tarihi Bir Hamam

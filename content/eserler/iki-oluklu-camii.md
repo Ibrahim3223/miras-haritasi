@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2562752,37.8567009"
 draft: false
+
+weight: 100
 ---
 
 ## İki Oluklu Camii: Kuşadası'nın Gizli Cenneti

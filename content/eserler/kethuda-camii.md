@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.049503431,40.971483887"
 draft: false
+
+weight: 100
 ---
 
 ### Kethuda Camii Tanıtımı

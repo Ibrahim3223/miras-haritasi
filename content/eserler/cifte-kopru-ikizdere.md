@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.578817,40.66185"
 draft: false
+
+weight: 100
 ---
 
 ## Çifte Köprü İkizdere: Rize'nin Tarihi Bir Mirası

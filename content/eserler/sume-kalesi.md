@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.1613884,40.6933327"
 draft: false
+
+weight: 100
 ---
 
 ## Süme Kalesi: Gümüşhane'nin Gizli Öztürlü

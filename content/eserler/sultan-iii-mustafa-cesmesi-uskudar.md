@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.009090385,41.024623044"
 draft: false
+
+weight: 10
 ---
 
 ## Sultan III. Mustafa Çeşmesi, Üsküdar

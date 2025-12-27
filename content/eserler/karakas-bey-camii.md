@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.221459257,41.734403854"
 draft: false
+
+weight: 10
 ---
 
 ## Karakaş Bey Camii

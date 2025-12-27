@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.943091,41.018756"
 draft: false
+
+weight: 100
 ---
 
 ## Neccar Mehmet Efendi Türbesi

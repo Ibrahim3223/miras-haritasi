@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.3618736,37.349179"
 draft: false
+
+weight: 100
 ---
 
 **Derbe Höyüğü: Karaman'ın Gizli Kahramanı**

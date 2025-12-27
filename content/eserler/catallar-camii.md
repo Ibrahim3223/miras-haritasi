@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.869408,37.12847"
 draft: false
+
+weight: 100
 ---
 
 ## Çatallar Camii: Serik'in Gizli Çehresini Keşfedin

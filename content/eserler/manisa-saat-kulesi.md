@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.430194444,38.608416666"
 draft: false
+
+weight: 10
 ---
 
 ## Manisa Saat Kulesi: Tarihi ve Kültürel Mirasın Bir Parçası

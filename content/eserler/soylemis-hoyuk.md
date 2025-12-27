@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.61195,40.232783"
 draft: false
+
+weight: 100
 ---
 
 **Söylemiş Höyük: Bursa'nın Gizli Mirası**

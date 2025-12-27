@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4893608,37.8762093"
 draft: false
+
+weight: 100
 ---
 
 ## Tacül Vezir Türbesi

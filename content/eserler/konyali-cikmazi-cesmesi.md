@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17808889,39.12371667"
 draft: false
+
+weight: 10
 ---
 
 # Konyalı Çıkmazı Çeşmesi

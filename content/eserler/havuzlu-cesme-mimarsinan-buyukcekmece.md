@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.5600014,41.0148773"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Çeşme, Mimarsinan (Büyükçekmece)

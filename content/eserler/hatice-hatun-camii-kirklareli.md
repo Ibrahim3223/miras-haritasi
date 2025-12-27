@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2282104,41.7354584"
 draft: false
+
+weight: 100
 ---
 
 ## Hatice Hatun Camii, Kırklareli

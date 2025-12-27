@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9516487,41.0138779"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Halife Sıbyan Mektebi Çeşmesi

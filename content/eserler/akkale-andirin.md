@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.3667946,37.548378"
 draft: false
+
+weight: 100
 ---
 
 **Akkale, Andırın: Kahramanmaraş'ın Gizli Güzelliği**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Çorba Çeşmesi: Ankara'nın Tarihi ve Kültürel Miraslarından Bir Örnek

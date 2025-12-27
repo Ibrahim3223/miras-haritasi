@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.118584,41.083292"
 draft: false
+
+weight: 100
 ---
 
 ## Kapkirli Tarihi Hamam: Akçakoca'da Bir Geçmişe Dokunan Eser

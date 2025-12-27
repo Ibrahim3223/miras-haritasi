@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.27782,39.68351"
 draft: false
+
+weight: 100
 ---
 
 ## Ulu Sultan Türbesi

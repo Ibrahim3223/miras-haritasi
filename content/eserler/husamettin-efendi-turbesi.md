@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.4163208,37.1032181"
 draft: false
+
+weight: 100
 ---
 
 # Hüsamettin Efendi Türbesi: Muğla'nın Gizli Çeşmesi

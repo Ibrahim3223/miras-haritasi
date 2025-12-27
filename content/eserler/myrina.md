@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.98444444,38.84527778"
 draft: false
+
+weight: 10
 ---
 
 ## Myrina Arkeolojik Sit

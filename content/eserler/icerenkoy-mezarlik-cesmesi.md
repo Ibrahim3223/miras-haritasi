@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.108484,40.969181"
 draft: false
+
+weight: 10
 ---
 
 ## İçerenköy Mezarlık Çeşmesi

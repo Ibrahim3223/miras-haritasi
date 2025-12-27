@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.5544147,38.7457314"
 draft: false
+
+weight: 100
 ---
 
 ### Umur Bey Medresesi

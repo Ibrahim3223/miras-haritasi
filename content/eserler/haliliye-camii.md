@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.3168907,37.7564735"
 draft: false
+
+weight: 100
 ---
 
 ## Haliliye Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası

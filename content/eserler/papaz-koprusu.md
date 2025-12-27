@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.80854,41.028332"
 draft: false
+
+weight: 10
 ---
 
 ### Papaz Köprüsü: İstanbul'un Gizli Cenneti

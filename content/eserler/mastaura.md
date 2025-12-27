@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.341756,37.956332"
 draft: false
+
+weight: 10
 ---
 
 ## Mastaura: Aydın'ın Gizli Arkeolojik Mirası

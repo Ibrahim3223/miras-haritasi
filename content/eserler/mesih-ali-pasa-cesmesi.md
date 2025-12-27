@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.943572,41.021591"
 draft: false
+
+weight: 10
 ---
 
 ## Mesih Ali Paşa Çeşmesi: Fatih'teki Bir Çeşme Eseri

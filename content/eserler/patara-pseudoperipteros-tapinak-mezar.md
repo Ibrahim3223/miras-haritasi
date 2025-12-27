@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3111992,36.2666359"
 draft: false
+
+weight: 100
 ---
 
 ## Patara Pseudoperipteros Tapınak Mezar

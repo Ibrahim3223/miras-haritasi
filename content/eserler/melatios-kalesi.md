@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.827931,40.412697"
 draft: false
+
+weight: 100
 ---
 
 ### Melatıos Kalesi

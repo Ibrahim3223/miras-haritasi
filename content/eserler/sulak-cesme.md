@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.99106,41.035679"
 draft: false
+
+weight: 10
 ---
 
 ## Sulak Çeşme: Beyoğlu'ndaki Bir Kültür Mirası

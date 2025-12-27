@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.777183,41.032433"
 draft: false
+
+weight: 100
 ---
 
 ## Madenli Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

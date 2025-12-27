@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.126944444,38.413333333"
 draft: false
+
+weight: 10
 ---
 
 ### Ümran Baradan Oyun ve Oyuncak Müzesi

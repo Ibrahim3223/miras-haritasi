@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.983112,41.010967"
 draft: false
+
+weight: 1
 ---
 
 ### Topkapı Sarayı Cellat Çeşmesi

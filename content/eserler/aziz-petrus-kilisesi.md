@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.178055555,36.209361111"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Petrus Kilisesi: Antakya'nın Tarihî Mirası

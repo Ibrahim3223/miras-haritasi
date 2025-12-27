@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Değirmendere Köprüsü: Tarih ve Mimari Harikası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.634764,38.740699"
 draft: false
+
+weight: 10
 ---
 
 ## Karşı Kilise: Nevşehir'in Gizli Cenneti

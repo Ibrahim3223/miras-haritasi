@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.982277777,41.06675"
 draft: false
+
+weight: 100
 ---
 
 ## Tikmanet Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5683632,41.6725502"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Çelebi Camii: Edirne'nin Gizli Çehresini Keşfetmek

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9583,41.011"
 draft: false
+
+weight: 10
 ---
 
 ## Balaban Ağa Camii: Fatih'te Bir Önemli Kültür Mirası

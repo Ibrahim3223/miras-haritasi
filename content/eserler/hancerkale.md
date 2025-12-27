@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.98333333,36.51666667"
 draft: false
+
+weight: 10
 ---
 
 ## Hançerkale: Mersin'in Gizli Cenneti

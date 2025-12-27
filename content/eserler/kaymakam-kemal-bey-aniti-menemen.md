@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.0640182,38.608387"
 draft: false
+
+weight: 100
 ---
 
 ## Kaymakam Kemal Bey Anıtı: Menemen'in Tarihî Mirası

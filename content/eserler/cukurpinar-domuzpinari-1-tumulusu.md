@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4419174,41.8457413"
 draft: false
+
+weight: 100
 ---
 
 **Çukurpınar Domuzpınarı 1 Tümülüsü: Kırklareli'nin Gizli Değerleri**

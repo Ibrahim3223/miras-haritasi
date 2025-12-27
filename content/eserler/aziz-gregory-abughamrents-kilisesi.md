@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.569,40.5074"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Gregory Abughamrents Kilisesi: Ani'deki Bir Hazine

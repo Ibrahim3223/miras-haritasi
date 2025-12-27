@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.7521755,38.8624604"
 draft: false
+
+weight: 100
 ---
 
 ### İscehisar Höyüğü: Tarihin Eski Kenti

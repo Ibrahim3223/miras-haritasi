@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.2170296,38.4608612"
 draft: false
+
+weight: 10
 ---
 
 ## Ege Üniversitesi Etnografya Müzesi

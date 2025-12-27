@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.074611111,40.182194444"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşil Camii: Bursa'nın Tarihî ve Kültürel Mirası

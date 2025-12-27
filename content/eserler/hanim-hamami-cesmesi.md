@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.275032,39.9075203"
 draft: false
+
+weight: 100
 ---
 
 ## Hanım Hamamı Çeşmesi

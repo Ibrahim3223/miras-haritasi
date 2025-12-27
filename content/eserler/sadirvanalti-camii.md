@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.135111111,38.421166666"
 draft: false
+
+weight: 10
 ---
 
 ## Şadırvanaltı Camii

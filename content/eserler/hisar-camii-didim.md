@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.256,37.385944444"
 draft: false
+
+weight: 10
 ---
 
 ### Hisar Camii (Didim): Bir Önemli Kültür Mirası

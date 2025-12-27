@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9756,41.0106"
 draft: false
+
+weight: 10
 ---
 
 ## Cağaloğlu Hamamı: İstanbul'un Tarihi Bir Mirası

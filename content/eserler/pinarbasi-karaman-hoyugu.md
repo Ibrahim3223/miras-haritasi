@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.0192,37.4939"
 draft: false
+
+weight: 100
 ---
 
 **Pınarbaşı, Karaman Höyüğü: Konya'nın Gizli Tarihî Mirası**

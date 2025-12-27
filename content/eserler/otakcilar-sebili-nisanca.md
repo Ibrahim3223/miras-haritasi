@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.931999505,41.039149926"
 draft: false
+
+weight: 100
 ---
 
 # Otakçılar Sebili: Eyüpsultan'ın Tarihi Bir Çeşmesi

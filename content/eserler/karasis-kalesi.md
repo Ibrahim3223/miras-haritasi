@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.8655128,37.5532303"
 draft: false
+
+weight: 100
 ---
 
 ## Karasis Kalesi: Adana'nın Gizli Çarpıntısı

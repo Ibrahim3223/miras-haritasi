@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.23671,37.916215"
 draft: false
+
+weight: 10
 ---
 
 ### Dağ Kapı: Diyarbakır'ın Tarihî Mirası

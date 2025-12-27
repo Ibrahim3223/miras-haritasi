@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.3377991,40.5245628"
 draft: false
+
+weight: 100
 ---
 
 ### Övündü Köyü Kalesi

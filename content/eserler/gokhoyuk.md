@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.568771362,37.019001724"
 draft: false
+
+weight: 100
 ---
 
 ### Gökhöyük: Antik Bir Uygarlığın İzleri

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.5911,41.0367"
 draft: false
+
+weight: 10
 ---
 
 ### Bolaman Kalesi: Fatsa'nın Tarihî Bir Şansı

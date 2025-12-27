@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.057666666,40.186777777"
 draft: false
+
+weight: 10
 ---
 
 ## Orhan Gazi Türbesi: Bursa'nın Önemli Tarihi Eserleri Arasında

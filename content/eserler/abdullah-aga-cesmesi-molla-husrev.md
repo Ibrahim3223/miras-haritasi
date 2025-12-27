@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.96122,41.015112"
 draft: false
+
+weight: 100
 ---
 
 ## Abdullah Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "39.479229,40.4395218"
 draft: false
+
+weight: 100
 ---
 
 # Hudra Manastırı

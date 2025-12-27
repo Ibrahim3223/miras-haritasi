@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3462639,37.7989616"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme, Esenköy: Aydın'ın Gizli Cenneti

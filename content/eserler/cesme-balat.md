@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9483356,41.0258942"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Balat: İstanbul'un Eski Mahallesinde Gizli Bir Cennet

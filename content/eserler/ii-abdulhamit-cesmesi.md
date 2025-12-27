@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.994083333,41.045"
 draft: false
+
+weight: 10
 ---
 
 ## II. Abdülhamit Çeşmesi

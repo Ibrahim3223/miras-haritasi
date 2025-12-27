@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.229777777,38.460611111"
 draft: false
+
+weight: 10
 ---
 
 # Bilal Saygılı Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9468,41.03458"
 draft: false
+
+weight: 10
 ---
 
 ## Yusuf Şucaeddin Camii

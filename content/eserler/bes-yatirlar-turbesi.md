@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.776728,39.226466"
 draft: false
+
+weight: 100
 ---
 
 ## Beş Yatırlar Türbesi

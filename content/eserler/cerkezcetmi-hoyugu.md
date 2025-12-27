@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1746407,39.8849411"
 draft: false
+
+weight: 100
 ---
 
 ## Çerkezçetmi Höyüğü: Bozüyük'teki Bir Çağlarca Miras

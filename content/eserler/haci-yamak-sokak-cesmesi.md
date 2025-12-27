@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18090556,39.120975"
 draft: false
+
+weight: 10
 ---
 
 # Hacı Yamak Sokak Çeşmesi

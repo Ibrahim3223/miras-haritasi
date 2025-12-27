@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.239694444,37.912222222"
 draft: false
+
+weight: 100
 ---
 
 # Çardaklı Hamamı

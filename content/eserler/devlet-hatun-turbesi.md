@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0757668,40.183863"
 draft: false
+
+weight: 10
 ---
 
 # Devlet Hatun Türbesi

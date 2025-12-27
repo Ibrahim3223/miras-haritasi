@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.116577,40.877045"
 draft: false
+
+weight: 100
 ---
 
 ## Üstündal Mahallesi Kilisesi: Sürmene'nin Gizli Mücevheri

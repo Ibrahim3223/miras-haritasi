@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3668079,37.9477463"
 draft: false
+
+weight: 100
 ---
 
 ### Selçuk'taki Çeşme

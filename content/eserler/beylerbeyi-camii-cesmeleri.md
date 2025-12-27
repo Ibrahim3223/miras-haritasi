@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.046268,41.0448428"
 draft: false
+
+weight: 100
 ---
 
 ## Beylerbeyi Camii Çeşmeleri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9352455,41.0480881"
 draft: false
+
+weight: 10
 ---
 
 ## Posta ve Telgraf Nazırı İzzet Efendi Türbesi

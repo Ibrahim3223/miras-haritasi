@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.974068,41.036911"
 draft: false
+
+weight: 10
 ---
 
 ## Kıblelizade Mehmet Çeşmesi: Beyoğlu'ndaki Bir Örgü Çeşme

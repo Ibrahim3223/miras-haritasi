@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2752113,39.9110527"
 draft: false
+
+weight: 100
 ---
 
 ## Hacılar Hanı Çeşmesi: Yakutiye'nin Gizemli Abidesi

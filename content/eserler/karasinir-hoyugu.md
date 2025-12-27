@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.7299908,37.2922439"
 draft: false
+
+weight: 100
 ---
 
 ## Karasınır Höyüğü: Konya'nın Gizli Kırmızı Taşlı Mirası

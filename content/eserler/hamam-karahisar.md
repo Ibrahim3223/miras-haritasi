@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.7239,39.442317"
 draft: false
+
+weight: 100
 ---
 
 **Hamam Karahisar: Sivrihisar'ın Gizli Cenneti**

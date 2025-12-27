@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.986542127,41.00976706"
 draft: false
+
+weight: 100
 ---
 
 ### Mangana Sarayı

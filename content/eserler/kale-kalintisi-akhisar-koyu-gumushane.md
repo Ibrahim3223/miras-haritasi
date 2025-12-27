@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.83976,40.437268"
 draft: false
+
+weight: 100
 ---
 
 ## Kale Kalıntısı, Akhisar Köyü, Gümüşhane: Tarihî Bir Mirasın İzleri

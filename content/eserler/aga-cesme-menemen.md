@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.0639019,38.6073341"
 draft: false
+
+weight: 100
 ---
 
 ## Ağa Çeşme, Menemen: Bir Çağdaş Örnek

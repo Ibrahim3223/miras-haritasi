@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.053704,41.099116"
 draft: false
+
+weight: 10
 ---
 
 ## Sakıp Sabancı Müzesi

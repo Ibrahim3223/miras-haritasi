@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.0371494,39.9060402"
 draft: false
+
+weight: 100
 ---
 
 ### Kasım Paşa Camii, Bozüyük

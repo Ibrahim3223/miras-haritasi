@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.274005796,40.747814071"
 draft: false
+
+weight: 100
 ---
 
 ## Rumi Hâce Dede Sultan Türbesi

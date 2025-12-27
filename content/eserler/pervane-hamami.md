@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.5515622,40.3171638"
 draft: false
+
+weight: 100
 ---
 
 ### Pervane Hamamı

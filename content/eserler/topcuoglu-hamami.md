@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "43.0889771,40.610623"
 draft: false
+
+weight: 10
 ---
 
 ## Topçuoğlu Hamamı: Kars'ta Bir Kültür Mirası

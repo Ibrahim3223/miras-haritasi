@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.8406181,37.5228539"
 draft: false
+
+weight: 100
 ---
 
 ### Çemka Höyük

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7156601,41.0045586"
 draft: false
+
+weight: 10
 ---
 
 ## Seyyidi Hacı Mehmet Çeşmesi

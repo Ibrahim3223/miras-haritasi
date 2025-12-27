@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6920853,37.353756"
 draft: false
+
+weight: 100
 ---
 
 ## Meydan Çeşmesi – Köşk: Milas'ın Tarihi Bir Çeşmesi

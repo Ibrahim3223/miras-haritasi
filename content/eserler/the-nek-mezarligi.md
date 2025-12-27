@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.29035,40.24233"
 draft: false
+
+weight: 10
 ---
 
 ## The Nek Mezarlığı: Eceabat'ta Bir Savaşın Anıtı

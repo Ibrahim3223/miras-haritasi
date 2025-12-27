@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.026808738,41.047330729"
 draft: false
+
+weight: 10
 ---
 
 ## Ortaköy Camii: Beşiktaş'taki Bir Tarihi Çeşme

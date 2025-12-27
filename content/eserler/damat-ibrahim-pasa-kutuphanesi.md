@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9581642,41.0132828"
 draft: false
+
+weight: 100
 ---
 
 ## Damat İbrahim Paşa Kütüphanesi

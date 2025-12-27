@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.396717,38.08695"
 draft: false
+
+weight: 100
 ---
 
 # Tepeköylü Tarlası: İzmir'in Gizli Arkeolojik Öncül Sit Alanı

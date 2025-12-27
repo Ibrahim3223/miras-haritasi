@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.9076881,39.4711876"
 draft: false
+
+weight: 100
 ---
 
 ## Hatun Köprüsü: Pülümür'un Eski Bir Mirası

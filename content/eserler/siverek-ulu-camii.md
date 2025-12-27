@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.319111111,37.75325"
 draft: false
+
+weight: 100
 ---
 
 ### Siverek Ulu Camii

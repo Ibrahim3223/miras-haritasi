@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.389263,40.213398"
 draft: false
+
+weight: 100
 ---
 
 ### Bigalı Kalesi: Eceabat'ta Gizli Bir Geçmişi

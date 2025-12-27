@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.717071322,39.475185251"
 draft: false
+
+weight: 100
 ---
 
 ### Kazıluşağı Höyük: Şefaatli'nin Gizli Hazineleri

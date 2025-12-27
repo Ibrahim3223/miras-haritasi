@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.22144675,36.52732068"
 draft: false
+
+weight: 100
 ---
 
 ## Akalissus Arkeolojik Siti

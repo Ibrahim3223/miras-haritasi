@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.93806993,41.024343832"
 draft: false
+
+weight: 10
 ---
 
 **Öküz Mehmed Paşa Camii**

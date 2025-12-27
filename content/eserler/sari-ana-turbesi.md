@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.277629,36.858939"
 draft: false
+
+weight: 100
 ---
 
 ### Sarı Ana Türbesi

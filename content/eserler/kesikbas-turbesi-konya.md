@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4943962,37.8793983"
 draft: false
+
+weight: 100
 ---
 
 ## Kesikbaş Türbesi, Konya

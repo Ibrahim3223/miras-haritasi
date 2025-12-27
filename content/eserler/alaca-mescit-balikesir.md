@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.883585,39.648098"
 draft: false
+
+weight: 100
 ---
 
 # Alaca Mescit, Balıkesir

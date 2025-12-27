@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.606582,36.842932"
 draft: false
+
+weight: 100
 ---
 
 ## Göveloğlu Kalesi: Adana'nın Gizli Kahramanı

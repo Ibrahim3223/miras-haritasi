@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0392933,40.9843636"
 draft: false
+
+weight: 10
 ---
 
 ## Vecihi Hürkuş Anıtı: Kadıköy'ün Onuruna Bir Anıt

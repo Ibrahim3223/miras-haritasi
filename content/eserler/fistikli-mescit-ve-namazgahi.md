@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0482635,41.0338211"
 draft: false
+
+weight: 100
 ---
 
 ### Fıstıklı Mescit ve Namazgahı

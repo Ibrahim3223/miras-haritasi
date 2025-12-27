@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0277653,41.9677925"
 draft: false
+
+weight: 100
 ---
 
 ## Beğendik Gümrük Sırtı Tümülüsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4905,38.00215"
 draft: false
+
+weight: 100
 ---
 
 ## Halkapınar: İzmir'in Tarihi Bir Arkeolojik Sitesi

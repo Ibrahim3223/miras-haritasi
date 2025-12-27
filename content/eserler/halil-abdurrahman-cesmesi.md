@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944375,41.030654"
 draft: false
+
+weight: 100
 ---
 
 ## Halil Abdurrahman Çeşmesi: Fatih, İstanbul'un Gizli Çeşmesi

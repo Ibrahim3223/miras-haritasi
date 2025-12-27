@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9780445,41.0244446"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Elia Kilisesi: Beyoğlu'ndaki Bir Tarihsel Çanak

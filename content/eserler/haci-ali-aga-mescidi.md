@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.9325333,38.935112"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ali Ağa Mescidi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.3140068,36.2637367"
 draft: false
+
+weight: 100
 ---
 
 ## Patara Bizans Kalesi: Kaş'ın Tarihi Mirası

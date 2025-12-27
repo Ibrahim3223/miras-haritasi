@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9415,41.049027777"
 draft: false
+
+weight: 10
 ---
 
 ### Çavuşbaşı Camii: İstanbul'un Gizli Cenneti

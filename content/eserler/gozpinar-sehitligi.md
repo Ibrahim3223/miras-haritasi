@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8041,37.9140282"
 draft: false
+
+weight: 100
 ---
 
 ## Gözpınar Şehitliği: Aydın'ın Anıtsal Mirası

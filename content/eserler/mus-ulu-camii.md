@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.487972222,38.730111111"
 draft: false
+
+weight: 10
 ---
 
 ### Muş Ulu Camii: Bir Tarihî Mirasın Anlatısı

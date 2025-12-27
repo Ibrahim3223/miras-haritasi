@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4210911,38.6129036"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Paşa Çeşmesi

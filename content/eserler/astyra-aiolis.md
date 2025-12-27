@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.178235,39.560183"
 draft: false
+
+weight: 100
 ---
 
 ## Astyra (Aiolis): Antik Çağın Gizemi

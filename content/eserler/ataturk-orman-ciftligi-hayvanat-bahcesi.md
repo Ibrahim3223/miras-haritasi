@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.79176,39.946488"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Orman Çiftliği Hayvanat Bahçesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.6088486,40.7283897"
 draft: false
+
+weight: 100
 ---
 
 ### Gebe Kilisesi

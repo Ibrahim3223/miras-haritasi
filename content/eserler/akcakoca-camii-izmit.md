@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9210472,40.7670097"
 draft: false
+
+weight: 100
 ---
 
 ## Akçakoca Camii: İzmit'in Tarihi Bir Mirası

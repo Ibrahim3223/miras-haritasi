@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.047899211,41.024875314"
 draft: false
+
+weight: 10
 ---
 
 ## Hazreti Ali Camii

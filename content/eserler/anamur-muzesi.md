@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.865833333,36.07"
 draft: false
+
+weight: 100
 ---
 
 ### Anamur Müzesi: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası

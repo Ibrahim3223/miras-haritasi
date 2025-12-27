@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0837021,40.1807785"
 draft: false
+
+weight: 10
 ---
 
 ## Zeyniler Camii

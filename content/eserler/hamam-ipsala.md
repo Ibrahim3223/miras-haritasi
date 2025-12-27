@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.3845177,40.9235458"
 draft: false
+
+weight: 100
 ---
 
 ## İpsala Hamamı: Bir Tarihî Yapının Geri Baksışı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4988403,37.8751297"
 draft: false
+
+weight: 100
 ---
 
 ## Tercüman Mahallesi Çifte Çeşmesi: Konya'da Bir Mirasın Gizemi

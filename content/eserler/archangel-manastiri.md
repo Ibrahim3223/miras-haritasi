@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "34.94239211,38.514392687"
 draft: false
+
+weight: 100
 ---
 
 ## Archangel Manastırı: Ürgüp'ün Gizli Çehresini Keşfetmek

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.272049,39.906395"
 draft: false
+
+weight: 10
 ---
 
 ## Yakutiye Medresesi: Erzurum'un Tarihi ve Kültürel Mirası

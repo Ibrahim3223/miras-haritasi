@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0579052,40.1855431"
 draft: false
+
+weight: 100
 ---
 
 ### Hisar Kapısı: Bursa'nın Tarihi Anıtı

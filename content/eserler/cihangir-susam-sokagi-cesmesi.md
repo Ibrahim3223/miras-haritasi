@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.986275,41.030571"
 draft: false
+
+weight: 10
 ---
 
 ### Cihangir Susam Sokağı Çeşmesi

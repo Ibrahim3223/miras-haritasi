@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.423674,40.288741"
 draft: false
+
+weight: 100
 ---
 
 # İstiklal Çeşmesi

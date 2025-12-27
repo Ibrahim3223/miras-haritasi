@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.95361111,41.04055556"
 draft: false
+
+weight: 10
 ---
 
 ## Maalem Sinagogu: İstanbul'un Gizli İncisi

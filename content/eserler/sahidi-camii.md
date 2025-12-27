@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.368027777,37.2205"
 draft: false
+
+weight: 10
 ---
 
 ## Şahidi Camii: Menteşe'nin Gizli Çehresinde Bir İhtişamlı Cami

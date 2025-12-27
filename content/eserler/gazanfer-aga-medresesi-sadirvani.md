@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9554234,41.016304"
 draft: false
+
+weight: 100
 ---
 
 ## Gazanfer Ağa Medresesi Şadırvanı

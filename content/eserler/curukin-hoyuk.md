@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.2954006,37.1367989"
 draft: false
+
+weight: 100
 ---
 
 ## Çürükin Höyük: Antalya'nın Gizli Cenneti

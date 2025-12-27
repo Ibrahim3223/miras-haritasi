@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.576,36.6005"
 draft: false
+
+weight: 100
 ---
 
 ## Yörük Parkı: Antalya'nın Göçmen Mirası

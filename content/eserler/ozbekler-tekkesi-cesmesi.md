@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0241413,41.0284615"
 draft: false
+
+weight: 10
 ---
 
 ## Özbekler Tekkesi Çeşmesi

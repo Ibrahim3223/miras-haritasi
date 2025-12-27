@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.7375546,37.1496607"
 draft: false
+
+weight: 100
 ---
 
 ## Tireras Höyük: Tarihi ve Kültürel Mirasının Gizemli Yerleşimi

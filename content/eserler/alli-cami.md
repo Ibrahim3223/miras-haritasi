@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.093523,37.7688217"
 draft: false
+
+weight: 100
 ---
 
 ## Allı Cami: Denizli'nin Tarihi ve Kültürel Mirasları Arasındaki Devasa Bir Ören

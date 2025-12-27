@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.965867,41.010791"
 draft: false
+
+weight: 10
 ---
 
 ## Beyazıt Devlet Kütüphanesi

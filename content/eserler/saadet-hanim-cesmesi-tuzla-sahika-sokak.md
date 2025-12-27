@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.3085041,40.8201485"
 draft: false
+
+weight: 10
 ---
 
 ## Saadet Hanım Çeşmesi: Tuzla'nın Gizli Çeşmesi

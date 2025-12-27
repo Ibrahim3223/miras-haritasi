@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.31,39.5"
 draft: false
+
+weight: 100
 ---
 
 ### Assos (Samian Ware Discovery Site)

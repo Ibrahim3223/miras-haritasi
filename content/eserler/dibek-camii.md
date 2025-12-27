@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9435921,41.0181999"
 draft: false
+
+weight: 100
 ---
 
 ### Dibek Camii: Fatih'teki Bir Kültürel Miras

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.319078,36.356258"
 draft: false
+
+weight: 100
 ---
 
 ### Xanthos Roma Hamamı: Kaş'taki Tarihî Bir Miras

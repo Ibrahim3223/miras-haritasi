@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9501839,41.0187874"
 draft: false
+
+weight: 10
 ---
 
 ## Çorbacı Kapısı, Fatih Külliyesi: İstanbul'un Tarihi Bir Zenginliği

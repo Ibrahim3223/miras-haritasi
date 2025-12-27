@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.1482773,42.0243607"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ömer Camii, Sinop

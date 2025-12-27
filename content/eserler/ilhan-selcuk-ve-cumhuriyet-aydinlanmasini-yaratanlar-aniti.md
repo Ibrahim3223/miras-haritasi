@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.027638888,41.075583333"
 draft: false
+
+weight: 10
 ---
 
 ### İlhan Selçuk ve Cumhuriyet Aydınlanmasını Yaratanlar Anıtı

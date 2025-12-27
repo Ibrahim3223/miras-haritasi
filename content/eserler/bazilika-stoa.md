@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34442874,37.936736478"
 draft: false
+
+weight: 10
 ---
 
 ### Bazilika Stoa: Tarihî Bir Şehrin Gizli Cenneti

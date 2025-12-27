@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6318245,39.7286785"
 draft: false
+
+weight: 100
 ---
 
 ## İğdecik Höyük: Yozgat'ın Gizli Tarihî Cenneti

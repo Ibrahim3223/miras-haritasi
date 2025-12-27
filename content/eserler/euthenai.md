@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.255,36.932"
 draft: false
+
+weight: 100
 ---
 
 ### Euthenai: Muğla'nın Gizli Cenneti 

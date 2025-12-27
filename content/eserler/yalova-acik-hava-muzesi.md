@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Yalova Açık Hava Müzesi: Yalova'nın Tarihî Eserlerinden Bir Diğer

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.25361111,37.29555556"
 draft: false
+
+weight: 10
 ---
 
 ## Karatepe-Arslantaş: Tarihî Bir Köy

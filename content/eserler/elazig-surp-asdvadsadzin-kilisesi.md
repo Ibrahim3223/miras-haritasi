@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.173,38.572638888"
 draft: false
+
+weight: 10
 ---
 
 ## Elazığ Surp Asdvadsadzin Kilisesi: Bir Geçmişin İzleri

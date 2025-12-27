@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.658522,37.926007"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Demirel Demokrasi ve Kalkınma Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.8921394,40.9452858"
 draft: false
+
+weight: 100
 ---
 
 ## Eskipazar Camii: Tarihi ve Kültürel Mirasımız

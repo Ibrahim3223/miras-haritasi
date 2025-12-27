@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0499763,40.1853409"
 draft: false
+
+weight: 10
 ---
 
 ## Alaeddin Paşa Camii Çeşmesi

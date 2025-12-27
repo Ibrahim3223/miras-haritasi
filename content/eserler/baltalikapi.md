@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7855206,37.3162498"
 draft: false
+
+weight: 10
 ---
 
 ## Baltalıkapı: Milas'ın Gizemli Arkeolojik Sitesi

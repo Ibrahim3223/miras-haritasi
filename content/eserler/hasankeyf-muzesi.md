@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Hasankeyf Müzesi: Tarih ve Kültür Mirasının Gizli Hazineleri

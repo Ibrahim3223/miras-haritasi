@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5425892,41.2996902"
 draft: false
+
+weight: 10
 ---
 
 ## Cağaloğlu Rüstem Paşa Camii

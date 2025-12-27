@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5755,37.2"
 draft: false
+
+weight: 10
 ---
 
 ## Bargylia

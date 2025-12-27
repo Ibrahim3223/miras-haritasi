@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9286,41.0034"
 draft: false
+
+weight: 10
 ---
 
 # Kocamustafapaşa Sümbül Efendi Camii

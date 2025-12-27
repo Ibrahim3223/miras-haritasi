@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.067273,41.10074"
 draft: false
+
+weight: 100
 ---
 
 ## Orta Çeşme, Kanlıca

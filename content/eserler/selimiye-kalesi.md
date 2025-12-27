@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.1020985,36.7014961"
 draft: false
+
+weight: 100
 ---
 
 ## Selimiye Kalesi: Marmaris'in Tarihi ve Güzel Bir İmgesi 

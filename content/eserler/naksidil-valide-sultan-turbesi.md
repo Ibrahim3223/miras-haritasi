@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9508591,41.0181923"
 draft: false
+
+weight: 10
 ---
 
 ## Nakşidil Valide Sultan Türbesi: İstanbul'un Gizli Çehresinde Bir Anıt

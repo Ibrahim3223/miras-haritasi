@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.2933006,41.3685989"
 draft: false
+
+weight: 100
 ---
 
 # Dutlu Roma Köprüsü

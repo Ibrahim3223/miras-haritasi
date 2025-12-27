@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9471912,41.0116463"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Ağa Çeşmesi: Molla Gürani'nin Yüzyıllar Önce Mimarlık Harikası

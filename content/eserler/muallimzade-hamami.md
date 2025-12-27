@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0847569,40.1825981"
 draft: false
+
+weight: 10
 ---
 
 # Muallimzade Hamamı: Bursa'nın Yıldırım Mahallesi'ndeki Tarihi Bir Miras

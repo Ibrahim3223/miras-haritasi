@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8639145,41.3709183"
 draft: false
+
+weight: 100
 ---
 
 # Karlı Cami: Tekirdağ'ın Gizli Cenneti

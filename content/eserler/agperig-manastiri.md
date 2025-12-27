@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.598077,38.578456"
 draft: false
+
+weight: 10
 ---
 
 ### Ağperig Manastırı

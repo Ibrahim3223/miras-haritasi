@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9719429,41.0163498"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Cami Kütüphanesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.021835,38.572792"
 draft: false
+
+weight: 100
 ---
 
 **Bin Tepeler Tümülüsü 14**

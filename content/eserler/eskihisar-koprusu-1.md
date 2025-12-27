@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.136694,37.8927536"
 draft: false
+
+weight: 100
 ---
 
 ## Eskihisar Köprüsü: Aydın'ın Tarihi Çandırı

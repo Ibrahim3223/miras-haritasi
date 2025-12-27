@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0430965,41.0428123"
 draft: false
+
+weight: 100
 ---
 
 ### Istavroz Hamamı: Üsküdar'ın Tarihi ve Kültürel Mirası

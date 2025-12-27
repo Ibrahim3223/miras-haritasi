@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.696111111,41.003333333"
 draft: false
+
+weight: 1
 ---
 
 ### Ayasofya Camii: Tarihî ve Kültürel Bir Miras

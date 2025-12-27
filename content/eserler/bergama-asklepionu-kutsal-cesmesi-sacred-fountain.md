@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ### Bergama Asklepionu Kutsal Çeşmesi (Sacred Fountain)

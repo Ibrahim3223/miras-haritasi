@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.780083333,37.317888888"
 draft: false
+
+weight: 10
 ---
 
 ### Firuzbey Camii Tanıtımı

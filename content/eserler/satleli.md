@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.327324,41.259293"
 draft: false
+
+weight: 10
 ---
 
 # Satleli Kale

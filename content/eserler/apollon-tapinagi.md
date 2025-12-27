@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.3864193,36.7642837"
 draft: false
+
+weight: 10
 ---
 
 ## Apollon Tapınağı: Side'de Gizemli Bir Miras

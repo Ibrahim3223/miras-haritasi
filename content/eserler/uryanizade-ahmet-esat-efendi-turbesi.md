@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934207,41.047489"
 draft: false
+
+weight: 100
 ---
 
 ## Üryanizade Ahmet Esat Efendi Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Sahib Ata Camii: Bir Osmanlı Dönemi Mirası

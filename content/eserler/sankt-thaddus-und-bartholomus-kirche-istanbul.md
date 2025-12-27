@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.95144,41.00329"
 draft: false
+
+weight: 10
 ---
 
 ## Sankt Thaddäus und Bartholomäus Kilisesi

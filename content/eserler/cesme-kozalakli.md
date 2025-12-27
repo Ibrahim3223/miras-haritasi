@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.9941006,37.7921982"
 draft: false
+
+weight: 100
 ---
 
 ### Kozalaklı Çeşme: Aydın'ın Tarihi ve Kültürel Mirası

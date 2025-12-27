@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5165215,37.8743286"
 draft: false
+
+weight: 100
 ---
 
 ### Eskici Hacı Osman Ağa Camii Çeşmesi

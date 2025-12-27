@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.773230856,41.375287433"
 draft: false
+
+weight: 100
 ---
 
 ## Hepkebirler Çeşmesi: Kastamonu'da Bir Altın Değer

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1064682,41.2142677"
 draft: false
+
+weight: 100
 ---
 
 ## Güzelce Hasan Bey Hamamı: Hayrabolu'nun Yüzyıllar Öncesi Tarihsel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7353497,38.0861588"
 draft: false
+
+weight: 100
 ---
 
 ### Tahtakale Camii: Tarihi ve Mimari Özellikleri

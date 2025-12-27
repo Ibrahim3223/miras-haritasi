@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5350132,38.7580643"
 draft: false
+
+weight: 100
 ---
 
 ## Burmalı Camii

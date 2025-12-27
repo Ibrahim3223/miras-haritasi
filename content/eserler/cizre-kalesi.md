@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.192779996,37.328909801"
 draft: false
+
+weight: 10
 ---
 
 **Cizre Kalesi**

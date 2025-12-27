@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.51018,41.02756"
 draft: false
+
+weight: 10
 ---
 
 # Rize Kalesi

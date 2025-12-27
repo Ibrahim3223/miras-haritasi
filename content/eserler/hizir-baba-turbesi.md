@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8356,40.6546"
 draft: false
+
+weight: 100
 ---
 
 **Hızır Baba Türbesi: Amasya'nın Efsanevi Anıtı**

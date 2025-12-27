@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5751858,39.1530724"
 draft: false
+
+weight: 100
 ---
 
 ## Bahşeyiş Anıtı

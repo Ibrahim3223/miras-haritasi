@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9263973,40.7691841"
 draft: false
+
+weight: 100
 ---
 
 ## Kertil Tekke Çeşmesi

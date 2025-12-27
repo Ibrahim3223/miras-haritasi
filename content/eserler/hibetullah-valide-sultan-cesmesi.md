@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.014128,41.013229"
 draft: false
+
+weight: 10
 ---
 
 ## Hibetullah Valide Sultan Çeşmesi

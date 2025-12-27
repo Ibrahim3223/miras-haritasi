@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Müzesi

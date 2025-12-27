@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Maximianupolis: Eski Roma'nın Gizli Mirası

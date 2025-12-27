@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9589361,38.955496"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Bezirganlı Höyük: Aksaray'ın Gizli Mirası

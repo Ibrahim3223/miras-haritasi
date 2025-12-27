@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.943922,41.0272827"
 draft: false
+
+weight: 100
 ---
 
 ## Dolaplı Bostan Sokağı Çeşmesi

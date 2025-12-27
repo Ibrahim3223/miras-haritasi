@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.886434,38.279279"
 draft: false
+
+weight: 100
 ---
 
 ## Handevi ve Kandevi Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7042007,38.3644981"
 draft: false
+
+weight: 100
 ---
 
 ## Çamaşırhane Çeşmesi: Urla'nın Tarihi Bir Çeşmesi

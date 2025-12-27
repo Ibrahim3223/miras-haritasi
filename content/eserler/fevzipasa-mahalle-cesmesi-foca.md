@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7554703,38.6682549"
 draft: false
+
+weight: 100
 ---
 
 ## Fevzipaşa Mahalle Çeşmesi, Foça

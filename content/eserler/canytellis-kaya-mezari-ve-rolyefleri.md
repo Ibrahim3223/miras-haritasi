@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.1740723,36.5233078"
 draft: false
+
+weight: 100
 ---
 
 ### Canytellis Kaya Mezarı ve Rölyefleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.723611111,37.708333333"
 draft: false
+
+weight: 10
 ---
 
 ### Afrodisias: Antik Kentin Gizli Mirası

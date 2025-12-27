@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.7724094,40.991291"
 draft: false
+
+weight: 10
 ---
 
 ## Abdüsselam Çelebi Türbesi: Küçükçekmece'nin Gizli Çeşmesi

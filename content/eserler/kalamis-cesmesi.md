@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2042999,40.6661987"
 draft: false
+
+weight: 100
 ---
 
 ## Kalamış Çeşmesi: Şarköy'ün Tarihi ve Güzel Çeşmesi

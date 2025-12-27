@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.951519,41.028868"
 draft: false
+
+weight: 100
 ---
 
 ## Abdi Subaşı Camii

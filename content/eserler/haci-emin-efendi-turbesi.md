@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.691804,41.247046"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Emin Efendi Türbesi

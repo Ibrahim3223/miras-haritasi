@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.686388888,40.236111111"
 draft: false
+
+weight: 100
 ---
 
 ## Palaiperkote Arkeolojik Sit

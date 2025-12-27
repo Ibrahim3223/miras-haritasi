@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.18127,39.123302"
 draft: false
+
+weight: 10
 ---
 
 # Tabak Köprüsü: Bergama'nın Tarihi ve Kültürel Mirası

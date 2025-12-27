@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.34355522,37.060071943"
 draft: false
+
+weight: 100
 ---
 
 ## Batalhöyük: Türkiye'nin Gizli Hazineleri

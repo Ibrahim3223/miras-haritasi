@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0245171,41.052227"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Krikor Lusavoriç Ermeni Katolik Kilisesi

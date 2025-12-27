@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.60849,37.93292"
 draft: false
+
+weight: 10
 ---
 
 **Cendere Köprüsü: Tarihî Bir Yapıtın Gizemi**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6942825,41.2440872"
 draft: false
+
+weight: 10
 ---
 
 ## Kaymakam Pınarı Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

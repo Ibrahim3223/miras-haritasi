@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.08823,39.406277"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Tecer: Sivas'ta Geçmişin Gizemi

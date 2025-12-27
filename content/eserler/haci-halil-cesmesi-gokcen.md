@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8729,38.1106987"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Halil Çeşmesi: Gökçen, Tire'nin Yüzyıllar Önceki Kuytu Çeşmesi

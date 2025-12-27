@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.741676,37.314478"
 draft: false
+
+weight: 100
 ---
 
 # Tumbağa Çeşmesi: Mardin'in Tarihi ve Kültürel Bir Mirası

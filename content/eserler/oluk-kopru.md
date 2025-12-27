@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.18107,37.19201"
 draft: false
+
+weight: 10
 ---
 
 ## Oluk Köprü: Antalya'nın Eski Bir Zirve

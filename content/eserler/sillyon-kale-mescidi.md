@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.987135944,36.992923917"
 draft: false
+
+weight: 100
 ---
 
 ## Sillyon Kale Mescidi: Antalya'nın Gizli Cenneti

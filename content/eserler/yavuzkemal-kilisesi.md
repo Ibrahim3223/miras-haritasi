@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.299931,40.670376"
 draft: false
+
+weight: 100
 ---
 
 ## Yavuzkemal Kilisesi: Dereli, Giresun'da Bir Tarihi Çanakkale Kahramanının İşareti

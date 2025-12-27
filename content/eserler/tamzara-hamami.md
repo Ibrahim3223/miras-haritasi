@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "38.435387,40.326984"
 draft: false
+
+weight: 100
 ---
 
 # Tamzara Hamamı

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "36.15,36.2"
 draft: false
+
+weight: 100
 ---
 
 ## Jubin Aziz Georg Manastırı

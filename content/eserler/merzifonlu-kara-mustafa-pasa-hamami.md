@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.464118853,40.8765473"
 draft: false
+
+weight: 10
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Hamamı

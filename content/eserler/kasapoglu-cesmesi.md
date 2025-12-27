@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17963056,39.12237222"
 draft: false
+
+weight: 10
 ---
 
 ## Kasapoğlu Çeşmesi

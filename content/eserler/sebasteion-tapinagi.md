@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.72578364,37.708504692"
 draft: false
+
+weight: 10
 ---
 
 ## Sebasteion Tapınağı: Aydın'ın Gizli Kahramanı

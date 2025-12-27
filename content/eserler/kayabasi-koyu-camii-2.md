@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.468128912,40.866248491"
 draft: false
+
+weight: 100
 ---
 
 ## Kayabaşı Köyü Camii 2: Kalkandere'nin Tarihi Bir Mirası

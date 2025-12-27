@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.569875,39.556958"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşilyurt Köyü Camii

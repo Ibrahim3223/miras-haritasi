@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.5762005,37.7462997"
 draft: false
+
+weight: 100
 ---
 
 ## Boyacı Mevki Leleg Yerleşkesi

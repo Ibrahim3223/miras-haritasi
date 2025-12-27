@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.849527777,39.931555555"
 draft: false
+
+weight: 10
 ---
 
 ### CerModern Sahnesi: Antik Tiyatro Mirası

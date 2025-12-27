@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.172997792,38.690982206"
 draft: false
+
+weight: 100
 ---
 
 ### İkiztepe 1 Tümülüsü: Uşak'ın Gizemli Mirası

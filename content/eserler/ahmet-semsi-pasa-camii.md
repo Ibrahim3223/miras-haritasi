@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0868492,37.8676033"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Şemsi Paşa Camii: Aydın'ın Gizli Cenneti

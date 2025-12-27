@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.133604,38.4216003"
 draft: false
+
+weight: 100
 ---
 
 ### Hisar Camii Çeşmeleri

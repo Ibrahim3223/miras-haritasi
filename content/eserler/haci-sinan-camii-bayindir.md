@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6473942,38.2243462"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Sinan Camii: Bayındır'ın Tarihi Bir Mirası

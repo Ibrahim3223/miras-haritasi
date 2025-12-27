@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.0605,39.5747"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmetçik Anıtı

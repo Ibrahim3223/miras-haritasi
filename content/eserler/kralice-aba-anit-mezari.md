@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.177139768,36.5273425"
 draft: false
+
+weight: 100
 ---
 
 ## Kraliçe Aba Anıt Mezarı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.903333,36.916389"
 draft: false
+
+weight: 10
 ---
 
 ### Donuktaş

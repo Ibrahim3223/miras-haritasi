@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.5280266,37.4436989"
 draft: false
+
+weight: 100
 ---
 
 ### Mor Azazo Kilisesi

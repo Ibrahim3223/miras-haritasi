@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4730167,40.5486908"
 draft: false
+
+weight: 100
 ---
 
 # Aşıklar Çeşmesi: Bir Tarih Öüzü ve Sanat Eseri

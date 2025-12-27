@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0223618,41.0497704"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Sadık Çeşmesi: Beşiktaş'ta Tarihi Bir Çeşme

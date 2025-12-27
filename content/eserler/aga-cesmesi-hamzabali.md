@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1293564,37.8054428"
 draft: false
+
+weight: 100
 ---
 
 ## Ağa Çeşmesi, Hamzabali: Aydın'ın Tarihi Bir Çeşmesi

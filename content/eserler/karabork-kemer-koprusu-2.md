@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.035015,40.874336"
 draft: false
+
+weight: 100
 ---
 
 ### Karabörk Kemer Köprüsü (2)

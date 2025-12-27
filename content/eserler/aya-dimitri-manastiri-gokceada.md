@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8322773,40.2074509"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Dimitri Manastırı: Gökçeada'nın Gerçek Bir Harikası

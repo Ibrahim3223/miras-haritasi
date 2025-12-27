@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3421383,37.9413147"
 draft: false
+
+weight: 100
 ---
 
 ### Efes Helenistik Çeşme Yapısı

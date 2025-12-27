@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.44147384,40.20409959"
 draft: false
+
+weight: 100
 ---
 
 ## Konstantin Köprüsü

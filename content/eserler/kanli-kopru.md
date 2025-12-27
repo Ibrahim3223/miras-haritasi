@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.9671516,37.5495148"
 draft: false
+
+weight: 100
 ---
 
 ## Kanlı Köprü: Tavas'ta Bir Tarihî Efsane

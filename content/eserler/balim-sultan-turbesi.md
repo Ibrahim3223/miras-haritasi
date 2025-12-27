@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7074135,38.0676096"
 draft: false
+
+weight: 100
 ---
 
 ### Balım Sultan Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.329993,37.703924"
 draft: false
+
+weight: 10
 ---
 
 ## Panionion: İzmir'in Gizli Ören Yeri

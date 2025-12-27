@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.951138888,41.040583333"
 draft: false
+
+weight: 10
 ---
 
 ## Hasköy Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1210995,38.4096985"
 draft: false
+
+weight: 10
 ---
 
 ## Tarihi Karataş Hamamı: İzmir'in Gizli Çarıklarını Keşfetmek

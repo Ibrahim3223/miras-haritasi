@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.928659242,41.022309757"
 draft: false
+
+weight: 10
 ---
 
 ## Fatma Sultan Mescidi: İstanbul'un Gizli Cenneti

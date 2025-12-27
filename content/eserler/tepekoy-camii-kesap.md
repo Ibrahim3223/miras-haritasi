@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.563033,40.919575"
 draft: false
+
+weight: 100
 ---
 
 ### Tepeköy Camii (Keşap): Giresun'un Tarihî Bir Mirası

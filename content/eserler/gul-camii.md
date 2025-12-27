@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.956179985,41.026824521"
 draft: false
+
+weight: 10
 ---
 
 ## Gül Camii

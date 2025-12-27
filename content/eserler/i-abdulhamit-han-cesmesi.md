@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.051395,41.114158"
 draft: false
+
+weight: 10
 ---
 
 ## I. Abdülhamit Han Çeşmesi

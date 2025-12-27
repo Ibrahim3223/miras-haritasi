@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9352417,41.0479889"
 draft: false
+
+weight: 100
 ---
 
 ### Hasan Hüsnü Paşa Türbesi

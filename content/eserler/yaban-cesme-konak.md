@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1363068,38.4144363"
 draft: false
+
+weight: 100
 ---
 
 # Yaban Çeşme: İzmir'in Eğriçeşme Köyü'ndeki Gizemli Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.282795,39.908947"
 draft: false
+
+weight: 100
 ---
 
 **Akpınar Çeşmesi**

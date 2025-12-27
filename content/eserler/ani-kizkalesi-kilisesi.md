@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5685387,40.4963837"
 draft: false
+
+weight: 100
 ---
 
 ## Ani Kızkalesi Kilisesi: Bir Orta Çağ Mimarisi Harikası

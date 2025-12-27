@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.787541,38.179928"
 draft: false
+
+weight: 10
 ---
 
 ## Teos Antik Tiyatrosu

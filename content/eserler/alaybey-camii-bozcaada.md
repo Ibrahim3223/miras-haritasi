@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.0707054,39.8340836"
 draft: false
+
+weight: 10
 ---
 
 ## Alaybey Camii, Bozcaada

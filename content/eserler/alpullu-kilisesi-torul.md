@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.4909782,40.5718117"
 draft: false
+
+weight: 100
 ---
 
 # Alpullu Kilisesi Torul: Gümüşhane'nin Gizli Öztürk'ü

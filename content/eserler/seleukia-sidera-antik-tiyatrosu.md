@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.621775293,37.89903013"
 draft: false
+
+weight: 100
 ---
 
 # Seleukia Sidera Antik Tiyatrosu

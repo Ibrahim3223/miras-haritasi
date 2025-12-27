@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.017527777,41.052305555"
 draft: false
+
+weight: 100
 ---
 
 ### Orhaniye Kışlası Camii

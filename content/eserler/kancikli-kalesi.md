@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.006279,39.2193565"
 draft: false
+
+weight: 100
 ---
 
 ## Kancıklı Kalesi

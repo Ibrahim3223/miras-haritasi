@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.861525977,39.948874303"
 draft: false
+
+weight: 10
 ---
 
 ### Atıf Bey Konağı Çeşmesi

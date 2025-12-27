@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.00798,39.637569"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs [T68]

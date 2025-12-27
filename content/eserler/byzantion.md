@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.983638888,41.013416666"
 draft: false
+
+weight: 10
 ---
 
 ## Byzantion: İstanbul'un Tarihi ve Kültürel Mirası

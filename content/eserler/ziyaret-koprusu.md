@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.6302757,37.2494659"
 draft: false
+
+weight: 100
 ---
 
 # Ziyaret Köprüsü: Tarih ve Müzik Anıtı

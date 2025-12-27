@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.974582301,41.005098438"
 draft: false
+
+weight: 100
 ---
 
 ## Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi

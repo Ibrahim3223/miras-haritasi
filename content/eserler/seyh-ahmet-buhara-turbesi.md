@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.960206,41.023192"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Ahmet Buhara Türbesi

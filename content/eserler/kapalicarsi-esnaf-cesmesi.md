@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968693,41.011056"
 draft: false
+
+weight: 100
 ---
 
 ## Kapalıçarşı Esnaf Çeşmesi

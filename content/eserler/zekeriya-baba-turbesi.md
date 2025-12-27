@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0284519,41.196991"
 draft: false
+
+weight: 100
 ---
 
 ## Zekeriya Baba Türbesi

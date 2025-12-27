@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944706,41.0242805"
 draft: false
+
+weight: 10
 ---
 
 ## Nişancı Mehmet Paşa Camii Şadırvanı

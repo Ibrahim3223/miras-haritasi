@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.5168571,40.9786835"
 draft: false
+
+weight: 100
 ---
 
 ### Hürriyet Abidesi, Tekirdağ

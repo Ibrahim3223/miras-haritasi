@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.367453,41.27353"
 draft: false
+
+weight: 10
 ---
 
 ## Bandırma Vapuru ve Millî Mücadele Parkı Açık Hava Müzesi

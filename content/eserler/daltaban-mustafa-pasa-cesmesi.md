@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961126,41.007622"
 draft: false
+
+weight: 100
 ---
 
 ## Daltaban Mustafa Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0720539,41.5455627"
 draft: false
+
+weight: 100
 ---
 
 ### Kuzuçardağı Tümülüsü: Kırklareli'nin Gizli Mirası

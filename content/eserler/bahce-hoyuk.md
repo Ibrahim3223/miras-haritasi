@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9651853,36.9992303"
 draft: false
+
+weight: 100
 ---
 
 # Bahçe Höyük: Şanlıurfa'da bir Arkeolojik Sit

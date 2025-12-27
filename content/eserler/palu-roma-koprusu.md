@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.9604972,38.6978734"
 draft: false
+
+weight: 100
 ---
 
 ## Palu Roma Köprüsü

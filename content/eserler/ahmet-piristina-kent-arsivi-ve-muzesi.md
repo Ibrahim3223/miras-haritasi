@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.138055555,38.425"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Piriştina Kent Arşivi ve Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6690865,39.1057663"
 draft: false
+
+weight: 100
 ---
 
 ## Zorağa Mahallesi Çeşmesi

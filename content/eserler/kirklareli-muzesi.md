@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.224722222,41.733611111"
 draft: false
+
+weight: 10
 ---
 
 ### Kırklareli Müzesi: Tarih, Kültür ve Sanatın Kaynağı

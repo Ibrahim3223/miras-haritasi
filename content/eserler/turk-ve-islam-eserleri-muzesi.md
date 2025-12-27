@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.974556,41.006278"
 draft: false
+
+weight: 10
 ---
 
 ## Türk ve İslam Eserleri Müzesi: İstanbul'un Gizli Cenneti

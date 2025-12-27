@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8675766,39.9350624"
 draft: false
+
+weight: 100
 ---
 
 ### Yeşil Ahi Camii Tanıtımı

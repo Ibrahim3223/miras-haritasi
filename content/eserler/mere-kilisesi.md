@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.717145073,41.495787677"
 draft: false
+
+weight: 10
 ---
 
 ### Mere Kilisesi: Posof'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4777985,41.4118004"
 draft: false
+
+weight: 100
 ---
 
 ### Pelitbüküsecek Camii

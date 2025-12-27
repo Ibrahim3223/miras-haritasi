@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6800003,37.8674507"
 draft: false
+
+weight: 100
 ---
 
 ## Erbeyli Camii

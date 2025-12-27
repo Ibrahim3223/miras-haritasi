@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.047,41.162472"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Boğos Kilisesi: İstanbul'un Gizli Çarpısı

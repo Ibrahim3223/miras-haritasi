@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.6663399,38.0125465"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşilburç Kilise Camii: Niğde'nin Tarihi Bir Mirası

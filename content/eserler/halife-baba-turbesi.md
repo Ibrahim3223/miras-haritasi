@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.9780788,37.5900078"
 draft: false
+
+weight: 100
 ---
 
 ### Halife Baba Türbesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.1873779,37.1772499"
 draft: false
+
+weight: 100
 ---
 
 ## Kastabala Kalesi

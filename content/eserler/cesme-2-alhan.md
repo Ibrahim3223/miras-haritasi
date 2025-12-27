@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1677113,37.8088188"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 2, Alhan: Aydın'ın Tarihi Bir Anıtı

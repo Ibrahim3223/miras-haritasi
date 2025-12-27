@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3310623,41.4053001"
 draft: false
+
+weight: 100
 ---
 
 ## Lüleburgaz Şehitliği

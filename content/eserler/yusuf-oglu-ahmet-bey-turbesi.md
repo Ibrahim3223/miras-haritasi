@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.920304525,38.707209655"
 draft: false
+
+weight: 100
 ---
 
 ## Yusuf Oğlu Ahmet Bey Türbesi

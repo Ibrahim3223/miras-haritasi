@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.876006,40.986645"
 draft: false
+
+weight: 100
 ---
 
 ## Düz Mahallesi Kilisesi

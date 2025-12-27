@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.671011,39.1048584"
 draft: false
+
+weight: 100
 ---
 
 ### Karaosmanoğlu Camii

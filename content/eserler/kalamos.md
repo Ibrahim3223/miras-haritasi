@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.033624,41.056678"
 draft: false
+
+weight: 100
 ---
 
 ## Kalamos: Bir Kıbrıs Adası'nda Bulunan Tarihi ve Kültürel Bir Miras

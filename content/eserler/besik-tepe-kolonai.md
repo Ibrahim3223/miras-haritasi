@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.159917,39.70885"
 draft: false
+
+weight: 100
 ---
 
 ## Beşik Tepe (Kolonai): Ezine'nin Gizli Cenneti

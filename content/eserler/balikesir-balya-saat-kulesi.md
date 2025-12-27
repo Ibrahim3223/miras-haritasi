@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.5782871,39.7497215"
 draft: false
+
+weight: 100
 ---
 
 ## Balıkesir Balya Saat Kulesi

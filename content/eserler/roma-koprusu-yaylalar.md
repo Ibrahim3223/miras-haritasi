@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.2761409,40.8719517"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Yaylalar

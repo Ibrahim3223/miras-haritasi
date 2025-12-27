@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9389114,41.0245934"
 draft: false
+
+weight: 100
 ---
 
 ## Pertevniyal Valide Sultan Çeşmesi, Karagümrük

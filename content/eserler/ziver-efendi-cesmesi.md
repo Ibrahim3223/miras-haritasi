@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.97309,41.034305"
 draft: false
+
+weight: 100
 ---
 
 ## Ziver Efendi Çeşmesi

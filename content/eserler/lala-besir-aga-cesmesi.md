@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973803,41.030525"
 draft: false
+
+weight: 100
 ---
 
 ### Lala Beşir Ağa Çeşmesi

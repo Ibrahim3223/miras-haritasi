@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.95223,41.02897"
 draft: false
+
+weight: 10
 ---
 
 **Patrikhane Çeşmesi: Fatih'in Gizli Mihenk Noktası**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.388055555,36.764166666"
 draft: false
+
+weight: 100
 ---
 
 **Men Tapınağı (Side)**

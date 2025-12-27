@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.974908,41.008012"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Akif Ersoy Büstü

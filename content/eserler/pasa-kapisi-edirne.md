@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5525398,41.6795235"
 draft: false
+
+weight: 100
 ---
 
 ## Paşa Kapısı, Edirne

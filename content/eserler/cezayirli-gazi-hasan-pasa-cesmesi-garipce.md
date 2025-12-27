@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1002789,41.2061195"
 draft: false
+
+weight: 100
 ---
 
 ## Cezayirli Gazi Hasan Paşa Çeşmesi, Garipçe

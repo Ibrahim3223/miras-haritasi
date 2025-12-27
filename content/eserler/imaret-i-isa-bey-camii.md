@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.052536,40.1878929"
 draft: false
+
+weight: 10
 ---
 
 ## İmaret-i İsa Bey Camii: Bursa'nın Gizli Çehresi

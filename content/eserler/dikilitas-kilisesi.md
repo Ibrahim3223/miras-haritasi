@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.0903893,38.105938"
 draft: false
+
+weight: 100
 ---
 
 ## Dikilitaş Kilisesi: Niğde'nin Tarihî Bir Mirası

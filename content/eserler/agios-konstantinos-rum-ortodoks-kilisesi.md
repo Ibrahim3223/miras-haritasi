@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.0676994,38.611599"
 draft: false
+
+weight: 100
 ---
 
 ## Agios Konstantinos Rum Ortodoks Kilisesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0635052,41.1174278"
 draft: false
+
+weight: 100
 ---
 
 ### Güzelce Ali Paşa Camii: İstanbul'un Gizli Cenneti

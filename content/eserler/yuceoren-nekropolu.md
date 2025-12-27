@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.9239426,36.9504356"
 draft: false
+
+weight: 100
 ---
 
 ## Yüceören Nekropolü: Adana'nın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9521389,41.0061188"
 draft: false
+
+weight: 100
 ---
 
 ### Yenikapı Batıkları

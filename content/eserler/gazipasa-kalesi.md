@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.2827492,36.2584496"
 draft: false
+
+weight: 100
 ---
 
 ## Gazipaşa Kalesi: Tarihî Bir Mirasın Tanıtımı

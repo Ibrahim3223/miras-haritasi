@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.955318,41.01168"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Fehmi Paşa Türbesi

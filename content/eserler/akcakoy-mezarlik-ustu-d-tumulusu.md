@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5711899,41.3697662"
 draft: false
+
+weight: 100
 ---
 
 ### Akçaköy Mezarlık Üstü D Tümülüsü

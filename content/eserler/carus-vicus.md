@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.204175,40.482434"
 draft: false
+
+weight: 100
 ---
 
 ## Carus Vicus: Roma Dönemi'nin Gizli Mirası

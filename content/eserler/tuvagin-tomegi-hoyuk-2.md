@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9099321,38.3946475"
 draft: false
+
+weight: 100
 ---
 
 ### Tuvağın Tömeği Höyük 2: Aksaray'ın Gizli Mirası

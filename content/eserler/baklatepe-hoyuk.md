@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.37845,38.701117"
 draft: false
+
+weight: 100
 ---
 
 ### Baklatepe Höyük: Tarihi ve Kültür Mirasının Gizemi

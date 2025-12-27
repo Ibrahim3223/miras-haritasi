@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.1083488,38.399971"
 draft: false
+
+weight: 100
 ---
 
 ## Pamukçular Köprüsü: Bir Geçit Zamanları Köprüsü

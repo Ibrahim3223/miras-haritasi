@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.543555555,38.532611111"
 draft: false
+
+weight: 100
 ---
 
 ## Şuhut Ulu Cami

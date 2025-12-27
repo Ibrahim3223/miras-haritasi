@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.166666666,36.566666666"
 draft: false
+
+weight: 10
 ---
 
 ## Öküzlü Ören Yeri: Erdemli'nin Gizli Anıtı

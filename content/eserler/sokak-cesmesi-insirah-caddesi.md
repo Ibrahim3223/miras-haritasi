@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0385342,41.0784035"
 draft: false
+
+weight: 100
 ---
 
 ## Sokak Çeşmesi: Beşiktaş'ta Bir Tarihi Harikası

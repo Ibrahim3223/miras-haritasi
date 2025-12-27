@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.458921,41.212549"
 draft: false
+
+weight: 100
 ---
 
 ## Tekkeköy Atatürk Evi Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0572987,40.1841965"
 draft: false
+
+weight: 10
 ---
 
 ### Kavaklı Camii: Bursa'da Bir Önemli Cami

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.4121284,37.9292793"
 draft: false
+
+weight: 10
 ---
 
 ## Şeytan Köprüsü: Konya'nın Gizli Cenneti

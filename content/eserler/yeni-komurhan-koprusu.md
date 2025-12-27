@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.8188,38.44065"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Kömürhan Köprüsü

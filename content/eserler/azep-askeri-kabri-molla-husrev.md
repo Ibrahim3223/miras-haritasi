@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.958019,41.01615"
 draft: false
+
+weight: 100
 ---
 
 ### Azep Askeri Kabri, Molla Hüsrev

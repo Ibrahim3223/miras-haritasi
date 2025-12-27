@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7333519,40.920125"
 draft: false
+
+weight: 100
 ---
 
 ## Tarakçılar Camii: Artvin'in Gizli Çehresi

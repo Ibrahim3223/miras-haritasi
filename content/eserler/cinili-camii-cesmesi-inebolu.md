@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.785395012,41.965894333"
 draft: false
+
+weight: 100
 ---
 
 ### Çinili Camii Çeşmesi, İnebolu

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.515555555,40.755"
 draft: false
+
+weight: 10
 ---
 
 # Osmangazi Köprüsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.227459,41.7733192"
 draft: false
+
+weight: 100
 ---
 
 ### Karakoç Tumba Tepe Tümülüsü: Kırklareli'nin Gizli Mirası

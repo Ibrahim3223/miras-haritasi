@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9335155,41.0351562"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyin Paşa Sebili: İstanbul'un Görsel Harikası

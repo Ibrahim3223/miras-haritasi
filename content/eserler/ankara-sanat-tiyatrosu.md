@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.8535487,39.9237945"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Sanat Tiyatrosu: Ankara'nın Antik Tiyatro Mirası

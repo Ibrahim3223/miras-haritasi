@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.1234684,39.2227135"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Bayırlı

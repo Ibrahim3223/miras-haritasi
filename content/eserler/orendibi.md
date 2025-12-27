@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.07375,36.581778"
 draft: false
+
+weight: 10
 ---
 
 ## Örendibi Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.5634161,40.8391078"
 draft: false
+
+weight: 100
 ---
 
 ### Erdemler Camii: Artvin'in Gizli Çanları

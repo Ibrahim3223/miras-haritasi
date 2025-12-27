@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.364485,36.497163"
 draft: false
+
+weight: 100
 ---
 
 ## Hatay Surp Krikor Lusavoriç Kilisesi

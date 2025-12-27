@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934408,41.03906"
 draft: false
+
+weight: 100
 ---
 
 ## Mühendis Ali Dede Çeşmesi: Nişancı'daki Bir Geçit Akan Su Anıtı

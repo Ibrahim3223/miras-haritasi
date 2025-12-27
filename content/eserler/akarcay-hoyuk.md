@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0172393,36.9173301"
 draft: false
+
+weight: 100
 ---
 
 ## Akarçay Höyük: Şanlıurfa'nın Gizli Mirası

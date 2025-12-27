@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979242,41.003286"
 draft: false
+
+weight: 10
 ---
 
 ### Mehmet Yazıcı Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.572319,40.2781563"
 draft: false
+
+weight: 100
 ---
 
 ### Turasan Bey Türbesi: Kahramankazan'ın Tarihi Bir Anıtı

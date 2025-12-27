@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.84538,38.6400467"
 draft: false
+
+weight: 10
 ---
 
 ## Göreme Açık Hava Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.006701,41.042905"
 draft: false
+
+weight: 100
 ---
 
 ## Kara Kartal Anıtı

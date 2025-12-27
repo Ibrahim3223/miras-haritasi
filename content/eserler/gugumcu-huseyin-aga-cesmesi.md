@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.506843314,39.015943376"
 draft: false
+
+weight: 100
 ---
 
 ## Güğümcü Hüseyin Ağa Çeşmesi

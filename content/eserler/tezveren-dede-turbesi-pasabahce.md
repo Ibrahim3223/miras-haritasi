@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.097551,41.12009"
 draft: false
+
+weight: 10
 ---
 
 ### Tezveren Dede Türbesi

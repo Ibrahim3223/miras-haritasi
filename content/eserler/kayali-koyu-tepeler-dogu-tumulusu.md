@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.07724,41.7790527"
 draft: false
+
+weight: 100
 ---
 
 ## Kayalı Köyü Tepeler Doğu Tümülüsü: Kırklareli'nin Gizli Kahramanı

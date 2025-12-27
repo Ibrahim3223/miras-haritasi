@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3691463,40.1692924"
 draft: false
+
+weight: 100
 ---
 
 ## Eceabat İsimsiz Yüzbaşı Şehitliği

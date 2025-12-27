@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1790714,40.045826"
 draft: false
+
+weight: 100
 ---
 
 # Helles Burnu Anıtı

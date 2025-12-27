@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.972065,41.9695168"
 draft: false
+
+weight: 100
 ---
 
 ## Cumayanı Camii: Kastamonu'nun Tarihi Bir Anıt

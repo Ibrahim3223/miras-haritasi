@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.164444444,36.838333333"
 draft: false
+
+weight: 10
 ---
 
 **İssos: Antik Dünya'nın Gizli Çarpışması**

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.275303,37.759574"
 draft: false
+
+weight: 100
 ---
 
 # Adıyaman Kalesi: Tarih ve Kültür Mirasının Bir Göstergesi

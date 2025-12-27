@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.63166667,38.27166667"
 draft: false
+
+weight: 10
 ---
 
 ## Fraktin Kabartması: Kayseri'nin Gizli Anıtı

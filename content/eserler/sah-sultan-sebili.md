@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9363722,41.0445782"
 draft: false
+
+weight: 100
 ---
 
 ## Şah Sultan Sebili: İstanbul'un Gizli Çeşmesi

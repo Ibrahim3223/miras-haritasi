@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.943339,41.007387"
 draft: false
+
+weight: 10
 ---
 
 ## Canbaziye Camii Tanıtımı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3137436,38.8134995"
 draft: false
+
+weight: 100
 ---
 
 ## Kara Höyük: Malatya'nın Gizemli Arkeolojik Sitleri

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "30.649979,36.902272"
 draft: false
+
+weight: 100
 ---
 
 ## Antalya Kütüphanesi: Tarihe Bir Kapı Olarak Açılan Kütüphane

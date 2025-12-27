@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.8518009,41.0009995"
 draft: false
+
+weight: 100
 ---
 
 ## Siyavuş Paşa Hamamı Kalıntısı

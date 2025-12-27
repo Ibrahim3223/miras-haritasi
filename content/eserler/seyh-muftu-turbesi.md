@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.410174667,40.035075491"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Müftü Türbesi: Bursa'nın Gizli Cenneti

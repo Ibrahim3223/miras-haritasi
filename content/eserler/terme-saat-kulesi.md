@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "36.9720338,41.209271"
 draft: false
+
+weight: 100
 ---
 
 ## Terme Saat Kulesi: Samsun'un Tarihi Mirası

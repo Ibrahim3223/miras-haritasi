@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.564177,38.738516"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Todori Rum Kilisesi: Kayseri'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.7751999,40.1186981"
 draft: false
+
+weight: 100
 ---
 
 ## Savur Mevki Manastırı

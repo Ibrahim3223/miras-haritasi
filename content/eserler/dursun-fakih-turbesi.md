@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1373,40.081"
 draft: false
+
+weight: 100
 ---
 
 ### Dursun Fakih Türbesi

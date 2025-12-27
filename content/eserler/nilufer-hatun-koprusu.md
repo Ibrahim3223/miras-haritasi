@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.91952,40.27465"
 draft: false
+
+weight: 100
 ---
 
 ## Nilüfer Hatun Köprüsü

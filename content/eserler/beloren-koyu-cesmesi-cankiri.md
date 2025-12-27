@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.495165744,40.861690887"
 draft: false
+
+weight: 100
 ---
 
 # Belören Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi

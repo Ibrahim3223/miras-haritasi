@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.884285,40.6663628"
 draft: false
+
+weight: 100
 ---
 
 ### Keşanoğlu Çeşmesi: Gelibolu'nun Tarihi ve Kültürel Değerlerini Takip Eden Bir Çeşme

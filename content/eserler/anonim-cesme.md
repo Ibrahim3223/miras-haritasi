@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6284809,37.7573738"
 draft: false
+
+weight: 100
 ---
 
 **Anonim Çeşme: Aydın'ın Kuytu Yerlerinde bir Değer**

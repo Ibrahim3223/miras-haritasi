@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "41.557516492,41.519849021"
 draft: false
+
+weight: 100
 ---
 
 ## Georgia-Türkiye Sınır Kapısı #1882 Kervansarayı: Tarihi Mirasın Gizemi

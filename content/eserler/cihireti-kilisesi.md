@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.859802777,41.276738888"
 draft: false
+
+weight: 100
 ---
 
 ## Çihireti Kilisesi: Tarihi ve Kültürel Mirasının Gizemi

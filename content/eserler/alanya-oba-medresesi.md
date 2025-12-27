@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.0528717,36.550766"
 draft: false
+
+weight: 100
 ---
 
 ### Alanya Oba Medresesi: Türk Kültür Mirasının bir Parçası

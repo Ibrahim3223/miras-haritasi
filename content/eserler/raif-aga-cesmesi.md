@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.997437,41.047143"
 draft: false
+
+weight: 10
 ---
 
 ## Raif Ağa Çeşmesi: Beşiktaş'taki Bir Değerli Tarihi Çeşme

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.84161667,39.93901111"
 draft: false
+
+weight: 10
 ---
 
 ## Kore'de Savaşan Türk Askerleri Anıtı

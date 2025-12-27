@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4807205,38.7118607"
 draft: false
+
+weight: 100
 ---
 
 ## Karacaoğlu Camii

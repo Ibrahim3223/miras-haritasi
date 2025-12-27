@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.71280517,41.804706377"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Mescid Camii Çeşmesi, Küre

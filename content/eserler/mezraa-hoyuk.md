@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9977085,36.9704375"
 draft: false
+
+weight: 100
 ---
 
 # Mezraa Höyük: Şanlıurfa'nın Gizli Öreni

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.886917,41.122767"
 draft: false
+
+weight: 100
 ---
 
 ## Tütüncüler Köyü Köprüsü

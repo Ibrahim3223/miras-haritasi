@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4394379,38.6256714"
 draft: false
+
+weight: 100
 ---
 
 **Üç Oluklu Çeşme**

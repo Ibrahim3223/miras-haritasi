@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9485874,41.0165024"
 draft: false
+
+weight: 100
 ---
 
 ## Kemankeş Kara Mustafa Paşa Çeşmesi

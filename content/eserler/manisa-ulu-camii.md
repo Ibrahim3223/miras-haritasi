@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.430111111,38.608111111"
 draft: false
+
+weight: 10
 ---
 
 ### Manisa Ulu Camii

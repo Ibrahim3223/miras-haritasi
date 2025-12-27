@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0566292,41.0890427"
 draft: false
+
+weight: 100
 ---
 
 ## Borusan Contemporary: İstanbul'un Çağdaş Sanat Mirası

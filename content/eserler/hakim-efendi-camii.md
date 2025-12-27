@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0862389,38.3956032"
 draft: false
+
+weight: 10
 ---
 
 ## Hakim Efendi Camii

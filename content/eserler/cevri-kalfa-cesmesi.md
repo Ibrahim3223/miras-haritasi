@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976739,41.008005"
 draft: false
+
+weight: 100
 ---
 
 ## Cevri Kalfa Çeşmesi

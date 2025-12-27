@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.295277777,38.2575"
 draft: false
+
+weight: 10
 ---
 
 ## Ihlara Vadisi: Kutsal Bir Yer

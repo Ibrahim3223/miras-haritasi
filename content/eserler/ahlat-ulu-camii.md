@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.460333333,38.744472222"
 draft: false
+
+weight: 100
 ---
 
 ### Ahlat Ulu Camii

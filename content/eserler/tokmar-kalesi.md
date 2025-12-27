@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.77055556,36.25638889"
 draft: false
+
+weight: 10
 ---
 
 ## Tokmar Kalesi: Silifke'nin Gizli Mücevheri

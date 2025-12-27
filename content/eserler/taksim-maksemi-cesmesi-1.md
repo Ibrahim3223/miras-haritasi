@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.984362,41.036355"
 draft: false
+
+weight: 10
 ---
 
 # Taksim Maksemi Çeşmesi 1: Beyoğlu'nun Tarihî Çeşmesi

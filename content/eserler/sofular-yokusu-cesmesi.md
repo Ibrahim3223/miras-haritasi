@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9317379,41.0448761"
 draft: false
+
+weight: 100
 ---
 
 # Sofular Yokuşu Çeşmesi

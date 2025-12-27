@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "36.229225389,36.879179464"
 draft: false
+
+weight: 100
 ---
 
 ### Hatay Dörtyol Kuzuculu Halk Kütüphanesi

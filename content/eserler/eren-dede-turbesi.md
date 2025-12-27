@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.310482,36.817708"
 draft: false
+
+weight: 10
 ---
 
 ### Eren Dede Türbesi: Marmaris'in Gizli Çehresini Açan Bir Anıt

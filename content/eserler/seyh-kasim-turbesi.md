@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.4260292,37.7632484"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Kasım Türbesi: Tarihi ve Kültürel Mirası Anıtsal Bir Yer

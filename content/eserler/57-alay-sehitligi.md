@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.292334,40.240227"
 draft: false
+
+weight: 10
 ---
 
 **57. Alay Şehitliği**

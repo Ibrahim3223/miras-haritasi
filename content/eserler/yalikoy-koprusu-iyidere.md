@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.380852,41.019141"
 draft: false
+
+weight: 100
 ---
 
 ## Yalıköy Köprüsü: İyidere'nin Tarihi Bir Çökertisi

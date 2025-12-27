@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7142181,41.6196518"
 draft: false
+
+weight: 100
 ---
 
 **Seyyid Zülfikar Camii**

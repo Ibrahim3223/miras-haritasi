@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8941193,40.8139381"
 draft: false
+
+weight: 100
 ---
 
 ## Pir-i Sanî Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.05732,40.186759"
 draft: false
+
+weight: 100
 ---
 
 ## Osman Gazi Türbesi

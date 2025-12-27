@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.970825,40.882914"
 draft: false
+
+weight: 100
 ---
 
 ### Eserli Mahallesi Kilisesi: Görele'nin Gizli Cenneti

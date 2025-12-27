@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.424235,38.413976"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı İbrahim Veli Sultan Türbesi: Akşehir'in Şifalı Sultansı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1326332,38.4170837"
 draft: false
+
+weight: 100
 ---
 
 ## Salepçioğlu Medrese Çeşmeleri

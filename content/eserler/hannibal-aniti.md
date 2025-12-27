@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.44161134,40.782267783"
 draft: false
+
+weight: 10
 ---
 
 ## Hannibal Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7089991,41.0010565"
 draft: false
+
+weight: 100
 ---
 
 ## Askeri Hastane Çeşme, Ortahisar

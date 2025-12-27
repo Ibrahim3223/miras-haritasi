@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01734,41.025967"
 draft: false
+
+weight: 100
 ---
 
 ## Ayşe Hatun Çeşmesi: Üsküdar'da Bir Osmanlı Dönemi Çeşmesi

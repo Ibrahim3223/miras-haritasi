@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.0041294,40.1158257"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağıköy Köy Hamamı: Bilecik'te Bir Tarihî Eğlence Merkezi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01880746,41.0200871"
 draft: false
+
+weight: 10
 ---
 
 ## Genç Mehmet Paşa Çeşmesi: Üsküdar'ın Tarihi Bir Ölümsüzlüğü

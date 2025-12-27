@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.5923157,36.5934792"
 draft: false
+
+weight: 100
 ---
 
 ## Köristan Örenyeri: Karaman'ın Gizli Anıtı

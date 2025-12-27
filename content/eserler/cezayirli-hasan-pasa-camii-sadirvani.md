@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9682617,41.0314293"
 draft: false
+
+weight: 100
 ---
 
 ## Cezayirli Hasan Paşa Camii, Şadırvanı

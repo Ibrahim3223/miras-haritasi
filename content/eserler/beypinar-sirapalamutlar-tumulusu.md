@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.508688,41.7809639"
 draft: false
+
+weight: 100
 ---
 
 ### Beypınar Sırapalamutlar Tümülüsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.2860208,38.669709"
 draft: false
+
+weight: 100
 ---
 
 ## Sarımsaklı Höyük: Tarih ve Kültür Mirasının Gizemi

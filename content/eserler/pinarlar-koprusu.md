@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.368425,40.652788"
 draft: false
+
+weight: 100
 ---
 
 ## Pınarlar Köprüsü: Geçişin Gizemi

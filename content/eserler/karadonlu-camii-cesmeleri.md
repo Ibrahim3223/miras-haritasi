@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9775391,39.4212227"
 draft: false
+
+weight: 100
 ---
 
 ## Karadonlu Camii Çeşmeleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.405,40.195277777"
 draft: false
+
+weight: 10
 ---
 
 ## Abidos: Çanakkale'nin Gizli Hazineleri

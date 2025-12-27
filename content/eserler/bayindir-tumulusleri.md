@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9592018,36.7655334"
 draft: false
+
+weight: 100
 ---
 
 ### Bayındır Tümülüsleri: Antalya'nın Gizli Cenneti

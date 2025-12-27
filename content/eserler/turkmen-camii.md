@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2628994,37.8622017"
 draft: false
+
+weight: 100
 ---
 
 # Türkmen Camii: Kuşadası'nın Gizli Cenneti

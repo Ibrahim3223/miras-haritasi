@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "31.1694922,36.9404078"
 draft: false
+
+weight: 1
 ---
 
 ### Aspendos Bazilikası

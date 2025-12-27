@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.77527778,41.37722222"
 draft: false
+
+weight: 10
 ---
 
 ### Nasrullah Camii: Kastamonu'nun Tarihi Mirası

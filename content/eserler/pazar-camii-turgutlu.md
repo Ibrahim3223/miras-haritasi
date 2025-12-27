@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7095509,38.4997292"
 draft: false
+
+weight: 100
 ---
 
 ## Pazar Camii, Turgutlu

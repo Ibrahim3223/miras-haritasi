@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.779,37.98"
 draft: false
+
+weight: 100
 ---
 
 **Başur Höyük: Siirt'te Bir Arkeolojik Sit**

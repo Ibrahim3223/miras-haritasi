@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.1520176,41.2171783"
 draft: false
+
+weight: 10
 ---
 
 ## Hamid-i Evvel Camii: İstanbul'un Gizli Çağından Kalan bir Zenginlik

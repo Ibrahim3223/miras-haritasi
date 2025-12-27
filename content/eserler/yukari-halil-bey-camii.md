@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.3370514,41.6344604"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Halil Bey Camii: Bartın'ın Tarihi Anıtı

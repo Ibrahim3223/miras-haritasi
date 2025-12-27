@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.0364189,38.2239799"
 draft: false
+
+weight: 100
 ---
 
 ## Sungur Bey Türbesi: Ilgın, Konya'daki Bir Önemli Kültür Mirası

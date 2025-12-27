@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97944444,41.03527778"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Hovhan Vosgeperan Kilisesi

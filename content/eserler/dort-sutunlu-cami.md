@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2769451,37.530365"
 draft: false
+
+weight: 100
 ---
 
 ### Dört Sütunlu Cami: Didim'in Tarihî Bir Mirası

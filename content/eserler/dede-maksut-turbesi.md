@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.4658922,38.7488519"
 draft: false
+
+weight: 100
 ---
 
 ## Dede Maksut Türbesi: Ahlat'ın Altın Çağı'nın Bir Örneği

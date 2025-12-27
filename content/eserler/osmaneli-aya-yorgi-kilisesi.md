@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.0125,40.355278"
 draft: false
+
+weight: 10
 ---
 
 ## Osmaneli Aya Yorgi Kilisesi

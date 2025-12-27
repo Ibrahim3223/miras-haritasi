@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.8309822,40.301487"
 draft: false
+
+weight: 100
 ---
 
 ## Anıt Çeşme, Koyulhisar

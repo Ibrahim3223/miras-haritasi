@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 # St. Paul Kuyusu: Tarsus'un Gizli Mirası

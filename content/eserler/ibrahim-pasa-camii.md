@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.957972222,41.013055555"
 draft: false
+
+weight: 10
 ---
 
 ## İbrahim Paşa Camii: İstanbul'un Tarihi Bir Mirası

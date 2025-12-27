@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.43687,37.4526233"
 draft: false
+
+weight: 100
 ---
 
 ## Karakeçi Höyüğü: Şanlıurfa'nın Gizli Tarihî Mirası

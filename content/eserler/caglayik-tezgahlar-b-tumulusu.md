@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3426857,41.9948883"
 draft: false
+
+weight: 100
 ---
 
 ### Çağlayık Tezgahlar B Tümülüsü

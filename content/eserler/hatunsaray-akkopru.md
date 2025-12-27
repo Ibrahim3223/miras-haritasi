@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.3513618,37.5963038"
 draft: false
+
+weight: 100
 ---
 
 ## Hatunsaray Akköprü: Konya'nın Tarihi Bir Harikası

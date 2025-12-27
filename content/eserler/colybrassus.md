@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.9754,36.7316"
 draft: false
+
+weight: 10
 ---
 
 ## Colybrassus: Antalya'nın Eski Dünya Mirası

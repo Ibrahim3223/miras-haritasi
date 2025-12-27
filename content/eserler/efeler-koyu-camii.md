@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.926055555,41.438916666"
 draft: false
+
+weight: 100
 ---
 
 ## Efeler Köyü Camii: Tarihi ve Kültürel Mirası Anlamında Bir Özellik

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1161556,36.6195869"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Gazi Türbesi

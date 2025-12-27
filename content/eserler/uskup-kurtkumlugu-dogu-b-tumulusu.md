@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4277954,41.7830467"
 draft: false
+
+weight: 100
 ---
 
 ## Üsküp Kurtkumluğu Doğu B Tümülüsü: Kırklareli'nin Gizli Görsel Harikası

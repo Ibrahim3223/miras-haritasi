@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1792641,39.1210785"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hekim Camii: İzmir'in Tarihi bir Mirası

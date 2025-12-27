@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.957135,37.227855"
 draft: false
+
+weight: 100
 ---
 
 # Pyrgoi Arkeolojik Sit

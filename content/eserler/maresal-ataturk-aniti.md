@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.85472222,39.92472222"
 draft: false
+
+weight: 10
 ---
 
 ### Mareşal Atatürk Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.375,36.685833"
 draft: false
+
+weight: 10
 ---
 
 # Knidos: Muğla'nın Gizemli Arkeolojik Sitleri

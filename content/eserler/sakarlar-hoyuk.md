@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.6235401,37.580948"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarlar Höyük: Konya'nın Gizli Tarihçesini Keşfedin

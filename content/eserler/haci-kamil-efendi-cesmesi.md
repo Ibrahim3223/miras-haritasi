@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6915398,41.2435989"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Kamil Efendi Çeşmesi

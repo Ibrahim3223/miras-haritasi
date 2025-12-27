@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.3320999,41.2965012"
 draft: false
+
+weight: 100
 ---
 
 ## Yalı Camii (İlkadım)

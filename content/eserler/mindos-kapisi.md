@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.413412,37.037658"
 draft: false
+
+weight: 10
 ---
 
 ## Mindos Kapısı: Bodrum'un Gizemli Anıtı

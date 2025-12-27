@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9692631,41.080246"
 draft: false
+
+weight: 100
 ---
 
 ## Kağıthane Mezarlığı Üst Tarafındaki Çeşme: İstanbul'un Gizli Cenneti

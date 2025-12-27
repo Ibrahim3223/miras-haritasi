@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9582825,41.0201225"
 draft: false
+
+weight: 10
 ---
 
 ## Piri Mehmet Paşa Camii, Zeyrek

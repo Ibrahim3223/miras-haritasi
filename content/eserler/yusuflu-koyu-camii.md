@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6979427,38.2183037"
 draft: false
+
+weight: 100
 ---
 
 # Yusuflu Köyü Camii: İzmir'in Gizli Cenneti

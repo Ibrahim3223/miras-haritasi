@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "33.1475792,37.3990974"
 draft: false
+
+weight: 100
 ---
 
 ### Mahalaç Kilisesi: Karaman'ın Tarihi Mirası

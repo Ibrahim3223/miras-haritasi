@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4716167,36.3948441"
 draft: false
+
+weight: 10
 ---
 
 ## Olympos Giriş Yapıları

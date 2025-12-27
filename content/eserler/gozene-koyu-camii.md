@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.0508652,38.1822281"
 draft: false
+
+weight: 100
 ---
 
 ### Gözene Köyü Camii: Malatya'nın Tarihi Bir Mirası

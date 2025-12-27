@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.85229,39.94064"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Palas

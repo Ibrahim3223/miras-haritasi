@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8906879,40.2295761"
 draft: false
+
+weight: 100
 ---
 
 ### Daskyleion Tümülüsü 5: Balıkesir'in Gizli Mirası

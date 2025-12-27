@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7713699,41.3754387"
 draft: false
+
+weight: 100
 ---
 
 ## Atabey Gazi Türbesi

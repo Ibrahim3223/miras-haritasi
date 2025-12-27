@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.8377094,40.9379768"
 draft: false
+
+weight: 100
 ---
 
 ## Akpınar Camii: Kocaeli'nin Tarihi Bir Mirası

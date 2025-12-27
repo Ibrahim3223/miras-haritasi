@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1265564,41.9212761"
 draft: false
+
+weight: 100
 ---
 
 ## Taşlıtepe 2 Tümülüsü: Kırklareli'nin Gizemli Arkeolojik Mirası

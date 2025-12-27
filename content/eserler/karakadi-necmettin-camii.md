@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7425,38.088416666"
 draft: false
+
+weight: 10
 ---
 
 ## Karakadı Necmettin Camii Tanıtımı

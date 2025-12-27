@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9522743,41.0099754"
 draft: false
+
+weight: 100
 ---
 
 ## Pertevniyal Valide Sultan Türbesi

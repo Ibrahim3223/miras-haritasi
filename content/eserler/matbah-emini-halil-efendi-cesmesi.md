@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.026705,41.018004"
 draft: false
+
+weight: 100
 ---
 
 ### Matbah Emini Halil Efendi Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.057976,40.182988"
 draft: false
+
+weight: 10
 ---
 
 ## Üftade Türbesi: Bursa'nın Tarihi ve Kültürel Miraslarından Bir Örnek

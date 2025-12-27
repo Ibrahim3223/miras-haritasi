@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.982829,36.28323"
 draft: false
+
+weight: 100
 ---
 
 ## Kendema Arkeolojik Sit

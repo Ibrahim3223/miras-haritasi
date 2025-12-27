@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.020936376,41.019642704"
 draft: false
+
+weight: 10
 ---
 
 ## Mustafa Kavsar Baba Camii: Üsküdar'ın Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.957532,41.019"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Eşrefzade Pir Muhammed Kabri: Fatih'in Gizli Mirası

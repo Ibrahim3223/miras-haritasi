@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.931862,41.039489"
 draft: false
+
+weight: 100
 ---
 
 ## Davut Ağa Mescidi

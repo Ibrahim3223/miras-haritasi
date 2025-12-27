@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.931510351,41.004901063"
 draft: false
+
+weight: 10
 ---
 
 ## Ramazan Efendi Camii

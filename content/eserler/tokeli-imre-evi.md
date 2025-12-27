@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.944411,40.764273"
 draft: false
+
+weight: 100
 ---
 
 ## Tökeli İmre Evi Müzesi

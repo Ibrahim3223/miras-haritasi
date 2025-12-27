@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5654774,41.6666298"
 draft: false
+
+weight: 10
 ---
 
 ### Süle Çelebi Camii

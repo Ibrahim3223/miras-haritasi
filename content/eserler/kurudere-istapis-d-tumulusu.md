@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5822582,41.7710228"
 draft: false
+
+weight: 100
 ---
 
 ## Kurudere İstapiş D Tümülüsü

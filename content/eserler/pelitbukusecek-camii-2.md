@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4818993,41.4042015"
 draft: false
+
+weight: 100
 ---
 
 # Pelitbüküsecek Camii 2: Alaçam'ın Gizli Cenneti

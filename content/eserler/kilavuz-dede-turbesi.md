@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.1717567,39.2346764"
 draft: false
+
+weight: 100
 ---
 
 ## Kılavuz Dede Türbesi

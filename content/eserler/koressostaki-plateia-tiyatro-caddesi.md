@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Koressos'taki Plateia (Tiyatro) Caddesi: İzmir'in Gizli Cenneti

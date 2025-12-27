@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.016064,41.005246"
 draft: false
+
+weight: 100
 ---
 
 ## Florence Nightingale Müzesi

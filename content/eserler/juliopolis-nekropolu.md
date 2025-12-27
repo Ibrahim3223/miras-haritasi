@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.666666666,40.066666666"
 draft: false
+
+weight: 10
 ---
 
 ## Juliopolis Nekropolü: Ankara'nın Gizli Mirası

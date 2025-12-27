@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.915896,40.999905"
 draft: false
+
+weight: 100
 ---
 
 ## Pege Arkeolojik Sit

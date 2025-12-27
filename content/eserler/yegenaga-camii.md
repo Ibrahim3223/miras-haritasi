@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2799149,39.9119987"
 draft: false
+
+weight: 100
 ---
 
 ## Yeğenağa Camii

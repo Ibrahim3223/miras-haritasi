@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.550004,36.809628"
 draft: false
+
+weight: 10
 ---
 
 ## Oinoanda: Türkiye'nin Eski Kenti

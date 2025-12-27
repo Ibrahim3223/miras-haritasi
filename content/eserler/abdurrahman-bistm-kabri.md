@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0570621,40.1828995"
 draft: false
+
+weight: 100
 ---
 
 ### Abdurrahman Bistâmî Kabri

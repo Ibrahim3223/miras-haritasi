@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0297203,38.3037453"
 draft: false
+
+weight: 100
 ---
 
 ### Gölpınar Tümülüsü: Malatya'nın Tarihî Mirası

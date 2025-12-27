@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.461944444,37.948611111"
 draft: false
+
+weight: 10
 ---
 
 ### Konya Tropikal Kelebek Bahçesi

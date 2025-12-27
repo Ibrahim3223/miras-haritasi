@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.8232274,38.175549"
 draft: false
+
+weight: 10
 ---
 
 ## Çarpiran II. Köprü: Siirt'in Tarihî Mirası

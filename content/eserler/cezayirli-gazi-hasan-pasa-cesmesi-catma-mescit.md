@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968833333,41.03225"
 draft: false
+
+weight: 10
 ---
 
 ### Cezayirli Gazi Hasan Paşa Çeşmesi, Çatma Mescit: İstanbul'un Gizli Çeşmesi

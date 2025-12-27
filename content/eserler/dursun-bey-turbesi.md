@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1868286,39.1202049"
 draft: false
+
+weight: 100
 ---
 
 ## Dursun Bey Türbesi

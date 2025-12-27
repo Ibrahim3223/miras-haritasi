@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.239264,39.957005"
 draft: false
+
+weight: 10
 ---
 
 ## Bouleuterion (İlion)

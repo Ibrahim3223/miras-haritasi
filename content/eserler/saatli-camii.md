@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.69412,39.31897"
 draft: false
+
+weight: 10
 ---
 
 ### Ayvalık'ta Tarihi Bir Miras: Saatli Camii

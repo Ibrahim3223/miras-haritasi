@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.618611,40.015"
 draft: false
+
+weight: 10
 ---
 
 ## Büyükkale: Hattuşa'nın Gizemli Kapısı

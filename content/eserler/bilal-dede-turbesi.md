@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.6634769,37.7687073"
 draft: false
+
+weight: 100
 ---
 
 # Bilal Dede Türbesi

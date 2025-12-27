@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.982027777,41.028611111"
 draft: false
+
+weight: 10
 ---
 
 ### Ebulfazl Camii: İstanbul'un Gizli Cenneti

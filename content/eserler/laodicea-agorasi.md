@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1084895,37.8359637"
 draft: false
+
+weight: 10
 ---
 
 ## Laodicea Agorası

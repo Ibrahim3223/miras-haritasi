@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2324715,37.9116135"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Abdülcelil Türbesi

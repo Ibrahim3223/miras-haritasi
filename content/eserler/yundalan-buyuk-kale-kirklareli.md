@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3048153,41.7594795"
 draft: false
+
+weight: 100
 ---
 
 ## Yündalan Büyük Kale: Kırklareli'nin Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "27.3665485,37.9525833"
 draft: false
+
+weight: 100
 ---
 
 # Bizans Manastırı

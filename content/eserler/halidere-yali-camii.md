@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7576771,40.716629"
 draft: false
+
+weight: 100
 ---
 
 ### Halıdere Yalı Camii

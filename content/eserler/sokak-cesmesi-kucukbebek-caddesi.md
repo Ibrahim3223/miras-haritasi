@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0435467,41.0815887"
 draft: false
+
+weight: 10
 ---
 
 ## Sokak Çeşmesi, Küçükbebek Caddesi: Beşiktaş'ın Ören Yeri

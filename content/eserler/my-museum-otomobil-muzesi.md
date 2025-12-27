@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.106928,40.991901"
 draft: false
+
+weight: 100
 ---
 
 ### My Museum Otomobil Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.058063,41.114914"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Bayram Kaptan Çeşmesi

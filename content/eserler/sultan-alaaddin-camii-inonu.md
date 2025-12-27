@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1412792,39.8141212"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Alaaddin Camii (İnönü)

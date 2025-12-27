@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961458,41.015745"
 draft: false
+
+weight: 1
 ---
 
 ## Ahmet Bey Çeşmesi: Süleymaniye'nin Yüzyıllardır Bakılan Çeşmesi

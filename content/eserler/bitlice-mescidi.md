@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9445019,41.0261612"
 draft: false
+
+weight: 100
 ---
 
 ### Bitlice Mescidi Tanıtımı

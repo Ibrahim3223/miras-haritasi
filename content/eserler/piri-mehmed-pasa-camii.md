@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.24565,41.07345"
 draft: false
+
+weight: 10
 ---
 
 ### Piri Mehmed Paşa Camii

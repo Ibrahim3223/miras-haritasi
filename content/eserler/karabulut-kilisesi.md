@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.817111492,38.616384257"
 draft: false
+
+weight: 100
 ---
 
 ## Karabulut Kilisesi: Tarihî Bir Mirasın Gizemi

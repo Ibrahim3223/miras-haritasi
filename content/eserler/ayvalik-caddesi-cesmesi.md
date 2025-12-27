@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6580162,39.3326912"
 draft: false
+
+weight: 100
 ---
 
 ## Ayvalık Caddesi Çeşmesi: Ayvalık'ın Tarihi ve Kültürel Mirası

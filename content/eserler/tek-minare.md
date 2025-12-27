@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.5377235,39.4493484"
 draft: false
+
+weight: 100
 ---
 
 ## Tek Minare Camii: Eskişehir'in Gizli Cenneti

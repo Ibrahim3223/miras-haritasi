@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.15861111,39.75194444"
 draft: false
+
+weight: 10
 ---
 
 ## Alexandria Troas: Tarihi ve Kültürel Miras

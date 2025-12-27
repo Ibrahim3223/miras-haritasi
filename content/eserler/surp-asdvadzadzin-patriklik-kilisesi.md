@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.96083333,41.00472222"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Asdvadzadzin Patriklik Kilisesi

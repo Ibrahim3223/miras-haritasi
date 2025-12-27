@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.939351,36.578293"
 draft: false
+
+weight: 100
 ---
 
 ## Hamaksya: Alanya'nın Gizli Gizemi

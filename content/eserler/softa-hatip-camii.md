@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.963604,41.0192146"
 draft: false
+
+weight: 10
 ---
 
 ### Softa Hatip Camii

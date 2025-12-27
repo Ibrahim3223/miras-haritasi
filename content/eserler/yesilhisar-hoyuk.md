@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.1480236,39.1992238"
 draft: false
+
+weight: 100
 ---
 
 ### Yeşilhisar Höyük: Boğazlıyan'ın Gizli Şehri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.30849,40.25205"
 draft: false
+
+weight: 10
 ---
 
 ## Conk Bayır Yeni Zelanda Anıtı

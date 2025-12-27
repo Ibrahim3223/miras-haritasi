@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0056229,41.0421829"
 draft: false
+
+weight: 10
 ---
 
 **Uğur Mumcu Parkı Çeşmesi**

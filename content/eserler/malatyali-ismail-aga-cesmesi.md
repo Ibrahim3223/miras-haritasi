@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.016861111,41.018666666"
 draft: false
+
+weight: 10
 ---
 
 ## Malatyalı İsmail Ağa Çeşmesi

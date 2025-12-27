@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.6376858,36.1999321"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Cami (Kaş)

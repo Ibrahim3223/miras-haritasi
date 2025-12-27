@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.211111111,40.0575"
 draft: false
+
+weight: 10
 ---
 
 ## Seddülbahir Fransız Mezarlığı: Eceabat'taki Tarihî Bir Anıt

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.024313,41.016915"
 draft: false
+
+weight: 100
 ---
 
 ### Yakup Ağa Çeşmesi

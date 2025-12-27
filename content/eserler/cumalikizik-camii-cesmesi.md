@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1721706,40.1749115"
 draft: false
+
+weight: 100
 ---
 
 ## Cumalıkızık Camii Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.595852691,40.205678061"
 draft: false
+
+weight: 100
 ---
 
 ## Hamam, Kızılkeçili

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0945,37.4422"
 draft: false
+
+weight: 1
 ---
 
 ## Zeugma'daki Seleucia: Tarihi ve Kültürel Miras

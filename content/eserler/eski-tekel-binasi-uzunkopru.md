@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.6849136,41.2679863"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Tekel Binası, Uzunköprü

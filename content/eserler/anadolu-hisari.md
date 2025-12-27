@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.067027777,41.082138888"
 draft: false
+
+weight: 10
 ---
 
 # Anadolu Hisarı

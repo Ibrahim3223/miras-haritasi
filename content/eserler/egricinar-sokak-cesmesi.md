@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0122299,41.0467796"
 draft: false
+
+weight: 100
 ---
 
 ## Eğriçınar Sokak Çeşmesi

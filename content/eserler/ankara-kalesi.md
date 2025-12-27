@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.865,39.94166667"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Kalesi: Tarihe Adanan Bir Miras

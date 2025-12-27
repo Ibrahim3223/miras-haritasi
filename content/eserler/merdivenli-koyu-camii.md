@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.795715354,41.148690764"
 draft: false
+
+weight: 100
 ---
 
 ## Merdivenli Köyü Camii: Pazar, Rize'nin Tarihi Bir Mirası

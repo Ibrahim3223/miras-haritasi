@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.042567,41.161333"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mustafa Efendi Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi

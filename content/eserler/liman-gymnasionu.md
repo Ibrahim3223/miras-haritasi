@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.338250315,37.943299856"
 draft: false
+
+weight: 100
 ---
 
 ### Liman Gymnasionu

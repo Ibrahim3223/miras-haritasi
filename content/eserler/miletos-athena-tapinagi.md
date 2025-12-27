@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.271666666,37.528333333"
 draft: false
+
+weight: 100
 ---
 
 ### Miletos Athena Tapınağı: İyonya'nın Gizemi

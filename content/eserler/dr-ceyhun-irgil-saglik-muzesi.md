@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.983073601,40.214960049"
 draft: false
+
+weight: 10
 ---
 
 ## Dr. Ceyhun İrgil Sağlık Müzesi

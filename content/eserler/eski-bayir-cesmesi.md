@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2637978,37.2669716"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Bayır Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6141052,41.6826706"
 draft: false
+
+weight: 100
 ---
 
 ## İslambeyli Domuzdere Tümülüsü

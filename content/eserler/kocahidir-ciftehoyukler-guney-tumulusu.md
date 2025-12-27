@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9451809,41.6493301"
 draft: false
+
+weight: 100
 ---
 
 ## Kocahıdır Çiftehöyükler Güney Tümülüsü

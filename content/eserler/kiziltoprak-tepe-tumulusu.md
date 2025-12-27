@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.5315361,40.9990311"
 draft: false
+
+weight: 100
 ---
 
 ## Kızıltoprak Tepe Tümülüsü

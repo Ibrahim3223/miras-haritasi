@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.4465,40.357893"
 draft: false
+
+weight: 100
 ---
 
 ## Ağsar Kalesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.90847222,37.43083333"
 draft: false
+
+weight: 10
 ---
 
 ## Karasu Rölyefi: Araban'ın Tarihi Öyküsü

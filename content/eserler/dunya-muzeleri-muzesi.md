@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.5273,39.7795"
 draft: false
+
+weight: 10
 ---
 
 ## Dünya Müzeleri Müzesi: Eskişehir'in Tarihî Mirası

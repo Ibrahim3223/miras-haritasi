@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.910653,39.60672"
 draft: false
+
+weight: 100
 ---
 
 ### Hadrianotherai: Antik Kentin Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8202782,40.6505852"
 draft: false
+
+weight: 100
 ---
 
 ### Yörgüç Paşa Türbesi

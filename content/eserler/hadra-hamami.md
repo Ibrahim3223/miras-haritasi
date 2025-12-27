@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.6221352,36.7940292"
 draft: false
+
+weight: 100
 ---
 
 ## Hadra Hamamı: Akdeniz'in Gizli Cenneti

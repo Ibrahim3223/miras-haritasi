@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.7308655,40.3142319"
 draft: false
+
+weight: 100
 ---
 
 ## Kalecik Tümülüsü, Çaylı

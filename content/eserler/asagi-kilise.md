@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.1215973,39.3771172"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Kilise: Divriği'nin Gizli Cenneti

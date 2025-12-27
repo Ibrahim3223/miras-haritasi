@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Dülgeroğlu Camii: Tarihi ve Kültürel Mirasının Bir Parçası

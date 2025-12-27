@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.1135406,37.720562"
 draft: false
+
+weight: 100
 ---
 
 ## Hacıköseler Köprüsü

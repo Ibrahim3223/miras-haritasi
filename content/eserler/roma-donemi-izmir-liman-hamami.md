@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.13075,38.420111111"
 draft: false
+
+weight: 10
 ---
 
 ### Roma Dönemi İzmir Liman Hamamı: Tarihî Bir Ölümsüzlük

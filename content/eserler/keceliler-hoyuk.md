@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9265003,37.4930992"
 draft: false
+
+weight: 100
 ---
 
 ### Keçeliler Höyük: Tavas'ta Gizli Bir Geçmişi

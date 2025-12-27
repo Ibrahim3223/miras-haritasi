@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.948381199,40.340069872"
 draft: false
+
+weight: 100
 ---
 
 # Bandırma Tümülüsü

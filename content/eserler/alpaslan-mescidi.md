@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.367918,37.9511375"
 draft: false
+
+weight: 100
 ---
 
 ### Alpaslan Mescidi: İzmir'in Tarihî Bir Camisi

@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.13475,40.872277777"
 draft: false
+
+weight: 10
 ---
 
 ## Hesed Le Avraam Sinagogu

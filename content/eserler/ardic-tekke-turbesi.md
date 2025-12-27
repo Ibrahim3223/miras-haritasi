@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3612309,37.8067017"
 draft: false
+
+weight: 100
 ---
 
 ## Ardıç Tekke Türbesi: Honaz'ın Gizli Anıtı

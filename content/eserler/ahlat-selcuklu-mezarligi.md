@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "42.4577594,38.7425195"
 draft: false
+
+weight: 10
 ---
 
 ## Ahlat Selçuklu Mezarlığı

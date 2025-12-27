@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7390194,38.0810204"
 draft: false
+
+weight: 100
 ---
 
 ### Arappınarı Köprüsü 4: Tarihî Bir Gemi

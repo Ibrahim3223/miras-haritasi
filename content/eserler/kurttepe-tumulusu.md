@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8047562,41.5782623"
 draft: false
+
+weight: 100
 ---
 
 ## Kurttepe Tümülüsü

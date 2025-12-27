@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.6419258,38.5444107"
 draft: false
+
+weight: 100
 ---
 
 ## Kula Şehitliği

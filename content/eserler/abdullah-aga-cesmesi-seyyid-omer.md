@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.925329,41.007549"
 draft: false
+
+weight: 100
 ---
 
 # Abdullah Ağa Çeşmesi: Fatih'teki Bir Çağdaş Şöhret

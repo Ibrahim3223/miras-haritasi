@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.956261,41.024054"
 draft: false
+
+weight: 100
 ---
 
 ## Aşıkpaşa Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6917801,41.2478561"
 draft: false
+
+weight: 10
 ---
 
 ## Beybağı Sokağı Çeşmesi: Safranbolu'da Bir Kent Çeşmesinden Bahsetmek

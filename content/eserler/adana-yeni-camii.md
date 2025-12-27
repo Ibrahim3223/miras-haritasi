@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.323777777,36.988388888"
 draft: false
+
+weight: 10
 ---
 
 # Adana Yeni Camii: Seyhan'ın Semâlı Çatısı

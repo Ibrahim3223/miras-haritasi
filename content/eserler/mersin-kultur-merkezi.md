@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "34.63333333,36.8"
 draft: false
+
+weight: 10
 ---
 
 ### Mersin Kültür Merkezi: Tarihi ve Kültürel Mirasın Değerli Kalesi

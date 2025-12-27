@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.638611,36.7675"
 draft: false
+
+weight: 100
 ---
 
 ## Tell Halid Arkeolojik Sit

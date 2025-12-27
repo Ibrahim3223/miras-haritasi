@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.7287372,40.9823605"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Robot Müzesi

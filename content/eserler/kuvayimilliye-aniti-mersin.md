@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6103821,36.8207626"
 draft: false
+
+weight: 100
 ---
 
 **Kuvayımilliye Anıtı, Mersin**

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.14325,38.424305555"
 draft: false
+
+weight: 10
 ---
 
 ### 9 Eylül Kapısı: İzmir'in Gizli Mirası

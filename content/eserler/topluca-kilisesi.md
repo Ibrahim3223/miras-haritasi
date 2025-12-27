@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.3857994,38.3852959"
 draft: false
+
+weight: 100
 ---
 
 ## Topluca Kilisesi: Batman'ın Gizli Cenneti

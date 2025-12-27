@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7081318,41.3656502"
 draft: false
+
+weight: 100
 ---
 
 ## Kurttepe C Tümülüsü: Edirne'nin Gizli Ören Yeri

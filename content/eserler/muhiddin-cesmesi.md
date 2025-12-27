@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2208176,37.1796799"
 draft: false
+
+weight: 100
 ---
 
 ## Muhiddin Çeşmesi

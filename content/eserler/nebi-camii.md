@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.23649,37.915142"
 draft: false
+
+weight: 10
 ---
 
 ### Nebi Camii: Diyarbakır'ın Ölümsüz Yapısı

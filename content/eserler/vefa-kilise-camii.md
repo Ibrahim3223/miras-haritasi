@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.96030388,41.0162818"
 draft: false
+
+weight: 10
 ---
 
 ### Vefa Kilise Camii

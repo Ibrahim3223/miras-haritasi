@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.930804761,41.040712711"
 draft: false
+
+weight: 100
 ---
 
 ## Nişancı Mustafa Paşa Cami

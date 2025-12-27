@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8944,40.6939"
 draft: false
+
+weight: 100
 ---
 
 **Eribolum Arkeolojik Sit**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.056416666,40.185"
 draft: false
+
+weight: 10
 ---
 
 ## Veled-i Yaniç Camii: Bursa'nın Gizli Çeşmesi

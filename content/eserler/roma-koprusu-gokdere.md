@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.7627577,41.4680385"
 draft: false
+
+weight: 100
 ---
 
 # Roma Köprüsü, Gökdere

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9954645,39.3752236"
 draft: false
+
+weight: 100
 ---
 
 ### Keçihöyüğü: Yenifakılı'nın Gizemli Arkeolojik Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.72601,38.74342"
 draft: false
+
+weight: 100
 ---
 
 ## Tyanollos: Manisa'nın Gizli Mabeti

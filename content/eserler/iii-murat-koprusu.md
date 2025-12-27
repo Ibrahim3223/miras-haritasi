@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "43.088787,40.611737"
 draft: false
+
+weight: 10
 ---
 
 ## III. Murat Köprüsü

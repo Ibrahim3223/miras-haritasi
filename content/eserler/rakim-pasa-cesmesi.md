@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056725,41.088593"
 draft: false
+
+weight: 10
 ---
 
 # Rakım Paşa Çeşmesi

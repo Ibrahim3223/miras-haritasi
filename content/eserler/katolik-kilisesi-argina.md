@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.632222222,40.711111111"
 draft: false
+
+weight: 10
 ---
 
 ## Katolik Kilisesi (Argina): Kayaköprü'deki Tarihî Bir Miras

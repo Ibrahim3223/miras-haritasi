@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.027944444,40.9875"
 draft: false
+
+weight: 10
 ---
 
 ### Baba Sahne: İstanbul'un Tarihi ve Kültürel Mirası

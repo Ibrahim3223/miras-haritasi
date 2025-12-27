@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.569171287,39.01239365"
 draft: false
+
+weight: 10
 ---
 
 ## Ayazini Metropolisi Kilisesi

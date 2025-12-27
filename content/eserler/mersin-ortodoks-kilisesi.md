@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.625,36.79333333"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Ortodoks Kilisesi: Eski ve Gizemli Bir Miras

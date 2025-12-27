@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3793163,37.6221352"
 draft: false
+
+weight: 100
 ---
 
 ## Kazandere Köprüsü: Aydın'ın Tarihi Bir Mirası

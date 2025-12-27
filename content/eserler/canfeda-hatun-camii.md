@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.941178,41.026421"
 draft: false
+
+weight: 10
 ---
 
 ## Canfeda Hatun Camii

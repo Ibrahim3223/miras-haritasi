@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.939941,41.035247"
 draft: false
+
+weight: 10
 ---
 
 ### Hz. Şube Türbesi: Fatih'te Bir Kıymetli Anıt

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3239975,42.0306587"
 draft: false
+
+weight: 100
 ---
 
 ### Kula Ayazma Kalebeli 2 Tümülüsü: Kırklareli'nin Gizli Mirası

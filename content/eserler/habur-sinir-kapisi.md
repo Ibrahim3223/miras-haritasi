@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "42.566977,37.147749"
 draft: false
+
+weight: 10
 ---
 
 ## Habur Sınır Kapısı: Geçmişi ve Mimari Özellikleri

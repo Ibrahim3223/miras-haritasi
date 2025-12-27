@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.5801373,41.0220718"
 draft: false
+
+weight: 100
 ---
 
 # Yusuf Paşa Hamamı

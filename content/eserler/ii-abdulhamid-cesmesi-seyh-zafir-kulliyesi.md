@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.008206,41.045705"
 draft: false
+
+weight: 10
 ---
 
 **II. Abdülhamid Çeşmesi, Şeyh Zafir Külliyesi**

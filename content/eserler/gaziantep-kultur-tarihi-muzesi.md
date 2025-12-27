@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.313586,37.038202"
 draft: false
+
+weight: 100
 ---
 
 **Gaziantep Kültür Tarihi Müzesi**

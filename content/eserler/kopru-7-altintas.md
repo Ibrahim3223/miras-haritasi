@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3084888,37.6123619"
 draft: false
+
+weight: 100
 ---
 
 ## Köprü 7, Altıntaş: Aydın'ın Gizli Çehresini Keşfetmek

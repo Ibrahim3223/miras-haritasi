@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9797668,41.0076637"
 draft: false
+
+weight: 1
 ---
 
 # Ayasofya Sebili: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

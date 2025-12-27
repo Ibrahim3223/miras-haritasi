@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0663185,40.1859589"
 draft: false
+
+weight: 100
 ---
 
 ## Alan Yeri Camii

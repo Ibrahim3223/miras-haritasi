@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.153623,41.216713"
 draft: false
+
+weight: 10
 ---
 
 ### Sultan II. Mahmut Çeşmesi, Anadolufeneri

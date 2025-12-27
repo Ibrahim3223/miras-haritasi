@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "34.542286,36.745014"
 draft: false
+
+weight: 100
 ---
 
 # Soloi Pompeipolis Antik Tiyatrosu

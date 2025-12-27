@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.002842,39.650105"
 draft: false
+
+weight: 100
 ---
 
 ### Gordion Tümülüs 2

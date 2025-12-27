@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.921686631,40.170709341"
 draft: false
+
+weight: 100
 ---
 
 ## Gaz Lambası Müzesi

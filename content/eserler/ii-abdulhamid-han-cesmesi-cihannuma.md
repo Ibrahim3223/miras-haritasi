@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0084305,41.0458565"
 draft: false
+
+weight: 10
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Cihannüma

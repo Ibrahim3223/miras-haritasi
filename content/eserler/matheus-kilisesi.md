@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.5331497,40.1766701"
 draft: false
+
+weight: 100
 ---
 
 ## Matheus Kilisesi: Gönen'in Gizli Çehresi

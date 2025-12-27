@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3206367,38.2387619"
 draft: false
+
+weight: 100
 ---
 
 ### Taşlızade Çeşmesi, Yazıbaşı: İzmir'in Tarihi Bir Çeşmesi

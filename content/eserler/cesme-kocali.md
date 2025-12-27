@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.2505569,39.739048"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Koçali: Ezine'nin Eğrelti Çeşmesi

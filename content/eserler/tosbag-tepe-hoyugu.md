@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.5509796,38.869957"
 draft: false
+
+weight: 100
 ---
 
 ## Tosbağ Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9735374,41.0231552"
 draft: false
+
+weight: 10
 ---
 
 ## İbrahim Efendi Çeşmesi: Beyoğlu'ndaki Bir Örnek

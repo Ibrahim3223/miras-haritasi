@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9858189,41.0356674"
 draft: false
+
+weight: 10
 ---
 
 ## Kazancı Baba Kabri: Beyoğlu'ndaki Bir Anıtın Gizemi

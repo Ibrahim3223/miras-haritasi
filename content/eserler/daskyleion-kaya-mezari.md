@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.0657597,40.1296654"
 draft: false
+
+weight: 100
 ---
 
 ### Daskyleion Kaya Mezarı

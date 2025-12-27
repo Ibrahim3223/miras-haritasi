@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Karavelyan Höyüğü: Türkiye'nin Tarihî Mirasının Gizli Çehresi

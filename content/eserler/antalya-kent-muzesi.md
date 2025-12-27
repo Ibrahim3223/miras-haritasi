@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.709421,36.881069"
 draft: false
+
+weight: 100
 ---
 
 ## Antalya Kent Müzesi: Bir Tarihî Kentin Gizemleri

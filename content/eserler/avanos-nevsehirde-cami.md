@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8473,38.7191"
 draft: false
+
+weight: 100
 ---
 
 # Avanos, Nevşehir'de Bir Cami: Kültür Mirası

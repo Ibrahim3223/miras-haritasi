@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.882904876,38.833534253"
 draft: false
+
+weight: 100
 ---
 
 ## Taşkale Höyük: Aksaray'ın Gizli Mirası

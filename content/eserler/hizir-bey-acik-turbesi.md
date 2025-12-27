@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.9471512,38.4920616"
 draft: false
+
+weight: 100
 ---
 
 ## Hızır Bey Açık Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4306412,38.6171379"
 draft: false
+
+weight: 100
 ---
 
 **Terzi Ahmet Dede Türbesi**

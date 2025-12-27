@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.38833333,37.06194444"
 draft: false
+
+weight: 10
 ---
 
 ## Boyacı Camii: Gaziantep'in Öyküsünü Tutan Bir Tarih Öreni

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.544105555,41.685861111"
 draft: false
+
+weight: 10
 ---
 
 ## II. Bayezid Camii: Edirne'nin Güzelliği

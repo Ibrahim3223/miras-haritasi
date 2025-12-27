@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.9281893,38.2967993"
 draft: false
+
+weight: 10
 ---
 
 ## Naregavank Manastırı

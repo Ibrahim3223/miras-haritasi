@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.3256264,40.6436081"
 draft: false
+
+weight: 100
 ---
 
 ## Gökçebel Höyük: Türkiye'nin Gizli Çağı

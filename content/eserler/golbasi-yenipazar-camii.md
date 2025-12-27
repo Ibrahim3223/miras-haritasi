@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.5390167,41.0209007"
 draft: false
+
+weight: 100
 ---
 
 ### Gölbaşı Yenipazar Camii

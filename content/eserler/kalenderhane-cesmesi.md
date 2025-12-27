@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9584985,41.0138383"
 draft: false
+
+weight: 100
 ---
 
 ### Kalenderhane Çeşmesi: İstanbul'un Gizli Cenneti

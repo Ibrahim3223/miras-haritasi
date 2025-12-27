@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.6475,36.883888888"
 draft: false
+
+weight: 100
 ---
 
 ## Tenedos (Pamfilya)

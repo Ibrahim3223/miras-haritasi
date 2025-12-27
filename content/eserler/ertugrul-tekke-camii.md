@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.00861111,41.04555556"
 draft: false
+
+weight: 10
 ---
 
 ## Ertuğrul Tekke Camii: İstanbul'un Gizli Cenneti

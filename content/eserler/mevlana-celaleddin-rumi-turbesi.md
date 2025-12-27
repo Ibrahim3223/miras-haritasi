@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.505086,37.870656"
 draft: false
+
+weight: 10
 ---
 
 ## Mevlana Celaleddin Rumi Türbesi

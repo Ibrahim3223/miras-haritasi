@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0732002,38.969101"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Camii: Bergama'da Bir Tarihi Harikalar

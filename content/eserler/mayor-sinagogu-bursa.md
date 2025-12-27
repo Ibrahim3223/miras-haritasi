@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.091796,40.229218"
 draft: false
+
+weight: 10
 ---
 
 ### Mayor Sinagogu: Bursa'nın Gizli Çehresi

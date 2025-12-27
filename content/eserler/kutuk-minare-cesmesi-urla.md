@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7720184,38.3223152"
 draft: false
+
+weight: 100
 ---
 
 ## Kütük Minare Çeşmesi, Urla

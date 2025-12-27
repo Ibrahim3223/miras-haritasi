@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "27.298333333,37.659166666"
 draft: false
+
+weight: 10
 ---
 
 ## Prytaneion (Priene)

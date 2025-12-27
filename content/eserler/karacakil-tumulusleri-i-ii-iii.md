@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.7475204,38.4265213"
 draft: false
+
+weight: 100
 ---
 
 ## Karaçakıl Tümülüsleri I-II-III: Malatya'nın Gizli Anıtları

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.163611111,36.594166666"
 draft: false
+
+weight: 100
 ---
 
 # İskenderun Deniz Müzesi

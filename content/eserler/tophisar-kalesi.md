@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.1704674,40.2239265"
 draft: false
+
+weight: 100
 ---
 
 **Tophisar Kalesi: Karacabey'in Yüzyıllar Önceki Tarihi**

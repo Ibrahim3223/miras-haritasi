@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9615612,41.0069695"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Camii: İstanbul'un Gizli Çeşmesi

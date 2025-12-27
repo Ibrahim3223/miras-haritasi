@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.27716,40.23883"
 draft: false
+
+weight: 10
 ---
 
 ## Anzak Arı Burnu Mezarlığı

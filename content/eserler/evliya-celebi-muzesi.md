@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.987692,39.415453"
 draft: false
+
+weight: 100
 ---
 
 # Evliya Çelebi Müzesi

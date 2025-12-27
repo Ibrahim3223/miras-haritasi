@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8759384,40.9820671"
 draft: false
+
+weight: 10
 ---
 
 ## Amine Hatun Camii: Bakırköy'de Bir Ölümsüz

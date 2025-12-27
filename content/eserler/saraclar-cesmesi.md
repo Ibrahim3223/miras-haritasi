@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.028116489,41.002826978"
 draft: false
+
+weight: 100
 ---
 
 ## Saraçlar Çeşmesi: Kadıköy'ün Tarihi Parçası

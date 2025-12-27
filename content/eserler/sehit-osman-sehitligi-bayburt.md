@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.219851,40.260831"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Osman Şehitliği, Bayburt

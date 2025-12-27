@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "31.718473791,37.683706402"
 draft: false
+
+weight: 100
 ---
 
 ## Eşrefoğlu Sebili ve Kütüphanesi

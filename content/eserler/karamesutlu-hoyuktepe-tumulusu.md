@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0821342,41.4915504"
 draft: false
+
+weight: 100
 ---
 
 ### Karamesutlu Höyüktepe Tümülüsü

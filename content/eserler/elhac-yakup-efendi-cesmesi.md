@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941462,41.003269"
 draft: false
+
+weight: 100
 ---
 
 ## Elhac Yakup Efendi Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935293,41.047355"
 draft: false
+
+weight: 100
 ---
 
 ### Ferhat Paşa Türbesi

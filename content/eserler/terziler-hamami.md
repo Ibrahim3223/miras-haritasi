@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7358322,38.0844803"
 draft: false
+
+weight: 10
 ---
 
 ## Terziler Hamamı: Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.6023045,36.873848"
 draft: false
+
+weight: 100
 ---
 
 # Sultaniye Kaplıcası: Bir Tarih Öreni ve Kültürel Miras

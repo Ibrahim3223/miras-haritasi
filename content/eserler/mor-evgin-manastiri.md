@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.43027778,37.19388889"
 draft: false
+
+weight: 10
 ---
 
 ## Mor Evgin Manastırı: Mezopotamya'nın Gizli Cenneti

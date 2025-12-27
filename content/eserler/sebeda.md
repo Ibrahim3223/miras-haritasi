@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.650917,36.173309"
 draft: false
+
+weight: 10
 ---
 
 ### Sebeda

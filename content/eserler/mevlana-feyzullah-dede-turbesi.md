@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3267994,37.9019012"
 draft: false
+
+weight: 100
 ---
 
 ## Mevlana Feyzullah Dede Türbesi

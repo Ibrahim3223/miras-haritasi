@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4939575,38.7239761"
 draft: false
+
+weight: 100
 ---
 
 ## Sivas Caddesi Çeşmesi

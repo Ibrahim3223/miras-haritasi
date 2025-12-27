@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.85187,36.30492"
 draft: false
+
+weight: 100
 ---
 
 ## Mylae Arkeolojik Sit

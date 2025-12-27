@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.012607,41.046136"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşilfıstık Sokak Çeşmesi: Yıldız'ın Şirin Çeşmesi

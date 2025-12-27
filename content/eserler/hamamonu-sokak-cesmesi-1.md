@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6932831,41.2455063"
 draft: false
+
+weight: 10
 ---
 
 ## Hamamönü Sokak Çeşmesi 1: Safranbolu'nun Tarihî Bir Çeşmesi

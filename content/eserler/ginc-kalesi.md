@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.0533981,38.7967949"
 draft: false
+
+weight: 100
 ---
 
 ## Ginc Kalesi: Bingöl'ün Tarihi Mirası

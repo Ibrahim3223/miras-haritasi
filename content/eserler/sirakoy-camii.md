@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.916547002,40.801410739"
 draft: false
+
+weight: 100
 ---
 
 ## Sıraköy Camii: Çamlıhemşin'in Gizemi

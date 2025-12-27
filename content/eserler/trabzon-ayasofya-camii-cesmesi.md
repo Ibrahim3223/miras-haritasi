@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.6959076,41.0027504"
 draft: false
+
+weight: 1
 ---
 
 # Trabzon Ayasofya Camii Çeşmesi

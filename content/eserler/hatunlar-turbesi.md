@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "35.1621056,42.025631"
 draft: false
+
+weight: 100
 ---
 
 ## Hatunlar Türbesi: Sinop'un Gizli Anıtı

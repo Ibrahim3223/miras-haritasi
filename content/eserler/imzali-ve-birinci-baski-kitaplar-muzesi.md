@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.783181886,40.992329786"
 draft: false
+
+weight: 100
 ---
 
 ## İmzalı ve Birinci Baskı Kitaplar Müzesi

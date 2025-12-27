@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.457166666,41.143694444"
 draft: false
+
+weight: 10
 ---
 
 **Vezirköprü Saat Kulesi: Tarihi ve Kültürel Miras**

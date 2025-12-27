@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9888935,41.0354156"
 draft: false
+
+weight: 100
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Gümüşsuyu

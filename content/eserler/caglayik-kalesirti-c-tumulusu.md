@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.326582,42.0336876"
 draft: false
+
+weight: 100
 ---
 
 ### Çağlayık Kalesırtı C Tümülüsü

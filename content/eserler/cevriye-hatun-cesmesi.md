@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.088702,41.173615"
 draft: false
+
+weight: 10
 ---
 
 ## Cevriye Hatun Çeşmesi: Beykoz'un Tarihi ve Kültürel Mirası

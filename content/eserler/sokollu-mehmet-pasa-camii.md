@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.96777778,41.025"
 draft: false
+
+weight: 10
 ---
 
 ## Sokollu Mehmet Paşa Camii: Beyoğlu'ndaki Bir Örnek

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.5579453,41.6789856"
 draft: false
+
+weight: 100
 ---
 
 ## Edirne Kent Müzesi: Edirne'nin Tarihi ve Kültürel Mirası

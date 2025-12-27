@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.413640936,37.072599712"
 draft: false
+
+weight: 100
 ---
 
 ## Pedesa T11 Tümülüsü

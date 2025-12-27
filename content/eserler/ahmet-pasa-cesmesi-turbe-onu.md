@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9506092,41.0192947"
 draft: false
+
+weight: 100
 ---
 
 **Ahmet Paşa Çeşmesi, Türbe Önü**

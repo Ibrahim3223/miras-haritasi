@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.91757,40.99175"
 draft: false
+
+weight: 10
 ---
 
 ## Yedi Şehitler Kabristanı: Zeytinburnu'da Bir Tarihsel Miras

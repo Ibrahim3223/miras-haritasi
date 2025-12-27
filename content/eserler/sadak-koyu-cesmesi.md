@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.5954208,40.0257187"
 draft: false
+
+weight: 100
 ---
 
 ### Sadak Köyü Çeşmesi

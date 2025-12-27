@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.776165,41.37183"
 draft: false
+
+weight: 100
 ---
 
 ## Dede Sultan Türbesi

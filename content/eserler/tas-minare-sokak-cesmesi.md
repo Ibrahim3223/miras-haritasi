@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6889,41.2503014"
 draft: false
+
+weight: 10
 ---
 
 ## Taş Minare Sokak Çeşmesi: Safranbolu'nun Tarihi Örenliği

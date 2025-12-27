@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.6515236,37.9768982"
 draft: false
+
+weight: 100
 ---
 
 ## Kumluca Rum Kilisesi: Niğde'nin Tarihi Bir Mirası

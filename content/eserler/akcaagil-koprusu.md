@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.0521774,40.2270813"
 draft: false
+
+weight: 100
 ---
 
 ### Akçaağıl Köprüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.493208208,37.870840942"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Pavlus Kilisesi Çeşmesi

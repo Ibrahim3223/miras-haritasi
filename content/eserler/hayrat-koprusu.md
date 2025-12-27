@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.367595,40.888556"
 draft: false
+
+weight: 100
 ---
 
 # Hayrat Köprüsü: Trabzon'un tarihi ve kültürel mirasının bir parçası

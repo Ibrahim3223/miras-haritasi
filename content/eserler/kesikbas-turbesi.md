@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8653259,39.9375153"
 draft: false
+
+weight: 10
 ---
 
 ## Kesikbaş Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.508324,37.474596"
 draft: false
+
+weight: 100
 ---
 
 ## İoniapolis: Milas'ın Gizli Kahramanı

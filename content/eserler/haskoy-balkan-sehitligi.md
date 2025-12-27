@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.8595695,41.6411438"
 draft: false
+
+weight: 10
 ---
 
 ## Hasköy Balkan Şehitliği: Türkiye'nin Tarihi ve Kültürel Mirası

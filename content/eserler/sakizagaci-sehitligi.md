@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.92759,41.03469"
 draft: false
+
+weight: 10
 ---
 
 ## Sakızağacı Şehitliği

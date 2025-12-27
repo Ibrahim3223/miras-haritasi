@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.2104454,41.0589676"
 draft: false
+
+weight: 100
 ---
 
 **Alemdar Baba Türbesi: İstanbul'un Gizli Kahramanı**

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8453511,38.6383311"
 draft: false
+
+weight: 10
 ---
 
 ## Yılanlı Kilise: Göreme'nin Gizli Çehresi

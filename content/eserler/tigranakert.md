@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.00138889,38.14222222"
 draft: false
+
+weight: 10
 ---
 
 ### Tigranakert: Diyarbakır'ın Gizli Mirası

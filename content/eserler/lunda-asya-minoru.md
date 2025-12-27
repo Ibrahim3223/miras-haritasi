@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.455009,38.0296065"
 draft: false
+
+weight: 100
 ---
 
 ## Lunda (Asya Minörü): Aşağıseyit'te Gizli Bir Şehirdir

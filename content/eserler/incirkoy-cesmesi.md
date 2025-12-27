@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0975761,41.1194038"
 draft: false
+
+weight: 10
 ---
 
 ## İncirköy Çeşmesi

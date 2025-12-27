@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9284344,41.0035477"
 draft: false
+
+weight: 100
 ---
 
 ### Sümbül Efendi Camii Şadırvanı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.400278,38.764014"
 draft: false
+
+weight: 100
 ---
 
 ## Kureyş Baba Kümbeti: Afyonkarahisar'ın Gizli Çağı

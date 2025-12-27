@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.134722222,38.424722222"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Fotini Kilisesi: İzmir'in Tarihi ve Kültürel Mirası

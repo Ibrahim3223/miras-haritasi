@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.3925838,40.9936447"
 draft: false
+
+weight: 100
 ---
 
 ## Üğcektepe Tümülüsü

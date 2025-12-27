@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0496,41.02095"
 draft: false
+
+weight: 100
 ---
 
 ## Güroluk Kale Köprüsü: Rize'nin Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8303923,39.4232942"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniyapan Höyüğü: Kaman'da Gizlenen Geçmiş

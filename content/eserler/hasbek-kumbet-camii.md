@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4814644,38.7225838"
 draft: false
+
+weight: 100
 ---
 
 ## Hasbek Kümbet Camii: Kayseri'nin Tarihi Bir Anıt

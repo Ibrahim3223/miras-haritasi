@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.226244,40.267012"
 draft: false
+
+weight: 100
 ---
 
 # Çağırkanlı Sultan Türbesi

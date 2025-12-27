@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946694444,41.014972222"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmediye Camii: İstanbul'un Tarihi Mirası

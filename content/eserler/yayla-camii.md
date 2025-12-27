@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.3520012,41.0359993"
 draft: false
+
+weight: 100
 ---
 
 ### Yayla Camii: Samsun'un Tarihi ve Kültürel Mirası

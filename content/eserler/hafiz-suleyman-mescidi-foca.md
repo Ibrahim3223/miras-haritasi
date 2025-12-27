@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7538338,38.6672478"
 draft: false
+
+weight: 100
 ---
 
 ## Hafız Süleyman Mescidi: Foça'da Bir Tarihi Cami

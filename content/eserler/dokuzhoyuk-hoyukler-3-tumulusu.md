@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0653553,41.6463661"
 draft: false
+
+weight: 100
 ---
 
 ## Dokuzhöyük Höyükler 3 Tümülüsü

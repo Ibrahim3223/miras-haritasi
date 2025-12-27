@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.782922,41.232464"
 draft: false
+
+weight: 100
 ---
 
 ## Karşı Mahalle Camii: Safranbolu'nun Tarihi ve Kültürel Bir Mirası

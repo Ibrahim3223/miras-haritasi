@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0090809,39.8488388"
 draft: false
+
+weight: 100
 ---
 
 ## İntikamtepe Şehitliği: Bozüyük'teki Anıtsal Anlamı

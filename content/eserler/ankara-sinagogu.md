@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "32.8605,39.9355"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Sinagogu

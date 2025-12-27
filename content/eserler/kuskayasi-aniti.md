@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.365066,41.723308"
 draft: false
+
+weight: 10
 ---
 
 ### Kuşkayası Anıtı: Amasra'nın Tarihi Mirası

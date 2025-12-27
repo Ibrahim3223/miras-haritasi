@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.602231,37.1667361"
 draft: false
+
+weight: 10
 ---
 
 ## Namrun Kalesi: Mersin'in Gizli Mücevheri

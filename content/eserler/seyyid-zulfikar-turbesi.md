@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7178078,41.6176834"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Zülfikar Türbesi

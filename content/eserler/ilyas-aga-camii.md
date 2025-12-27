@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4047737,37.7523422"
 draft: false
+
+weight: 100
 ---
 
 ## İlyas Ağa Camii: Aydın'ın Tarihi ve Kültürel Mirası

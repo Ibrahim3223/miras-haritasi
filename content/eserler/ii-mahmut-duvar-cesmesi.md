@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.054474,41.10148"
 draft: false
+
+weight: 10
 ---
 
 ## II. Mahmut Duvar Çeşmesi

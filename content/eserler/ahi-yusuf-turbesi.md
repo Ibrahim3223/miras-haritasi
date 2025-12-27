@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.1203079,39.3702087"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Yusuf Türbesi: Divriği'nin Gizli Cenneti

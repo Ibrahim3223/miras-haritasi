@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9804363,41.0113182"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Şark Eserleri Müzesi

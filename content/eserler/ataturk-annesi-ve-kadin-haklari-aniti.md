@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.124166666,38.455555555"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk, Annesi ve Kadın Hakları Anıtı

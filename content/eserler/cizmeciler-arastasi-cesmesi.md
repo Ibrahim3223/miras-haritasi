@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17852222,39.12154722"
 draft: false
+
+weight: 10
 ---
 
 ## Çizmeciler Arastası Çeşmesi

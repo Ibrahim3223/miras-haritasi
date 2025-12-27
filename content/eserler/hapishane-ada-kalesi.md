@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.6378822,36.9234772"
 draft: false
+
+weight: 100
 ---
 
 ## Hapishane Ada Kalesi: Köyceğiz'in Gizli Kahramanı

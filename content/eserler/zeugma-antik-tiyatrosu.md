@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.866192,37.056307"
 draft: false
+
+weight: 1
 ---
 
 **Zeugma Antik Tiyatrosu: Gaziantep'in Gizli Çehresini Keşfedin**

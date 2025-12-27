@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.972542033,41.022445412"
 draft: false
+
+weight: 100
 ---
 
 ## Korint Başlıklı Su Tulumbası: Kurşunlu Han'ın Gizli Çeşmesi

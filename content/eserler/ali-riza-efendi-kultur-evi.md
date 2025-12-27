@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.2237568,41.7397156"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Rıza Efendi Kültür Evi: Kırklareli'nin Etkileyici Kültür Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1302757,38.4225159"
 draft: false
+
+weight: 100
 ---
 
 ## Konak Pier Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9841704,39.0246078"
 draft: false
+
+weight: 100
 ---
 
 ## Appia: Geçmişin İzleri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.085522,40.175761"
 draft: false
+
+weight: 10
 ---
 
 ## Pir Emir Türbesi

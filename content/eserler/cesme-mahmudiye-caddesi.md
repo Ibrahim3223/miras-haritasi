@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9232998,41.0502014"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Mahmudiye Caddesi: Eyüpsultan'daki Tarihi Bir Çeşme

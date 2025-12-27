@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2,36.5833"
 draft: false
+
+weight: 10
 ---
 
 ## Yanıkhan Arkeolojik Sit

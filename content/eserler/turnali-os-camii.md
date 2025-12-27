@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.967934,40.793323"
 draft: false
+
+weight: 10
 ---
 
 ## Turnalı Os Camii: Trabzon'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.987777777,41.061388888"
 draft: false
+
+weight: 10
 ---
 
 # Şişli Camii: Osmanlı Dönemi'nin Önemli Bir Mirası

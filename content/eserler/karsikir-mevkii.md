@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.185267,38.476433"
 draft: false
+
+weight: 100
 ---
 
 ## Karşıkır Mevkii: Afyonkarahisar'ın Gizli Hazinesi

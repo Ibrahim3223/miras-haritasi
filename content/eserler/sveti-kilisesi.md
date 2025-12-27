@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.855416666,41.206305555"
 draft: false
+
+weight: 10
 ---
 
 ## Sveti Kilisesi: Artvin'in Tarihi ve Kültürel Mirası

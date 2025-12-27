@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.84610851,38.638401983"
 draft: false
+
+weight: 10
 ---
 
 ## Malta Haçlı Kilise

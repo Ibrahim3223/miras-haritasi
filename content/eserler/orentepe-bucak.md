@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.486346403,37.265652994"
 draft: false
+
+weight: 100
 ---
 
 ## Örentepe, Bucak: Bir Arkeolojik Sitin Gizemi

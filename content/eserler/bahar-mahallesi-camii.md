@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.894298537,41.032411324"
 draft: false
+
+weight: 100
 ---
 
 ## Bahar Mahallesi Camii: Hemşin'in Tarihi ve Kültürel Mirası

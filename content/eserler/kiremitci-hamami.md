@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0636616,40.1910553"
 draft: false
+
+weight: 100
 ---
 
 ## Kiremitçi Hamamı: Bursa'nın Eskişehir'den Kalma Gizemi

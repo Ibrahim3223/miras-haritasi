@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.9739494,39.4209442"
 draft: false
+
+weight: 100
 ---
 
 ## Kemer Hamamı Tanıtımı

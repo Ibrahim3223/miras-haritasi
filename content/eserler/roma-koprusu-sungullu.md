@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.308146,38.869461"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Süngüllü

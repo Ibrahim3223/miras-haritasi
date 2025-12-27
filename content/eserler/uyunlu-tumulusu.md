@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.5418663,41.8095474"
 draft: false
+
+weight: 100
 ---
 
 # Üyünlü Tümülüsü

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.0022869,40.0985565"
 draft: false
+
+weight: 100
 ---
 
 ## Küplü Ortodoks Kilisesi

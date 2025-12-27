@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "43.0588951,40.5816269"
 draft: false
+
+weight: 100
 ---
 
 # Çamçavuş Çelik Köprüsü

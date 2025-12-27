@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.87305556,39.93833333"
 draft: false
+
+weight: 10
 ---
 
 **Ulucanlar Cezaevi Müzesi**

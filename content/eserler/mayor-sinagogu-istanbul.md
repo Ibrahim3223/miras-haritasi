@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.95138889,41.03972222"
 draft: false
+
+weight: 10
 ---
 
 ## Mayor Sinagogu: İstanbul'un Tarihi ve Kültürel Mirası

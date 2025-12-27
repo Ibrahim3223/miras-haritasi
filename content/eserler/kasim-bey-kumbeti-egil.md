@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.077693,38.146761"
 draft: false
+
+weight: 100
 ---
 
 ### Kasım Bey Kümbeti

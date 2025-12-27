@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.984998,41.012598"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Orta Avlu Çeşmesi 1: Geçmişi ve Günceliği

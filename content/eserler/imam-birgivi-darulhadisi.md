@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.0677624,38.2565308"
 draft: false
+
+weight: 100
 ---
 
 ## İmam Birgivi Darülhadisi: Ödemiş'in Tarihi ve Kültürel Mirası

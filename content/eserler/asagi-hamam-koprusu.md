@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.1173019,39.3730431"
 draft: false
+
+weight: 10
 ---
 
 ## Aşağı Hamam Köprüsü

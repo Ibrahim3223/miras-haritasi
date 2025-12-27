@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0986556,40.8391911"
 draft: false
+
+weight: 10
 ---
 
 ## Apivanak Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası

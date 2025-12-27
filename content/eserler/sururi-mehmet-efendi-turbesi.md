@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.972275677,41.035162551"
 draft: false
+
+weight: 100
 ---
 
 ### Sururi Mehmet Efendi Türbesi

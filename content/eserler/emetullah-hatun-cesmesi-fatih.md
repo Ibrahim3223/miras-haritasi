@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961942,41.009174"
 draft: false
+
+weight: 10
 ---
 
 ### Emetullah Hatun Çeşmesi: Fatih'ten Bir Örnek

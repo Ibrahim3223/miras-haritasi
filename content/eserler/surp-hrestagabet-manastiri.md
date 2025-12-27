@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "39.030556,39.611111"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Hreştagabet Manastırı: Erzincan'ın Gizli Cenneti

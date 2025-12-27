@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "38.7913143,37.155054"
 draft: false
+
+weight: 100
 ---
 
 ## Vezir Hamamı: Şanlıurfa'da Bir Geçmişin İzleri

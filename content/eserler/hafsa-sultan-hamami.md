@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4270802,38.6115456"
 draft: false
+
+weight: 100
 ---
 
 ## Hafsa Sultan Hamamı: Manisa'nın Tarihi Bir Mirası

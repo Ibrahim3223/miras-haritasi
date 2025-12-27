@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.423662,40.283253"
 draft: false
+
+weight: 100
 ---
 
 # Topal Mehmet Paşa Çeşmesi

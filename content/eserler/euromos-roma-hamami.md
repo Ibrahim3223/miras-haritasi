@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.6704845,37.3773575"
 draft: false
+
+weight: 100
 ---
 
 ## Euromos Roma Hamamı

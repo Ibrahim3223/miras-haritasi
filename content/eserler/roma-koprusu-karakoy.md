@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.0619937,38.7940349"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Karaköy

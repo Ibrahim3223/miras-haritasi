@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7188377,37.7304802"
 draft: false
+
+weight: 100
 ---
 
 ### Çataltepe, Koçarlı: Aydın'ın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0457344,40.190937"
 draft: false
+
+weight: 10
 ---
 
 **Muradiye Medresesi: Bursa'nın Tarihi ve Kültürel Mirası**

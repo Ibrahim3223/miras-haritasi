@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9266491,39.7532692"
 draft: false
+
+weight: 100
 ---
 
 ### Killi Höyük: Bozüyük'ün Gizemi

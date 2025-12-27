@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.558333,37.770833"
 draft: false
+
+weight: 100
 ---
 
 ### Isparta Müzesi

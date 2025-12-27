@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.6839352,40.4758644"
 draft: false
+
+weight: 100
 ---
 
 ### Karasu Deresi Köprüsü

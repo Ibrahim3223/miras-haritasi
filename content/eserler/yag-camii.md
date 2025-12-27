@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.326944,36.983611"
 draft: false
+
+weight: 10
 ---
 
 ## Yağ Camii: Adana'nın Tarihi ve Kültürel Mirası

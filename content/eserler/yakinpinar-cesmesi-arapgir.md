@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.593037951,39.030600281"
 draft: false
+
+weight: 100
 ---
 
 **Yakınpınar Çeşmesi: Arapgir'in Tarihî ve Kültürel Mirası**

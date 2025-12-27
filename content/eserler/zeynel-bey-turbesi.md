@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.422694444,37.724972222"
 draft: false
+
+weight: 10
 ---
 
 # Zeynel Bey Türbesi: Batman'ın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.486705157,38.7200222"
 draft: false
+
+weight: 100
 ---
 
 ## Güngörmez Minareli Mescit

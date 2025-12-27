@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.782,38.253333333"
 draft: false
+
+weight: 100
 ---
 
 ## Hazro Ulu Camii

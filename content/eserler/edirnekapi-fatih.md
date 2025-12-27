@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935387,41.030242"
 draft: false
+
+weight: 10
 ---
 
 ## Edirnekapı, Fatih: İstanbul'un Tarihî Anıtı

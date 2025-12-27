@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.043333333,40.9975"
 draft: false
+
+weight: 10
 ---
 
 # Müze Gazhane: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

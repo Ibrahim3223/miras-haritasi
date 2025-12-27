@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.6599007,37.7201004"
 draft: false
+
+weight: 100
 ---
 
 # Yumratepe Tümülüsü: Aydın'ın Gizemli Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8686142,39.9378777"
 draft: false
+
+weight: 100
 ---
 
 ### Saraç Sinan Türbesi

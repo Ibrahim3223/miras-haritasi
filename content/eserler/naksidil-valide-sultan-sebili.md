@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.950762,41.018292"
 draft: false
+
+weight: 10
 ---
 
 ## Nakşidil Valide Sultan Sebili: İstanbul'un Gizli Çeşmesi

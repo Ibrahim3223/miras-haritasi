@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8500186,37.3394562"
 draft: false
+
+weight: 100
 ---
 
 ## Çamur Höyük: Türkiye'nin Gizli Kahramanı

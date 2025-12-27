@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.4608955,37.465271"
 draft: false
+
+weight: 100
 ---
 
 ## Göveren Kilisesi: Aladağ'ın Gizli Çarı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9408463,41.009461"
 draft: false
+
+weight: 10
 ---
 
 ## Başçı Mahmut Çeşmesi

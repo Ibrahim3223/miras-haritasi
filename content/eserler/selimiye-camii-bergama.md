@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1734943,39.1184044"
 draft: false
+
+weight: 1
 ---
 
 ## Selimiye Camii (Bergama)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.518888888,37.847777777"
 draft: false
+
+weight: 10
 ---
 
 ## Magnesia Stadyumu: Antik Dönemin Gizli Mirası

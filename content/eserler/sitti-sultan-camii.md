@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5593834,41.6734581"
 draft: false
+
+weight: 10
 ---
 
 ## Sitti Sultan Camii: Edirne'nin Gizli Cenneti

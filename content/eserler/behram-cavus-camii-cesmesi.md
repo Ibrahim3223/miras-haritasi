@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.96667,41.004354"
 draft: false
+
+weight: 100
 ---
 
 ## Behram Çavuş Camii Çeşmesi

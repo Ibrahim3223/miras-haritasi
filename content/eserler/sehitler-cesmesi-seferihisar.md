@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.8352432,38.1950722"
 draft: false
+
+weight: 100
 ---
 
 ### Şehitler Çeşmesi, Seferihisar

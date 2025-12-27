@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.1506,42.0237"
 draft: false
+
+weight: 10
 ---
 
 **Sinop Kalesi**

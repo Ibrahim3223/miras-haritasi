@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.989237499,41.108640316"
 draft: false
+
+weight: 10
 ---
 
 ## Cendere Sanat Müzesi

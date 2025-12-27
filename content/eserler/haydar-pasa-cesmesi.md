@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.95586,41.02177"
 draft: false
+
+weight: 100
 ---
 
 ## Haydar Paşa Çeşmesi: Cibali'nin Tarihî Bir Çeşmesi

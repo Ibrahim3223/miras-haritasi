@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.856286546,39.939911614"
 draft: false
+
+weight: 100
 ---
 
 ## Anonim Çeşme-5, Altındağ: Bir Kültür Mirası Anıtı

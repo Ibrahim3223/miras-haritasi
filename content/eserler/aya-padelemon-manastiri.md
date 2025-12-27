@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8339996,40.1439018"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Padelemon Manastırı

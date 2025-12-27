@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.3346252,39.4879074"
 draft: false
+
+weight: 100
 ---
 
 ### Assos Batı Kilisesi

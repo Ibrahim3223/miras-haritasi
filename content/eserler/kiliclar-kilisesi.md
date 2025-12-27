@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.845202267,38.642039696"
 draft: false
+
+weight: 100
 ---
 
 ## Kılıçlar Kilisesi

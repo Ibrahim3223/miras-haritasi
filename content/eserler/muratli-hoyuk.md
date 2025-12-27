@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0511343,38.8879493"
 draft: false
+
+weight: 100
 ---
 
 # Muratlı Höyük: Tarihî Bir Mirasın Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9658604,41.012619"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Üniversitesi Mercan Kapısı

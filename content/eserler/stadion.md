@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.346469226,37.945853497"
 draft: false
+
+weight: 10
 ---
 
 ### Stadion: İzmir'in Antik Mirası

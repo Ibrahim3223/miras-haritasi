@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.960042,41.022719"
 draft: false
+
+weight: 10
 ---
 
 ## Şazeli Tekke Camii: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.651432,38.812702"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Gesi Bağpınar 2: Kayseri'nin Gizli Çandırı

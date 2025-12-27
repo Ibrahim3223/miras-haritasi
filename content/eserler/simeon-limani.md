@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.9669,36.0904"
 draft: false
+
+weight: 10
 ---
 
 ### Simeon Limanı

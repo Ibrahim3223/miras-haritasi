@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.7142677,38.6220894"
 draft: false
+
+weight: 100
 ---
 
 **Damat İbrahim Paşa Medresesi**

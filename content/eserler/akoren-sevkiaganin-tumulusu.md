@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5606632,41.7074356"
 draft: false
+
+weight: 100
 ---
 
 ### Akören Şevkiağanın Tümülüsü

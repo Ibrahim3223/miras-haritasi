@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.4761543,36.3951988"
 draft: false
+
+weight: 100
 ---
 
 ### Olympos Küçük Hamam

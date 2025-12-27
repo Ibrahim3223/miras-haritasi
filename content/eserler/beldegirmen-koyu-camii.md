@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.909907148,41.973427649"
 draft: false
+
+weight: 100
 ---
 
 ## Beldeğirmen Köyü Camii: Kastamonu'nun Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4243431,40.7765121"
 draft: false
+
+weight: 100
 ---
 
 ## Nazır Hüseyin Ağa Çeşmesi

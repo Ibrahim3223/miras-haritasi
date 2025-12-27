@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1372833,38.4169388"
 draft: false
+
+weight: 100
 ---
 
 ## Agios Ioannis Theologos Kilisesi

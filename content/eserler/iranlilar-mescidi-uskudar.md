@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0304222,41.009903"
 draft: false
+
+weight: 100
 ---
 
 ## İranlılar Mescidi, Üsküdar

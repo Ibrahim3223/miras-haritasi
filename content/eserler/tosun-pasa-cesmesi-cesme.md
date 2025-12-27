@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3616009,38.3082008"
 draft: false
+
+weight: 100
 ---
 
 ## Tosun Paşa Çeşmesi

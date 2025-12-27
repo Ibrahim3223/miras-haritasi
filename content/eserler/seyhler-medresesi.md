@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "41.2726936,39.9031448"
 draft: false
+
+weight: 100
 ---
 
 # Şeyhler Medresesi: Erzurum'un Gizli Çarıklarına Yolculuk

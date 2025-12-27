@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2380924,41.1503067"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Çeşme, Fenerköy

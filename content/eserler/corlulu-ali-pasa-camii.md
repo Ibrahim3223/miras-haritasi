@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.968316,41.0092395"
 draft: false
+
+weight: 10
 ---
 
 ## Çorlulu Ali Paşa Camii

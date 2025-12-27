@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8463672,38.6389208"
 draft: false
+
+weight: 10
 ---
 
 ## Çarıklı Kilise: Göreme'nin Gizli Cenneti

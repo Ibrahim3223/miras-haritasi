@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.6826897,39.2732407"
 draft: false
+
+weight: 100
 ---
 
 ### Toprakkale Tepesi: Altınyayla'daki Antik Şehir

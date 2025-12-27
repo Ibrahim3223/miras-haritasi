@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.915737,41.042343"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme, Yenidoğan: İstanbul'un Gizli Cezvesi

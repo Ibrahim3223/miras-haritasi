@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.9575119,36.2270432"
 draft: false
+
+weight: 100
 ---
 
 # Andriake Batı Hamamı: Demre'nin Gizli Çiçeği

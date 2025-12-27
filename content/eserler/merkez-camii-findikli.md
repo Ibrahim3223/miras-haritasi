@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.142852815,41.272476828"
 draft: false
+
+weight: 100
 ---
 
 ## Merkez Camii, Fındıklı

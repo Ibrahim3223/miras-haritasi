@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.562301,41.710433"
 draft: false
+
+weight: 100
 ---
 
 ### Namazgah: Edirne'nin Gizli Cenneti

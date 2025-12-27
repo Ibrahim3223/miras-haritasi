@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.9585,36.229611"
 draft: false
+
+weight: 10
 ---
 
 ## Andriake Sinagogu: Geçmişteki Gizemi Koruyan Efsanesi

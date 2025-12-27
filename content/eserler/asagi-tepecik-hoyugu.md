@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.5868329,40.0294259"
 draft: false
+
+weight: 100
 ---
 
 ### Aşağı Tepecik Höyüğü

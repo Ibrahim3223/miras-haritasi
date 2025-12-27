@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.0659008,39.4789009"
 draft: false
+
+weight: 100
 ---
 
 ## Babakale Hamamı Tanıtımı

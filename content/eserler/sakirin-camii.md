@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0244,41.0131"
 draft: false
+
+weight: 10
 ---
 
 ### Şakirin Camii

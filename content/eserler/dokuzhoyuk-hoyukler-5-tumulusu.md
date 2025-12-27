@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0667648,41.6475754"
 draft: false
+
+weight: 100
 ---
 
 ## Dokuzhöyük Höyükler 5 Tümülüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.5784988,38.9383011"
 draft: false
+
+weight: 100
 ---
 
 ## Zemzem Pınarı Çeşmesi

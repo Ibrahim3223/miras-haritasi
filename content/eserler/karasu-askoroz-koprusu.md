@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.562583,40.899"
 draft: false
+
+weight: 100
 ---
 
 ### Karasu Askoroz Köprüsü

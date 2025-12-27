@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.7922096,36.8098526"
 draft: false
+
+weight: 100
 ---
 
 ## Şıh İbrahim El Hekim Türbesi

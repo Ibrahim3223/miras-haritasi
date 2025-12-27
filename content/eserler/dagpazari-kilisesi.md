@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "33.4684448,36.8287621"
 draft: false
+
+weight: 100
 ---
 
 # Dağpazarı Kilisesi: Geçmişin Şifahi Hikayeleri

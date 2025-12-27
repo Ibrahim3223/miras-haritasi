@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.9376378,40.6272594"
 draft: false
+
+weight: 10
 ---
 
 ## Servetiye Müzesi: Başiskele'nin Tarihi ve Kültürel Mirası

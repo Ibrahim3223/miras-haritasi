@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.148055555,38.428611111"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Açık Hava Tiyatrosu

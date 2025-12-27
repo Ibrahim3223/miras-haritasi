@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9538002,38.1935997"
 draft: false
+
+weight: 100
 ---
 
 # Eşmentepesi Tümülüsü

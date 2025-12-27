@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2058487,40.9183044"
 draft: false
+
+weight: 100
 ---
 
 ### Kartal'daki Çalık Hacı Ali Ağa Cami Çeşmesi: İstanbul'un Gizli Çeşmesi

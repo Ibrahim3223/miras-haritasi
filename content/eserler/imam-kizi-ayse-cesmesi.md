@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6296597,37.757431"
 draft: false
+
+weight: 100
 ---
 
 ### İmam Kızı Ayşe Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.455494,40.450701"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Köprüsü: Gümüşhane'nin Tarihî Bir Mirası

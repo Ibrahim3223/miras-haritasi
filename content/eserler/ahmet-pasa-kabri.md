@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9859333,41.0352478"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Paşa Kabri

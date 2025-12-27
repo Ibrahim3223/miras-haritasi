@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.712222,38.625"
 draft: false
+
+weight: 100
 ---
 
 ## Nenašša: Bir Arkeolojik Sitin Gizemi

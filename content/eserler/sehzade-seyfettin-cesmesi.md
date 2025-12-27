@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.012639006,41.023121561"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Seyfettin Çeşmesi

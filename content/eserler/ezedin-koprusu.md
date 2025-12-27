@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.1457214,40.8304863"
 draft: false
+
+weight: 100
 ---
 
 **Ezedin Köprüsü**

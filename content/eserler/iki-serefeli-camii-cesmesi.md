@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8668747,39.9368248"
 draft: false
+
+weight: 100
 ---
 
 ## İki Şerefeli Camii Çeşmesi

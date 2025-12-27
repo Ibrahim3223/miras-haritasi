@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.03027778,41.03444444"
 draft: false
+
+weight: 10
 ---
 
 ## Ayios Panteleimon Rum Ortodoks Kilisesi, Kuzguncuk

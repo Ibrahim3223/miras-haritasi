@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.737154,37.7481651"
 draft: false
+
+weight: 100
 ---
 
 ### Aşık Bilal Türbesi: Karacasu'nun Tarihî Mirası

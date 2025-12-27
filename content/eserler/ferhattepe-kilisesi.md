@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.8813705,37.4975204"
 draft: false
+
+weight: 100
 ---
 
 ## Ferhattepe Kilisesi

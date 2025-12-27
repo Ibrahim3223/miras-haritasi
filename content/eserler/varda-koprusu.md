@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.97678,37.2434"
 draft: false
+
+weight: 10
 ---
 
 ## Varda Köprüsü: Adana'nın Tarihî Mirası

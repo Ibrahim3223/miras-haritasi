@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.678567,39.455717"
 draft: false
+
+weight: 100
 ---
 
 ### Küllühöyük: Eskişehir'in Gizli Kahramanı

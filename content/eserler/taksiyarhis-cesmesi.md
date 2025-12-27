@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5568867,40.586235"
 draft: false
+
+weight: 100
 ---
 
 **Taksiyarhis Çeşmesi: Balıkesir'in Değerli Hazinesi**

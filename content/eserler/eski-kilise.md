@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "31.9905415,36.5333672"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Kilise: Alanya'nın Gizli Çehresini İncelemek İçin Bir Keşif

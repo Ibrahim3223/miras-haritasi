@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.371594,38.275573"
 draft: false
+
+weight: 10
 ---
 
 ## Kilise Camii Güzelyurt: Bir Zengin Tarihî Mirasın Tanıtımı

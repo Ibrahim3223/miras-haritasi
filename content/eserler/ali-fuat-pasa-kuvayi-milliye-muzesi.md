@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.29602,40.535499"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Fuat Paşa Kuvayı Milliye Müzesi

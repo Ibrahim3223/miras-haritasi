@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.9590759,38.2224464"
 draft: false
+
+weight: 100
 ---
 
 ### Zuhurtepe Kalesi

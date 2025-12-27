@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9466572,41.017765"
 draft: false
+
+weight: 100
 ---
 
 ## Sarı Güzel Hamamı: Fatih, İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3083756,39.6942598"
 draft: false
+
+weight: 100
 ---
 
 ## Tepecik Höyük: Tarihî Bir Mirasın Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2789192,39.9102135"
 draft: false
+
+weight: 100
 ---
 
 ## Derviş Ağa Türbesi

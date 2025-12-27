@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.001901,41.043598"
 draft: false
+
+weight: 100
 ---
 
 ## Iasonion: İçinden İhtişam, Dışından Gizem

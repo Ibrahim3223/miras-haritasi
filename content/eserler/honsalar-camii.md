@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7710266,41.3798676"
 draft: false
+
+weight: 100
 ---
 
 ## Honsalar Camii: Kastamonu'nun Tarihî Mirası

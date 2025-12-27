@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.0144806,40.2088928"
 draft: false
+
+weight: 10
 ---
 
 ## Anadolu Yaşayan Köy Açık Hava Müzesi: Beypazarı'nda Bir Kültür Mirası

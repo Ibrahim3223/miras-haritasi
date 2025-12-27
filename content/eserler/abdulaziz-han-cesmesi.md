@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.931072,41.032898"
 draft: false
+
+weight: 100
 ---
 
 **Abdülaziz Han Çeşmesi**

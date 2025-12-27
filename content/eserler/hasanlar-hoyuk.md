@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6700379,39.165499"
 draft: false
+
+weight: 100
 ---
 
 ### Hasanlar Höyük

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8831234,39.650341"
 draft: false
+
+weight: 100
 ---
 
 ### Yıldırım Camii: Balıkesir'deki Önemli Bir Cami Mirası

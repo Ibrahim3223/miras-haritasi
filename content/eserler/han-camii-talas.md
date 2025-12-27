@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.5630341,38.6839561"
 draft: false
+
+weight: 100
 ---
 
 ## Han Camii, Talas

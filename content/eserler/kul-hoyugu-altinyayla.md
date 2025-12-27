@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8460121,39.3069305"
 draft: false
+
+weight: 100
 ---
 
 ## Kül Höyükleri: Altınyayla'daki Eski Kent Kalıntıları

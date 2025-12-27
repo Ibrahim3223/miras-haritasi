@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.2009125,41.4223289"
 draft: false
+
+weight: 100
 ---
 
 ## Kayı Köyü Tümülüsü: Tarihöncesi Mirası

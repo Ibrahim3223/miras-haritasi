@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.933904669,41.054854431"
 draft: false
+
+weight: 100
 ---
 
 ## Karyağdı Baba Kabri: Eyüpsultan'daki Bir Anıtın Gizemi

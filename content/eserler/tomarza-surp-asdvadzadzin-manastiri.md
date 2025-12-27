@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "35.808305555,38.447694444"
 draft: false
+
+weight: 10
 ---
 
 ## Tomarza Surp Asdvadzadzin Manastırı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9411,38.62145"
 draft: false
+
+weight: 100
 ---
 
 ## Panaztepe: Tarih Bilgisinin Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.4706573,40.730526"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Muhyiddin Yavsi Camii

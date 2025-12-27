@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.720694444,40.424111111"
 draft: false
+
+weight: 10
 ---
 
 ### İznik Müzesi: Tarih ve Kültür Mirasının Gizli Çehresi

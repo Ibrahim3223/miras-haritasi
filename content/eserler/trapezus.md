@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.718172,41.002662"
 draft: false
+
+weight: 100
 ---
 
 **Trapezus: Trabzon'un Tarihi Bir Mirası**

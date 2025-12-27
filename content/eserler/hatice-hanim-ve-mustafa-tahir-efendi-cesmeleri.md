@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.058715,41.051117"
 draft: false
+
+weight: 100
 ---
 
 ## Hatice Hanım ve Mustafa Tahir Efendi Çeşmeleri

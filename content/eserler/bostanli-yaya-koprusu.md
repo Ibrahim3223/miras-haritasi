@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.093083333,38.455361111"
 draft: false
+
+weight: 100
 ---
 
 ## Bostanlı Yaya Köprüsü

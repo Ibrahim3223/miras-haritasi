@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.237111111,40.567305555"
 draft: false
+
+weight: 100
 ---
 
 ## Bobisgeri Kilisesi: Erzurum'un Gizemli Tarihi

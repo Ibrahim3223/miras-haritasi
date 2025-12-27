@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.411278,38.356737"
 draft: false
+
+weight: 10
 ---
 
 ## Nasrettin Hoca Arkeoloji ve Etnografya Müzesi

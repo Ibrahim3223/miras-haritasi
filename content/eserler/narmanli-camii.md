@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.27975,39.905916666"
 draft: false
+
+weight: 10
 ---
 
 ## Narmanlı Camii

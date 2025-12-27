@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7331481,38.0849485"
 draft: false
+
+weight: 10
 ---
 
 ## Cağaloğlu Ali Paşa Türbesi

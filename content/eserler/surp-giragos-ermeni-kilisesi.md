@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.23875,37.91072"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Giragos Ermeni Kilisesi: Diyarbakır'ın Gizli Cenneti

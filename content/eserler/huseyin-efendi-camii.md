@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.3057747,39.7703209"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyin Efendi Camii

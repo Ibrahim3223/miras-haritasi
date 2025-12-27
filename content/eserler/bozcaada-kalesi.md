@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.06666667,39.83333333"
 draft: false
+
+weight: 10
 ---
 
 ### Bozcaada Kalesi: Geçmişin İzleri

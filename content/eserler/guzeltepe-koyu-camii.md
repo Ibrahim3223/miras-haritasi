@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4011097,40.8347206"
 draft: false
+
+weight: 100
 ---
 
 ### Güzeltepe Köyü Camii

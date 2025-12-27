@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.943888888,41.006944444"
 draft: false
+
+weight: 10
 ---
 
 ## Bulgur Palas: İstanbul'un Farklı Bir Kütüphanesi

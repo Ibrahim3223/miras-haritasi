@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.111299,38.846465"
 draft: false
+
+weight: 100
 ---
 
 ## Flaviopolis (Lidya)

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.968372,41.018993"
 draft: false
+
+weight: 10
 ---
 
 ## Ahi Çelebi Camii: İstanbul'un Gizli Cenneti

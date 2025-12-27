@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015882,41.02705"
 draft: false
+
+weight: 100
 ---
 
 ## Mihrimah Sultan Külliyesi Çeşmesi

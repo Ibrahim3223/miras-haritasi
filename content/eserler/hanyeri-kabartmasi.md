@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.01494444,38.21341667"
 draft: false
+
+weight: 10
 ---
 
 ### Hanyeri Kabartması: Adana'nın Gizli Anıtı

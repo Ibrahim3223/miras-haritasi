@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.1937637,37.0328789"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkavak Camii: Denizli'nin Tarihi Çıkntısı

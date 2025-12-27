@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.553196,41.815855"
 draft: false
+
+weight: 100
 ---
 
 ## Kaldırım Eserinin Tanıtımı

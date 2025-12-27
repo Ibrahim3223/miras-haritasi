@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.860233,38.312867"
 draft: false
+
+weight: 100
 ---
 
 ### Işıklı Höyük

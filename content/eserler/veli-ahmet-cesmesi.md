@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9262733,40.7670898"
 draft: false
+
+weight: 100
 ---
 
 ### Veli Ahmet Çeşmesi: İzmit'in Tarihî ve Kültürel Özelliliği

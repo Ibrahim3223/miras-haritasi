@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.637233,38.158917"
 draft: false
+
+weight: 100
 ---
 
 ## Ören Mevkii Arkeolojik Sit

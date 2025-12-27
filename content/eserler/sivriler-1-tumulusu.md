@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9354095,41.8154716"
 draft: false
+
+weight: 100
 ---
 
 ## Sivriler 1 Tümülüsü: Bir Arkeolojik Sitin Gizemi

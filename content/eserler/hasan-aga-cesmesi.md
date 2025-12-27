@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.975055555,41.025472222"
 draft: false
+
+weight: 10
 ---
 
 ## Hasan Ağa Çeşmesi: İstanbul'un Tarihi ve Kültürel Miraslarından Bir İkincisi

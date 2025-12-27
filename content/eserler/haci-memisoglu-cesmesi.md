@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6725273,41.263443"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Memişoğlu Çeşmesi

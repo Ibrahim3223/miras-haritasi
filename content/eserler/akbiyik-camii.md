@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0629749,40.1815529"
 draft: false
+
+weight: 100
 ---
 
 # Akbıyık Camii: Bir Tarihi Mirasın Öyküsü

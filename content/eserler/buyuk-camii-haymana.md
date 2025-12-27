@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4942741,39.4331856"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Camii, Haymana

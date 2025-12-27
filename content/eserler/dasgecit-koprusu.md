@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.1036602,36.612414"
 draft: false
+
+weight: 100
 ---
 
 ## Daşgeçit Köprüsü: Tarım ve Kültür Mirasının Simgesi

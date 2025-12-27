@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.152020045,36.498047635"
 draft: false
+
+weight: 100
 ---
 
 ## Pisidialı Meryem Ana Kilisesi

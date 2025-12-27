@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "44.295436111,38.510461111"
 draft: false
+
+weight: 100
 ---
 
 # Kapıköy Tren İstasyonu: Van'ın Tarihi ve Kültürel Mirası

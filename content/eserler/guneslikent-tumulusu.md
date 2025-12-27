@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8314037,38.137207"
 draft: false
+
+weight: 100
 ---
 
 ### Güneşlikent Tümülüsü: İzmir'in Gizli Tarihi

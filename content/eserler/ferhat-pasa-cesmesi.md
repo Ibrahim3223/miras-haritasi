@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.460008,41.140589"
 draft: false
+
+weight: 10
 ---
 
 ## Ferhat Paşa Çeşmesi: Tarihi ve Kültürel Mirasın Değerli Bir Parçası

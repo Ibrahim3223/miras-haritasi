@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.031195,40.238713"
 draft: false
+
+weight: 10
 ---
 
 ## Çubuk Şehir Müzesi: Ankara'da Kültür ve Tarih Mirasının Merkezi

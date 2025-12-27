@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9773006,39.0857277"
 draft: false
+
+weight: 100
 ---
 
 ## Babik Bey Hamamı: Kütahya'nın Tarihi Bir Mirası

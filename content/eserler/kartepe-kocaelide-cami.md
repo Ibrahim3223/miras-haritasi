@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1127467,40.7003346"
 draft: false
+
+weight: 10
 ---
 
 ## Kartepe Camii: Kocaeli'nin Gözdelerinden Birini Keşfetmek

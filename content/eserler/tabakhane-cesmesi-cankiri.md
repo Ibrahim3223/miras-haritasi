@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.614053337,40.602550457"
 draft: false
+
+weight: 100
 ---
 
 ## Tabakhane Çeşmesi, Çankırı: Bir Çeşminin Öyküsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.987666666,41.041694444"
 draft: false
+
+weight: 10
 ---
 
 ### Huşartsan Anıtı

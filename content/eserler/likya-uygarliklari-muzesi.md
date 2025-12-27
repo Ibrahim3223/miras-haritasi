@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.960563888,36.228355555"
 draft: false
+
+weight: 10
 ---
 
 ## Likya Uygarlıkları Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.492458436,39.04850467"
 draft: false
+
+weight: 100
 ---
 
 ## Ömer Baba Çeşmesi: Arapgir'de Bir Kentin Yüzyıllar Boyu Yaşamasının İzleri

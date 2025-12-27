@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Kayseri Etnografya Müzesi: Geçmişten Günümüze Kültür Mirasının Yansıması

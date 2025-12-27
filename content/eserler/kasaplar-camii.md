@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8810844,39.6430969"
 draft: false
+
+weight: 100
 ---
 
 ## Kasaplar Camii: Balıkesir'in Tarihi Bir İmzası

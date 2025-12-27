@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.128064,38.6080412"
 draft: false
+
+weight: 100
 ---
 
 ## Höyüktepesi: Afyonkarahisar'ın Eski Köyü

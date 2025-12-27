@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0541725,40.9087715"
 draft: false
+
+weight: 100
 ---
 
 ## Kınalıada Hamam Kalıntısı

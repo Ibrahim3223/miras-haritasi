@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015146,41.023742"
 draft: false
+
+weight: 100
 ---
 
 ## Gülfem Hatun Camii Önündeki Çeşme

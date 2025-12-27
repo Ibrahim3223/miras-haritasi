@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.675,37.37416667"
 draft: false
+
+weight: 10
 ---
 
 ## Euromos: Muğla'nın Gizli Mirası

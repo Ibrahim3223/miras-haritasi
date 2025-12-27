@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.721821,40.926571"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 3: Altınordu'nun Gizli Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.4428749,38.1363564"
 draft: false
+
+weight: 100
 ---
 
 ## Çermik Kalesi: Tarihî Bir Ören

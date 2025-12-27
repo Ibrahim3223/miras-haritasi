@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.2966919,38.2132835"
 draft: false
+
+weight: 100
 ---
 
 ## Sırahayyasts Surp Asvadzadzin Kilisesi

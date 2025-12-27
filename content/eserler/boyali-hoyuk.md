@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2922,40.3211"
 draft: false
+
+weight: 100
 ---
 
 # Boyalı Höyük: Tarihi ve Kültürel Miras

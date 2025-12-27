@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0434608,41.0434265"
 draft: false
+
+weight: 100
 ---
 
 ### I. Mahmut Çeşmesi, Beylerbeyi: Üsküdar'ın Tarihi Özellikli Çeşmesi

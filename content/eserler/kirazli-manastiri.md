@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "27.912,40.463203"
 draft: false
+
+weight: 10
 ---
 
 ### Kirazlı Manastırı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5481167,41.6804886"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirlikuyu Mescidi: Edirne'nin Tarihi Cenneti

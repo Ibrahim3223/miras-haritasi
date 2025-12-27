@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.949095,41.027242"
 draft: false
+
+weight: 100
 ---
 
 ### Cebeci Camii: Balat'taki Tarihi Bir Değer

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0454063,40.1906128"
 draft: false
+
+weight: 10
 ---
 
 ### Gülruh Hatun Türbesi

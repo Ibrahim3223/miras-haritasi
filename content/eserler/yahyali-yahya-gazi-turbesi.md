@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.360565174,38.098778175"
 draft: false
+
+weight: 100
 ---
 
 ## Yahyalı Yahya Gazi Türbesi: Kayseri'nin Gizli Çehresini İncelemek

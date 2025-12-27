@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4655,38.2046"
 draft: false
+
+weight: 100
 ---
 
 ## Doara Arkeolojik Sit

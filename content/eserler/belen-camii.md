@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7811508,37.3160553"
 draft: false
+
+weight: 100
 ---
 
 ## Belen Camii: Milas'ta Bir Geç Çağdaş Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.020958854,41.013256147"
 draft: false
+
+weight: 10
 ---
 
 ## Dede Sultan Süt Baba Kabri: Üsküdar'ın Gizli Mücevheri

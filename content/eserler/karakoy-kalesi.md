@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.050258,38.311267"
 draft: false
+
+weight: 100
 ---
 
 ### Karaköy Kalesi: Konya'nın Gizli Mücevheri

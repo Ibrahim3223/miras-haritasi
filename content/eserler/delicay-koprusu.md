@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.15507455,37.163728719"
 draft: false
+
+weight: 100
 ---
 
 ## Deliçay Köprüsü: Karaman'ın Tarihi ve Kültürel Mirası

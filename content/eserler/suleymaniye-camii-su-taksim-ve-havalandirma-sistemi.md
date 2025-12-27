@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9635658,41.0164413"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Camii Su Taksim ve Havalandırma Sistemi

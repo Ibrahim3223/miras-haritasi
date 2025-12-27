@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.505835369,39.015041267"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Pınar (Aşağı Mahalle) Çeşmesi

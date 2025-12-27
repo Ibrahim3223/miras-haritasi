@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7172108,41.6420174"
 draft: false
+
+weight: 100
 ---
 
 ## Turşan Hatun Camii

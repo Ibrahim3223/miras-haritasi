@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1288643,37.922348"
 draft: false
+
+weight: 10
 ---
 
 # Hierapolis Güney Bizans Kapısı

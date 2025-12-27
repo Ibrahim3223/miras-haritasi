@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0815125,38.6547356"
 draft: false
+
+weight: 100
 ---
 
 ## Yanıkköy Camii: Menemen'in Tarihi Bir Mirası

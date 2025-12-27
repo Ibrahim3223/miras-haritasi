@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7189574,41.0082239"
 draft: false
+
+weight: 100
 ---
 
 ## Sekiz Direkli Hamam: Ortahisar, Trabzon'un Gizli Çehresini Keşfedin

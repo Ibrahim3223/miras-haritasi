@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.932686,41.039696"
 draft: false
+
+weight: 100
 ---
 
 ## Dilsiz Süleyman Ağa Çeşmesi

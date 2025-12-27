@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9767818,41.032341"
 draft: false
+
+weight: 10
 ---
 
 ## Papa XXIII. Ioannes Heykeli

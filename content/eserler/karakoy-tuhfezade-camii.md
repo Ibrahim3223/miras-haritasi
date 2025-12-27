@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6335144,36.7622185"
 draft: false
+
+weight: 100
 ---
 
 ### Karaköy Tuhfezade Camii

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0324497,41.0985451"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Köprü, Baltalimanı

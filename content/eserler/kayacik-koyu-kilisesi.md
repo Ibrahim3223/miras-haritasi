@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.806914,40.205851"
 draft: false
+
+weight: 100
 ---
 
 # Kayacık Köyü Kilisesi

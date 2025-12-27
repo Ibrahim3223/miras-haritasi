@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.162,36.201916666"
 draft: false
+
+weight: 10
 ---
 
 ## Antakya Ulu Camii

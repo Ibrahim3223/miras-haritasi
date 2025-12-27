@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7646332,41.3660202"
 draft: false
+
+weight: 100
 ---
 
 ## Kastamonu Şapka Müzesi: Tarihî Bir Mirasın Gizemi

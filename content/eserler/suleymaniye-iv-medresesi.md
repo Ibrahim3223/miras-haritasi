@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9652195,41.0162621"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye IV. Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.205886,36.99154"
 draft: false
+
+weight: 10
 ---
 
 ## Cedrae: Muğla'nın Gizli Pearla

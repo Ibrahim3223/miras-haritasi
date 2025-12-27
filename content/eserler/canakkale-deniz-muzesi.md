@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.399722222,40.148055555"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakkale Deniz Müzesi

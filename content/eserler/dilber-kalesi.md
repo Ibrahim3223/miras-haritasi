@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.7885971,38.0787163"
 draft: false
+
+weight: 100
 ---
 
 ## Dilber Kalesi: Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7784805,41.3761253"
 draft: false
+
+weight: 100
 ---
 
 ### Yadigar Çeşmesi

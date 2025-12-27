@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.989153,39.652271"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs H: Efsanevi Bir Arkeolojik Sit

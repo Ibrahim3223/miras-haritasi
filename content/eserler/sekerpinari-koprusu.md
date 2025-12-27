@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.86194,37.47111"
 draft: false
+
+weight: 10
 ---
 
 ## Şekerpınarı Köprüsü: Tarihi ve Kültürel Miras

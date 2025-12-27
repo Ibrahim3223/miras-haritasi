@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.3243008,37.7657013"
 draft: false
+
+weight: 100
 ---
 
 ## Kavaklı Kahve Höyüğü: Aydın'ın Tarihi ve Kültürel Mirası

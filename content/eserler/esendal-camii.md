@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.5666,40.9636"
 draft: false
+
+weight: 100
 ---
 
 **Esendal Camii**

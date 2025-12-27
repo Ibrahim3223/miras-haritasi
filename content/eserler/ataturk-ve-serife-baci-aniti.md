@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.777666666,41.376333333"
 draft: false
+
+weight: 10
 ---
 
 **Atatürk ve Şerife Bacı Anıtı**

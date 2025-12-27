@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2353994,37.9067063"
 draft: false
+
+weight: 100
 ---
 
 # Sultan Şuca Türbesi: Diyarbakır'ın İhtişamlı Anıtı

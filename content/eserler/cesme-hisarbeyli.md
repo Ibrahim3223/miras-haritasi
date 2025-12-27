@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4731178,41.3671227"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme, Hisarbeyli

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.245,40.666111111"
 draft: false
+
+weight: 10
 ---
 
 ### Kutman Şarap Müzesi: Şarköy'de Etkileyici Kültür Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8319735,39.8986254"
 draft: false
+
+weight: 100
 ---
 
 ## Hamzaşeyh Kalesi: Sivas'ın Gizli Zirvesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4921989,37.8690338"
 draft: false
+
+weight: 100
 ---
 
 ### Şekerfuruş Çeşmesi: Meram, Konya'da Bir Önemli Tarihsel Eser

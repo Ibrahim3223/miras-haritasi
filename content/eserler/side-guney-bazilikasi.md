@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "31.386944444,36.764444444"
 draft: false
+
+weight: 10
 ---
 
 ## Side Güney Bazilikası

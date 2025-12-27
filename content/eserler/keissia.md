@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.245066,38.516817"
 draft: false
+
+weight: 100
 ---
 
 ### Keissia: Tarihi ve Kültürel Mirası

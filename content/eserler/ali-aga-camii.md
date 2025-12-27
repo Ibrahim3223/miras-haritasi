@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1305714,38.4141464"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Ağa Camii: İzmir'in Tarihi Bir Mirası

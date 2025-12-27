@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.615833,36.788333"
 draft: false
+
+weight: 10
 ---
 
 ## Müftü Camii: Akdeniz'in Gizli Cenneti

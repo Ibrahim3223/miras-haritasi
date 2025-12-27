@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5129642,39.7681503"
 draft: false
+
+weight: 100
 ---
 
 ### Eskişehir Hava Şehitliği

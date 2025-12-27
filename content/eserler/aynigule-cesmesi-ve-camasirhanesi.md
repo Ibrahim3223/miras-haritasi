@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.8354988,38.8126526"
 draft: false
+
+weight: 100
 ---
 
 ### Aynıgüle Çeşmesi ve Çamaşırhanesi

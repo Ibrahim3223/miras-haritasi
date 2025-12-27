@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.782977,39.355929"
 draft: false
+
+weight: 100
 ---
 
 ## Koryphantis Arkeolojik Siti: Gömeç'in Gizli Çarpısı

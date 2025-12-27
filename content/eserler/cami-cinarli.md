@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "25.904017415,40.191817649"
 draft: false
+
+weight: 100
 ---
 
 ### Çınarlı Camisi: Gökçeada'nın Tarihi Bir Mirası

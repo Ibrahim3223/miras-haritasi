@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.7460899,37.3145256"
 draft: false
+
+weight: 100
 ---
 
 ## Mardin Kışlası: Bir Tarihî Eserin Gizemi

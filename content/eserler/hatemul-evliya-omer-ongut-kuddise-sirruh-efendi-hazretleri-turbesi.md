@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4025707,40.7524071"
 draft: false
+
+weight: 100
 ---
 
 ## Hatemü'l-Evliya Ömer Öngüt-Kuddise Sırruh-Efendi Hazretleri Türbesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4258633,37.5987244"
 draft: false
+
+weight: 100
 ---
 
 ### Myus Bizans Kalesi: Aydın'ın Gizli Çehresini İnceleyin

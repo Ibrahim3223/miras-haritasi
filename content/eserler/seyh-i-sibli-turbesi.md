@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.148,40.9052"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh-i Şibli Türbesi: Düzce'nin Efsanevi Anıtı

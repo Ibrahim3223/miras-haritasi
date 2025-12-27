@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.4221745,38.6089249"
 draft: false
+
+weight: 100
 ---
 
 # Sinan Bey Medresesi

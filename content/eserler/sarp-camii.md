@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.548393,41.518398"
 draft: false
+
+weight: 100
 ---
 
 ## Sarp Camii: Hopa'nın Tarihi Bir Mirası

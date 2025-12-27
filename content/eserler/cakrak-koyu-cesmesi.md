@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.603552,40.529807"
 draft: false
+
+weight: 100
 ---
 
 ## Çakrak Köyü Çeşmesi: Alucra'nın Tarihi ve Kültürel Mirası

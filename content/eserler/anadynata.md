@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.259993,40.840048"
 draft: false
+
+weight: 100
 ---
 
 ### Anadynata: Tarihi ve Kültürel Mirasının Gizemi

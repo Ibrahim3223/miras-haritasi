@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.534166666,41.023333333"
 draft: false
+
+weight: 10
 ---
 
 ## Rize Atatürk Evi Müzesi

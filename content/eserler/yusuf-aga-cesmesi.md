@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5113049,40.9798279"
 draft: false
+
+weight: 100
 ---
 
 ## Yusuf Ağa Çeşmesi

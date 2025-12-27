@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6081772,40.0252571"
 draft: false
+
+weight: 10
 ---
 
 ## Boğazköy Müzesi

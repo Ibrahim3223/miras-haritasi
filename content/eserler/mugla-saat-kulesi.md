@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "28.365587604,37.217911323"
 draft: false
+
+weight: 100
 ---
 
 # Muğla Saat Kulesi: Tarih, Mimarisi ve Ziyaret Bilgileri

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "34.845516085,38.639492163"
 draft: false
+
+weight: 100
 ---
 
 ## Rahibeler Manastırı: Göreme'nin Gizemli Anıtı

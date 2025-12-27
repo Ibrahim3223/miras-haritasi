@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.85833333,39.59111111"
 draft: false
+
+weight: 100
 ---
 
 ### Tahtakuşlar Etnografya Müzesi

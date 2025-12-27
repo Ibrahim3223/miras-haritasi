@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.54912,41.779056"
 draft: false
+
+weight: 100
 ---
 
 ## Adatepe Arkeolojik Sit

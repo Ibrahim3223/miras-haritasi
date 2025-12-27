@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9546661,40.7942162"
 draft: false
+
+weight: 100
 ---
 
 # Gündoğdu Sokak Çeşmesi

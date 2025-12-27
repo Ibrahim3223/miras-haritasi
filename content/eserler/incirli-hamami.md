@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0778522,40.1836205"
 draft: false
+
+weight: 10
 ---
 
 ## İncirli Hamamı

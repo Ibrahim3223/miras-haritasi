@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.7443924,39.5671082"
 draft: false
+
+weight: 100
 ---
 
 ### Cumhuriyet Anıtı, Altınoluk

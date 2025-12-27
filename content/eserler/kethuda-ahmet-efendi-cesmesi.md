@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7450275,38.0861931"
 draft: false
+
+weight: 100
 ---
 
 ## Kethüda Ahmet Efendi Çeşmesi

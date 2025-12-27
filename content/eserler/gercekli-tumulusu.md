@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.076,38.223"
 draft: false
+
+weight: 100
 ---
 
 ## Gerçekli Tümülüsü

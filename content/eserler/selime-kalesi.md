@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.2597466,38.3027916"
 draft: false
+
+weight: 100
 ---
 
 ### Selime Kalesi: Tarihi ve Kültürel Mirasımız

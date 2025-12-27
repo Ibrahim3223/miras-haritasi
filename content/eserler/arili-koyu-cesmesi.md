@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.3155403,40.4505043"
 draft: false
+
+weight: 100
 ---
 
 ## Arılı Köyü Çeşmesi: Tarihi ve Kültürel Mirasın Eski Şöhreti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.963861111,41.017277777"
 draft: false
+
+weight: 10
 ---
 
 ## Mimar Sinan Türbesi: İstanbul'un Tarihi Bir Anıtı

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0734348,40.1814156"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşil Cami Medresesi

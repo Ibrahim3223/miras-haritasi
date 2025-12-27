@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9347,41.0103"
 draft: false
+
+weight: 10
 ---
 
 ## Hagios Mokios Sarnıcı: İstanbul'un Gizli Kahramanlarından Birisi

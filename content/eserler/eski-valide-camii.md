@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.023644444,41.018941666"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Valide Camii

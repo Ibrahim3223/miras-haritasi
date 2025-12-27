@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.7430477,39.2742"
 draft: false
+
+weight: 100
 ---
 
 ## Yelek Höyük

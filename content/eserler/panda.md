@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3789,38.7106"
 draft: false
+
+weight: 100
 ---
 
 ## Yunusemre Panda Arkeolojik Sit

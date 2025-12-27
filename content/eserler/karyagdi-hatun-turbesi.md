@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8562431,39.9381676"
 draft: false
+
+weight: 10
 ---
 
 ### Karyağdı Hatun Türbesi

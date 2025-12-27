@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.084999,40.95834"
 draft: false
+
+weight: 100
 ---
 
 ## Görele Cami Köprüsü

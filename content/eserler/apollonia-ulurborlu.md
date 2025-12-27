@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4687252,38.0727081"
 draft: false
+
+weight: 100
 ---
 
 ### Apollonia, Ulurborlu: Tarihî Bir Arkeolojik Sit

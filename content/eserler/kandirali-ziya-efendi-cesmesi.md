@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3034,38.3125992"
 draft: false
+
+weight: 100
 ---
 
 ## Kandıralı Ziya Efendi Çeşmesi

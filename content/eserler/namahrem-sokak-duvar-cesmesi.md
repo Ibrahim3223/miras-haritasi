@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.963047,41.018158"
 draft: false
+
+weight: 100
 ---
 
 ## Namahrem Sokak Duvar Çeşmesi: Süleymaniye'nin Gizli Çeşmesi

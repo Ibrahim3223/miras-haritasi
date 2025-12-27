@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1331158,38.4146843"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mehmet Camii: Konak'ta Bir Geçmişe Sahip Anıt

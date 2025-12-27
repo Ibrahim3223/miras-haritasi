@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.3595657,40.313446"
 draft: false
+
+weight: 100
 ---
 
 ## Kapıkaya Kalesi: Tortum'un Tarihî ve Kültürel Mirası

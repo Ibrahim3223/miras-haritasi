@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0691853,38.6059723"
 draft: false
+
+weight: 100
 ---
 
 ## Çerkez Camii: İzmir'in Tarihi Bir Mirası

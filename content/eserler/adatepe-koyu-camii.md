@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.6206913,39.5700836"
 draft: false
+
+weight: 10
 ---
 
 ## Adatepe Köyü Camii: Ayvacık'ta Bir Ölümsüz Miras

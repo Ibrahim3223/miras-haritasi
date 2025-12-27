@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.418333333,41.280833333"
 draft: false
+
+weight: 100
 ---
 
 ## Karadeniz Ereğli Müzesi: Karadeniz'in En Güzel Müzeleri Arasındaki Bir Çanak

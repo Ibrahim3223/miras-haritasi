@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.6727,41.2568"
 draft: false
+
+weight: 10
 ---
 
 ## Yıldız Baba Türbesi: Safranbolu'nun Gizli Çehresi

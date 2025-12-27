@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.963683,41.03665"
 draft: false
+
+weight: 100
 ---
 
 ### Saçlı Emir Tekkesi

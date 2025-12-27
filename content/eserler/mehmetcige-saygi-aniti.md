@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.284985,40.220059"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmetçiğe Saygı Anıtı

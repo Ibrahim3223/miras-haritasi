@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0247555,40.979969"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Ekaterini Ayazması, Moda

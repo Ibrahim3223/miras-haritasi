@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.8655701,39.0257263"
 draft: false
+
+weight: 100
 ---
 
 ### Palas Ulu Cami

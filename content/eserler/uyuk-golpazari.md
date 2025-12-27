@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.109741,40.249765"
 draft: false
+
+weight: 100
 ---
 
 ## Üyük Anıtı: Gölpazarı'nın Tarihi ve Kültürel Mirası

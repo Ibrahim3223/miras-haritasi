@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1707306,36.2021294"
 draft: false
+
+weight: 100
 ---
 
 **Osmaniye Camii**

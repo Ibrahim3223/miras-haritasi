@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "38.3987885,38.615242"
 draft: false
+
+weight: 100
 ---
 
 # Mar Ahron Manastırı

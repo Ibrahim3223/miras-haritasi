@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.939167,41.031111"
 draft: false
+
+weight: 10
 ---
 
 ## Kariye Camii

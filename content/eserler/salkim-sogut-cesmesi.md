@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9785576,41.0122604"
 draft: false
+
+weight: 10
 ---
 
 ### Salkım Söğüt Çeşmesi

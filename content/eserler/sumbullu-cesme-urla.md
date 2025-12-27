@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7676697,38.3198814"
 draft: false
+
+weight: 100
 ---
 
 ## Sümbüllü Çeşme: Urla'nın Tarihi Bir Ziraat Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.878933,40.5156364"
 draft: false
+
+weight: 100
 ---
 
 ### Elmalı Köyü Camii: İznik'te Bir Önemli Kültürel Miras

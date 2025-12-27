@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3228512,37.9036598"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşil Türbe: Aydın'ın Gizli Hazineleri

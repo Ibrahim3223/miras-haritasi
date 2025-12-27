@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.948888888,41.029722222"
 draft: false
+
+weight: 10
 ---
 
 ## Kanlı Kilise: Fener'deki Gizemli Kilise

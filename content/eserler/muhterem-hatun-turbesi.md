@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.1707916,39.1431618"
 draft: false
+
+weight: 100
 ---
 
 ### Muhterem Hatun Türbesi

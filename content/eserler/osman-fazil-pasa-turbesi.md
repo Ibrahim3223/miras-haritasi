@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8579903,39.9440384"
 draft: false
+
+weight: 10
 ---
 
 ## Osman Fazıl Paşa Türbesi

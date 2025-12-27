@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.045967,41.147901"
 draft: false
+
+weight: 100
 ---
 
 ## Gümrükçü İshak Ağa Camii

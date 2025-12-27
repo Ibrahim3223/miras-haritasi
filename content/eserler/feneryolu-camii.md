@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.047472222,40.979861111"
 draft: false
+
+weight: 100
 ---
 
 ## Feneryolu Camii: Kadıköy'ün Tarihî Mirası

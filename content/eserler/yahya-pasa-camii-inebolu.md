@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7609749,41.9774055"
 draft: false
+
+weight: 100
 ---
 
 ## Yahya Paşa Camii

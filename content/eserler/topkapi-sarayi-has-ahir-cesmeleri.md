@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9826908,41.0120201"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Has Ahır Çeşmeleri

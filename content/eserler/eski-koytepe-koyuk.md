@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.945488,37.3498497"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Köytepe Köyük: Konya'nın Gizli Şehri

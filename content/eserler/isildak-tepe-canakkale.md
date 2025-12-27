@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.28995,40.005233"
 draft: false
+
+weight: 100
 ---
 
 # Işıldak Tepe Arkeolojik Sit, Çanakkale

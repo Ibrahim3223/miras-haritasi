@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.801739548,38.449047872"
 draft: false
+
+weight: 100
 ---
 
 ## Tomarza Merkez Cami: Kayseri'nin Tarihi Özellikleri

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1528339,40.2314224"
 draft: false
+
+weight: 100
 ---
 
 ### Karaağaç Köyü Büyük Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2911434,38.4190025"
 draft: false
+
+weight: 100
 ---
 
 ## Pazar Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.35785,39.390133"
 draft: false
+
+weight: 100
 ---
 
 ## Sandıközü Höyük: Eskişehir'in Gizli Cenneti

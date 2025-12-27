@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.1891003,40.0435982"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 2: Eceabat'ın Gizli Çeşmesi

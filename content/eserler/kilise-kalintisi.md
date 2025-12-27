@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.658744,39.380132"
 draft: false
+
+weight: 100
 ---
 
 ### Kilise Kalıntısı: Ayvalık'taki Bir Tarihi Eser

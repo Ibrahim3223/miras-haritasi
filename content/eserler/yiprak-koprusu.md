@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.0948221,39.3836988"
 draft: false
+
+weight: 100
 ---
 
 ## Yıprak Köprüsü: Kütahya'nın Tarihi Bir Mirası

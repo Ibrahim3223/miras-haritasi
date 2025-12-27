@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.2536316,38.7063375"
 draft: false
+
+weight: 100
 ---
 
 ### Mansur Baba Türbesi

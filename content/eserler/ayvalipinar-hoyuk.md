@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.6489187,40.4612665"
 draft: false
+
+weight: 100
 ---
 
 ## Ayvalıpınar Höyük

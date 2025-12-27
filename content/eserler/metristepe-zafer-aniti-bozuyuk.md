@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1691017,39.932579"
 draft: false
+
+weight: 100
 ---
 
 ## Metristepe Zafer Anıtı, Bozüyük

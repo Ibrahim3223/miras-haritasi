@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5047989,37.8689842"
 draft: false
+
+weight: 100
 ---
 
 ## Gildan Dede Çeşmesi

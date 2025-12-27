@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9814281,37.7979355"
 draft: false
+
+weight: 100
 ---
 
 ## Saruhan Camii: Denizli'nin Tarihi Bir Mirası

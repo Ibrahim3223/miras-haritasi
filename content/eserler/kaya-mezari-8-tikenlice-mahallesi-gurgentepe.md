@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.664227,40.776393"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe: Bir Geçmişin Anıtları

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.934338,38.143533"
 draft: false
+
+weight: 100
 ---
 
 ## Sahabe Mezarları Türbesi

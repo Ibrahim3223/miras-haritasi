@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.290614,39.995649"
 draft: false
+
+weight: 100
 ---
 
 **Sinanlı Ulu Cami: Tarihi ve Kültürel Mirasın Parçaları**

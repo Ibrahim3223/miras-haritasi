@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.977993,37.293019"
 draft: false
+
+weight: 100
 ---
 
 ## Haskızılören Camii: Serik'in Tarihi Bir Mirası

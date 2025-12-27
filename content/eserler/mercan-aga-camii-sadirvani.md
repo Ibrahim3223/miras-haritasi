@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9677563,41.0125809"
 draft: false
+
+weight: 100
 ---
 
 ## Mercan Ağa Camii Şadırvanı

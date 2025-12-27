@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.238888888,39.9575"
 draft: false
+
+weight: 10
 ---
 
 ## Troya

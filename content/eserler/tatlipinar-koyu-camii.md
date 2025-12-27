@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.8761177,40.7213249"
 draft: false
+
+weight: 100
 ---
 
 ## Tatlıpınar Köyü Camii: Çankırı'nın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Çayboyu Höyüğü: Türkiye'nin Gizli Özellikleri Arasındaki Bir Arkeolojik Sit

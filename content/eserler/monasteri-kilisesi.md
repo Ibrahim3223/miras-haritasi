@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.655722222,41.421666666"
 draft: false
+
+weight: 100
 ---
 
 ## Monasteri Kilisesi

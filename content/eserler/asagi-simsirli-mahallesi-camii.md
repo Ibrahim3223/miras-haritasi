@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.040792089,41.024460028"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Şimşirli Mahallesi Camii

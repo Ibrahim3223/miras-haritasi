@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8213196,40.9569893"
 draft: false
+
+weight: 100
 ---
 
 **Ayia Fotini Ayazması: Bakırköy'deki Bir Değerli Çeşme**

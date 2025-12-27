@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3541546,41.8755341"
 draft: false
+
+weight: 100
 ---
 
 # Koruköy Kalesi, Kırklareli

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.180503,40.33761"
 draft: false
+
+weight: 100
 ---
 
 ### Eirakla Arkeolojik Siti

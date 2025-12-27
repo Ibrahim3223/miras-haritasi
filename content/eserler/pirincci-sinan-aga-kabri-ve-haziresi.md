@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9456787,41.02211"
 draft: false
+
+weight: 100
 ---
 
 ## Pirinççi Sinan Ağa Kabri ve Haziresi

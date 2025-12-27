@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.500777777,37.869944444"
 draft: false
+
+weight: 10
 ---
 
 **Aziziye Camii: Konya'nın Tarihi Bir Mirası**

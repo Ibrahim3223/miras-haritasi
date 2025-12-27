@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.7109604,36.9292488"
 draft: false
+
+weight: 100
 ---
 
 ## Acem Türbesi: Köyceğiz'in Gizli Cenneti

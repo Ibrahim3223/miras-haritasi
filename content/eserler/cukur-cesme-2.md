@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6489429,38.5476952"
 draft: false
+
+weight: 100
 ---
 
 ## Çukur Çeşme 2

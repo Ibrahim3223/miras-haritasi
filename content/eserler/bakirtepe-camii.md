@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4576671,40.6591192"
 draft: false
+
+weight: 100
 ---
 
 **Bakırtepe Camii: Artvin'in Tarihi ve Kültürel Mirasının Bir Parçası**

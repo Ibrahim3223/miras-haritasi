@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.737168,37.313262"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Abdülaziz Camii: Mardin'in Eski ve Gizemli Camisi

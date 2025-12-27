@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0283852,41.1951103"
 draft: false
+
+weight: 10
 ---
 
 ### Kirazlıbahçe Çeşmeleri: Sarıyer'in Tarihi ve Güzelliği

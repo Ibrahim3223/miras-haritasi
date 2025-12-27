@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.52472222,37.50194444"
 draft: false
+
+weight: 10
 ---
 
 # Herakleia: Tarihî Bir Kentin Kalıntıları

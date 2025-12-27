@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1205,38.4002"
 draft: false
+
+weight: 100
 ---
 
 ## Koçgazi Türbesi

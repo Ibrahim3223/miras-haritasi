@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.0258872,40.9863005"
 draft: false
+
+weight: 10
 ---
 
 ## Oyun Atölyesi: Kadıköy'deki Antik Tiyatro

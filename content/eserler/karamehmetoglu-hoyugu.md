@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8466666,39.9049526"
 draft: false
+
+weight: 100
 ---
 
 ## Karamehmetoğlu Höyüğü: Sivas'taki Eski Eserlerin Gizemi

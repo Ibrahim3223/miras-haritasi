@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0583553,40.1820412"
 draft: false
+
+weight: 100
 ---
 
 ## Veled-i Vezir Camii: Bursa'nın Gizli Çehresini keşfedin

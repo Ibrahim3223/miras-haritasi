@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.2490616,37.807682"
 draft: false
+
+weight: 100
 ---
 
 # Zey Köprüsü: Adıyaman'da Bir Tarihî Mirasın Gizemi

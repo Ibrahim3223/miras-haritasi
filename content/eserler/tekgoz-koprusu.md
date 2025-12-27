@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.178888888,38.836111111"
 draft: false
+
+weight: 10
 ---
 
 ### Tekgöz Köprüsü: Tarihinin Büyülü Köprüsü

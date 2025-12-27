@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.3050652,40.8168182"
 draft: false
+
+weight: 10
 ---
 
 ## Davut Ağa Çeşmesi

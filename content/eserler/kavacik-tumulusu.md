@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.6735039,41.1856613"
 draft: false
+
+weight: 100
 ---
 
 ## Kavacık Tümülüsü: Edirne'nin Gizli Anıtı

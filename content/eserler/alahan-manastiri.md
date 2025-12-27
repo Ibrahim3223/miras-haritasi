@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.36555556,36.77944444"
 draft: false
+
+weight: 10
 ---
 
 ## Alahan Manastırı: Mersin'in Gizli Çarpıntısı

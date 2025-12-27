@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7659626,41.5533638"
 draft: false
+
+weight: 100
 ---
 
 ## Yarıktepe B Tümülüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9488125,41.0296402"
 draft: false
+
+weight: 100
 ---
 
 # Ayia Anna Ayazması: Fener'in Tarihsel Çeşmesi

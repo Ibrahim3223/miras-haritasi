@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.926297,41.021655"
 draft: false
+
+weight: 10
 ---
 
 ### Romanus Kapısı

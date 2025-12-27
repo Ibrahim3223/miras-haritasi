@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9636059,41.0098228"
 draft: false
+
+weight: 100
 ---
 
 ### Aşub Kadın Çeşmesi Tanıtımı

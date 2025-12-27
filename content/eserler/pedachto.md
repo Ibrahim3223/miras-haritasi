@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.875022,40.108667"
 draft: false
+
+weight: 100
 ---
 
 ## Pedachtoë: Kıbrıs'ın Tarihi ve Kültürel Mirasının Bir Parçası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1420262,38.7575811"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Düzlen

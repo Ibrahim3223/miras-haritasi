@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7882118,37.2726288"
 draft: false
+
+weight: 100
 ---
 
 ## Kubbeli Çeşme

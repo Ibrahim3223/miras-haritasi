@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.256666666,37.384722222"
 draft: false
+
+weight: 100
 ---
 
 ## Didyma Stadyumu: Antik Çağın Gizemi

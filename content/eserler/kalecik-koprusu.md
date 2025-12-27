@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.4440538,40.0414437"
 draft: false
+
+weight: 10
 ---
 
 ## Kalecik Köprüsü

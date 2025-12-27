@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4058456,37.7479591"
 draft: false
+
+weight: 100
 ---
 
 ## Çeltikçi Camii: Aydın'ın Söke İlçesi'ndeki Tarihi Bir Anıtsal Yapı

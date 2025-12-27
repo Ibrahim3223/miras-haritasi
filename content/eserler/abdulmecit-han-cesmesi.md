@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9808865,41.0385323"
 draft: false
+
+weight: 100
 ---
 
 ### Abdülmecit Han Çeşmesi

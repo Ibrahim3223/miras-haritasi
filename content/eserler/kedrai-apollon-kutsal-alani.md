@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.2076511,36.9920082"
 draft: false
+
+weight: 100
 ---
 
 ## Kedrai Apollon Kutsal Alanı: Muğla'nın Gizli Çıkınları

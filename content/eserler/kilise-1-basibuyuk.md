@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.1561546,40.9560127"
 draft: false
+
+weight: 100
 ---
 
 ## Başıbüyük Kilisesi: İstanbul'un Gizli Çehresinde Bir İkona

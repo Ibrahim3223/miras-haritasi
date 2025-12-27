@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.376455,37.974503"
 draft: false
+
+weight: 100
 ---
 
 ## Bayıralan Köprüsü: Tarihi bir Köprü Denizli'nin Çal ilçesinde

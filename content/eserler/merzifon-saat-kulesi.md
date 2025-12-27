@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.461767976,40.874088299"
 draft: false
+
+weight: 10
 ---
 
 ## Merzifon Saat Kulesi

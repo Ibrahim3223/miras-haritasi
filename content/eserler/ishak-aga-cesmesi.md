@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.092611111,41.134361111"
 draft: false
+
+weight: 10
 ---
 
 ## İshak Ağa Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi

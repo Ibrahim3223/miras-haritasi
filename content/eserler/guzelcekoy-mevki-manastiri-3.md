@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.9633999,40.1665993"
 draft: false
+
+weight: 100
 ---
 
 ### Gökçeada'nın Gizli Çehresinde: Güzelceköy Mevki Manastırı 3

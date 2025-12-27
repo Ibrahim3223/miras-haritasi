@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.94567961,41.023956546"
 draft: false
+
+weight: 10
 ---
 
 ## Ebezâde Abdullah Efendi Çeşmesi

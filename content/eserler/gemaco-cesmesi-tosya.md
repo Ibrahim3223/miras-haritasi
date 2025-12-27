@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.033296252,41.021311009"
 draft: false
+
+weight: 100
 ---
 
 ## Gemaco Çeşmesi: Tosya'nın tarihi bir simgesi

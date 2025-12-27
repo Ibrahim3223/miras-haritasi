@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7268066,41.9185257"
 draft: false
+
+weight: 100
 ---
 
 ## Karakoltepe Tümülüsü

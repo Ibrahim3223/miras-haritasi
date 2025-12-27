@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.043643,38.180538"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Halit Türbesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0721836,40.1829185"
 draft: false
+
+weight: 10
 ---
 
 ## Boyacı Kulluğu Köprüsü: Bursa'nın Gizli Çıkışı

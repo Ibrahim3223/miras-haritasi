@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6958694,39.3160667"
 draft: false
+
+weight: 100
 ---
 
 ## 13 Nisan Caddesi Aralığı Çeşmesi

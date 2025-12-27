@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.56034,41.66438"
 draft: false
+
+weight: 100
 ---
 
 ## Evliya Kasımpaşa Camii: Edirne'nin Gizli Çeşmesi

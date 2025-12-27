@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4691277,40.732872"
 draft: false
+
+weight: 100
 ---
 
 ### Yeni Cami Hacı Ali Çeşmesi

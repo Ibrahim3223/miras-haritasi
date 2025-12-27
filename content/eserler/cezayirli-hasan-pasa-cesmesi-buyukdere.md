@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.036133,41.157036"
 draft: false
+
+weight: 10
 ---
 
 ## Cezayirli Hasan Paşa Çeşmesi

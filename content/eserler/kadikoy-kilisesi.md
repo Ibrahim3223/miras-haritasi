@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.4535713,39.9468575"
 draft: false
+
+weight: 100
 ---
 
 ### Kadıköy Kilisesi: Erzincan'ın Gizemli Tarihi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.9983006,38.6039925"
 draft: false
+
+weight: 100
 ---
 
 ### Kuyubaşı Kalesi: Tarihi ve Kültürel Mirasının Bir Parçası

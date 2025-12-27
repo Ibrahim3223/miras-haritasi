@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "25.8289,40.1626"
 draft: false
+
+weight: 10
 ---
 
 **Gökçeada: Ege Denizi'nin Yemyeşil Adası**

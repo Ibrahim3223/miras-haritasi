@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.503051,39.840826"
 draft: false
+
+weight: 10
 ---
 
 ## Kırıkkale Nur Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.9529991,40.2209015"
 draft: false
+
+weight: 100
 ---
 
 ### Manastır (Kuzulimanı): Gökçeada'nın Gizli Cenneti

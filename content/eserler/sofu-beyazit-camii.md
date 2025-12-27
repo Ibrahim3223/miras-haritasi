@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5622902,41.6810799"
 draft: false
+
+weight: 10
 ---
 
 ## Sofu Beyazıt Camii

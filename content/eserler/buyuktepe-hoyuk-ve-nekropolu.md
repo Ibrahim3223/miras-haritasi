@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.4352226,40.5688057"
 draft: false
+
+weight: 100
 ---
 
 ### Büyüktepe Höyük ve Nekropolü

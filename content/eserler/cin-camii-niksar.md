@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9567528,40.5905991"
 draft: false
+
+weight: 100
 ---
 
 ## Cin Camii, Niksar

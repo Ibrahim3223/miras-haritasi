@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.85343166,39.93885832"
 draft: false
+
+weight: 100
 ---
 
 ## Anonim Türbe-5, Altındağ

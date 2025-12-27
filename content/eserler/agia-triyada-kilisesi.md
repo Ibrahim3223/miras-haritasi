@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.659734,39.335676"
 draft: false
+
+weight: 10
 ---
 
 ## Agia Triyada Kilisesi: Ayvalık'ta Bir Geçitli Kilise

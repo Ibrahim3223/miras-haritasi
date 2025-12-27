@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.6477451,38.224308"
 draft: false
+
+weight: 10
 ---
 
 # Hacı Sinan Medresesi: İzmir'in Tarihi Bir Mirası

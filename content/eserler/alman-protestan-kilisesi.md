@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9739,41.036104"
 draft: false
+
+weight: 10
 ---
 
 ## Alman Protestan Kilisesi: Tarihi ve Mimari Özellikleri

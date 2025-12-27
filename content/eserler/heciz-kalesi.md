@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.5174522,41.1210785"
 draft: false
+
+weight: 100
 ---
 
 ### Heciz Kalesi: Şile'nin Gizli Kahramanı

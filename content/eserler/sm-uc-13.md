@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.5,41.15"
 draft: false
+
+weight: 100
 ---
 
 ## SM UC-13: Karasu'daki Bir Savaş Tüneli

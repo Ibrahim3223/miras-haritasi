@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.657139,40.971232"
 draft: false
+
+weight: 100
 ---
 
 ## Yörgüç Paşazade Mustafa Bey Camii: Samsun'un Tarihi Mirası

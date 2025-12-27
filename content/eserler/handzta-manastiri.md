@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.070833333,41.246388888"
 draft: false
+
+weight: 10
 ---
 
 # Handzta Manastırı

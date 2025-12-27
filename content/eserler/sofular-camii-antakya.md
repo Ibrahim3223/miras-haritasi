@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1691475,36.2021675"
 draft: false
+
+weight: 100
 ---
 
 ## Sofular Camii: Antakya'nın Tarihi ve Kültürel Mirası

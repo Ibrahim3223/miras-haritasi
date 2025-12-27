@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.97671111,41.02264722"
 draft: false
+
+weight: 10
 ---
 
 **Kemankeş Camii: Beyoğlu'ndaki Bir Gizli Cennet**

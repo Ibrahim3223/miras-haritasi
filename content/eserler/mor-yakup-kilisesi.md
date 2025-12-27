@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.2152,37.067"
 draft: false
+
+weight: 10
 ---
 
 # Mor Yakup Kilisesi: Nusaybin'in Tarihî ve Kültürel Mirası

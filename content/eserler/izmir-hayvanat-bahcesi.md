@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.148333333,38.4275"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Hayvanat Bahçesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.96135,41.010428"
 draft: false
+
+weight: 10
 ---
 
 ## Seyyid Hasan Paşa Külliyesi: İstanbul'un Gizli Çeşmesi

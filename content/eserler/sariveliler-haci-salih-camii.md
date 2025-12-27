@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.616478,36.6919594"
 draft: false
+
+weight: 100
 ---
 
 **Sarıveliler Hacı Salih Camii: Karaman'ın Gizli Cenneti**

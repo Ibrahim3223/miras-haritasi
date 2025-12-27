@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.961333333,41.023638888"
 draft: false
+
+weight: 100
 ---
 
 # Unkapanı Sinagogu: İstanbul'un Gizli Tarihi

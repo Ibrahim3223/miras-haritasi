@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3735199,36.6865959"
 draft: false
+
+weight: 10
 ---
 
 ## Knidos Symmachos Heroonu: Datça'nın Gizli Anıtı

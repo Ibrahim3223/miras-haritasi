@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8555603,39.9450226"
 draft: false
+
+weight: 100
 ---
 
 ### Hamidiye Camii, Altındağ

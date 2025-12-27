@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6122227,38.4096107"
 draft: false
+
+weight: 100
 ---
 
 ## Taş Köprü 2: İzmir'in Tarihi ve Kültürel Mirası

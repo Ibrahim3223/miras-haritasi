@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.3734016,40.1621513"
 draft: false
+
+weight: 100
 ---
 
 # Sungurlu Tarihi Hamam

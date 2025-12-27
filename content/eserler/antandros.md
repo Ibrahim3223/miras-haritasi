@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.790555555,39.575833333"
 draft: false
+
+weight: 10
 ---
 
 # Antandros

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6139565,39.8104057"
 draft: false
+
+weight: 100
 ---
 
 ## Mustafa Aslan Efendi Türbesi

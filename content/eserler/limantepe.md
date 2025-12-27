@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.77583333,38.36333333"
 draft: false
+
+weight: 10
 ---
 
 ## Limantepe Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9845734,41.0132675"
 draft: false
+
+weight: 100
 ---
 
 ## Defigam Hatun Çeşmesi

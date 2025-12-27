@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5248,37.502"
 draft: false
+
+weight: 100
 ---
 
 ## Temple of Athena Latmia: Kapıkırı'daki Eski Yunan Mirası

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.97169135,41.07985904"
 draft: false
+
+weight: 100
 ---
 
 ## Kağıthane Sadabad Sahnesi

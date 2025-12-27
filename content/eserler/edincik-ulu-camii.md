@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.855944444,40.346888888"
 draft: false
+
+weight: 10
 ---
 
 ### Edincik Ulu Camii: Bir Geçiş Döneminin İnce Mirası

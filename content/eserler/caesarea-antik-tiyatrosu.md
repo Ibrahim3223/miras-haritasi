@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "35.470167,38.705542"
 draft: false
+
+weight: 100
 ---
 
 # Caesarea Antik Tiyatrosu

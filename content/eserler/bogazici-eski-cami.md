@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5493603,37.93536"
 draft: false
+
+weight: 100
 ---
 
 ### Boğaziçi Eski Cami

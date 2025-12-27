@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.563583333,37.894472222"
 draft: false
+
+weight: 10
 ---
 
 ## Bor Ulu Camii: Tarihi ve Kültürel Mirasının Bir Gizemi

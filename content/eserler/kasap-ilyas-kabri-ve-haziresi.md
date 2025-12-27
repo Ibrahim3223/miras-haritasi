@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9438553,41.0037498"
 draft: false
+
+weight: 10
 ---
 
 ## Kasap İlyas Kabri ve Haziresi

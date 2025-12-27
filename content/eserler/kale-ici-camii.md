@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.3035259,38.3232918"
 draft: false
+
+weight: 100
 ---
 
 ## Kale İçi Camii: İzmir'in Tarihsel Bir Zirvesi

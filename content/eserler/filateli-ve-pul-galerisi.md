@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9748802,41.0141716"
 draft: false
+
+weight: 100
 ---
 
 ## Filateli ve Pul Galerisi

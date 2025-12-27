@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.159833333,41.270972222"
 draft: false
+
+weight: 100
 ---
 
 ### Vaşlobi Kilisesi: Tarihî Bir Mirasın Gizemi

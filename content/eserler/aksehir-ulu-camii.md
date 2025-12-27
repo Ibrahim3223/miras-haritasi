@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.411472222,38.356277777"
 draft: false
+
+weight: 10
 ---
 
 ## Akşehir Ulu Camii: Tarihi ve Kültürel Mirasın Gizemi

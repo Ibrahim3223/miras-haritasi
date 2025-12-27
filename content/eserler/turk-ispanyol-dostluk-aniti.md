@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.61025,40.815055555"
 draft: false
+
+weight: 10
 ---
 
 ## Türk-İspanyol Dostluk Anıtı

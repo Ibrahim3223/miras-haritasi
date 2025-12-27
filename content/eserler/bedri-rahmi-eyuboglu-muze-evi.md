@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.043127657,40.978198096"
 draft: false
+
+weight: 100
 ---
 
 ### Bedri Rahmi Eyüboğlu Müze Evi

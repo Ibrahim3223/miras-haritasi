@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.923246,41.000278"
 draft: false
+
+weight: 10
 ---
 
 ## Emin Ganim Mustafa Çavuş Çeşmesi

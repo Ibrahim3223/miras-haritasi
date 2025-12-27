@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.517777777,37.677388888"
 draft: false
+
+weight: 10
 ---
 
 ### Antoninler Çeşmesi: Ağlasun'un Tarihi Bir Mirası

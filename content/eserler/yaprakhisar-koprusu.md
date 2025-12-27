@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.268814,38.296772"
 draft: false
+
+weight: 100
 ---
 
 ### Yaprakhisar Köprüsü: Aksaray'ın Gizli Cenneti

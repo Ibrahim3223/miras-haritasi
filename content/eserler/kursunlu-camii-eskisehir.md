@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.525826226,39.763049569"
 draft: false
+
+weight: 100
 ---
 
 ## Kurşunlu Camii: Eskişehir'in Tarihî Bir Mirası

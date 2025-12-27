@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.074319,41.182544"
 draft: false
+
+weight: 10
 ---
 
 ## Ruznameci İbrahim Efendi Çeşmesi

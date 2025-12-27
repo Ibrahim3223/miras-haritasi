@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.977234,41.032317"
 draft: false
+
+weight: 10
 ---
 
 ## St. Antuan Katolik Kilisesi

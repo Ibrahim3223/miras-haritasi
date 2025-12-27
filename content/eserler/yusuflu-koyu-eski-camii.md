@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7001629,38.217514"
 draft: false
+
+weight: 100
 ---
 
 **Yusuflu Köyü Eski Camii: Bir Geçmişin İzleri Bayındır'da**

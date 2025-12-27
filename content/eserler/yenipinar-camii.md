@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.2774849,37.7617416"
 draft: false
+
+weight: 100
 ---
 
 ## Yenipınar Camii: Adıyaman'ın Tarihi Bir Mirası

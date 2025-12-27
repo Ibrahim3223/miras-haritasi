@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.199976,37.6918297"
 draft: false
+
+weight: 100
 ---
 
 ### Teslim Abdal Türbesi: Pamukkale'nin Gizli Çağıl

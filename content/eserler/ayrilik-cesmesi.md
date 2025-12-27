@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.03,40.998416666"
 draft: false
+
+weight: 10
 ---
 
 **Ayrılık Çeşmesi**

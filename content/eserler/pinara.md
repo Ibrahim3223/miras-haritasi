@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.25835,36.48915"
 draft: false
+
+weight: 10
 ---
 
 ## Pinara: Muğla'nın Efsanevi Arkeolojik Sitesi

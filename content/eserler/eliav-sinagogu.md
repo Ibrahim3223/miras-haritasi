@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Eliav Sinagogu

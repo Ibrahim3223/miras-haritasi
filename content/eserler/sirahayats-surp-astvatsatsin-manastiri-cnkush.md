@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "39.285,38.209722222"
 draft: false
+
+weight: 100
 ---
 
 ## Sirahayats Surp Astvatsatsin Manastırı (Çnkush)

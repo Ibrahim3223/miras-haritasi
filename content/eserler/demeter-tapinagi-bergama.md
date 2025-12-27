@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.18416667,39.12728889"
 draft: false
+
+weight: 10
 ---
 
 # Demeter Tapınağı: Bergama'nın Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.202198,36.55458"
 draft: false
+
+weight: 100
 ---
 
 ### İdebessos Antik Tiyatrosu

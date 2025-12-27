@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.969529,41.023699"
 draft: false
+
+weight: 10
 ---
 
 ## Yunus Dede Türbesi

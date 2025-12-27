@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0159,41.023227"
 draft: false
+
+weight: 10
 ---
 
 # Alemdar Ahmet Baba Türbesi

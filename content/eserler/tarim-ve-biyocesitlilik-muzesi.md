@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.745440065,39.89934514"
 draft: false
+
+weight: 100
 ---
 
 ## Tarım ve Biyoçeşitlilik Müzesi

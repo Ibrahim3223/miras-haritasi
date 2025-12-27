@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.495667,39.5555"
 draft: false
+
+weight: 100
 ---
 
 ### Kurupınar Avdan: Odunpazarı'nın Gizli İncisi

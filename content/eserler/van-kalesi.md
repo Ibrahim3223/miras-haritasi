@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.34,38.5025"
 draft: false
+
+weight: 10
 ---
 
 ## Van Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası

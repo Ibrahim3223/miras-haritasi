@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.016603576,41.02049501"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmediye Camii: Üsküdar'ın Tarihî Bir Çağımsal Mirası

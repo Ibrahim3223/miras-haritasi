@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2558975,37.9317513"
 draft: false
+
+weight: 100
 ---
 
 ## Kemer Köprü, İsabeyli

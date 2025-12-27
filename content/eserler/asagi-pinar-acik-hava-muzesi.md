@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.2259502,41.7209625"
 draft: false
+
+weight: 100
 ---
 
 # Aşağı Pınar Açık Hava Müzesi

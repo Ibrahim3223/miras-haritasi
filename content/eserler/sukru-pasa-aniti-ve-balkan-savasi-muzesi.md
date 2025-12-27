@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.575599,41.675155"
 draft: false
+
+weight: 100
 ---
 
 # Şükrü Paşa Anıtı ve Balkan Savaşı Müzesi

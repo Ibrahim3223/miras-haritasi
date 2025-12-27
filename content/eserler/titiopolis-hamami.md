@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.8101463,36.0920067"
 draft: false
+
+weight: 100
 ---
 
 ## Titiopolis Hamamı

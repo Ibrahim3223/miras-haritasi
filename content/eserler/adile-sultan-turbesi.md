@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9355793,41.0484047"
 draft: false
+
+weight: 100
 ---
 
 ## Adile Sultan Türbesi: Eyüp Sultan'da Bir Ünlü Kadının Anıtı

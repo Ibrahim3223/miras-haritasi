@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.343426317,37.937212044"
 draft: false
+
+weight: 10
 ---
 
 ## Memmius Yapısı: Tarih ve Kültür Mirasının Bir Parçası

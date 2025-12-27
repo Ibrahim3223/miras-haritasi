@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.2142258,41.5103798"
 draft: false
+
+weight: 100
 ---
 
 ## Kara Mustafa Paşa Camii: Taşköprü'nün Gizli Çehresi

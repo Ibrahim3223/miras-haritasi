@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9315033,41.0069313"
 draft: false
+
+weight: 100
 ---
 
 ## Doğan Ağa Kabri: Fatih'in Gizli Çeşmesiyle Birlikte Geçmişe Yolculuk

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6539822,38.2198486"
 draft: false
+
+weight: 100
 ---
 
 # Sanayi Çarşısı Çeşmesi, Bayındır

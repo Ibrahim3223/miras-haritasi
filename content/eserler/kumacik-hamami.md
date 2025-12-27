@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.8361282,40.6574838"
 draft: false
+
+weight: 100
 ---
 
 ## Kumacık Hamamı: Amasya'nın Tarihi Bir Mirası

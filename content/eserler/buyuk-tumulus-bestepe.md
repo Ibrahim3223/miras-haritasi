@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8127594,39.9282227"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Tümülüs, Beştepe

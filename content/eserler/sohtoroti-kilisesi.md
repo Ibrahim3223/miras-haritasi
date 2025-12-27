@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.426777777,40.377277777"
 draft: false
+
+weight: 100
 ---
 
 # Sohtoroti Kilisesi

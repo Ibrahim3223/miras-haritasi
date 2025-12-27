@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9957318,37.3045498"
 draft: false
+
+weight: 100
 ---
 
 ## Olbasa (Pisidya) Arkeolojik Sit

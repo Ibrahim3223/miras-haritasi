@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.877545,37.251463"
 draft: false
+
+weight: 100
 ---
 
 ### Posala: Geçmişe Yolculuk

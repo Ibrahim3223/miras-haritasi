@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.076268,41.165174"
 draft: false
+
+weight: 100
 ---
 
 ## Argyronion: Eski Yunanistan'ın Gizemli Arkeolojik Sitesi

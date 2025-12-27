@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.025471,41.017862"
 draft: false
+
+weight: 100
 ---
 
 ### Kasım Ağa Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

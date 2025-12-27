@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.237136,37.907125"
 draft: false
+
+weight: 10
 ---
 
 ## Hüsrev Paşa Camii: Diyarbakır'ın Tarihi Bir Anıtı

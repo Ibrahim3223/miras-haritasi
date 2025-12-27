@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.4874993,37.8750553"
 draft: false
+
+weight: 10
 ---
 
 ### Konya İl Halk Kütüphanesi

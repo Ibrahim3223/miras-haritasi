@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9360511,41.024859521"
 draft: false
+
+weight: 10
 ---
 
 ### Yakup Kethüda Çeşmesi, Karagümrük

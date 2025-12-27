@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9875374,40.6268806"
 draft: false
+
+weight: 100
 ---
 
 ## Tepecik Köyü Camii: Kocaeli'nin Değerli Kültürel Mirası

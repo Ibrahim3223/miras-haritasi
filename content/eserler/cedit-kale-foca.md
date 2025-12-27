@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.7348633,38.6666985"
 draft: false
+
+weight: 100
 ---
 
 ## Cedit Kale, Foça: Tarihi ve Kültürel Mirası

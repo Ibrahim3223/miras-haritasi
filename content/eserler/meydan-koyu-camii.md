@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.929863632,40.891650318"
 draft: false
+
+weight: 100
 ---
 
 **Meydan Köyü Camii: Tarihi ve Kültürel Mirasımız**

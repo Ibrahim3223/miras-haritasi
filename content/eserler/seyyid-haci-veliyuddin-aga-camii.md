@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5753078,40.7737732"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Hacı Veliyüddin Ağa Camii

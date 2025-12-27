@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.44104265,37.124539109"
 draft: false
+
+weight: 100
 ---
 
 # Bektaş Höyük: Geçmişin İzleri Mardin'de

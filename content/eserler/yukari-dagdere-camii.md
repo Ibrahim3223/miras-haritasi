@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.404872,37.778903"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Dağdere Camii: Honaz'ın Tarihi Bir Mirası

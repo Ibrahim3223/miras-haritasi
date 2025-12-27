@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.2140465,36.6562386"
 draft: false
+
+weight: 10
 ---
 
 ## Yunus Sütunu: İskenderun'un Sembolü

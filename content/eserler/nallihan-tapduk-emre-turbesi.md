@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.399,40.0757"
 draft: false
+
+weight: 100
 ---
 
 ## Nallıhan Tapduk Emre Türbesi

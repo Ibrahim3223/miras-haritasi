@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.980027777,41.034972222"
 draft: false
+
+weight: 100
 ---
 
 ## Odeon Tiyatrosu: İstanbul'un Gizli Mirası

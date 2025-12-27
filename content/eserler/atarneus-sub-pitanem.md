@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.85959,38.928313"
 draft: false
+
+weight: 100
 ---
 
 **Atarneus sub Pitanem: Antik Çağın Gizemi**

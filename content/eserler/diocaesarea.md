@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.925266,36.581229"
 draft: false
+
+weight: 100
 ---
 
 ## Diocaesarea: Türkiye'nin Gizli Hazineleri

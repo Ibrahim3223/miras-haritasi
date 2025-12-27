@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.312,37.32"
 draft: false
+
+weight: 100
 ---
 
 ## Komama: Bucak'ın Gizemi

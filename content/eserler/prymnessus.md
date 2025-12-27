@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.569147,38.697462"
 draft: false
+
+weight: 100
 ---
 
 ## Prymnessus Arkeolojik Sit

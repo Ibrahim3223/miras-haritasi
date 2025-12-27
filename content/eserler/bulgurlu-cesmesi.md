@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.071415,41.018336"
 draft: false
+
+weight: 10
 ---
 
 ### Bulgurlu Çeşmesi

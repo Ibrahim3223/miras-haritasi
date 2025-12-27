@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.66699,40.96824"
 draft: false
+
+weight: 100
 ---
 
 ## Phazemon Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.615101,40.012558"
 draft: false
+
+weight: 100
 ---
 
 ## Hattuşa Sarıkale: Tarihî Bir Mirasın Gizemi

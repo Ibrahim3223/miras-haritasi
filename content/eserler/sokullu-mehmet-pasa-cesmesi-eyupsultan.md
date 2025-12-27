@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.933673,41.04672"
 draft: false
+
+weight: 10
 ---
 
 ## Sokullu Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi

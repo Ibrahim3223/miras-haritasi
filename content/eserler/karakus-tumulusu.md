@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.588,37.869388888"
 draft: false
+
+weight: 10
 ---
 
 ## Karakuş Tümülüsü: Adıyaman'ın Gizemi

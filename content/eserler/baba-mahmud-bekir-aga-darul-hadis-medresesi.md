@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9523506,41.0137939"
 draft: false
+
+weight: 100
 ---
 
 ## Baba Mahmud Bekir Ağa Darü'l-Hadis Medresesi

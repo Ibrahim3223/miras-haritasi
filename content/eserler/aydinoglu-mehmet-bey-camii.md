@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.067194444,38.256555555"
 draft: false
+
+weight: 10
 ---
 
 ## Aydınoğlu Mehmet Bey Camii: Ödemiş'in Tarihi Bir Mirası

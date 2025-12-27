@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.846267,38.6387"
 draft: false
+
+weight: 10
 ---
 
 ## Karanlık Kilise: Göreme'nin Gizemli Çağından Kalan Bir Miras

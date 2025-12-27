@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.882311,39.932475"
 draft: false
+
+weight: 100
 ---
 
 ## Haritacılık Müzesi: Ankara'nın Harita Mirası

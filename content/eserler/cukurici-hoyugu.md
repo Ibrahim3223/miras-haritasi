@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3594,37.9292"
 draft: false
+
+weight: 10
 ---
 
 ## Çukuriçi Höyüğü: İzmirlinin Eski Mirası

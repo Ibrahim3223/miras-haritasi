@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9252777,40.7677269"
 draft: false
+
+weight: 100
 ---
 
 ### Alaca Mescit, Kocaeli

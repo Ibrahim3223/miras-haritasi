@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.974511212,41.005328621"
 draft: false
+
+weight: 10
 ---
 
 ## Cumhuriyet Müzesi: İstanbul'un Tarihini ve Kültürünü Canlandıran Bir Yer

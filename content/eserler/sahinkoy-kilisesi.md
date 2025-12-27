@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.8419991,41.0220985"
 draft: false
+
+weight: 100
 ---
 
 ### Şahinköy Kilisesi

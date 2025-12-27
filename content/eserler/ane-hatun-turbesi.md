@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.270027777,39.904222222"
 draft: false
+
+weight: 100
 ---
 
 ## Ane Hatun Türbesi

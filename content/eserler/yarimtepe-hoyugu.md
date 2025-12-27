@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3070526,38.4811287"
 draft: false
+
+weight: 100
 ---
 
 ## Yarımtepe Höyüğü: Malatya'nın Gizli Kıvancı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.835859,36.750652"
 draft: false
+
+weight: 100
 ---
 
 ## Calynda Arkeolojik Sit

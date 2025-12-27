@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "40.5920906,38.9616203"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Ahmet Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.555666,41.1878204"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı İsmail Ağa Çeşmesi: Arnavutköy'de Bir Çeşme Anıtı

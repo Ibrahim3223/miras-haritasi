@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1850929,41.7482758"
 draft: false
+
+weight: 100
 ---
 
 ## Kırklareli Tholos Tipi Mezar Yapısı

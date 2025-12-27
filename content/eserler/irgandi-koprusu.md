@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.07083,40.18195"
 draft: false
+
+weight: 10
 ---
 
 # Irgandı Köprüsü

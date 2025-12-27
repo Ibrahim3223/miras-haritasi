@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9429092,41.0305214"
 draft: false
+
+weight: 100
 ---
 
 ## Cepken Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi

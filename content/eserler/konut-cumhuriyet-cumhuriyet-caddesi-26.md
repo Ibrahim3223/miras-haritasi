@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.0955029,41.6337433"
 draft: false
+
+weight: 100
 ---
 
 ## Vize Kütüphanesi: Cumhuriyet Caddesi'ndeki Tarihi Bir Miras

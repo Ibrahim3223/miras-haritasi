@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9273929,41.0098865"
 draft: false
+
+weight: 100
 ---
 
 ## Halil Efendiler Türbesi

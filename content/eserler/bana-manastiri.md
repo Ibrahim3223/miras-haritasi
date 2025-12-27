@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.269961,40.668061"
 draft: false
+
+weight: 10
 ---
 
 ## Bana Manastırı: Erzurum'un Tarihi ve Kültürel Mirası

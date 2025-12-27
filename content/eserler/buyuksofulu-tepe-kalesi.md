@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.1254997,38.9996986"
 draft: false
+
+weight: 100
 ---
 
 ## Büyüksofulu Tepe Kalesi

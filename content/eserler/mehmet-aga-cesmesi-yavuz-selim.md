@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9479904,41.0253944"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Çeşmesi, Yavuz Selim

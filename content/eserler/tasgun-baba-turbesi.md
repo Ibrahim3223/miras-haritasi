@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.7124901,38.331234"
 draft: false
+
+weight: 100
 ---
 
 ## Taşgun Baba Türbesi: Altınekin'in Gizli Çağı

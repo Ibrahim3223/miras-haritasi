@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.923,41.006"
 draft: false
+
+weight: 10
 ---
 
 # Hadım İbrahim Paşa Camii: İstanbul'un Gizli Çeşmesi

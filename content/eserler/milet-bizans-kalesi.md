@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.2764893,37.5309639"
 draft: false
+
+weight: 100
 ---
 
 # Milet Bizans Kalesi

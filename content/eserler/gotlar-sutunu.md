@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.98544444,41.0145"
 draft: false
+
+weight: 10
 ---
 
 ### Gotlar Sütunu

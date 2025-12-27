@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.045006,40.118898"
 draft: false
+
+weight: 100
 ---
 
 ## Dolu Baba Türbesi

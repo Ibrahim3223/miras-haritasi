@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.345680271,37.936479603"
 draft: false
+
+weight: 10
 ---
 
 # Yukarı Gymnasion / Devlet Agorası Hamamları

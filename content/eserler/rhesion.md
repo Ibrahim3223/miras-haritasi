@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.891944444,40.984166666"
 draft: false
+
+weight: 100
 ---
 
 ### Rhesion Arkeolojik Sit

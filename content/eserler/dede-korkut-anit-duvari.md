@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4960632,39.765255"
 draft: false
+
+weight: 100
 ---
 
 ## Dede Korkut Anıt Duvarı

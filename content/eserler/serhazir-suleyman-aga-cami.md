@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.05288,41.09788"
 draft: false
+
+weight: 10
 ---
 
 ## Serhazir Süleyman Ağa Cami: Tarihî Bir Anıtın Gizemi

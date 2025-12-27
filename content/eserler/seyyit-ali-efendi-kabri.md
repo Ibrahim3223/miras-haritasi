@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.965332179,41.018177163"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyit Ali Efendi Kabri: İstanbul'un Gizli Anıtı

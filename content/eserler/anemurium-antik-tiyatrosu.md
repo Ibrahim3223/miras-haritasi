@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8019447,36.0225868"
 draft: false
+
+weight: 100
 ---
 
 ### Anemurium Antik Tiyatrosu

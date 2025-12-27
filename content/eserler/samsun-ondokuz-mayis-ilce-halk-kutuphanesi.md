@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "35.4559898,41.1423874"
 draft: false
+
+weight: 100
 ---
 
 ## Samsun Ondokuz Mayıs İlçe Halk Kütüphanesi

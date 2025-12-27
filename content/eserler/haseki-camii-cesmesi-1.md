@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8587074,39.9403496"
 draft: false
+
+weight: 100
 ---
 
 # Haseki Camii Çeşmesi 1

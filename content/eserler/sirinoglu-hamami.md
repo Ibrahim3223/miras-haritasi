@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.0164032,39.7555122"
 draft: false
+
+weight: 100
 ---
 
 ## Şirinoğlu Hamamı

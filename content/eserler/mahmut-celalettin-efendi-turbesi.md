@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935318,41.048352"
 draft: false
+
+weight: 100
 ---
 
 ### Mahmut Celalettin Efendi Türbesi

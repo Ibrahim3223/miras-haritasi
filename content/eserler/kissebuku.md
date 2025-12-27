@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6460629,36.9975052"
 draft: false
+
+weight: 100
 ---
 
 # Kissebükü Arkeolojik Sit

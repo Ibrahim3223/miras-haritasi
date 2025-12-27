@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.702179,36.585762"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıveliler Kızılçukur Örenyeri: Tarihî Bir Anıtın Gizemi

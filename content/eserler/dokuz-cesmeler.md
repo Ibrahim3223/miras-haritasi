@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1798973,38.3864136"
 draft: false
+
+weight: 100
 ---
 
 ## Dokuz Çeşmeler: Bir Çeşmenin Mirası

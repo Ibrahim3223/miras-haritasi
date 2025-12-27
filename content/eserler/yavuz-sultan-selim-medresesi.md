@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.942137128,41.016784691"
 draft: false
+
+weight: 10
 ---
 
 ### Yavuz Sultan Selim Medresesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.938076,40.8194237"
 draft: false
+
+weight: 100
 ---
 
 ## Aytepe Tümülüsü: İzmit'in Gizli Örenleri

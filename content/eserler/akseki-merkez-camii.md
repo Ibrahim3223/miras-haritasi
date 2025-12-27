@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.789999848,37.047720795"
 draft: false
+
+weight: 10
 ---
 
 **Akseki Merkez Camii: Demirciler Köyünün Yüzyıllardır Bakımlı Tarihi Mirası**

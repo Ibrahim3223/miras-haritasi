@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9432727,41.0392749"
 draft: false
+
+weight: 100
 ---
 
 ### Ayvansaray Mescidi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970520027,41.016768324"
 draft: false
+
+weight: 10
 ---
 
 ## Hatice Sultan Çeşmesi

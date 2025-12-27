@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.997722222,41.140138888"
 draft: false
+
+weight: 100
 ---
 
 ## Akhiza Manastırı

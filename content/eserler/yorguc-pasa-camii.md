@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.042611111,41.079055555"
 draft: false
+
+weight: 100
 ---
 
 ## Yörgüç Paşa Camii: Samsun'un Eski Kenti Kavak'ta Bir Önemli Cami

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.158611111,39.148611111"
 draft: false
+
+weight: 100
 ---
 
 ## Kırşehir Müzesi

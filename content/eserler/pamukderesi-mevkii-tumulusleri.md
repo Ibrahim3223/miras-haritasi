@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.754151021,40.325379975"
 draft: false
+
+weight: 100
 ---
 
 ## Pamukderesi Mevkii Tümülüsleri

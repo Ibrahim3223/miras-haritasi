@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1482811,38.4193382"
 draft: false
+
+weight: 100
 ---
 
 ## Polis Şehitleri Anıtı, Konak

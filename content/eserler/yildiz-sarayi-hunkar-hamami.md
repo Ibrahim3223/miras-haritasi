@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.011808663,41.050357755"
 draft: false
+
+weight: 100
 ---
 
 ### Yıldız Sarayı Hünkar Hamamı

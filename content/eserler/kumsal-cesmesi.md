@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056864,41.167633"
 draft: false
+
+weight: 10
 ---
 
 ## Kumsal Çeşmesi: Sarıyer'in Tarihî Bir Çeşmesi

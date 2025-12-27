@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.9997474,40.5719196"
 draft: false
+
+weight: 100
 ---
 
 ## Koşapınar Höyük: Amasya'nın Gizli Tarih Mirası

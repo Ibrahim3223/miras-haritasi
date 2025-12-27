@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.97,40.353888888"
 draft: false
+
+weight: 10
 ---
 
 ### Bandırma Camii: Balıkesir'in Değerli Cami Mirası

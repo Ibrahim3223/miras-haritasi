@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8538132,39.9439354"
 draft: false
+
+weight: 100
 ---
 
 ### İğneci Belkıs Mahallesi Çeşmesi: Bir Osmanlı Dönemi Eseri

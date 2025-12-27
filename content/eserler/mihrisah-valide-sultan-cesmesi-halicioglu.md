@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9443512,41.0456047"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Halıcıoğlu

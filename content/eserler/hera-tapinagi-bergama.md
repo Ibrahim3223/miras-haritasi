@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.185555555,39.1275"
 draft: false
+
+weight: 10
 ---
 
 ## Hera Tapınağı (Bergama)

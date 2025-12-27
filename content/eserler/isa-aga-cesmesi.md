@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.011639,41.015205"
 draft: false
+
+weight: 10
 ---
 
 ## İsa Ağa Çeşmesi

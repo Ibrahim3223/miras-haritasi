@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.293529,39.427508"
 draft: false
+
+weight: 100
 ---
 
 ## Blados, Hisarköy: Bigadiç'in Gizli Arkeolojik Şehri

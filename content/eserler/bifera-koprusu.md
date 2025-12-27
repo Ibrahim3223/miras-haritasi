@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.9994545,40.827961"
 draft: false
+
+weight: 100
 ---
 
 ### Bifera Köprüsü: Araklı'nın Tarihi ve Kültürel Mirası

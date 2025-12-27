@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8669,39.932"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Akif Ersoy Edebiyat Müze Kütüphanesi

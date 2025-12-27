@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.2255058,40.863533"
 draft: false
+
+weight: 100
 ---
 
 ### Cabbar Nalbant Türbesi: Düzce'nin Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5633163,41.6814537"
 draft: false
+
+weight: 100
 ---
 
 **Yeniçeri Hamamı**

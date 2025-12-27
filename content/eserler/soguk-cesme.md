@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7154083,41.0030937"
 draft: false
+
+weight: 100
 ---
 
 ## Soğuk Çeşme: Tarihi ve Kültürel Mirasımız

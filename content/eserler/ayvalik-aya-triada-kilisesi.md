@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.695175,39.313588"
 draft: false
+
+weight: 100
 ---
 
 ### Ayvalık Aya Triada Kilisesi: Bir Geçmişin Eski Ayvalık'ın Kalıntıları

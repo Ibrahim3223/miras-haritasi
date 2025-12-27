@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.426145,37.765777"
 draft: false
+
+weight: 100
 ---
 
 ## Otantika Etnografya Müzesi

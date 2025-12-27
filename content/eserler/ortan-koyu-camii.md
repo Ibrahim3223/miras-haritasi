@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.998457515,41.013904199"
 draft: false
+
+weight: 100
 ---
 
 ## Ortan Köyü Camii: Çamlıhemşin'in Tarihi Bir Rahmeti

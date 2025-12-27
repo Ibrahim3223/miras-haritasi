@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.452805,38.6363642"
 draft: false
+
+weight: 100
 ---
 
 ## Çanlı Köprüsü: Uşak'ın Tarihî Mirası

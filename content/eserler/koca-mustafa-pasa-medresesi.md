@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.928402,41.003136"
 draft: false
+
+weight: 100
 ---
 
 ### Koca Mustafa Paşa Medresesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.4935,37.867972222"
 draft: false
+
+weight: 10
 ---
 
 ### Konya Arkeoloji Müzesi

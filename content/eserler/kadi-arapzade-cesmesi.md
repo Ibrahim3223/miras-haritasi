@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5161591,40.9787903"
 draft: false
+
+weight: 100
 ---
 
 ## Kadı Arapzade Çeşmesi: Süleymanpaşa'da Tarih ve Kültür

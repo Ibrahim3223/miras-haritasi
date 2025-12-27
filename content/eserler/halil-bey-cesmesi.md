@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8699226,39.9386597"
 draft: false
+
+weight: 100
 ---
 
 ## Halil Bey Çeşmesi

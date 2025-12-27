@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2131348,40.2004814"
 draft: false
+
+weight: 100
 ---
 
 ## Vani Mehmet Efendi Camii

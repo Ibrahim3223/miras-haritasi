@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.297778,37.659722"
 draft: false
+
+weight: 10
 ---
 
 ### Priene: Aydın'ın Tarihî Mirası

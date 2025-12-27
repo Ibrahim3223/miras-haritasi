@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1919498,40.6771202"
 draft: false
+
+weight: 100
 ---
 
 ## Tepeköy Çeşmesi ve Su Haznesi

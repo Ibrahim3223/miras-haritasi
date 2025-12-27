@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.1374207,40.5355186"
 draft: false
+
+weight: 100
 ---
 
 # Arpalı Köyü Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.3127098,38.3161392"
 draft: false
+
+weight: 100
 ---
 
 # Arcosoliumlu Kaya Mezarı, Sason

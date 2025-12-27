@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.987015,39.422624"
 draft: false
+
+weight: 10
 ---
 
 ## Kossuth Evi Müzesi: Kütahya'nın Tarihi Bir Mirası

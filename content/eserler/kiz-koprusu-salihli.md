@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2980404,38.6098671"
 draft: false
+
+weight: 100
 ---
 
 **Kız Köprüsü, Salihni: Tarihi ve Kültürel Miras**

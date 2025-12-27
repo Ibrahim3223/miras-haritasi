@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2356796,37.9106255"
 draft: false
+
+weight: 100
 ---
 
 ### Ragıbiye Camii: Diyarbakır'ın Gizli Azınlık Kültürü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.413166666,39.041388888"
 draft: false
+
+weight: 100
 ---
 
 ## Gediz Ulu Camii: Tarihi ve Kültürel Mirası Tanıtımı

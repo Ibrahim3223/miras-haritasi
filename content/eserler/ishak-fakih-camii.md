@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.974444444,39.419777777"
 draft: false
+
+weight: 10
 ---
 
 ## İshak Fakih Camii

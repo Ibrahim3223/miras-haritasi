@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.073484,40.187397"
 draft: false
+
+weight: 10
 ---
 
 ### Acem Reis Camii

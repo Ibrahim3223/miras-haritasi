@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8430481,37.8512344"
 draft: false
+
+weight: 100
 ---
 
 ## Gümrükönü Hanı Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

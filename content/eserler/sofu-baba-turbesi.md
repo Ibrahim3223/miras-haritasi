@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.987494,41.033203"
 draft: false
+
+weight: 10
 ---
 
 # Sofu Baba Türbesi

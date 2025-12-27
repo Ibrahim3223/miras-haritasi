@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.22444444,38.67722222"
 draft: false
+
+weight: 10
 ---
 
 ## Elâzığ Protestan Kilisesi

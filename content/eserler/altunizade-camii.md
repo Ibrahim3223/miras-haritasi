@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.04555556,41.02027778"
 draft: false
+
+weight: 10
 ---
 
 ### Altunizade Camii: Üsküdar'da Yüzyıllar Önce Yapılmış Bir Mimarî Harikası

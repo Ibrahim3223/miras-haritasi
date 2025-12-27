@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3614426,37.2179756"
 draft: false
+
+weight: 100
 ---
 
 **Three Erenler Mosque, Muğla**

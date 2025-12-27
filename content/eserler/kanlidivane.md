@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.17944444,36.52555556"
 draft: false
+
+weight: 10
 ---
 
 ### Kanlıdivane Arkeolojik Sit

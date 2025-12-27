@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.89138889,37.18666667"
 draft: false
+
+weight: 100
 ---
 
 ### Coba Höyük: Gaziantep'in Gizli Kahramanı

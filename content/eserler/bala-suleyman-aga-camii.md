@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.923963,41.008005"
 draft: false
+
+weight: 10
 ---
 
 ## Bala Süleyman Ağa Camii: İstanbul'un Gizli Cenneti

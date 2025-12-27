@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.066352,40.978729"
 draft: false
+
+weight: 100
 ---
 
 # Tütüncü Mehmet Efendi Camii Çeşmesi

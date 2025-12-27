@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8152657,37.7758179"
 draft: false
+
+weight: 100
 ---
 
 ## Hyde Antik Kenti: Konya'nın Gizli Zirvesi

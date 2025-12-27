@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.909426,40.895168"
 draft: false
+
+weight: 100
 ---
 
 ### Malkara Eğitim ve Kültür Vakfı Özel Müzesi

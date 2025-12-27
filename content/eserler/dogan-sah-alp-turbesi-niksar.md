@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.9641876,40.5912018"
 draft: false
+
+weight: 100
 ---
 
 ### Doğan Şah Alp Türbesi, Niksar

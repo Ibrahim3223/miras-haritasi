@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.224933877,41.735045534"
 draft: false
+
+weight: 10
 ---
 
 ## Kırklareli Atatürk Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9261684,40.7624397"
 draft: false
+
+weight: 100
 ---
 
 ## Sümerbank Çeşmesi

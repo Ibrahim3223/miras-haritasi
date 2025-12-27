@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.942831,41.038742"
 draft: false
+
+weight: 10
 ---
 
 ### Meryem Ana Kilisesi: Ayvansaray'ın Tarihi Şehadeti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.6987877,39.4436607"
 draft: false
+
+weight: 100
 ---
 
 ## Seyitgazi Çırçır Çeşmesi

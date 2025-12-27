@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.959108,41.035236"
 draft: false
+
+weight: 100
 ---
 
 ## Çorlulu Ali Paşa Hamamı: İstanbul'un Gizli Cenneti

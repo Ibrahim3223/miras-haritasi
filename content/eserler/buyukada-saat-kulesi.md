@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "29.128583333,40.874111111"
 draft: false
+
+weight: 10
 ---
 
 ## Büyükada Saat Kulesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.7396545,38.3793983"
 draft: false
+
+weight: 100
 ---
 
 # Denizli Köyü Camii Köprüsü

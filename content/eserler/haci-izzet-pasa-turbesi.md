@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5540295,41.6782074"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı İzzet Paşa Türbesi

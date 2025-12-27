@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.702719386,39.738164636"
 draft: false
+
+weight: 100
 ---
 
 ## Serhat Köyü Eski Camii

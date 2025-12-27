@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1854,39.1226997"
 draft: false
+
+weight: 10
 ---
 
 ## Turgut Sokak Çeşmesi, Bergama

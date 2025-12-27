@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.1422997,38.4192009"
 draft: false
+
+weight: 100
 ---
 
 ## Merdivenli Medrese: İzmir'in Tarihî Mirası

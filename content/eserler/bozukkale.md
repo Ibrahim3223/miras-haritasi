@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.0157375,36.5659447"
 draft: false
+
+weight: 10
 ---
 
 ### Bozukkale: Marmaris'in Gizli Kahramanı

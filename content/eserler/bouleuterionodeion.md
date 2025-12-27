@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34495,37.9369"
 draft: false
+
+weight: 10
 ---
 
 ### Bouleuterion/Odeion: İzmir'in Tarihi Bir Mirası

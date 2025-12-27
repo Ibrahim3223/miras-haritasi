@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.413372,37.9244461"
 draft: false
+
+weight: 10
 ---
 
 ## Subaşı Hamamı: Konya'nın Tarihi ve Kültürel Mirası

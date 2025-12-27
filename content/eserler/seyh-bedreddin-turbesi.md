@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.9223557,38.2807541"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Bedreddin Türbesi: İlginin Merkezi

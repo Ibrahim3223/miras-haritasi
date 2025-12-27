@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.690876,41.2411766"
 draft: false
+
+weight: 100
 ---
 
 ### Musalla Mahallesi Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7776566,41.3833656"
 draft: false
+
+weight: 100
 ---
 
 ### Taş Çeşme

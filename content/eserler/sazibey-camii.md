@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9243774,37.5808678"
 draft: false
+
+weight: 100
 ---
 
 ## Şazibey Camii

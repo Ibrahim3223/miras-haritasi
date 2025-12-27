@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.338694444,38.498111111"
 draft: false
+
+weight: 10
 ---
 
 ### İpekyolu Cami: Van'ın Tarihî Bir Mirası

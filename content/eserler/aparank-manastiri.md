@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.75,37.96667"
 draft: false
+
+weight: 10
 ---
 
 ## Aparank Manastırı: Van'ın Gizli Çehresinde Bir Ören

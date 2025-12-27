@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9627399,41.0415993"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Hamdi Efendi Türbesi

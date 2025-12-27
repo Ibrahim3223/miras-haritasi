@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "38.400527777,40.750805555"
 draft: false
+
+weight: 10
 ---
 
 ## Prassareos Manastırı: Kıbrıs'ın Tarihî Mirası

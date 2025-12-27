@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4331512,38.6178513"
 draft: false
+
+weight: 100
 ---
 
 ## St. Jean Ortodoks Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek

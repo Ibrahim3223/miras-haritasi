@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1412411,38.4216728"
 draft: false
+
+weight: 100
 ---
 
 ### Evliyazade Camii: İzmir'in tarihi bir parçası

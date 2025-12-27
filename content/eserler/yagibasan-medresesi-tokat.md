@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "36.546166666,40.315694444"
 draft: false
+
+weight: 10
 ---
 
 ### Yağıbasan Medresesi: Tokat'ın Tarihi Bir Öreni

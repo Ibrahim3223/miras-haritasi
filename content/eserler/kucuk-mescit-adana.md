@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.331313986,36.98482333"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Mescit: Adana'nın Tarihi ve Kültürel Mirası

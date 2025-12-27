@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.3584518,36.8995972"
 draft: false
+
+weight: 100
 ---
 
 ## Şahin Bey Anıtı

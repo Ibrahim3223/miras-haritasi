@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.434166666,39.048055555"
 draft: false
+
+weight: 100
 ---
 
 ## Artsvaber Manastırı: Tarihi ve Kültürel Mirası Tanıtımı

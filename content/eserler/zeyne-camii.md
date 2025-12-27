@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.5265808,36.4462128"
 draft: false
+
+weight: 100
 ---
 
 ## Zeyne Camii: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası

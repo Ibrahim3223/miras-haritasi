@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.973027777,41.006555555"
 draft: false
+
+weight: 10
 ---
 
 # Fuad Paşa Camii: Binbirdirek'te Gizli Bir Cennet

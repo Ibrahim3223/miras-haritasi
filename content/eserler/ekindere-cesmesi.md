@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6201,37.4173012"
 draft: false
+
+weight: 100
 ---
 
 ### Ekindere Çeşmesi

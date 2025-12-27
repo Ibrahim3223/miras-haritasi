@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2731037,40.3340454"
 draft: false
+
+weight: 100
 ---
 
 ## Aslantepe Şehitliği

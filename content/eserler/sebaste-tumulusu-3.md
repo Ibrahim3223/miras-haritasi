@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.653333726,38.48979809"
 draft: false
+
+weight: 100
 ---
 
 ## Sebaste Tümülüsü 3: Uşak'ın Gizli Hazineleri

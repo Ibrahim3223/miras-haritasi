@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.6902161,41.2493324"
 draft: false
+
+weight: 10
 ---
 
 **Kilci Camii: Safranbolu'da Bir Önemli Cami**

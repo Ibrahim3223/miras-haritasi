@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979297,41.025773"
 draft: false
+
+weight: 100
 ---
 
 ## Şekerpare Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri

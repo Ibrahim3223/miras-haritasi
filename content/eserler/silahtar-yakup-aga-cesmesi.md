@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970847,41.033478"
 draft: false
+
+weight: 10
 ---
 
 ### Silahtar Yakup Ağa Çeşmesi

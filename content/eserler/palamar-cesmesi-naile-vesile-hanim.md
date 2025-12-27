@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.087686,41.138923"
 draft: false
+
+weight: 10
 ---
 
 ### Palamar Çeşmesi (Naile Vesile Hanım)

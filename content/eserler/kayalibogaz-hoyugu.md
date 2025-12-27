@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.9286699,39.3310465"
 draft: false
+
+weight: 100
 ---
 
 ## Kayalıboğaz Höyüğü: Türk Tarihine Yarınlarda Karşılaşılan Bir Anıt

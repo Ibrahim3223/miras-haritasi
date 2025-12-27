@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1176949,40.7084999"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Baraklı Camii

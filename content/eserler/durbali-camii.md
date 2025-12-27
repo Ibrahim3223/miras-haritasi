@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0208855,41.0220757"
 draft: false
+
+weight: 100
 ---
 
 ## Durbali Camii: Üsküdar'ın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.09475,41.428416666"
 draft: false
+
+weight: 10
 ---
 
 ### Dört Yüzlü Çeşme (Babaeski)

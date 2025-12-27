@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.63722,40.00322"
 draft: false
+
+weight: 100
 ---
 
 ## Kayalı Boğaz: Boğazkale'nin Gizemli Arkeolojik Sit'i

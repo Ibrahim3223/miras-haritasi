@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.462612,36.981277"
 draft: false
+
+weight: 100
 ---
 
 ## Termessos Agathemeros Mezarı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.179472222,39.125027777"
 draft: false
+
+weight: 100
 ---
 
 ## Bergama Ulu Cami: Tarihi ve Kültürel Değeri

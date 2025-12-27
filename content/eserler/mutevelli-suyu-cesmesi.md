@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.236252,41.049461"
 draft: false
+
+weight: 100
 ---
 
 ## Mütevelli Suyu Çeşmesi

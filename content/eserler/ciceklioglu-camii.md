@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8655357,39.9345436"
 draft: false
+
+weight: 100
 ---
 
 ## Çiçeklioğlu Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.033245,40.983613"
 draft: false
+
+weight: 10
 ---
 
 ## Yoğurtçu Çeşmesi: Kadıköy'ün Tarihi Bir Çeşmesi

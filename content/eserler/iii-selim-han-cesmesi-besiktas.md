@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.004274,41.046008"
 draft: false
+
+weight: 10
 ---
 
 ## III. Selim Han Çeşmesi, Beşiktaş

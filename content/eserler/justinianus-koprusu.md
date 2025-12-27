@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.37276,40.73736"
 draft: false
+
+weight: 10
 ---
 
 ## Justinianus Köprüsü

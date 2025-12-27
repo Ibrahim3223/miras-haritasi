@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.2224808,36.5288773"
 draft: false
+
+weight: 100
 ---
 
 ## Anıt Mezar, Akkale: Mersin'in Tarihî Mirası

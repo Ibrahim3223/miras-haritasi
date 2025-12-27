@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0100803,41.0455284"
 draft: false
+
+weight: 100
 ---
 
 ## Anıtsal Giriş Kapısı, Serencebey

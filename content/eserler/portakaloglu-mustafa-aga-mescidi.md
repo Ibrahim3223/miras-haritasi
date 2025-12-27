@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9227619,40.7666855"
 draft: false
+
+weight: 100
 ---
 
 ## Portakaloğlu Mustafa Ağa Mescidi

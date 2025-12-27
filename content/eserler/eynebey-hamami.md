@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.857659564,39.937143219"
 draft: false
+
+weight: 10
 ---
 
 ### Eynebey Hamamı: Ankara'nın Tarihi bir Hamamı

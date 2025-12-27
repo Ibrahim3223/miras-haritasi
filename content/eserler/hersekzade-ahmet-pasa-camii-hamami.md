@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.628027,40.8545036"
 draft: false
+
+weight: 100
 ---
 
 ## Hersekzade Ahmet Paşa Hamamı: Edirne'nin Gizli Çeşmesi

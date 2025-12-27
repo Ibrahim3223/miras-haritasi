@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9514313,40.5421944"
 draft: false
+
+weight: 100
 ---
 
 ## Paşa Çeşmesi

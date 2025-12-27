@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1343994,38.4163017"
 draft: false
+
+weight: 100
 ---
 
 ### Çivici Hamamı: İzmir'in Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9883,41.0484"
 draft: false
+
+weight: 10
 ---
 
 ## Askeri Müze: Şişli'nin Gizli Çehresini Açığa Çıkaran Tarihi Bir Anıt

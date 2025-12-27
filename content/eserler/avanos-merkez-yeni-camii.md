@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.848114486,38.718310231"
 draft: false
+
+weight: 10
 ---
 
 **Avanos Merkez Yeni Camii**

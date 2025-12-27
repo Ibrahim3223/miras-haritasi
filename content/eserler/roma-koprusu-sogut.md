@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.311443,37.090546"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Söğüt

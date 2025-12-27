@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7485676,38.0866928"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Fakih Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.062279,41.117127"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Asdvadzadzin Ermeni Kilisesi Çeşmesi

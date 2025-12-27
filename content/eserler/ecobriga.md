@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.75215186,40.03836488"
 draft: false
+
+weight: 100
 ---
 
 ## Ecobriga Arkeolojik Sit

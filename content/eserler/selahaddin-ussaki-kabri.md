@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.955311,41.023688"
 draft: false
+
+weight: 100
 ---
 
 ## Selahaddin Uşşaki Kabri

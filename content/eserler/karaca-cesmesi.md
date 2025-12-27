@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.127224,40.1881828"
 draft: false
+
+weight: 100
 ---
 
 ## Karaca Çeşmesi

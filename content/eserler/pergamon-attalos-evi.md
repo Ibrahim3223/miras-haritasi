@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "27.185421,39.1256676"
 draft: false
+
+weight: 100
 ---
 
 ## Pergamon Attalos Evi: İhtişamlı Bir Saray

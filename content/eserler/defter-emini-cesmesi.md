@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.981846,41.028786"
 draft: false
+
+weight: 10
 ---
 
 ## Defter Emini Çeşmesi

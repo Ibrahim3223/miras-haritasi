@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.25333333,40.65777778"
 draft: false
+
+weight: 10
 ---
 
 ## Yalova Deprem Anıtı

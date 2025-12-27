@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.2705148,39.1987812"
 draft: false
+
+weight: 100
 ---
 
 # Akçalı Höyük

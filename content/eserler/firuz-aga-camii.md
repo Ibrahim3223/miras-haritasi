@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.97629,41.007708"
 draft: false
+
+weight: 10
 ---
 
 ## Firuz Ağa Camii: İstanbul'un Eski Şehir Merkezi'ndeki Bir Gizem

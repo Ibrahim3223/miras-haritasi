@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.979418007,41.025852397"
 draft: false
+
+weight: 10
 ---
 
 ## Bayezid-i Cedid Camii: Beyoğlu'nun Gizli Cenneti

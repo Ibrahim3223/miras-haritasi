@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1827049,40.5162697"
 draft: false
+
+weight: 100
 ---
 
 ## Ağcakoyun Höyük

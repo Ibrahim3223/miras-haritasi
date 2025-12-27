@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.028696684,39.587525743"
 draft: false
+
+weight: 100
 ---
 
 # Osmanlı Cami

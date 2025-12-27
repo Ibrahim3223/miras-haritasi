@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.942263,41.008271"
 draft: false
+
+weight: 100
 ---
 
 ## Bayrampaşa Meydanı Odası: Fatih'te Bir Medrese'nin Gizemi

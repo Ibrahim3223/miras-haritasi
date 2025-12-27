@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9460831,41.1865692"
 draft: false
+
+weight: 100
 ---
 
 ### Beştepeler I Tümülüsü

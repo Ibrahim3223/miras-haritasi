@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.095,41.428694444"
 draft: false
+
+weight: 10
 ---
 
 **Babaeski Hamamı: İmparatorluk Devrinin Mirası**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.643305555,38.459416666"
 draft: false
+
+weight: 100
 ---
 
 ## Lice Ulu Camii: Diyarbakır'ın Tarihî Miraslarından Bir Örnek

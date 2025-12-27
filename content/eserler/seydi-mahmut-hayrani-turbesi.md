@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.407322222,38.355416666"
 draft: false
+
+weight: 10
 ---
 
 ## Seydi Mahmut Hayrani Türbesi

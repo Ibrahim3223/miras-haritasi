@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.990855426,41.103368646"
 draft: false
+
+weight: 100
 ---
 
 **Galatasaray Stadyum Müzesi**

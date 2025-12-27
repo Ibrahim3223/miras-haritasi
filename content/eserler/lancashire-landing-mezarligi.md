@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.17359,40.05376"
 draft: false
+
+weight: 10
 ---
 
 ## Lancashire Landing Mezarlığı: Birinci Dünya Savaşı'nın Eceabat'ını Hatırlatan Anıt

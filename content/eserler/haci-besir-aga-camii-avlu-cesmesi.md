@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9771099,41.0107918"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Beşir Ağa Camii Avlu Çeşmesi

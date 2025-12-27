@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.989017422,36.254114542"
 draft: false
+
+weight: 100
 ---
 
 ## Myra Hamamı: Antik Döneminin Gizemi Demre'de

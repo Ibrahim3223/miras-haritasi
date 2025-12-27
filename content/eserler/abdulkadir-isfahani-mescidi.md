@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.860833333,39.9425"
 draft: false
+
+weight: 10
 ---
 
 ### Abdülkadir İsfahani Mescidi

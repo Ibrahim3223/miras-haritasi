@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.6588955,36.7458191"
 draft: false
+
+weight: 100
 ---
 
 ### Hızırşah Taksiarhon Kilisesi

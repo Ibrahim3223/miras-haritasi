@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1722,39.6981"
 draft: false
+
+weight: 100
 ---
 
 ## Alemşah Türbesi

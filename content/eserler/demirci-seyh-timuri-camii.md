@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8950195,40.814949"
 draft: false
+
+weight: 100
 ---
 
 ## Demirci Şeyh Timuri Camii

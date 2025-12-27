@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.560762,38.737003"
 draft: false
+
+weight: 10
 ---
 
 ## Panagia Kilisesi (Gemir)

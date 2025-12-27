@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.973883959,41.016695372"
 draft: false
+
+weight: 10
 ---
 
 # Hidayet Camii

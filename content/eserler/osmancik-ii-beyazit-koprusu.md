@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.80056,40.97017"
 draft: false
+
+weight: 10
 ---
 
 ## Osmancık II. Beyazıt Köprüsü

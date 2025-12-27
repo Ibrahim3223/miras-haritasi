@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5529938,41.6737823"
 draft: false
+
+weight: 10
 ---
 
 # Tamburacılar Camii

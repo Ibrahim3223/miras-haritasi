@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7641182,41.3744278"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Şaban-ı Veli Camii Duvar Çeşmesi

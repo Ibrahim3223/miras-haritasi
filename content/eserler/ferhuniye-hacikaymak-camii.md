@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.490277777,37.877416666"
 draft: false
+
+weight: 10
 ---
 
 ### Ferhuniye Hacıkaymak Camii: Konya'nın Tarihi Bir Mirası

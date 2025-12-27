@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9857769,41.0067749"
 draft: false
+
+weight: 100
 ---
 
 ## Hagios Lazarus Kapısı: Tarihi ve Kültürel Mirası

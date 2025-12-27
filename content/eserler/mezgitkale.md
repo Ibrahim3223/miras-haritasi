@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.03333333,36.46666667"
 draft: false
+
+weight: 10
 ---
 
 ## Mezgitkale: Silifke'nin Gizli Çanı

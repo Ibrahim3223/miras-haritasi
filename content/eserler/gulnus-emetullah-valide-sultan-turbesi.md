@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.015503,41.024717"
 draft: false
+
+weight: 10
 ---
 
 **Gülnuş Emetullah Valide Sultan Türbesi**

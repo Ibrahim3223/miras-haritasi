@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.109996,37.926519"
 draft: false
+
+weight: 100
 ---
 
 # Leimon Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.4087944,40.7815704"
 draft: false
+
+weight: 100
 ---
 
 ## Han Sokak Çeşmesi: Adapazarı'nın Tarihi ve Aşkına

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.883873,41.1223183"
 draft: false
+
+weight: 100
 ---
 
 ## Rum Kilisesi, Cebeciköy

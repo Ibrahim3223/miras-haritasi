@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2135468,37.1834755"
 draft: false
+
+weight: 100
 ---
 
 ## Hacıbeyler Camii: Karaman'ın Tarihi ve Kültürel Mirası

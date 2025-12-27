@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.114997,39.045111"
 draft: false
+
+weight: 100
 ---
 
 ### Halisarna: Bergama'nın Gizli Şehri

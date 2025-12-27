@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9395752,41.0379753"
 draft: false
+
+weight: 100
 ---
 
 ## Gyrolimne Kapısı

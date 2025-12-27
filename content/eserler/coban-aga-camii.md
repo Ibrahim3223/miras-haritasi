@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.955981,41.018554"
 draft: false
+
+weight: 100
 ---
 
 **Çoban Ağa Camii: Fatih'in Gizli Bir Çeşmesi**

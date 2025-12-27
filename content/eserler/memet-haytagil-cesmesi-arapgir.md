@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.495047832,39.036722144"
 draft: false
+
+weight: 100
 ---
 
 ## Memet Haytagil Çeşmesi: Arapgir'in Tarihî bir Çeşmesi

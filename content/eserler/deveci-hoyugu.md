@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0180948,39.4683444"
 draft: false
+
+weight: 100
 ---
 
 ### Deveci Höyüğü: Kırşehir'in Gizli Tarihi

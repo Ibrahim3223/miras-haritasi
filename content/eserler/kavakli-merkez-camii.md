@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1715603,41.6561737"
 draft: false
+
+weight: 100
 ---
 
 ## Kavaklı Merkez Camii

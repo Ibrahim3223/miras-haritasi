@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.00666667,41.04166667"
 draft: false
+
+weight: 10
 ---
 
 ## Barbaros Hayreddin Paşa Türbesi

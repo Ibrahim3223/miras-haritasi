@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.85988889,39.93916667"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Klemens Kilisesi

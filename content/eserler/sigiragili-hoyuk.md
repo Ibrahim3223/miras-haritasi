@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3674928,39.349461"
 draft: false
+
+weight: 100
 ---
 
 # Sığırağılı Höyük: Tarihçenin Gözbebeği

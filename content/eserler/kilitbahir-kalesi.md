@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.379565,40.147656"
 draft: false
+
+weight: 10
 ---
 
 # Kilitbahir Kalesi

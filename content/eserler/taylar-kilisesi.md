@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.6375809,40.5373688"
 draft: false
+
+weight: 100
 ---
 
 ## Taylar Kilisesi: Ani'nin Gizemli Anıtı

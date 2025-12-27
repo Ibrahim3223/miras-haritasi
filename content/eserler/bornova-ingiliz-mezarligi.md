@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.21065,38.45954"
 draft: false
+
+weight: 10
 ---
 
 ## Bornova İngiliz Mezarlığı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.241,40.31"
 draft: false
+
+weight: 100
 ---
 
 ## Fatmaören Höyüğü: Çorum'un Gizli Mirası

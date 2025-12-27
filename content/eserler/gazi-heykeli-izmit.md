@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9190121,40.7626419"
 draft: false
+
+weight: 100
 ---
 
 ### Gazi Heykeli, İzmit

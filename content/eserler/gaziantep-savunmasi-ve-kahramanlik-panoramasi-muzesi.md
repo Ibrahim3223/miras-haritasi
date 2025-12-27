@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.383267,37.066383"
 draft: false
+
+weight: 100
 ---
 
 ## Gaziantep Savunması Ve Kahramanlık Panoraması Müzesi

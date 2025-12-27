@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4494267,41.6041489"
 draft: false
+
+weight: 100
 ---
 
 **Ataköy Maltepe Tümülüsü**

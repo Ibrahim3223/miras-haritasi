@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.043028,41.160428"
 draft: false
+
+weight: 100
 ---
 
 ### İstanbul'un Gizli Cenneti: Büyükdere Camii

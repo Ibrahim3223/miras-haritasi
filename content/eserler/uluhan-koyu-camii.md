@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.1005192,40.3243752"
 draft: false
+
+weight: 100
 ---
 
 ### Uluhan Köyü Camii Tanıtımı

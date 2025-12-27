@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.704226,37.03006"
 draft: false
+
+weight: 10
 ---
 
 ### Tilmen Höyük: İslahiye'nin Gizemli Arkeolojik Mirası

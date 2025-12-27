@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.962286,41.016048"
 draft: false
+
+weight: 1
 ---
 
 ### Süleymaniye Darültıbbı: İstanbul'un Tarihi ve Kültürel Mirası

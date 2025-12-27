@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.7105103,41.0042343"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Mehmet Türbesi: Trabzon'un Gizemli Anıtı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5023918,37.8636475"
 draft: false
+
+weight: 100
 ---
 
 ### Sarı Yakup Camii: Konya'nın Değerli Cami Örnekleri Arasında

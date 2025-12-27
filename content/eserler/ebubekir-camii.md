@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0953922,39.5562897"
 draft: false
+
+weight: 100
 ---
 
 ### Ebubekir Camii: Havran, Balıkesir'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.915624306,41.049054651"
 draft: false
+
+weight: 10
 ---
 
 ## Rami Kütüphanesi

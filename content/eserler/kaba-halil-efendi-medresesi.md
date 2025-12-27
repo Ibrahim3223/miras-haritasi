@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9426467,41.0249885"
 draft: false
+
+weight: 10
 ---
 
 ## Kaba Halil Efendi Medresesi

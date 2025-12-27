@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.2907448,41.0726891"
 draft: false
+
+weight: 100
 ---
 
 **Şeyh Muslihiddin Camii Çeşmesi: Sakarya'nın Gizli Cenneti**

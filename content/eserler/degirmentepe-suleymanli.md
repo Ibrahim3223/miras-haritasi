@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.793067,38.991933"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmentepe Arkeolojik Sit

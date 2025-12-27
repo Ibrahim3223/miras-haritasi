@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.674881,37.9664726"
 draft: false
+
+weight: 100
 ---
 
 ## Ak Medrese: Niğde'de Bir Geç Klasik Dönem Medresesi

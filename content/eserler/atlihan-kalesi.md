@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.2257576,37.7223167"
 draft: false
+
+weight: 100
 ---
 
 ## Atlıhan Kalesi: Tarihî Bir Zenginlik

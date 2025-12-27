@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9681263,36.2523308"
 draft: false
+
+weight: 100
 ---
 
 # Karabucak Mozolesi

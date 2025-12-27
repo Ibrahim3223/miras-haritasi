@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.614444444,40.783333333"
 draft: false
+
+weight: 10
 ---
 
 ## Hereke Halı ve Dokuma Fabrikası: Türkiye'nin İhtişamlı Mirası

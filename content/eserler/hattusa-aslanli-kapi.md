@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.610055555,40.010138888"
 draft: false
+
+weight: 10
 ---
 
 ### Hattuşa Aslanlı Kapı

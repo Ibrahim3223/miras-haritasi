@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.226614,40.927624"
 draft: false
+
+weight: 10
 ---
 
 # Balsuyu Çeşmesi

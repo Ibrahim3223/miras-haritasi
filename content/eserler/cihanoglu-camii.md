@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5701008,37.7341003"
 draft: false
+
+weight: 100
 ---
 
 **Cihanoğlu Camii: Aydın'ın Birinci Derece Tarihi Eseri**

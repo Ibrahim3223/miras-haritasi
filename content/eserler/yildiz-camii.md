@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.00993611,41.04941111"
 draft: false
+
+weight: 10
 ---
 
 ## Yıldız Camii

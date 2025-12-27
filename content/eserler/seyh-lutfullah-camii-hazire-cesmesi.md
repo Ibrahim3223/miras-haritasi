@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.886058874,39.648127469"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Lütfullah Camii Hazire Çeşmesi

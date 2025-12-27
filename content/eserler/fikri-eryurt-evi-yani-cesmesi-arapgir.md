@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.495076497,39.037112355"
 draft: false
+
+weight: 100
 ---
 
 # Fikri Eryurt Evi Yanı Çeşmesi: Arapgir'in Bir Öreni

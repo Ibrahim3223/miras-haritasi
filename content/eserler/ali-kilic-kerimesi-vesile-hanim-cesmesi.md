@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.9686928,38.2256279"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Kılıç Kerimesi Vesile Hanım Çeşmesi

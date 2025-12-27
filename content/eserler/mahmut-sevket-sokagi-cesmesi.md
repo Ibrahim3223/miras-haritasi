@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18509722,39.12356944"
 draft: false
+
+weight: 10
 ---
 
 ### Mahmut Şevket Sokağı Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.5426636,40.3764801"
 draft: false
+
+weight: 100
 ---
 
 ## Terme Höyük: Tarihî Bir Mirasın İzleri

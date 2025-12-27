@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.0630169,38.7081642"
 draft: false
+
+weight: 100
 ---
 
 ## Şıhlar Çeşmesi: Bolvadin'in Tarihî Bir Çeşmesi

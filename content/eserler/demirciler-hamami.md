@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.5548363,40.8461838"
 draft: false
+
+weight: 100
 ---
 
 ### Demirciler Hamamı

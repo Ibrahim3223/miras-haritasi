@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.02618,40.99086"
 draft: false
+
+weight: 10
 ---
 
 ## Osmanağa Camii: İstanbul'un Gizli Çeşmesi

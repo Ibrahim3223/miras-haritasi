@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.230212,37.910891"
 draft: false
+
+weight: 10
 ---
 
 ## Melek Ahmed Paşa Camii

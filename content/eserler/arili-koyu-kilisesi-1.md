@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.316951,40.45045"
 draft: false
+
+weight: 100
 ---
 
 # Arılı Köyü Kilisesi 1: Gümüşhane'nin Gizli Öyküsü

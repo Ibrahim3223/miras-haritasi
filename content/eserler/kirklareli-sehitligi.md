@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.2311783,41.7340126"
 draft: false
+
+weight: 10
 ---
 
 **Kırklareli Şehitliği**

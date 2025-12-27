@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.576114,40.70491"
 draft: false
+
+weight: 100
 ---
 
 ## Sultanbey Türbesi

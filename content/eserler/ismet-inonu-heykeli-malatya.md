@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.3184547,38.3481674"
 draft: false
+
+weight: 100
 ---
 
 **İsmet İnönü Heykeli**

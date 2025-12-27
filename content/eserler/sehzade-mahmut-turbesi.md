@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9574289,41.0133714"
 draft: false
+
+weight: 100
 ---
 
 ## Şehzade Mahmut Türbesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7789116,41.376091"
 draft: false
+
+weight: 100
 ---
 
 ## Kastamonu Kent Tarihi Müzesi

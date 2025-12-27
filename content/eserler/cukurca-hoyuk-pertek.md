@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.0752106,38.9195671"
 draft: false
+
+weight: 100
 ---
 
 ### Çukurca Höyük: Tunceli'nin Gizli Anıtı

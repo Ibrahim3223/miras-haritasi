@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9032993,41.0794983"
 draft: false
+
+weight: 100
 ---
 
 ## Yakuplu Köyü Cami: Tekirdağ'ın Gizli Cenneti

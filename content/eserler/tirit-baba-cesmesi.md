@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5649929,41.6835403"
 draft: false
+
+weight: 100
 ---
 
 ## Tirit Baba Çeşmesi: Edirne'nin Tarihi Çeşmesi

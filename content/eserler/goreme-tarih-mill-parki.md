@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.863055555,38.652777777"
 draft: false
+
+weight: 10
 ---
 
 ### Göreme Tarihî Millî Parkı

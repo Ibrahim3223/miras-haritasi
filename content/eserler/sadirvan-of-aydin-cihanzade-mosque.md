@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.706645325,37.759873445"
 draft: false
+
+weight: 100
 ---
 
 ## Şadırvan of Aydın Cihanzade Mosque: Aydın'ın Tarihi Bir Çeşmesi

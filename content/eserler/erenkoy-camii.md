@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.844,40.9001"
 draft: false
+
+weight: 100
 ---
 
 ### Erenköy Camii: Artvin'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.513607,38.1978"
 draft: false
+
+weight: 100
 ---
 
 ## Alıçlı Köyü Köprü Kalıntısı

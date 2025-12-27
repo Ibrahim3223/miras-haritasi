@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.569519,40.109027"
 draft: false
+
+weight: 100
 ---
 
 ## Bayır Köyü Çeşmesi: Giresun'un Tarihî Bir Çeşmesi

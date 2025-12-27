@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9592876,41.0171242"
 draft: false
+
+weight: 100
 ---
 
 ## Vefa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

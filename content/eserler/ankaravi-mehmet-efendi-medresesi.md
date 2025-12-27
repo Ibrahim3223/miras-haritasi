@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.954224,41.013089"
 draft: false
+
+weight: 100
 ---
 
 ## Ankaravi Mehmet Efendi Medresesi

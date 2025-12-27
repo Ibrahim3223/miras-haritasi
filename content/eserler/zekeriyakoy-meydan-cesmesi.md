@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0288773,41.1967239"
 draft: false
+
+weight: 100
 ---
 
 ## Zekeriyaköy Meydan Çeşmesi

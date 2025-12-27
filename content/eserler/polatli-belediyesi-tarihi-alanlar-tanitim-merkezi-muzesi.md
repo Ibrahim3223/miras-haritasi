@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.146012311,39.577348988"
 draft: false
+
+weight: 100
 ---
 
 ## Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi

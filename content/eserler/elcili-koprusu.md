@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.6176987,41.455574"
 draft: false
+
+weight: 100
 ---
 
 ## Elçili Köprüsü

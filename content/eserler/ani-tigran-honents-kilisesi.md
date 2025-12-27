@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.57864,40.5058556"
 draft: false
+
+weight: 100
 ---
 
 ## Ani Tigran Honents Kilisesi: Tarih, Mimarisi ve Ziyaret Edecekler İçin Bilgi

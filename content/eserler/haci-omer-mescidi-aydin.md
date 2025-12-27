@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8428993,37.8405991"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ömer Mescidi: Aydın'ın Tarihi Bir Mirası

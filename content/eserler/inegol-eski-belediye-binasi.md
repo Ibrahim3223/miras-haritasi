@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.5125523,40.078289"
 draft: false
+
+weight: 100
 ---
 
 ## İnegöl Eski Belediye Binası: Bursa'nın Tarihi Mirası

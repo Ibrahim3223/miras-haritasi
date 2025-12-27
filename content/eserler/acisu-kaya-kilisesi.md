@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.2085,40.925131"
 draft: false
+
+weight: 100
 ---
 
 ## Acısu Kaya Kilisesi: Bulancak'taki Tarihî Bir Çıplak

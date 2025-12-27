@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.272679,40.27056"
 draft: false
+
+weight: 100
 ---
 
 ## Limnai: Trakya'nın Gizli Mirası

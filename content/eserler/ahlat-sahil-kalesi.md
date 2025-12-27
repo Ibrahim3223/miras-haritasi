@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.474548,38.74151"
 draft: false
+
+weight: 100
 ---
 
 ### Ahlat Sahil Kalesi: Bitlis'teki Bir Tarihi Harikadan Haber Vermek

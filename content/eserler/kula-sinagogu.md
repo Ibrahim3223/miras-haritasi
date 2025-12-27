@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.9527512,41.0394363"
 draft: false
+
+weight: 100
 ---
 
 ## Kula Sinagogu: İstanbul'un Gizli Çehresinde Bir Kültür Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.325809,40.768126"
 draft: false
+
+weight: 100
 ---
 
 ## Dokumacılar Kaymaz Camii: Artvin'in Gizli Çehresini Yaratırken

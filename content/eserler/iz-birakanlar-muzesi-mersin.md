@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6265259,36.8022308"
 draft: false
+
+weight: 100
 ---
 
 ## İz Bırakanlar Müzesi, Mersin

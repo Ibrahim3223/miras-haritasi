@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0401344,37.3558998"
 draft: false
+
+weight: 100
 ---
 
 ## Pirlibey Camii: Muğla'da Bir Tarihi Cennet

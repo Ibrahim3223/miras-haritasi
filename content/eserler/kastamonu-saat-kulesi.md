@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "33.778734571,41.374721347"
 draft: false
+
+weight: 10
 ---
 
 # Kastamonu Saat Kulesi

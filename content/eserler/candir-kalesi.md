@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.6149155,37.0193979"
 draft: false
+
+weight: 10
 ---
 
 ## Çandır Kalesi

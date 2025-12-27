@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.4248422,38.9968885"
 draft: false
+
+weight: 100
 ---
 
 **Altınyazı Höyük**

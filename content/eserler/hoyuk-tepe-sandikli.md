@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.313783,38.4156"
 draft: false
+
+weight: 100
 ---
 
 ## Höyük Tepe, Sandıklı: Afyonkarahisar'ın Gizli Güzeli

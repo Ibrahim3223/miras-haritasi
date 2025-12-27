@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.70523,39.94763"
 draft: false
+
+weight: 10
 ---
 
 ## Türk Hava Kurumu Müzesi

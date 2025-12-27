@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.291157,38.737064"
 draft: false
+
+weight: 100
 ---
 
 ## Genç'te Köprü Kalıntısı: Bingöl'de Tarihi Bir Çanak

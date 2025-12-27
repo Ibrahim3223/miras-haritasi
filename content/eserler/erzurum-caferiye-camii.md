@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.275333333,39.906388888"
 draft: false
+
+weight: 10
 ---
 
 **Erzurum Caferiye Camii**

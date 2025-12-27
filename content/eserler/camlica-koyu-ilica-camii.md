@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.641552,40.9400139"
 draft: false
+
+weight: 100
 ---
 
 ## Çamlıca Köyü Ilıca Camii

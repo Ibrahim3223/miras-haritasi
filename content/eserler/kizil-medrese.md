@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.1881981,37.3252258"
 draft: false
+
+weight: 10
 ---
 
 ## Kızıl Medrese: Şırnak'ın Tarihi Bir Mirası

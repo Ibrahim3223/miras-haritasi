@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6412907,38.2243729"
 draft: false
+
+weight: 100
 ---
 
 ## Çamaşırhane Çeşmesi, Bayındır

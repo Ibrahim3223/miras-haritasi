@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1783943,39.1201477"
 draft: false
+
+weight: 10
 ---
 
 ## Küplü Hamam: Bergama'nın Tarihi Bir Mirası

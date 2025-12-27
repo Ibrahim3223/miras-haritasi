@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.555149,38.032087"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükkale, Tire: Tarihî Bir Mirasın Tanıtımı

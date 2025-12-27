@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.422858755,38.605903221"
 draft: false
+
+weight: 100
 ---
 
 ## Gülgün Hatun Mescidi: Manisa'nın Gizli Çeşm-i Büyüklüğü

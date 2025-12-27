@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.719,41.0049"
 draft: false
+
+weight: 100
 ---
 
 ### Kanuni Evi Müzesi

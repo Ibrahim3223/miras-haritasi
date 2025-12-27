@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9865456,41.0165176"
 draft: false
+
+weight: 100
 ---
 
 ## Top Kapısı, Cankurtaran: İstanbul'un Gizli Anıtı

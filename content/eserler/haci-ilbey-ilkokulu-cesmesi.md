@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5229034,40.9822273"
 draft: false
+
+weight: 100
 ---
 
 **Hacı İlbey İlkokulu Çeşmesi**

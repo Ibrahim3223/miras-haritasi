@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Kuruçeșme Palace: İstanbul'un Gizli Gizemleri

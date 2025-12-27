@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4352112,38.4218292"
 draft: false
+
+weight: 100
 ---
 
 ## Danacı Çeşmesi, Kemalpaşa

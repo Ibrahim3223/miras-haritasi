@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.5568271,39.890505"
 draft: false
+
+weight: 100
 ---
 
 ### Fındıkoğlu Höyük: Zara, Sivas'ta Bir Arkeolojik Sit

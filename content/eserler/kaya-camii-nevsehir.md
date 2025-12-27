@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.7141151,38.6200638"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Camii: Nevşehir'in Gizli Cenneti

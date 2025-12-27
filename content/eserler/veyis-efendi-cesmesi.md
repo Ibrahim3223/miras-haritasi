@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2861938,39.9069557"
 draft: false
+
+weight: 100
 ---
 
 ## Veyis Efendi Çeşmesi

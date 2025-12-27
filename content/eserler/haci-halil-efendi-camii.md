@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.133688,38.4133873"
 draft: false
+
+weight: 100
 ---
 
 **Hacı Halil Efendi Camii**

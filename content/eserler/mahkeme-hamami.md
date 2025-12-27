@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0650714,40.1806662"
 draft: false
+
+weight: 100
 ---
 
 # Mahkeme Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

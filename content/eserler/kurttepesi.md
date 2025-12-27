@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.2413902,37.2348557"
 draft: false
+
+weight: 100
 ---
 
 ### Kurttepesi Arkeolojik Sitesi

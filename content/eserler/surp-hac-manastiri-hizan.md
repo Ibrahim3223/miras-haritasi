@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.518888888,38.19"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Haç Manastırı (Hizan)

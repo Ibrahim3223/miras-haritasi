@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970947,41.035343"
 draft: false
+
+weight: 10
 ---
 
 ## Kaptan-ı Derya Hacı Hüseyin Paşa Çeşmesi

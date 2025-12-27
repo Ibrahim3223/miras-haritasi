@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.909722222,40.761111111"
 draft: false
+
+weight: 10
 ---
 
 ## SEKA Kâğıt Müzesi: Kocaeli'nin Gizli Çehresini Keşfedin

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4811516,38.7187233"
 draft: false
+
+weight: 10
 ---
 
 ### Kölük Camii Çeşmesi: Kayseri'nin Gizli Çarpıcılığı

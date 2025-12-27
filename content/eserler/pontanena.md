@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.526799,39.352264"
 draft: false
+
+weight: 100
 ---
 
 ## Pontanena: Antik Çağın Gizemli Kalesi

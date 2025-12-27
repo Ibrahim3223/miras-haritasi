@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.025038,40.990776"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Efimiya Rum Ortodoks Kilisesi: Kadıköy'ün Tarihî Bir Mirası

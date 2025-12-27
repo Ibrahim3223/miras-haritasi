@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4919586,37.8666229"
 draft: false
+
+weight: 100
 ---
 
 ### Sabır Sokak Çeşmesi: Meram'ın Tarihi Bir Anıtı

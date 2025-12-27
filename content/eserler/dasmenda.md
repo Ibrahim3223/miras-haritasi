@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.7258565,38.1026805"
 draft: false
+
+weight: 100
 ---
 
 ## Dasmenda Arkeolojik Sit

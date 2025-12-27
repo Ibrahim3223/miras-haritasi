@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.179025,39.116125"
 draft: false
+
+weight: 10
 ---
 
 # Hatice Hatun Çeşmesi

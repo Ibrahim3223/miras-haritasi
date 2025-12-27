@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.011190421,41.049580004"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldız Şehir Müzesi

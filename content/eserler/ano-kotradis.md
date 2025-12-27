@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.471456,36.530839"
 draft: false
+
+weight: 100
 ---
 
 ## Ano Kotradis: Kıbrıs'ta Eski Çağlar'ın İzleri

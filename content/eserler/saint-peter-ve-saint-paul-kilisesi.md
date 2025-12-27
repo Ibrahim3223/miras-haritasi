@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97305556,41.02472222"
 draft: false
+
+weight: 10
 ---
 
 ### Saint Peter ve Saint Paul Kilisesi

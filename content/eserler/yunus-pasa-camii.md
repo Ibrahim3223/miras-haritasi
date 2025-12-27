@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.4921513,40.3959618"
 draft: false
+
+weight: 10
 ---
 
 ## Yunus Paşa Camii: Sakarya'nın Tarihî Cebi

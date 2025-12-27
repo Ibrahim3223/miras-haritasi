@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.5488243,40.3165436"
 draft: false
+
+weight: 100
 ---
 
 ### Tokat'ta Bir Ölümsüz: Sefer Paşa Türbesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.5458775,38.4242592"
 draft: false
+
+weight: 100
 ---
 
 ### Alfaklar Köprüsü

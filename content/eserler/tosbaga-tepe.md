@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.5415247,38.0308852"
 draft: false
+
+weight: 100
 ---
 
 ## Tosbağa Tepe: Göksun'un Gizli Mirası

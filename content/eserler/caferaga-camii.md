@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0243975,40.9893344"
 draft: false
+
+weight: 10
 ---
 
 ## Caferağa Camii

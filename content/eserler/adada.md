@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.985311111,37.575161111"
 draft: false
+
+weight: 100
 ---
 
 ### Adada: Isparta'nın Gizli Öreni

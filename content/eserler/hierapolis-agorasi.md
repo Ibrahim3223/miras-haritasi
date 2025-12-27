@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.124194444,37.931277777"
 draft: false
+
+weight: 10
 ---
 
 ## Hierapolis Agorası

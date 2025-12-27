@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.534404,41.04008"
 draft: false
+
+weight: 100
 ---
 
 ## Balalan Camii

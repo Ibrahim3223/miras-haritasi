@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.04573333,41.04516944"
 draft: false
+
+weight: 10
 ---
 
 ## Beylerbeyi Camii: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9772801,41.0091508"
 draft: false
+
+weight: 100
 ---
 
 ### Tavşan Ağa Sebili: İstanbul'un Gizli Çeşmesi

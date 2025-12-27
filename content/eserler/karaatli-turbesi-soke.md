@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.5170994,37.7426987"
 draft: false
+
+weight: 100
 ---
 
 ## Karaatlı Türbesi: Aydın'ın Yüce Örnekleri arasında Bir Anıt

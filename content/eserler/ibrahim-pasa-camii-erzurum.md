@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2744102,39.9048958"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Paşa Camii, Erzurum

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.829416666,40.652027777"
 draft: false
+
+weight: 10
 ---
 
 ### Hatuniye Camii: Amasya'nın Tarihî Bir Çandır

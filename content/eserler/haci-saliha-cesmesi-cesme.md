@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3029785,38.3225708"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Saliha Çeşmesi: Çeşme'nin Yüzyıllık Tarihi Mirası

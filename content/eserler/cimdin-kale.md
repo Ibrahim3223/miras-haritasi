@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.4704857,37.1626015"
 draft: false
+
+weight: 100
 ---
 
 ## Çimdin Kale: Şanlıurfa'nın Gizli Mirası

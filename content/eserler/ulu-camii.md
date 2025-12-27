@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.235833333,37.912222222"
 draft: false
+
+weight: 10
 ---
 
 ## Ulu Camii: Diyarbakır'ın Tarihî ve Kültürel Mirası

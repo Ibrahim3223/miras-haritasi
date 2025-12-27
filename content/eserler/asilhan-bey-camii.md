@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.2351818,39.7590332"
 draft: false
+
+weight: 100
 ---
 
 ## Asılhan Bey Camii: Çanakkale'nin Değerli İmar Eseri

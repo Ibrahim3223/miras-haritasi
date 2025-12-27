@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.4683456,40.4881134"
 draft: false
+
+weight: 100
 ---
 
 ## Semerkandî Evi

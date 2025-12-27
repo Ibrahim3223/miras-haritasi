@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.08166667,36.79472222"
 draft: false
+
+weight: 10
 ---
 
 ## Güzeloluk Camii: Mersin'in Tarihî Mirası

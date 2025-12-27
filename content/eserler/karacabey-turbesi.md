@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8653107,39.9313087"
 draft: false
+
+weight: 10
 ---
 
 ## Karacabey Türbesi: Ankara'nın Gizli Cenneti

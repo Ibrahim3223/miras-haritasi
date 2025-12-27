@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.648272,36.742208"
 draft: false
+
+weight: 100
 ---
 
 ## Stadia (Karya)

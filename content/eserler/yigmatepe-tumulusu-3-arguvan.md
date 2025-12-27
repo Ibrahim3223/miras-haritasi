@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.1563873,38.8256721"
 draft: false
+
+weight: 100
 ---
 
 ## Yığmatepe Tümülüsü 3, Arguvan

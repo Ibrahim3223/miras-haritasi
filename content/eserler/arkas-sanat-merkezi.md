@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.136805555,38.432083333"
 draft: false
+
+weight: 10
 ---
 
 ## Arkas Sanat Merkezi

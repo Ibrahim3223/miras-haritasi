@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2758999,37.7132988"
 draft: false
+
+weight: 100
 ---
 
 ### Sivritepe Arkeolojik Yerleşkesi, Kuşadası

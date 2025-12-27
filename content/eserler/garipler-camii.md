@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.5501289,40.3204956"
 draft: false
+
+weight: 100
 ---
 
 ## Garipler Camii

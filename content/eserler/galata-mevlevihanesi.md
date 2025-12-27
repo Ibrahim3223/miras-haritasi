@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.975125,41.02802778"
 draft: false
+
+weight: 10
 ---
 
 ## Galata Mevlevihanesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.7152,37.903983"
 draft: false
+
+weight: 100
 ---
 
 ### Göndürle Höyük: Isparta'nın Gizli Mücevheri

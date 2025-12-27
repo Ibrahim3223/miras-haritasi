@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.183888888,39.131666666"
 draft: false
+
+weight: 10
 ---
 
 ### Athena Tapınağı (Bergama)

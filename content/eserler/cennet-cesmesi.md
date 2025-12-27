@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2726746,39.9080429"
 draft: false
+
+weight: 100
 ---
 
 # Cennet Çeşmesi

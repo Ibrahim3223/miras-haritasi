@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7289028,40.7727623"
 draft: false
+
+weight: 100
 ---
 
 ## Atalar Camii

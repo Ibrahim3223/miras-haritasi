@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9135857,41.0048218"
 draft: false
+
+weight: 10
 ---
 
 ## Topçu Başı Esed Ağa Kabri: Zeytinburnu'nun Tarihî Öncüsü

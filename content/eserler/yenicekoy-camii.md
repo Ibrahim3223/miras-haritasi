@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7276249,38.0843277"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniceköy Camii: İzmir'in Doğal Güzelliği ile Birlikte Bir Önemli Cami

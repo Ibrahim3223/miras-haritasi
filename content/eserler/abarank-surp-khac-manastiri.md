@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.6252556,38.0240822"
 draft: false
+
+weight: 100
 ---
 
 ## Abarank Surp Khaç Manastırı

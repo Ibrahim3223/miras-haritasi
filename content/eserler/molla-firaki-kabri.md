@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.984469,39.416447"
 draft: false
+
+weight: 100
 ---
 
 ## Molla Firaki Kabri: Kütahya'nın Tarihsel ve Kültürel Mirası

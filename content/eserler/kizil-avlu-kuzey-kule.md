@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1836452,39.1222305"
 draft: false
+
+weight: 10
 ---
 
 ## Kızıl Avlu Kuzey Kule: Bergama'nın Klasik Bir Örneği

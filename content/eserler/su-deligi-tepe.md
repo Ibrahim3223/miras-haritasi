@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.871067,39.007617"
 draft: false
+
+weight: 100
 ---
 
 ## Su Deliği Tepe: Akhisar'ın Gizli Şehri

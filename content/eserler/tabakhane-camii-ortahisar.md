@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.7227135,41.0051308"
 draft: false
+
+weight: 100
 ---
 
 ## Tabakhane Camii: Ortahisar'ın Tarihi ve Kültürel Mirası

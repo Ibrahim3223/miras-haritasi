@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.147349607,38.438375717"
 draft: false
+
+weight: 10
 ---
 
 ### TCDD 3. Bölge Müze ve Sanat Galerisi

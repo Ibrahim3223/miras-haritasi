@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0909373,41.0251144"
 draft: false
+
+weight: 100
 ---
 
 ## Cevher Ağa Camii Çeşmesi: İstanbul'un Gizli Çeşmesi

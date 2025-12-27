@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.024139,41.019036"
 draft: false
+
+weight: 100
 ---
 
 ### Valide Atik Camii Doğu Çeşmesi

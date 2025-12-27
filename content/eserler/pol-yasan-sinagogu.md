@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.946472222,41.035138888"
 draft: false
+
+weight: 100
 ---
 
 ## Pol Yaşan Sinagogu: Ayvansaray'da Bir Geçmiş Ören

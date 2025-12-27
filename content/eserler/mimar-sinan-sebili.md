@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.963878,41.017291"
 draft: false
+
+weight: 100
 ---
 
 ### Mimar Sinan Sebili:İstanbul'un Tarihi ve Kültürel Mirası

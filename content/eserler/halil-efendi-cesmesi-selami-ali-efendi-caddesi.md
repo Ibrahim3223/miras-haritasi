@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.02239,41.023478"
 draft: false
+
+weight: 10
 ---
 
 ## Halil Efendi Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

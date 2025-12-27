@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7106094,41.8043861"
 draft: false
+
+weight: 100
 ---
 
 ## Taşköprüzade Hayrettin Halil Bin Kasım Türbesi: Küre'nin Gizli Hazinesi

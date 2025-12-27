@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.490195,37.872822"
 draft: false
+
+weight: 10
 ---
 
 ### İnce Minareli Medrese: Konya'nın Tarihi Bir Mirası

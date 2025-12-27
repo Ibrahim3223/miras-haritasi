@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.00636111,41.04163889"
 draft: false
+
+weight: 10
 ---
 
 ## Barbaros Anıtı

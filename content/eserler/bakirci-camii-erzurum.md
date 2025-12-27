@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.272555555,39.908972222"
 draft: false
+
+weight: 10
 ---
 
 ## Bakırcı Camii: Erzurum'un Tarihi Bir Anıtı

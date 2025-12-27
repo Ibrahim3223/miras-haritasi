@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.527586,37.5028"
 draft: false
+
+weight: 100
 ---
 
 ## Herakleia Hamam ve Gymnasion Kompleksi

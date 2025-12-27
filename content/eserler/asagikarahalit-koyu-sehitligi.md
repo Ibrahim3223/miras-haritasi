@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.8338928,39.4707642"
 draft: false
+
+weight: 100
 ---
 
 # Aşağıkarahalit Köyü Şehitliği

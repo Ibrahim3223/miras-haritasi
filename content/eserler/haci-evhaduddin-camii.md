@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.923861111,40.996694444"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Evhadüddin Camii

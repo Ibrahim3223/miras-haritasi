@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.41946165,37.153951871"
 draft: false
+
+weight: 100
 ---
 
 ### Katarlı Camii: Mardin'in Gizli Cenneti

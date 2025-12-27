@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.399344,37.035234"
 draft: false
+
+weight: 100
 ---
 
 ## Astra Arkeolojik Sit: Hadim, Konya'nın Gizemli Mirası

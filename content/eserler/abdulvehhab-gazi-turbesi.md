@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.244205,40.263407"
 draft: false
+
+weight: 100
 ---
 
 ### Abdülvehhab Gazi Türbesi

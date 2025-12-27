@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9508743,41.0407867"
 draft: false
+
+weight: 100
 ---
 
 ## Kalafatçı Hamamı: Beyoğlu'ndaki Tarihi Bir Hamam

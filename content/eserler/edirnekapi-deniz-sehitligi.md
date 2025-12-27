@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9263897,41.0337448"
 draft: false
+
+weight: 100
 ---
 
 ## Edirnekapı Deniz Şehitliği

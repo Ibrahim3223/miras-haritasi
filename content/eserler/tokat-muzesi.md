@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.54675,40.316083333"
 draft: false
+
+weight: 10
 ---
 
 ### Tokat Müzesi: Türkiye'nin Kültürel Mirası

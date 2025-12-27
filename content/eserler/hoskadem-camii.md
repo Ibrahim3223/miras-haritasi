@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.817194444,37.445638888"
 draft: false
+
+weight: 10
 ---
 
 ## Hoşkadem Camii: Adana'nın Tarihi Bir Mirası

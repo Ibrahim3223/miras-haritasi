@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.5048065,37.8704529"
 draft: false
+
+weight: 100
 ---
 
 ### Sinan Paşa Türbesi: Konya'nın Tarihi Mirası

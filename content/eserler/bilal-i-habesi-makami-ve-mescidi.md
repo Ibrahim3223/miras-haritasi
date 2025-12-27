@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.896874,36.915364"
 draft: false
+
+weight: 100
 ---
 
 ## Bilal-i Habeşi Makamı ve Mescidi: Tarsus'un Tarihî Bir Ziyaret Günü

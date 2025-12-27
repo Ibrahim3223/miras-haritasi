@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.951102,41.038216"
 draft: false
+
+weight: 10
 ---
 
 ### Handanağa Camii: Beyoğlu'ndaki Tarihi Bir Çanak

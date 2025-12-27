@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.5645943,40.2690849"
 draft: false
+
+weight: 100
 ---
 
 ## Zoodokou Pige Kilisesi: Karacabey'in Tarihi Bir Mirası

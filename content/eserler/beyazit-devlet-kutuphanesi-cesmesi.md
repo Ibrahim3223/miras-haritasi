@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.965286,41.011085"
 draft: false
+
+weight: 10
 ---
 
 ### Beyazıt Devlet Kütüphanesi Çeşmesi

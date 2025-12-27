@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0199,41.13172"
 draft: false
+
+weight: 100
 ---
 
 ## Tenba Arkeolojik Sit

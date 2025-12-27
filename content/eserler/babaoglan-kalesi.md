@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.187547222,37.243161111"
 draft: false
+
+weight: 100
 ---
 
 ## Babaoğlan Kalesi: Osmaniye'nin Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.971517,39.30415"
 draft: false
+
+weight: 100
 ---
 
 ## İlçabaşı II

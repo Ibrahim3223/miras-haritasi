@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.703773,38.365304"
 draft: false
+
+weight: 100
 ---
 
 ### Terslik Çeşmesi: Urla'nın Tarihi Bir Mirası

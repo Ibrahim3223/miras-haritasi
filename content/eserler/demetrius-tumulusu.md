@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1681671,39.9607887"
 draft: false
+
+weight: 100
 ---
 
 ### Demetrius Tümülüsü

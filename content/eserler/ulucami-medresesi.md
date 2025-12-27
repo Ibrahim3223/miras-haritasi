@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.7047501,36.8867722"
 draft: false
+
+weight: 100
 ---
 
 ## Ulucami Medresesi: Antalya'nın Tarihi ve Kültürel Mirası

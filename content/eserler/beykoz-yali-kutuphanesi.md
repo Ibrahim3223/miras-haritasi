@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.092003824,41.132167984"
 draft: false
+
+weight: 10
 ---
 
 ### Beykoz Yalı Kütüphanesi

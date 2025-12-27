@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.135529,38.971355"
 draft: false
+
+weight: 100
 ---
 
 ## Kululu Geç Hitit Yerleşimi: Tarihi ve Kültürel Mirasın Örnekleri

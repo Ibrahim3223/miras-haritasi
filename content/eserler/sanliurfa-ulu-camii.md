@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.790131944,37.151346944"
 draft: false
+
+weight: 10
 ---
 
 ## Şanlıurfa Ulu Camii: Tarihi ve Kültürel Mirası

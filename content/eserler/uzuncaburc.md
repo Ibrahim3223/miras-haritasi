@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9247942,36.5805223"
 draft: false
+
+weight: 10
 ---
 
 **Uzuncaburç: Silifke'nin Gizli Pearli**

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ### Sahne Tozu Tiyatrosu: İzmir'in Antik Tiyatro Harikası

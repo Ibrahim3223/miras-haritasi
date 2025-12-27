@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.5835495,37.2009277"
 draft: false
+
+weight: 100
 ---
 
 ## Bahçe Kalesi: Osmaniye'nin Tarihi Bir Mirası

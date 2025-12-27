@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.3515968,40.6445198"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Cami 2: Çorum'un Tarihi Bir Mirası

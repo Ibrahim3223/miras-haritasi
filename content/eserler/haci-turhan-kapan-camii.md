@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.768861111,38.321555555"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Turhan Kapan Camii

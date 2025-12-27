@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.83694,39.925003"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk ve Kurtuluş Savaşı Müzesi

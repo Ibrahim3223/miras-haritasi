@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8421879,38.9198112"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Cami (Akhisar)

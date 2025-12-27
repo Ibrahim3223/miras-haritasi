@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.8337765,37.3094597"
 draft: false
+
+weight: 100
 ---
 
 ## Kuyruklu Kale, Milas

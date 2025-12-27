@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28741,40.23269"
 draft: false
+
+weight: 10
 ---
 
 ## Johnston's Jolly Mezarlığı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.228153948,41.739122084"
 draft: false
+
+weight: 100
 ---
 
 # Hamza Baba Camii, Kırklareli

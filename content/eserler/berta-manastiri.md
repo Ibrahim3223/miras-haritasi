@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.9833195,41.2488945"
 draft: false
+
+weight: 10
 ---
 
 ## Berta Manastırı: Güllerin Ülkesi Artvin'in Kültürel Mirası

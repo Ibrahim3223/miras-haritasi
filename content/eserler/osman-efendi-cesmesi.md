@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9605274,41.0123863"
 draft: false
+
+weight: 100
 ---
 
 ### Osman Efendi Çeşmesi

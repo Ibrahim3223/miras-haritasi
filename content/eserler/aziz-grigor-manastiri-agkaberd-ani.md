@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5684742,40.496407"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Grigor Manastırı (Ağkaberd, Ani)

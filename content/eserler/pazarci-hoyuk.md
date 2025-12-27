@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.7561288,39.0525495"
 draft: false
+
+weight: 100
 ---
 
 ## Pazarcı Höyük

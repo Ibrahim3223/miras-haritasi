@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.7967644,39.9389153"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Orman Çiftliği Hamamı

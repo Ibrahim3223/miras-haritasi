@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.769104,38.8564301"
 draft: false
+
+weight: 100
 ---
 
 ## Kocanadas Höyüğü: Akhisar'daki Eski Kentin Gizemi

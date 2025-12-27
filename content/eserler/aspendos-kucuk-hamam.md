@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.1708202,36.9363174"
 draft: false
+
+weight: 1
 ---
 
 ## Aspendos Küçük Hamam

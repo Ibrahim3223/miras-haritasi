@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978583333,41.009055555"
 draft: false
+
+weight: 1
 ---
 
 ## Ayasofya Üçyüzlü Çeşmesi

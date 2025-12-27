@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.594695,40.025836"
 draft: false
+
+weight: 100
 ---
 
 ### Sadak Köyü Hamamı: Gümüşhane'nin Tarihi ve Kültürel Mirası

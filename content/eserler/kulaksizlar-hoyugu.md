@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.890284,38.813116"
 draft: false
+
+weight: 10
 ---
 
 **Kulaksızlar Höyüğü**

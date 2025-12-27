@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.22973,41.736514"
 draft: false
+
+weight: 10
 ---
 
 ## Kırk Şehitler Anıtı

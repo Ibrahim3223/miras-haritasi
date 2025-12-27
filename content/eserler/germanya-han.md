@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "28.972361111,41.015222222"
 draft: false
+
+weight: 10
 ---
 
 ## Germanya Han: Fatih'teki Bir Kervansarayın Tarihi ve Özellikleri

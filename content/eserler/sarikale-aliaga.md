@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.0721779,38.7840919"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkale, Aliağa: Tarihî Bir Kaleyi Keşfetmek

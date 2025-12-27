@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.27052,39.85035"
 draft: false
+
+weight: 100
 ---
 
 ## Demircihöyük: Eskişehir'in Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.3053543,38.2529397"
 draft: false
+
+weight: 10
 ---
 
 ### Pürenli Seki Kilisesi

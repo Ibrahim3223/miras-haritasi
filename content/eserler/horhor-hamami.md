@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.95064,41.011446"
 draft: false
+
+weight: 100
 ---
 
 # Horhor Hamamı: İstanbul'un Fethi ile Geçirdiği Dönemden Kalan Bir Tarihi Çıkın

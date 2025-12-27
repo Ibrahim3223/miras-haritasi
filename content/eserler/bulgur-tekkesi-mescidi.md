@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5001831,37.8692436"
 draft: false
+
+weight: 100
 ---
 
 ## Bulgur Tekkesi Mescidi

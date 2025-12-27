@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.5753994,38.5111008"
 draft: false
+
+weight: 100
 ---
 
 ## Taş Köprü, Çiftçiibrahim: Manisa'nın Tarihî Mirası

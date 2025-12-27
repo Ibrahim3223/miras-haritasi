@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "26.759011,38.669892"
 draft: false
+
+weight: 100
 ---
 
 ## Phokaia Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.7967339,40.3930893"
 draft: false
+
+weight: 100
 ---
 
 ## Tirilye Fatih Camii Çeşmesi

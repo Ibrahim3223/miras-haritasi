@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.211151,38.215187"
 draft: false
+
+weight: 100
 ---
 
 **Eğriköy Höyüğü: Kayseri'nin Gizli Tarihî Mirası**

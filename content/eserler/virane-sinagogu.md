@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.03146,41.032986"
 draft: false
+
+weight: 100
 ---
 
 ## Virane Sinagogu: Üsküdar'daki Bir Önemli Sinagog

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.933333,37.183333"
 draft: false
+
+weight: 10
 ---
 
 ### Dara: Tarihî Bir Kaya Mezarı

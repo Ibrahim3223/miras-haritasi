@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.9407005,40.1893005"
 draft: false
+
+weight: 100
 ---
 
 ## Güneytepe Mevki Manastırı

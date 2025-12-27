@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.0534945,39.3087194"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Sarkis Ermeni Kilisesi

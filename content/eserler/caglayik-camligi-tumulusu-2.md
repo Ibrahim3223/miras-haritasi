@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3134785,42.0403023"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayık Çamlığı Tümülüsü 2: Kırklareli'nin Gizli Hazinesi

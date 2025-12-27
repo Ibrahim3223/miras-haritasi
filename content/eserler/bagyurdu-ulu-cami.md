@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6392002,38.4135017"
 draft: false
+
+weight: 100
 ---
 
 ## Bağyurdu Ulu Cami

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.498611111,37.872361111"
 draft: false
+
+weight: 10
 ---
 
 ## Şerâfeddin Câmi: Konya'nın Önemli Camileri Arasındaki Bir Harika

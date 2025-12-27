@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1805,37.6208"
 draft: false
+
+weight: 100
 ---
 
 # Sarıabat Höyük: Tarihin Gizemli Hazinesi

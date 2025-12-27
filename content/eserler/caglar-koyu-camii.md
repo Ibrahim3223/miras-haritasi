@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.1861229,41.9049339"
 draft: false
+
+weight: 100
 ---
 
 ### Çağlar Köyü Camii

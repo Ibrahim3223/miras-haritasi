@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7357006,38.0849991"
 draft: false
+
+weight: 100
 ---
 
 ## Paşasuyu Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0068493,37.7944832"
 draft: false
+
+weight: 100
 ---
 
 ## Posacızade Hacı Sami Ağa Mescidi

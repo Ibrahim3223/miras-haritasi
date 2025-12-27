@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7618198,38.331501"
 draft: false
+
+weight: 100
 ---
 
 # Rüstem Paşa Camii (Urla)

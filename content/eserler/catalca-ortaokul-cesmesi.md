@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.461489,41.142422"
 draft: false
+
+weight: 10
 ---
 
 # Çatalca Ortaokul Çeşmesi

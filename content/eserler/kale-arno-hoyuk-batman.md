@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.0294685,37.7850266"
 draft: false
+
+weight: 100
 ---
 
 ## Kale Arno Höyük: Güneydoğu Anadolu'nun Gizli Anıtı

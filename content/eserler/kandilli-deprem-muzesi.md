@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.05991,41.06383"
 draft: false
+
+weight: 100
 ---
 
 ## Kandilli Deprem Müzesi

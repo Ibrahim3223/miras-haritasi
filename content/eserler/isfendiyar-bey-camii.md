@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7768326,41.3743439"
 draft: false
+
+weight: 100
 ---
 
 ## İsfendiyar Bey Camii

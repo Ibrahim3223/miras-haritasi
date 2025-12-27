@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2255821,41.737999"
 draft: false
+
+weight: 100
 ---
 
 ## Kalaycı Camii, Kırklareli: Tarihi ve Kültürel Mirasın Bir Örneği

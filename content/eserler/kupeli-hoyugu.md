@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.1027747,36.9575301"
 draft: false
+
+weight: 100
 ---
 
 ## Küpeli Höyüğü: Şanlıurfa'nın Gizemi

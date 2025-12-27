@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5468884,41.6903038"
 draft: false
+
+weight: 100
 ---
 
 ### Parmaklı Mescidi Tanıtımı

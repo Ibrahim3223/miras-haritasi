@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.791389,37.27"
 draft: false
+
+weight: 10
 ---
 
 **Gülekkalesi**

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1405067,38.4287758"
 draft: false
+
+weight: 100
 ---
 
 ## İzmir Atatürk Lisesi Müzesi

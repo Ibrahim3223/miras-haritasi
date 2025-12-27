@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5766945,40.5072289"
 draft: false
+
+weight: 10
 ---
 
 ### Ani Aziz Prkich Kilisesi: Tarihi Bir Miras

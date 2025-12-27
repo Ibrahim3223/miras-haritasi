@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.74375,38.084"
 draft: false
+
+weight: 10
 ---
 
 ## Molla Çelebi Camii: Bir Geçmişin Mirası

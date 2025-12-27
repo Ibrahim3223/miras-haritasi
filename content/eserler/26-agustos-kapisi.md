@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.146083333,38.430972222"
 draft: false
+
+weight: 100
 ---
 
 ## 26 Ağustos Kapısı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935236,41.045087"
 draft: false
+
+weight: 100
 ---
 
 ## Nakkaş Hasan Paşa Türbesi: Eyüpsultan'daki Tarihî Bir Anıt

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.732358,37.313272"
 draft: false
+
+weight: 10
 ---
 
 ### Kırklar Kilisesi: Mardin'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.425361423,37.060052787"
 draft: false
+
+weight: 100
 ---
 
 ### Pedesa T31 Tümülüsü: Bodrum'un Gizli Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.17323,40.942747"
 draft: false
+
+weight: 100
 ---
 
 ### Sugören Köprüsü: Trabzon'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8198395,40.4283257"
 draft: false
+
+weight: 100
 ---
 
 ### Çayhatap Höyük: Türkiye'nin Eski Kente Sahip Arkeolojik Sitleri

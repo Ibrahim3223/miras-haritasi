@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.478555555,36.436138888"
 draft: false
+
+weight: 100
 ---
 
 ## Corycus (Likya)

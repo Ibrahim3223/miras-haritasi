@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.270571,37.368938"
 draft: false
+
+weight: 100
 ---
 
 ## Mardin Surp Kevork Kilisesi

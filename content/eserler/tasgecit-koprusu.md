@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.10361111,36.6125"
 draft: false
+
+weight: 10
 ---
 
 # Taşgeçit Köprüsü: Bir Tarihî Köprünin Gizemi

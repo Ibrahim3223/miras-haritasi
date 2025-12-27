@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.89346,40.81142"
 draft: false
+
+weight: 100
 ---
 
 ## Antoniopolis (Paflagonya)

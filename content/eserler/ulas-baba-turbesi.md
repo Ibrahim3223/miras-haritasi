@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4913597,37.8796997"
 draft: false
+
+weight: 100
 ---
 
 ## Ulaş Baba Türbesi

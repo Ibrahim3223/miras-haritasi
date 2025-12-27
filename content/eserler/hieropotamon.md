@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.690195,40.082671"
 draft: false
+
+weight: 100
 ---
 
 ## Hieropotamon: Antik Çağın Gizemli Evi

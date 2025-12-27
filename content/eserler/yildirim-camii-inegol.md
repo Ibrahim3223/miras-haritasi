@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5117302,40.0790749"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldırım Camii: İnegöl'ün Tarihi Bir Mirası

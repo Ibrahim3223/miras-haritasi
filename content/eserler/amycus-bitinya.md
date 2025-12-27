@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.091469,41.135316"
 draft: false
+
+weight: 100
 ---
 
 ## Amycus (Bitinya): Bitinya'nın Gizemli Eski Kenti

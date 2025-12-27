@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.012734,41.024547"
 draft: false
+
+weight: 10
 ---
 
 ## Nevşehirli Damat İbrahim Paşa Çeşmesi: Mimar Sinan'ın İhtișamlı Çeşmesi

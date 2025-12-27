@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3325119,36.9857521"
 draft: false
+
+weight: 100
 ---
 
 ## Cuma Fakıh Mescidi: Adana'nın Tarihi ve Kültür Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.4521103,38.7458839"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Padişah Kümbeti

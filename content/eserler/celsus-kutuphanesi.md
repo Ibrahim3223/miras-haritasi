@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34075,37.939138888"
 draft: false
+
+weight: 10
 ---
 
 ## Celsus Kütüphanesi: Eski Çağın Gizemli Bünyesi

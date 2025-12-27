@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.204342863,40.229968054"
 draft: false
+
+weight: 100
 ---
 
 ## Akpınar Köyü Çeşmesi: Biga'nın Tarihi Bir Çeşmesi

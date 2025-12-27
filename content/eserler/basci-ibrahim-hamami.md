@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0628567,40.1783791"
 draft: false
+
+weight: 10
 ---
 
 ## Başçı İbrahim Hamamı

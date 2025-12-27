@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.25238,40.31256"
 draft: false
+
+weight: 10
 ---
 
 ## Hill 10 Mezarlığı: Eceabat'ta Bir Anıtın Hikayesi

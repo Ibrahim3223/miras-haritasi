@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.558342,38.6870155"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Saip Paşa Meydan Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası

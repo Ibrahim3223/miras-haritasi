@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.021183,41.0172768"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyin Baba Kabri, Zeynepkamil: İstanbul'un Gizli Mirası

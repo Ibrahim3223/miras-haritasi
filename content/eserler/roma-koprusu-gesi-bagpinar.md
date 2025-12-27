@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.655064,38.811722"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Gesi Bağpınar: Kayseri'nin Eski Mirası

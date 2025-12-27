@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.9723263,39.0777779"
 draft: false
+
+weight: 100
 ---
 
 ## Kocaoba Kalesi: Dikili'nin Tarihi ve Efsanevi Kaleleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.841533,38.7372"
 draft: false
+
+weight: 100
 ---
 
 ## Ters Tepe Höyüğü: Manisa'nın Gizli Kahramanı

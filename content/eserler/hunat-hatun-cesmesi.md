@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.49073577,38.720921635"
 draft: false
+
+weight: 100
 ---
 
 ### Hunat Hatun Çeşmesi

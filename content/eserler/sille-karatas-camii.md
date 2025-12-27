@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4150391,37.928936"
 draft: false
+
+weight: 100
 ---
 
 ### Sille Karataş Camii

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "26.402047,40.149618"
 draft: false
+
+weight: 10
 ---
 
 ## Çanakkale Saat Kulesi

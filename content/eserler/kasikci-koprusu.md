@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.891197,40.808498"
 draft: false
+
+weight: 10
 ---
 
 ### Kaşıkçı Köprüsü: Trabzon'un Gizli Cenneti

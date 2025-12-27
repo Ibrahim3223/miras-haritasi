@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1341114,39.3940277"
 draft: false
+
+weight: 100
 ---
 
 ### Yeşilli Cami Tanıtımı

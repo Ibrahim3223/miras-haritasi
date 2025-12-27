@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.039089,40.383948"
 draft: false
+
+weight: 100
 ---
 
 ### Magabula

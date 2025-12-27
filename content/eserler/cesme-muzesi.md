@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.303055555,38.323611111"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme Müzesi: İzmir'in Tarihi ve Kültürel Mirası

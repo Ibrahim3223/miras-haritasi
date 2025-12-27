@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.355983,40.1849"
 draft: false
+
+weight: 100
 ---
 
 ## Maydos Kilisetepe Höyüğü: Çanakkale'nin Gizli Mirası

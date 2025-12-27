@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9640369,41.1869659"
 draft: false
+
+weight: 100
 ---
 
 ## Şüheda Makberesi Anıtı ve Namazgahı

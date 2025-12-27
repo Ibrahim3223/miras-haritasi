@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9701672,41.0155029"
 draft: false
+
+weight: 100
 ---
 
 **Çelebioğlu Alaaddin Türbesi**

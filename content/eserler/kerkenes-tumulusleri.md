@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.0605011,39.741272"
 draft: false
+
+weight: 100
 ---
 
 ### Kerkenes Tümülüsleri

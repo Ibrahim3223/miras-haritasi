@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.2910957,40.2946701"
 draft: false
+
+weight: 100
 ---
 
 ### Aşdağul Camii: Çorum'un Tarihi Ve Kültürel Mirası

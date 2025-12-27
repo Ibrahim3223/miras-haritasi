@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4227594,38.6061048"
 draft: false
+
+weight: 100
 ---
 
 ### Gülgün Hatun Hamamı: Manisa'nın Tarihi Bir Mirası

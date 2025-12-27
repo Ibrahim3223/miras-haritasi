@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.2691631,40.692337"
 draft: false
+
+weight: 100
 ---
 
 ## Rüstem Paşa Camii: Sapanca'nın Eski Türk Camii

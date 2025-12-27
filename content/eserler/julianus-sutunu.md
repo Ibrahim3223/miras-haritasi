@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.85626944,39.94326389"
 draft: false
+
+weight: 10
 ---
 
 ## Julianus Sütunu: Ankara'nın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.7631874,38.9947433"
 draft: false
+
+weight: 100
 ---
 
 ## Kandahar Kalesi: Van'ın Tarihi Örenleri Arasındaki Bir Ünlü

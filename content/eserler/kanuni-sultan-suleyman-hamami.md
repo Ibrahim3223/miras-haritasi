@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.1928825,36.492363"
 draft: false
+
+weight: 100
 ---
 
 # Kanuni Sultan Süleyman Hamamı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.5070186,39.858918"
 draft: false
+
+weight: 100
 ---
 
 ## Zeğrep Höyük: Tarihî Bir Mirasın Öyküsü

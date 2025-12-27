@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.8432236,40.1544342"
 draft: false
+
+weight: 100
 ---
 
 ### Meryem’in Göğe Yükselişi Kilisesi Tanıtımı

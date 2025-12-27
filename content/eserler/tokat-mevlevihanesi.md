@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.5542183,40.3107529"
 draft: false
+
+weight: 100
 ---
 
 **Tokat Mevlevihanesi: Tokat'ın Tarihi ve Kültürel Mirasının Bir Parçası**

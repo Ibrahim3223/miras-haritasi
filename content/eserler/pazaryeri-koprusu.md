@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2033634,38.1028519"
 draft: false
+
+weight: 100
 ---
 
 ## Pazaryeri Köprüsü

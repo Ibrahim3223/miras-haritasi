@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.6503773,40.1100159"
 draft: false
+
+weight: 100
 ---
 
 ## Gönen Mozaik ve Açık Hava Müzesi

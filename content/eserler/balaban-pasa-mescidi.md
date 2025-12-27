@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.553711,41.66921"
 draft: false
+
+weight: 10
 ---
 
 ## Balaban Paşa Mescidi

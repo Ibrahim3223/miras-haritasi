@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.11777778,36.61833333"
 draft: false
+
+weight: 10
 ---
 
 # Telmessos: Muğla'nın Gizli Özellisi

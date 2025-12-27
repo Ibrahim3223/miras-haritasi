@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ### Taşmedrese: Konya'nın Akşehir'ini İncitiren Bir Medrese

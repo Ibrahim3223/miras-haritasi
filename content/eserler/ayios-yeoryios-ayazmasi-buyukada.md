@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1186543,40.8486137"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Yeoryios Ayazması: Büyükada'nın Gizli Cenneti

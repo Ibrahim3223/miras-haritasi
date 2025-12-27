@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.334211,37.825908"
 draft: false
+
+weight: 100
 ---
 
 # Çatalkaya Arkeolojik Sit, Kuşadası

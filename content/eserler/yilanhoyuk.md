@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1875897,38.8598724"
 draft: false
+
+weight: 100
 ---
 
 ### Yılanhöyük: Sivas'ın Gizli Kahramanı

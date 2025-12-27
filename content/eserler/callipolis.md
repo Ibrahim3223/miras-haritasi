@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.043055555,41.067777777"
 draft: false
+
+weight: 100
 ---
 
 ### Callipolis Arkeolojik Sit

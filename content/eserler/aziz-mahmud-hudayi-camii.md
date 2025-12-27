@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0144308,41.0222667"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Mahmud Hüdayi Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.925555555,37.152777777"
 draft: false
+
+weight: 100
 ---
 
 ## Kızlar Kalesi: Tarsus'un Gizli Harikası

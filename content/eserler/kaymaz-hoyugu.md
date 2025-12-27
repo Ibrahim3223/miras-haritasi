@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.165217837,39.51092213"
 draft: false
+
+weight: 100
 ---
 
 ## Kaymaz Höyüğü: Eskişehir'in Gizli Mirası

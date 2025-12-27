@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.950798,41.019146"
 draft: false
+
+weight: 100
 ---
 
 ### Türbe Kapısı, Fatih Külliyesi

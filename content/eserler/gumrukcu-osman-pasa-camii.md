@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.4710083,39.0562668"
 draft: false
+
+weight: 100
 ---
 
 # Gümrükçü Osman Paşa Camii

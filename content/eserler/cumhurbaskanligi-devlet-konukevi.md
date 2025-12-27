@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "28.168611111,36.9125"
 draft: false
+
+weight: 100
 ---
 
 # Cumhurbaşkanlığı Devlet Konukevi

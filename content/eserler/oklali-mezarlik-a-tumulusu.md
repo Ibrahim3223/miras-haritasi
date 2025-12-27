@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2352238,41.3438072"
 draft: false
+
+weight: 100
 ---
 
 ## Oklalı Mezarlık A Tümülüsü

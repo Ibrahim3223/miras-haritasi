@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3915997,37.1735001"
 draft: false
+
+weight: 100
 ---
 
 # Kozlu Kahve Mescidi: Karabağlar Yaylası'nda Gizemli Bir Cami

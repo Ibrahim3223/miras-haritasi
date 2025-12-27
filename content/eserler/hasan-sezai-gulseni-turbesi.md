@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5578194,41.6691742"
 draft: false
+
+weight: 10
 ---
 
 ## Hasan Sezai Gülşeni Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.8135662,37.8214149"
 draft: false
+
+weight: 100
 ---
 
 ## Okçu Halil Baba Türbesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.87777778,36.3175"
 draft: false
+
+weight: 10
 ---
 
 **Taşucu Aslan Eyce Amfora Müzesi**

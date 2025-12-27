@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.319255,36.357132"
 draft: false
+
+weight: 10
 ---
 
 **Ksantos Arkeolojik Sit**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.06916667,38.87444444"
 draft: false
+
+weight: 10
 ---
 
 ### Gryneion: İzmir'in Gizli Harikası

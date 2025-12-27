@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934603,41.045879"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.4576416,38.7365952"
 draft: false
+
+weight: 100
 ---
 
 ## Usta Şagirt Kümbeti: Ahlat'ın Gizli Mihribanı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.495577,39.749442"
 draft: false
+
+weight: 100
 ---
 
 ### Erzincan Müzesi: Tarih, Kültür ve Sanatın Ortalığı

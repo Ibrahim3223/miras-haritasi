@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.426793,40.769354"
 draft: false
+
+weight: 10
 ---
 
 ## Osman Hamdi Bey Müzesi: Tarihi ve Kültürel Mirası Tanımlamak

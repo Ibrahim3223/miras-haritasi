@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9029338,41.0402693"
 draft: false
+
+weight: 100
 ---
 
 ## Çaneva Köprüsü: Hemşin'in Tarihî Mirası

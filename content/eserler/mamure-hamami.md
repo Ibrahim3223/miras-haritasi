@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.8938332,36.0822296"
 draft: false
+
+weight: 10
 ---
 
 ## Mamure Hamamı: Tarihî Bir Eğlence Merkezini Keşfedin

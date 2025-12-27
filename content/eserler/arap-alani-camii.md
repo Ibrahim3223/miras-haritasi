@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4169083,38.6068764"
 draft: false
+
+weight: 100
 ---
 
 # Arap Alanı Camii

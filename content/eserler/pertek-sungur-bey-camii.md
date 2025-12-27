@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.3202782,38.8672981"
 draft: false
+
+weight: 100
 ---
 
 **Pertek Sungur Bey Camii: Tunceli'nin Tarihi Bir Mirası**

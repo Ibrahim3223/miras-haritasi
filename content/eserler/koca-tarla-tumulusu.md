@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.580811944,39.731838248"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Tarla Tümülüsü: Çanakkale'de Bir Arkeolojik Miras

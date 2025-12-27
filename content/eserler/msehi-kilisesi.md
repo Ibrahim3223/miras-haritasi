@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.509775,40.714869444"
 draft: false
+
+weight: 100
 ---
 
 ## Mşehi Kilisesi: Ermeni Kilisesi ve Tarihi Mirası

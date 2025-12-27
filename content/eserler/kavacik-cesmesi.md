@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.084415,41.093563"
 draft: false
+
+weight: 100
 ---
 
 ## Kavacık Çeşmesi: Beykoz'un Tarihi ve Güzel Bir Ören Yeri

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.0916176,40.6106796"
 draft: false
+
+weight: 100
 ---
 
 ## Evliya Camii: Kars'ta Bir Tarih Öreni

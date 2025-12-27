@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.7058,36.8865"
 draft: false
+
+weight: 10
 ---
 
 ### Tekeli Mehmet Paşa Camii: Antalya'nın Tarihi Çağı

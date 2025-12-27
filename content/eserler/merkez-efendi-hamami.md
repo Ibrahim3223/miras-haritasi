@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.919885,41.014571"
 draft: false
+
+weight: 10
 ---
 
 ## Merkez Efendi Hamamı

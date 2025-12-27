@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.441671,36.613621"
 draft: false
+
+weight: 100
 ---
 
 ## Gedelme Kalesi: Antalya'nın Gizli Göze Batmazlıkları

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056692,41.084358"
 draft: false
+
+weight: 10
 ---
 
 # Rumelihisarı Hisar Çeşmesi

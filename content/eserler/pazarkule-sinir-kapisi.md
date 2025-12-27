@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "26.490277777,41.653888888"
 draft: false
+
+weight: 10
 ---
 
 ### Pazarkule Sınır Kapısı

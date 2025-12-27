@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.723568,41.0074959"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii: Ortahisar'ın Gizli Çehresini Keşfetmek

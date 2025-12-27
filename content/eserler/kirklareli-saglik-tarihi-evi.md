@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.2254276,41.7388687"
 draft: false
+
+weight: 10
 ---
 
 ### Kırklareli Sağlık Tarihi Evi

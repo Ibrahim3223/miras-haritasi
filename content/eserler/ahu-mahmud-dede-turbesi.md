@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5260277,39.7626648"
 draft: false
+
+weight: 100
 ---
 
 ## Ahu Mahmud Dede Türbesi: Eskişehir'in Gizli Kahramanı

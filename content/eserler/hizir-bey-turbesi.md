@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8311348,41.5670509"
 draft: false
+
+weight: 100
 ---
 
 # Hızır Bey Türbesi: Bafra'nın Tarihi ve Kültürel Mirası

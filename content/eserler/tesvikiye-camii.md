@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.99416667,41.04944444"
 draft: false
+
+weight: 10
 ---
 
 ## Teşvikiye Camii

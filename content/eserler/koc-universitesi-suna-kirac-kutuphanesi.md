@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.0706473,41.20548"
 draft: false
+
+weight: 100
 ---
 
 ## Koç Üniversitesi Suna Kıraç Kütüphanesi: İstanbul'un İleri Düzeyli Eğitim Merkezinde Bir İhtişam

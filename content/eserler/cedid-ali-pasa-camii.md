@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.930648,41.045819"
 draft: false
+
+weight: 100
 ---
 
 ### Cedid Ali Paşa Camii: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.463726,40.8742752"
 draft: false
+
+weight: 100
 ---
 
 **Ermeni Protestan Kilisesi: Merzifon'un Gizli Cenneti**

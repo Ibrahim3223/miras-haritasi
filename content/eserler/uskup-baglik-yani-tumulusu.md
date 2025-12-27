@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3825035,41.7292023"
 draft: false
+
+weight: 100
 ---
 
 ## Üsküp Bağlık Yanı Tümülüsü: Tarihî bir Anıtın Gizemi

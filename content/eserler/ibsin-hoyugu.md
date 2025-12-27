@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.1508025,38.8531753"
 draft: false
+
+weight: 100
 ---
 
 ### İbşin Höyüğü: Kırşehir'in Gizli Hazine

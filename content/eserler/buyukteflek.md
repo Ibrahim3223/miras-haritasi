@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3420258,39.6346741"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükteflek Arkeolojik Sit

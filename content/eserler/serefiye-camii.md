@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.3958073,40.7776222"
 draft: false
+
+weight: 100
 ---
 
 **Şerefiye Camii Tanıtımı**

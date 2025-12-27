@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934402,41.047443"
 draft: false
+
+weight: 10
 ---
 
 ## Siyavuş Paşa Çeşmesi, Eyüpsultan

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.974226,41.0131569"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Paşa Medresesi: Tarihi ve Kültürel Mirası

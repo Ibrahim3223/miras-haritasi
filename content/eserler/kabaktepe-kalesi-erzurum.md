@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.193157,40.243774"
 draft: false
+
+weight: 100
 ---
 
 ## Kabaktepe Kalesi: Erzurum'un Tarihî ve Kültürel Mirası

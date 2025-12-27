@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.869114,39.243112"
 draft: false
+
+weight: 100
 ---
 
 ### Spore (Frigya)

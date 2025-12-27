@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.136777777,38.416944444"
 draft: false
+
+weight: 100
 ---
 
 ## Sonsino Sinagogu

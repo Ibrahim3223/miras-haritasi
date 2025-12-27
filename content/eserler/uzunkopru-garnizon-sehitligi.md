@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6823959,41.2539635"
 draft: false
+
+weight: 100
 ---
 
 ## Uzunköprü Garnizon Şehitliği

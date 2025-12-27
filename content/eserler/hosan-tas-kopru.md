@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.7949982,38.2324905"
 draft: false
+
+weight: 100
 ---
 
 ## Hoşan Taş Köprü: Ergani'nin Tarihi Bir Muhteşemliği

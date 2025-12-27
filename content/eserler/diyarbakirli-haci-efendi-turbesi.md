@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.610807,40.729783"
 draft: false
+
+weight: 100
 ---
 
 ## Diyarbakırlı Hacı Efendi Türbesi

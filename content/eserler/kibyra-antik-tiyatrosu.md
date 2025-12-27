@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.488914,37.160555"
 draft: false
+
+weight: 100
 ---
 
 ### Kibyra Antik Tiyatrosu: Gölhisar'ın Gizli Öreni

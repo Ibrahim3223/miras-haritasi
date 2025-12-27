@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.28012,40.22598"
 draft: false
+
+weight: 100
 ---
 
 ### Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı

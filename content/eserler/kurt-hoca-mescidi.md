@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.556359003,41.669711892"
 draft: false
+
+weight: 100
 ---
 
 ## Kürt Hoca Mescidi

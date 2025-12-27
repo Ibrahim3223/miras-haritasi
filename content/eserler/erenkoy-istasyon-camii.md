@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.077,40.9719"
 draft: false
+
+weight: 100
 ---
 
 ## Erenköy İstasyon Camii: Kadıköy'de Bir Tarihî Miras

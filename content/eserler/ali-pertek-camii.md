@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.05674,41.08858"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Pertev Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7701149,41.3730583"
 draft: false
+
+weight: 100
 ---
 
 ## Alpaslan Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

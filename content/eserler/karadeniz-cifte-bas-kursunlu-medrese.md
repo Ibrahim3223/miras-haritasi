@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9509602,41.0202408"
 draft: false
+
+weight: 100
 ---
 
 ## Karadeniz Çifte Baş Kurşunlu Medrese: İstanbul'un Gizli Bir Cehennemi

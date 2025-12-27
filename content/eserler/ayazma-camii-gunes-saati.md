@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.008728,41.0224266"
 draft: false
+
+weight: 10
 ---
 
 ### Ayazma Camii Güneş Saati

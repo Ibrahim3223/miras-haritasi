@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.945257,41.005085"
 draft: false
+
+weight: 10
 ---
 
 ### Hazinedar Usta Çeşmesi: Fatih'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.010859,41.024651"
 draft: false
+
+weight: 10
 ---
 
 ### Rum Mehmet Paşa Camii: İstanbul'un Gizli Cenneti

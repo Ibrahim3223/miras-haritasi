@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023288,41.019205"
 draft: false
+
+weight: 100
 ---
 
 ## Atik Valide Külliyesi Altındaki Çeşme

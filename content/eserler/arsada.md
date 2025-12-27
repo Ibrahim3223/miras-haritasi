@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.4288148,36.4914729"
 draft: false
+
+weight: 100
 ---
 
 ## Arsada Arkeolojik Sit

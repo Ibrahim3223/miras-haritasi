@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.010587,41.045351"
 draft: false
+
+weight: 10
 ---
 
 ## Nuri Bey Çeşmesi: Beşiktaş'ta Bir Ölümsüz

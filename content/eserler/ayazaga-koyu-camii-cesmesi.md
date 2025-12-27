@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9985962,41.1157227"
 draft: false
+
+weight: 100
 ---
 
 ## Ayazağa Köyü Camii Çeşmesi

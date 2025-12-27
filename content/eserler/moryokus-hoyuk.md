@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7707764,38.7986099"
 draft: false
+
+weight: 100
 ---
 
 ## Moryokuş Höyük: Şereflikoçhisar'ın Gizli Anıtı

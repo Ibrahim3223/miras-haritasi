@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9199607,38.4212342"
 draft: false
+
+weight: 100
 ---
 
 ## Tanır Yazıtı

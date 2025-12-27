@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.0035877,36.59198"
 draft: false
+
+weight: 100
 ---
 
 ## Kıran Gölü Kutsal Alanı: Marmaris'in Gizli Cenneti

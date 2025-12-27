@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.551388,40.321819"
 draft: false
+
+weight: 10
 ---
 
 ## Sen Timur Türbesi

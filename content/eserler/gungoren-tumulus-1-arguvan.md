@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.2212105,38.8903809"
 draft: false
+
+weight: 100
 ---
 
 ## Güngören Tümülüs 1, Arguvan

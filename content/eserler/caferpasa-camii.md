@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.4756737,39.0593529"
 draft: false
+
+weight: 100
 ---
 
 ## Caferpaşa Camii: Malatya'nın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.374145,37.10105"
 draft: false
+
+weight: 100
 ---
 
 ## Ula (Karya) Arkeolojik Sit

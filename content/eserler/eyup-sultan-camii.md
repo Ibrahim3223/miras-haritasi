@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.933786111,41.047947222"
 draft: false
+
+weight: 10
 ---
 
 ## Eyüp Sultan Camii: Tarihi ve Kültürel Bir Miras

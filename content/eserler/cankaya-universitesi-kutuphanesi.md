@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.56301389,39.81839167"
 draft: false
+
+weight: 10
 ---
 
 ## Çankaya Üniversitesi Kütüphanesi

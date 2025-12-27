@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.63625,41.00775"
 draft: false
+
+weight: 10
 ---
 
 ### Kıbrıs Anıtı

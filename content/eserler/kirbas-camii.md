@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.9940939,36.5499118"
 draft: false
+
+weight: 100
 ---
 
 ### Kırbaş Camii Tanıtımı

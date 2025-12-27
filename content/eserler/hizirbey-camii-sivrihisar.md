@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.538105,39.4518509"
 draft: false
+
+weight: 100
 ---
 
 ### Hızırbey Camii Tanıtımı

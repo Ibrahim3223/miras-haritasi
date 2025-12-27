@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.012597915,41.052008254"
 draft: false
+
+weight: 100
 ---
 
 ### Şale Köşkü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.558815,41.6838188"
 draft: false
+
+weight: 10
 ---
 
 # Baruthane Camii

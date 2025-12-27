@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.028795,41.01572"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyhülislam Arif Hikmet Bey Sebili

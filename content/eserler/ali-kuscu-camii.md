@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.745583349,41.253636917"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Kuşçu Camii

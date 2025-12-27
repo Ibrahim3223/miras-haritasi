@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6044312,40.2352638"
 draft: false
+
+weight: 100
 ---
 
 ### Kadı Çeşmesi, Umurbey: Lapseki'nin Tarihi Ögesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.2498474,38.7036095"
 draft: false
+
+weight: 100
 ---
 
 ## Ağa Camii, Harput

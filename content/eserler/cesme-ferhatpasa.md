@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4658794,41.1385841"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Ferhatpaşa: İstanbul'un Saklı Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.412319,40.906264"
 draft: false
+
+weight: 100
 ---
 
 ### Nihat Bey Anıtı: Giresun'un Onurlu Çocuklarının Anısına

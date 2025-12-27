@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.6732216,40.703064"
 draft: false
+
+weight: 100
 ---
 
 ## Çamlıkköy Camii: Rize'nin Tarihi Bir Mirası

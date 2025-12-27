@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4306164,38.6145439"
 draft: false
+
+weight: 100
 ---
 
 ## Yirmi İki Sultanlar Türbesi

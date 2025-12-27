@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.733722222,39.866333333"
 draft: false
+
+weight: 10
 ---
 
 ## Gazze Camii: Ankara'nın Tarihi ve Kültür Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.6809647,39.4255971"
 draft: false
+
+weight: 100
 ---
 
 ## Culuk Höyüğü: Ankara'nın Gizli Hazinesi

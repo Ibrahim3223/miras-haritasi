@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.604166666,39.021666666"
 draft: false
+
+weight: 100
 ---
 
 ## Eti Hatun Camii: Tarihinin ve Mimarisinin Gizemi

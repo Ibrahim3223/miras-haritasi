@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.272966,39.23261"
 draft: false
+
+weight: 100
 ---
 
 ## Handere Köprüsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.186498,37.3219253"
 draft: false
+
+weight: 100
 ---
 
 **Mem-u Zin Türbesi**

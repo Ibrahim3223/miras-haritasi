@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "41.2756767,39.9086304"
 draft: false
+
+weight: 100
 ---
 
 ## Kurşunlu Medresesi: Erzurum'un Gizli Cenneti

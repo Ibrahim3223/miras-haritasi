@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.60158,41.089"
 draft: false
+
+weight: 10
 ---
 
 ### Sancaklar Camii

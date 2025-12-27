@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.061944444,40.183888888"
 draft: false
+
+weight: 10
 ---
 
 ## Bursa Ulu Camii: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

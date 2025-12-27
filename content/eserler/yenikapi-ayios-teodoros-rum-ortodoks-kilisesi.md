@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.954513888,41.006819444"
 draft: false
+
+weight: 10
 ---
 
 # Yenikapı Ayios Teodoros Rum Ortodoks Kilisesi

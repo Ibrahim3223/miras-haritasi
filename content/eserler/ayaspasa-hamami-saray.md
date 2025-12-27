@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.9202309,41.4429398"
 draft: false
+
+weight: 10
 ---
 
 ### Ayaspaşa Hamamı: Tekirdağ'ın Gizli Cenneti

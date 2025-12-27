@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.7720182,37.998344"
 draft: false
+
+weight: 10
 ---
 
 ### Gümüşler Manastırı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5386,37.5023"
 draft: false
+
+weight: 100
 ---
 
 ### Latmos: Kapıkırı'daki Antik Miras

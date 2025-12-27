@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.9692001,38.2275009"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Hamam, Ödemiş

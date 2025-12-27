@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9729958,41.0342255"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ferhat Ağa Camii: İstanbul'un Gizli Cenneti

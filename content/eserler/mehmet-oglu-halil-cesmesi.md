@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2639427,37.0618324"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Oğlu Halil Çeşmesi

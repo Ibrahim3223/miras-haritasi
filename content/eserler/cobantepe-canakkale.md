@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.258,40.000717"
 draft: false
+
+weight: 100
 ---
 
 ## Çobantepe: Çanakkale'nin Gizli Zirvesi

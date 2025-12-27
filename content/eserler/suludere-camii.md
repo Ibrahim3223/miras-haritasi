@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.2357635,38.2472038"
 draft: false
+
+weight: 100
 ---
 
 ## Suludere Camii: İzmir'in Gizli Çehresini Gerçekleştiren Bir Anıt

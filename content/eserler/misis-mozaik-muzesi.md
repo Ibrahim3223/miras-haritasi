@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.61944444,36.9575"
 draft: false
+
+weight: 10
 ---
 
 ## Misis Mozaik Müzesi: Antik Çağın Gizemli Mirası

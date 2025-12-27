@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.077416666,40.98025"
 draft: false
+
+weight: 10
 ---
 
 ## Kayışdağı Suyu Çeşmesi (Sahrayıcedit)

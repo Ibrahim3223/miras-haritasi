@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7091503,38.419487"
 draft: false
+
+weight: 100
 ---
 
 ## Hamza Baba Türbesi

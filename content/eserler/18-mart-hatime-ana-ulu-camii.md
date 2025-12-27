@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.409160861,40.110525328"
 draft: false
+
+weight: 10
 ---
 
 ## 18 Mart Hatime Ana Ulu Camii

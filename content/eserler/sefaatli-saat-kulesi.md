@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "34.758083333,39.499444444"
 draft: false
+
+weight: 100
 ---
 
 ## Şefaatli Saat Kulesi: Yozgat'ın Tarihi Bir Mirası

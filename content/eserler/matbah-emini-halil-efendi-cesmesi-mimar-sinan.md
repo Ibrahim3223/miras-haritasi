@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020303,41.023748"
 draft: false
+
+weight: 10
 ---
 
 **Matbah Emini Halil Efendi Çeşmesi, Mimar Sinan**

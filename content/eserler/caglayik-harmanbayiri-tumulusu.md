@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3238182,42.0533943"
 draft: false
+
+weight: 100
 ---
 
 ### Çağlayık Harmanbayırı Tümülüsü

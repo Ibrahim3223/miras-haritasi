@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5377026,38.7575188"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük Utku Anıtı: Afyonkarahisar'ın Gizli Hazineleri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.279166666,37.528333333"
 draft: false
+
+weight: 10
 ---
 
 ### Güney Agora (Milet)

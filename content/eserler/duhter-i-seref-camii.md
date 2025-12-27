@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.059906,40.1817398"
 draft: false
+
+weight: 10
 ---
 
 **Duhter-i Şeref Camii: Bursa'nın Gizli Çeşmesi**

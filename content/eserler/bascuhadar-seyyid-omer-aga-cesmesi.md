@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978282,41.009796"
 draft: false
+
+weight: 10
 ---
 
 ## Başçuhadar Seyyid Ömer Ağa Çeşmesi

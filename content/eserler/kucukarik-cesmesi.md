@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6027756,37.7218323"
 draft: false
+
+weight: 100
 ---
 
 ## Küçükarık Çeşmesi

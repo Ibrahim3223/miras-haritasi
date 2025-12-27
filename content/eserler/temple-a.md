@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1096537,37.8362079"
 draft: false
+
+weight: 10
 ---
 
 ## Temple A: Denizli'nin Gizemli Arkeolojik Siti

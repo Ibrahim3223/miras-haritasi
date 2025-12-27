@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.2414322,37.9116974"
 draft: false
+
+weight: 100
 ---
 
 ## Latifiye Medresesi

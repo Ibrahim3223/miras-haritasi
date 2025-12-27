@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4333344,38.6106148"
 draft: false
+
+weight: 100
 ---
 
 ## Zahide Hanım Çeşmesi

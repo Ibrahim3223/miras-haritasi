@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8635,39.581"
 draft: false
+
+weight: 10
 ---
 
 # Seyitömer Höyüğü

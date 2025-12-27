@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9612904,41.0062599"
 draft: false
+
+weight: 100
 ---
 
 ### Atik Nişancı Medresesi

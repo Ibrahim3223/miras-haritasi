@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6474533,41.7287941"
 draft: false
+
+weight: 100
 ---
 
 ## Yenice Bekçitepe Tümülüsü

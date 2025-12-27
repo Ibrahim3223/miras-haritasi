@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.94021,38.51481"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Ahmetli

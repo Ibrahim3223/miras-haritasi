@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.560771,41.034883"
 draft: false
+
+weight: 100
 ---
 
 ## İslampaşa Kurşunlu Camii

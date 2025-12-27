@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1115379,36.622345"
 draft: false
+
+weight: 100
 ---
 
 ## Telmessos Lahdi

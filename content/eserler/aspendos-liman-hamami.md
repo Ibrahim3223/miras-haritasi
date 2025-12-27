@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.1714668,36.9350319"
 draft: false
+
+weight: 1
 ---
 
 # Aspendos Liman Hamamı

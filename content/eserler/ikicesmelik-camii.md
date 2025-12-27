@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1344395,38.4143639"
 draft: false
+
+weight: 100
 ---
 
 ## İkiçeşmelik Camii: İzmir'in Tarihi Bir Mirası

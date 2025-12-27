@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.93639,41.024881"
 draft: false
+
+weight: 10
 ---
 
 ## Karagümrük Gül Baba Türbesi

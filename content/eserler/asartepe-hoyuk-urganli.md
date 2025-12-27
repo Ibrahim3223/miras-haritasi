@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.844933,38.555483"
 draft: false
+
+weight: 100
 ---
 
 ## Asartepe Höyük, Urganlı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.5036365,39.2769121"
 draft: false
+
+weight: 100
 ---
 
 ## Höyük Değirmeni: Kangal'ın Eski Zirvesi

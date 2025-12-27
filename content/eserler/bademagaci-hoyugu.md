@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.49805556,37.22305556"
 draft: false
+
+weight: 100
 ---
 
 ## Bademağacı Höyüğü

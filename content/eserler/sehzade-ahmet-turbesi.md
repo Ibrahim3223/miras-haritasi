@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0462627,40.1906395"
 draft: false
+
+weight: 10
 ---
 
 ## Bursa'da Gizli Bir Öykü: Şehzade Ahmet Türbesi

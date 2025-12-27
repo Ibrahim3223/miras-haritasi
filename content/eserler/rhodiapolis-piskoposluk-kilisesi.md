@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.2651463,36.3876152"
 draft: false
+
+weight: 100
 ---
 
 ## Rhodiapolis Piskoposluk Kilisesi

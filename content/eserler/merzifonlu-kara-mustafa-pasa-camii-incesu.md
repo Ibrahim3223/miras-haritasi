@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.1805611,38.6233215"
 draft: false
+
+weight: 100
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Camii: İncesu'nun Tarihî Bir Mirası

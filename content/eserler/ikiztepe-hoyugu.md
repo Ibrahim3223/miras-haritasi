@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.87058,41.61401"
 draft: false
+
+weight: 100
 ---
 
 ## İkiztepe Höyüğü: Samsun'un Gizli Klasik Çağ Mirası

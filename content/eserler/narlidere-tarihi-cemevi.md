@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.0062542,38.3907547"
 draft: false
+
+weight: 100
 ---
 
 ### Narlıdere Tarihi Cemevi: İzmir'in Gizli Çarı

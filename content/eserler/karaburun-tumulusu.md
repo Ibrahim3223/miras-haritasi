@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9903183,36.7818565"
 draft: false
+
+weight: 100
 ---
 
 # Karaburun Tümülüsü

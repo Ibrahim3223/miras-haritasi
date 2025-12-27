@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6975403,39.3185616"
 draft: false
+
+weight: 100
 ---
 
 ## Gavur Çeşmesi: Ayvalık'ta Bir Tarihi Çeşme

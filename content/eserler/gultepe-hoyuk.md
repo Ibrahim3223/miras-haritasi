@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.47535,36.5497393"
 draft: false
+
+weight: 100
 ---
 
 # Gültepe Höyük

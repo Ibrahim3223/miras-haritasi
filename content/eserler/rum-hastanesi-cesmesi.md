@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.544796,37.7035751"
 draft: false
+
+weight: 100
 ---
 
 ## Rum Hastanesi Çeşmesi

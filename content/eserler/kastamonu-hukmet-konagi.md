@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7787533,41.3758827"
 draft: false
+
+weight: 10
 ---
 
 ### Kastamonu Hükûmet Konağı: Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.3353386,40.016407"
 draft: false
+
+weight: 100
 ---
 
 ## Aktaş Camii Tanıtımı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9437771,41.0386353"
 draft: false
+
+weight: 10
 ---
 
 ## Şatır Hasan Ağa Çeşmesi Kuyusu

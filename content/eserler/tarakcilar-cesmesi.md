@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7718658,41.379509"
 draft: false
+
+weight: 100
 ---
 
 ### Tarakçılar Çeşmesi

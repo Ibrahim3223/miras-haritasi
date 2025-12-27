@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1622391,41.7659416"
 draft: false
+
+weight: 100
 ---
 
 ## Azize Efotida Kilisesi: Kırklareli'nin Gizli Çehresi

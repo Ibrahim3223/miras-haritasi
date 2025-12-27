@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.3325,41.29416667"
 draft: false
+
+weight: 10
 ---
 
 ## Samsun Kalesi: Tarih, Mimarî ve Kültürel Miras

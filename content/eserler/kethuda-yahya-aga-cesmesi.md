@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970083333,41.022583333"
 draft: false
+
+weight: 10
 ---
 
 ## Kethüda Yahya Ağa Çeşmesi

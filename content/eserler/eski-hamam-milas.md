@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7817001,37.3170013"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Hamam, Milas

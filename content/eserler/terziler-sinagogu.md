@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.974083333,41.024111111"
 draft: false
+
+weight: 10
 ---
 
 ## Terziler Sinagogu: İstanbul'un Gizli Cenneti

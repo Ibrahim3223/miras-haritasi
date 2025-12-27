@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.365888859,38.079599576"
 draft: false
+
+weight: 100
 ---
 
 ## Esir Mahmut Hamamı: Isparta'nın Tarihî Mirasının Gizli Hazineleri

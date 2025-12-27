@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.008897,41.049137"
 draft: false
+
+weight: 100
 ---
 
 ## Yahya Kemal Heykeli

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.929451,41.0386162"
 draft: false
+
+weight: 100
 ---
 
 ## Münzevi Kardeşler Türbesi: Eyüpsultan'ın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.742027777,41.188277777"
 draft: false
+
+weight: 100
 ---
 
 # Osmanlı Camii (Arnavutköy)

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.610227,39.19868"
 draft: false
+
+weight: 10
 ---
 
 ## Roma Köprüsü 26: Çavdarhisar'da Tarihî Bir Miras

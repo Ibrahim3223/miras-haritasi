@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1081657,41.9397202"
 draft: false
+
+weight: 100
 ---
 
 ### Taşlıtepe 4 Tümülüsü: Kırklareli'nin Gizli Zirvesi

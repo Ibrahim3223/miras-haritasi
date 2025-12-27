@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0537357,41.0972862"
 draft: false
+
+weight: 100
 ---
 
 ## Baltalimanı Sahilsarayı Çeşmesi (2)

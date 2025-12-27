@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.06416667,37.31305556"
 draft: false
+
+weight: 10
 ---
 
 # Stratonikeia: Muğla'nın Tarihi ve Kültürel Mirası

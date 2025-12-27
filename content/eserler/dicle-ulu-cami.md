@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.0725555,38.3750343"
 draft: false
+
+weight: 100
 ---
 
 ## Dicle Ulu Cami: Dicle'nin Gizli Çehresi

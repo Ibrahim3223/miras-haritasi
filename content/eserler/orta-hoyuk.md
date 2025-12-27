@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.0987564,39.5958325"
 draft: false
+
+weight: 100
 ---
 
 ## Orta Höyük: Yozgat'taki Eski Kentin Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.110833333,36.566111111"
 draft: false
+
+weight: 100
 ---
 
 ## Myriandos: Arsuz'da Bir Antik Kent

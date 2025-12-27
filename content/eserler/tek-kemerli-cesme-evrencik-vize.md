@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.713611111,41.651944444"
 draft: false
+
+weight: 100
 ---
 
 ## Tek Kemerli Çeşme (Evrencik, Vize)

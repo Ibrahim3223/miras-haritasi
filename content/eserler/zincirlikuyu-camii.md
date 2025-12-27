@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0086,41.073"
 draft: false
+
+weight: 10
 ---
 
 # Zincirlikuyu Camii

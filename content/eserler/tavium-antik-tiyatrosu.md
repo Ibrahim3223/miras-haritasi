@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.5071472,39.8583931"
 draft: false
+
+weight: 100
 ---
 
 **Tavium Antik Tiyatrosu: Yozgat'ta Tarih ve Kültür**

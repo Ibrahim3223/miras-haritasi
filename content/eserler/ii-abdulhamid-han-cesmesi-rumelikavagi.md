@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0763474,41.1845589"
 draft: false
+
+weight: 100
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Rumelikavağı

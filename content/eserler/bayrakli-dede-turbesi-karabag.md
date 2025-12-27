@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7105827,37.8832245"
 draft: false
+
+weight: 100
 ---
 
 ## Bayraklı Dede Türbesi

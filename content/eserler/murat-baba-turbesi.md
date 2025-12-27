@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.2495956,38.7032051"
 draft: false
+
+weight: 100
 ---
 
 ## Murat Baba Türbesi

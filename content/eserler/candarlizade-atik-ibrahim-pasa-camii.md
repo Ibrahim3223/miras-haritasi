@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9681487,41.0147317"
 draft: false
+
+weight: 10
 ---
 
 ### Çandarlızade Atik İbrahim Paşa Camii

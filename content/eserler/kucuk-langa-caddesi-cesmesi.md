@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.946801,41.0067"
 draft: false
+
+weight: 10
 ---
 
 ## Küçük Langa Caddesi Çeşmesi

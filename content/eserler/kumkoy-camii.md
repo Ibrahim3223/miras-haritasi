@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.9241428,41.4041176"
 draft: false
+
+weight: 100
 ---
 
 ### Kumköy Camii

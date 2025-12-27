@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.01035,41.06445"
 draft: false
+
+weight: 100
 ---
 
 ## Kadıköy Karmateruba Köprüsü

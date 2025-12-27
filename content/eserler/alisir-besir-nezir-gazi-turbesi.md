@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.2189121,38.4677544"
 draft: false
+
+weight: 100
 ---
 
 ## Alişir-Beşir-Nezir Gazi Türbesi

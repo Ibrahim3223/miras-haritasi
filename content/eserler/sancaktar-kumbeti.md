@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.2186508,38.7271385"
 draft: false
+
+weight: 100
 ---
 
 ## Sancaktar Kümbeti

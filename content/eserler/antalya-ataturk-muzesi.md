@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.708172795,36.880635049"
 draft: false
+
+weight: 10
 ---
 
 **Antalya Atatürk Müzesi**

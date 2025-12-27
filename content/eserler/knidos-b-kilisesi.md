@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3743267,36.6871109"
 draft: false
+
+weight: 100
 ---
 
 ### Knidos B Kilisesi: Datça'nın Gizli Çehresi

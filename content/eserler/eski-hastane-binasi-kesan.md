@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.6380043,40.8496056"
 draft: false
+
+weight: 100
 ---
 
 ### Eski Hastane Binası, Keşan

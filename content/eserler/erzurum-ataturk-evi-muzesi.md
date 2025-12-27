@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "41.2689171,39.9065933"
 draft: false
+
+weight: 100
 ---
 
 **Erzurum Atatürk Evi Müzesi: Tarihe Yolculuk**

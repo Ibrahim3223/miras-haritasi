@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3559475,37.8608017"
 draft: false
+
+weight: 100
 ---
 
 ### Yeniköy Arkeolojik Yerleşimi, Kuşadası

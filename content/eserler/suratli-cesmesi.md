@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.741272,38.0843773"
 draft: false
+
+weight: 100
 ---
 
 ## Süratli Çeşmesi

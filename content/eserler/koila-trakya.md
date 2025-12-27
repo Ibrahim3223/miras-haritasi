@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.367552,40.207121"
 draft: false
+
+weight: 100
 ---
 
 ## Koila Arkeolojik Sit

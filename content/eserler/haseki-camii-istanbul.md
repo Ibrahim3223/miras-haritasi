@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.941944444,41.008666666"
 draft: false
+
+weight: 10
 ---
 
 ## Haseki Camii: İstanbul'da bir Osmanlı Çağı Mirası

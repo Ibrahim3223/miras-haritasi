@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.634930555,36.199911111"
 draft: false
+
+weight: 10
 ---
 
 **Antiphellos Antik Tiyatrosu**

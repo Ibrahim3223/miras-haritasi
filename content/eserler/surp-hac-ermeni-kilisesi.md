@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "32.8651123,39.9399529"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Haç Ermeni Kilisesi: Ankara'nın Gizli Tarihi

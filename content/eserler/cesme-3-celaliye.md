@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4193764,41.0510559"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 3, Celaliye: Büyükçekmece'nin Tarihi Bir Çeşmesi

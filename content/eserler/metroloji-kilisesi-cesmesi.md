@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9491882,41.0307541"
 draft: false
+
+weight: 100
 ---
 
 **Metroloji Kilisesi Çeşmesi**

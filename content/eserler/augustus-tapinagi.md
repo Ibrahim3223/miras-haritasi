@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.858266666,39.944336111"
 draft: false
+
+weight: 10
 ---
 
 ### Augustus Tapınağı: Ankara'nın Gizli Çehresini Keşfetmek

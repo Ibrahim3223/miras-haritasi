@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.595211,38.2128525"
 draft: false
+
+weight: 100
 ---
 
 **Hacı İbrahim Camii**

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.424097,37.037942"
 draft: false
+
+weight: 10
 ---
 
 ### Halikarnas Mozolesi: Muhteşem bir Antik Miras

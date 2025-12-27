@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0180683,40.2005692"
 draft: false
+
+weight: 100
 ---
 
 ## Keçeli Hamamı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.5750644,40.9320851"
 draft: false
+
+weight: 100
 ---
 
 ## Esendal Köyü Yeni Camii: Artvin'in Tarihi Çağıntılarından Birini Tanıyalım

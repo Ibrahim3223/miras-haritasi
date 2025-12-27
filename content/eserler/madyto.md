@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.356389,40.183889"
 draft: false
+
+weight: 100
 ---
 
 ## Madyto Arkeolojik Sit

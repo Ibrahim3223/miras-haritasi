@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0134315,41.0156364"
 draft: false
+
+weight: 10
 ---
 
 # Hafız İsa Ağa Çeşmesi

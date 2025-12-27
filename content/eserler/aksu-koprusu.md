@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.8966122,36.9436417"
 draft: false
+
+weight: 100
 ---
 
 ## Aksu Köprüsü: Akdeniz Bölgesi'nin Tarihi ve Etkileyici Köprüsü

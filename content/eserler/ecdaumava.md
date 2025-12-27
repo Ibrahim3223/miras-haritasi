@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.5500014,38.62291"
 draft: false
+
+weight: 100
 ---
 
 ## Ecdaumava Arkeolojik Sit

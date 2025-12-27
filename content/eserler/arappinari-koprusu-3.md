@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7390614,38.0803452"
 draft: false
+
+weight: 100
 ---
 
 ## Arappınarı Köprüsü 3: Tire'nin Tarihî ve Kültürel Mirası

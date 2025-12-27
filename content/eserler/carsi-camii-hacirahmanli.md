@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6023502,38.750946"
 draft: false
+
+weight: 100
 ---
 
 # Çarşı Camii, Hacırahmanlı: Manisa'da Bir Tarihî Miras

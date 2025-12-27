@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.6730766,40.4072227"
 draft: false
+
+weight: 100
 ---
 
 ## Cerrah Hüseyin Camii

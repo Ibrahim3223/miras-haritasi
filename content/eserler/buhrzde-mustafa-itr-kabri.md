@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.933258,41.034542"
 draft: false
+
+weight: 10
 ---
 
 ## Buhûrîzâde Mustafa Itrî Kabri

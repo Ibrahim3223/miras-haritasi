@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.9452782,37.3497238"
 draft: false
+
+weight: 100
 ---
 
 **Görüklük Tepe Höyüğü: Bir Geçmişin İzleri**

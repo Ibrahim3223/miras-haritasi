@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.987168507,37.595464376"
 draft: false
+
+weight: 100
 ---
 
 # Alabanda Doğu Hamamı: Aydın'ın Tarihî Mirası

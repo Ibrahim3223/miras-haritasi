@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.9550171,38.2728806"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü 3, Hypaipa

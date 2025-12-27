@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.5875969,40.7215195"
 draft: false
+
+weight: 100
 ---
 
 ### Erköy Kilisesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9831138,41.0364375"
 draft: false
+
+weight: 100
 ---
 
 ## Vosgeperan Ermeni Katolik Kilisesi

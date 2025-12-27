@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0588856,40.1777"
 draft: false
+
+weight: 100
 ---
 
 ## Somuncu Baba Camii

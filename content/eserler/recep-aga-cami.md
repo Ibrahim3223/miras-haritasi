@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.5632133,37.8925934"
 draft: false
+
+weight: 100
 ---
 
 ## Recep Ağa Cami: Bor, Niğde'nin İhtişamlı Mirası

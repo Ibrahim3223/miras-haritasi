@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.480805555,38.374833333"
 draft: false
+
+weight: 100
 ---
 
 ### Aşağı Develi Ulu Camii: Develi, Kayseri'nin Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "29.009833333,41.049888888"
 draft: false
+
+weight: 10
 ---
 
 ### Yıldız Saat Kulesi

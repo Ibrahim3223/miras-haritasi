@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.2439194,39.1953506"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Eski Camii

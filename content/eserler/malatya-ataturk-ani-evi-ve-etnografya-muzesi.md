@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 # Malatya Atatürk Anı Evi ve Etnografya Müzesi

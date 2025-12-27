@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2513008,38.2041016"
 draft: false
+
+weight: 100
 ---
 
 ## Pancar Höyüğü, Torbalı

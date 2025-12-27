@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.330835,36.988496"
 draft: false
+
+weight: 10
 ---
 
 ## Bülent Ecevit Müzesi: Adana'nın Tarihini ve Kültür Mirasını Tanıtan Bir Öykü

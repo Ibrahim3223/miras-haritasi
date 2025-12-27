@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5336,38.7535"
 draft: false
+
+weight: 100
 ---
 
 ## Abapuş-i Veli Türbesi

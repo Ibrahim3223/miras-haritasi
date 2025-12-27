@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.36944444,38.26722222"
 draft: false
+
+weight: 10
 ---
 
 ## Manastır Vadisi: Aksaray'ın Gizli Cenneti

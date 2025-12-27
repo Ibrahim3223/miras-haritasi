@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.518332,38.345085"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Sinan Türbesi

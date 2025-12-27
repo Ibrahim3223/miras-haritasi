@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.922119,40.994019"
 draft: false
+
+weight: 10
 ---
 
 ## Yedikule Kapısı

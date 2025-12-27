@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## İYTE Kütüphanesi: İlim ve Kültür Merkezinde Bir Örnek

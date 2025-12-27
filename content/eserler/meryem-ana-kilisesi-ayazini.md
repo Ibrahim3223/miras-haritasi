@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.564758877,39.010467314"
 draft: false
+
+weight: 100
 ---
 
 ### Meryem Ana Kilisesi, Ayazini: Bir Hamamın Tarihî Mirası

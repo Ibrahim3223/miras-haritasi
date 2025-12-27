@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.557222222,36.636111111"
 draft: false
+
+weight: 10
 ---
 
 ## Gelidonya Burnu: Antalya'nın Gizli Çarpıcılığı

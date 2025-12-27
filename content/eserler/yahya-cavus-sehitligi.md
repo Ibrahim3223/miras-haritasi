@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1825371,40.0451241"
 draft: false
+
+weight: 100
 ---
 
 ### Yahya Çavuş Şehitliği

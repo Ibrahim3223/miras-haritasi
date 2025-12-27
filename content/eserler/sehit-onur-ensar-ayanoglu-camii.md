@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.062384738,41.027314239"
 draft: false
+
+weight: 10
 ---
 
 ## Şehit Onur Ensar Ayanoğlu Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9244404,41.0004044"
 draft: false
+
+weight: 100
 ---
 
 ## Fevziye Küçükefendi Camii

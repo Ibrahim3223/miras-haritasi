@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9140797,40.9901886"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Paraskevi Kilisesi: İstanbul'un Gizli Çehresinde Bir Önemli Kilise

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.7248421,41.2003288"
 draft: false
+
+weight: 100
 ---
 
 ## Gelin Hamamı: Samsun'un Tarihi ve Kültürel Mirası

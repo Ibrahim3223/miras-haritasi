@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.788098,37.157948"
 draft: false
+
+weight: 100
 ---
 
 ## Şanlıurfa Kurtuluş Müzesi

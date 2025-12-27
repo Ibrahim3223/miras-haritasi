@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.3756828,37.0627899"
 draft: false
+
+weight: 100
 ---
 
 ## Kendirli Kilisesi

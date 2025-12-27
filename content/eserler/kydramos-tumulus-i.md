@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.125300969,37.346882521"
 draft: false
+
+weight: 100
 ---
 
 ## Kydramos Tümülüs I: Tavas'ta Gizli Bir Geçmiş

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.5397072,39.4477119"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Mahmut Suzani Türbesi

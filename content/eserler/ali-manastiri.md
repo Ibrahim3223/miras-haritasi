@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.770537423,41.491995448"
 draft: false
+
+weight: 10
 ---
 
 ### Ali Manastırı

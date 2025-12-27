@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.949361111,41.016"
 draft: false
+
+weight: 10
 ---
 
 ## Mustafa El Hac Çeşmesi: Fatih'in Gizli Çeşmesi

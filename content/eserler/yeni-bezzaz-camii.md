@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0636997,40.1866875"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Bezzaz Camii

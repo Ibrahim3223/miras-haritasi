@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.1551584,39.4649465"
 draft: false
+
+weight: 100
 ---
 
 ## Mal Höyük: Türkiye'nin Gizli Mücevheri

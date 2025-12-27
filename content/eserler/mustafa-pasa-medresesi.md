@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9567223,41.0068626"
 draft: false
+
+weight: 100
 ---
 
 ## Mustafa Paşa Medresesi

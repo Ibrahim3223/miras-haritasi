@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.611897,41.380532"
 draft: false
+
+weight: 100
 ---
 
 ## Fındıklı Köyü Kalesi

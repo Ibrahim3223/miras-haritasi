@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.94501,41.031804"
 draft: false
+
+weight: 10
 ---
 
 ### Taksiarhes Rum Kilisesi

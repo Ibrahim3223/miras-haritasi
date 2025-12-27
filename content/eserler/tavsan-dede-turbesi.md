@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.115478,41.082007"
 draft: false
+
+weight: 100
 ---
 
 ## Tavşan Dede Türbesi: Akçakoca'da Bir İnanç Eseri

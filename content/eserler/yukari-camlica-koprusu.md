@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.99925,41.0534167"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Çamlıca Köprüsü

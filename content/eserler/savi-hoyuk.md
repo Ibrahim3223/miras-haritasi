@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0105339,36.9417263"
 draft: false
+
+weight: 100
 ---
 
 ## Savi Höyük: Şanlıurfa'nın Gizli Çanak Çömleği

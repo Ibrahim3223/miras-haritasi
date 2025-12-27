@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.030385066,40.239495048"
 draft: false
+
+weight: 100
 ---
 
 ### Çubuk Merkez Camii: Ankara'nın Tarihi Mirası

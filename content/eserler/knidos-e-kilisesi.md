@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3715115,36.687252"
 draft: false
+
+weight: 100
 ---
 
 ## Knidos E Kilisesi: Tarih ve Kültür Mirasının Bir Parçası

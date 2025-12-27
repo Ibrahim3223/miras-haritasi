@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.969244449,36.302282949"
 draft: false
+
+weight: 100
 ---
 
 ## Belören Kalesi

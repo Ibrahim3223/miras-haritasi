@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.5404606,39.4487457"
 draft: false
+
+weight: 100
 ---
 
 ### Nemane Çeşmesi: Eskişehir'in Tarihî Mekânı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.9691849,40.3560867"
 draft: false
+
+weight: 100
 ---
 
 **Üç Kuşak Başpehlivan Heykeli**

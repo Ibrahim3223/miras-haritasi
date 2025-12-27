@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.798067136,41.222903604"
 draft: false
+
+weight: 100
 ---
 
 ## Çökön Meydanı Çeşmesi: Safranbolu'nun Kültürel Güzelliği

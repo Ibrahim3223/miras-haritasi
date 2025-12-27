@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.866,39.934027777"
 draft: false
+
+weight: 10
 ---
 
 ### Karacabey Hamamı: Tarihî ve Kültürel Mirasımız

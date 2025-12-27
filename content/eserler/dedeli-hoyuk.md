@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0995803,38.871076"
 draft: false
+
+weight: 100
 ---
 
 ## Dedeli Höyük: Kırşehir'in Gizli Kahramanı

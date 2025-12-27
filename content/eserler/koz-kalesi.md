@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.19277778,36.10388889"
 draft: false
+
+weight: 10
 ---
 
 ## Koz Kalesi: Altınözü'ndeki Bir Tarih Öreni

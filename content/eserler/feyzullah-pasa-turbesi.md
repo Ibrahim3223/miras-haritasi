@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.563890047,41.669620992"
 draft: false
+
+weight: 100
 ---
 
 ### Feyzullah Paşa Türbesi

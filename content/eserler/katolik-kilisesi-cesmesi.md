@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8553543,39.9348526"
 draft: false
+
+weight: 100
 ---
 
 ## Katolik Kilisesi Çeşmesi: Bir Tarih Öreni

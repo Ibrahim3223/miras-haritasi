@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9590149,41.0210533"
 draft: false
+
+weight: 100
 ---
 
 ## Hamid Efendi Medresesi

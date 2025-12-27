@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.00221,36.32915"
 draft: false
+
+weight: 100
 ---
 
 **Karkabho: Tarihi ve Kültürel Bir Miras**

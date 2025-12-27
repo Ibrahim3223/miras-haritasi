@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.97133056,41.01111944"
 draft: false
+
+weight: 10
 ---
 
 ### Mahmutpaşa Camii: Eminönü'de Bir Tarihi ve Kültürel Miras

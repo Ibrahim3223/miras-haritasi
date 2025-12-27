@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.037403,41.077656"
 draft: false
+
+weight: 100
 ---
 
 ## Yaşardoğu Mahallesi Köprüsü 2

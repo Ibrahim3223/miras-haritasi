@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3473854,41.8303833"
 draft: false
+
+weight: 100
 ---
 
 ## Yörükbayırı Ortaburun Tümülüsü

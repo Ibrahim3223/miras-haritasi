@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.510687496,37.866328621"
 draft: false
+
+weight: 10
 ---
 
 ## İzzet Koyunoğlu Şehir Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0142365,38.6773682"
 draft: false
+
+weight: 100
 ---
 
 ### Yeniköy Tümülüsü: Manisa'nın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.6526031,40.9220428"
 draft: false
+
+weight: 100
 ---
 
 ### Cendere Köyü Camii: Çankırı'nin Gizli Bir Cenneti

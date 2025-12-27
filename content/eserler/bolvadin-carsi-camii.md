@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.0480118,38.7108688"
 draft: false
+
+weight: 100
 ---
 
 ## Bolvadin Çarşı Camii: Tarihi ve Kültürel Mirasın Bir Parçası

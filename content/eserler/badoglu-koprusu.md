@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.11578,41.065666"
 draft: false
+
+weight: 100
 ---
 
 ### Badoğlu Köprüsü

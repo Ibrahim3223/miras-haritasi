@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.932498,41.001434"
 draft: false
+
+weight: 100
 ---
 
 ## Abdi Çelebi Camii: Fatih, İstanbul'un Gizli Çehresini Bekliyor

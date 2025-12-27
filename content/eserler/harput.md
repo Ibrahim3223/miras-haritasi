@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.25,38.703888888"
 draft: false
+
+weight: 10
 ---
 
 ### Harput: Türkiye'nin Tarihî ve Kültürel Mirasının Değerli Bir Parçası

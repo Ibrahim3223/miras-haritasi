@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.9271927,36.1214638"
 draft: false
+
+weight: 100
 ---
 
 ## Seleucia Köprüsü

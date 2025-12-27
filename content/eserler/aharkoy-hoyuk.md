@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.2496886,39.9172536"
 draft: false
+
+weight: 100
 ---
 
 ## Aharköy Höyük: Sakarya'nın Gizli Mirası

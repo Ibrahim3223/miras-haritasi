@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.241848,37.4548"
 draft: false
+
+weight: 100
 ---
 
 # Avdallı Kalesi

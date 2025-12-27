@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.496357,37.8741417"
 draft: false
+
+weight: 100
 ---
 
 ## Güdük Minare: Konya'nın Tarihi ve Kültürel Mirası

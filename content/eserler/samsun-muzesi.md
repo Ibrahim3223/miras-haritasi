@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.333823,41.289739"
 draft: false
+
+weight: 10
 ---
 
 # Samsun Müzesi: Tarihin ve Kültür Mirasının Merkezi

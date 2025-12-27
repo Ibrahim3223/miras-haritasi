@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.995392,39.652538"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs T33 – K-III

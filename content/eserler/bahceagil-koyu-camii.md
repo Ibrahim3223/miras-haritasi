@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8841457,41.3489037"
 draft: false
+
+weight: 100
 ---
 
 ### Bahçeağıl Köyü Camii: Tekirdağ'ın Tarihî Bir Çağına Tanıklık Eden Ölümsüz Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## St. Sophia Church of Varaga Monastery: Van'ın Ölümsüz Kilisesi

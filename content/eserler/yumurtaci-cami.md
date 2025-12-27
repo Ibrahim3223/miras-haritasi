@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.921108792,40.764865145"
 draft: false
+
+weight: 10
 ---
 
 ## Yumurtacı Camii: Kocaeli'nin Tarihî bir Örneği

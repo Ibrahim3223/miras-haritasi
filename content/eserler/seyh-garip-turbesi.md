@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.1071739,38.3984108"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Garip Türbesi: Bitlis'in Tarihi ve Kültürel Mirası

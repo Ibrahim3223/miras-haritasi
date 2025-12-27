@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Çaltılar Höyüğü: Tarihi ve Kültürel Mirasın Bir Parçası

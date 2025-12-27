@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.928794,40.714558"
 draft: false
+
+weight: 100
 ---
 
 # Astakos: Kocaeli'nin Gizli Arkeolojik Mirası

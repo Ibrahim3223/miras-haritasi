@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9621944,41.0215263"
 draft: false
+
+weight: 100
 ---
 
 ## Yavuz Er Sinan Kabri: İstanbul'un Göz Bebekleri Arasında

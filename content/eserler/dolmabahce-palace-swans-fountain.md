@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.998175194,41.038438086"
 draft: false
+
+weight: 10
 ---
 
 ## Dolmabahçe Sarayı - Kuğu Çeşmesi

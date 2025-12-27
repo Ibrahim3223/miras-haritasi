@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.5754051,40.7745667"
 draft: false
+
+weight: 100
 ---
 
 ## Tavşancıl Tarihi Hamamı: Kocaeli'nin Gizli Cenneti

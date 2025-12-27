@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.965382,41.036278"
 draft: false
+
+weight: 10
 ---
 
 ## Uzun Piyale Paşa Çeşmesi

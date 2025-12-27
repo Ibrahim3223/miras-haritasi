@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.03517,41.0608428"
 draft: false
+
+weight: 100
 ---
 
 ## Çınarlı Çeşme, Kuruçeşme

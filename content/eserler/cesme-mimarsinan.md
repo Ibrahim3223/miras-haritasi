@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.5552273,41.0168877"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme, Mimarsinan: Büyükçekmece'nin Kültürel Mirası

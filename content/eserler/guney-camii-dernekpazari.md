@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.240519075,40.795566814"
 draft: false
+
+weight: 100
 ---
 
 ## Güney Camii (Dernekpazarı)

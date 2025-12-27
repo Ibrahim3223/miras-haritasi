@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9404945,41.0398293"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmet Ağa Çeşmesi, Defterdar

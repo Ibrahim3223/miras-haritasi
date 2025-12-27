@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7763824,41.3809624"
 draft: false
+
+weight: 100
 ---
 
 ## Karanlık Camii

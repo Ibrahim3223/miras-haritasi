@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Kavaklı Lazlar Camisi: Trabzon'un Gizli Cenneti

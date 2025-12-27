@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.954065,41.022999"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırlı Medrese

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.045501463,41.210503398"
 draft: false
+
+weight: 100
 ---
 
 # Işıklı Köyü Camii: Rize'nin Kültürel Mirası

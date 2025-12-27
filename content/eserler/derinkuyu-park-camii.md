@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.734555555,38.370444444"
 draft: false
+
+weight: 100
 ---
 
 ## Derinkuyu Park Camii

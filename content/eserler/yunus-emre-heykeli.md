@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0336456,40.9852791"
 draft: false
+
+weight: 10
 ---
 
 ### Yunus Emre Heykeli

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.5,40.083333"
 draft: false
+
+weight: 10
 ---
 
 ## Ankuwa Arkeolojik Sit

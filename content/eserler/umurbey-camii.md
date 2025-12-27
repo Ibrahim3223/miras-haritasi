@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.884529,39.647041"
 draft: false
+
+weight: 10
 ---
 
 ## Umurbey Camii Tanıtımı

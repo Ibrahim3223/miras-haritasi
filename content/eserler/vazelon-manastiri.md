@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.5299871,40.7598347"
 draft: false
+
+weight: 10
 ---
 
 ## Vazelon Manastırı: Trabzon'un Gizli Cenneti

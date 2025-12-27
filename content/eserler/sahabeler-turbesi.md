@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2417183,37.9148254"
 draft: false
+
+weight: 100
 ---
 
 ## Sahabeler Türbesi: Tarihe Adanan Bir Anıt

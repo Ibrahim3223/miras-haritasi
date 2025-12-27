@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.5442429,40.3165855"
 draft: false
+
+weight: 100
 ---
 
 ### Rüstem Çelebi Camii, Tokat Tanıtımı

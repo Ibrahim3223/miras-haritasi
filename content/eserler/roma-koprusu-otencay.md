@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.252014,36.421864"
 draft: false
+
+weight: 100
 ---
 
 **Roma Köprüsü, Ötençay**

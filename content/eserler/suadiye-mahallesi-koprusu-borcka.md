@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.670235,41.447359"
 draft: false
+
+weight: 100
 ---
 
 ### Suadiye Mahallesi Köprüsü, Borçka

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.999861111,38.395888888"
 draft: false
+
+weight: 10
 ---
 
 ## Şehitlik Camii: Narlıdere'nin Tarihi ve Kültürel Mirası

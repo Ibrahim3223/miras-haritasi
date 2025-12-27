@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.7829971,37.1510201"
 draft: false
+
+weight: 10
 ---
 
 ## Haleplibahçe Mozaik Müzesi

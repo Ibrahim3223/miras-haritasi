@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.1426808,36.6709075"
 draft: false
+
+weight: 100
 ---
 
 ### Nure Sofi Türbesi: Mut, Mersin'in Değerli Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.66763,38.394358"
 draft: false
+
+weight: 100
 ---
 
 ### Ağa Puhar Çeşmesi

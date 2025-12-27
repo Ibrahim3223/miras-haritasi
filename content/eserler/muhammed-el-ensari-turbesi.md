@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.942657,41.039826"
 draft: false
+
+weight: 10
 ---
 
 ## Muhammed El-Ensari Türbesi: İstanbul'un Fatih semtinde Yükselen Bir Anıt

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.239,39.956417"
 draft: false
+
+weight: 10
 ---
 
 ## Truva VII: Efsanevi Kentin İzleri

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.674611111,38.143611111"
 draft: false
+
+weight: 10
 ---
 
 ## Doğanhisar Camii: Konya'nın Gizli Çehresini Açığa Katarak

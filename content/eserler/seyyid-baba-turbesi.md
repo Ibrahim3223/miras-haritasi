@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.940172841,41.008077548"
 draft: false
+
+weight: 100
 ---
 
 ### Seyyid Baba Türbesi: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0947514,41.6336823"
 draft: false
+
+weight: 100
 ---
 
 ## Kıyıköy Camii: Kırklareli'nin Gizli Cenneti

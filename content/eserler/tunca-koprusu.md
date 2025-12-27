@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.554252777,41.667872222"
 draft: false
+
+weight: 10
 ---
 
 ## Tunca Köprüsü: Edirne'nin İhtişamlı Köprüsü

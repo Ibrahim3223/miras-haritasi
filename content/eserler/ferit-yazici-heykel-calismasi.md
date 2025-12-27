@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.04326,41.068509"
 draft: false
+
+weight: 100
 ---
 
 ## Ferit Yazıcı Heykel Çalışması

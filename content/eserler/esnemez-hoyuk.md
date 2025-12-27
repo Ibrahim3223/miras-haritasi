@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.084089,39.730776"
 draft: false
+
+weight: 100
 ---
 
 ### Esnemez Höyük: Eskişehir'in Gizli Mirası

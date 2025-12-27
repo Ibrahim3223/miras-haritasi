@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.2429237,40.1167374"
 draft: false
+
+weight: 100
 ---
 
 ## Has Mehmet Bey Türbesi

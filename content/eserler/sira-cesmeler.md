@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8874683,39.6507339"
 draft: false
+
+weight: 100
 ---
 
 ## Sıra Çeşmeler: Karesi, Balıkesir'de Bir Önemli Çeşme

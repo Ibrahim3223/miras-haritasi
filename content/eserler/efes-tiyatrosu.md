@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34273,37.94101"
 draft: false
+
+weight: 10
 ---
 
 ### Efes Tiyatrosu: İyonya'nın İhtişamı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.494957,37.8799858"
 draft: false
+
+weight: 100
 ---
 
 ## Kalender Baba Türbesi

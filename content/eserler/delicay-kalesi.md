@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.472196,39.000814"
 draft: false
+
+weight: 100
 ---
 
 ## Deliçay Kalesi: Erciş'in Tarihî Bir Çehresini

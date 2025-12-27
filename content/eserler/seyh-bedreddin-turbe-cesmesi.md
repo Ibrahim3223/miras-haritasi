@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6065292,37.4393616"
 draft: false
+
+weight: 100
 ---
 
 **Şeyh Bedreddin Türbe Çeşmesi**

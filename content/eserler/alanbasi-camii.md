@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4106,40.6898"
 draft: false
+
+weight: 100
 ---
 
 ## Alanbaşı Camii: Tarihi ve Kültürel Mirasın Gizli Cenneti

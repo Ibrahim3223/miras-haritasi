@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.4822235,40.9311981"
 draft: false
+
+weight: 100
 ---
 
 # Ortaalan Çeşmesi Akçaabat

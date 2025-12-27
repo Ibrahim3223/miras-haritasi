@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.94071646,41.031469793"
 draft: false
+
+weight: 100
 ---
 
 **Hüsam İbni Abdullah Kabri: Fatih'in Gizli Çehresini Gözler önüne Seren Anıt**

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6757431,37.9720459"
 draft: false
+
+weight: 100
 ---
 
 ## Gündoğdu Türbesi: Niğde'nin Gizli Şehri

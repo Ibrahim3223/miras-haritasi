@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9288235,41.0035934"
 draft: false
+
+weight: 100
 ---
 
 ### Serasker Rıza Paşa Türbesi: Fatih'teki Bir Tarihi Anıt

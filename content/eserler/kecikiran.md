@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.6135979,38.9743996"
 draft: false
+
+weight: 100
 ---
 
 ### Keçikıran: Van'ın Tarihi Mirası

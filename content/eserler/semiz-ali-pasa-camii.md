@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0972462,41.4280281"
 draft: false
+
+weight: 10
 ---
 
 ## Semiz Ali Paşa Camii

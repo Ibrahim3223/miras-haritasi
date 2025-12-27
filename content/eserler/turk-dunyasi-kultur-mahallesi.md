@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Türk Dünyası Kültür Mahallesi

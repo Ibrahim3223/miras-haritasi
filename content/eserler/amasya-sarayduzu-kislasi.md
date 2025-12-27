@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 **Amasya Saraydüzü Kışlası: Tarih ve Kültür Mirası**

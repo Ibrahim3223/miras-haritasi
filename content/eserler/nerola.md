@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.850723,40.906068"
 draft: false
+
+weight: 100
 ---
 
 ## Nerola Arkeolojik Sitesi

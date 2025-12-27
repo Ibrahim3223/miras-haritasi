@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.539854,41.6874886"
 draft: false
+
+weight: 10
 ---
 
 ## Bademlik Su Terazisi ve Çeşmesi: Edirne'nin Gizli Çeşmesi

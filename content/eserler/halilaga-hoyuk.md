@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.451756,36.560188"
 draft: false
+
+weight: 100
 ---
 
 ## Halilağa Höyük: Tarih Öncesi Mirası

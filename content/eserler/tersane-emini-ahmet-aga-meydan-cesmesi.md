@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.967087,41.034111"
 draft: false
+
+weight: 10
 ---
 
 ## Tersane Emini Ahmet Ağa Meydan Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958013125,41.025446419"
 draft: false
+
+weight: 10
 ---
 
 ## Nalıncı Kasım Sokak Çeşmesi: Fatih'te Bir Ölümsüz

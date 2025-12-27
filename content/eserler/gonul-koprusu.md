@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.68444444,39.34388889"
 draft: false
+
+weight: 10
 ---
 
 ### Gönül Köprüsü

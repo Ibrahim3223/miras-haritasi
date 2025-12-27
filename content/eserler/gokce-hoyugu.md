@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.7076136,39.2493172"
 draft: false
+
+weight: 100
 ---
 
 ## Gökçe Höyüğü: Kozaklı'nın Tarihî ve Kültürel Mirası

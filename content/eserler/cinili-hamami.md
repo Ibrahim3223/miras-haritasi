@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.028341,41.019785"
 draft: false
+
+weight: 10
 ---
 
 ## Çinili Hamamı

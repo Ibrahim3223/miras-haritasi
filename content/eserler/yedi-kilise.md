@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.460825,38.44963611"
 draft: false
+
+weight: 10
 ---
 
 ## Yedi Kilise Manastırı: Van'da Bir Önemli Kültürel Miras

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.958982,41.0569958"
 draft: false
+
+weight: 100
 ---
 
 ## Pogina Köprüsü: Rize'nin Tarihi Mirası

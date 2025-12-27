@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.978555,41.037027"
 draft: false
+
+weight: 10
 ---
 
 ### Tarlabaşı Meryemana Metropolitlik Kilisesi

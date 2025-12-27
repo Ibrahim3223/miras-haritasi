@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.569805,36.109886"
 draft: false
+
+weight: 100
 ---
 
 ## Charadrus Arkeolojik Sit

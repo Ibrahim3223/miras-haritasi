@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.1541908,39.1459962"
 draft: false
+
+weight: 100
 ---
 
 ## Şehir Hamamı: Kırşehir'in Tarihi ve Kültürel Mirası

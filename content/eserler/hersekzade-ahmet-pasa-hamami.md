@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.7687893,38.3210373"
 draft: false
+
+weight: 100
 ---
 
 ## Hersekzade Ahmet Paşa Hamamı

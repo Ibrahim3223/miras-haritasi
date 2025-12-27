@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4712563,40.7328949"
 draft: false
+
+weight: 100
 ---
 
 ### Abdurrahman Ağa Çeşmesi: İskilip'te Bir Ölümsüz Miras

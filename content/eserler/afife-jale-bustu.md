@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0269356,40.9874001"
 draft: false
+
+weight: 100
 ---
 
 ### Afife Jale Büstü: Kadıköy'ün Tarihi ve Kültürel Mirası

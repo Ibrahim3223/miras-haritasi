@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.27668,39.906333"
 draft: false
+
+weight: 100
 ---
 
 ## Cimcime Hatun Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3664341,41.8699493"
 draft: false
+
+weight: 100
 ---
 
 ## Düzorman Beştepeler D Tümülüsü

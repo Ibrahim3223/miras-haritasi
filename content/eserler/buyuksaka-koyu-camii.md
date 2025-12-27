@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1365662,39.3699379"
 draft: false
+
+weight: 100
 ---
 
 ### Büyüksaka Köyü Camii: Kütahya'nın Tarihi Bir Mirası

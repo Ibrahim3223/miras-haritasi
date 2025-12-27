@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.46349,40.766723"
 draft: false
+
+weight: 100
 ---
 
 ## Çevreli Camii: Artvin'in Tarihî ve Kültürel Mirası

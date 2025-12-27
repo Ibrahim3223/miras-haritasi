@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9724846,41.0028992"
 draft: false
+
+weight: 1
 ---
 
 ## Ayasofya-i Sagir Zaviye Şeyhi Şeyh Muhammed Kabri

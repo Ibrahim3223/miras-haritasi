@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.822583333,38.660444444"
 draft: false
+
+weight: 10
 ---
 
 ### Pers Mezar Anıtı: Foça'daki Eskiçağ Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.323638,41.318725"
 draft: false
+
+weight: 100
 ---
 
 ## Baruthane Tümülüsleri İlkadım: Samsun'un Gizli Mirası

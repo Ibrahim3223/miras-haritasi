@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.8651428,40.0964394"
 draft: false
+
+weight: 100
 ---
 
 ### Kayabüget Demirci Höyük: Çorum'un Gizli Mirası

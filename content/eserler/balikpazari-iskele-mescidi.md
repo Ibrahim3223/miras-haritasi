@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.971611,41.01802"
 draft: false
+
+weight: 100
 ---
 
 ## Balıkpazarı İskele Mescidi

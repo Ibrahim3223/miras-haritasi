@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.2366943,40.260479"
 draft: false
+
+weight: 100
 ---
 
 ## Şapinuva Tablet Arşivi: Tarihî Mirasın Gizemi

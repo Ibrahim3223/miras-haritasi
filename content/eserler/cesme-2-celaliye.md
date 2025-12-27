@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4188671,41.0514183"
 draft: false
+
+weight: 100
 ---
 
 # Çeşme 2, Celaliye: Büyükçekmece'nin Tarihi Bir Çeşmesi

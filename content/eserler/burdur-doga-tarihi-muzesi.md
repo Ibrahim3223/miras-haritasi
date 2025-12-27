@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.2811127,37.7140274"
 draft: false
+
+weight: 100
 ---
 
 ## Burdur Doğa Tarihi Müzesi

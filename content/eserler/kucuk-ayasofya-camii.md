@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.971944,41.002778"
 draft: false
+
+weight: 1
 ---
 
 ## Küçük Ayasofya Camii

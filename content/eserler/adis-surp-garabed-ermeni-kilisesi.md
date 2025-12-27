@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.2473145,38.218502"
 draft: false
+
+weight: 100
 ---
 
 ## Adış Surp Garabed Ermeni Kilisesi: Tarihi ve Kültürel Miras

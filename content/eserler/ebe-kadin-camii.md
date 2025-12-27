@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.947697,41.011341"
 draft: false
+
+weight: 100
 ---
 
 **Ebe Kadın Camii**

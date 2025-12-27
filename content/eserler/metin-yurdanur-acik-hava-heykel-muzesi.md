@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.5355873,39.4546394"
 draft: false
+
+weight: 100
 ---
 
 ## Metin Yurdanur Açık Hava Heykel Müzesi

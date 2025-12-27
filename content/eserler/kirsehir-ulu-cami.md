@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.1586952,39.1457825"
 draft: false
+
+weight: 100
 ---
 
 ## Kırşehir Ulu Cami: Bir Tarihi ve Kültürel Miras

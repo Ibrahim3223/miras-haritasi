@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0667,37.9574013"
 draft: false
+
+weight: 100
 ---
 
 ### Başçayır Köprüsü

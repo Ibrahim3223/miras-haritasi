@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0145847,41.0242905"
 draft: false
+
+weight: 10
 ---
 
 ## Geredeli Çelebi Camii: Üsküdar'ın Gizli Çehresi

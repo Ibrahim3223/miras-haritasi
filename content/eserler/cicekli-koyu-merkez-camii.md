@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.543339,40.625047"
 draft: false
+
+weight: 100
 ---
 
 ## Çiçekli Köyü Merkez Camii

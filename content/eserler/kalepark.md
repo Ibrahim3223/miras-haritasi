@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.7344513,41.0075989"
 draft: false
+
+weight: 10
 ---
 
 ### Kalepark: Ortahisar, Trabzon'un Tarihî Zirvesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5092945,40.9756775"
 draft: false
+
+weight: 100
 ---
 
 ## Özdoyuran Cami Çeşmesi

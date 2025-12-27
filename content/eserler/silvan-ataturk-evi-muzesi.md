@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.242363,37.9152718"
 draft: false
+
+weight: 100
 ---
 
 ## Silvan Atatürk Evi Müzesi

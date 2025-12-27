@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.132767,39.106408"
 draft: false
+
+weight: 10
 ---
 
 ## Amiuk: Van'ın Eski Kenti

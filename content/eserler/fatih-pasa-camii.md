@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.241388888,37.911666666"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Paşa Camii: Diyarbakır'ın Tarihsel ve Kültürel Mirası

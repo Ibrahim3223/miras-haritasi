@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4116745,38.3648491"
 draft: false
+
+weight: 100
 ---
 
 **Mezarlık Çeşmesi: Ulubey, Uşak'ta Bir Önemli Kültürel Miras**

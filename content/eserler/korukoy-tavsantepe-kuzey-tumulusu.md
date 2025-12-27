@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3140411,41.8494492"
 draft: false
+
+weight: 100
 ---
 
 ## Koruköy Tavşantepe Kuzey Tümülüsü: Kırklareli'nin Gizli Hazineleri

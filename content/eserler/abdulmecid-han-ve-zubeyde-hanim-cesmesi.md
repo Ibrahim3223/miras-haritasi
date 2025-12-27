@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.003193,41.047097"
 draft: false
+
+weight: 10
 ---
 
 ## Abdülmecid Han ve Zübeyde Hanım Çeşmesi

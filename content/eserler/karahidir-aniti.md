@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.194750028,41.716112524"
 draft: false
+
+weight: 10
 ---
 
 ### Karahıdır Anıtı

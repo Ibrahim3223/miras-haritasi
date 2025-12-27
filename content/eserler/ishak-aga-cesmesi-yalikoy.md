@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.085671,41.137688"
 draft: false
+
+weight: 10
 ---
 
 ## İshak Ağa Çeşmesi, Yalıköy: Beykoz'un Gizli Çeşmesi

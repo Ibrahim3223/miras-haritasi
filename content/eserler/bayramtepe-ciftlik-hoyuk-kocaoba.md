@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9926564,39.065984"
 draft: false
+
+weight: 100
 ---
 
 ## Bayramtepe Çiftlik Höyük: Dikili'nin Gizli Öztürkçesi

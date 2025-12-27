@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8655701,39.9360008"
 draft: false
+
+weight: 100
 ---
 
 ## Geneği Mescidi: Altındağ'da Tarihi Bir Miras

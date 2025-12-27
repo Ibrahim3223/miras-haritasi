@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4969997,37.8384018"
 draft: false
+
+weight: 100
 ---
 
 **Leukophrys: Aydın'ın Söke'ndeki Gizemli Arkeolojik Sit**

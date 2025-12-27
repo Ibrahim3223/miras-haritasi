@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4330654,38.6192665"
 draft: false
+
+weight: 100
 ---
 
 ## Cavit Paşa Çeşmesi

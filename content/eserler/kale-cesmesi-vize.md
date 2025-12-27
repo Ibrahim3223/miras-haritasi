@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.765912,41.57645"
 draft: false
+
+weight: 10
 ---
 
 ## Kale Çeşmesi (Vize)

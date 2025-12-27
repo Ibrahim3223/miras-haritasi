@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "29.986305555,39.419361111"
 draft: false
+
+weight: 10
 ---
 
 ### Kütahya Saat Kulesi: Bir Kentin Vezinliği

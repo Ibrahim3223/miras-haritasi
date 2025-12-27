@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.5666199,37.6050797"
 draft: false
+
+weight: 100
 ---
 
 ## Seyid Bilal Türbesi, Batman

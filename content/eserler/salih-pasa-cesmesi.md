@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6901627,41.2493782"
 draft: false
+
+weight: 10
 ---
 
 ## Salih Paşa Çeşmesi: Safranbolu'nun Değerli Hazinesi

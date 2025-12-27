@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.6763916,41.3598518"
 draft: false
+
+weight: 100
 ---
 
 **Borçka Şehitliği**

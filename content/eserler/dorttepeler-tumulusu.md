@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.717886,40.4800606"
 draft: false
+
+weight: 100
 ---
 
 ### Dörttepeler Tümülüsü: İznik'in Gizli Mirası

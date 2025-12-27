@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1149439,39.5800071"
 draft: false
+
+weight: 100
 ---
 
 ### Gedikhasanlı Höyük: Sorgun'un Gizli Tarihi

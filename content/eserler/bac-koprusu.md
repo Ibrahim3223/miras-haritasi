@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.9187,36.9212"
 draft: false
+
+weight: 10
 ---
 
 **Baç Köprüsü**

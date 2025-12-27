@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.6802007,40.0641839"
 draft: false
+
+weight: 100
 ---
 
 ## Danişment Höyük: Sivas'ın Gizli Hazinesi

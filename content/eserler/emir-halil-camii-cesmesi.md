@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4942741,37.863636"
 draft: false
+
+weight: 100
 ---
 
 ### Emir Halil Camii Çeşmesi: Konya'nın Görsel Kahramanı

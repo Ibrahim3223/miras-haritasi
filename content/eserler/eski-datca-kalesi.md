@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.6607456,36.7321358"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Datça Kalesi: Tarih ve Kültür Mirası

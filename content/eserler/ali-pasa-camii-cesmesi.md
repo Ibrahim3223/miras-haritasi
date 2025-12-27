@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2765579,39.9127731"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Paşa Camii Çeşmesi

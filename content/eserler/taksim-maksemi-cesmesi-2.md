@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9842682,41.036377"
 draft: false
+
+weight: 10
 ---
 
 ## Taksim Maksemi Çeşmesi 2: Beyoğlu'ndaki Tarihi Bir Çeşme

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.3331985,38.9665985"
 draft: false
+
+weight: 100
 ---
 
 ### Erciş Kalesi: Tarihi Bir Miras

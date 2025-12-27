@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.5044594,37.8708458"
 draft: false
+
+weight: 10
 ---
 
 ## Mevlana Külliyesi Derviş Hüceleleri: Konya'nın Tarihi ve Kültürel Mirası

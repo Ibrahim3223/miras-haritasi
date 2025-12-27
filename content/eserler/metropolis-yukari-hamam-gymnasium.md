@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.3242321,38.1258812"
 draft: false
+
+weight: 100
 ---
 
 ## Metropolis Yukarı Hamam Gymnasium: Bir Önemli Kültürel Mirasın Tanıtımı

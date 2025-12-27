@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.42293,40.28871"
 draft: false
+
+weight: 10
 ---
 
 ### Şebinkarahisar Atatürk Evi Müzesi

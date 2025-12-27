@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.658,39.333"
 draft: false
+
+weight: 10
 ---
 
 ### Taksiyarhis Kilisesi: Ayvalık'taki Bir Ölümsüz Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8501,37.244"
 draft: false
+
+weight: 100
 ---
 
 ## Kırışkal Höyüğü: Geçmişin Gizemi

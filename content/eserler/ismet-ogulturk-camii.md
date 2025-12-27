@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.888186856,39.943585711"
 draft: false
+
+weight: 10
 ---
 
 ### İsmet Oğultürk Camii: Ankara'nın Altın Değerleri Arasında

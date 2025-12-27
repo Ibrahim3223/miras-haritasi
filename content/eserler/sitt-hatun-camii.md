@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0731964,40.1857986"
 draft: false
+
+weight: 10
 ---
 
 ## Sittî Hatun Camii

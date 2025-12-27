@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Haydar Çavuş Camii: Bandırma'nın Gizli Cenneti

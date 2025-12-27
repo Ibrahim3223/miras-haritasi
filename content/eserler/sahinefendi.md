@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9475,38.471111111"
 draft: false
+
+weight: 10
 ---
 
 ## Şahinefendi Arkeolojik Sit

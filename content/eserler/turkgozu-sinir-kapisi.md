@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "42.818333333,41.587777777"
 draft: false
+
+weight: 10
 ---
 
 ## Türkgözü Sınır Kapısı: Tarihi ve Mimari Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.165352,41.075138"
 draft: false
+
+weight: 100
 ---
 
 ## Coralla Arkeolojik Sit

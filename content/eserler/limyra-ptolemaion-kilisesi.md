@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.169570247,36.34219663"
 draft: false
+
+weight: 10
 ---
 
 # Limyra Ptolemaion Kilisesi

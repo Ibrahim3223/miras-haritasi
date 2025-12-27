@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.142305555,38.421083333"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Kadın Müzesi

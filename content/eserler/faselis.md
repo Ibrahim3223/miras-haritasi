@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.552222,36.523611"
 draft: false
+
+weight: 10
 ---
 
 ## Faselis: Antik Liman Kenti

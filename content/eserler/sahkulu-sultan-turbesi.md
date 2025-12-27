@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.075194995,40.989063111"
 draft: false
+
+weight: 10
 ---
 
 ### Şahkulu Sultan Türbesi

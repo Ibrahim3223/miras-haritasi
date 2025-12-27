@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.856514,40.4461365"
 draft: false
+
+weight: 100
 ---
 
 # Semehrek Kalesi: İspir'in Efsanevi Kale Merkezi

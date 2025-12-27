@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9537315,41.0101662"
 draft: false
+
+weight: 100
 ---
 
 ## Alem Bey Camii: Fatih'te Bir Ölümsüz Miras

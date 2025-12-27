@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.557718465,41.667785917"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Camii, Edirne

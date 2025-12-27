@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.5535736,40.3110619"
 draft: false
+
+weight: 100
 ---
 
 ## Behzat Camii: Tokat'ın Tarihi Anıtları Arasındaki Değerli Taş

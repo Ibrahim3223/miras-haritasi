@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.517381,37.6390581"
 draft: false
+
+weight: 100
 ---
 
 ## Safvan Bin Muattal Türbesi: Tarihî ve Kültürel Bir Miras

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.512661,38.8627411"
 draft: false
+
+weight: 10
 ---
 
 ## Tarihi Murat Köprüsü: Muş'un Tarihi Bir Mirası

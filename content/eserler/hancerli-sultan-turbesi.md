@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9336716,41.0484851"
 draft: false
+
+weight: 100
 ---
 
 # Hançerli Sultan Türbesi

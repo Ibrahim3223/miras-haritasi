@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9274597,41.0223083"
 draft: false
+
+weight: 1
 ---
 
 **Ayios Nikolaos Ayazması: İstanbulluların Gözdesi**

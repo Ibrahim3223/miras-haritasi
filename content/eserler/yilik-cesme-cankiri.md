@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.622639236,40.601473898"
 draft: false
+
+weight: 100
 ---
 
 ### Yılık Çeşme: Çankırı'nın Tarihi ve Kültürel Mirası

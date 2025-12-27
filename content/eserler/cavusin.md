@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Çavuşin: Göbeklitepe'nin Öncüsü, Anadolu'nun Gizemi

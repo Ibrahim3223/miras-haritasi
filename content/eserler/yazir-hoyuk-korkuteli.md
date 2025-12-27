@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.2896004,37.0266991"
 draft: false
+
+weight: 100
 ---
 
 # Yazır Höyük, Korkuteli: Antik Bir Kentin İzleri

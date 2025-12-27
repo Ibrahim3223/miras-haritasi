@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.54842,41.6710358"
 draft: false
+
+weight: 100
 ---
 
 ## Darülhadis Camii Açık Türbe

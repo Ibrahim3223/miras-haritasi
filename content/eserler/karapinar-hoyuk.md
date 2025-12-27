@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.5900972,38.6113334"
 draft: false
+
+weight: 100
 ---
 
 ## Karapınar Höyük: Tarihî Bir Mirasın İzleri

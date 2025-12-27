@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7660122,37.2857323"
 draft: false
+
+weight: 100
 ---
 
 ### Berber İni Kaya Mezarı

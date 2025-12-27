@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7672,41.5764"
 draft: false
+
+weight: 1
 ---
 
 ### Vize Ayasofya Camii: Tarihi ve Kültürel Mirası

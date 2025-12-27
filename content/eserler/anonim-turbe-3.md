@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7888546,37.2727623"
 draft: false
+
+weight: 100
 ---
 
 ## Anonim Türbe 3

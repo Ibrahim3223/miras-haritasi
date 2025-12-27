@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9782925,41.0112724"
 draft: false
+
+weight: 10
 ---
 
 ## Sokullu Kapısı

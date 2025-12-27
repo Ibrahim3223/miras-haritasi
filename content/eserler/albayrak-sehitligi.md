@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2855854,40.2173767"
 draft: false
+
+weight: 100
 ---
 
 ## Albayrak Şehitliği

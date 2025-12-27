@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "43.0884141,40.6119418"
 draft: false
+
+weight: 10
 ---
 
 ## İlbeyoğlu Hamamı: Kars'ta Bir Tarihî Miras

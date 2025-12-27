@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0198975,41.0132294"
 draft: false
+
+weight: 10
 ---
 
 ## Ziya Bey Sebili: Üsküdar'ın Tarihi Çeşmesi

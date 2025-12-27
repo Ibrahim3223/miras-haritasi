@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9812984,41.0047417"
 draft: false
+
+weight: 100
 ---
 
 ## Nimelceyş Kabri 3, Cankurtaran:İstanbul'un Tarihsel Zemininde Bir Anıt

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.85336944,39.91998889"
 draft: false
+
+weight: 10
 ---
 
 ## Güvenlik Anıtı

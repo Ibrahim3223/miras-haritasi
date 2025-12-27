@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.34207,37.05844"
 draft: false
+
+weight: 100
 ---
 
 ## Gaziantep Fıstık Müzesi

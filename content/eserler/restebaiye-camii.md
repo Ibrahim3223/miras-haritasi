@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9276123,37.5900726"
 draft: false
+
+weight: 100
 ---
 
 ## Restebaiye Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.95,41.025"
 draft: false
+
+weight: 10
 ---
 
 **Sultan Sarnıcı**

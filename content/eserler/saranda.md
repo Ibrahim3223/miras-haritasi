@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.10694,36.65475"
 draft: false
+
+weight: 100
 ---
 
 ### Muğla'nın Gizli Cenneti: Saranda Arkeolojik Sit

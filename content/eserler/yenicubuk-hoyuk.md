@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.0879395,39.2021961"
 draft: false
+
+weight: 100
 ---
 
 # Yeniçubuk Höyük: Sivas'taki Antik Bir Miras

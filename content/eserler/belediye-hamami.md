@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.2575998,37.8583402"
 draft: false
+
+weight: 100
 ---
 
 ## Belediye Hamamı

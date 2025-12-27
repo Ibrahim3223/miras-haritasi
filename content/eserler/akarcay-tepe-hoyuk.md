@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.02769383,36.91913483"
 draft: false
+
+weight: 100
 ---
 
 ## Akarçay Tepe Höyük: Bir Arkeolojik Sitin Gerçekleri

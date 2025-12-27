@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.871600085,36.171734783"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hasan Köprüsü

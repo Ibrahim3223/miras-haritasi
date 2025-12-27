@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.511351,38.346564"
 draft: false
+
+weight: 100
 ---
 
 ### Philadelphia Arkeolojik Sit

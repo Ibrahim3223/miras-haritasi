@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.3871002,41.3021011"
 draft: false
+
+weight: 100
 ---
 
 ## Cevizli Köyü Camii: Şavşat'ın Değerli Mirası

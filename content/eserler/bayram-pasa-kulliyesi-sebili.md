@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.942415,41.008774"
 draft: false
+
+weight: 10
 ---
 
 ### Bayram Paşa Külliyesi Sebili

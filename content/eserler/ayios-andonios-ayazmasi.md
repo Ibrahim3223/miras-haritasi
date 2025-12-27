@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9789791,41.0251007"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Andonios Ayazması: Beyoğlu'nun Gizli Çeşmesi

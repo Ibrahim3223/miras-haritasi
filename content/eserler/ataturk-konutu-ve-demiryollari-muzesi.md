@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.84457,39.93546"
 draft: false
+
+weight: 10
 ---
 
 ## Atatürk Konutu ve Demiryolları Müzesi

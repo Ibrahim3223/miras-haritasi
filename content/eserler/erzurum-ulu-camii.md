@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2776,39.906"
 draft: false
+
+weight: 10
 ---
 
 ## Erzurum Ulu Camii: Tarihi ve Ünlü Mimarisi

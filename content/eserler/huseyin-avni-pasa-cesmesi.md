@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0224527,41.031868"
 draft: false
+
+weight: 10
 ---
 
 ## Hüseyin Avni Paşa Çeşmesi

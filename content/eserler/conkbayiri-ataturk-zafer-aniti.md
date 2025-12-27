@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.308379,40.252375"
 draft: false
+
+weight: 10
 ---
 
 ### Conkbayırı Atatürk Zafer Anıtı

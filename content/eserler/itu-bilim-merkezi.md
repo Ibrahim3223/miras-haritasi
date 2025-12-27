@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## İTÜ Bilim Merkezi: Bilim ve Teknolojiyi Yaşayan Bir Müze

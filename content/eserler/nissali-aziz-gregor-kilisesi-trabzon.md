@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.73058,41.00945"
 draft: false
+
+weight: 10
 ---
 
 ## Nissalı Aziz Gregor Kilisesi

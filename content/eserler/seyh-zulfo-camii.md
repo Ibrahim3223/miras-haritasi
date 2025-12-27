@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3292084,36.9800034"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Zülfo Camii: Adana'nın Tarihi ve Kültürel Mirası

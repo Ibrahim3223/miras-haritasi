@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1385937,38.4856529"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Camii, Salihli

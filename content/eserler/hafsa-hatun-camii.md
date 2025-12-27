@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0716133,40.1833305"
 draft: false
+
+weight: 10
 ---
 
 ## Hafsa Hatun Camii

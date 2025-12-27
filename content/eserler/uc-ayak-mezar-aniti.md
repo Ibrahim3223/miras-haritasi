@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.180267,36.527253"
 draft: false
+
+weight: 100
 ---
 
 ## Üç Ayak Mezar Anıtı

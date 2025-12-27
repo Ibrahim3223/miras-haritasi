@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.287259,40.942602"
 draft: false
+
+weight: 100
 ---
 
 ### Burunucu Çeşmesi: Bulancak'ın Tarihi Bir Çeşmesi

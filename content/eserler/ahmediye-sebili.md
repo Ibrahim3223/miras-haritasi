@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0168018,41.0200272"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmediye Sebili: Üsküdar'ın Tarihi Çeşme Anıtı

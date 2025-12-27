@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.333778,41.2883344"
 draft: false
+
+weight: 10
 ---
 
 ## Samsun Merkez Camii

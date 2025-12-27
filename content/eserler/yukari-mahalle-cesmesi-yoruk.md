@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.798836177,41.2232062"
 draft: false
+
+weight: 10
 ---
 
 ## Yukarı Mahalle Çeşmesi, Yörük: Safranbolu'nun Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.6123,39.20076"
 draft: false
+
+weight: 10
 ---
 
 ### Penkalas Köprüsü: Çavdarhisar'ın Tarihi Anıtı

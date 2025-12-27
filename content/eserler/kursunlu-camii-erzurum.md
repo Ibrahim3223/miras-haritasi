@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2755318,39.9084816"
 draft: false
+
+weight: 100
 ---
 
 ### Kurşunlu Camii, Erzurum

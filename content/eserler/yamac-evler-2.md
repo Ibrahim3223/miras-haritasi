@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.341347376,37.938381738"
 draft: false
+
+weight: 10
 ---
 
 ## Yamaç Evler 2: Selçuk, İzmir'deki Bir Arkeolojik Sit

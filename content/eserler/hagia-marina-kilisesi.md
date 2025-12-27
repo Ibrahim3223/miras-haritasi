@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.77491,40.1520386"
 draft: false
+
+weight: 100
 ---
 
 ## Hagia Marina Kilisesi

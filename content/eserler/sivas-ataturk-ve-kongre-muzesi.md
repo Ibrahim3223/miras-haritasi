@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.013888888,39.749722222"
 draft: false
+
+weight: 10
 ---
 
 ### Sivas Atatürk ve Kongre Müzesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.0126686,36.1605034"
 draft: false
+
+weight: 100
 ---
 
 ## Batıayaz Köprüsü

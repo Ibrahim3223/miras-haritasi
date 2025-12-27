@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.936194444,41.0435"
 draft: false
+
+weight: 10
 ---
 
 # Cezeri Kasım Paşa Cami

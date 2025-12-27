@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.702333,38.7605"
 draft: false
+
+weight: 100
 ---
 
 ## Arpalı Höyükleri: Manisa'nın Gizli İnsanlık Mirası

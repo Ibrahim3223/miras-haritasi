@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2342,37.9094"
 draft: false
+
+weight: 10
 ---
 
 ### Behram Paşa Camii: Diyarbakır'daki Bir Miras

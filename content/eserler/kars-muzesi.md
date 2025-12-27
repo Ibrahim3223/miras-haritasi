@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "43.11,40.613055555"
 draft: false
+
+weight: 10
 ---
 
 ## Kars Müzesi: Tarih ve Kültür Mirasının Merkezi

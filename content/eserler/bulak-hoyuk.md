@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.7423206,39.1716232"
 draft: false
+
+weight: 100
 ---
 
 **Bulak Höyük: Sivas'ta Bir Arkeolojik Sit**

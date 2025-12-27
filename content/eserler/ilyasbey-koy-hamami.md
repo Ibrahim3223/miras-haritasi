@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.8683434,40.2180824"
 draft: false
+
+weight: 100
 ---
 
 ## İlyasbey Köy Hamamı: Bilecik'in Tarihi Bir Mirası

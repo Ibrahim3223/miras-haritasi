@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.943975,41.01898611"
 draft: false
+
+weight: 10
 ---
 
 ## Bali Paşa Camii: Fatih'te Bir Tarih Öreni

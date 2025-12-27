@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.05126,41.1386223"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Marini Ayazması: Tarabya'da Bir İmparatorluk Çeşmesi

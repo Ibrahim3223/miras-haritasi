@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.280277777,37.528611111"
 draft: false
+
+weight: 10
 ---
 
 ## Milet Nymphaionu: Aydın'ın Büyülü Tarihsel Eseri

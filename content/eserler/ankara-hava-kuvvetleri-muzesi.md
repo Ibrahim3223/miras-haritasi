@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.70425,39.948083333"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Hava Kuvvetleri Müzesi

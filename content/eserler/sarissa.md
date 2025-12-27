@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.90972222,39.30833333"
 draft: false
+
+weight: 10
 ---
 
 ## Sarissa: Sivas'ta Gizemli Bir Arkeolojik Sit

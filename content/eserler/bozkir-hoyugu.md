@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.1081527,38.7894053"
 draft: false
+
+weight: 100
 ---
 
 ## Bozkır Höyüğü: Aksaray'ın Gizli Kahramanı

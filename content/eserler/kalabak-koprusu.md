@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1133327,38.8399582"
 draft: false
+
+weight: 100
 ---
 
 ## Kalabak Köprüsü: Aliağa'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0517006,37.8544006"
 draft: false
+
+weight: 100
 ---
 
 ## Karakol Çeşmesi: Aydın'ın Yüzyıllık Tarihi ve Kültürel Mirası

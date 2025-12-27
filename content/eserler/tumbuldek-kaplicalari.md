@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.4314119,39.9486774"
 draft: false
+
+weight: 100
 ---
 
 ## Tümbüldek Kaplıcaları: Bir Hamamın Tarihi Özellikleri

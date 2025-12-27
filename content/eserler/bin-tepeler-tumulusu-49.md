@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.001667,38.547745"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 49: Salihli, Manisa'nın Gizli Kahramanı

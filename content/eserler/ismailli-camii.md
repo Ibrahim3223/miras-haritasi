@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2141991,38.9313011"
 draft: false
+
+weight: 100
 ---
 
 ## İsmailli Camii: İzmir'in Tarihi Bir Çağı Gerçekleştiren Anıtı

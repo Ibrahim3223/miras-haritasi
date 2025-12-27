@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.2622643,38.0302696"
 draft: false
+
+weight: 100
 ---
 
 ## Gölova Savunma Yapısı, Menderes

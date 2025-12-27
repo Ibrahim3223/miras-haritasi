@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2785,39.903777777"
 draft: false
+
+weight: 10
 ---
 
 ## Üç Kümbetler: Yakutiye'nin Gizli Hazineleri

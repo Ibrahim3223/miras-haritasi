@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.988527777,41.029972222"
 draft: false
+
+weight: 10
 ---
 
 ## Zevki Kadın Çeşmesi

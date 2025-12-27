@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.95969,41.02401"
 draft: false
+
+weight: 10
 ---
 
 ## Rezan Has Müzesi

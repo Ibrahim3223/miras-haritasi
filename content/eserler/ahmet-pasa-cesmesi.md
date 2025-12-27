@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9511719,41.009922"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Paşa Çeşmesi

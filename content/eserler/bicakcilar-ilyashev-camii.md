@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4291311,40.9940704"
 draft: false
+
+weight: 100
 ---
 
 ## Bıçakcılar İlyashev Camii

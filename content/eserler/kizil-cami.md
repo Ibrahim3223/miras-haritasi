@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.934694444,41.045944444"
 draft: false
+
+weight: 10
 ---
 
 ### Kızıl Cami: Eyüp'te Tarih ve Zenginlik

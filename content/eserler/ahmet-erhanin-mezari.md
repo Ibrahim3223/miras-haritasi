@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.77778,39.99753"
 draft: false
+
+weight: 10
 ---
 
 # Ahmet Erhan'ın Mezarı

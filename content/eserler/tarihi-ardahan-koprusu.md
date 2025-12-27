@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.701046,41.1156921"
 draft: false
+
+weight: 100
 ---
 
 # Tarihi Ardahan Köprüsü

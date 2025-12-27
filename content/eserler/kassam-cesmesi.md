@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01802,41.023273"
 draft: false
+
+weight: 10
 ---
 
 ## Kassam Çeşmesi: İstanbul'un Üsküdar semtinde Gizemli Bir Çeşme

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9480629,41.0256386"
 draft: false
+
+weight: 100
 ---
 
 ## Kadıasker Mustafa Medresesi

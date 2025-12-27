@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.028985,40.987963"
 draft: false
+
+weight: 10
 ---
 
 ### Süreyya Operası: İstanbul'un Tarihi Tiyatro Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.127497,41.150755"
 draft: false
+
+weight: 100
 ---
 
 ### Kırklar Sultan Türbesi

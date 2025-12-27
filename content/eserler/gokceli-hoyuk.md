@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.7056545,36.8802823"
 draft: false
+
+weight: 100
 ---
 
 ### Gökçeli Höyük: Gaziantep'in Gizli Kutsalı

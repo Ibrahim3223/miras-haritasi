@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.5935593,40.2007713"
 draft: false
+
+weight: 100
 ---
 
 ## Bloukion Arkeolojik Sit

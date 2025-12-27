@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6089993,37.728138"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Salih Ağa Çeşmesi

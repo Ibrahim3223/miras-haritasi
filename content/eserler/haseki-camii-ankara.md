@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8589439,39.9400711"
 draft: false
+
+weight: 100
 ---
 
 ## Haseki Camii ve Eserin Önemi

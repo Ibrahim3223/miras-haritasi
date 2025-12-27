@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3655,41.05439"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Çeşme 2, Selimpaşa: İstanbul'un Gizli Cenneti

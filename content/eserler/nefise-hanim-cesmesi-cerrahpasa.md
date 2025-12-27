@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941753,41.0033"
 draft: false
+
+weight: 10
 ---
 
 ## Nefise Hanım Çeşmesi: Cerrahpaşa'nın Gizli Çeşmesi

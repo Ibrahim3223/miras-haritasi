@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2933,40.27273"
 draft: false
+
+weight: 100
 ---
 
 ### Hill 60 (Yeni Zelanda) Anıtı

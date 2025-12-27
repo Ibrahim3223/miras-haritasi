@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.469888888,40.34055"
 draft: false
+
+weight: 100
 ---
 
 ### Tortum Kalesi Kilisesi: Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1145434,38.1432608"
 draft: false
+
+weight: 100
 ---
 
 ## İzkaftil Höyüğü: Kahramanmaraş'ın Gizli Güzelliği

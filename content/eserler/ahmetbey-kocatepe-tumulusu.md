@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6280251,41.4968033"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmetbey Kocatepe Tümülüsü

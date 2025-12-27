@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.05261,41.146454"
 draft: false
+
+weight: 10
 ---
 
 ## II. Mahmut Han Çeşmesi, Tarabya

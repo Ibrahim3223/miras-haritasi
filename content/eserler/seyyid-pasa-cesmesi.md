@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0840015,40.9704132"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Paşa Çeşmesi: Kadıköy'de Bir Tarihsel Çeşme

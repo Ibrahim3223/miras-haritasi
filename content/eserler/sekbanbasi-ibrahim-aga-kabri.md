@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9561996,41.0170937"
 draft: false
+
+weight: 100
 ---
 
 ## Sekbanbaşı İbrahim Ağa Kabri

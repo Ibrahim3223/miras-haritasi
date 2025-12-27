@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.443676,37.553307"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Kavak

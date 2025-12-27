@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.291832,36.2909241"
 draft: false
+
+weight: 100
 ---
 
 ## Kâhyalar Köprüsü: Bir Antik Köprüün Gizemi

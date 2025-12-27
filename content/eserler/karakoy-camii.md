@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.975194444,41.022027777"
 draft: false
+
+weight: 10
 ---
 
 ## Karaköy Camii: İstanbul'un Gizli Çarşısı

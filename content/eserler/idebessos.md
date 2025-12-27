@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.20222222,36.55472222"
 draft: false
+
+weight: 10
 ---
 
 ## Idebessos: Antik Kentin Gizemi

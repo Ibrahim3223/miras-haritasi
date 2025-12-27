@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.54361111,41.68583333"
 draft: false
+
+weight: 10
 ---
 
 # Sultan II. Bayezid Külliyesi Sağlık Müzesi

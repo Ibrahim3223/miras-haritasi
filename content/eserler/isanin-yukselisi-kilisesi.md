@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.0661602,41.6773949"
 draft: false
+
+weight: 100
 ---
 
 ### İsa’nın Yükselişi Kilisesi

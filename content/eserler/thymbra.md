@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.2882175,39.8898773"
 draft: false
+
+weight: 100
 ---
 
 ## Thymbra: Tarihî Bir Sitin Gizemi

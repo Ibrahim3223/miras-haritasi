@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7812004,37.2748146"
 draft: false
+
+weight: 100
 ---
 
 # Lokman Zaviyesi, Beçin

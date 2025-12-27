@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958381,41.021986"
 draft: false
+
+weight: 10
 ---
 
 ## Tepedelen Çeşmesi

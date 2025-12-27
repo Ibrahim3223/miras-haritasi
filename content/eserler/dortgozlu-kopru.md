@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9028131,41.1314861"
 draft: false
+
+weight: 100
 ---
 
 ## Dörtgözlü Köprü: Pazar, Rize'nin Gizli Çehresini Açığa Çıkaran Bir Miras

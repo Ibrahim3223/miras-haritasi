@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.969111111,41.008444444"
 draft: false
+
+weight: 10
 ---
 
 ### Mimar Hayreddin Cami

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1876564,40.0419044"
 draft: false
+
+weight: 100
 ---
 
 ## Trablusgarp Anıtı

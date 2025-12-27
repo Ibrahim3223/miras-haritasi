@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.1206114,36.9732011"
 draft: false
+
+weight: 10
 ---
 
 ## Epiphaneia: Hatay'ın Gizli Cenneti

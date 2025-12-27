@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.875168,40.982889"
 draft: false
+
+weight: 100
 ---
 
 ## Paşaoğlu Konağı ve Etnografya Müzesi: Altınordu'nun Kültür Mirası

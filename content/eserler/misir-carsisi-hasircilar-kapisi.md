@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.970373,41.0165"
 draft: false
+
+weight: 10
 ---
 
 ## Mısır Çarşısı Hasırcılar Kapısı

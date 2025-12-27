@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.094265851,41.093463897"
 draft: false
+
+weight: 100
 ---
 
 ### Türker İnanoğlu Vakfı Sinema Tiyatro Müzesi

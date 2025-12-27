@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3245354,37.9024391"
 draft: false
+
+weight: 100
 ---
 
 ### Yahya Paşa Camii (Nazilli)

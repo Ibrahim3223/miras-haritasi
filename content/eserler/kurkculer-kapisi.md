@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9694557,41.0097847"
 draft: false
+
+weight: 100
 ---
 
 ### Kürkçüler Kapısı: Fatih'in Gizli Anıtı

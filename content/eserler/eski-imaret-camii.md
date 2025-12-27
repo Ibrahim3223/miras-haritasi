@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.955,41.02166667"
 draft: false
+
+weight: 10
 ---
 
 ### Eski İmaret Camii

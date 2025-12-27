@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8594742,39.9006538"
 draft: false
+
+weight: 100
 ---
 
 ## Su Perilerinin Dansı Heykeli

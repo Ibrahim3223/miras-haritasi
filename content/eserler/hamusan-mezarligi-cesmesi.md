@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9186745,41.0143547"
 draft: false
+
+weight: 10
 ---
 
 ## Hamuşan Mezarlığı Çeşmesi: Tarihi ve Kültürel Mirasın Gizemi

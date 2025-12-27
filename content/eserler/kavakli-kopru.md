@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.640409,38.156738"
 draft: false
+
+weight: 100
 ---
 
 ## Kavaklı Köprü: Çivril'in Tarihî Bir Mirası

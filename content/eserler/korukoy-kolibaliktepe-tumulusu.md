@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3474426,41.8722115"
 draft: false
+
+weight: 100
 ---
 
 ## Koruköy Kolibalıktepe Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.0575485,41.3516884"
 draft: false
+
+weight: 100
 ---
 
 ## Demirli Köyü Camii: Eflani'de Bir Geçmişi Yaşatan Mimari Harika

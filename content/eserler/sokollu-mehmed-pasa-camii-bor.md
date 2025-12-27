@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.5607529,37.8935165"
 draft: false
+
+weight: 10
 ---
 
 ## Sokollu Mehmed Paşa Camii: Bor'da bir Osmanlı Dönemi Eseri

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "31.537138888,39.452888888"
 draft: false
+
+weight: 10
 ---
 
 ### Sivrihisar Saat Kulesi

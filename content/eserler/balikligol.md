@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.78444444,37.14777778"
 draft: false
+
+weight: 10
 ---
 
 # Balıklıgöl: Şanlıurfa'nın Kutsal Yerleri arasında Bir Anıt

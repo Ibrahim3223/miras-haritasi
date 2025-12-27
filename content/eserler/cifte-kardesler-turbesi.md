@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2875612,39.9056647"
 draft: false
+
+weight: 100
 ---
 
 ## Çifte Kardeşler Türbesi

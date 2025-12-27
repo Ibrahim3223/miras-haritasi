@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.488611111,38.721388888"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Arkeoloji Müzesi

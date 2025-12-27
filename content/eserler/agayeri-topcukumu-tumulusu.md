@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9491215,41.451046"
 draft: false
+
+weight: 100
 ---
 
 ### Ağayeri Topçukumu Tümülüsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9205761,41.0406456"
 draft: false
+
+weight: 100
 ---
 
 ### Topçubaşı Esat Ağa Kabri

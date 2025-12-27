@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## DergiPark Kütüphanesi: Türkiye'nin Kaynaşan Bilgi Merkezleri

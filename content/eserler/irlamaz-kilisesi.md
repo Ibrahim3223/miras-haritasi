@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.7111111,38.4578896"
 draft: false
+
+weight: 100
 ---
 
 ## Irlamaz Kilisesi Tanıtımı

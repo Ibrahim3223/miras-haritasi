@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.999163,41.044495"
 draft: false
+
+weight: 10
 ---
 
 ## Ramiz Ağa Çeşmesi: Beşiktaş'taki Tarihi Bir Çeşme

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.472929,38.738379"
 draft: false
+
+weight: 10
 ---
 
 ## Abdullah Gül Kütüphanesi: Kayseri'nin Kültür Mirası

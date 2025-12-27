@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.7396202,37.3126335"
 draft: false
+
+weight: 10
 ---
 
 ### Mardin Ulu Camii Hamamı

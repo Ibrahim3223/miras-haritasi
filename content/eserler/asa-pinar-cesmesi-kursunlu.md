@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.286623373,40.779372633"
 draft: false
+
+weight: 100
 ---
 
 ## Asa Pınar Çeşmesi, Kurşunlu

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.018343,42.040184"
 draft: false
+
+weight: 100
 ---
 
 ### Malkoçlar Höyükbaba Tümülüsü

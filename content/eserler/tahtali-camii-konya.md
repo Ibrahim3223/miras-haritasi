@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5021629,37.8732948"
 draft: false
+
+weight: 100
 ---
 
 ## Tahtalı Camii: Konya'da Bir Gözdü

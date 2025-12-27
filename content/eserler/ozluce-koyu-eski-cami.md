@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.6781082,38.4530106"
 draft: false
+
+weight: 100
 ---
 
 ## Özlüce Köyü Eski Cami: Nevşehir'in Gizli Cenneti

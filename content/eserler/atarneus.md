@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.92131,39.091358"
 draft: false
+
+weight: 10
 ---
 
 ## Atarneus: İzmir'in Tarihi Mirası

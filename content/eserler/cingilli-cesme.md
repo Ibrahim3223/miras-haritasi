@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9106598,38.6291199"
 draft: false
+
+weight: 100
 ---
 
 ## Cingilli Çeşme: Ürgüp'teki Bir Ölümsüz Çeşme

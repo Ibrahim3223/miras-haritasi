@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.978176,39.420428"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Salih Efendi Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.074534,41.079032"
 draft: false
+
+weight: 100
 ---
 
 ## Benlizade Ahmet Raşit Efendi Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi

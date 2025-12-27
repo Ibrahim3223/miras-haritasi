@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.93387,41.042064"
 draft: false
+
+weight: 100
 ---
 
 ## İsmail Efendi Çeşmesi

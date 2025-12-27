@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8616924,38.1733131"
 draft: false
+
+weight: 100
 ---
 
 ## İlkkurşun: İlk kurşun anıtı Ödemiş'in Gizli Hazinesi

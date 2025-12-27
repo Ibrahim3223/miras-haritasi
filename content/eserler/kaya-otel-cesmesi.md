@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9094124,38.6326523"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Otel Çeşmesi: Ürgüp'te Bir Çağdaş Çeşme Eseri

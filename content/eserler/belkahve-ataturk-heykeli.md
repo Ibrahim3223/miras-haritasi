@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.31725,38.453805555"
 draft: false
+
+weight: 10
 ---
 
 ## Belkahve Atatürk Heykeli: İzmir'in Anlaşılır Yüzü

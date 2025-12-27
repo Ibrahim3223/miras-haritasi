@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5189623,41.6867464"
 draft: false
+
+weight: 10
 ---
 
 ## Hıdırlık Tabyası: Edirne'nin Tarihi Kalesi

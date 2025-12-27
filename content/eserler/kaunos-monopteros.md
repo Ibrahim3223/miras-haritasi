@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.6209087,36.8234482"
 draft: false
+
+weight: 100
 ---
 
 **Kaunos Monopteros: Köyceğiz'in Gizli Gözdelerinden Birini Keşfetmek**

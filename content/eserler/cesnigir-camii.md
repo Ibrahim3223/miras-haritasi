@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.432944444,38.611138888"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşnigir Camii: Manisa'nın Tarihi Bir Mirası

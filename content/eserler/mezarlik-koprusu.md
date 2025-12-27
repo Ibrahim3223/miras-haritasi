@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.044724,38.895042"
 draft: false
+
+weight: 100
 ---
 
 ## Mezarlık Köprüsü: Akhisar'ın Eski Çağlardan Kalan Mirası

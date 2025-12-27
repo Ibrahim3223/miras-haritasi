@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.01763889,41.07909722"
 draft: false
+
+weight: 10
 ---
 
 ### Levent Camii: İstanbul'un Beşiktaş Bölgesinde Bir Önemli Cami

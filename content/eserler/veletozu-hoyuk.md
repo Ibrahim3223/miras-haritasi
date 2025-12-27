@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2287984,39.5577782"
 draft: false
+
+weight: 100
 ---
 
 **Veletözü Höyük: Kayıtlara Geçen Tarih**

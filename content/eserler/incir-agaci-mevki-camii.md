@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.5117416,37.9097977"
 draft: false
+
+weight: 100
 ---
 
 ## İncir Ağacı Mevki Camii

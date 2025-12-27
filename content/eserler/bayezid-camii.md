@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.965277777,41.010277777"
 draft: false
+
+weight: 10
 ---
 
 ## Bayezid Camii

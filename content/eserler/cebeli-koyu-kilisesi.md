@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.3928642,40.5709114"
 draft: false
+
+weight: 100
 ---
 
 **Cebeli Köyü Kilisesi**

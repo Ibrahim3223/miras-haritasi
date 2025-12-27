@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7642784,41.374691"
 draft: false
+
+weight: 100
 ---
 
 **Şaban-ı Veli Vakıf Müzesi**

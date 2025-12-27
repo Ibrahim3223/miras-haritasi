@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.521944444,41.020833333"
 draft: false
+
+weight: 100
 ---
 
 # Bekheirias Arkeolojik Sit

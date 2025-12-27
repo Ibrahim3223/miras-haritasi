@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.420933263,37.855065532"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Ebul Vefa Camii

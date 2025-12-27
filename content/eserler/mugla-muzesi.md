@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.368055555,37.217222222"
 draft: false
+
+weight: 10
 ---
 
 ### Muğla Müzesi

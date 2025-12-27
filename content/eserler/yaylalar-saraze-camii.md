@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2679,40.8693"
 draft: false
+
+weight: 100
 ---
 
 ### Yaylalar Şaraze Camii: Artvin'in Gizli Çehresini İncelemeye Hazırlanın

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.905766,37.254619"
 draft: false
+
+weight: 100
 ---
 
 ## Anavarza Kalesi ve Ören Yeri

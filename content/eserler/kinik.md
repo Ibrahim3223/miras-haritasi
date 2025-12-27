@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.834733,40.015883"
 draft: false
+
+weight: 100
 ---
 
 # Kınık: Pazaryeri, Bilecik'teki Bir Arkeolojik Sit

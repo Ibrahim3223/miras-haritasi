@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.9285126,38.9117393"
 draft: false
+
+weight: 100
 ---
 
 # Durasıl Kalesi

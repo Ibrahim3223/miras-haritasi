@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.551857,40.3050079"
 draft: false
+
+weight: 100
 ---
 
 ## Akdeğirmen Camii: Tokat'ın Değerli Mirası

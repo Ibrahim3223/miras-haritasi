@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.723637,37.709228"
 draft: false
+
+weight: 10
 ---
 
 ## Afrodisias Odeionu veya Bouleuterionu

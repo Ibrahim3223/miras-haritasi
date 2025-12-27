@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.006705,36.935007"
 draft: false
+
+weight: 100
 ---
 
 ## Kayaburnu Camii: Antalya'nın Serik İlçesinde Yükselen Bir Tarihî Miras

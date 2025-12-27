@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7603531,41.5440483"
 draft: false
+
+weight: 100
 ---
 
 ## Yarıktepe A Tümülüsü: Vize'nin Gizemi

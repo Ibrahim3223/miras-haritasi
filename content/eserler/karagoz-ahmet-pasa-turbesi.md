@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9866333,39.415699"
 draft: false
+
+weight: 100
 ---
 
 ## Karagöz Ahmet Paşa Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9402142,41.0128021"
 draft: false
+
+weight: 100
 ---
 
 ## Seydi Bey Camii

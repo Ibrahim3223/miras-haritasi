@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9285526,41.0035057"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirli Servi ve Daye Hatun Türbesi

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "32.86349722,39.93781111"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Saat Kulesi: Ankara'nın Simgesi

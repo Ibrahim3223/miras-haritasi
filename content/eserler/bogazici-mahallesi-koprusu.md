@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.178986,41.137641"
 draft: false
+
+weight: 100
 ---
 
 #### Boğaziçi Mahallesi Köprüsü: Samsun'un Eski Köprülü Mirası

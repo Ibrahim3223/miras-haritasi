@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.969666666,39.419472222"
 draft: false
+
+weight: 10
 ---
 
 ## Kütahya Kalesi: Eine Tarihî Mirasın Tanıtımı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.596296,39.1054703"
 draft: false
+
+weight: 100
 ---
 
 ## Alacahan Camii: Kangal'ın Yüceliğini Tasvir Eden Bir Miras

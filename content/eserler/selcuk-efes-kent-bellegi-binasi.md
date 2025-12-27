@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.3711815,37.9508743"
 draft: false
+
+weight: 100
 ---
 
 ## Selçuk Efes Kent Belleği Binası

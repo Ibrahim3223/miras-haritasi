@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "26.5563469,41.6763802"
 draft: false
+
+weight: 10
 ---
 
 ## Edirne Vakıflar Bölge Müdürlüğü Binası: Edirne'nin Tarihi ve Kültürel Mirası

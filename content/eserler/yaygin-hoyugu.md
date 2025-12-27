@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.5132828,38.2910957"
 draft: false
+
+weight: 100
 ---
 
 ## Yaygın Höyüğü: Malatya'nın Gizli Kahramanı

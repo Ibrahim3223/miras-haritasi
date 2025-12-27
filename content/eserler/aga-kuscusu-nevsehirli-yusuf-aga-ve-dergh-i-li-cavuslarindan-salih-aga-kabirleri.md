@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0306377,40.9981956"
 draft: false
+
+weight: 100
 ---
 
 ### Ağa Kuşçusu Nevşehirli Yusuf Ağa ve Dergâh-ı Âli Çavuşlarından Salih Ağa Kabirleri

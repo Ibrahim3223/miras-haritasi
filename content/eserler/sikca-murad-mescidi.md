@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5523796,41.6810226"
 draft: false
+
+weight: 100
 ---
 
 ## Sıkça Murad Mescidi: Edirne'nin Tarihi Bir Camisi

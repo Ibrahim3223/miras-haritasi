@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.093821,41.428963"
 draft: false
+
+weight: 100
 ---
 
 ### Babaeski Çeşmesi: Tarih, Mimarlık ve Kültür

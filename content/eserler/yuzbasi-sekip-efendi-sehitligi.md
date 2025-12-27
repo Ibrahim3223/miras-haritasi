@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0589294,38.9253883"
 draft: false
+
+weight: 100
 ---
 
 ## Yüzbaşı Şekip Efendi Şehitliği

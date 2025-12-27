@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7710686,41.3752518"
 draft: false
+
+weight: 100
 ---
 
 ## Atabey Gazi Çeşmesi 2: Kastamonu'da Bir Kültür Mirası 

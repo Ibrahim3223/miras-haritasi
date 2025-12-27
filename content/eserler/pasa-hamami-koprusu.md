@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.1076126,38.4024963"
 draft: false
+
+weight: 100
 ---
 
 ### Paşa Hamamı Köprüsü

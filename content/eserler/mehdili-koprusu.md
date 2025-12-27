@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.897389,41.008531"
 draft: false
+
+weight: 100
 ---
 
 # Mehdili Köprüsü

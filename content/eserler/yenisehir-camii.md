@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.5664864,36.2418137"
 draft: false
+
+weight: 100
 ---
 
 ## Yenişehir Camii: Hatay'ın Tarihî Mirası

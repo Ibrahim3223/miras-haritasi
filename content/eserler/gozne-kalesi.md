@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.57416667,36.99222222"
 draft: false
+
+weight: 10
 ---
 
 ## Gözne Kalesi: Mersin'in Tarihi ve Kültürel Mirası

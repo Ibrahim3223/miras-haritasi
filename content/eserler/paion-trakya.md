@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.639597,40.505429"
 draft: false
+
+weight: 100
 ---
 
 ## Paion (Trakya): Gelibolu'nun Gizli Mirası

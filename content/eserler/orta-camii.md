@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.4014606,40.7796021"
 draft: false
+
+weight: 100
 ---
 
 ## Orta Camii: Sakarya'nın Tarihi Bir Mirası

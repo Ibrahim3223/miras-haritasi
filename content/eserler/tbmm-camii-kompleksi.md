@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.850555555,39.909361111"
 draft: false
+
+weight: 100
 ---
 
 ## TBMM Camii Kompleksi

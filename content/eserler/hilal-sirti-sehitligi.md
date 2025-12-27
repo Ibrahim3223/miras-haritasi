@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2531815,40.0792961"
 draft: false
+
+weight: 100
 ---
 
 ## Hilal Sırtı Şehitliği

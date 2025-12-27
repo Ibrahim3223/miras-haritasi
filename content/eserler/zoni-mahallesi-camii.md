@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.749095,37.447557"
 draft: false
+
+weight: 100
 ---
 
 ### Zoni Mahallesi Camii: Mardin'in Yüzyıllık Edebiyat Mirasının Merkezi

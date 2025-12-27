@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 1
 ---
 
 ## Kapadokya Kilisesi: Tarihî Bir Mirasın Gizemi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1083641,37.8857193"
 draft: false
+
+weight: 100
 ---
 
 ## Kır Çeşme: Aydın'ın Tarihi Çeşmesinde Gizlenen Özellikler

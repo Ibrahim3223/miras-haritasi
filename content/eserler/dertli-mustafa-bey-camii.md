@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.3805714,40.9226875"
 draft: false
+
+weight: 100
 ---
 
 ## Dertli Mustafa Bey Camii: İpsala'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.88889,41.18111"
 draft: false
+
+weight: 100
 ---
 
 ## Atina (Pontus)

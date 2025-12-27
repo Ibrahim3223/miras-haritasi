@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958786,41.022814"
 draft: false
+
+weight: 10
 ---
 
 ## Salih Paşa Çeşmesi, Cibali

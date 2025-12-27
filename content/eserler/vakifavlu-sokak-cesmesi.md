@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5238419,40.9821892"
 draft: false
+
+weight: 100
 ---
 
 ## Vakıfavlı Sokak Çeşmesi

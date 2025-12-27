@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.96001348,41.021685572"
 draft: false
+
+weight: 100
 ---
 
 ## Azeb Baba Kabri: Fatih'in Gizli Anıtı

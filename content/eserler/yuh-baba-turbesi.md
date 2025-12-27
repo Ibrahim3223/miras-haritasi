@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.498013,37.865516"
 draft: false
+
+weight: 100
 ---
 
 ## Yuh Baba Türbesi: Konya'da Bir Kültürel Miras

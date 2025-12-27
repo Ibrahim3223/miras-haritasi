@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.473954,40.8252"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Şeyh Camii: İkizdere'nin Tarihi Zirvesi

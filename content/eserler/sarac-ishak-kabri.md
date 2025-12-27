@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9639282,41.0071411"
 draft: false
+
+weight: 100
 ---
 
 ## Saraç İshak Kabri: İstanbul'un Tarihçe ve Kültürel Mirası

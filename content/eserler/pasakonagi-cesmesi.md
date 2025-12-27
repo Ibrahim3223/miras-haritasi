@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0451412,40.1874619"
 draft: false
+
+weight: 100
 ---
 
 ## Paşakonağı Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası

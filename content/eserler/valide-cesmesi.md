@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.99839,41.04314"
 draft: false
+
+weight: 10
 ---
 
 ## Valide Çeşmesi

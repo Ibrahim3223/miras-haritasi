@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9379997,41.0242462"
 draft: false
+
+weight: 10
 ---
 
 ## Öküz Mehmed Paşa Çeşmesi

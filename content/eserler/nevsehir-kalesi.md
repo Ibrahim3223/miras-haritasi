@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.7130512,38.6199022"
 draft: false
+
+weight: 10
 ---
 
 ### Nevşehir Kalesi: Tarihî Bir Miras

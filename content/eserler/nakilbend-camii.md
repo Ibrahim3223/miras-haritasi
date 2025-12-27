@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.974805555,41.003972222"
 draft: false
+
+weight: 10
 ---
 
 ## Nakilbend Camii: İstanbul'un Tarihi ve Kültürel Mirası

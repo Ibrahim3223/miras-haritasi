@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.067341,41.082687"
 draft: false
+
+weight: 100
 ---
 
 # Kanije Sokağı Çeşmesi

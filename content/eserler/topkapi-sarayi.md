@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.984,41.013"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı: İstanbul'un En Büyük Tarihi Eseri

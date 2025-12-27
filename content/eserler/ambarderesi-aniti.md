@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.1645813,37.4015732"
 draft: false
+
+weight: 100
 ---
 
 # Ambarderesi Anıtı

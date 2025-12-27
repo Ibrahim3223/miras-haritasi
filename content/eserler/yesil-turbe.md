@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.07472222,40.18138889"
 draft: false
+
+weight: 10
 ---
 
 ## Yeşil Türbe: Bursa'nın Kültürel Mirası

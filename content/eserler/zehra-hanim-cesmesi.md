@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.928976,41.044149"
 draft: false
+
+weight: 100
 ---
 
 ## Zehra Hanım Çeşmesi

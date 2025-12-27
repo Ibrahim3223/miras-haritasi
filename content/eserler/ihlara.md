@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.306111111,38.240833333"
 draft: false
+
+weight: 10
 ---
 
 ## Ihlara: Kutsal Bir Yer, Eski Bir Dünya

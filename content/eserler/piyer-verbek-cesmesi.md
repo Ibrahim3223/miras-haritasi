@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1560097,38.4380302"
 draft: false
+
+weight: 100
 ---
 
 ## Piyer Verbek Çeşmesi

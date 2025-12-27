@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9692993,38.2289009"
 draft: false
+
+weight: 100
 ---
 
 ### Gürcüzade Camii: İzmir'in Zümrüt Vadi'ndeki Tarihî Bir Anıtı

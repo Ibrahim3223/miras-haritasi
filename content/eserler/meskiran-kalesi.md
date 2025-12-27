@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.8349991,38.6180153"
 draft: false
+
+weight: 100
 ---
 
 ## Meşkıran Kalesi: Kayseri'nin Gizli Çağı

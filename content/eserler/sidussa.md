@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.51564,38.65944"
 draft: false
+
+weight: 100
 ---
 
 # Sidussa: Anadolu'nun Gizemli Arkeolojik Sitleri

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.5329437,36.9502869"
 draft: false
+
+weight: 100
 ---
 
 ## Sazak Köprüsü: Konya'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9737546,41.016329"
 draft: false
+
+weight: 10
 ---
 
 ## Dersaadet Kütüphanesi

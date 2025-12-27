@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.4909248,38.7211266"
 draft: false
+
+weight: 10
 ---
 
 ## Hunat Hatun Medresesi

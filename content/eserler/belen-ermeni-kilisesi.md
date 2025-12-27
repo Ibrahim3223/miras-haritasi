@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.1947479,36.4921722"
 draft: false
+
+weight: 100
 ---
 
 ### Belen Ermeni Kilisesi

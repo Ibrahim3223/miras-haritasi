@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.4924393,38.7199898"
 draft: false
+
+weight: 100
 ---
 
 ## Seraceddin Medresesi

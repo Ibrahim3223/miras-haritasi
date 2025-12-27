@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.733333333,38.088333333"
 draft: false
+
+weight: 10
 ---
 
 ## Lütfü Paşa Camii: Türkiye'nin İnci

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.890584002,37.537150938"
 draft: false
+
+weight: 100
 ---
 
 ## Ayn Meydan Çeşmesi: Mardin'in Tarihi ve Kültürel Mirası

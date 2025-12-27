@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.3039431,39.50307"
 draft: false
+
+weight: 100
 ---
 
 ## Bozhöyük, Sarıkaya: Yozgat'ın Gizli Örenleri

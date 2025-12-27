@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0669327,41.0827408"
 draft: false
+
+weight: 100
 ---
 
 ## Duvar Çeşmesi, Anadoluhisarı

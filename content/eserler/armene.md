@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.041878,42.049231"
 draft: false
+
+weight: 100
 ---
 
 ## Armene: Sinop'un Gizli Harikası

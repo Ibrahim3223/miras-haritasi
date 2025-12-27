@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.131305555,41.051444444"
 draft: false
+
+weight: 100
 ---
 
 ## Meredisi Kilisesi: Gölebakan'daki Bir Geçmişin Mirası

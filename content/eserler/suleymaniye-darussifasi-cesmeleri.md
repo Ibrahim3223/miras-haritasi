@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961517008,41.016316691"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Darüşşifası Çeşmeleri

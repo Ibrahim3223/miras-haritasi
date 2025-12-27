@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.287117708,40.934315293"
 draft: false
+
+weight: 100
 ---
 
 # İnecik Köprüsü

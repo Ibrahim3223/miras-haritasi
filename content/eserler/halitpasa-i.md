@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.708367,38.692683"
 draft: false
+
+weight: 100
 ---
 
 # Halitpaşa I: Tarihinin ve Kültürünün Güzelliği

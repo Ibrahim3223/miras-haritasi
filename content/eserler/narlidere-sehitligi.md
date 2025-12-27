@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.997222222,38.396388888"
 draft: false
+
+weight: 10
 ---
 
 ## Narlıdere Şehitliği: İzmir'in Anıtı

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.227327,40.2610525"
 draft: false
+
+weight: 10
 ---
 
 **Meydan (Çarşı) Hamamı**

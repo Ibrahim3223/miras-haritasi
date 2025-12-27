@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.7254124,37.7067108"
 draft: false
+
+weight: 100
 ---
 
 ### Aphrodisias Tiyatro Hamamı

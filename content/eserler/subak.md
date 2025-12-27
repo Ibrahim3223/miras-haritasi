@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.361167,39.357333"
 draft: false
+
+weight: 100
 ---
 
 ## Subak: Emet'teki Antik Kentin Gizemi

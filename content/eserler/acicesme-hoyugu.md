@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6967316,38.8829994"
 draft: false
+
+weight: 100
 ---
 
 ### Acıçeşme Höyüğü: Türkiye'nin Gizli Kahramanı

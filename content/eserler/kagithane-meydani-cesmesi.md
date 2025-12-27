@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972184,41.080517"
 draft: false
+
+weight: 100
 ---
 
 ## Kağıthane Meydanı Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi

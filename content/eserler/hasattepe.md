@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5618,37.8765984"
 draft: false
+
+weight: 100
 ---
 
 ### Haşattepe: Aydın'ın Gizli Arkeolojik Harikası

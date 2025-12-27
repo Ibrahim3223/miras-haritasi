@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.375735,41.276129"
 draft: false
+
+weight: 10
 ---
 
 # Çifteköprü, Arhavi: Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0749016,40.1791153"
 draft: false
+
+weight: 100
 ---
 
 ### Fethullah Dede Türbesi

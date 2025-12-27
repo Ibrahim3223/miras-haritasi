@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1130104,40.8614197"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Konstantinos Ayazması: Büyükada'nın Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.226824,37.662456"
 draft: false
+
+weight: 100
 ---
 
 ## Cybistra Arkeolojik Sit

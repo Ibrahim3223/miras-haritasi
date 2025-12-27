@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.131811,40.918692"
 draft: false
+
+weight: 100
 ---
 
 ## Nassete Arkeolojik Sitesi

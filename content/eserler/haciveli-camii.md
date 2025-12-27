@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.048129295,41.979847033"
 draft: false
+
+weight: 100
 ---
 
 ## Hacıveli Camii: Kastamonu'nun Tarihi ve Kültürel Mirası

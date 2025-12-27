@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8613052,40.2994576"
 draft: false
+
+weight: 100
 ---
 
 ## Taşpınar Höyük: Alaca, Çorum'un Gizemi

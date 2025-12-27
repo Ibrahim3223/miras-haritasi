@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4036999,38.1727982"
 draft: false
+
+weight: 100
 ---
 
 ### Gurgurtepe II Tümülüsü

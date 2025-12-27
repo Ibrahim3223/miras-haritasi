@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.622683,39.782367"
 draft: false
+
+weight: 100
 ---
 
 # Kocahöyük: Tarih ve Kültür Mirasının Gizemi

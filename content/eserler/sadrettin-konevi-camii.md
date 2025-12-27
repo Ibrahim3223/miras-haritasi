@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.482694444,37.869194444"
 draft: false
+
+weight: 10
 ---
 
 ## Sadrettin Konevi Camii

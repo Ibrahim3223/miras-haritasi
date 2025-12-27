@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.8938,41.0199"
 draft: false
+
+weight: 10
 ---
 
 ## Otağ-ı Hümâyun: Osmanlı Döneminin Gizlenmiş İhtişamı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.4694614,37.9921646"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme – Kozdere: Aydın'ın Doğal Güzelliğini Yansıtan Bir Çeşme

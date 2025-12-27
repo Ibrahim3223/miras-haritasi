@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4473991,36.6940079"
 draft: false
+
+weight: 100
 ---
 
 ## İsmail oğlu Mehmet Çeşmesi: Tarihi ve Kültürel Mirasın Parçası

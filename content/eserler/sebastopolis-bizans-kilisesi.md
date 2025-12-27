@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.0830956,39.9980774"
 draft: false
+
+weight: 100
 ---
 
 ## Sebastopolis Bizans Kilisesi: Tokat'ın Gizli Çarpıcı

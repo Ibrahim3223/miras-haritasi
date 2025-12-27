@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0612049,40.1839714"
 draft: false
+
+weight: 100
 ---
 
 ### Vaiziye Medresesi Çarşısı: Bursa'nın Kültürel Mirasının Bir Parçası

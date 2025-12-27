@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7141533,41.0064583"
 draft: false
+
+weight: 10
 ---
 
 ## Kıroğlu Çeşmesi

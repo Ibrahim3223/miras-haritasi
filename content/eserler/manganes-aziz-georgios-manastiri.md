@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.986332,41.011812"
 draft: false
+
+weight: 100
 ---
 
 ## Manganes Aziz Georgios Manastırı

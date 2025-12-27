@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.693076,37.181505"
 draft: false
+
+weight: 100
 ---
 
 ### Kildara Arkeolojik Sit

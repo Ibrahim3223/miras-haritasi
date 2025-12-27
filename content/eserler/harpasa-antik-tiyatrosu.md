@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.351246,37.803449"
 draft: false
+
+weight: 100
 ---
 
 ## Harpasa Antik Tiyatrosu

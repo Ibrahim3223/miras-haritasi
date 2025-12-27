@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.918066196,41.000476242"
 draft: false
+
+weight: 10
 ---
 
 ## Belgradkapı Camii: İstanbul'un Farklı Bir Cepheden Tarihini Anlamak

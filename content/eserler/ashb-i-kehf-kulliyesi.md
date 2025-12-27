@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.855278,38.248333"
 draft: false
+
+weight: 10
 ---
 
 ### Ashâb-ı Kehf Külliyesi

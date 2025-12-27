@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979596,41.003225"
 draft: false
+
+weight: 10
 ---
 
 # Akbıyık Çeşmesi

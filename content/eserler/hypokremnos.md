@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.649177,38.327305"
 draft: false
+
+weight: 100
 ---
 
 ### Hypokremnos: Urla, İzmir'de Bir Keşif

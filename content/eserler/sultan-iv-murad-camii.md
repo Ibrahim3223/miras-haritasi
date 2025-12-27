@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8936081,40.8116417"
 draft: false
+
+weight: 100
 ---
 
 ### Sultan IV. Murad Camii

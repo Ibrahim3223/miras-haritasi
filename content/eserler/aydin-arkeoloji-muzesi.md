@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.8625,37.846666666"
 draft: false
+
+weight: 10
 ---
 
 ## Aydın Arkeoloji Müzesi

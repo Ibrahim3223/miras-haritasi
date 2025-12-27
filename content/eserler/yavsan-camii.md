@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.913874,40.47538"
 draft: false
+
+weight: 100
 ---
 
 # Yavşan Camii

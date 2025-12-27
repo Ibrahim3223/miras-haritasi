@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.719307,41.001107"
 draft: false
+
+weight: 100
 ---
 
 **İçkale Camii: Ortahisar'da Gizemli Bir Şehadet**

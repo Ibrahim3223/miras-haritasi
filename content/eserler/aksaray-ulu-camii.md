@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.029194444,38.373305555"
 draft: false
+
+weight: 10
 ---
 
 ### Aksaray Ulu Camii

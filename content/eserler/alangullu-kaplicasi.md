@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.6244678,37.9331703"
 draft: false
+
+weight: 100
 ---
 
 ## Alangüllü Kaplıcası: Aydın'ın Tarihi Hamamı

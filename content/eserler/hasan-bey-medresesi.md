@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "43.7973251,38.3175621"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Bey Medresesi

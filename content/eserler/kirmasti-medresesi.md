@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9582939,41.0156593"
 draft: false
+
+weight: 100
 ---
 
 ## Kirmasti Medresesi

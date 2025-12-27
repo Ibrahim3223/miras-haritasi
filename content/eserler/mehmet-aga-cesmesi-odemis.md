@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.968689,38.233078"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Çeşmesi, Ödemiş

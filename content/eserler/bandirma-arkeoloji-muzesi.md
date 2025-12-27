@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.9534779,40.3472633"
 draft: false
+
+weight: 100
 ---
 
 ### Bandırma Arkeoloji Müzesi

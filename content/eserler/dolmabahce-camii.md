@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.99528889,41.03672778"
 draft: false
+
+weight: 10
 ---
 
 ## Dolmabahçe Camii: İstanbul'un Yüzyıllık Tarihi ve Mimarisi

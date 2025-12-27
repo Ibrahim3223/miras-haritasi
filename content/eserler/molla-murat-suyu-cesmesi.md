@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.041452,41.164698"
 draft: false
+
+weight: 100
 ---
 
 # Molla Murat Suyu Çeşmesi

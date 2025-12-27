@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.3737488,41.2664795"
 draft: false
+
+weight: 100
 ---
 
 ### Toptepe Tümülüsleri: Canik'in Gizli Tarihi

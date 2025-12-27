@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "26.637914,39.327229"
 draft: false
+
+weight: 100
 ---
 
 ## Leka Panaya Manastırı

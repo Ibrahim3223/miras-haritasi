@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.17083333,36.47722222"
 draft: false
+
+weight: 10
 ---
 
 ### Paşa Türbesi: Mersin'in Tarihi ve Kültürel Mirası

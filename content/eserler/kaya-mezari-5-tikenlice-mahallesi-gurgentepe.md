@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.664022,40.776399"
 draft: false
+
+weight: 100
 ---
 
 **Kaya Mezarı 5 (Tikenlice Mahallesi) Gürgentepe**

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.236721,37.0538826"
 draft: false
+
+weight: 100
 ---
 
 ## Eklisia Kilisesi: Bodrum'un Gizli Çarpıntısı

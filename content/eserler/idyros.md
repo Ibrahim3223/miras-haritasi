@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.573333333,36.596666666"
 draft: false
+
+weight: 100
 ---
 
 ## İdyros: Antik Yunanistan'ın Gizli Harikası

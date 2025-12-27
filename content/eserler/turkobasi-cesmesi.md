@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4522171,39.8173676"
 draft: false
+
+weight: 100
 ---
 
 ## Türkobası Çeşmesi: Ankara'nın Tarihî ve Kültürel Mirasının Gizli Ceznesi

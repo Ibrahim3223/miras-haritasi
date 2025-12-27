@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.2758338,37.7768629"
 draft: false
+
+weight: 100
 ---
 
 ## Kazıktepe Höyüğü: Diyarbakır'ın Gizli Mirası

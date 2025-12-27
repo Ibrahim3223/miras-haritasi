@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.13134,38.4205551"
 draft: false
+
+weight: 100
 ---
 
 # Mısırlızade Hacı Mustafa Efendi Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.994451,36.302265"
 draft: false
+
+weight: 100
 ---
 
 ## Sabandos Arkeolojik Sit

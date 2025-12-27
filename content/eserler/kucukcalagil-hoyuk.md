@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4213541,39.641033"
 draft: false
+
+weight: 100
 ---
 
 ## Küçükçalağıl Höyük: Yozgat'ın Gizli Anıtı

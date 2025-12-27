@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7626762,37.1641426"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Cami 3: Muğla'nın Tarihi Bir Anıt

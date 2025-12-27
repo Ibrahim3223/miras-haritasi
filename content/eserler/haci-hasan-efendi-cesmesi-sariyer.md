@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.064022,41.116875"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hasan Efendi Çeşmesi: Sarıyer'in Tarihi Çeşmesi

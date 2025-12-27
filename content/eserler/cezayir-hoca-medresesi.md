@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0863781,37.7713013"
 draft: false
+
+weight: 100
 ---
 
 ## Cezayir Hoca Medresesi: Pamukkale'nin Gizli Cenneti

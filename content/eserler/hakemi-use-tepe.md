@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.7426529,37.8029175"
 draft: false
+
+weight: 100
 ---
 
 **Hakemi Use Tepe: Diyarbakır'ın Gizli Mirası**

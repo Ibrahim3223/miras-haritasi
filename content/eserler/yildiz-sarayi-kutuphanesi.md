@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Yıldız Sarayı Kütüphanesi: Osmanlı'nın Gizli Bilgi Deposu

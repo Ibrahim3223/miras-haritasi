@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9343224,41.0473022"
 draft: false
+
+weight: 100
 ---
 
 # Sokullu Mehmet Paşa Türbesi

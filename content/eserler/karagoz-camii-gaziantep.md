@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.38377,37.063385"
 draft: false
+
+weight: 100
 ---
 
 ## Karagöz Camii: Gaziantep'in Tarihi Bir Mirası

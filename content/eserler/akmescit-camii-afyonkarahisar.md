@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5348663,38.7531242"
 draft: false
+
+weight: 100
 ---
 
 ## Akmescit Camii: Afyonkarahisar'ın Tarihi Bir Öznelliği

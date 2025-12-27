@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.14222222,38.11555556"
 draft: false
+
+weight: 10
 ---
 
 ### Kolophon: İyonya'nın Gizli Şehirleri Arasındaki Bir Harika

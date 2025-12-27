@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.931,40.7628"
 draft: false
+
+weight: 10
 ---
 
 ## Pertev Paşa Camii

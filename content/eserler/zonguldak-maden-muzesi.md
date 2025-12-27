@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.798962,41.456073"
 draft: false
+
+weight: 100
 ---
 
 ## Zonguldak Maden Müzesi

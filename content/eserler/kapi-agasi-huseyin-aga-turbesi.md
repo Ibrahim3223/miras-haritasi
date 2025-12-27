@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.972351,41.002931"
 draft: false
+
+weight: 10
 ---
 
 ## Kapı Ağası Hüseyin Ağa Türbesi

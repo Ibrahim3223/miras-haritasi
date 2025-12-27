@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2917709,40.237957"
 draft: false
+
+weight: 100
 ---
 
 ## Yüzbaşı Mehmet Şehitliği: Eceabat'ın Onuruna Yapılmış Anıt

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.986896377,41.036796507"
 draft: false
+
+weight: 10
 ---
 
 ## Süngü Heykeli: Beyoğlu'ndaki Gizemli Anıt

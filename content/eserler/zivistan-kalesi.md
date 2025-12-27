@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.3111305,38.3987503"
 draft: false
+
+weight: 100
 ---
 
 ## Zivistan Kalesi: Edremit'in Hazinesi

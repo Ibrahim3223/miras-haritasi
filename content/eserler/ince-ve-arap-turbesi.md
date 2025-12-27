@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2427597,37.9153976"
 draft: false
+
+weight: 100
 ---
 
 ### İnce ve Arap Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0509777,40.1893158"
 draft: false
+
+weight: 100
 ---
 
 ## Altıparmak Camii

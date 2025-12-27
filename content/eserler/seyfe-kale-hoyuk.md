@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3550339,39.1931305"
 draft: false
+
+weight: 100
 ---
 
 ## Seyfe Kale Höyük: Tarihî ve Kültürel Mirasın Bir Parçası

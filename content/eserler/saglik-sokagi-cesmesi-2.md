@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6851044,41.2504387"
 draft: false
+
+weight: 10
 ---
 
 ## Sağlık Sokağı Çeşmesi 2: Safranbolu'nun Kültürel Mirası

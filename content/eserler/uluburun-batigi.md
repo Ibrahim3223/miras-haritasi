@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.685833333,36.128611111"
 draft: false
+
+weight: 10
 ---
 
 **Uluburun Batığı: Antik Çağın En Eski Denizcilik Örneği**

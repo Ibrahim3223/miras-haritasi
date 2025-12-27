@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.6128387,40.604538"
 draft: false
+
+weight: 100
 ---
 
 # Şeyhoğlu Camii

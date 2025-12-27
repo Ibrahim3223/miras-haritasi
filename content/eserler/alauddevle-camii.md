@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.384902491,37.063376492"
 draft: false
+
+weight: 10
 ---
 
 ### Alaüddevle Camii: Gaziantep'in Tarihi Çehresini Taçlandıran Bir Ölümsüz

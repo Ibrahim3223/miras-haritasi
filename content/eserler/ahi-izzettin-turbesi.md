@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9742813,39.4199677"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi İzzettin Türbesi: Kütahya'nın Zümrüt Mülkünün Gizemi

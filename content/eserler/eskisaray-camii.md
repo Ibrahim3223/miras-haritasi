@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.2737,37.760335"
 draft: false
+
+weight: 100
 ---
 
 ## Eskisaray Camii: Adıyaman'ın Tarihi Bir Mirası

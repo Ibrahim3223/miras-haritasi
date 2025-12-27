@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.5701,40.5052"
 draft: false
+
+weight: 10
 ---
 
 ## Menuçihr Camii: Kars'ın Tarihi Mirasını Yeniden Yaşamlandırır

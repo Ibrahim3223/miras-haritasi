@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.965774267,41.010772946"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Müzesi Kütüphanesi: İstanbul'un Gizli Kitap Odası

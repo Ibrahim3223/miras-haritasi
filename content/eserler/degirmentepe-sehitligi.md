@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3445206,40.3328972"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmentepe Şehitliği

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.468883,40.86355"
 draft: false
+
+weight: 100
 ---
 
 ## Kayabaşı Köprüsü

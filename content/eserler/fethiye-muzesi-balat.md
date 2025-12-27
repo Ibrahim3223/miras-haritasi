@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946346,41.029063"
 draft: false
+
+weight: 100
 ---
 
 ## Fethiye Müzesi, Balat

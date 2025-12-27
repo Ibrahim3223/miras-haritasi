@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1747684,39.1220856"
 draft: false
+
+weight: 10
 ---
 
 ## Viran Kapı, Bergama

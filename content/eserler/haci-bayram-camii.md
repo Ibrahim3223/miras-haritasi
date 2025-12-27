@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.85777778,39.94444444"
 draft: false
+
+weight: 10
 ---
 
 **Hacı Bayram Camii: Ankara'nın Gizli İhtişamı**

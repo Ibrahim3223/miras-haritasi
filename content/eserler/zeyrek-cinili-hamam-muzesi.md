@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.956442926,41.018264635"
 draft: false
+
+weight: 100
 ---
 
 **Zeyrek Çinili Hamam Müzesi**

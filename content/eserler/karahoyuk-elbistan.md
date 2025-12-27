@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1136766,38.2622885"
 draft: false
+
+weight: 100
 ---
 
 # Karahöyük, Elbistan: Tarihçenin Gözüyle Bir Arkeolojik Sit

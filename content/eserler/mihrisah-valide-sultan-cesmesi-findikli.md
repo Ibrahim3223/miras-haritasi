@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9902496,41.0334396"
 draft: false
+
+weight: 100
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Fındıklı

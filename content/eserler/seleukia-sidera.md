@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.6179,37.9"
 draft: false
+
+weight: 100
 ---
 
 ## Seleukia Sidera: Isparta'nın Ölümsüz Mirası

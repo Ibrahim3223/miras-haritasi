@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.566723,39.093811"
 draft: false
+
+weight: 100
 ---
 
 ### Kale Höyük: Kayseri'nin Tarihî Mirası

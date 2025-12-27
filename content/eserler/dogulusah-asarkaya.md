@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.1817493,39.5398064"
 draft: false
+
+weight: 100
 ---
 
 ## Doğuluşah Asarkaya: Kütahya'nın Gizli Kahramanı

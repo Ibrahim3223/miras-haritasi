@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.802266178,39.654426557"
 draft: false
+
+weight: 100
 ---
 
 ### Yağlıpınar Camii: Gölbaşı'ndaki Bir Önemli Cami

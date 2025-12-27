@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.551388888,41.662222222"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Adil Bey Çeşmesi

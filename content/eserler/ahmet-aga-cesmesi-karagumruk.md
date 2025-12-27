@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.933913927,41.026865687"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Ağa Çeşmesi (Karagümrük)

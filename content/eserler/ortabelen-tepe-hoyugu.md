@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7248955,37.3507233"
 draft: false
+
+weight: 100
 ---
 
 ### Ortabelen Tepe Höyüğü: Milas'ın Gizli İncisi

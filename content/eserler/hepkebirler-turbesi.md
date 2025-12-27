@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7730249,41.374836"
 draft: false
+
+weight: 100
 ---
 
 ## Hepkebirler Türbesi: Kastamonu'nun Gizli Cenneti

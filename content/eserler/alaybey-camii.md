@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4389019,38.614254"
 draft: false
+
+weight: 100
 ---
 
 ## Alaybey Camii: Manisa'nın Tarihi ve Kültürel Mirası

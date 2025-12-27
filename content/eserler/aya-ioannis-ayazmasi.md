@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0509319,41.1380463"
 draft: false
+
+weight: 100
 ---
 
 ## Aya İoannis Ayazması: Sarıyer'in Gizli Çeşmesi

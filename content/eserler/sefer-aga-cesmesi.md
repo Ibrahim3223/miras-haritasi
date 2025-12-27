@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961196,41.013425"
 draft: false
+
+weight: 10
 ---
 
 Sefer Ağa Çeşmesi

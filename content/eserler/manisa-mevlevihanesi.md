@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.439916666,38.608416666"
 draft: false
+
+weight: 100
 ---
 
 ## Manisa Mevlevihanesi

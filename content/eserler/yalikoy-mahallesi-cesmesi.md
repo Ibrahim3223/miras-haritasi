@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.298962,40.932157"
 draft: false
+
+weight: 100
 ---
 
 ## Yalıköy Mahallesi Çeşmesi

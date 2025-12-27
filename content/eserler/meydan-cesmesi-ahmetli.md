@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3557167,38.0828094"
 draft: false
+
+weight: 100
 ---
 
 ## Meydan Çeşmesi: Torbalı'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.194519,40.2160378"
 draft: false
+
+weight: 100
 ---
 
 ## Gürsu Orta Cami

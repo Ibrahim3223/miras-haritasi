@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.279722222,37.529722222"
 draft: false
+
+weight: 10
 ---
 
 # Kuzey Agora (Milet)

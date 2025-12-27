@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.116833333,38.461083333"
 draft: false
+
+weight: 10
 ---
 
 ## Zübeyde Hanım Anıt Mezarı

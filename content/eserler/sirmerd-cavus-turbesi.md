@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9487674,41.0101162"
 draft: false
+
+weight: 100
 ---
 
 # Şirmerd Çavuş Türbesi

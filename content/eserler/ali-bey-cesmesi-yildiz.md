@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.006844,41.04874"
 draft: false
+
+weight: 10
 ---
 
 **Ali Bey Çeşmesi, Yıldız**

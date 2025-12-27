@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.36638889,36.6475"
 draft: false
+
+weight: 100
 ---
 
 ## Kitanaura Arkeolojik Sit

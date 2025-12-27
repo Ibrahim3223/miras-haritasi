@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8171,38.9758"
 draft: false
+
+weight: 100
 ---
 
 ## Pityaia Arkeolojik Sit

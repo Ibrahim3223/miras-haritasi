@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.859363,39.289458"
 draft: false
+
+weight: 100
 ---
 
 ## İsimsiz Türbe: Ayvalık'ta Gizemli Bir Anıt

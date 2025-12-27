@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.856205,39.9435463"
 draft: false
+
+weight: 100
 ---
 
 ### Hasan Paşa Hamamı

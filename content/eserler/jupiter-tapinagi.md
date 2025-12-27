@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.93,36.37583333"
 draft: false
+
+weight: 10
 ---
 
 # Jüpiter Tapınağı: Silifke'nin Kahramanı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5730076,41.3699226"
 draft: false
+
+weight: 100
 ---
 
 ## Akçaköy Tümülüsü 1: Lüleburgaz'da Bir Antik Miras

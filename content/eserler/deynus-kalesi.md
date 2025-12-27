@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.724411,37.5354347"
 draft: false
+
+weight: 100
 ---
 
 # Deynus Kalesi: Yeşilova'nın Gizli Mührü

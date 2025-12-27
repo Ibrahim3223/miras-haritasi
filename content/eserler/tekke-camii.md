@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.104447,36.917399"
 draft: false
+
+weight: 100
 ---
 
 ## Tekke Camii: Serik'in Tarihi ve Kültürel Mirası

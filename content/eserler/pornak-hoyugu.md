@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.3790743,37.7968755"
 draft: false
+
+weight: 100
 ---
 
 ## Pornak Höyüğü: Diyarbakır'ın Gizli Hazinesi

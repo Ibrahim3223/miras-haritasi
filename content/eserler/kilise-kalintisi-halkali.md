@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.7856007,41.028801"
 draft: false
+
+weight: 100
 ---
 
 ## Kilise Kalıntısı, Halkalı

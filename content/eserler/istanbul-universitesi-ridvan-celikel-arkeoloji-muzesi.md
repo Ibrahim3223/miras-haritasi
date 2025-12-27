@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.959835,41.009536"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Üniversitesi Rıdvan Çelikel Arkeoloji Müzesi

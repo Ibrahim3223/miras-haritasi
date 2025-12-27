@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3747864,37.0334015"
 draft: false
+
+weight: 100
 ---
 
 ## Bodrum'un Gizli Değerleri: Gara Kilisesi

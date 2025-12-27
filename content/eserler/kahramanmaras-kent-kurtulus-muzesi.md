@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.92583333,37.58666667"
 draft: false
+
+weight: 10
 ---
 
 ### Kahramanmaraş Kent Kurtuluş Müzesi

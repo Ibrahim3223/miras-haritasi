@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968638888,41.025388888"
 draft: false
+
+weight: 10
 ---
 
 ### Saliha Sultan Çeşmesi

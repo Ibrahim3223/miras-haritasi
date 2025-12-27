@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.5807,39.3615"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarya Viyadüğü: Tarihi ve Kültür Mirası

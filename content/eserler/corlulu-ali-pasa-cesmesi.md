@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9689789,41.0408821"
 draft: false
+
+weight: 100
 ---
 
 # Çorlulu Ali Paşa Çeşmesi

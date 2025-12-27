@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.700780312,41.401472251"
 draft: false
+
+weight: 100
 ---
 
 ## Kocahöyük II Tümülüsü: Tekirdağ'ın Gizemi

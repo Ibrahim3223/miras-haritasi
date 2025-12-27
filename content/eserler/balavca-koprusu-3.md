@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7838516,37.3128433"
 draft: false
+
+weight: 100
 ---
 
 ## Balavca Köprüsü 3: Geçmişi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "30.7059,36.887"
 draft: false
+
+weight: 10
 ---
 
 **Antalya Saat Kulesi**

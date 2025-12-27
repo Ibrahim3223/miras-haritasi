@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3433,37.9417"
 draft: false
+
+weight: 10
 ---
 
 ### Ephesus Arkeolojik Sitesi

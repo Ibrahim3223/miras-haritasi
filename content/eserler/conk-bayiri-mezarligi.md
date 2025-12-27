@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.30884,40.25189"
 draft: false
+
+weight: 10
 ---
 
 ## Conk Bayırı Mezarlığı

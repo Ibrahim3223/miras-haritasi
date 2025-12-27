@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.028083333,40.990305555"
 draft: false
+
+weight: 10
 ---
 
 ## Kayışdağı Suyu Çeşmesi (Osmanağa): Kadıköy'un Şirin Çeşmesi

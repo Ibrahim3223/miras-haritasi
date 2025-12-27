@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.557001,41.728431"
 draft: false
+
+weight: 100
 ---
 
 ### Köprübaşı Arkeolojik Sit

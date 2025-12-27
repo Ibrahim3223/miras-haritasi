@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4190102,41.7656441"
 draft: false
+
+weight: 100
 ---
 
 ### Üsküp Laka Tepe Tümülüsü: Kırklareli'nin Gizli Kahramanları

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.795936111,39.008777777"
 draft: false
+
+weight: 100
 ---
 
 ## Kalem Adası Kalıntıları, Bademli: Dikili, İzmir

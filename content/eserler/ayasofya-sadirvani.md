@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978989,41.008297"
 draft: false
+
+weight: 1
 ---
 
 ### Ayasofya Şadırvanı

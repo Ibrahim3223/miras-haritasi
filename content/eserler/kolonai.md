@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.16333333,39.68972222"
 draft: false
+
+weight: 100
 ---
 
 ## Kolonai: Tarihî Mirasın Gizemli Kalıntıları

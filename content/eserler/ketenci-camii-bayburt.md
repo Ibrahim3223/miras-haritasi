@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2245255,40.2658081"
 draft: false
+
+weight: 100
 ---
 
 ### Ketenci Camii, Bayburt

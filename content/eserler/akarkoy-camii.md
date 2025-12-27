@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8371887,37.2503662"
 draft: false
+
+weight: 100
 ---
 
 ## Akarköy Camii

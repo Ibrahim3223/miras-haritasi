@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8696976,39.9385681"
 draft: false
+
+weight: 100
 ---
 
 ## Direkli Camii

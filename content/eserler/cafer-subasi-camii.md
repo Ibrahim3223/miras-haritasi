@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9504128,41.0283928"
 draft: false
+
+weight: 100
 ---
 
 ## Cafer Subaşı Camii: Balat'ta Bir Keşif

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.350916666,41.408833333"
 draft: false
+
+weight: 10
 ---
 
 ## Zafer Çeşmesi: Lüleburgaz'un Tarihi Bir Çeşmesi

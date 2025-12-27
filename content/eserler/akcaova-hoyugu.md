@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.2572241,39.6295863"
 draft: false
+
+weight: 100
 ---
 
 ### Akçaova Höyüğü: Ankara'nın Gizli Mirası

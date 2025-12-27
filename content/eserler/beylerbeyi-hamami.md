@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.045944444,41.044944444"
 draft: false
+
+weight: 10
 ---
 
 ## Beylerbeyi Hamamı

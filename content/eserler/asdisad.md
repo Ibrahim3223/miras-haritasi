@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.45111111,38.97222222"
 draft: false
+
+weight: 100
 ---
 
 ## Aşdişad Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.874233,41.09515"
 draft: false
+
+weight: 100
 ---
 
 ## Derinsu Köyü Köprüsü

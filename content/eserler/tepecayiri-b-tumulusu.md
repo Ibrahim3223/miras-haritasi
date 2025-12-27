@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7713642,41.560257"
 draft: false
+
+weight: 100
 ---
 
 ### Tepeçayırı B Tümülüsü

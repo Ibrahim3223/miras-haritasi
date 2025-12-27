@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.3924999,37.7340012"
 draft: false
+
+weight: 100
 ---
 
 ## Asar Kale, Yazıkent: Aydın'ın Gizli Şehri

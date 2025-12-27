@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.31682,41.997734"
 draft: false
+
+weight: 100
 ---
 
 # Timolaeum: Antik Dönemin Gizemi

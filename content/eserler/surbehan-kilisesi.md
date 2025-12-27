@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.483888888,38.979444444"
 draft: false
+
+weight: 10
 ---
 
 **Surbehan Kilisesi: Tunceli'nin Gizli Cenneti**

@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "27.433489659,38.615331594"
 draft: false
+
+weight: 10
 ---
 
 ## Manisa Sarayı

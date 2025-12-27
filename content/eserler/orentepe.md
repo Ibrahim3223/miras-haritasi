@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.41665,39.3287"
 draft: false
+
+weight: 100
 ---
 
 ## Örentepe Arkeolojik Sit

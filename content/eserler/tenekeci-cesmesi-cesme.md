@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3356686,38.318367"
 draft: false
+
+weight: 100
 ---
 
 ## Tenekeci Çeşmesi: Çeşme'nin Tarihi ve Güzel Çeşmesi

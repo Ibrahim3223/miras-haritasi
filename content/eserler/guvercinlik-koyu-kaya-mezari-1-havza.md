@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.825734,41.037901"
 draft: false
+
+weight: 100
 ---
 
 **Güvercinlik Köyü Kaya Mezarı 1, Havza**

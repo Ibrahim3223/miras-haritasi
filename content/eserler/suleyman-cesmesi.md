@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2815132,37.0135117"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Çeşmesi: Bodrum'un Efsanevi Çeşmesi

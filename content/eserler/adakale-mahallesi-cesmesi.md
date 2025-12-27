@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4253731,38.6074142"
 draft: false
+
+weight: 100
 ---
 
 # Adakale Mahallesi Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası

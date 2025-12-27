@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.9349613,38.9332733"
 draft: false
+
+weight: 100
 ---
 
 ### Çakırağa Sokak Çeşmesi: Dikili'nin Gizli Çeşmesi

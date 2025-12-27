@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.258007,40.9020691"
 draft: false
+
+weight: 10
 ---
 
 ## Veli Baba Türbesi: Pendik'te Tarih ve Kültür

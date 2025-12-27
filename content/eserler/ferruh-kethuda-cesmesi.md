@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.945479,41.034592"
 draft: false
+
+weight: 10
 ---
 
 ## Ferruh Kethüda Çeşmesi: Fatih'in Gizli Çeşmesi

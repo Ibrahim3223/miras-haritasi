@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.764805555,41.577194444"
 draft: false
+
+weight: 10
 ---
 
 ## Ferhat Bey Hamamı: Kırklareli'nin Tarihî Mirası

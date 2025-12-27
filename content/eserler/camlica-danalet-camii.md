@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.6532575,40.9801037"
 draft: false
+
+weight: 100
 ---
 
 ### Çamlıca Danalet Camii

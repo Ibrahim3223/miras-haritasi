@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.1305451,38.3832658"
 draft: false
+
+weight: 100
 ---
 
 ## Gücünkaya Höyük: Aksaray'ın Gizli Kahramanları

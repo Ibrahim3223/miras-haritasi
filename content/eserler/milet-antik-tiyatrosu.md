@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.27574,37.53059"
 draft: false
+
+weight: 10
 ---
 
 ### Milet Antik Tiyatrosu: Tarih, Kültür ve Miras

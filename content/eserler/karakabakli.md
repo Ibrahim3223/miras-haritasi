@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0167,36.4333"
 draft: false
+
+weight: 10
 ---
 
 ### Karakabaklı Arkeolojik Sit

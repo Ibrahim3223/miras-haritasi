@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2811089,39.9025154"
 draft: false
+
+weight: 100
 ---
 
 ## Tahta Camii: Erzurum'un Gizli Çehresini Kapsayan Tarihi Bir Çanak

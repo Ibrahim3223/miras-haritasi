@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.2147675,41.6087685"
 draft: false
+
+weight: 100
 ---
 
 ## Hamamdere Köprüsü

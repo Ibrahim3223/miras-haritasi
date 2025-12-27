@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2719901,39.6650335"
 draft: false
+
+weight: 100
 ---
 
 ## Göğyer Höyük: Çiçekdağı'nın Gizli Harikası

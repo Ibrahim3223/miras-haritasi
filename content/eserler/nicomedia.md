@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9175,40.7625"
 draft: false
+
+weight: 10
 ---
 
 ### Nicomedia: Tarih ve Kültür Mirası

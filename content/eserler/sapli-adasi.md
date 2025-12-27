@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4092,37.410283"
 draft: false
+
+weight: 100
 ---
 
 ## Saplı Adası Arkeolojik Sit

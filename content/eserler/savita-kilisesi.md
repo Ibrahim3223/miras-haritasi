@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.9334602,37.6651154"
 draft: false
+
+weight: 100
 ---
 
 ### Şavita Kilisesi

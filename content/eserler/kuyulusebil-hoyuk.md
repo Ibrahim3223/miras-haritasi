@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.527813,38.653244"
 draft: false
+
+weight: 100
 ---
 
 ## Kuyulusebil Höyük

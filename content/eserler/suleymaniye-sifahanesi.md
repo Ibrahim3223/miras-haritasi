@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9617902,41.0162715"
 draft: false
+
+weight: 1
 ---
 
 ### Süleymaniye Şifahanesi: İstanbul'un Gizli Cenneti

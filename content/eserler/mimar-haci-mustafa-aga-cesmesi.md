@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.940933,41.037034"
 draft: false
+
+weight: 10
 ---
 
 ## Mimar Hacı Mustafa Ağa Çeşmesi

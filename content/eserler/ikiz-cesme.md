@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5178261,37.8816223"
 draft: false
+
+weight: 100
 ---
 
 ### İkiz Çeşme

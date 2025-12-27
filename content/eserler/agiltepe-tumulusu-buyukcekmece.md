@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.4139996,41.0754013"
 draft: false
+
+weight: 100
 ---
 
 ## Ağıltepe Tümülüsü: Büyükçekmece'nin Gizemli Arkeolojik Mirası

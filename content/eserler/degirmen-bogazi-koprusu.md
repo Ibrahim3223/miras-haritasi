@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.966032399,39.69724454"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmen Boğazı Köprüsü

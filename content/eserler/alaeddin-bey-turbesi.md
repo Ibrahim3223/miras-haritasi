@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.208138888,37.181"
 draft: false
+
+weight: 10
 ---
 
 ## Alaeddin Bey Türbesi

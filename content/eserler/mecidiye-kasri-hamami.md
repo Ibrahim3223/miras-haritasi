@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.080311528,41.138311147"
 draft: false
+
+weight: 100
 ---
 
 ## Mecidiye Kasrı Hamamı

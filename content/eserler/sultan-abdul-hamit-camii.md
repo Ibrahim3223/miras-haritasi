@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.016657481,40.790119612"
 draft: false
+
+weight: 10
 ---
 
 **Sultan Abdul Hamit Camii: Akkuş'un Tarihî Bir Mirası**

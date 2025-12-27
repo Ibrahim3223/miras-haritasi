@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.5957413,37.5408478"
 draft: false
+
+weight: 100
 ---
 
 # Gövezlitepe Höyük: Karaman'ın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8751087,40.9788284"
 draft: false
+
+weight: 10
 ---
 
 ## Çarşı Camii: Bakırköy'ün Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0593243,40.1842575"
 draft: false
+
+weight: 100
 ---
 
 ### Gazi Demirtaş Mescidi, Bursa

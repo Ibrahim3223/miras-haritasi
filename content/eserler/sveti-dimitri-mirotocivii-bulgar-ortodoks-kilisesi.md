@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9738007,41.0487518"
 draft: false
+
+weight: 100
 ---
 
 ## Sveti Dimitri Mirotoçivii Bulgar Ortodoks Kilisesi

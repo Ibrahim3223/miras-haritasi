@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3176498,36.2686005"
 draft: false
+
+weight: 100
 ---
 
 ## Markia Anıt Mezarı

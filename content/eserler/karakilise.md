@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.3163013,40.6684456"
 draft: false
+
+weight: 100
 ---
 
 ## Karakilise: Yalova'da Bir Bizans Dönemi Hamamı

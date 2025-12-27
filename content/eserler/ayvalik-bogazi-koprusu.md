@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.4103,39.2038"
 draft: false
+
+weight: 100
 ---
 
 # Ayvalık Boğazı Köprüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.991911,41.033221"
 draft: false
+
+weight: 10
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi: İstanbul'un Gizli Çeşmesi

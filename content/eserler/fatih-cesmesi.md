@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4207478,38.6087112"
 draft: false
+
+weight: 100
 ---
 
 ## Fatih Çeşmesi: Manisa'nın Tarihi Bir Mirası

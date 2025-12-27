@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5710659,41.705307"
 draft: false
+
+weight: 100
 ---
 
 ## Akören Topraklıtepe Tümülüsü: Türkiye'nin Gizli Hazinesi

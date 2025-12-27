@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.383816054,41.021365807"
 draft: false
+
+weight: 100
 ---
 
 ### Sarayköy Camii: Rize'nin Gizli Cenneti

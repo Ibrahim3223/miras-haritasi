@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.935141,41.027119"
 draft: false
+
+weight: 100
 ---
 
 ## Kamil Paşa Çeşmeleri

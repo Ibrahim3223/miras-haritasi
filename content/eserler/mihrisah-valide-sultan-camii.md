@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.934694444,41.048555555"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Valide Sultan Camii

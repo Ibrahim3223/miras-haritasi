@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.36111111,38.38194444"
 draft: false
+
+weight: 10
 ---
 
 ## Arslantepe: Tarihî ve Kültürel Bir Miras

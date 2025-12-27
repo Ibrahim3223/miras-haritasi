@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.897555555,36.916222222"
 draft: false
+
+weight: 10
 ---
 
 ## Yeni Hamam: Tarsus'un Tarihi ve Kültürel Mirası

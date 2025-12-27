@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.2417,37.91629"
 draft: false
+
+weight: 10
 ---
 
 ## Artuklu Sarayı

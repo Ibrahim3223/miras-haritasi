@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7310753,41.4553528"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Ahmet Camii: Cide'nin Tarihî ve Kültür Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.459166666,37.148888888"
 draft: false
+
+weight: 10
 ---
 
 ## Savranda Kalesi: Osmaniye'nin Gizli İhtişamı

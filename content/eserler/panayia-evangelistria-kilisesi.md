@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.980222222,41.042277777"
 draft: false
+
+weight: 10
 ---
 
 ## Panayia Evangelistria Kilisesi

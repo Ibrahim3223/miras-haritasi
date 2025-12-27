@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3745905,38.2719285"
 draft: false
+
+weight: 1
 ---
 
 ### Nora (Kapadokya)

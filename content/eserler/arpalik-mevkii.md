@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.677667,38.417917"
 draft: false
+
+weight: 100
 ---
 
 ### Arpalık Mevkii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.292222222,37.0475"
 draft: false
+
+weight: 10
 ---
 
 **Ramazanoğlu Camii**

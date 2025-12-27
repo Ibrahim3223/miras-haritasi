@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.102558174,39.930631962"
 draft: false
+
+weight: 100
 ---
 
 # Nakkaşzade Seyyid İbrahim Camii

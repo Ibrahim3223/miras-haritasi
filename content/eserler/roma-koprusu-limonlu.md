@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.242062,36.558323"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Limonlu

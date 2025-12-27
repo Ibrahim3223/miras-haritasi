@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.078587,40.968249"
 draft: false
+
+weight: 10
 ---
 
 ## Kâzım Karabekir Paşa Müzesi

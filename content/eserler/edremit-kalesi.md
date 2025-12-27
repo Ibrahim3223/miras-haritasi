@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.2654686,38.4202499"
 draft: false
+
+weight: 100
 ---
 
 ## Edremit Kalesi

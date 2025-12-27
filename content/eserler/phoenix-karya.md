@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.092,36.6163"
 draft: false
+
+weight: 100
 ---
 
 ## Phoenix (Karya) Arkeolojik Sit

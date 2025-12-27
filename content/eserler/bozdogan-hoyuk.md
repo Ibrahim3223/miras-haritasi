@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.0541975,40.1589327"
 draft: false
+
+weight: 100
 ---
 
 ## Bozdoğan Höyük: Çorum'un Gizli Mirası

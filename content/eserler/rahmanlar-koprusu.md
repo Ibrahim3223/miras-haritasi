@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.531332,38.1140327"
 draft: false
+
+weight: 100
 ---
 
 ## Rahmanlar Köprüsü

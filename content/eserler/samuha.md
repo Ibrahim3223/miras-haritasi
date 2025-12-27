@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.52815016,39.61967189"
 draft: false
+
+weight: 10
 ---
 
 ## Samuha: Tarihi ve Kültürel Mirasının Gizli Çehresi

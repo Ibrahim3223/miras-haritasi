@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9328442,41.0042381"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Cerrahpaşa: Fatih, İstanbul'da Bir Tarihi Çeşme

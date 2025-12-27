@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8460344,38.6387425"
 draft: false
+
+weight: 10
 ---
 
 ## Azize Catherine Şapeli: Göreme'nin Gizli Cenneti

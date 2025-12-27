@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.918139,41.042558"
 draft: false
+
+weight: 100
 ---
 
 ## Sadrazam Bahir Mustafa Paşa Çeşmesi

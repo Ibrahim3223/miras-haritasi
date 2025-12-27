@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.65809,38.49517"
 draft: false
+
+weight: 100
 ---
 
 ## Clannuda Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.178611111,36.210805555"
 draft: false
+
+weight: 100
 ---
 
 ## Haron Kabartması: Antik Çağ'ın Gizemi

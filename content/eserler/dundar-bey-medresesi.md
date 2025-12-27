@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "30.8506184,37.875"
 draft: false
+
+weight: 10
 ---
 
 ## Dündar Bey Medresesi

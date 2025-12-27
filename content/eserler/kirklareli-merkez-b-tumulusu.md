@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.228653,41.7177696"
 draft: false
+
+weight: 100
 ---
 
 ## Kırklareli Merkez B Tümülüsü: Tarih ve Kültür Mirası

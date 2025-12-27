@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971425,41.005352"
 draft: false
+
+weight: 100
 ---
 
 ## Tahsinbey Sokağı Çeşmesi: İstanbul'un Tarihî Mirası

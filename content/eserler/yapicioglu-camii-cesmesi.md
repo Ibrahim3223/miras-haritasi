@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.134552,38.4106674"
 draft: false
+
+weight: 100
 ---
 
 ### Yapıcıoğlu Camii Çeşmesi

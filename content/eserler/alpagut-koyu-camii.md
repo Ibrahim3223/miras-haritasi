@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.8166676,40.1986313"
 draft: false
+
+weight: 100
 ---
 
 ## Alpagut Köyü Camii: Bilecik'in Tarihi ve Kültürel Mirası

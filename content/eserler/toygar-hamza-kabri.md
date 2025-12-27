@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0203629,41.0237045"
 draft: false
+
+weight: 10
 ---
 
 ## Toygar Hamza Kabri: Üsküdar'ın Gizli Anıtı

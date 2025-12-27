@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3264294,37.9180984"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Camii, Nazilli

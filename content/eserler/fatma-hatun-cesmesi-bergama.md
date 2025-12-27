@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1737995,39.1183014"
 draft: false
+
+weight: 100
 ---
 
 ## Fatma Hatun Çeşmesi, Bergama

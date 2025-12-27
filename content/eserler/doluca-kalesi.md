@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.7031708,37.3956718"
 draft: false
+
+weight: 100
 ---
 
 ### Doluca Kalesi: Kahramanmaraş'taki Tarihi Bir Kale

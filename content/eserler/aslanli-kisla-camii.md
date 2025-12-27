@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5150566,37.8676872"
 draft: false
+
+weight: 100
 ---
 
 ### Aslanlı Kışla Camii: Konya'nın Gizli Cenneti

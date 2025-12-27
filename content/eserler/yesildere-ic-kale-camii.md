@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.5142136,37.1561089"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşildere İç Kale Camii: Karaman'ın Tarihi Bir Mirası

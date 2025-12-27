@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.485385,40.80778"
 draft: false
+
+weight: 100
 ---
 
 # Şimşirli Köyü Camii: Rize'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.518541336,39.349985747"
 draft: false
+
+weight: 100
 ---
 
 # Eğri Höyük

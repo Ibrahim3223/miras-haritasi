@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.5265388,41.6817703"
 draft: false
+
+weight: 100
 ---
 
 ### Ağlı Kalesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9452724,41.009285"
 draft: false
+
+weight: 100
 ---
 
 ## Haseki Sultan Çeşmesi

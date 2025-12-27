@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0002774,41.051667"
 draft: false
+
+weight: 100
 ---
 
 ## Ihlamur Kasrı Bahçe Duvarı Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.4199905,36.5520172"
 draft: false
+
+weight: 100
 ---
 
 ## Tlos Büyük Hamamı: Muğla'nın Gizli Cenneti

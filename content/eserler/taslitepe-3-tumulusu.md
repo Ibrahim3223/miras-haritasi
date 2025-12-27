@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1274872,41.9211044"
 draft: false
+
+weight: 100
 ---
 
 ## Taşlıtepe 3 Tümülüsü

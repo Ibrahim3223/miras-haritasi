@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17877222,39.11978056"
 draft: false
+
+weight: 10
 ---
 
 ## Kara Osman Sebili

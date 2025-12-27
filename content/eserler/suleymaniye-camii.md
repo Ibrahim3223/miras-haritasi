@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.963888888,41.016111111"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Camii: İstanbul'un En Güzel Camileri Arasındaki İncili

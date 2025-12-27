@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.285104,37.990797"
 draft: false
+
+weight: 100
 ---
 
 # Anabura (Pisidya)

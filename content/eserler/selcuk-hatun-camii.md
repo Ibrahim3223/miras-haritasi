@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5587616,41.6753464"
 draft: false
+
+weight: 10
 ---
 
 ## Selçuk Hatun Camii: Edirne'nin Tarihi Bir Zenginliği

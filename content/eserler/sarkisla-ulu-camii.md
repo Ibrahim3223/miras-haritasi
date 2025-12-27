@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.408055555,39.352555555"
 draft: false
+
+weight: 10
 ---
 
 **Şarkışla Ulu Camii**

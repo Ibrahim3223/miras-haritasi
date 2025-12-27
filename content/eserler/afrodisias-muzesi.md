@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.727222222,37.709444444"
 draft: false
+
+weight: 10
 ---
 
 **Afrodisias Müzesi: Aydın'ın Eski Kenti ve Kültür Mirasının Gizemi**

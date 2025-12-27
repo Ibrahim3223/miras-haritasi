@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4691,40.8772"
 draft: false
+
+weight: 100
 ---
 
 ## Piri Baba Türbesi

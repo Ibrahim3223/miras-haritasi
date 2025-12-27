@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.3919811,41.0907173"
 draft: false
+
+weight: 100
 ---
 
 ## Ortaköy Mahallesi Tümülüs

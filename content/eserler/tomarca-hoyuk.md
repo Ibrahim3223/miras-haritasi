@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.320255,39.508159"
 draft: false
+
+weight: 100
 ---
 
 ## Tomarca Höyük: Eski Şehir Kalıntıları

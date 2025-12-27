@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0577335,40.1866646"
 draft: false
+
+weight: 100
 ---
 
 ## Manastır Medresesi: Bursa'nın Gizli Çehresini Keşfetmek

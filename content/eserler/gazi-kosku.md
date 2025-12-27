@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.229198,37.895626"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Köşkü: Diyarbakır'ın Tarihi Bir Mirası

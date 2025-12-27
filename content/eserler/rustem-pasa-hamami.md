@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.7622242,38.3304901"
 draft: false
+
+weight: 100
 ---
 
 ## Rüstem Paşa Hamamı

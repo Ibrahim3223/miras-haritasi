@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.109958218,41.214422811"
 draft: false
+
+weight: 100
 ---
 
 ## Garipçe Kalesi Camii

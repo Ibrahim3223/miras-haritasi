@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.316011,37.807244"
 draft: false
+
+weight: 100
 ---
 
 ### Akçay Köprüsü

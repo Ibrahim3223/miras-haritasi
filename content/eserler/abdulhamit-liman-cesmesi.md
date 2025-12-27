@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7350502,41.0069427"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülhamit Liman Çeşmesi

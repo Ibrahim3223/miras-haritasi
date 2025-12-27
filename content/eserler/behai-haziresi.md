@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.949194,41.0212708"
 draft: false
+
+weight: 100
 ---
 
 ## Behai Haziresi: İstanbul'un Gizli Çiçeği

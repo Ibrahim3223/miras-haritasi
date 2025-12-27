@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9792461,41.0031166"
 draft: false
+
+weight: 10
 ---
 
 ## Akbıyık Hazretleri Kabri ve Haziresi

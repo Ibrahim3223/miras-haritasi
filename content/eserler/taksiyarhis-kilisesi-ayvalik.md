@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.694903,39.319725"
 draft: false
+
+weight: 10
 ---
 
 ## Taksiyarhis Kilisesi: Ayvalık'un Gizli Cenneti

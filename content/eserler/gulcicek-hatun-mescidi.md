@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0500183,40.1889687"
 draft: false
+
+weight: 100
 ---
 
 ## Gülçiçek Hatun Mescidi: Bursa'nın Gizli Cenneti

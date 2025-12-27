@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.980694444,41.035111111"
 draft: false
+
+weight: 10
 ---
 
 ## Hüseyin Ağa Camii: Beyoğlu'ndaki Bir Ünlü Cami

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.236621344,40.94690991"
 draft: false
+
+weight: 100
 ---
 
 ### Dalkoz Köyü Çeşmesi, Bayramören: Bir Örgü Çeşmesinin Gizemi

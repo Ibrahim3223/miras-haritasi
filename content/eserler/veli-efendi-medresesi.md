@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.94807,41.020021"
 draft: false
+
+weight: 100
 ---
 
 ## Veli Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

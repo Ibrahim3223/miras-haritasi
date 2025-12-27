@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0199203,38.7729568"
 draft: false
+
+weight: 100
 ---
 
 ## Balaban Paşa Camii, Aliağa

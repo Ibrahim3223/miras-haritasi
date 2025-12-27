@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.979887,41.00779"
 draft: false
+
+weight: 10
 ---
 
 ## III. Mehmed Türbesi

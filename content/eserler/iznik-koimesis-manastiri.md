@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.72444,40.42639"
 draft: false
+
+weight: 10
 ---
 
 ## İznik Koimesis Manastırı

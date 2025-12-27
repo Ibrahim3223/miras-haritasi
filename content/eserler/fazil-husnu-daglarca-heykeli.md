@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0394058,40.9794846"
 draft: false
+
+weight: 10
 ---
 
 ## Fazıl Hüsnü Dağlarca Heykeli

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.218972,37.758897"
 draft: false
+
+weight: 100
 ---
 
 ### Karateke Camii: Honaz'da Bir Tarihî Miras

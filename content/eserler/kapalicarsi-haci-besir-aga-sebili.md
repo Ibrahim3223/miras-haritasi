@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9682541,41.0115547"
 draft: false
+
+weight: 100
 ---
 
 ## Kapalıçarşı Hacı Beşir Ağa Sebili: İstanbul'un Gizli Çağrışım Merkezi

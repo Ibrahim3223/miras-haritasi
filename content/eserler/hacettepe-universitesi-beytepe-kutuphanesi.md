@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.734638888,39.870833333"
 draft: false
+
+weight: 10
 ---
 
 ## Hacettepe Üniversitesi Beytepe Kütüphanesi

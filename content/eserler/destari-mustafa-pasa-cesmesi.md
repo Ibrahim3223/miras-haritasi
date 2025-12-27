@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.961004,41.017483"
 draft: false
+
+weight: 100
 ---
 
 ## Destari Mustafa Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.821252,39.239649"
 draft: false
+
+weight: 100
 ---
 
 ## Kulapa Höyük: Eskişehir'in Gizli Hazinesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.5716629,36.2667427"
 draft: false
+
+weight: 100
 ---
 
 ## Cemil Meriç Müzesi

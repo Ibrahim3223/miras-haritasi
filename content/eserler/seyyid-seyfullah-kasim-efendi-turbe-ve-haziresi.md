@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.926996,41.0070848"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Seyfullah Kasım Efendi Türbe ve Haziresi

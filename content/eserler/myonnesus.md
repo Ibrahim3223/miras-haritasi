@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.855,38.04583333"
 draft: false
+
+weight: 100
 ---
 
 ### Myonnesus Arkeolojik Sitesi

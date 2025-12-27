@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.959923,41.011532"
 draft: false
+
+weight: 100
 ---
 
 ## Kuyucu Murat Paşa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

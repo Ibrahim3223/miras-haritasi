@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2757721,39.9041786"
 draft: false
+
+weight: 100
 ---
 
 ### Cennetzade Camii: Erzurum'un Tarihi Bir Mirası

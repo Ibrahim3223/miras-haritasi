@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.039354035,40.994819117"
 draft: false
+
+weight: 10
 ---
 
 # Hasan Paşa Camii Kayışdağı Suyu Çeşmesi

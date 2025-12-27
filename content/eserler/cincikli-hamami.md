@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.238361111,37.912861111"
 draft: false
+
+weight: 100
 ---
 
 ### Cincıklı Hamamı: Diyarbakır'ın Tarihî ve Kültürel Mirası

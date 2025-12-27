@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9461746,41.0311623"
 draft: false
+
+weight: 10
 ---
 
 ## Kalpakçı Çeşmesi

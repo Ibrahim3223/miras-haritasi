@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.539555193,39.43974974"
 draft: false
+
+weight: 100
 ---
 
 # Sivrihisar Höyüğü

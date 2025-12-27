@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.68204,36.945008"
 draft: false
+
+weight: 100
 ---
 
 ## Kirkota: Bir Arkeolojik Sitin Gizemi

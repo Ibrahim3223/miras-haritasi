@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4173794,38.6063004"
 draft: false
+
+weight: 100
 ---
 
 ## Tıngır Çeşme: Manisa'nın Tarihî Bir Çeşmesi

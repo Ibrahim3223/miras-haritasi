@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.862183949,39.934199032"
 draft: false
+
+weight: 100
 ---
 
 ## Nakşibendi Türbesi, Altındağ

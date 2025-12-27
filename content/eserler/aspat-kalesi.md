@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.317522643,36.980547199"
 draft: false
+
+weight: 100
 ---
 
 ## Aspat Kalesi: Bodrum'un Gizli Anıtı

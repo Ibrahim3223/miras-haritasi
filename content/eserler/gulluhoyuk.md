@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.808938,39.612601"
 draft: false
+
+weight: 100
 ---
 
 ## Güllühöyük: Eskişehir'in Gizli Mirası

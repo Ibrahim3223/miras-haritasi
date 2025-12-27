@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9430847,41.023159"
 draft: false
+
+weight: 100
 ---
 
 ## Altay Camii

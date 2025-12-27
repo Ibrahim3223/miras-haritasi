@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.023869,41.018265"
 draft: false
+
+weight: 100
 ---
 
 **Atik Valide Darülkurrası**

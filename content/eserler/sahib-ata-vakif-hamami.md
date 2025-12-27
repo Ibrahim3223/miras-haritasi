@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.8881207,38.2780571"
 draft: false
+
+weight: 100
 ---
 
 ## Sahib Ata Vakıf Hamamı

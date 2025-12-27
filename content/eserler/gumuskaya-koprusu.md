@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.36137,40.45958"
 draft: false
+
+weight: 100
 ---
 
 # Gümüşkaya Köprüsü: Tarihi ve Kültürel Bir Miras

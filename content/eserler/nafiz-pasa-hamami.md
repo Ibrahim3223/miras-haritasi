@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.4931068,39.7215691"
 draft: false
+
+weight: 100
 ---
 
 ## Nafiz Paşa Hamamı

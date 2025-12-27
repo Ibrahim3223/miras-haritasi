@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.86880345,37.884038024"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Stefanos Kilisesi: Eğirdir'in Gizemli Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.603109,40.238261"
 draft: false
+
+weight: 100
 ---
 
 ## Katapaspanas: Arkeolojik Sitin Gizemi

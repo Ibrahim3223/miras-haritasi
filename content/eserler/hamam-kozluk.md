@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.4862785,38.1899986"
 draft: false
+
+weight: 100
 ---
 
 ### Hamam, Kozluk: Tarihî ve Kültürel Mirasın Gizemi

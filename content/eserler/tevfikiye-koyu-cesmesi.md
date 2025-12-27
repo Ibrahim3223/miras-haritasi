@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.249112249,39.961090659"
 draft: false
+
+weight: 100
 ---
 
 ## Tevfikiye Köyü Çeşmesi: Geçmişten Bugüne Bir Çanakkale Efsanesi

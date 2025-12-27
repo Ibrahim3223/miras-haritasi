@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9615002,37.9020996"
 draft: false
+
+weight: 100
 ---
 
 # Göbektepe Tümülüsü, Sarayköy

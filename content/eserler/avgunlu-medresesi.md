@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.483295,38.7236208"
 draft: false
+
+weight: 100
 ---
 
 ## Avgunlu Medresesi

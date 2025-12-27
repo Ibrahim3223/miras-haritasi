@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.72657,41.00505"
 draft: false
+
+weight: 10
 ---
 
 # Trabzon Müzesi

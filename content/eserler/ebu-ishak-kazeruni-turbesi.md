@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2783,39.9065"
 draft: false
+
+weight: 100
 ---
 
 ## Ebu İshak Kazeruni Türbesi

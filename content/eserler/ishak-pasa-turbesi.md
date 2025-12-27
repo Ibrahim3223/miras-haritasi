@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4976845,37.8739319"
 draft: false
+
+weight: 100
 ---
 
 ## İshak Paşa Türbesi: Karatay, Konya'daki Bir Geçmiş Gizem

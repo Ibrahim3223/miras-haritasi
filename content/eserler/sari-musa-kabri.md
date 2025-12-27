@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9432278,41.0107613"
 draft: false
+
+weight: 100
 ---
 
 # Sarı Musa Kabri: İstanbul'un Gizli Anısı

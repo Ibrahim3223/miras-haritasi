@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.4383221,38.6259727"
 draft: false
+
+weight: 100
 ---
 
 ## Manisa Dioromik Mesir Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0386868,40.9801559"
 draft: false
+
+weight: 10
 ---
 
 ## Münir Nurettin Selçuk Büstü

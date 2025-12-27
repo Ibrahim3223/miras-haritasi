@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.3101006,38.3530998"
 draft: false
+
+weight: 100
 ---
 
 ## Dalyanköy Kilisesi: Çeşme'nin Gizli Cenneti

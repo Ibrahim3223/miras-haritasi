@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.816721,40.6555405"
 draft: false
+
+weight: 100
 ---
 
 ## Kocaçeşme I Köprüsü

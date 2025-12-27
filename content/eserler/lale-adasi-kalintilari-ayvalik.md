@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.695887,39.348286"
 draft: false
+
+weight: 100
 ---
 
 ## Lale Adası Kalıntıları: Ayvalık'ın Gizli Çeşmesi

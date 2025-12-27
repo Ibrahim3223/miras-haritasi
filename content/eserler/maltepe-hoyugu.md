@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3798447,38.3558006"
 draft: false
+
+weight: 100
 ---
 
 ## Maltepe Höyüğü: Battalgazi'nin Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.4923286,40.3963127"
 draft: false
+
+weight: 100
 ---
 
 **Taraklı Hamamı**

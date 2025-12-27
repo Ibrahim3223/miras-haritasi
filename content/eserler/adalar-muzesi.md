@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.12472222,40.85611111"
 draft: false
+
+weight: 10
 ---
 
 ## Adalar Müzesi: İstanbul'un Gizli Çehresini Keşfetmek

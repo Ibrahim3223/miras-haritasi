@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.433076556,38.611241924"
 draft: false
+
+weight: 100
 ---
 
 **Çeşnigir Kütüphanesi: Manisa'nın Gizli Çeşme Kütüphanesi**

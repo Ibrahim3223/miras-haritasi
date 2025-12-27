@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.615068553,40.603383345"
 draft: false
+
+weight: 100
 ---
 
 ## Güdük Minare Sokak Çeşmesi: Çankırı'nın Tarihi Bir Çeşmesi

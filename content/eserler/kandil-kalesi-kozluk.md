@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.4194221,38.2189445"
 draft: false
+
+weight: 100
 ---
 
 ### Kandil Kalesi: Batman'ın Efsanevi Kaleleri Arasındaki Bir Örnek

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.014083333,39.750027777"
 draft: false
+
+weight: 10
 ---
 
 ### Sivas Kongresi ve Atatürk Anıtı

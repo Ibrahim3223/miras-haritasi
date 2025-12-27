@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.789513888,41.274091666"
 draft: false
+
+weight: 100
 ---
 
 ## İrsa Kilisesi: Artvin'in Gizli Mücevheri

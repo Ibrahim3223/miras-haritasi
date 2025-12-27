@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.4658051,40.4617958"
 draft: false
+
+weight: 100
 ---
 
 **Taş Köprü, Gümüşhane: Tarihi ve Kültürel Mirasın Bir Örneği**

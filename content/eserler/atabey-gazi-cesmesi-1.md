@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7711372,41.3758545"
 draft: false
+
+weight: 100
 ---
 
 ## Atabey Gazi Çeşmesi 1

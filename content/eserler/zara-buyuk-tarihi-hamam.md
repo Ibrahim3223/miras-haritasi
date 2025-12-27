@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.7590262,39.8981074"
 draft: false
+
+weight: 100
 ---
 
 # Zara Büyük Tarihi Hamam: Sivas'ın Değerli Mimari Mirası

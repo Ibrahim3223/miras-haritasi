@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6725,37.96833333"
 draft: false
+
+weight: 10
 ---
 
 ## Niğde Arkeoloji Müzesi: Türkiye'nin Tarihi Efsanesini Keşfetmek

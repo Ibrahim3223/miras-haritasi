@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.85,38.75"
 draft: false
+
+weight: 100
 ---
 
 ## Silandos Arkeolojik Sit

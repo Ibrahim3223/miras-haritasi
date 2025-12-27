@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "30.559638888,36.602138888"
 draft: false
+
+weight: 10
 ---
 
 ### Kemer Saat Kulesi

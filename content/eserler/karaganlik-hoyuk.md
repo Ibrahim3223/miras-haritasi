@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9347236,39.5463333"
 draft: false
+
+weight: 100
 ---
 
 ## Karağanlık Höyük: Sivas'ın Gizli Tarihi

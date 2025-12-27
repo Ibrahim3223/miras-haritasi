@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.085055555,37.782944444"
 draft: false
+
+weight: 10
 ---
 
 ### Atatürk ve Etnografya Müzesi

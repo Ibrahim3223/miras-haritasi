@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7952001,40.7322"
 draft: false
+
+weight: 100
 ---
 
 ### Aşağı Darıca Camii

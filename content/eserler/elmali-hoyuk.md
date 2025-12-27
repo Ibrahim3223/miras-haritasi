@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.367614,36.8840041"
 draft: false
+
+weight: 100
 ---
 
 # Elmalı Höyük

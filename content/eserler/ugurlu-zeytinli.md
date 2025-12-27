@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "25.714309,40.13351"
 draft: false
+
+weight: 10
 ---
 
 ### Uğurlu / Zeytinli Arkeolojik Sit İncelemesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.371567,41.007783"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakçeşme Köprüsü

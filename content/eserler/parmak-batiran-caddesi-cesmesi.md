@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18775278,39.12419167"
 draft: false
+
+weight: 10
 ---
 
 ## Parmak Batıran Caddesi Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi

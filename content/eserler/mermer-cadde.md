@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.341519037,37.93969961"
 draft: false
+
+weight: 10
 ---
 
 ### Mermer Cadde: İzmir'in Gizli Mirası

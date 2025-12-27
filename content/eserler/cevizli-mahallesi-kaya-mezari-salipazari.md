@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.915446,41.042502"
 draft: false
+
+weight: 100
 ---
 
 ### Cevizli Mahallesi Kaya Mezarı Salıpazarı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1145,38.45475"
 draft: false
+
+weight: 10
 ---
 
 ### St. Helen Kilisesi: Karşıyaka'nın Tarihi Bir Mirası

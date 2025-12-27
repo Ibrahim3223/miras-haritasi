@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.7639542,39.8614197"
 draft: false
+
+weight: 100
 ---
 
 ## Anadolu Mimarlık ve Mobilya Kültürel Miras Müzesi

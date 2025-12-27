@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.0839691,37.0512962"
 draft: false
+
+weight: 100
 ---
 
 ### Datçağız Kalesi: Muğla'nın Tarihî Mirasının Gizemi

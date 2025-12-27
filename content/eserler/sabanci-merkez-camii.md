@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.334166666,36.991388888"
 draft: false
+
+weight: 10
 ---
 
 ## Sabancı Merkez Camii: Adana'da Bir Örnek Olan Bir Cami

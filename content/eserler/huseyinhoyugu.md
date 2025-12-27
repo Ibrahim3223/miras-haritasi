@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.2048785,38.8740226"
 draft: false
+
+weight: 100
 ---
 
 ### Hüseyinhöyüğü: Kayseri'nin Gizli Anıtı

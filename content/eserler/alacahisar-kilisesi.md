@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.9019909,36.328289"
 draft: false
+
+weight: 100
 ---
 
 ## Alacahisar Kilisesi: Demre'nin Tarihî ve Kültürel Mirası

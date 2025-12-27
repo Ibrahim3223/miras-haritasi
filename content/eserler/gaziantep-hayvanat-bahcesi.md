@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.29526944,37.03967778"
 draft: false
+
+weight: 10
 ---
 
 # Gaziantep Hayvanat Bahçesi: Türünün En Önemli Örneği

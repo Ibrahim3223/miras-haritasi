@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.2783909,37.5297279"
 draft: false
+
+weight: 100
 ---
 
 ## Milet Aziz Mihail Kilisesi ve Dionysos Tapınağı

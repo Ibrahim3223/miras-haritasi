@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.855833,39.933056"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Resim ve Heykel Müzesi

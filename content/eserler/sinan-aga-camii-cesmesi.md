@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0972919,41.1196747"
 draft: false
+
+weight: 100
 ---
 
 ## Sinan Ağa Camii Çeşmesi: Beykoz'un Tarihî Çeşmesi

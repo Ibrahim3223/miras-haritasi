@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.933314516,41.025652015"
 draft: false
+
+weight: 10
 ---
 
 ## Yakup Kethüda Çeşmesi: İstanbul'un Gizli Çeşmesi

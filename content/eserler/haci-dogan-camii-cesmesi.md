@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8566628,39.9390755"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Doğan Camii Çeşmesi: Altındağ'un Tarihi Çeşmesi

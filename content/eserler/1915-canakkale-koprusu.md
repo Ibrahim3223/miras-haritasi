@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.636694444,40.339888888"
 draft: false
+
+weight: 10
 ---
 
 ## 1915 Çanakkale Köprüsü: Gelibolu'nun Simgesi

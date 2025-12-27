@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.793245,37.1499486"
 draft: false
+
+weight: 100
 ---
 
 # Abdulkadir Erbili Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976707,41.014015"
 draft: false
+
+weight: 10
 ---
 
 ## Muradiye Sebili: İstanbul'un Tarihî Bir Çeşmesi

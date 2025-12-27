@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.77864,40.5056"
 draft: false
+
+weight: 100
 ---
 
 ## Bathys Limen: Turan'da Antik Kentin Eski Limanı

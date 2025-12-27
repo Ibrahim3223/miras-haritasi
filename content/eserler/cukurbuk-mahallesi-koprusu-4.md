@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.169143,41.088705"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurbük Mahallesi Köprüsü 4: Samsun'un Tarihî ve Kültürel Mirası

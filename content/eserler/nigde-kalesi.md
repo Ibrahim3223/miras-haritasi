@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.679611111,37.968166666"
 draft: false
+
+weight: 10
 ---
 
 ## Niğde Kalesi: Tarihî ve Kültürel Bir Miras

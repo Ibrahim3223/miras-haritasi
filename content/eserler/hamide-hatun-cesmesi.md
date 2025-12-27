@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6900291,41.2441368"
 draft: false
+
+weight: 10
 ---
 
 ## Hamide Hatun Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası

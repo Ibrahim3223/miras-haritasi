@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.6368294,37.4823418"
 draft: false
+
+weight: 100
 ---
 
 ## Köskerlik Kaya Mezarları

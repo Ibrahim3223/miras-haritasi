@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.3881607,40.9153519"
 draft: false
+
+weight: 100
 ---
 
 ## Soğuksu Camii: Giresun'un Tarihi Bir Mirası

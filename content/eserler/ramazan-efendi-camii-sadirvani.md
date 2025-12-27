@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9314175,41.0049591"
 draft: false
+
+weight: 100
 ---
 
 ## Ramazan Efendi Camii Şadırvanı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1319714,38.4216576"
 draft: false
+
+weight: 10
 ---
 
 ## Çakaloğlu Hanı Çeşmesi

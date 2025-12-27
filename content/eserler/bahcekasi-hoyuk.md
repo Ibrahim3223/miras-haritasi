@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.7350037,38.2683217"
 draft: false
+
+weight: 100
 ---
 
 ## Bahçekaşı Höyük: Ergani'nin Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.1565367,39.7899721"
 draft: false
+
+weight: 100
 ---
 
 ### Gök I Höyük: Tarihî Bir Mirasın İzleri

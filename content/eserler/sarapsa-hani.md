@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.87111111,36.58819444"
 draft: false
+
+weight: 10
 ---
 
 ## Şarapsa Hanı: Antalya'nın Tarihi ve Kültürel Mirası

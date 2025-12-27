@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.3714909,37.7697758"
 draft: false
+
+weight: 100
 ---
 
 ## Park Camii Tanıtımı

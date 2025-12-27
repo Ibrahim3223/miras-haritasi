@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.7913399,39.34589"
 draft: false
+
+weight: 100
 ---
 
 ## Kaman Kalehöyük Arkeoloji Müzesi

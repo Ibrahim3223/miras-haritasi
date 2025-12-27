@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2784767,39.9074821"
 draft: false
+
+weight: 100
 ---
 
 ## Şabahane Çeşmesi

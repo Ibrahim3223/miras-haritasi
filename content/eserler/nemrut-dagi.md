@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "42.24668,38.62257"
 draft: false
+
+weight: 1
 ---
 
 ## Nemrut Dağı: Antik Çağın Gizemi

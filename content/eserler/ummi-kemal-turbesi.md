@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.9193,40.6745"
 draft: false
+
+weight: 100
 ---
 
 ### Ümmi Kemal Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.061449,41.11348"
 draft: false
+
+weight: 10
 ---
 
 ## İstinye İskele Çeşmesi: Sarıyer'in İhtişamlı Mirası

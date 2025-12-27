@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.37753,37.06144"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Süzer Etnografya Müzesi

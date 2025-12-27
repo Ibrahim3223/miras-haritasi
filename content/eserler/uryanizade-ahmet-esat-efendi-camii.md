@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.034433369,41.039528587"
 draft: false
+
+weight: 10
 ---
 
 ## Üryanizade Ahmet Esat Efendi Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9848633,41.0301208"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Muhtar Bey İnas Numune Mektebi, Kılıç Ali Paşa

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.018194444,41.019555555"
 draft: false
+
+weight: 10
 ---
 
 ### Hayrettin Çavuş Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.6911,37.50014"
 draft: false
+
+weight: 10
 ---
 
 ## Kremna Arkeolojik Sit

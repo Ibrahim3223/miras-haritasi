@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.530042882,37.205722043"
 draft: false
+
+weight: 100
 ---
 
 ## Araköy Höyüğü: Mardin'in Gizli Mirası

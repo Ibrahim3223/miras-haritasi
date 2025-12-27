@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.155934755,38.680149168"
 draft: false
+
+weight: 100
 ---
 
 ## Basmacı Tümülüsü

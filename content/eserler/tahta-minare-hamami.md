@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.948282,41.031859"
 draft: false
+
+weight: 100
 ---
 
 ## Tahta Minare Hamamı: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.468782,40.580834"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Murad-ı Veli Türbesi

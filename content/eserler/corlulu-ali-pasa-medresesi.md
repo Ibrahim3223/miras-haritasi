@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9683514,41.009037"
 draft: false
+
+weight: 100
 ---
 
 **Çorlulu Ali Paşa Medresesi**

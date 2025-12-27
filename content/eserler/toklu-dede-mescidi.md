@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.942472222,41.039527777"
 draft: false
+
+weight: 10
 ---
 
 ## Toklu Dede Mescidi

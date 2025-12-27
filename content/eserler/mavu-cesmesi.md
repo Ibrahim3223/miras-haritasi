@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2052116,37.1813545"
 draft: false
+
+weight: 100
 ---
 
 ### Mavu Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0701523,40.1833611"
 draft: false
+
+weight: 10
 ---
 
 ### Kayhan Hamamı: Bursa'nın Tarihi Yeri

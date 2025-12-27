@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.281111111,37.529444444"
 draft: false
+
+weight: 10
 ---
 
 ## Capito Hamamları: Didim'in Gizli Cenneti

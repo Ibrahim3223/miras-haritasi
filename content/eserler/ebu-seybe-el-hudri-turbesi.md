@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9413815,41.0392647"
 draft: false
+
+weight: 10
 ---
 
 ## Ebu Şeybe El-Hudri Türbesi

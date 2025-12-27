@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.144110908,37.254788348"
 draft: false
+
+weight: 100
 ---
 
 ### Aliçerçi Köyü Çeşmesi

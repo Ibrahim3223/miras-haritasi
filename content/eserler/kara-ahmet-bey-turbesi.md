@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9880924,39.4158516"
 draft: false
+
+weight: 100
 ---
 
 ## Kara Ahmet Bey Türbesi

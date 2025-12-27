@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.18371,40.04356"
 draft: false
+
+weight: 10
 ---
 
 ## V Beach Mezarlığı: Seddülbahir'deki Savaşın Kalıntıları

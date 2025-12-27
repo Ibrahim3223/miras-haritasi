@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.4070873,38.6792526"
 draft: false
+
+weight: 100
 ---
 
 ## Buğday Pazarı Köprüsü

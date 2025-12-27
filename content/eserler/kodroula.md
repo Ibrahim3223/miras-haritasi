@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.351609,37.436975"
 draft: false
+
+weight: 100
 ---
 
 ## Kodroula: Antik Çağın Gizemi

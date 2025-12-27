@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.482730334,38.716244324"
 draft: false
+
+weight: 100
 ---
 
 **Tepecik Mescidi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası**

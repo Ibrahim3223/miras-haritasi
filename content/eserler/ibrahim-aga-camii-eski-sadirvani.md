@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0294437,41.0013885"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Ağa Camii Eski Şadırvanı: Kadıköy'de Tarihi Bir Çeşme

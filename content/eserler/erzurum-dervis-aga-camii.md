@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.278888888,39.910083333"
 draft: false
+
+weight: 10
 ---
 
 ## Erzurum Derviş Ağa Camii: Tarih, Mimarisi ve Kültür Mirası

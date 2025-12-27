@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9658,41.0159"
 draft: false
+
+weight: 10
 ---
 
 ### Dökmeciler Hamamı

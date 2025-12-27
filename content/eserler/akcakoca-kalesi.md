@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.0928,41.0861"
 draft: false
+
+weight: 10
 ---
 
 ## Akçakoca Kalesi: Düzce'nin Tarihi Mirası

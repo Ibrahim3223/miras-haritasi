@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.4875454,38.7287233"
 draft: false
+
+weight: 10
 ---
 
 ### Surp Marine Kilisesi

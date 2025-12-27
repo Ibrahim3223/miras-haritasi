@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.980175,37.0289993"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmut Paşa Hamamı: Şanlıurfa'nın Tarihi Bir Mirası

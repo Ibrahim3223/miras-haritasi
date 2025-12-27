@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9842377,36.2586899"
 draft: false
+
+weight: 10
 ---
 
 ## Myra Kaya Mezarları

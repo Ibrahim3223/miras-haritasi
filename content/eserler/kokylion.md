@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.410152,39.67291"
 draft: false
+
+weight: 100
 ---
 
 ## Kokylion: Çanakkale'nin Gizli Arkeolojik Harikası

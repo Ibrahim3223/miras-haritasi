@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9820919,41.0154572"
 draft: false
+
+weight: 100
 ---
 
 ### Botanik Bahçesi Kilise Kalıntısı

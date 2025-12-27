@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.2334385,38.4244347"
 draft: false
+
+weight: 100
 ---
 
 ### Arappınarı Köprüsü

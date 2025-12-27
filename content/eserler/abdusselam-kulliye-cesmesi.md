@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.7720805,40.9915931"
 draft: false
+
+weight: 10
 ---
 
 ## Abdüsselam Külliye Çeşmesi

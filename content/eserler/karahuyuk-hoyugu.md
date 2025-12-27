@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.3995743,37.1645046"
 draft: false
+
+weight: 100
 ---
 
 ## Karahüyük Höyüğü: Gaziantep'in Gizli Tarihi

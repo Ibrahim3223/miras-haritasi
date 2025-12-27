@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.725578,40.431462"
 draft: false
+
+weight: 100
 ---
 
 ## Davud-i Kayseri Türbesi: İznik'in Tarihsel Mirası

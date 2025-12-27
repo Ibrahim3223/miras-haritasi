@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.039044444,41.160638888"
 draft: false
+
+weight: 100
 ---
 
 ## Skarebi Kilisesi: Kotanlı, Çıldır'in Gizli Çehresini Açığa Çıkaran Tarihi Bir Kilise

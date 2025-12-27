@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.280817,39.992026"
 draft: false
+
+weight: 100
 ---
 
 ## Cevat Paşa Şehitliği: Çanakkale'nin Kahramanlığı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.955416,41.023839"
 draft: false
+
+weight: 100
 ---
 
 ## Asude Hatun Türbesi: İstanbul'un Gizli Cenneti

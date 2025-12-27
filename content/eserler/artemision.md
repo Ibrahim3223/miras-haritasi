@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.363889,37.949722"
 draft: false
+
+weight: 10
 ---
 
 ### Artemision Arkeolojik Sit

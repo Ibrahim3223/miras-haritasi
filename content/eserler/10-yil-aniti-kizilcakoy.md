@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7715282,37.8702011"
 draft: false
+
+weight: 100
 ---
 
 ## 10. Yıl Anıtı, Kızılcaköy

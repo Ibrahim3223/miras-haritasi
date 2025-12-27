@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.2586136,40.9496727"
 draft: false
+
+weight: 10
 ---
 
 ## Kilise, Aydos Kalesi

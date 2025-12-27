@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.978954,39.421706"
 draft: false
+
+weight: 100
 ---
 
 ### Kütahya Belediyesi Kent Tarihi Müzesi

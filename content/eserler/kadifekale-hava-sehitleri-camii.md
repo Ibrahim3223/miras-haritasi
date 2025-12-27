@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.143055555,38.413611111"
 draft: false
+
+weight: 10
 ---
 
 ## Kadifekale Hava Şehitleri Camii: İzmir'in Tarihi ve Dini Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4984055,37.8716125"
 draft: false
+
+weight: 10
 ---
 
 ## Ulvi Sultan Mescidi ve Türbesi

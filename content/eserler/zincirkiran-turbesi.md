@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2416,37.9132309"
 draft: false
+
+weight: 100
 ---
 
 ### Zincirkıran Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.1628494,39.1440659"
 draft: false
+
+weight: 100
 ---
 
 ## Lale Camii: Kırşehir'in Muhteşem Camii

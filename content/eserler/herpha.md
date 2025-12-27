@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.220454,38.668869"
 draft: false
+
+weight: 100
 ---
 
 ### Herpha Arkeolojik Sit

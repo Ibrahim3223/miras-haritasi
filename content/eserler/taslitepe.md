@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.280457496,37.368895245"
 draft: false
+
+weight: 100
 ---
 
 ## Taşlıtepe Arkeolojik Sit

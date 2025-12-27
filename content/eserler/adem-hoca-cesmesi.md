@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2518673,41.0732002"
 draft: false
+
+weight: 100
 ---
 
 ## Adem Hoca Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi

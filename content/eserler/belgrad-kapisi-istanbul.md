@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.92067,40.99982"
 draft: false
+
+weight: 10
 ---
 
 # Belgrad Kapısı (İstanbul)

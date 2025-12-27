@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.48685,38.723386111"
 draft: false
+
+weight: 10
 ---
 
 ## Sahabiye Medresesi

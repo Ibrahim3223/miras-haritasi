@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.129444444,38.416388888"
 draft: false
+
+weight: 10
 ---
 
 ### İzmir Milli Kütüphane: Bir Kültürel Mirasın Tanıtımı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.049999,41.133339"
 draft: false
+
+weight: 100
 ---
 
 ## Pharmakia: Antik İyonya'nın Gizemi

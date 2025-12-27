@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.1903191,37.4874153"
 draft: false
+
+weight: 100
 ---
 
 ## Tamrut Kalesi: Akdeniz Bölgesi'nin Gizli Çehresini Keşfedin

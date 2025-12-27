@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.87272,39.96545"
 draft: false
+
+weight: 10
 ---
 
 ## Feza Gürsey Bilim Merkezi: Bilim ve Kültür Mirasının Meşalesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.039255,40.979717"
 draft: false
+
+weight: 10
 ---
 
 ## Aslı Nemutlu Heykeli

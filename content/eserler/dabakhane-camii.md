@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7913399,37.148037"
 draft: false
+
+weight: 100
 ---
 
 ### Dabakhane Camii: Şanlıurfa'nın Gizli Çehresinde Bir İmparatorluk Örneği

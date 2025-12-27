@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.017527777,41.017916666"
 draft: false
+
+weight: 100
 ---
 
 ### Tavaşi Hasan Ağa Camii: Üsküdar'ın Gizli İncisi

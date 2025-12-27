@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.7956543,39.6320038"
 draft: false
+
+weight: 100
 ---
 
 ## Söylemez Baba Kümbeti

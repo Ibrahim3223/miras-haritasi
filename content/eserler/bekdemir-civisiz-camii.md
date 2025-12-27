@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.114388888,41.018888888"
 draft: false
+
+weight: 100
 ---
 
 # Bekdemir Çivisiz Camii: Samsun'un Gizli Cenneti

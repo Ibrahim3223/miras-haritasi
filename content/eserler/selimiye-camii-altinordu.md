@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.8755,40.981708"
 draft: false
+
+weight: 1
 ---
 
 ## Selimiye Camii: Altınordu'nun Büyüleyici Camii

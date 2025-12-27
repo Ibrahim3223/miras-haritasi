@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.999466487,37.763798407"
 draft: false
+
+weight: 100
 ---
 
 ### Anonim Türbe, Hisar Köyü

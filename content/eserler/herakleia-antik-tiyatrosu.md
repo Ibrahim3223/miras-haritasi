@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.5290051,37.5040855"
 draft: false
+
+weight: 100
 ---
 
 # Herakleia Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0278988,41.0177231"
 draft: false
+
+weight: 100
 ---
 
 ## Fenâî Ali Efendi Türbesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.544611111,41.293666666"
 draft: false
+
+weight: 10
 ---
 
 ### Büyükkarıştıran Köprüsü: Kırklareli'nin Tarihi Çelik Yokuşu

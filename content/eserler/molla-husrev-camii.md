@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.95581883,41.026394313"
 draft: false
+
+weight: 10
 ---
 
 ## Molla Hüsrev Camii: İstanbul'un Gizli Çehresinde Bir Klasik

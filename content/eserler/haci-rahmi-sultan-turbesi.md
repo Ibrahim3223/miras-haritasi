@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.282166,37.712907"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Rahmi Sultan Türbesi

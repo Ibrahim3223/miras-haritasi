@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.560885705,41.6781602"
 draft: false
+
+weight: 10
 ---
 
 ## Zehr-i Mar Camii: Edirne'nin Gizli Çehresi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.3419991,40.0239105"
 draft: false
+
+weight: 100
 ---
 
 ## Hektor Tümülüsü: Çanakkale'nin Gizli Mirası

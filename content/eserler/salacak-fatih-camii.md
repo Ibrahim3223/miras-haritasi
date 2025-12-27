@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.007969444,41.020977777"
 draft: false
+
+weight: 10
 ---
 
 ## Salacak Fatih Camii: Üsküdar'ın Tarihi Bir Mirası

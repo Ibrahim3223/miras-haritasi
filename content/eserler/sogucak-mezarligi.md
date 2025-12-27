@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3002205,37.7825546"
 draft: false
+
+weight: 100
 ---
 
 ## Soğucak Mezarlığı: Kuşadası'nın Gizli Ören Yeri

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.5130692,39.7619171"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Dede Camii ve Türbesi

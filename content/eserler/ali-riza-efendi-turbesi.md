@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.024341,41.028621"
 draft: false
+
+weight: 10
 ---
 
 ### Ali Rıza Efendi Türbesi

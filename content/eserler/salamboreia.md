@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0340025,38.120083"
 draft: false
+
+weight: 100
 ---
 
 ### Salamboreia: Geçmişin Gizemi

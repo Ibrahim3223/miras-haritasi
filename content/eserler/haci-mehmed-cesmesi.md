@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6723366,40.4090652"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mehmed Çeşmesi: Gelibolu'da Bir Tarih Örneği

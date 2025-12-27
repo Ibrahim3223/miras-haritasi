@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.6143398,39.449543"
 draft: false
+
+weight: 100
 ---
 
 ## Süceattin Hamamı

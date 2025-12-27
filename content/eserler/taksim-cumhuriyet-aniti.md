@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.985,41.036944"
 draft: false
+
+weight: 10
 ---
 
 ## Taksim Cumhuriyet Anıtı

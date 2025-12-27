@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.8204765,40.1440887"
 draft: false
+
+weight: 100
 ---
 
 **Hüseyin Gazi Medresesi**

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.2702139,39.903874"
 draft: false
+
+weight: 100
 ---
 
 ## Murat Paşa Hamamı

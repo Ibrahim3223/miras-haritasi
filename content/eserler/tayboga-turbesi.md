@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.1468086,42.0252037"
 draft: false
+
+weight: 100
 ---
 
 ## Tayboğa Türbesi

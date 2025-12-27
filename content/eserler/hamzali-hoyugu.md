@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6842751,39.6378211"
 draft: false
+
+weight: 100
 ---
 
 ### Hamzalı Höyük: Yozgat'ta Gizemli Bir Miras

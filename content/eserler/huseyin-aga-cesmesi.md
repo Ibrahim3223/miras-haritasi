@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.025914,40.989864"
 draft: false
+
+weight: 10
 ---
 
 ## Hüseyin Ağa Çeşmesi

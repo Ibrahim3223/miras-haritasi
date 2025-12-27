@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.977983,41.011145"
 draft: false
+
+weight: 10
 ---
 
 **Babıali Çeşmeleri: Tarihi ve Kültürel Bir Miras**

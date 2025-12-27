@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.423777777,40.283055555"
 draft: false
+
+weight: 100
 ---
 
 ### Kurşunlu Camii (Şebinkarahisar)

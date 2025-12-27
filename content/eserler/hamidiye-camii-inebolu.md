@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7610779,41.9786949"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Camii, İnebolu

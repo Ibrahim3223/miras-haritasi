@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.0849849,38.6096223"
 draft: false
+
+weight: 10
 ---
 
 # Gıduts Manastırı: Van'ın Gizli Cenneti

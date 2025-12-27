@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.02776111,41.08041667"
 draft: false
+
+weight: 100
 ---
 
 ## Akatlar Kültür Merkezi: Beşiktaş'ta Antik Bir Miras

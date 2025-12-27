@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7460461,38.0882874"
 draft: false
+
+weight: 100
 ---
 
 ### Yunus Emre Camii, Tire

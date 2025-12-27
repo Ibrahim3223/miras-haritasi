@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.754391,37.303356"
 draft: false
+
+weight: 100
 ---
 
 ## Mylios: Bucak'taki Antik Arkeolojik Miras

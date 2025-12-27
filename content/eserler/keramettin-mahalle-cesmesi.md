@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3609009,37.2204018"
 draft: false
+
+weight: 100
 ---
 
 ## Keramettin Mahalle Çeşmesi: Muğla'nın Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0616322,40.1794167"
 draft: false
+
+weight: 10
 ---
 
 ## Veled-i Habib Camii: Bursa'nın Gizli Anıtı

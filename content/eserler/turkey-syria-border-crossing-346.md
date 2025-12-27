@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "38.089533013,36.86943358"
 draft: false
+
+weight: 100
 ---
 
 ## Türkiye-Suriye Sınır Kavşağı #346 Kervansarayı

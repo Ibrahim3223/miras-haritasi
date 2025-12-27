@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.6840134,41.2669258"
 draft: false
+
+weight: 100
 ---
 
 ## Tokatlı Köprüsü

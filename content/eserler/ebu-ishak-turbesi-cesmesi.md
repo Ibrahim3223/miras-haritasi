@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.070776,40.1856651"
 draft: false
+
+weight: 100
 ---
 
 ### Ebu İshak Türbesi Çeşmesi

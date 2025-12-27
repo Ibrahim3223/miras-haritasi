@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.523201,39.7643738"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Müftü Çeşmesi

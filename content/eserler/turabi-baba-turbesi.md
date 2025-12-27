@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.966476384,41.03227093"
 draft: false
+
+weight: 10
 ---
 
 ### Turabi Baba Türbesi

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.935558,41.044923"
 draft: false
+
+weight: 100
 ---
 
 ### Zal Mahmut Paşa Medresesi: İstanbul'un Kültürel Mirasının Bir Parçası

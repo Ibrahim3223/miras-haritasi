@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056893,41.169411"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Salih Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.036633,41.155348"
 draft: false
+
+weight: 100
 ---
 
 ## Kalos Agros: Antik Çağın Gizemi

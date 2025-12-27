@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4781036,38.7163467"
 draft: false
+
+weight: 100
 ---
 
 ## Çifteönü Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası

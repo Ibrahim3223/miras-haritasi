@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.010305555,41.021416666"
 draft: false
+
+weight: 10
 ---
 
 ### İmrahor Camii: Üsküdar'ın Tarihî Bir Zenginliği

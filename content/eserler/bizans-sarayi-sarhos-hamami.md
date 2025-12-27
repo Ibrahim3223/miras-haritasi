@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.342384421,37.944778793"
 draft: false
+
+weight: 100
 ---
 
 ## Bizans Sarayı (Sarhoş Hamamı): İzmir'in Gizli Şarkısı

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.356671012,38.345607585"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Marinos Manastırı

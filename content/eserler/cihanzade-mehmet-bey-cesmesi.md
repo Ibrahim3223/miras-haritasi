@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8264065,37.8570633"
 draft: false
+
+weight: 100
 ---
 
 ## Cihanzade Mehmet Bey Çeşmesi

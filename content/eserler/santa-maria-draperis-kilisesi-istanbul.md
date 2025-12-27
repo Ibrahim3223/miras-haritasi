@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.976527777,41.032777777"
 draft: false
+
+weight: 10
 ---
 
 ## Santa Maria Draperis Kilisesi: İstanbul'un Gizli Çehresi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.3230209,36.1447678"
 draft: false
+
+weight: 100
 ---
 
 ### Kelenderis Liman Hamamı

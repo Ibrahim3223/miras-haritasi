@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.9135056,38.6186104"
 draft: false
+
+weight: 100
 ---
 
 ## Harunlar Kalesi Tanıtımı

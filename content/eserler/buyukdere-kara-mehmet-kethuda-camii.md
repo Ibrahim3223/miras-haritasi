@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.04306,41.16038"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükdere Kara Mehmet Kethüda Camii Tanıtımı

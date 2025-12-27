@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.84483,36.9797271"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, İhsaniye

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.526989,41.4650612"
 draft: false
+
+weight: 100
 ---
 
 **Emirali Kuştepe Tümülüsü: Lüleburgaz'ın Gizli Hazinesi**

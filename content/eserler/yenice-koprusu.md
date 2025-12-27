@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.135685,40.91391"
 draft: false
+
+weight: 100
 ---
 
 ### Yenice Köprüsü: Geçişin Gizemi

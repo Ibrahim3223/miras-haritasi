@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.492897,37.8750305"
 draft: false
+
+weight: 10
 ---
 
 ## Karatay Medresesi

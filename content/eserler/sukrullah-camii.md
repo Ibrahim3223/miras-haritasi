@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2689018,37.4155998"
 draft: false
+
+weight: 100
 ---
 
 ## Şükrullah Camii: Mardin'in Tarihi Bir Mirası

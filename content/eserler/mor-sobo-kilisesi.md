@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.610027777,37.4765"
 draft: false
+
+weight: 100
 ---
 
 ## Mor Sobo Kilisesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.998851,39.906135"
 draft: false
+
+weight: 100
 ---
 
 ## Hadrianoi: Roma Dönemi'nin Gizli Mirası

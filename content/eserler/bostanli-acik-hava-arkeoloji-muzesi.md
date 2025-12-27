@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.09888889,38.45527778"
 draft: false
+
+weight: 10
 ---
 
 ### Bostanlı Açık Hava Arkeoloji Müzesi

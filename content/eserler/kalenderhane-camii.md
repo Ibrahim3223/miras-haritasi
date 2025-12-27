@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.960304,41.013132"
 draft: false
+
+weight: 10
 ---
 
 ### Kalenderhane Camii: Fatih'ten Bir Büyüklük

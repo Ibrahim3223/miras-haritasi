@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.376272,37.058688"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Bedros Kilisesi: Gaziantep'in Tarihi Bir Mirası

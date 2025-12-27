@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0063686,41.0424042"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Beşir Ağa Çeşmesi: Beşiktaş'ta Tarihin Sanki Süngerliğinde Bir Çeşme

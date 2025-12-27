@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6902313,41.2425842"
 draft: false
+
+weight: 10
 ---
 
 ## Aşağı Tabakhane Sokak Çeşmesi

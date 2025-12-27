@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2880662,39.106249"
 draft: false
+
+weight: 100
 ---
 
 # Kadınca Höyük: Kırşehir'in Gizli Kahramanı

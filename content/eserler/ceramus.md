@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.951332,37.042418"
 draft: false
+
+weight: 10
 ---
 
 ## Ceramus

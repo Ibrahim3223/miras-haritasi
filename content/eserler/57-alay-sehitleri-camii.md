@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.365138888,37.060666666"
 draft: false
+
+weight: 10
 ---
 
 ## 57. Alay Şehitleri Camii: Adana'nın Değerli Camii

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.8,40.96416667"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Akvaryum

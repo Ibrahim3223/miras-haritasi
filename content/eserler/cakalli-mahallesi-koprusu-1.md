@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.080492,41.120204"
 draft: false
+
+weight: 100
 ---
 
 ## Çakallı Mahallesi Köprüsü 1: Samsun'un Tarihi Bir Anıtı

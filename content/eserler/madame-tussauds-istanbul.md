@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.979717,41.034531"
 draft: false
+
+weight: 10
 ---
 
 # Madame Tussauds İstanbul

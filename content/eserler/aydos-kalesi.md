@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.258625349,40.950056076"
 draft: false
+
+weight: 10
 ---
 
 # Aydos Kalesi

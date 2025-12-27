@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.940278,41.033889"
 draft: false
+
+weight: 10
 ---
 
 ## Tekfur Sarayı: İstanbul'un Gizli Çarpıntısı

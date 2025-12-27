@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946361111,41.020083333"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Buhari Camii

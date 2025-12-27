@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2768555,42.0589676"
 draft: false
+
+weight: 100
 ---
 
 ## Karaabalar Petre Tepesi Tümülüsü

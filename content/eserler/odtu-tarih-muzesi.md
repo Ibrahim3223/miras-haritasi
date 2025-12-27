@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.78252778,39.89697222"
 draft: false
+
+weight: 100
 ---
 
 ## ODTÜ Tarih Müzesi

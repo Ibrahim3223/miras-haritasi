@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.318821,38.1436272"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Bekir Camii: Malatya'nın Tarihi ve Kültürel Mirası

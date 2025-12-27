@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7878704,41.8319206"
 draft: false
+
+weight: 100
 ---
 
 ## Sırahöyükler C Tümülüsü: Edirne'nin Gizli Arkeolojik Mirası

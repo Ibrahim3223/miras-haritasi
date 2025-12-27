@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.017168,41.02174"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Bali Ağa Kabri: Üsküdar'ın Gizli Anıtı

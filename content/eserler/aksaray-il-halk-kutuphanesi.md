@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "34.0291214,38.3736191"
 draft: false
+
+weight: 100
 ---
 
 ### Aksaray İl Halk Kütüphanesi

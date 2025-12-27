@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5415058,41.6947632"
 draft: false
+
+weight: 100
 ---
 
 ### Mahmudiye Kışlası Hamamı

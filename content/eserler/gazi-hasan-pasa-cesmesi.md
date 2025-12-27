@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.2497063,37.0333366"
 draft: false
+
+weight: 100
 ---
 
 ### Gazi Hasan Paşa Çeşmesi

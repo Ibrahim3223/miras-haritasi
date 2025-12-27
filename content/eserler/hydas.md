@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.092803,36.706086"
 draft: false
+
+weight: 100
 ---
 
 ## Hydas Arkeolojik Sit

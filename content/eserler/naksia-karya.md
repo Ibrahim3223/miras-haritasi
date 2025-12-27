@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.659145,37.552756"
 draft: false
+
+weight: 100
 ---
 
 ## Naksia (Karya) Arkeolojik Sit

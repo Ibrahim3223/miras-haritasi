@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "43.5728,40.5044"
 draft: false
+
+weight: 10
 ---
 
 ## İpek Yolu Köprüsü, Ani

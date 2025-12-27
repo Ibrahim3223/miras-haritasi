@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.62591,36.95673"
 draft: false
+
+weight: 10
 ---
 
 **Misis Köprüsü: Geçmişi ve Günceli**

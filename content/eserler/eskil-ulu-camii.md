@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.411305555,38.404194444"
 draft: false
+
+weight: 100
 ---
 
 ## Eskil Ulu Camii: Aksaray'ın Tarihî Bir Mirası

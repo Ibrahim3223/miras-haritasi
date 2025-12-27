@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.5231513,38.4494489"
 draft: false
+
+weight: 100
 ---
 
 ### Yedi Gözlü Köprü: İzmirlinin Gizli Çehresini Keşfetmek

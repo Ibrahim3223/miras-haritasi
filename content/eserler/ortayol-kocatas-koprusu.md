@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9177,41.092567"
 draft: false
+
+weight: 100
 ---
 
 ### Ortayol Kocataş Köprüsü

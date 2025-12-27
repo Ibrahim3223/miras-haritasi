@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34044,37.94185"
 draft: false
+
+weight: 10
 ---
 
 ## Arcadiane: Selçuk'un Gizli Cenneti

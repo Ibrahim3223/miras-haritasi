@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.16527778,36.58694444"
 draft: false
+
+weight: 10
 ---
 
 ## İskenderun Latin Katolik Kilisesi

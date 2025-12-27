@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.3721046,40.2557526"
 draft: false
+
+weight: 100
 ---
 
 ## Dedebayırı: Karacabey'in Gizli Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.1743622,36.2110062"
 draft: false
+
+weight: 100
 ---
 
 ### Necmi Asfuroğlu Arkeoloji Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5618496,41.6789322"
 draft: false
+
+weight: 100
 ---
 
 ## Hazinedar Sinan Bey Camii

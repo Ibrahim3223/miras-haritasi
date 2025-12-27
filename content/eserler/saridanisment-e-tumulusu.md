@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8251038,41.8664513"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıdanişment E Tümülüsü

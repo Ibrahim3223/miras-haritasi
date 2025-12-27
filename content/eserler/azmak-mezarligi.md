@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.27117,40.32088"
 draft: false
+
+weight: 10
 ---
 
 ## Azmak Mezarlığı: Ege'nin Gizli Anıtı

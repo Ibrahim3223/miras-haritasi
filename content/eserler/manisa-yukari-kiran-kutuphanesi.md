@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.654181923,39.04759848"
 draft: false
+
+weight: 100
 ---
 
 ## Manisa Yukarı Kıran Kütüphanesi

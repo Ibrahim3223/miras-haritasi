@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.45049006,41.025122575"
 draft: false
+
+weight: 100
 ---
 
 ## Uzunkaya Köyü Camii: Rize'nin Değerli Tarihi Eserleri Arasındaki Bir Diye

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.4250679,40.0095711"
 draft: false
+
+weight: 100
 ---
 
 ## Kuzugöl Kalesi: Pasinler'in Gizli Şatosu

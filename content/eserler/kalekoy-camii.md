@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.8624916,36.1909065"
 draft: false
+
+weight: 100
 ---
 
 ## Kaleköy Camii: Demre'nin Tarihî Bir Mirası

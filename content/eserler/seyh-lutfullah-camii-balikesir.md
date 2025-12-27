@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8865623,39.6478958"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Lütfullah Camii: Balıkesir'in Tarihi Bir Mirası

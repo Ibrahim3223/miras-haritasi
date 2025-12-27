@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.04769,41.146818"
 draft: false
+
+weight: 10
 ---
 
 **Hanım Nine Suyu: Sarıyer'in Güllerinden Birini**

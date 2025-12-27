@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.733448,41.5022659"
 draft: false
+
+weight: 100
 ---
 
 ### Üçtepeler B Tümülüsü: Kırklareli'nin Gizli Mirası

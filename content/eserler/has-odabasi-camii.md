@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.931118,41.012059"
 draft: false
+
+weight: 10
 ---
 
 ## Has Odabaşı Camii: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8976135,36.6376114"
 draft: false
+
+weight: 100
 ---
 
 # Yukarı Güllük Camii: Karaman'ın Tarihi Bir Mirası

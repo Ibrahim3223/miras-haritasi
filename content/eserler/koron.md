@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3172155,38.067791"
 draft: false
+
+weight: 100
 ---
 
 ## Koron Arkeolojik Sitesi

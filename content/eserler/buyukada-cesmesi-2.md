@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.117371,40.860651"
 draft: false
+
+weight: 100
 ---
 
 ## Büyükada Çeşmesi 2: İbrahim Hakkı Efendi Çeşmesi

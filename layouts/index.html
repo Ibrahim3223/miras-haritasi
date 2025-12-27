@@ -27,7 +27,7 @@
     </div>
 
     <div class="card-grid" style="margin-bottom: 80px;">
-        {{ range first 6 .Site.RegularPages }}
+        {{ range first 6 .Site.RegularPages.ByWeight }}
         <article class="card">
             <a href="{{ .RelPermalink }}" class="card-img-wrap">
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
@@ -35,7 +35,7 @@
                 <img src="{{ $img }}" alt="{{ .Title }}" class="card-img" loading="lazy">
                 {{ else }}
                 <div
-                    style="width: 100%; height: 100%; background: #eee; display: flex; align-items: center; justify-content: center;">
+                    style="width: 100%; height: 100%; background: #eee; display: flex; align-items: center; justify-content: center; color: #ccc;">
                     Görsel Yok</div>
                 {{ end }}
             </a>

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.75,39.25"
 draft: false
+
+weight: 100
 ---
 
 ## Balıkesir'in Gizli Cenneti: Autokane Arkeolojik Sit

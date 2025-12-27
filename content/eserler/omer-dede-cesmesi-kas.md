@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.6675,36.3587"
 draft: false
+
+weight: 100
 ---
 
 ### Ömer Dede Çeşmesi

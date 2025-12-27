@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3750648,41.1017876"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Çeşme, Ortaköy Merkez

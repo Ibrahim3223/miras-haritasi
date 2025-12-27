@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.3081036,40.0842094"
 draft: false
+
+weight: 100
 ---
 
 ## Akçasu Köyü Camii: Bilecik'in Kültürel Mirasının Özellikleri

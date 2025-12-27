@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2917995,40.7414017"
 draft: false
+
+weight: 100
 ---
 
 ### Güzelköy Cami

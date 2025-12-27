@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.937607,41.042149"
 draft: false
+
+weight: 10
 ---
 
 ## Defterdar Nazlı Mahmud Efendi Çeşmesi

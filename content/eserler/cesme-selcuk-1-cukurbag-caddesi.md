@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17716667,39.12343889"
 draft: false
+
+weight: 10
 ---
 
 ### Eski Bergama'nın Tarihi Çeşmesi: Çukurbağ Çeşmesi

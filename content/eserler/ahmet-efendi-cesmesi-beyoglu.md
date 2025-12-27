@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.984472,41.029171"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Efendi Çeşmesi, Beyoğlu

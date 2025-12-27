@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.6329575,37.0248184"
 draft: false
+
+weight: 100
 ---
 
 ### Derviş Paşa Camii: Gaziantep'te Bir Zümre'nin İmzası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.739256,37.569548"
 draft: false
+
+weight: 100
 ---
 
 **Hakkâri Kalesi: Tarihî ve Kültürel Miras**

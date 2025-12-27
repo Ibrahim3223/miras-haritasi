@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.3874,37.058"
 draft: false
+
+weight: 100
 ---
 
 ### Kara Baba Türbesi

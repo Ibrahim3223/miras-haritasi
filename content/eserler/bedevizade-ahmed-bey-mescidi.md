@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.542360331,41.689210636"
 draft: false
+
+weight: 10
 ---
 
 **Bedevizade Ahmed Bey Mescidi**

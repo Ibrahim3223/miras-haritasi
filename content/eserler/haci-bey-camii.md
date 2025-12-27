@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.688242,36.9566231"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Bey Camii: Köyceğiz'in Tarihi Çandırı

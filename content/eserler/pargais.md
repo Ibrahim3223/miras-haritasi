@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1059765,36.9712975"
 draft: false
+
+weight: 100
 ---
 
 ## Pargais Arkeolojik Sit

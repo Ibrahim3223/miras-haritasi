@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9276123,40.768383"
 draft: false
+
+weight: 100
 ---
 
 ## Mantar Çeşme

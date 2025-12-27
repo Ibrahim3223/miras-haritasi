@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4233017,38.6116791"
 draft: false
+
+weight: 100
 ---
 
 ## Velioğlu Camii

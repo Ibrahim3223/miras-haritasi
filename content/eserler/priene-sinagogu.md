@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.29566667,37.65855556"
 draft: false
+
+weight: 10
 ---
 
 ### Priene Sinagogu

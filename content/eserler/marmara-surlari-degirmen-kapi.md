@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9875011,41.0127907"
 draft: false
+
+weight: 100
 ---
 
 ## Marmara Surları: Değirmen Kapı

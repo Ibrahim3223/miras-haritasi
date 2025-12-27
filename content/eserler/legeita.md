@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.356445,37.682053"
 draft: false
+
+weight: 100
 ---
 
 ## Legeita Arkeolojik Sit

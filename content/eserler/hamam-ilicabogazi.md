@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.1330452,40.0938911"
 draft: false
+
+weight: 100
 ---
 
 **Ilıcaboğazı Hamamı: Balıkesir'in Tarihi Bir Anıtı**

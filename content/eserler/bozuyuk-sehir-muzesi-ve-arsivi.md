@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.0270634,39.9115906"
 draft: false
+
+weight: 100
 ---
 
 ## Bozüyük Şehir Müzesi ve Arşivi

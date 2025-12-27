@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "33.2288742,37.1817703"
 draft: false
+
+weight: 100
 ---
 
 ### Kızlar Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.716888888,40.426694444"
 draft: false
+
+weight: 10
 ---
 
 ## İznik Roma Tiyatrosu: Bir İhtişamın Kalıntıları

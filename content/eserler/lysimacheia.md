@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8868484,40.577652"
 draft: false
+
+weight: 100
 ---
 
 # Lysimacheia: Gelibolu'nun Gizemi

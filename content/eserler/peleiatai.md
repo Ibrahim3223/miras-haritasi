@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "http://www.wikidata.org/.well-known/genid/93e9bff232737c5d976df174bd9e9d14"
 draft: false
+
+weight: 100
 ---
 
 ## Peleiatai Arkeolojik Sitesi

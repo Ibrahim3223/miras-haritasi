@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.324555921,41.241281357"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Hükümet Konağı Çeşmesi, Araç

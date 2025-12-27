@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.327595,37.050117"
 draft: false
+
+weight: 10
 ---
 
 ## Azmak Deresi Üzerindeki Köprü: Muğla'nın Tarihi ve Kültürel Mirası

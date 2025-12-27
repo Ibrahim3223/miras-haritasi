@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.67771436,40.165380581"
 draft: false
+
+weight: 10
 ---
 
 ### Eski Camii (Gölyazı)

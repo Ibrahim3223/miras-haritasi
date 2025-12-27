@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.956079,41.013858"
 draft: false
+
+weight: 10
 ---
 
 ### Ayşe Sultan Çeşmesi: Kalenderhane'daki Bir Osmanlı Çeşmesi

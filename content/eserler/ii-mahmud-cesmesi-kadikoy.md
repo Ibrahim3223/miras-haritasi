@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.095584888,40.953143888"
 draft: false
+
+weight: 10
 ---
 
 ### II. Mahmud Çeşmesi (Kadıköy)

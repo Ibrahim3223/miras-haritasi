@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.996891,40.5446358"
 draft: false
+
+weight: 100
 ---
 
 ## Arslanpaşa Camii: Erzurum'un Tarihi Bir Anıtı

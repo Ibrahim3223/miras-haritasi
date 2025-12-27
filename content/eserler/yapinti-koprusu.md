@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.4130707,36.6837692"
 draft: false
+
+weight: 100
 ---
 
 ### Yapıntı Köprüsü

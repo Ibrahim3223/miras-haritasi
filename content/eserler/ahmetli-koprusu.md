@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.9745636,37.9858742"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmetli Köprüsü

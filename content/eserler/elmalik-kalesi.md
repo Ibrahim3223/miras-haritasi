@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.3107929,40.6032753"
 draft: false
+
+weight: 100
 ---
 
 ## Elmalık Kalesi

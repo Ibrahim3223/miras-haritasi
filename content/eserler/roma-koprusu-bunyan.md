@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.854893,38.822407"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Bünyan

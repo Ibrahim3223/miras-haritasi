@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.1116638,36.5910492"
 draft: false
+
+weight: 100
 ---
 
 ## Esenpınar Camii: Mersin'in Tarihi ve Kültürel Mirası

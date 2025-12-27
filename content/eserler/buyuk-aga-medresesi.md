@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8348916,40.6585805"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük Ağa Medresesi

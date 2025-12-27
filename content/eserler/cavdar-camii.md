@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.698635,40.388809"
 draft: false
+
+weight: 100
 ---
 
 # Çavdar Camii: Ordu'da Bir Önemli Kültür Mirası

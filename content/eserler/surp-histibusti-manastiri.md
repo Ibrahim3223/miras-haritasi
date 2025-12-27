@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.300555555,38.467222222"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Histibusti Manastırı: Bir Geç Dönem Ermeni Kilisesi'nin Gizemi

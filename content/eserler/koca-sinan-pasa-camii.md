@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.968,41.009"
 draft: false
+
+weight: 10
 ---
 
 ## Koca Sinan Paşa Camii

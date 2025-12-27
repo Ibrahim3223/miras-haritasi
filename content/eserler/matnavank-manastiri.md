@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.455747851,38.75572323"
 draft: false
+
+weight: 10
 ---
 
 ## Matnavank Manastırı: Tarihi ve Kültürel Miras

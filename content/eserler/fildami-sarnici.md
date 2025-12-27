@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.8861,40.9931"
 draft: false
+
+weight: 10
 ---
 
 ## Fildamı Sarnıcı: Bakırköy'deki Antik Bir Gizem

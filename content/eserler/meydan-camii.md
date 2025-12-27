@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.2520866,38.7049446"
 draft: false
+
+weight: 100
 ---
 
 ### Meydan Camii: Elazığ'ın Tarihi ve Kültürel Mirası

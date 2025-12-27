@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.978148,41.025213"
 draft: false
+
+weight: 100
 ---
 
 # Karaköy İoannes Prodromos Kilisesi

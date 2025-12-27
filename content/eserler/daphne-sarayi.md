@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.976,41.006"
 draft: false
+
+weight: 100
 ---
 
 ## Daphne Sarayı

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.499166666,37.608333333"
 draft: false
+
+weight: 10
 ---
 
 ## Zerzevan Kalesi

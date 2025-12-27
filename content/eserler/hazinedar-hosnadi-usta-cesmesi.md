@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9355679,41.0417747"
 draft: false
+
+weight: 100
 ---
 
 ## Hazinedar Hoşnadi Usta Çeşmesi

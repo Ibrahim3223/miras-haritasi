@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97722222,41.00583333"
 draft: false
+
+weight: 10
 ---
 
 ## Fener Meryem Ana Kilisesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2295333,39.7123246"
 draft: false
+
+weight: 100
 ---
 
 ### Harun Yeri: Tarihî Bir Mirasın Anlamı

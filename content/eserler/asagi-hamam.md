@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "38.117,39.373111111"
 draft: false
+
+weight: 10
 ---
 
 ## Aşağı Hamam

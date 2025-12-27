@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.95531944,41.03791667"
 draft: false
+
+weight: 10
 ---
 
 ### Aynalıkavak Kasrı: İstanbul'un Gizli Çehresini Tanıtan Bir Saray

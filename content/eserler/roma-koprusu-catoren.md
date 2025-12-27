@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.3491329,37.5285817"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Çatören

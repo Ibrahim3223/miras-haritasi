@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.15,36.2"
 draft: false
+
+weight: 100
 ---
 
 ### Antakya (Samian Ware Discovery Site): Tarihin Eski Kenti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.19096,40.07253"
 draft: false
+
+weight: 10
 ---
 
 ## Pembe Çiftlik Mezarlığı

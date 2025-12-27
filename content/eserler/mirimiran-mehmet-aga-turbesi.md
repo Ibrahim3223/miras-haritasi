@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934634,41.047565"
 draft: false
+
+weight: 10
 ---
 
 ## Mirimiran Mehmet Ağa Türbesi

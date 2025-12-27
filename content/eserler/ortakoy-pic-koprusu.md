@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.90145,41.042733"
 draft: false
+
+weight: 100
 ---
 
 **Ortaköy Piç Köprüsü**

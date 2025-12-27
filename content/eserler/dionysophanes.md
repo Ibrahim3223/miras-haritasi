@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.092378,36.092345"
 draft: false
+
+weight: 100
 ---
 
 ## Dionysophanes: Antik Yunan Edebiyatının Gizemi

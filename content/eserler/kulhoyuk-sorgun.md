@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1386011,39.9155329"
 draft: false
+
+weight: 100
 ---
 
 ## Külhöyük: Sorgun'un Gizli Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.922,36.124"
 draft: false
+
+weight: 10
 ---
 
 ## Seleucia Pieria: Hatay'ın Tarihi ve Kültürel Mirası

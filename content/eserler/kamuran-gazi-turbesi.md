@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1725788,39.9280396"
 draft: false
+
+weight: 100
 ---
 
 ## Kamuran Gazi Türbesi

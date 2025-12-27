@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.9885864,40.602108"
 draft: false
+
+weight: 100
 ---
 
 ## Dodurga Köyü Eski Camii: Tarihi ve Kültürel Mirasımız

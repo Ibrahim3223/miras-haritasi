@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.8651772,37.6748009"
 draft: false
+
+weight: 10
 ---
 
 ### Bekir Bey Hamamı

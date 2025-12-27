@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.194,40.8063"
 draft: false
+
+weight: 100
 ---
 
 ## Ramazan Dede Türbesi

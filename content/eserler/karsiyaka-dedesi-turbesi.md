@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.982331,39.08333"
 draft: false
+
+weight: 100
 ---
 
 ### Karşıyaka Dedesi Türbesi

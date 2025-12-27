@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2796364,39.9078598"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Cuma Çeşmesi: Yakutiye'nin Tarihi Bir Mirası

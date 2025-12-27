@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5303841,39.766243"
 draft: false
+
+weight: 10
 ---
 
 ## Akoğlan Camii: Eskişehir'in Tarihsel Mirası

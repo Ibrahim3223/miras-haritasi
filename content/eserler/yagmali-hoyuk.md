@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.021606,37.455666"
 draft: false
+
+weight: 100
 ---
 
 ### Yağmalı Höyük: Kahramanmaraş'taki Geç Neolitik Dönemi'nin Gizemi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.851666666,39.941111111"
 draft: false
+
+weight: 10
 ---
 
 ## Cumhuriyet Müzesi

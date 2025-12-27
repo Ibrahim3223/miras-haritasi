@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.056416666,41.136861111"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Paraskevi Kilisesi: Tarabya'da Bir İkon

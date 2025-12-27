@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.971043,41.026357"
 draft: false
+
+weight: 10
 ---
 
 ### Emekyemez Camii

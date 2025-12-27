@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.4124756,37.9271355"
 draft: false
+
+weight: 10
 ---
 
 ## Sille Şapeli: Konya'nın Gizli Cenneti

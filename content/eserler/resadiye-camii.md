@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.516944444,39.771388888"
 draft: false
+
+weight: 10
 ---
 
 ### Reşadiye Camii Tanıtımı

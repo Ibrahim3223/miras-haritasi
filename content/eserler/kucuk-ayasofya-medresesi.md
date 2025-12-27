@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.971659,41.002968"
 draft: false
+
+weight: 1
 ---
 
 ### Küçük Ayasofya Medresesi: İstanbul'un Gizli Çeşmesi

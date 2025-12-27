@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.9146519,40.1718826"
 draft: false
+
+weight: 100
 ---
 
 ## Karcıkaya Köprüsü: Beypazarı'nın Kültürel Mirası

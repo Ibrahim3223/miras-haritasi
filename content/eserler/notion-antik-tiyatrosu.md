@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "27.20102,37.993566"
 draft: false
+
+weight: 100
 ---
 
 ## Notion Antik Tiyatrosu

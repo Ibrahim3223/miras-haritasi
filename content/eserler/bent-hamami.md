@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.2242279,40.2587814"
 draft: false
+
+weight: 100
 ---
 
 ## Bent Hamamı

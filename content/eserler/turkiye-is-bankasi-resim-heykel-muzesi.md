@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9757328,41.0315399"
 draft: false
+
+weight: 100
 ---
 
 ## Türkiye İş Bankası Resim Heykel Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2412872,40.2275162"
 draft: false
+
+weight: 10
 ---
 
 ## Biga Çarşı Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.733633,41.5469284"
 draft: false
+
+weight: 100
 ---
 
 ## Vize Recotepe B Tümülüsü

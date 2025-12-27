@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.3186708,37.9437974"
 draft: false
+
+weight: 100
 ---
 
 ## Hozat Höyüğü: Isparta'nın Gizli Mirası

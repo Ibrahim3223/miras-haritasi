@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4605999,36.9850998"
 draft: false
+
+weight: 100
 ---
 
 ### Termessos Alketas Mezarı

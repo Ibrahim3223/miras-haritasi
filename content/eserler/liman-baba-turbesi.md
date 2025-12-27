@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.029948,41.887666"
 draft: false
+
+weight: 100
 ---
 
 ## Liman Baba Türbesi: Demirköy'ün Kültürel Mirası

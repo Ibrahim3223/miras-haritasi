@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.7223492,37.708065"
 draft: false
+
+weight: 100
 ---
 
 ## Aphrodisias Hadrian Hamamı

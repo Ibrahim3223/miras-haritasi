@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "36.60003,36.36696"
 draft: false
+
+weight: 100
 ---
 
 ## Suriye - Türkiye Sınır Geçidi #2709

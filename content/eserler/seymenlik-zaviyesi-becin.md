@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7898102,37.2712936"
 draft: false
+
+weight: 100
 ---
 
 ## Seymenlik Zaviyesi, Beçin: Milas'ta Bir Değerli Kültür Mirası

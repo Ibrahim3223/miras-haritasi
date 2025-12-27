@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7389812,38.0777817"
 draft: false
+
+weight: 100
 ---
 
 ## Arappınarı Köprüsü 1: İzmir'in Tarihi ve Mimari Harikası

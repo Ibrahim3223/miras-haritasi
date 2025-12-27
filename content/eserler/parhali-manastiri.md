@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.383,40.97"
 draft: false
+
+weight: 10
 ---
 
 ## Parhali Manastırı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.947861387,41.026794411"
 draft: false
+
+weight: 10
 ---
 
 ## İsmailağa Camii: İstanbul'un Tarihî Mirası

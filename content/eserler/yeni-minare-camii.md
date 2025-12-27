@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2160225,37.1834831"
 draft: false
+
+weight: 100
 ---
 
 ### Yeni Minare Camii: Karaman'ın Değerli Camiği

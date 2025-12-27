@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0623684,40.183754"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Münir Paşa Çeşmesi 1: Bursa'nın Tarihi ve Kültürel Mirası

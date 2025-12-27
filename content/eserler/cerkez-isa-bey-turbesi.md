@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.6421127,39.3016586"
 draft: false
+
+weight: 100
 ---
 
 ## Çerkez İsa Bey Türbesi

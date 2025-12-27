@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.7158108,36.8882294"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Şüca Türbesi: Antalya'nın Kültürel Mirası

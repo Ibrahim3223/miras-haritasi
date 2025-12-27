@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.09518502,41.116137476"
 draft: false
+
+weight: 10
 ---
 
 ## Paşabahçe İskele Çeşmesi

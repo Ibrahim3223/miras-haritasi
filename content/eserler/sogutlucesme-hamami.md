@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.034562,40.992904194"
 draft: false
+
+weight: 10
 ---
 
 ### Söğütlüçeşme Hamamı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.013334,41.01823"
 draft: false
+
+weight: 10
 ---
 
 ### Moralı Hasan Paşa Çeşmesi

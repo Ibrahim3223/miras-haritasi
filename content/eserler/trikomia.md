@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.032644,40.960845"
 draft: false
+
+weight: 100
 ---
 
 ## Trikomia Arkeolojik Sit

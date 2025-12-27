@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9768887,41.0040169"
 draft: false
+
+weight: 100
 ---
 
 ## Arasta Hamamı

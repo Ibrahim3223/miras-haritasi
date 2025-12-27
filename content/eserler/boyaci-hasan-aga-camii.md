@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.888222222,40.302861111"
 draft: false
+
+weight: 10
 ---
 
 ## Boyacı Hasan Ağa Camii: Zile'nin Tarihi Güzelliği

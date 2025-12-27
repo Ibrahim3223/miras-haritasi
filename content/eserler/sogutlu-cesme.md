@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2176151,38.4305344"
 draft: false
+
+weight: 100
 ---
 
 ## Söğütlü Çeşme: Ulubey, Uşak'da Bir Ölümsüz

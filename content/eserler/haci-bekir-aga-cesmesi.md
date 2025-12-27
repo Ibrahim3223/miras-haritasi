@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9429855,41.0326271"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Bekir Ağa Çeşmesi

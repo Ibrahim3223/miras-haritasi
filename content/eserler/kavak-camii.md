@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.280262,39.9149361"
 draft: false
+
+weight: 100
 ---
 
 ## Kavak Camii: Yakutiye'nin Dülümlü Minareli İncisi

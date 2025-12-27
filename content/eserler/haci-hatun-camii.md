@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.331944444,41.293611111"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Hatun Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.954944444,41.019194444"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Eyüpzade Şükrü Bey Çeşmesi

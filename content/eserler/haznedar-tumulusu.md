@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0144253,41.572052"
 draft: false
+
+weight: 100
 ---
 
 ### Haznedar Tümülüsü: Kırklareli'nin Gizli Mirası

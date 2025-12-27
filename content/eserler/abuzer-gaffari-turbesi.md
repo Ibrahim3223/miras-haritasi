@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.1631203,37.7575798"
 draft: false
+
+weight: 100
 ---
 
 ## Abuzer Gaffari Türbesi

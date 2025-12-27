@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3256798,36.9885063"
 draft: false
+
+weight: 100
 ---
 
 **Tahtalı Camii, Adana**

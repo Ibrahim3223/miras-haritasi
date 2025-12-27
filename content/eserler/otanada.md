@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.91155,36.673397"
 draft: false
+
+weight: 100
 ---
 
 ## Otanada Arkeolojik Sit

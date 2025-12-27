@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.927938,38.990614"
 draft: false
+
+weight: 100
 ---
 
 ## Etsyena Arkeolojik Sit

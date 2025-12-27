@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.5661774,37.8505096"
 draft: false
+
+weight: 100
 ---
 
 ## Mursallı Taksiyarhis Kilisesi

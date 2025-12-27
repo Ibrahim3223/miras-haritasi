@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "39.7164268,41.0036354"
 draft: false
+
+weight: 100
 ---
 
 ## Gülbahar Hatun Medresesi

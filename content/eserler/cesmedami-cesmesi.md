@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.2843704,37.717186"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşmedamı Çeşmesi

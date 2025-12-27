@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3259373,42.0370483"
 draft: false
+
+weight: 100
 ---
 
 # Çağlayık Kurşova Geçidi B Tümülüsü

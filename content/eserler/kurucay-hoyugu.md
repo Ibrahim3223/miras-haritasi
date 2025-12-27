@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.167,37.6344"
 draft: false
+
+weight: 100
 ---
 
 ### Kuruçay Höyüğü

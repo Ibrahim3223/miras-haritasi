@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.247776,38.7062531"
 draft: false
+
+weight: 100
 ---
 
 ## Tayyar Baba Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.8508186,36.9749489"
 draft: false
+
+weight: 100
 ---
 
 ## Aksu Ağalar Camii: Antalya'nın Tarihi bir Mirası

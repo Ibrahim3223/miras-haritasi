@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.181666666,40.015277777"
 draft: false
+
+weight: 10
 ---
 
 ### Söğüt Ertuğrul Gazi Müzesi

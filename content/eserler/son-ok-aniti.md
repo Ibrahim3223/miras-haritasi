@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2222538,40.0982742"
 draft: false
+
+weight: 100
 ---
 
 # Son Ok Anıtı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.8229425,40.6520248"
 draft: false
+
+weight: 10
 ---
 
 ## İstasyon Köprüsü

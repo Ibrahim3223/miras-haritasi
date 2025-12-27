@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.169897217,36.343076701"
 draft: false
+
+weight: 100
 ---
 
 ## Limyra Roma Hamamı: Likya'nın Gizli Çeşmesinden Roma'nın Güzelliğine

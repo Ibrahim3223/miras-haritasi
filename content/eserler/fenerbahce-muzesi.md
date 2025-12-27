@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.037444,40.988073"
 draft: false
+
+weight: 10
 ---
 
 ## Fenerbahçe Müzesi

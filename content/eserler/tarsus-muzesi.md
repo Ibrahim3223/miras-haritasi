@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.892108156,36.916983914"
 draft: false
+
+weight: 10
 ---
 
 ## Tarsus Müzesi: Kilikya'nın Tarihi ve Kültürel Mirası

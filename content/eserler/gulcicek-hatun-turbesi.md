@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0498638,40.1890297"
 draft: false
+
+weight: 10
 ---
 
 ## Gülçiçek Hatun Türbesi: Bursa'nın Gizli Çiçeği

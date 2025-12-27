@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5238495,38.7580643"
 draft: false
+
+weight: 100
 ---
 
 **Büyük Olucak Çeşmesi**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9642181,40.0486412"
 draft: false
+
+weight: 100
 ---
 
 ## Çalca Höyüğü: Çanakkale'nin Gizli Tarihi

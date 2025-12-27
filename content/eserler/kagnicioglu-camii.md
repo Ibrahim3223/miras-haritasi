@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8577843,39.9345703"
 draft: false
+
+weight: 100
 ---
 
 ## Kağnıcıoğlu Camii

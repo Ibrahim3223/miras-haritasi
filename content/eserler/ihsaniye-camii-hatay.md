@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1624451,36.2035065"
 draft: false
+
+weight: 10
 ---
 
 ## İhsaniye Camii, Hatay: Bir Tarihî Mirasın Tanıtımı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.005636,38.55756"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 8: Salihli'nin Gizli Kutsalı

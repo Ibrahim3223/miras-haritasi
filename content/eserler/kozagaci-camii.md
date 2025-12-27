@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.9389341,36.9261539"
 draft: false
+
+weight: 100
 ---
 
 ## Kozağacı Camii

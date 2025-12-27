@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.791288644,40.395597879"
 draft: false
+
+weight: 100
 ---
 
 ## İskele Meydanı Çeşmesi

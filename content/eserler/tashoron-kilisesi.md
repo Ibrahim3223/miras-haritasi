@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.30194444,38.3525"
 draft: false
+
+weight: 10
 ---
 
 ## Taşhoron Kilisesi

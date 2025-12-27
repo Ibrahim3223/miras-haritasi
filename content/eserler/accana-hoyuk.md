@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.384722222,36.237777777"
 draft: false
+
+weight: 10
 ---
 
 ## Aççana Höyük: Hatay'ın Gizli Kahramanı

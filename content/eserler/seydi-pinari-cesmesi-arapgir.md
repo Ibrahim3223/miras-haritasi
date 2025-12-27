@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.470128886,39.055496691"
 draft: false
+
+weight: 100
 ---
 
 ## Seydi Pınarı Çeşmesi

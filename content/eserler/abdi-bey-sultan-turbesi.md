@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3718586,37.5673943"
 draft: false
+
+weight: 100
 ---
 
 **Abdi Bey Sultan Türbesi**

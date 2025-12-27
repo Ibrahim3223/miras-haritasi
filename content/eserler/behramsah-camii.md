@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.4699135,40.3116188"
 draft: false
+
+weight: 100
 ---
 
 ### Behramşah Camii: Şebinkarahisar'ın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.5787,40.5059"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Gregory Tigran Honents Kilisesi: Ani'nin Gizemli Kilisesi

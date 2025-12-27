@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.6399593,36.1993713"
 draft: false
+
+weight: 10
 ---
 
 ## Süleyman Çavuş Camii

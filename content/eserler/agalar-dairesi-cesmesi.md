@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0256062,41.1194153"
 draft: false
+
+weight: 100
 ---
 
 ## Ağalar Dairesi Çeşmesi

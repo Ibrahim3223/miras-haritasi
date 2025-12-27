@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.458535,40.870094"
 draft: false
+
+weight: 100
 ---
 
 **Topçu Dede Türbesi**

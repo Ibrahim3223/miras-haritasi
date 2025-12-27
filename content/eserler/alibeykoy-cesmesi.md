@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.946931,41.076762"
 draft: false
+
+weight: 10
 ---
 
 ### Alibeyköy Çeşmesi

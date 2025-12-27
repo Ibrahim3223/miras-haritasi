@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.423443,38.613718"
 draft: false
+
+weight: 100
 ---
 
 ## Kısık Camii

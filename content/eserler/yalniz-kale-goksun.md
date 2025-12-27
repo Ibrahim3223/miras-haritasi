@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.429985,37.9217339"
 draft: false
+
+weight: 100
 ---
 
 ## Yalnız Kale, Göksun

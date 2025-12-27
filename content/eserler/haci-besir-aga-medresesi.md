@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.976985,41.010749"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Beşir Ağa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "44.2102718,38.1449948"
 draft: false
+
+weight: 100
 ---
 
 ### Albayrak Kilisesi: Van'ın Gizli Mücevheri

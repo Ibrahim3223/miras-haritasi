@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.480952,40.746005"
 draft: false
+
+weight: 10
 ---
 
 ## Peterek Kalesi: Artvin'in Tarihi ve Kültürel Mirası

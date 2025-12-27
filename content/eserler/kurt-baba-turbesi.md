@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.734653,38.088522"
 draft: false
+
+weight: 100
 ---
 
 ## Kurt Baba Türbesi

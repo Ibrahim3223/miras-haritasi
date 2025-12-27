@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6825562,40.4102135"
 draft: false
+
+weight: 100
 ---
 
 ## Dumlupınar Denizaltı ve Tüm Deniz Şehitleri Anıtı

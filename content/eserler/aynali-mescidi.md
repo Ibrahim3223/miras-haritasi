@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9428024,41.0166626"
 draft: false
+
+weight: 100
 ---
 
 # Aynalı Mescidi: İstanbul'un Tarihi Bir Mirası

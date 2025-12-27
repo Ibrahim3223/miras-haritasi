@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.530077,37.8521957"
 draft: false
+
+weight: 100
 ---
 
 ## Magnesia Roma Hamamı

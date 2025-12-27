@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.6330414,36.8003311"
 draft: false
+
+weight: 100
 ---
 
 ## Nusratiye Camii

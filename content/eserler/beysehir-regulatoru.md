@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.722778,37.680517"
 draft: false
+
+weight: 100
 ---
 
 ## Beyşehir Regülatörü: Konya'nın Tarihi Köprüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2180996,38.4301033"
 draft: false
+
+weight: 100
 ---
 
 ## Karahallı Çeşmesi: Uşak'ın Tarihi ve Kültürel Mirası

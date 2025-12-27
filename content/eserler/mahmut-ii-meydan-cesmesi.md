@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0453148,41.0450897"
 draft: false
+
+weight: 10
 ---
 
 ## Mahmut II Meydan Çeşmesi: Beylerbeyi'nin Ihtişamlı Eserleri Arasinda

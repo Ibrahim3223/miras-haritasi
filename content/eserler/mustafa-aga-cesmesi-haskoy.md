@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.95089,41.041767"
 draft: false
+
+weight: 100
 ---
 
 ## Mustafa Ağa Çeşmesi, Hasköy

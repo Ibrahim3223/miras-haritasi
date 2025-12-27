@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.955787678,41.027390006"
 draft: false
+
+weight: 10
 ---
 
 ### Sirkeci Dede Türbesi

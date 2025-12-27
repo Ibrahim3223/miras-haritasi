@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.74698,40.78565"
 draft: false
+
+weight: 10
 ---
 
 ### İşhani Manastırı

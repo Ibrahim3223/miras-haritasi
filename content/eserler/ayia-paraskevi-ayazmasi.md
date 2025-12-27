@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0249882,40.9906845"
 draft: false
+
+weight: 100
 ---
 
 ## Ayia Paraskevi Ayazması: Kadıköy'ün Tarihi Çeşmesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5129356,41.7552681"
 draft: false
+
+weight: 100
 ---
 
 ### Kurudere Çayırköy Kalesi

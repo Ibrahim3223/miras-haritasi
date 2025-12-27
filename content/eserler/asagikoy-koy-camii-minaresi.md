@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.0058994,40.1155014"
 draft: false
+
+weight: 100
 ---
 
 ### Aşağıköy Köy Camii Minaresi

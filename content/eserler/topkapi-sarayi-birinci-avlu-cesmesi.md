@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.982382,41.010345"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Birinci Avlu Çeşmesi

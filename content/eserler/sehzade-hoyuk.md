@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Şehzade Höyük: Türkiye'nin Eski Çağ Tarihine Sahip Önemli Arkeolojik Sit

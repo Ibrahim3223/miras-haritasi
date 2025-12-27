@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.000782,40.33633"
 draft: false
+
+weight: 100
 ---
 
 ## Korgan Köprüsü: Karadeniz Bölgesi'nin Tarihi Bir Ören Yeri

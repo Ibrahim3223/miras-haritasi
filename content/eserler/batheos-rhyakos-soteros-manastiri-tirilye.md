@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.8,40.383333"
 draft: false
+
+weight: 100
 ---
 
 ## Batheos Rhyakos Soteros Manastırı

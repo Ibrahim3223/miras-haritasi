@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9596882,41.0126648"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Ağa Darülhadisi: Fatih'in Gizli Azınlık Medresesi

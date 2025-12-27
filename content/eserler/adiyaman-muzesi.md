@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.27805556,37.76277778"
 draft: false
+
+weight: 10
 ---
 
 ## Adıyaman Müzesi: Tarih, Kültür ve Mirasın Tam Kaptanlığı

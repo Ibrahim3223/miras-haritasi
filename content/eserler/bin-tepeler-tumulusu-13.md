@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.019777,38.555809"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 13: Manisa'da Bir Arkeolojik Harikadan Bahsetmek

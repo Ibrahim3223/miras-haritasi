@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.7223358,41.0080528"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Yahya Camii: Trabzon'un Gizli Cenneti

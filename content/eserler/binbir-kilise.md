@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.1674004,37.4383888"
 draft: false
+
+weight: 100
 ---
 
 ## Binbir Kilise

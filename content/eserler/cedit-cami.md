@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2783127,39.9092445"
 draft: false
+
+weight: 100
 ---
 
 # Cedit Cami: Yakutiye'nin Tarihî Mirası

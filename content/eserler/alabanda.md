@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.985429,37.591796"
 draft: false
+
+weight: 10
 ---
 
 ## Alabanda: Aydın'da Bir Arkeolojik Şatırın Gizemi

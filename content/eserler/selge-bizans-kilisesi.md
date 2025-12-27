@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "31.1254711,37.2254639"
 draft: false
+
+weight: 100
 ---
 
 ## Selge Bizans Kilisesi: Antalya'nın Gizli Çehresi

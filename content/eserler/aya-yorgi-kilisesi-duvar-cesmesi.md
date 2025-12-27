@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0524453,41.0512832"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Yorgi Kilisesi Duvar Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.954198,41.015615"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Sultan Mehmet Anıtı

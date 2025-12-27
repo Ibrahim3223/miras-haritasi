@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.1994122,38.9028648"
 draft: false
+
+weight: 100
 ---
 
 ## Çavuşlu Höyük

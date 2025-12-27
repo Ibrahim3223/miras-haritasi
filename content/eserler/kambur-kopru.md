@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.3582096,37.6740341"
 draft: false
+
+weight: 100
 ---
 
 ## Kambur Köprü: Aydın'ın Tarihî Mirası

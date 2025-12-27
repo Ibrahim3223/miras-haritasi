@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.2394066,38.7469711"
 draft: false
+
+weight: 100
 ---
 
 ## Horumhan Tarlacık Höyüğü: Malatya'nın Gizli Kahramanı

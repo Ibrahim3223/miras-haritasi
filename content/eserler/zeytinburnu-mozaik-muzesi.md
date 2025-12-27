@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9081402,40.9870377"
 draft: false
+
+weight: 10
 ---
 
 # Zeytinburnu Mozaik Müzesi

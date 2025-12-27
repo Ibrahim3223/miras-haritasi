@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.3710442,37.1638222"
 draft: false
+
+weight: 100
 ---
 
 ## Muğla Sıtkı Koçman Üniversitesi Kopya Heykeltraşlık Eserleri Müzesi

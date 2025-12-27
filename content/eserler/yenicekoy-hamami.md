@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7272282,38.0839996"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniceköy Hamamı: İzmirlinin Tarihi Büyüklüğü

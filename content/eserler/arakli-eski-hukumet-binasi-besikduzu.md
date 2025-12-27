@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "39.2319527,41.0518837"
 draft: false
+
+weight: 100
 ---
 
 ### Araklı Eski Hükümet Binası: Beşikdüzü'nin Tarihi Bir Mirası

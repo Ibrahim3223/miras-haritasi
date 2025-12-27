@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "27.351777777,41.408166666"
 draft: false
+
+weight: 10
 ---
 
 ## Sokullu Mehmet Paşa Hamamı

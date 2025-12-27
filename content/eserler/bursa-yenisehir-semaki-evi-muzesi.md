@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.651528,40.262561"
 draft: false
+
+weight: 10
 ---
 
 ## Bursa Yenişehir Şemaki Evi Müzesi

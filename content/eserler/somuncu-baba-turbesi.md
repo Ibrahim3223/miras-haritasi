@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.4921989,38.5768013"
 draft: false
+
+weight: 100
 ---
 
 ## Somuncu Baba Türbesi

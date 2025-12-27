@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.942097169,41.035674916"
 draft: false
+
+weight: 10
 ---
 
 ### Yatağan Camii

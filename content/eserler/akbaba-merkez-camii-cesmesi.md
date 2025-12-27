@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.11732,41.15086"
 draft: false
+
+weight: 10
 ---
 
 ## Akbaba Merkez Camii Çeşmesi: Beykoz'un Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1213646,37.9335289"
 draft: false
+
+weight: 100
 ---
 
 # Hierapolis Hamam Bazilika: Pamukkale'nin Gizli Mücevheri

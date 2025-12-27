@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.6042519,36.8131561"
 draft: false
+
+weight: 10
 ---
 
 # Kızılkaya Kalesi: Köyceğiz'in Gizli Şehri

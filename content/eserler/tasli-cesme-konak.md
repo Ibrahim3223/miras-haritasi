@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1437817,38.4182854"
 draft: false
+
+weight: 100
 ---
 
 ### Taslı Çeşme: Konak'ın Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5608959,41.6749954"
 draft: false
+
+weight: 10
 ---
 
 ### Edirne'nin Gizli Cenneti: Sarıca Paşa Camii

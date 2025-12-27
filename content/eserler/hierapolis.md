@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.125833333,37.925"
 draft: false
+
+weight: 10
 ---
 
 ## Hierapolis: Pamukkale'nin Gizli Harikası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.3024006,38.3241005"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme Kent Müzesi

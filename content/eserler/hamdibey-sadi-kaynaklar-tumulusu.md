@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7472229,41.8722229"
 draft: false
+
+weight: 100
 ---
 
 ## Hamdibey Sadi Kaynaklar Tümülüsü

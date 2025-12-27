@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.029111,41.02009"
 draft: false
+
+weight: 10
 ---
 
 ## Çinili Camii Şadırvanı: Üsküdar'ın Tarihî Bir Çeşmesi

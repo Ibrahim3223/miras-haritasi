@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.944,41.0386"
 draft: false
+
+weight: 10
 ---
 
 ## Atik Mustafa Paşa Camii

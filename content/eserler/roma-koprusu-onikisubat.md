@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.8959999,37.5269012"
 draft: false
+
+weight: 100
 ---
 
 # Roma Köprüsü, Onikişatürk

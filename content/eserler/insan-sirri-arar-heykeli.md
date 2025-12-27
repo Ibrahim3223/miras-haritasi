@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0230846,40.9813614"
 draft: false
+
+weight: 100
 ---
 
 ## İnsan Sırrı Arar Heykeli

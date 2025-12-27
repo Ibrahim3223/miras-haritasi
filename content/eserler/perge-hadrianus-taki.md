@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.8541603,36.9616203"
 draft: false
+
+weight: 100
 ---
 
 ## Perge Hadrianus Takı

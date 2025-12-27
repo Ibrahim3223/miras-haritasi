@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.094777777,41.219777777"
 draft: false
+
+weight: 100
 ---
 
 ## Cocorta Kilisesi: Kayabeyi'ndeki Bir Geçmişe Dönük Anıt

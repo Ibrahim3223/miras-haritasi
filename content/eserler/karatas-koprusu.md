@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1257401,38.4101562"
 draft: false
+
+weight: 100
 ---
 
 ### Karataş Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

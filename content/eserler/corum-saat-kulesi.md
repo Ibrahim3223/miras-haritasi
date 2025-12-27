@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.953722222,40.549888888"
 draft: false
+
+weight: 10
 ---
 
 ## Çorum Saat Kulesi: Türkiye'nin Tarihi ve Kültürel Mirası

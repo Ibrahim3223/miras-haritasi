@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3835602,40.044014"
 draft: false
+
+weight: 100
 ---
 
 **Turgut Alp Türbesi**

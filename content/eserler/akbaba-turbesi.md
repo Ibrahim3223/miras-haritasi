@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.965668713,41.033258139"
 draft: false
+
+weight: 10
 ---
 
 ## Akbaba Türbesi: İstanbul'un Gizli Anıtı

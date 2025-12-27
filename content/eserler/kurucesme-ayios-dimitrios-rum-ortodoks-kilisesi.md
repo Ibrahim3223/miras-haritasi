@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.035361111,41.061083333"
 draft: false
+
+weight: 100
 ---
 
 **Kuruçeşme Ayios Dimitrios Rum Ortodoks Kilisesi**

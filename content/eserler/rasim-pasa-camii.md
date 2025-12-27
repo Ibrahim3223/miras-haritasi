@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.030055555,40.996361111"
 draft: false
+
+weight: 10
 ---
 
 ## Rasim Paşa Camii: Kadıköy'ün Tarihî Bir Görevi

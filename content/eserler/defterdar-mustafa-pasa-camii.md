@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5615635,41.6726456"
 draft: false
+
+weight: 10
 ---
 
 **Defterdar Mustafa Paşa Camii**

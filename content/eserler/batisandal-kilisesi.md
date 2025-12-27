@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.20388889,36.5675"
 draft: false
+
+weight: 10
 ---
 
 ### Batısandal Kilisesi

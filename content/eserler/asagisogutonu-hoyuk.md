@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.436417,39.802233"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağısöğütönü Höyük: Eskişehir'in Gizli Mirası

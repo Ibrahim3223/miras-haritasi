@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0714989,41.0183258"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Sebili, Bulgurlu

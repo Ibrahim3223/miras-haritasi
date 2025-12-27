@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.965749186,41.039830225"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Piyale Camii: İstanbul'un Gizli Çehresinde Bir Örnek

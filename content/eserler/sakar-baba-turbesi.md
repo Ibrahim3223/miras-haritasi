@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4036198,40.7544899"
 draft: false
+
+weight: 100
 ---
 
 ## Sakar Baba Türbesi

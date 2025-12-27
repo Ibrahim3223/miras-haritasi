@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.966,41.0446"
 draft: false
+
+weight: 10
 ---
 
 ## Piyale Paşa Camii

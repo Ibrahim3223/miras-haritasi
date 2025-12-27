@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6928253,41.2447472"
 draft: false
+
+weight: 10
 ---
 
 ## Köprülü Mehmet Paşa Camii Çeşmesi

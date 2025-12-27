@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8137569,41.8171768"
 draft: false
+
+weight: 100
 ---
 
 ## Demirköy Fatih Dökümhanesi Mescidi

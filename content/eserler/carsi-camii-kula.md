@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6467266,38.5460052"
 draft: false
+
+weight: 100
 ---
 
 # Çarşı Camii: Tarihi ve Kültürel Mirası Tanımlama

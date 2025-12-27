@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "29.0232,40.9918"
 draft: false
+
+weight: 10
 ---
 
 ## Haldun Taner Sahnesi: Kadıköy'ün Tarihi Antik Tiyatrosu

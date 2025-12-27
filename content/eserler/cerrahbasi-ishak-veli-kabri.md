@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9602032,41.0044746"
 draft: false
+
+weight: 100
 ---
 
 ### Cerrahbaşı İshak Veli Kabri

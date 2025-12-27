@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9303932,41.0130386"
 draft: false
+
+weight: 100
 ---
 
 ### Gizlice Evliya Şehit Mehmet Efendi Türbesi

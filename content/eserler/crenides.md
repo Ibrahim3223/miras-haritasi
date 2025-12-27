@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.84095,41.49065"
 draft: false
+
+weight: 100
 ---
 
 ## Crenides: Tarihî Bir Arkeolojik Sit

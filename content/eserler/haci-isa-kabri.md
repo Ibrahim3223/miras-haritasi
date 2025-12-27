@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9448338,41.0331955"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı İsa Kabri: İstanbul'un Tarihî Mirası

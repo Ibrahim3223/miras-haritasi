@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1443329,38.4173698"
 draft: false
+
+weight: 100
 ---
 
 ### Salahettinoğlu Camii

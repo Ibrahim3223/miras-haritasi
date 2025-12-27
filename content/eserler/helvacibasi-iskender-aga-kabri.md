@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9768238,41.0130196"
 draft: false
+
+weight: 100
 ---
 
 **Helvacıbaşı İskender Ağa Kabri**

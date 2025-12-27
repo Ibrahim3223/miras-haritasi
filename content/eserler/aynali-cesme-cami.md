@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9405727,41.0137024"
 draft: false
+
+weight: 100
 ---
 
 ## Aynalı Çeşme Cami: Fatih'in Gizli Cenneti

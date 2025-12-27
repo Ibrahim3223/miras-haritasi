@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.09667,37.342419"
 draft: false
+
+weight: 100
 ---
 
 ## Ege'nin Gizli Cenneti: Chrysaoris Arkeolojik Sit

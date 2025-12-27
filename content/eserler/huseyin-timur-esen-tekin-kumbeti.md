@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.4716492,38.7490501"
 draft: false
+
+weight: 100
 ---
 
 ## Hüseyin Timur-Esen Tekin Kümbeti

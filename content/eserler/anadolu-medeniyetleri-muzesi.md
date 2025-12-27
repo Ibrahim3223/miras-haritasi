@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.861944,39.938333"
 draft: false
+
+weight: 10
 ---
 
 ### Anadolu Medeniyetleri Müzesi

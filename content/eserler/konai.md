@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.266389,37.757222"
 draft: false
+
+weight: 100
 ---
 
 ## Konai Arkeolojik Sit: Türkiye'nin Eski Mirasının Gizemi

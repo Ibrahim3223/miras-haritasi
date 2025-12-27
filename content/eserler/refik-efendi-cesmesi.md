@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0652161,40.1293221"
 draft: false
+
+weight: 100
 ---
 
 ## Refik Efendi Çeşmesi

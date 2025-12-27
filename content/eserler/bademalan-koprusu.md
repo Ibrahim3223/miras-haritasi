@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.3167,39.0241013"
 draft: false
+
+weight: 100
 ---
 
 # Bademalan Köprüsü: İzmir'in Tarihi Bir Mirası

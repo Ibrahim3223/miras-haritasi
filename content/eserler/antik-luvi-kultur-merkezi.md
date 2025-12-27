@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.331736169,36.983979117"
 draft: false
+
+weight: 100
 ---
 
 ## Antik Luvi Kültür Merkezi

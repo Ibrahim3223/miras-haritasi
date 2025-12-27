@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.1737556,36.3469048"
 draft: false
+
+weight: 100
 ---
 
 ## Limyra Kalesi

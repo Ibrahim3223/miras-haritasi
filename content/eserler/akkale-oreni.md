@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.22277778,36.52888889"
 draft: false
+
+weight: 10
 ---
 
 ### Akkale Öreni: Erdemli'nin Gizli Hazineleri

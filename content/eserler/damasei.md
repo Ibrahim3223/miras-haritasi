@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.983386,36.29873"
 draft: false
+
+weight: 100
 ---
 
 **Damasei Arkeolojik Sit**

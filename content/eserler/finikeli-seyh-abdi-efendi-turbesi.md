@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9200535,41.0158691"
 draft: false
+
+weight: 100
 ---
 
 ## Finikeli Şeyh Abdi Efendi Türbesi

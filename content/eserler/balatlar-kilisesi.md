@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.15722222,42.02611111"
 draft: false
+
+weight: 10
 ---
 
 ## Balatlar Kilisesi: Sinop'un Gizli Kahramanı

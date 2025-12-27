@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8229942,40.6492081"
 draft: false
+
+weight: 100
 ---
 
 ## Şadgeldi Türbesi

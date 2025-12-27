@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.241031,39.91889"
 draft: false
+
+weight: 10
 ---
 
 ## Vezirpınarı Çeşmesi: Elmadağ'ın Tarihi Çiçeği

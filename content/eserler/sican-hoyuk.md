@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9480246,39.0585626"
 draft: false
+
+weight: 100
 ---
 
 ## Sıçan Höyük: Tarihî Mirasın Gizemi

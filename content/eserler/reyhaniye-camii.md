@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.7419281,37.3134766"
 draft: false
+
+weight: 100
 ---
 
 ## Reyhaniye Camii: Mardin'in Kültürel Mirası

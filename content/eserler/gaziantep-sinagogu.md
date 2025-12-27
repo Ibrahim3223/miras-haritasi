@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "37.381645,37.064166"
 draft: false
+
+weight: 10
 ---
 
 ## Gaziantep Sinagogu

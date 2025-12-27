@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.2148495,39.4805331"
 draft: false
+
+weight: 100
 ---
 
 ## Kipik Höyüğü: Yozgat'ın Gizli Harikası

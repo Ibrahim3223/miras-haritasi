@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.0895679,39.3013453"
 draft: false
+
+weight: 100
 ---
 
 # Belpınar Höyüğü: Eskişehir'in Gizli Kahramanı

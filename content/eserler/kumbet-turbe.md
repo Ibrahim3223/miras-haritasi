@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0334892,39.9070587"
 draft: false
+
+weight: 100
 ---
 
 ## Kümbet Türbe: Bozüyük'te Bir Geçiş Döneminin Mirası

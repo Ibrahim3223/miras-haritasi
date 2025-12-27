@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "34.6541786,37.9813385"
 draft: false
+
+weight: 100
 ---
 
 ## Kurdunos Hamamı

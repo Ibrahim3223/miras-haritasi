@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.761166666,39.885222222"
 draft: false
+
+weight: 100
 ---
 
 ### Doğramacızade Ali Sami Paşa Camii

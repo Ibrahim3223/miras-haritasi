@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0411015,40.9765816"
 draft: false
+
+weight: 10
 ---
 
 **Sadun-Oda Boro ve Amatör Denizciler Anıtı**

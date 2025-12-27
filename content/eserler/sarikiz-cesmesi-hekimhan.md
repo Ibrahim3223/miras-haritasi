@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.843516495,38.845013869"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkız Çeşmesi, Hekimhan

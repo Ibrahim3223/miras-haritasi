@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.023809,36.8139907"
 draft: false
+
+weight: 100
 ---
 
 ## Küplüce Höyüğü: Şanlıurfa'nın Gizli Kahramanı

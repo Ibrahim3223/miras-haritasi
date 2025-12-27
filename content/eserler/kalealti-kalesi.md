@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.8002262,40.6931992"
 draft: false
+
+weight: 100
 ---
 
 ### Kalealtı Kalesi: Çanakkale'nin Gizli Kahramanı

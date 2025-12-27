@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1597157,38.4247398"
 draft: false
+
+weight: 100
 ---
 
 ## Tepecik Höyüğü: İzmir'in Gizli Tarihi

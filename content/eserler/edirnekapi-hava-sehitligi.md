@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.926361416,41.035439188"
 draft: false
+
+weight: 10
 ---
 
 # Edirnekapı Hava Şehitliği

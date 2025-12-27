@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9770432,41.0053787"
 draft: false
+
+weight: 1
 ---
 
 ### Sultan Ahmet Camii Harim Bölümü Çeşmeleri

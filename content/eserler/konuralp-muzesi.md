@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.153611111,40.903888888"
 draft: false
+
+weight: 10
 ---
 
 ### Konuralp Müzesi: Düzce'nin Tarihsel Mirasının Bir Anıtı

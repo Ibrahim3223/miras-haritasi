@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.837801,39.938582"
 draft: false
+
+weight: 10
 ---
 
 ## MKE Sanayi ve Teknoloji Müzesi

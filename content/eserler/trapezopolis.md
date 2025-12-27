@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.932258333,37.855905555"
 draft: false
+
+weight: 100
 ---
 
 ## Trapezopolis: Denizli'nin Gizli Mimari Mirası

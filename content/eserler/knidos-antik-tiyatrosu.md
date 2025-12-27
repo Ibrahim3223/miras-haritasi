@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.375277777,36.685833333"
 draft: false
+
+weight: 10
 ---
 
 # Knidos Antik Tiyatrosu: Tarihî Mirasın Gizemli Adası

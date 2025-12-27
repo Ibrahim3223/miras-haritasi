@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.8011665,38.314888"
 draft: false
+
+weight: 100
 ---
 
 ### Evliya Bey Medresesi: Gürpınar'ın Tarihi ve Kültürel Mirası

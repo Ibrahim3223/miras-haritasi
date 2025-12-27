@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9768143,40.3551483"
 draft: false
+
+weight: 100
 ---
 
 # Şevkiye Camii

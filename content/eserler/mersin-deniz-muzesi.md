@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6201,36.8063"
 draft: false
+
+weight: 10
 ---
 
 ### Mersin Deniz Müzesi: Türkiye'nin Deniziyle Tanışıyor

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.088566,41.17384"
 draft: false
+
+weight: 10
 ---
 
 ## Fatma Hatun Çeşmesi: Beykoz'un Gizli Çeşmesi

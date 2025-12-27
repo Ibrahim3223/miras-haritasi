@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.942295,41.008591"
 draft: false
+
+weight: 100
 ---
 
 ### Bayram Paşa Külliyesi Şadırvanı

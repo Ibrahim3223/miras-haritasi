@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4957316,38.7203273"
 draft: false
+
+weight: 10
 ---
 
 ## Emir Şahap Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.057579,40.1858215"
 draft: false
+
+weight: 100
 ---
 
 ## Nilüfer Hatun Mescidi: Bursa'nın Tarihi Bir Mirası

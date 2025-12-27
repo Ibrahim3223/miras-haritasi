@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.183405,39.131787"
 draft: false
+
+weight: 10
 ---
 
 ### Pergamon Antik Tiyatrosu

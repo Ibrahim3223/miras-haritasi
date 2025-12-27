@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.067293,36.948025"
 draft: false
+
+weight: 100
 ---
 
 ## Burmahancı Camii

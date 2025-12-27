@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.7885647,37.270256"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Avlusu, Beçin: Milas'ta Bir Orta Çağ Kale İmkânı

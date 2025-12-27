@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9572563,41.0068817"
 draft: false
+
+weight: 100
 ---
 
 **Tezveren Dede Kabri, Katip Kasım: İstanbul'un Eski Yerleşim Biriminin Gizemi**

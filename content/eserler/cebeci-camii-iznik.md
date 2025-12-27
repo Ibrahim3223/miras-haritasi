@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7161598,40.4317665"
 draft: false
+
+weight: 100
 ---
 
 ## Cebeci Camii: İznik'te Bir Örnek Osmanlı Mimarisi

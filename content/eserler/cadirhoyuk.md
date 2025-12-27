@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.143448,39.676781"
 draft: false
+
+weight: 100
 ---
 
 ## Çadırhöyük Arkeolojik Sit

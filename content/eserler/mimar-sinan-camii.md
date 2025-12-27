@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.11225,40.995666666"
 draft: false
+
+weight: 10
 ---
 
 # Mimar Sinan Camii: İstanbul'un Özgün ve Etkileyici Cami Örneği

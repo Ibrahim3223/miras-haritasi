@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.111666666,41.203055555"
 draft: false
+
+weight: 10
 ---
 
 ## Yavuz Sultan Selim Köprüsü

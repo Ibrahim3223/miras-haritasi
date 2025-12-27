@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.7509537,37.3163948"
 draft: false
+
+weight: 100
 ---
 
 # Hamza-i Kebir Camii: Tarihi ve Kültürel Mirasın Ihtişamı

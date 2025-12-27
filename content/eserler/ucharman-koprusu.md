@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.8124237,37.2857933"
 draft: false
+
+weight: 100
 ---
 
 ## Üçharman Köprüsü

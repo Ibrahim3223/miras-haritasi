@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.561826,37.415414"
 draft: false
+
+weight: 100
 ---
 
 # Hyia Arkeolojik Sit

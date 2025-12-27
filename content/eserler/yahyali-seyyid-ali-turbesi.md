@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.357477635,38.09820129"
 draft: false
+
+weight: 100
 ---
 
 ## Yahyalı Seyyid Ali Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.945445,41.046243"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Rıza Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.6035728,41.3788605"
 draft: false
+
+weight: 100
 ---
 
 **Düzköy Köprüsü: Artvin'in Gizli Cenneti**

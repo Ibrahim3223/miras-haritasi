@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0845,37.5843"
 draft: false
+
+weight: 10
 ---
 
 **Hacılar Höyük: Türkiye'nin Eski Uygarlığının Mirası**

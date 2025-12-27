@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.010874748,40.587005344"
 draft: false
+
+weight: 100
 ---
 
 ## Hamaylıtarla-Buruneren Anıt

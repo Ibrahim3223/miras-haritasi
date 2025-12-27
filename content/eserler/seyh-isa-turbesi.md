@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8460064,38.922039"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh İsa Türbesi: Tarihî Bir Mirasın Tanımı

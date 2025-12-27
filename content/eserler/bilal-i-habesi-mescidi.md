@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.896944444,36.915277777"
 draft: false
+
+weight: 10
 ---
 
 ## Bilal-i Habeşi Mescidi: Tarsus'ün İslami Mirası

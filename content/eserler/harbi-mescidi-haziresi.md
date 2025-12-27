@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.927002,41.0204964"
 draft: false
+
+weight: 100
 ---
 
 ## Harbi Mescidi Haziresi: Fatih'in Efsanevi Anıtı

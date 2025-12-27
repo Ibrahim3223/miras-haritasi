@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.8356275,36.2782347"
 draft: false
+
+weight: 10
 ---
 
 Liman Kalesi: Silifke'nin Tarihi Yüzyıllarını Hafızalarda Tutan Bir Eser

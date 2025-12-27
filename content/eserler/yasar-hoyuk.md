@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.544860699,37.085682605"
 draft: false
+
+weight: 100
 ---
 
 # Yaşar Höyük: Kızıltepe'nin Gizemli Yerleşimi

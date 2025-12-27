@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.747853,37.315637"
 draft: false
+
+weight: 100
 ---
 
 ## Ayn Tokmak Çeşmesi: Mardin'in Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.36110174,37.94943498"
 draft: false
+
+weight: 100
 ---
 
 ### Artemision Yakınındaki Tribuna: İzmir'in Gizli Mirası

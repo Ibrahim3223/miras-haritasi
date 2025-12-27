@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.9626,39.7221"
 draft: false
+
+weight: 100
 ---
 
 ## Kesik Köprü: Sivas'ın Eski Yolları Üzerindeki Bir Tarihi Köprü

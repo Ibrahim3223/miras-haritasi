@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8034611,39.8526802"
 draft: false
+
+weight: 100
 ---
 
 **Palai Skepsis (Troad): Bir Antik Kentin İzleri**

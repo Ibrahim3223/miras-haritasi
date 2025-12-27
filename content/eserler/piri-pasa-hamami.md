@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.948696,41.043407"
 draft: false
+
+weight: 100
 ---
 
 ### Piri Paşa Hamamı: İstanbul'un Gizli Cenneti

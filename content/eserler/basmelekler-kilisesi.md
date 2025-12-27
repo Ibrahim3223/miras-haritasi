@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.827083333,40.385277777"
 draft: false
+
+weight: 10
 ---
 
 ## Başmelekler Kilisesi: Mudanya'nın Tarihî Mirası

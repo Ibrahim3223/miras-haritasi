@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.964469,41.01569"
 draft: false
+
+weight: 10
 ---
 
 ### Kanuni Sultan Süleyman Türbesi

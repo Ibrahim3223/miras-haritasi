@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.2350502,37.9122543"
 draft: false
+
+weight: 100
 ---
 
 ### Zinciriye Medresesi: Diyarbakır'ın Tarihi ve Kültürel Mirası

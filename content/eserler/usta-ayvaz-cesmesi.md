@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5237694,39.7617188"
 draft: false
+
+weight: 100
 ---
 
 ### Usta Ayvaz Çeşmesi

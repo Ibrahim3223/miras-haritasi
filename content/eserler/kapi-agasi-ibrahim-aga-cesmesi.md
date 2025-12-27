@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9287834,41.0110931"
 draft: false
+
+weight: 100
 ---
 
 ## Kapı Ağası İbrahim Ağa Çeşmesi

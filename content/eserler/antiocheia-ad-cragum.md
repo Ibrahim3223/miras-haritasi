@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.41602,36.15726"
 draft: false
+
+weight: 10
 ---
 
 ### Antiocheia ad Cragum: Antalya'nın Gizli Harikası

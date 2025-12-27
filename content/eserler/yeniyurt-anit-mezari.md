@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.1281509,36.6294785"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniyurt Anıt Mezarı

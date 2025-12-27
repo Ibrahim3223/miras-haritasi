@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.1809063,38.3864098"
 draft: false
+
+weight: 100
 ---
 
 ## Bayrakbilim ve Türk Bayrakları Müzesi

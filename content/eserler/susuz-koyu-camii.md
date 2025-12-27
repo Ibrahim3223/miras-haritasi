@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.6542969,40.0202255"
 draft: false
+
+weight: 100
 ---
 
 ## Susuz Köyü Camii

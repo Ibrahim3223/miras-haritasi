@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8884964,36.6401443"
 draft: false
+
+weight: 100
 ---
 
 # Sipas Camii: Karaman'ın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.091448337,41.121922857"
 draft: false
+
+weight: 100
 ---
 
 ## Kirazlık Köyü Camii: Rize'nin Değerli Kültürel Mirası

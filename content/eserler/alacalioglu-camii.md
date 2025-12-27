@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8043022,39.8253708"
 draft: false
+
+weight: 100
 ---
 
 ## Alacalıoğlu Camii

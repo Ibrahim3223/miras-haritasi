@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.998,41.0584"
 draft: false
+
+weight: 10
 ---
 
 ## Prank of Bardakçı Baba Anıtını Keşfetmek

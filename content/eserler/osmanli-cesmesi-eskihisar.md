@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1362991,37.8927994"
 draft: false
+
+weight: 100
 ---
 
 ## Osmanlı Çeşmesi, Eskihisar: Aydın'da Bir Tarihî Çeşme

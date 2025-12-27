@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.010143,41.079989"
 draft: false
+
+weight: 100
 ---
 
 ### Eczacıbaşı Sanal Müzesi: İstanbul'un En İlgi Çekici Sanal Müzesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9842993,41.027851"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Resim ve Heykel Müzesi

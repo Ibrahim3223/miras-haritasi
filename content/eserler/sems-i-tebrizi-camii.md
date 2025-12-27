@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4976006,37.8736992"
 draft: false
+
+weight: 100
 ---
 
 ## Şems-i Tebrizi Camii

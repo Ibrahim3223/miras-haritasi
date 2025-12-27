@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.3751488,38.2802773"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Memiş Camii: İzmir'in Tarihi ve Kültürel Mirası

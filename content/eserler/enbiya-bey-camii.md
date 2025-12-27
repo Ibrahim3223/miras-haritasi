@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.4924622,39.2407417"
 draft: false
+
+weight: 100
 ---
 
 ## Enbiya Bey Camii

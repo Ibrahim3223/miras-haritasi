@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.3906,36.7679"
 draft: false
+
+weight: 10
 ---
 
 # Side Antik Tiyatrosu

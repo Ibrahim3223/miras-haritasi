@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.002888,39.651539"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs T6: Polatlı, Ankara'daki Bir Arkeolojik Harikası

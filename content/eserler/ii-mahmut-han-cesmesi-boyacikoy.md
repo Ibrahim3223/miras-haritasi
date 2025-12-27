@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.051548,41.1023026"
 draft: false
+
+weight: 100
 ---
 
 ## II. Mahmut Han Çeşmesi, Boyacıköy

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0498161,38.3307152"
 draft: false
+
+weight: 100
 ---
 
 ### Fırıntepe Tümülüsü I, II, III, IV

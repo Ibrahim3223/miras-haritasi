@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.493842,38.363516"
 draft: false
+
+weight: 100
 ---
 
 ## Dev Ali Türbesi: Kayseri'nin Gizli Anıtı

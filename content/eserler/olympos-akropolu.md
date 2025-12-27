@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4753342,36.39711"
 draft: false
+
+weight: 10
 ---
 
 ### Olympos Akropolü: Antalya'nın Gizli Çarpısı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0347137,41.3536682"
 draft: false
+
+weight: 100
 ---
 
 **Katranca Bağlık Tümülüsü**

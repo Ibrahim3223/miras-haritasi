@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0833683,40.1802979"
 draft: false
+
+weight: 100
 ---
 
 # Abdüllatif Kudsi Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5370045,41.7877426"
 draft: false
+
+weight: 100
 ---
 
 # Kurudere Çadırlar Deresi Kuzey Tümülüsü

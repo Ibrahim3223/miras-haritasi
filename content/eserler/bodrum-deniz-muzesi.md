@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.4318867,37.0347366"
 draft: false
+
+weight: 100
 ---
 
 ## Bodrum Deniz Müzesi: Bodrum'un Gizli Çehresini Keşfedin

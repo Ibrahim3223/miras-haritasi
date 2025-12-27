@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.486111099,38.720625776"
 draft: false
+
+weight: 100
 ---
 
 ## Hilmi Paşa Mescidi: Kayseri'nin Bir Öreni

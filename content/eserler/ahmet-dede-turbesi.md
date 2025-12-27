@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.920365,41.014232"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Dede Türbesi

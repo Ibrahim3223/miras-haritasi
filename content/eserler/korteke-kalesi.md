@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.5491753,37.4938622"
 draft: false
+
+weight: 100
 ---
 
 ## Körteke Kalesi: Aydın'ın Tarihî Mirası

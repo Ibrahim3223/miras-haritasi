@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2682198,38.4486069"
 draft: false
+
+weight: 100
 ---
 
 ## Geyral Höyük: Aksaray'ın Gizli Zirvesi

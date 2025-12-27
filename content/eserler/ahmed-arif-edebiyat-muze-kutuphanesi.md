@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "40.236941,37.913731"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmed Arif Edebiyat Müze Kütüphanesi

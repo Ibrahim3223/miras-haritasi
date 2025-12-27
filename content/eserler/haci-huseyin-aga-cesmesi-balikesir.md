@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.879110835,39.646081266"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hüseyin Ağa Çeşmesi, Balıkesir

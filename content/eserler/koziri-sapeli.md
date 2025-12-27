@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.693227777,41.405238888"
 draft: false
+
+weight: 100
 ---
 
 ## Koziri Şapeli: Borçka'nın Gizli Mücevheri

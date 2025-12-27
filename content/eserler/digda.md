@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.020833333,38.106111111"
 draft: false
+
+weight: 100
 ---
 
 ## Digda: Türkiye'nin Eski Kenti

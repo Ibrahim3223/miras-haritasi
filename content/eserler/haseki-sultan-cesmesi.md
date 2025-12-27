@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.901701,41.020667"
 draft: false
+
+weight: 100
 ---
 
 ### Haseki Sultan Çeşmesi: Maltepe'nin Tarihi ve Kültürel Mirası

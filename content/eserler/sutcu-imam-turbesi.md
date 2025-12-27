@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9276581,37.587986"
 draft: false
+
+weight: 100
 ---
 
 ## Sütçü İmam Türbesi

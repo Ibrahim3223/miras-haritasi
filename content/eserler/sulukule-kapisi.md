@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.931862,41.026878"
 draft: false
+
+weight: 100
 ---
 
 ## Sulukule Kapısı: Fatih'in Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9252853,41.0029831"
 draft: false
+
+weight: 100
 ---
 
 ## İskender Çelebi Kabri: Fatih'te Bir Keşif

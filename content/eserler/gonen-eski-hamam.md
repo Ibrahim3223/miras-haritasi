@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5140228,37.9553909"
 draft: false
+
+weight: 100
 ---
 
 ## Gönen Eski Hamamı: Isparta'nın Tarihi Bir Mirası

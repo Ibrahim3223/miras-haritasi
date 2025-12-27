@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.498242,38.009953"
 draft: false
+
+weight: 100
 ---
 
 ### Bonitai Arkeolojik Sit

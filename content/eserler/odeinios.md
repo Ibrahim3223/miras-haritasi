@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.603888888,41.175"
 draft: false
+
+weight: 100
 ---
 
 ## Odeinios Arkeolojik Sit

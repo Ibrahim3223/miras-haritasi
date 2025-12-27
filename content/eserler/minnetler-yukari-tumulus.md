@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0013542,41.4231529"
 draft: false
+
+weight: 100
 ---
 
 ## Minnetler Yukarı Tümülüs

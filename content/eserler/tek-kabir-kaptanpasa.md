@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9657288,41.0453873"
 draft: false
+
+weight: 100
 ---
 
 ### Tek Kabir, Kaptanpaşa

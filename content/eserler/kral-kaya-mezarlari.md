@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.8304152,40.6536008"
 draft: false
+
+weight: 10
 ---
 
 ## Kral Kaya Mezarları: Amasya'nın Gizli Anıtları

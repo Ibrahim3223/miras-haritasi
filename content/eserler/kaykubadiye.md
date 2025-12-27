@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "35.419064,38.758166"
 draft: false
+
+weight: 100
 ---
 
 ## Kaykubadiye Sarayı

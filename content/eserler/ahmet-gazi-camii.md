@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.065944444,37.539"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Gazi Camii: Aydın'ın Tarihi Bir Mirası

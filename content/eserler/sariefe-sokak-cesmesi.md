@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.026524,41.051704"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıefe Sokak Çeşmesi

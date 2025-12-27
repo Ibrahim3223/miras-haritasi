@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.5844078,39.1993519"
 draft: false
+
+weight: 100
 ---
 
 ## Garipli 2 Höyük

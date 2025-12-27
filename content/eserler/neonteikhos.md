@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0891,38.661"
 draft: false
+
+weight: 10
 ---
 
 ## Neonteikhos: Menemen'in Gizli İncisi

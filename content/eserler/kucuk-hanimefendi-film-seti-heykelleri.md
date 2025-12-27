@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0367908,40.9695244"
 draft: false
+
+weight: 10
 ---
 
 ## Küçük Hanımefendi Film Seti Heykelleri

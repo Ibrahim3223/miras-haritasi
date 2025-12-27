@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.3733177,38.1900902"
 draft: false
+
+weight: 100
 ---
 
 ## Ladik Kaşı Çeşmesi

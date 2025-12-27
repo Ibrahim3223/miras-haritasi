@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.8316035,40.9054944"
 draft: false
+
+weight: 100
 ---
 
 ## Akbaş Köprüsü: Tarihi ve Kültürel Bir Miras

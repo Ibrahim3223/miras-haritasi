@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.930005,36.815349"
 draft: false
+
+weight: 100
 ---
 
 ## Oktapolis: Muğla'nın Gizli Kahramanı

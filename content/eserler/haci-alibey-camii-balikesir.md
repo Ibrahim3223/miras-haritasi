@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8798656,39.6459808"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Alibey Camii, Balıkesir

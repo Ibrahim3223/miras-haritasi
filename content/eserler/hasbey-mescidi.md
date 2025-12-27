@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4203491,37.8525124"
 draft: false
+
+weight: 100
 ---
 
 ## Hasbey Mescidi

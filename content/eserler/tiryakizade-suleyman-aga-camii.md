@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5239029,39.7646446"
 draft: false
+
+weight: 100
 ---
 
 ## Tiryakizade Süleyman Ağa Camii

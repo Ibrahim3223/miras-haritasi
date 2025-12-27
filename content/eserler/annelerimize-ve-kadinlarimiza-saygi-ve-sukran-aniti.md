@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.511868292,39.780358005"
 draft: false
+
+weight: 100
 ---
 
 ## Annelerimize ve Kadınlarımıza Saygı ve Şükran Anıtı

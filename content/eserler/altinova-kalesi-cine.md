@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.0028,37.6931"
 draft: false
+
+weight: 100
 ---
 
 ## Altınova Kalesi: Aydın'ın Gizli Güzelliği

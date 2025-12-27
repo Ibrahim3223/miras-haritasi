@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6901474,41.2502937"
 draft: false
+
+weight: 10
 ---
 
 ## Gümüş Sokak Çeşmesi 1

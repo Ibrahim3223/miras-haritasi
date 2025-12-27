@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.16,36.20194444"
 draft: false
+
+weight: 10
 ---
 
 ## Hatay Arkeoloji Müzesi

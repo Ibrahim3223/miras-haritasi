@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.2657013,36.3872261"
 draft: false
+
+weight: 100
 ---
 
 **Opramoas Anıt Mezarı: Antalya'nın Gizli Çeşidi**

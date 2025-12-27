@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.686111111,39.802777777"
 draft: false
+
+weight: 10
 ---
 
 **Skepsis: Çanakkale'nin Gizli Cenneti**

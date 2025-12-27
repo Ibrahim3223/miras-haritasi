@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.862084,36.19133"
 draft: false
+
+weight: 100
 ---
 
 ## Simena Kalesi: Antik Dönemin Gizemi

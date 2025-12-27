@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0770149,40.1813278"
 draft: false
+
+weight: 100
 ---
 
 ### Bayezid Paşa Medresesi

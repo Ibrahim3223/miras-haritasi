@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.47855833,39.7466"
 draft: false
+
+weight: 10
 ---
 
 ## Alagöz Karargâh Müzesi: Ankara'nın Tarihi Bir Mirası

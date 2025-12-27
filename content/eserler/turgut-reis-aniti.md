@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.987328,41.013532"
 draft: false
+
+weight: 100
 ---
 
 ## Turgut Reis Anıtı

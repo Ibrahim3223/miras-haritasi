@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.0993964,40.600952"
 draft: false
+
+weight: 10
 ---
 
 ## Fethiye Camii: Kars'ın Tarihi bir Mirası

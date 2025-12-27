@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.926111111,37.573888888"
 draft: false
+
+weight: 10
 ---
 
 ### Kahramanmaraş Arkeoloji Müzesi

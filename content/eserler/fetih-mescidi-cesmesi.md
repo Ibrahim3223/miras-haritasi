@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4294548,38.6068382"
 draft: false
+
+weight: 100
 ---
 
 ### Fetih Mescidi Çeşmesi

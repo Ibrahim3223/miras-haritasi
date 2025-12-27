@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.9533221,39.3901167"
 draft: false
+
+weight: 100
 ---
 
 ## Çöplüçiftliği Höyük: Yozgat'ın Gizli Kutsalı

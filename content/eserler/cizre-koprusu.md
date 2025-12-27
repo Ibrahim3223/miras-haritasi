@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.1135,37.1957"
 draft: false
+
+weight: 100
 ---
 
 ## Cizre Köprüsü: Bir Geçit Zamanların Mirası

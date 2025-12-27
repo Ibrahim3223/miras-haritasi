@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0409603,41.0777817"
 draft: false
+
+weight: 100
 ---
 
 ## Ayii Apostoli Ayazması, Bebek: Beşiktaş'ta Bir Azizlik Çeşmesi

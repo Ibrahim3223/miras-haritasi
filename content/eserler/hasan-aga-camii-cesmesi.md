@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.974702,41.003948"
 draft: false
+
+weight: 10
 ---
 
 ## Hasan Ağa Çeşmesi

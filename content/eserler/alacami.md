@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1028042,37.3730519"
 draft: false
+
+weight: 10
 ---
 
 ## Alacami: Osmaniye'nin Tarihi Bir Mirası

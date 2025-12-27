@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0571098,40.1854858"
 draft: false
+
+weight: 100
 ---
 
 ## Lala Şahin Paşa Medresesi: Bursa'nın Gizli Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9306984,41.0493164"
 draft: false
+
+weight: 100
 ---
 
 ### Bâli Hoca Camii: Eyüp'te Bir Klasik

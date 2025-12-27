@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "32.8665771,39.9313774"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkadı Medresesi: Ankara'nın Değerli Mirası

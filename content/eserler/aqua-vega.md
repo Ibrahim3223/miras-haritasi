@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.934924,39.888256"
 draft: false
+
+weight: 100
 ---
 
 ### Aqua Vega: Mamak'ta Bulunan Önemli Bir Kültürel Miras

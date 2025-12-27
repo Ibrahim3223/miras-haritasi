@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.975194444,41.031805555"
 draft: false
+
+weight: 10
 ---
 
 ### Pera Müzesi: İstanbul'un En Önemli Kültür Miraslarından Birisi

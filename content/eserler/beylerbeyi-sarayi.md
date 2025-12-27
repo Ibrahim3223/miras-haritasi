@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "29.0399,41.0426"
 draft: false
+
+weight: 10
 ---
 
 ### Beylerbeyi Sarayı

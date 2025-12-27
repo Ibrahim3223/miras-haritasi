@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.925211,41.026698"
 draft: false
+
+weight: 10
 ---
 
 ## Turgut Özal Anıt Mezarı

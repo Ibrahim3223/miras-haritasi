@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.707515,36.884171"
 draft: false
+
+weight: 100
 ---
 
 # Suna ve İnan Kıraç Kaleiçi Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.993013,40.922926"
 draft: false
+
+weight: 100
 ---
 
 ### Destemen Tepe Höyüğü, Ladik

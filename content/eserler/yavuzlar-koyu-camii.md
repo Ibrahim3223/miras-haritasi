@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.834938517,41.082265847"
 draft: false
+
+weight: 100
 ---
 
 ### Yavuzlar Köyü Camii: Rize'nin Tarihi Bir Mirası

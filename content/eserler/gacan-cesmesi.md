@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.819046,41.0053177"
 draft: false
+
+weight: 100
 ---
 
 **Gaçan Çeşmesi: Tarihi ve Kültürel Miras**

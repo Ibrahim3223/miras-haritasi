@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.458271,40.304287"
 draft: false
+
+weight: 100
 ---
 
 ### Kütküt Çeşmesi

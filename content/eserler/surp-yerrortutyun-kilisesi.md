@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97758,41.034245"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Yerrortutyun Kilisesi: İstanbul'un Gizli İncisi

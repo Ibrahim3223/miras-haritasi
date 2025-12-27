@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.29261152,39.528174665"
 draft: false
+
+weight: 100
 ---
 
 ### Kireçlik Mevkii Tümülüsü: Ayvacık'ta Bir Antik Miras

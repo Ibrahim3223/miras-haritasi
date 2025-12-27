@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.6926918,41.2447166"
 draft: false
+
+weight: 10
 ---
 
 ## Köprülü Mehmet Paşa Camii: Safranbolu'da Bir Osmanlı Dönemi İhtişamı

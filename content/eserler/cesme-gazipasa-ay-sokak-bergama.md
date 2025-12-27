@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17806667,39.119775"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme – Gazipaşa, Ay Sokak, Bergama: Bergama'nın Gizli Çeşmesi

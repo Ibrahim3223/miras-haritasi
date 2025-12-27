@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.94125,41.048653"
 draft: false
+
+weight: 10
 ---
 
 ## İbrahim Paşa Çeşmesi, Sütlüce: Beyoğlu'ndaki Tarihi Bir Çeşme

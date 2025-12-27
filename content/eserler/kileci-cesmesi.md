@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6932907,41.2432137"
 draft: false
+
+weight: 10
 ---
 
 ### Kileci Çeşmesi: Safranbolu'daki Bir Kültürel Devrim

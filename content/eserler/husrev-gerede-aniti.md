@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9945049,41.0485497"
 draft: false
+
+weight: 100
 ---
 
 ## Hüsrev Gerede Anıtı

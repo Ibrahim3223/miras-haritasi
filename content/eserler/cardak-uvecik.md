@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.538707,40.264387"
 draft: false
+
+weight: 100
 ---
 
 ## Çardak, Üvecik: Bursa'nın Gizli Cenneti

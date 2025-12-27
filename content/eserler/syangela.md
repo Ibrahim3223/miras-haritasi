@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.541111111,37.019444444"
 draft: false
+
+weight: 100
 ---
 
 ## Syangela Arkeolojik Sit'i Keşfedin

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.427471,39.618113"
 draft: false
+
+weight: 100
 ---
 
 # Seyyid Süleyman Türbesi

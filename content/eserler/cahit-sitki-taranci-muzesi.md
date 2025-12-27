@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.23555556,37.91305556"
 draft: false
+
+weight: 10
 ---
 
 # Cahit Sıtkı Tarancı Müzesi

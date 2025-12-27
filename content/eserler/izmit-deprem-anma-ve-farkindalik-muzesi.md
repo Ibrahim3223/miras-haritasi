@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.953462,40.782758"
 draft: false
+
+weight: 10
 ---
 
 ## İzmit Deprem Anma ve Farkındalık Müzesi

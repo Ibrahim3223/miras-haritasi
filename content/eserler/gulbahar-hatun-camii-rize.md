@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.54420958,41.026700004"
 draft: false
+
+weight: 100
 ---
 
 ## Gülbahar Hatun Camii, Rize

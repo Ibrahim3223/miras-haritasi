@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.6800053,41.3605686"
 draft: false
+
+weight: 100
 ---
 
 **Üçgözlü Kesme Taş Köprü: Borçka'nın Gizli Mücevheri**

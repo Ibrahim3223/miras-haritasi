@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "31.72944444,36.69861111"
 draft: false
+
+weight: 10
 ---
 
 ## Alara Kasrı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4633141,40.6044769"
 draft: false
+
+weight: 10
 ---
 
 ### Hacı Muratlar Mescidi

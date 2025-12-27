@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.98075,41.058194444"
 draft: false
+
+weight: 10
 ---
 
 ## Ara Güler Müzesi

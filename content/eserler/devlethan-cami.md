@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.18,38.2956247"
 draft: false
+
+weight: 100
 ---
 
 ## Devlethan Camii: Yalvaç'taki Ölümsüz Bir Miras

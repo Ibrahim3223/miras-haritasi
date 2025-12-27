@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.556685569,36.601933564"
 draft: false
+
+weight: 10
 ---
 
 ## Huzur Camii: Antalya'nın Gizli Çeşmesi

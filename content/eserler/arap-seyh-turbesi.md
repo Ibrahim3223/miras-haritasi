@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2434883,37.9093819"
 draft: false
+
+weight: 100
 ---
 
 ### Arap Şeyh Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0794582,41.0790596"
 draft: false
+
+weight: 100
 ---
 
 ## Göksu Meryem Ana Ayazması: Beykoz'un Gizli Çeşmesi

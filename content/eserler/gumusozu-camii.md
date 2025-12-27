@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7683,40.6775"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşözü Camii: Artvin'in Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0948753,41.4283409"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Camii (Babaeski)

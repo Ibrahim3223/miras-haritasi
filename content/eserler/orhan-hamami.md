@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.7205925,40.421524"
 draft: false
+
+weight: 100
 ---
 
 ## Orhan Hamamı

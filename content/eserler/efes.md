@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.348611,37.939722"
 draft: false
+
+weight: 10
 ---
 
 ## Efes: İyonya'nın Gizemi

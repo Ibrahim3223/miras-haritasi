@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.324114,40.412303"
 draft: false
+
+weight: 100
 ---
 
 ## Karabiga Surlar: Bir Tarih Öncesi Kale

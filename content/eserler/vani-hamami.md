@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.2136955,40.2001915"
 draft: false
+
+weight: 100
 ---
 
 ## Vani Hamamı

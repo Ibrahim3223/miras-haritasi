@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.833472222,40.652861111"
 draft: false
+
+weight: 10
 ---
 
 ### Amasya Saat Kulesi: Tarih ve Kültür Mirasının Simgesi

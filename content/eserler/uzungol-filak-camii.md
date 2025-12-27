@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2830009,40.632"
 draft: false
+
+weight: 100
 ---
 
 ### Uzungöl Filak Camii: Trabzon'un Gizli Çehresini İfade Eden Bir Örnek

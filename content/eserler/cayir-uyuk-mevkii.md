@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.565417,38.563517"
 draft: false
+
+weight: 100
 ---
 
 ## Çayır Üyük Mevkii: Uşak'ın Esrarlı Arkeolojik Mirası

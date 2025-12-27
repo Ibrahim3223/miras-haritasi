@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8704338,39.9377785"
 draft: false
+
+weight: 100
 ---
 
 **Çubuklu Mescidi: Altındağ'un Tarihî Bir Örneği**

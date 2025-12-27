@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.051797712,40.008078112"
 draft: false
+
+weight: 100
 ---
 
 ## Büyüktepe Köyü Nekropol Alanı: Çanakkale'nin Gizli Klasik Çağ Mirası

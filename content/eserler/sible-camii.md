@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0763874,40.180378"
 draft: false
+
+weight: 10
 ---
 
 ## Şible Camii: Bursa'nın Gizli Cenneti

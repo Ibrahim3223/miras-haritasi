@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.5584602,38.6875305"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Saip Paşa Çeşmesi

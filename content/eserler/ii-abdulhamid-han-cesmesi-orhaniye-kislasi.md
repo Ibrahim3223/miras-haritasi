@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0168686,41.0520363"
 draft: false
+
+weight: 100
 ---
 
 ## II. Abdülhamid Han Çeşmesi, Orhaniye Kışlası

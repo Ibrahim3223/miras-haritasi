@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.174534861,38.263316217"
 draft: false
+
+weight: 100
 ---
 
 ### Seyituşağı Köyü Çeşmesi: Yeşilyurt'un Tarihi Bir Çeşmesi

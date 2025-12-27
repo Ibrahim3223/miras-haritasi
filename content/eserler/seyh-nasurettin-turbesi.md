@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7385788,38.0789413"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Nasurettin Türbesi

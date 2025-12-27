@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.678661404,37.122125263"
 draft: false
+
+weight: 100
 ---
 
 # Çağıl Höyüğü

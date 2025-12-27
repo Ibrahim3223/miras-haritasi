@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.303027777,38.323555555"
 draft: false
+
+weight: 10
 ---
 
 ### Cezayirli Gazi Hasan Paşa Anıtı

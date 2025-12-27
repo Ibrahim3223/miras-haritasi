@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3335495,41.355896"
 draft: false
+
+weight: 100
 ---
 
 ## Abide-i Zafer, Lüleburgaz: Tarihin ve Zaferin Anıtı

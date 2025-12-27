@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.099722222,40.877222222"
 draft: false
+
+weight: 10
 ---
 
 ## Heybeliada Ayios Nikolaos Rum Ortodoks Kilisesi: Bir Özentili Örnek

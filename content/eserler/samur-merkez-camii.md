@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.261523,40.87301"
 draft: false
+
+weight: 100
 ---
 
 ## Samur Merkez Camii

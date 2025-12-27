@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.0321503,36.5788307"
 draft: false
+
+weight: 100
 ---
 
 ### Cambazlı Anıt Mezar

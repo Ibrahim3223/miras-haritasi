@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.161575404,37.546817219"
 draft: false
+
+weight: 100
 ---
 
 ## Alabayır Köprüsü: Aydın'ın Tarihi bir Mirası

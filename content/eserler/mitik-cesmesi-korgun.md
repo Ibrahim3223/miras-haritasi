@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.516905648,40.733046541"
 draft: false
+
+weight: 100
 ---
 
 ## Mitik Çeşmesi, Korgun

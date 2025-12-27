@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9735527,41.0231361"
 draft: false
+
+weight: 10
 ---
 
 ### Bereketzade Medresesi Camii

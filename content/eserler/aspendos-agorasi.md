@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1687814,36.9398761"
 draft: false
+
+weight: 1
 ---
 
 # Aspendos Agorası: Antik Çağın Eğreti Örneği

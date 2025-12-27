@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.969421,41.005161"
 draft: false
+
+weight: 100
 ---
 
 ## Kadırga Meydan Çeşmesi

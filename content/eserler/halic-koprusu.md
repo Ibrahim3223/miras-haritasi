@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.94178,41.04362"
 draft: false
+
+weight: 10
 ---
 
 ## Haliç Köprüsü

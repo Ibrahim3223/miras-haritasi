@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7745018,41.3722801"
 draft: false
+
+weight: 100
 ---
 
 ## Sinan Bey Camii, Kastamonu

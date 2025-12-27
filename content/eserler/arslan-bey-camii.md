@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9802723,39.4230347"
 draft: false
+
+weight: 100
 ---
 
 ## Arslan Bey Camii: Kütahya'nın Tarihi Bir Ölümsüz

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.02747,40.55861"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıbaba Köyü Taş Köprü: Gümüşhane'nin Gizli Çehresini Açıklamak

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.8989449,38.4525909"
 draft: false
+
+weight: 100
 ---
 
 # Çerkeztepe Tümülüsü: Malatya'nın Gizli Güzelliği

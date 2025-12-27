@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9285355,41.0035133"
 draft: false
+
+weight: 10
 ---
 
 ## Sümbül Efendi Camii Kuş Çeşmesi: İstanbul'un Gizli Cenneti

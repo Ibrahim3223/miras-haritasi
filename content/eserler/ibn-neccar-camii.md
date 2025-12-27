@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7713394,41.3733368"
 draft: false
+
+weight: 10
 ---
 
 ## İbn Neccar Camii: Kastamonu'nun Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "29.008611111,41.082777777"
 draft: false
+
+weight: 10
 ---
 
 ## Kristal Kule: Şişli'nin Tarihi ve Kültürel Mirası

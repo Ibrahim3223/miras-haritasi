@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9653683,41.0060043"
 draft: false
+
+weight: 100
 ---
 
 ### Kumkapı Süryani Kilisesi

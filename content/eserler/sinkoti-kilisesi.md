@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.259861111,41.294944444"
 draft: false
+
+weight: 100
 ---
 
 **Sinkoti Kilisesi: Güncellemesiz bir Tarih Mirası**

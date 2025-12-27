@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.422777777,38.426111111"
 draft: false
+
+weight: 10
 ---
 
 ## Nimfeo: İzmir'in Gizemli Arkeolojik Sitleri

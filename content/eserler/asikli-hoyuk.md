@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.23,38.349"
 draft: false
+
+weight: 10
 ---
 
 **Aşıklı Höyük: Türkiye'nin Eski Yerleşim Alanı**

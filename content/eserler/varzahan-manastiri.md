@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "40.116667,40.333333"
 draft: false
+
+weight: 10
 ---
 
 ## Varzahan Manastırı: Türkiye'nin Gizli Çehresine Giriş

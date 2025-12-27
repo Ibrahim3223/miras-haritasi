@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.958782,41.012141"
 draft: false
+
+weight: 100
 ---
 
 ## Acemoğlu Hamamı: Fatih'te Bir İhtişamlı Hamam

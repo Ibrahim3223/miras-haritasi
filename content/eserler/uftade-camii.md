@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0578041,40.1829453"
 draft: false
+
+weight: 10
 ---
 
 ### Üftade Camii

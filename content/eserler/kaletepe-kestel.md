@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.4414005,37.9524994"
 draft: false
+
+weight: 100
 ---
 
 # Kaletepe, Kestel Arkeolojik Sitesi

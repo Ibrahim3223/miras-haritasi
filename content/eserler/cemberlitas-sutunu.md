@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.971111,41.008611"
 draft: false
+
+weight: 10
 ---
 
 ## Çemberlitaş Sütunu: İstanbul'un Tarihi ve Kültürel Mirasının Örnekleri Arasında

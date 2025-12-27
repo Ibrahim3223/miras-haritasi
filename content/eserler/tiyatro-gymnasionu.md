@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3417862,37.9422926"
 draft: false
+
+weight: 10
 ---
 
 ### Tiyatro Gymnasionu: Ege'de Antik Bir Miras

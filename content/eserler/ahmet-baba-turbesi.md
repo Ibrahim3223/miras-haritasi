@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1481705,40.9588013"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Baba Türbesi: Maltepe'nin Değerli Mirası

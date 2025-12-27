@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.789583333,40.3865"
 draft: false
+
+weight: 100
 ---
 
 **Mezarlık Kilisesi (Tirilye)**

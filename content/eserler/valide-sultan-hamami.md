@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9835072,41.0131569"
 draft: false
+
+weight: 100
 ---
 
 ### Valide Sultan Hamamı: İstanbul'un Tarihi ve Kültürel Miraslarından biri

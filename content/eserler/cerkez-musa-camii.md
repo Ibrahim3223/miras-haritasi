@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5281124,37.8519745"
 draft: false
+
+weight: 100
 ---
 
 ### Çerkez Musa Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.922121,40.9929085"
 draft: false
+
+weight: 10
 ---
 
 ## Küçük Altın Kapı: İstanbul'un Gizli Çağı

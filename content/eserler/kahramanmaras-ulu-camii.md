@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.926666666,37.584722222"
 draft: false
+
+weight: 10
 ---
 
 ### Kahramanmaraş Ulu Camii

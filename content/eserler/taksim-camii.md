@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.984111111,41.037"
 draft: false
+
+weight: 10
 ---
 
 ## Taksim Camii: İstanbul'un Kalbine Yönelik Bir Tarihî Miras

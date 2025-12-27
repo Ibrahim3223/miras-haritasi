@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.940868914,41.009668753"
 draft: false
+
+weight: 100
 ---
 
 ## Başçı Mahmut Kabri: İstanbul'un Tarihi ve Kültürel Mirası

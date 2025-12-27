@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.391984,40.334274"
 draft: false
+
+weight: 100
 ---
 
 ### Harpagion: Biga'nın Gizli Arkeolojik Ören Yeri

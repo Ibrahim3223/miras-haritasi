@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.968646594,41.033053735"
 draft: false
+
+weight: 10
 ---
 
 ### Kasım Paşa Camii: Beyoğlu'nun Gizli Çeşmesi

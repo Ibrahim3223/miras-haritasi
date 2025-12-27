@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.936555555,41.021888888"
 draft: false
+
+weight: 100
 ---
 
 ## Hürrem Çavuş Camii: Fatih'in Gizli Mabeti

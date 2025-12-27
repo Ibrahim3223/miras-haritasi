@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.940885,41.025465"
 draft: false
+
+weight: 10
 ---
 
 ### Cedid Ali Paşa Medresesi

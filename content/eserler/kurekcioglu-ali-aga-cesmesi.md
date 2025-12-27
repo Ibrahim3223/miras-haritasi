@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.3271217,40.8697433"
 draft: false
+
+weight: 10
 ---
 
 ### Kürekçioğlu Ali Ağa Çeşmesi

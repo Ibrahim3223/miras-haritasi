@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0797272,41.3759727"
 draft: false
+
+weight: 100
 ---
 
 ### Nadırlı Höyükler A Tümülüsü

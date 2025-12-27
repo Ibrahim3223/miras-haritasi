@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.177798411,41.045500214"
 draft: false
+
+weight: 10
 ---
 
 ## Taşlıca Camii: İstanbul'un Gizli Cenneti

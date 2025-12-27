@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.5394115,39.4475098"
 draft: false
+
+weight: 100
 ---
 
 ## Seydiler Hamamı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.956022,41.024061"
 draft: false
+
+weight: 100
 ---
 
 ### Aşık Paşazade Çeşmesi

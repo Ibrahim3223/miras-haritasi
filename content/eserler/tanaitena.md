@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.297696,39.077762"
 draft: false
+
+weight: 100
 ---
 
 ## Tanaitena Arkeolojik Sitesi

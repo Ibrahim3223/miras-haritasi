@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9787583,41.0105333"
 draft: false
+
+weight: 10
 ---
 
 ### Sultan I. Ahmet Çeşmesi

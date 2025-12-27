@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.343052113,40.814147699"
 draft: false
+
+weight: 10
 ---
 
 ## Hünkar Çeşmesi

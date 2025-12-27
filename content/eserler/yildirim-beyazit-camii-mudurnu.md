@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.211935,40.46418"
 draft: false
+
+weight: 100
 ---
 
 # Yıldırım Beyazıt Camii (Mudurnu)

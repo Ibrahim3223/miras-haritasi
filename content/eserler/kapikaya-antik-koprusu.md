@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.0149701,37.2333921"
 draft: false
+
+weight: 100
 ---
 
 ## Kapıkaya Antik Köprüsü

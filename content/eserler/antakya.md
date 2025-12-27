@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.181666666,36.204722222"
 draft: false
+
+weight: 10
 ---
 
 ### Antakya: Tarih ve Kültürün İncisi

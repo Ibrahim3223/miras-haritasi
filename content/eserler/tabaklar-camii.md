@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.020488711,41.017613092"
 draft: false
+
+weight: 10
 ---
 
 ## Tabaklar Camii: Üsküdar'ın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.699999,40.880328"
 draft: false
+
+weight: 100
 ---
 
 ### Bahçekaya Köprüsü

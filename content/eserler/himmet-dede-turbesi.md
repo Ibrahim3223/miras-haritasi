@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.9754,40.8547"
 draft: false
+
+weight: 100
 ---
 
 ### Himmet Dede Türbesi Tanıtımı

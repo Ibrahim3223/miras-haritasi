@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.007805,38.556648"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 10: Manisa'nın Kırmızı Kayalık Mirası

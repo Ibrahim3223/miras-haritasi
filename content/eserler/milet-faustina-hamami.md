@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.2766933,37.5284462"
 draft: false
+
+weight: 100
 ---
 
 ## Milet Faustina Hamamı: İyonya'nın Gizli Çarpıntısı

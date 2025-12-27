@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0712185,40.1774864"
 draft: false
+
+weight: 10
 ---
 
 ## Umur Bey Camii Çeşmesi

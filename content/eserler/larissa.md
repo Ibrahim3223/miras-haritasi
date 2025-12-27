@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.031388,38.667585"
 draft: false
+
+weight: 100
 ---
 
 ## Larissa Arkeolojik Sit

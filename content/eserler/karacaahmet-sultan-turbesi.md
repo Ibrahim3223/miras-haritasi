@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.1012478,40.5208397"
 draft: false
+
+weight: 100
 ---
 
 ## Karacaahmet Sultan Türbesi: Sakarya'nın Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3792073,36.9714691"
 draft: false
+
+weight: 100
 ---
 
 # Yatırtepe Höyük: Tarihçe ve Kültürel Miras

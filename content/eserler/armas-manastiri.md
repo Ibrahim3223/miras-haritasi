@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "30.194909,40.847247"
 draft: false
+
+weight: 10
 ---
 
 ### Armaş Manastırı

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.8721466,39.0894699"
 draft: false
+
+weight: 100
 ---
 
 ## Şahmiran Kalesi: Muş'un Gizli Çağı

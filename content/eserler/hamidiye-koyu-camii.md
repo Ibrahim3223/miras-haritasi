@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.665905148,41.150500796"
 draft: false
+
+weight: 100
 ---
 
 ### Hamidiye Köyü Camii: Edirne'nin Gizli Cenneti

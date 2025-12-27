@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.2597,38.517967"
 draft: false
+
+weight: 100
 ---
 
 ## Ören Mevkii: Afyonkarahisar'ın Gizli Cenneti

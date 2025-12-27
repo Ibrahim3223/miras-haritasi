@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8398323,41.7814026"
 draft: false
+
+weight: 100
 ---
 
 # Yağcılı B Tümülüsü: Edirne'nin Gizli Mirası

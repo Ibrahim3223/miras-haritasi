@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2779,39.6835"
 draft: false
+
+weight: 100
 ---
 
 ## Bahşi Yahya Türbesi

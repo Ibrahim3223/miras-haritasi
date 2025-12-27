@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.9018974,36.3361816"
 draft: false
+
+weight: 100
 ---
 
 ## Bolacalıkoyuncu Taş Köprüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.925583333,40.762555555"
 draft: false
+
+weight: 10
 ---
 
 ## Fevziye Camii

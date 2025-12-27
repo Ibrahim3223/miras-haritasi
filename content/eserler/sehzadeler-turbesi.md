@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9518814,41.0264053"
 draft: false
+
+weight: 100
 ---
 
 **Şehzadeler Türbesi**

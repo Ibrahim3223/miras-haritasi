@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.9842834,38.5571327"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Seydi Sultan Türbesi

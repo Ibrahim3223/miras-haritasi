@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.93302,41.00188"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Kevork Kilisesi: İstanbul'un Gizli Cenneti

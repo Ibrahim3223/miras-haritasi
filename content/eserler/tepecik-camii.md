@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4255466,37.0361938"
 draft: false
+
+weight: 100
 ---
 
 ## Tepecik Camii: Bodrum'un Tarihi ve Dini Mirası

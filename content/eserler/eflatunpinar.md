@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.6747,37.8257"
 draft: false
+
+weight: 10
 ---
 
 ### Eflatunpınar: Konya'nın Tarihî Mirası

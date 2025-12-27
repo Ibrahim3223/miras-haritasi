@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3324833,37.9253807"
 draft: false
+
+weight: 100
 ---
 
 ## Demirci Mehmet Efe Anıt Mezarı

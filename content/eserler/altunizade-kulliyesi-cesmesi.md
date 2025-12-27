@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.045563,41.02047"
 draft: false
+
+weight: 100
 ---
 
 ## Altunizade Külliyesi Çeşmesi

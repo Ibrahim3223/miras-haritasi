@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.3512154,38.0347595"
 draft: false
+
+weight: 100
 ---
 
 ## Gerzile Kalesi: Kayseri'nin Gizli Zirvesi

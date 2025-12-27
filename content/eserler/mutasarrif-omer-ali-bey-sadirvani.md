@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.879903,39.645245"
 draft: false
+
+weight: 10
 ---
 
 ### Mutasarrıf Ömer Ali Bey Şadırvanı: Karesi'nin Gizli Çeşmesi

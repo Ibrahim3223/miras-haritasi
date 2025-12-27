@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.28472222,36.26111111"
 draft: false
+
+weight: 10
 ---
 
 ## Selinus Arkeolojik Sitesi

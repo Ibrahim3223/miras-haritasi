@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2747765,39.9099998"
 draft: false
+
+weight: 100
 ---
 
 ## Zeynel Camii: Erzurum'un Gizli Çehresini Açılan Bir Harikası

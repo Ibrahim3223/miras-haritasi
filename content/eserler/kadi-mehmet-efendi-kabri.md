@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9700584,41.0357704"
 draft: false
+
+weight: 100
 ---
 
 ## Kadı Mehmet Efendi Kabri: Beyoğlu'ndaki Bir Anıtın Gizemi

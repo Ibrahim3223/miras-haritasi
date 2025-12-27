@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1463528,38.4190979"
 draft: false
+
+weight: 100
 ---
 
 ### Cumhuriyet Halk Fırkası Mirali Ocağı Çeşmesi

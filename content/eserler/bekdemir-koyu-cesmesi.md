@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.3845768,38.5117416"
 draft: false
+
+weight: 100
 ---
 
 ## Bekdemir Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.986718,39.7328659"
 draft: false
+
+weight: 100
 ---
 
 ### Kümbet Menekşe Hamamı

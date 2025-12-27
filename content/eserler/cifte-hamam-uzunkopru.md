@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.6839352,41.2669182"
 draft: false
+
+weight: 100
 ---
 
 # Çifte Hamam, Uzunköprü

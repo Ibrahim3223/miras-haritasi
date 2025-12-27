@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "30.2839413,37.7143822"
 draft: false
+
+weight: 100
 ---
 
 ## Derviş Mehmet Paşa Kütüphanesi

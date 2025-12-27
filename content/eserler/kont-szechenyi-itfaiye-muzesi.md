@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.011561,41.043906"
 draft: false
+
+weight: 100
 ---
 
 ### Kont Szechenyi İtfaiye Müzesi: İstanbul'un Gizli Cenneti

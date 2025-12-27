@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.031166666,36.864638888"
 draft: false
+
+weight: 10
 ---
 
 ### Harran Ulu Camii

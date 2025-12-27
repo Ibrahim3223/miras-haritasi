@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.413233,39.404467"
 draft: false
+
+weight: 100
 ---
 
 ### Hamamtepesi Höyük: Eskişehir'in Gizli Cenneti

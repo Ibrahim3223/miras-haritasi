@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.18293,41.9240417"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Köyü Şehitlik Anıtı

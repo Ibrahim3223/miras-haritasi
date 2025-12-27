@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.865590971,39.933473358"
 draft: false
+
+weight: 100
 ---
 
 # Mescit-2, Altındağ

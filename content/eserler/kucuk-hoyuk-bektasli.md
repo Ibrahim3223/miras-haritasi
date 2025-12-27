@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.0616967,39.2015051"
 draft: false
+
+weight: 100
 ---
 
 ### Küçük Höyük: Türkiye'nin Eski Uygarlığının Gizemi

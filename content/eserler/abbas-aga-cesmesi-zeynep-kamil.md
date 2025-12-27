@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.021706,41.01585"
 draft: false
+
+weight: 10
 ---
 
 ### Abbas Ağa Çeşmesi, Zeynep Kamil

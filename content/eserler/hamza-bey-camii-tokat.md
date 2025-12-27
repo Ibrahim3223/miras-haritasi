@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.5562782,40.3176498"
 draft: false
+
+weight: 100
 ---
 
 ### Hamza Bey Camii, Tokat

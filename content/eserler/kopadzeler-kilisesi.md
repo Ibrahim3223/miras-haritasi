@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.458191666,41.302411111"
 draft: false
+
+weight: 100
 ---
 
 ## Kopadzeler Kilisesi

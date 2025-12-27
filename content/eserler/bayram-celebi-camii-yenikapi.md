@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9543877,41.0053864"
 draft: false
+
+weight: 100
 ---
 
 ### Bayram Çelebi Camii Yenikapı

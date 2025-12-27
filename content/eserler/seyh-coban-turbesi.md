@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.0148506,39.7428627"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Çoban Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.9956894,41.9781036"
 draft: false
+
+weight: 100
 ---
 
 ## Harmason Camii: Kastamonu'nun Gizli İncisi

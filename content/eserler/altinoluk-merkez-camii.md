@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7383097,39.5798076"
 draft: false
+
+weight: 100
 ---
 
 ### Altınoluk Merkez Camii: Edremit'in Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.556854,38.148389"
 draft: false
+
+weight: 100
 ---
 
 ## Kasystes: Urla'nın Gizli Kahramanı

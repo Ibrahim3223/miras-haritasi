@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8500366,39.931644476"
 draft: false
+
+weight: 10
 ---
 
 ## CerModern: Ankara'nın Sanat ve Kültür Merkezleri Arasındaki Bir Yıldız

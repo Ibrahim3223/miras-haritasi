@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7503052,38.086338"
 draft: false
+
+weight: 100
 ---
 
 ### Kazanoğlu Camii

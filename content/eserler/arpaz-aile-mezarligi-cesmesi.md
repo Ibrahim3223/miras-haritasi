@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.347093345,37.808160739"
 draft: false
+
+weight: 100
 ---
 
 ### Arpaz Aile Mezarlığı Çeşmesi

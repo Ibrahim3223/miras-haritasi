@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.6087,39.9396"
 draft: false
+
+weight: 100
 ---
 
 ## Alvarlı Efe Türbesi: Pasinler'in Gizli Anıtı

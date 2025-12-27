@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.0525169,40.6044807"
 draft: false
+
+weight: 100
 ---
 
 ## Büğdüz Köyü Camii: Orta, Çankırı'daki Bir Kent Merkezi

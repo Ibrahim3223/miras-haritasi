@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.17489,39.122987"
 draft: false
+
+weight: 100
 ---
 
 ### Pergamon Roma Tiyatrosu

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3238697,42.0303917"
 draft: false
+
+weight: 100
 ---
 
 ## Kula Ayazma Kalebeli 1 Tümülüsü: Tarihî bir Yerinin Mirası

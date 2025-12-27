@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.057833333,41.169027777"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Kethüda Camii: İstanbul'un Gizli Çehresinde Bir İhtişam

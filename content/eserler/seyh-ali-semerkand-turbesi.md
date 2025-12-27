@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4691,40.486"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Ali Semerkandî Türbesi

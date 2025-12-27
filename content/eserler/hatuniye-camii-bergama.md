@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1776028,39.1162949"
 draft: false
+
+weight: 100
 ---
 
 ## Hatuniye Camii, Bergama

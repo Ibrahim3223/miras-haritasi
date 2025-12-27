@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.804886345,40.97436281"
 draft: false
+
+weight: 100
 ---
 
 ## Florya Model Uçak Müzesi: Türkiye'nin Uçuş Tarihine Adanmış Bir Müze

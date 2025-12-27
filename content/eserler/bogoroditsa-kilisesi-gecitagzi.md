@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3170948,41.9385262"
 draft: false
+
+weight: 100
 ---
 
 **Geçitağzı'daki Bogoroditsa Kilisesi: Kırklareli'nin Kıymetli Kilisesi**

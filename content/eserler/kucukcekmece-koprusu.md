@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.77006,40.98917"
 draft: false
+
+weight: 10
 ---
 
 ### Küçükçekmece Köprüsü: Tarihî ve Kültürel Mirasın Bir Parçası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4710541,40.7343826"
 draft: false
+
+weight: 100
 ---
 
 ## Temenne Hacı Ali Çeşmesi: İskilip'teki Bir Tarihi Çeşme

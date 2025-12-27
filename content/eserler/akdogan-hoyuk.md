@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.4845606,38.2185301"
 draft: false
+
+weight: 100
 ---
 
 **Akdoğan Höyük: Konya'nın Gizli Mirası**

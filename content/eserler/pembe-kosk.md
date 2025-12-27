@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.860903,39.894843"
 draft: false
+
+weight: 10
 ---
 
 ## Pembe Köşk: Ankara'nın Zirvesinde Bir Müze

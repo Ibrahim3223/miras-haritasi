@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.7084458,41.0057218"
 draft: false
+
+weight: 100
 ---
 
 ### Trabzon Eğitim Tarihi Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9677582,41.0158157"
 draft: false
+
+weight: 100
 ---
 
 ### Şahin Ali Paşa Kabri

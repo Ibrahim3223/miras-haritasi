@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8773346,38.834034"
 draft: false
+
+weight: 100
 ---
 
 ## Palazdede Tümülüsü: Akhisar'ın Gizli Kahramanı

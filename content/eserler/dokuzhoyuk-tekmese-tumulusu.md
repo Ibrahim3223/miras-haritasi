@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0499554,41.6474876"
 draft: false
+
+weight: 100
 ---
 
 ## Dokuzhöyük Tekmeşe Tümülüsü: Kırklareli'nin Gizli Anıtı

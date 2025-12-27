@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.3633,38.4091"
 draft: false
+
+weight: 100
 ---
 
 **Ali Baba Türbesi**

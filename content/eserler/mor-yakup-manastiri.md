@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.396694444,37.483277777"
 draft: false
+
+weight: 10
 ---
 
 ## Mor Yakup Manastırı: Geçmişin Gizemi

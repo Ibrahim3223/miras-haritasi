@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.4006481,40.7802315"
 draft: false
+
+weight: 10
 ---
 
 **Ağa Camii: Adapazarı'nın Tarihi ve Kültürel Mirası**

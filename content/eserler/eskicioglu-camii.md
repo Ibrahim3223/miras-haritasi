@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8596954,39.9350815"
 draft: false
+
+weight: 100
 ---
 
 ## Eskicioğlu Camii: Ankara'nın Tarihi Bir Mirası

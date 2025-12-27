@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "32.86444444,39.88916667"
 draft: false
+
+weight: 10
 ---
 
 ## Çankaya Köşkü: Tarihi ve Kültürel Mirasın Parçaları

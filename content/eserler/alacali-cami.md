@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.250527777,38.702333333"
 draft: false
+
+weight: 10
 ---
 
 ### Alacalı Cami Tanıtımı

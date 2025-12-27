@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.2746029,38.465271"
 draft: false
+
+weight: 100
 ---
 
 ## Havai Camii Tanıtımı

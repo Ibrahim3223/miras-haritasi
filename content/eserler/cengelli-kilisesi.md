@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.444397,40.5475426"
 draft: false
+
+weight: 100
 ---
 
 ## Çengelli Kilisesi: Gümüşhane'nin Tarihî Bir Mirası

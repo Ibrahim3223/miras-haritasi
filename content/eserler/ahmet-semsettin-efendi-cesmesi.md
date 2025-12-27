@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.054165,41.114492"
 draft: false
+
+weight: 10
 ---
 
 ## Ahmet Şemsettin Efendi Çeşmesi

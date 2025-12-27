@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.789568,37.150738"
 draft: false
+
+weight: 100
 ---
 
 ## Mutfak Müzesi, Şanlıurfa

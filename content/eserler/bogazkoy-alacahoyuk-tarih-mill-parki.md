@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.610555555,40.075277777"
 draft: false
+
+weight: 10
 ---
 
 ## Boğazköy-Alacahöyük Tarihî Millî Parkı

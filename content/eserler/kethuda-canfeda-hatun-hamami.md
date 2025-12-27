@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1161747,41.1567039"
 draft: false
+
+weight: 100
 ---
 
 ### Kethüda Canfeda Hatun Hamamı

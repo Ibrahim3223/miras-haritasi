@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.8114,40.3908"
 draft: false
+
+weight: 100
 ---
 
 ### Aziz Yorgi Kilisesi (Tirilye)

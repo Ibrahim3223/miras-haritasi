@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9515839,41.0159225"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Şemseddin Ahmet Kabri: İstanbul'un Fatih bölgesindeki bir kültürel miras anıtı

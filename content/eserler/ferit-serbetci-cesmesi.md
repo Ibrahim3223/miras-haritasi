@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.225358,40.917246"
 draft: false
+
+weight: 10
 ---
 
 ## Ferit Şerbetci Çeşmesi

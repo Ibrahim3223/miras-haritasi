@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.962992,41.005358"
 draft: false
+
+weight: 100
 ---
 
 ## Süleyman Han Çeşmesi

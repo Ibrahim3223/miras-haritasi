@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.981254,41.006545"
 draft: false
+
+weight: 10
 ---
 
 **İshak Paşa Hamamı**

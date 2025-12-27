@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3383535,37.3837638"
 draft: false
+
+weight: 100
 ---
 
 ### Yaylak Höyüğü: Şanlıurfa'nın Gizli Kahramanı

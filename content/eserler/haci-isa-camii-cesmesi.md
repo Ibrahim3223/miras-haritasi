@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944695,41.03336"
 draft: false
+
+weight: 10
 ---
 
 # Hacı İsa Camii Çeşmesi

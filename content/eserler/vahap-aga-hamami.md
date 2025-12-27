@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "40.2367775,37.9134367"
 draft: false
+
+weight: 10
 ---
 
 ## Vahap Ağa Hamamı: Diyarbakır'ın Gizli Çehresi

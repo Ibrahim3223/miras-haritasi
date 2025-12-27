@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.849722222,36.889166666"
 draft: false
+
+weight: 100
 ---
 
 ## Tetrapyrgiya: Pamfilya'nın Gizemli Arkeolojik Sitleri

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.979117,41.025122"
 draft: false
+
+weight: 10
 ---
 
 ## Panayia Kafatiani Kilisesi

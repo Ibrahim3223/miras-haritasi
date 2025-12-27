@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.5641174,38.9462357"
 draft: false
+
+weight: 100
 ---
 
 ## Savat Çeşmesi: Hacıbektaş'ta Tarihi Bir Miras

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.29175,40.7414169"
 draft: false
+
+weight: 100
 ---
 
 ## Güzelköy Cami Çeşmesi: Şarköy'de Bir İhtişamlı Çeşme

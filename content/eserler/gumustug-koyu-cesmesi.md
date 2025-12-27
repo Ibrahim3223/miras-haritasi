@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.1354065,40.4524918"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüştuğ Köyü Çeşmesi

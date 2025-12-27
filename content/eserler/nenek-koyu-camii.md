@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.032361188,39.960451513"
 draft: false
+
+weight: 100
 ---
 
 ### Nenek Köyü Camii: Mamak'taki Bir Geçmişin İzleri

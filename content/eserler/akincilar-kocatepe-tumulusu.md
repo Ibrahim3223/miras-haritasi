@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6534252,41.451088"
 draft: false
+
+weight: 100
 ---
 
 **Akıncılar Kocatepe Tümülüsü**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.972722222,41.004861111"
 draft: false
+
+weight: 10
 ---
 
 ### Helvacıbaşı Camii: İstanbul'un Gizli Çarı

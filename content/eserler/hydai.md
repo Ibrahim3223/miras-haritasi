@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7049,37.3033"
 draft: false
+
+weight: 100
 ---
 
 ## Hydai: Milas'ın Tarihi Bir Ören Yeri

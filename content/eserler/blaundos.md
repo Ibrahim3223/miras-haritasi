@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.20944444,38.35916667"
 draft: false
+
+weight: 10
 ---
 
 ### Blaundos: Antik Bir Kentin Mirası

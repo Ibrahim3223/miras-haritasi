@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.1984913,36.0974176"
 draft: false
+
+weight: 100
 ---
 
 ### Kozkalesi Köprüsü: Altınözü'nün Gizli Çehresini Açan Bir Miras

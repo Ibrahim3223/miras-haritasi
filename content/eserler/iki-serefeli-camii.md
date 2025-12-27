@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8666992,39.9368668"
 draft: false
+
+weight: 10
 ---
 
 ## İki Şerefeli Camii: Altındağ'un Kültürel Çağı

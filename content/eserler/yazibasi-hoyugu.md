@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.8784014,40.0658784"
 draft: false
+
+weight: 100
 ---
 
 ### Yazıbaşı Höyüğü

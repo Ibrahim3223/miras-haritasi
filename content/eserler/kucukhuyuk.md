@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.317633,38.7685"
 draft: false
+
+weight: 100
 ---
 
 ## Küçükhüyük: Afyonkarahisar'ın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.148194444,38.43625"
 draft: false
+
+weight: 100
 ---
 
 ## Tarihî Tekel Fabrikası: İzmir'in Eski Endüstri Mirası

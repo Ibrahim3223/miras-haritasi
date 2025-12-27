@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7800446,40.7098007"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Davut Ağa Cami: Kocaeli'nin Gizli Pearlları

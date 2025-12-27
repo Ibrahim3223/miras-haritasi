@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1431675,38.4189682"
 draft: false
+
+weight: 100
 ---
 
 # Emir Sultan Türbesi: İzmir'in Gizli Çehresini İyileştiren Bir Anıt

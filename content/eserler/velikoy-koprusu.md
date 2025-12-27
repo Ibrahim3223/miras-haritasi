@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.617483,41.022317"
 draft: false
+
+weight: 100
 ---
 
 ## Veliköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

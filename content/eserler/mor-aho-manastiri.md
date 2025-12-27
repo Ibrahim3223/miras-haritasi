@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.4673119,37.7040138"
 draft: false
+
+weight: 100
 ---
 
 ### Mor Aho Manastırı: Türkiye'nin Tarihi ve Kültürel Mirası

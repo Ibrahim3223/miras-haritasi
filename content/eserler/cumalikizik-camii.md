@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.1720257,40.1748619"
 draft: false
+
+weight: 100
 ---
 
 ## Cumalıkızık Camii: Bursa'nın Tarihi Bir Mirası

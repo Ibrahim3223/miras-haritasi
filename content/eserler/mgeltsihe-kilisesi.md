@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.133105555,41.263675"
 draft: false
+
+weight: 100
 ---
 
 ### Mgeltsihe Kilisesi: Kurtkale'de Bir Tarihî Miras

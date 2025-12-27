@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4551,40.5125"
 draft: false
+
+weight: 10
 ---
 
 ## Hahuli Manastırı

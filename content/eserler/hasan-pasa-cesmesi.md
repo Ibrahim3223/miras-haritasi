@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.951277777,41.011222222"
 draft: false
+
+weight: 10
 ---
 
 ### Hasan Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.923664,41.008053"
 draft: false
+
+weight: 10
 ---
 
 ## Perestû Kadın Çeşmesi: Silivrikapı'da Bir Ölümsüz

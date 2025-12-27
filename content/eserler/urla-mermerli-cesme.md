@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.767908333,38.322194444"
 draft: false
+
+weight: 10
 ---
 
 ## Urla Mermerli Çeşme: İzmir'in Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8781776,39.6509781"
 draft: false
+
+weight: 100
 ---
 
 **Emin Ağa Camii**

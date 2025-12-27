@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7192612,41.0014267"
 draft: false
+
+weight: 100
 ---
 
 ### İç Kale Sarayı Hamamı

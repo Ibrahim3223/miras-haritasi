@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.14805556,36.45680556"
 draft: false
+
+weight: 10
 ---
 
 # Kız Kalesi: Kızkalesi'nin Gizemi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.30546,38.3229218"
 draft: false
+
+weight: 100
 ---
 
 ### Şekerci Osman Ağa Konağı Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.409336,39.843503"
 draft: false
+
+weight: 100
 ---
 
 ## Argiza Arkeolojik Sit

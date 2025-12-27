@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4950523,37.8733444"
 draft: false
+
+weight: 10
 ---
 
 # Gazi Mustafa Kemal İlkokulu Çeşmesi: Karatay, Konya'da Bir Ölümsüz Anıt

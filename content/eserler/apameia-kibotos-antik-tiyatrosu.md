@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "30.172626,38.07376"
 draft: false
+
+weight: 10
 ---
 
 ## Apameia Kibotos Antik Tiyatrosu

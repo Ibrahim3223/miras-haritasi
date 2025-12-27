@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.03948,37.3785444"
 draft: false
+
+weight: 100
 ---
 
 ## Hekateion of Lagina: Antik Çağın Gizemi

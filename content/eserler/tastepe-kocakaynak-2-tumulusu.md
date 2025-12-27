@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1441288,41.9675789"
 draft: false
+
+weight: 100
 ---
 
 ## Tastepe Kocakaynak 2 Tümülüsü

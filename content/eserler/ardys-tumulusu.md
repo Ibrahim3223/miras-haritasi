@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.990379,38.582371"
 draft: false
+
+weight: 100
 ---
 
 ## Ardys Tümülüsü: Manisa'nın Gizli Çağı

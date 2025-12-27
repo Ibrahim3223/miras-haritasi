@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.027777777,40.985833333"
 draft: false
+
+weight: 10
 ---
 
 ## Kadıköy Aya Triada Rum Ortodoks Kilisesi

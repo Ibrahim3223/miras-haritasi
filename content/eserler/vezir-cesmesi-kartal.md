@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.228718,40.91873"
 draft: false
+
+weight: 10
 ---
 
 ## Vezir Çeşmesi: Kartal'da Bir Tarihi Örnek

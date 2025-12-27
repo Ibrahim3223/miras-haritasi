@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9426231,41.0126381"
 draft: false
+
+weight: 100
 ---
 
 ## Kaşıkçı Mustafa Efendi Kabristanı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8545761,39.9382057"
 draft: false
+
+weight: 100
 ---
 
 ### Emlak Kredi Bankası Binası: Ankara'nın Tarihi ve Kültürel Mirası

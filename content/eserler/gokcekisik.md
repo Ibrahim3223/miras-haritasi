@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.395933,39.652333"
 draft: false
+
+weight: 100
 ---
 
 ### Gökçekısık Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0682774,40.1876869"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Yeni Hamamı: Bursa'nın Tarihsel Bir Mirası

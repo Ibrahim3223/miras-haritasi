@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.410275,37.751855"
 draft: false
+
+weight: 100
 ---
 
 ## Maiandropolis: Aydın'ın Eski Kenti

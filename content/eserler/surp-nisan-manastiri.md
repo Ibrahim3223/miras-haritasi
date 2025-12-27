@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "36.942361111,39.840861111"
 draft: false
+
+weight: 10
 ---
 
 ### Surp Nişan Manastırı

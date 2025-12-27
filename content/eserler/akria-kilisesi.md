@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.980194444,41.482"
 draft: false
+
+weight: 100
 ---
 
 ## Akria Kilisesi: Bir Taşınmaz Kültür Mirası

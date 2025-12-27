@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.836559,37.293682"
 draft: false
+
+weight: 100
 ---
 
 ## Thebasa: Karaman'da Gizli Bir Miras

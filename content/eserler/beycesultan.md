@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.7,38.25"
 draft: false
+
+weight: 10
 ---
 
 ## Beycesultan: Geçmişin Gizemi

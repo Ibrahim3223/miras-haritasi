@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.16555556,38.07166667"
 draft: false
+
+weight: 10
 ---
 
 ## Apameia Kibotos: Tarihî bir Köyün Gizemi

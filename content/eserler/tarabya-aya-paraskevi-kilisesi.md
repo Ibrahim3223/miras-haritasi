@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0564766,41.1368294"
 draft: false
+
+weight: 100
 ---
 
 ## Tarabya Aya Paraskevi Kilisesi

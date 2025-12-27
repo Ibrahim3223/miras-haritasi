@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.096111,39.201527"
 draft: false
+
+weight: 100
 ---
 
 ## Çatal Köprü, Bektaşlı: Geçmişten Bugüne Geçen Bir Köprü

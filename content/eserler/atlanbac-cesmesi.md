@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.771595,41.3744431"
 draft: false
+
+weight: 100
 ---
 
 # Atlanbaç Çeşmesi

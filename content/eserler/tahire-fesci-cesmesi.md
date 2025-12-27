@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.140543,38.4197578"
 draft: false
+
+weight: 100
 ---
 
 ## Tahire Fesçi Çeşmesi

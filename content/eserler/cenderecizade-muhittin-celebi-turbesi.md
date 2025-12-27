@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.961178,41.015336"
 draft: false
+
+weight: 10
 ---
 
 ## Cenderecizade Muhittin Çelebi Türbesi

@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.974638888,41.023416666"
 draft: false
+
+weight: 10
 ---
 
 ## Zülfaris Sinagogu: Beyoğlu'ndaki Tarihi Bir Miras

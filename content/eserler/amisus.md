@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.323668,41.319117"
 draft: false
+
+weight: 10
 ---
 
 ## Amisus Arkeolojik Sitesi

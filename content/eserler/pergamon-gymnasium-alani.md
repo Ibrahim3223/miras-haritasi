@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.185833333,39.126944444"
 draft: false
+
+weight: 10
 ---
 
 ## Pergamon Gymnasium Alanı: Antik Pergamon'un Göbeği

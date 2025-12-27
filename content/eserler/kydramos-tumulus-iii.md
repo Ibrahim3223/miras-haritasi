@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.129975459,37.345799385"
 draft: false
+
+weight: 100
 ---
 
 ## Kydramos Tümülüs III: Tarihi ve Kültürel Mirasın Gizemi

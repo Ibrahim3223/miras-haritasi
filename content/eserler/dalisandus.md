@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.480075,36.677695"
 draft: false
+
+weight: 100
 ---
 
 ## Dalisandus Arkeolojik Sit

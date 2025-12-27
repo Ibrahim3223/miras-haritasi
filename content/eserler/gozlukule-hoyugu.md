@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.89444444,36.91277778"
 draft: false
+
+weight: 100
 ---
 
 ## Gözlükule Höyüğü: Mersin'in Gizli Mirası

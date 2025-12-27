@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3658962,41.7794952"
 draft: false
+
+weight: 100
 ---
 
 ### Üsküp Kavala Doğu Tümülüsü: Tarihî ve Kültürel Bir Değer

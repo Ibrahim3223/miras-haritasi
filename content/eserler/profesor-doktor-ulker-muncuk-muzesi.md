@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.823725,39.935552"
 draft: false
+
+weight: 100
 ---
 
 ## Profesör Doktor Ülker Muncuk Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.984452242,38.558697384"
 draft: false
+
+weight: 100
 ---
 
 ## Seyit Ali Sultan Ziyareti Çeşmesi 1, Yazıhan

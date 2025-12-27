@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.638875,38.393106"
 draft: false
+
+weight: 100
 ---
 
 ## Parsada Arkeolojik Sit

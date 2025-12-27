@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.543997,36.2431455"
 draft: false
+
+weight: 100
 ---
 
 ## Seroiata Arkeolojik Sit

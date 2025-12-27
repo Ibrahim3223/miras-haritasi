@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.207078459,40.919064042"
 draft: false
+
+weight: 100
 ---
 
 ## Hürrem Sultan Çeşmesi, Soğanlık

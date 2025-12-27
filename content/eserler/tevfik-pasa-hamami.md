@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1379738,38.4205017"
 draft: false
+
+weight: 10
 ---
 
 ## Tevfik Paşa Hamamı: İzmir'in Tarihi ve Kültürel Mirasının Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9285851,41.0433044"
 draft: false
+
+weight: 100
 ---
 
 **Saka Baba Anıtı**

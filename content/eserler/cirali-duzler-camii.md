@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.5815998,40.8982"
 draft: false
+
+weight: 100
 ---
 
 ## Çıralı Düzler Camii: Artvin'in Tarihi Bir Mirası

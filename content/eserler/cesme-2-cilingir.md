@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6798019,41.1890793"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme 2, Çilingir: İstanbul'un Gizli Çeşmesi

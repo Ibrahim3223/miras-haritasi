@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.5386906,36.832453"
 draft: false
+
+weight: 100
 ---
 
 ## Cabbar Dede Türbesi: Adana'nın Tarihî Mirası

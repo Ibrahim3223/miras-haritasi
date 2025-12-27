@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.5916519,41.0367355"
 draft: false
+
+weight: 100
 ---
 
 ### Bolaman Kalesi Kilisesi

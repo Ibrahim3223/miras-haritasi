@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4,37.35"
 draft: false
+
+weight: 100
 ---
 
 ## Thasthara Arkeolojik Sit: Muğla'nın Gizli Harikası

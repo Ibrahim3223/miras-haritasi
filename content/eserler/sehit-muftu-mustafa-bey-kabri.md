@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4560127,41.1424637"
 draft: false
+
+weight: 100
 ---
 
 ## Şehit Müftü Mustafa Bey Kabri

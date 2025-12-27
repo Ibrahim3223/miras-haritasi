@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.294722222,37.658611111"
 draft: false
+
+weight: 10
 ---
 
 # Alexandreion (Priene)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.753551,39.0892335"
 draft: false
+
+weight: 100
 ---
 
 ## Malos (Frigya)

@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.1235,38.4575"
 draft: false
+
+weight: 10
 ---
 
 ## Ahavat Şalom Sinagogu: İzmirlinin Tarihî ve Kültürel Mirası

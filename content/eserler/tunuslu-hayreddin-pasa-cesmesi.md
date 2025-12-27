@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9362603,41.0456768"
 draft: false
+
+weight: 100
 ---
 
 ### Tunuslu Hayreddin Paşa Çeşmesi

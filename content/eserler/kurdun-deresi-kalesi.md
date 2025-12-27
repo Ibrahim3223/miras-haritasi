@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.9578934,40.5595818"
 draft: false
+
+weight: 100
 ---
 
 ## Kurdun Deresi Kalesi

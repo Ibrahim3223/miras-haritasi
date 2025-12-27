@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.3331,40.6497"
 draft: false
+
+weight: 100
 ---
 
 ### Yokuşlu Camii: Artvin'in Tarihi Bir Mirası

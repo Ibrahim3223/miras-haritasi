@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.03555556,36.09166667"
 draft: false
+
+weight: 10
 ---
 
 ### Aziz Simon Manastırı: Hatay'ın Gizli Cenneti

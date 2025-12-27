@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9674473,41.0098839"
 draft: false
+
+weight: 100
 ---
 
 ## Halife Cilvenaz Çeşmesi

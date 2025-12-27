@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.0475998,37.5657005"
 draft: false
+
+weight: 100
 ---
 
 ## Çalıca Höyük: Tavas'ta Gizli Bir Miras

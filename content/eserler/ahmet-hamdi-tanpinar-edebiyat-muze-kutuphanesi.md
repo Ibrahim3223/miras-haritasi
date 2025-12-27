@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97827,41.01098"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Hamdi Tanpınar Edebiyat Müze Kütüphanesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.4817085,39.7232895"
 draft: false
+
+weight: 100
 ---
 
 ## Taşçı Hamamı: Erzincan'ın Tarihî Bir Mirası

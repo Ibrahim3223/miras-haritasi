@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8539933,38.6349589"
 draft: false
+
+weight: 10
 ---
 
 ## Aynalı Kilise: Tarihi ve Kültürel Mirasının Gizemi

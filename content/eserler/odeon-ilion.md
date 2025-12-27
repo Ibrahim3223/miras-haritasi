@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "26.238611111,39.956666666"
 draft: false
+
+weight: 10
 ---
 
 ## Odeon (İlion): Çanakkale'nin Efsanevi Antik Tiyatrosu

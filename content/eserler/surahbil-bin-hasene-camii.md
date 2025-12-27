@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.1229477,36.7225533"
 draft: false
+
+weight: 100
 ---
 
 # Şurahbil Bin Hasene Camii

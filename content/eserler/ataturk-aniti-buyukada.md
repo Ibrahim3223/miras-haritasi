@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1260262,40.8737335"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Anıtı Büyükada

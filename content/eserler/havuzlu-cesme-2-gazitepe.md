@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3233299,41.1285095"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Çeşme 2, Gazitepe

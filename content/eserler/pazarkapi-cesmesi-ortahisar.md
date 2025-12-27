@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7178383,41.0067711"
 draft: false
+
+weight: 10
 ---
 
 ## Pazarkapı Çeşmesi: Ortahisar'ın Gizli Cenneti

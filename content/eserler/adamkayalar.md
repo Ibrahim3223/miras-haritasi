@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.05416667,36.525"
 draft: false
+
+weight: 10
 ---
 
 # Adamkayalar: Mersin'in Gizli Mirası

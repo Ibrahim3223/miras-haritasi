@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.33027778,36.98388889"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük Saat: Adana'nın Tarihi ve Kültürel Mirası

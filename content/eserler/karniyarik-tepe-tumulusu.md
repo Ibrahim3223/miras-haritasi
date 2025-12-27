@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0072231,38.5801659"
 draft: false
+
+weight: 100
 ---
 
 ## Karnıyarık Tepe Tümülüsü

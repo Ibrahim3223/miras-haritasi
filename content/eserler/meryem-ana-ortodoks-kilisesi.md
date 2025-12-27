@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.9888725,36.104908"
 draft: false
+
+weight: 100
 ---
 
 ## Meryem Ana Ortodoks Kilisesi: Samandağ'ın Gizli Cenneti

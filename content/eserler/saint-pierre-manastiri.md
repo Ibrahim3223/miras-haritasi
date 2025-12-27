@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.5533905,38.3910599"
 draft: false
+
+weight: 100
 ---
 
 **Saint Pierre Manastırı**

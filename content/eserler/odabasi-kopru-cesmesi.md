@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.7444,41.0639992"
 draft: false
+
+weight: 10
 ---
 
 ## Odabaşı Köprü Çeşmesi: Başakşehir'in Tarihi ve Kültürel Mirası

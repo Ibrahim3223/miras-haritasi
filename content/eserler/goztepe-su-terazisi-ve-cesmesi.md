@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0559185,40.9846781"
 draft: false
+
+weight: 100
 ---
 
 ### Göztepe Su Terazisi ve Çeşmesi

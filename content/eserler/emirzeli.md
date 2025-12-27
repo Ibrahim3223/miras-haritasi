@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.102335,36.5427946"
 draft: false
+
+weight: 10
 ---
 
 ## Emirzeli: Erdemli'nin Gizli Cenneti

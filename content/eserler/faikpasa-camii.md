@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0439221,41.0059713"
 draft: false
+
+weight: 100
 ---
 
 ## Faikpaşa Camii: İstanbul'un Gizli Cenneti

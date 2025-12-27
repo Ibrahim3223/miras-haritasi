@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.946949317,41.076823947"
 draft: false
+
+weight: 10
 ---
 
 ## Hatice Sultan Camii

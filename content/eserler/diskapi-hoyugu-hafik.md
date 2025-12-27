@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.4056168,39.8496056"
 draft: false
+
+weight: 10
 ---
 
 ## Dışkapı Höyüğü, Hafik

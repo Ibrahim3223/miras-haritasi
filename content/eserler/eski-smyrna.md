@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.17,38.464444444"
 draft: false
+
+weight: 10
 ---
 
 ### Eski Smyrna Tanıtımı

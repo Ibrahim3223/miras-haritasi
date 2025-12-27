@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.6776695,41.1904755"
 draft: false
+
+weight: 10
 ---
 
 ### Mustafa Efendi Çeşmesi, Çilingir

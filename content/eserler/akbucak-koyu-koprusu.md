@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.93805,41.095817"
 draft: false
+
+weight: 100
 ---
 
 ## Akbucak Köyü Köprüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.9796295,37.0304184"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Birecik

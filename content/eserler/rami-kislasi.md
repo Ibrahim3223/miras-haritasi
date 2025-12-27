@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.91555556,41.04916667"
 draft: false
+
+weight: 10
 ---
 
 ### Rami Kışlası: İstanbul'un Gizli Tarihi

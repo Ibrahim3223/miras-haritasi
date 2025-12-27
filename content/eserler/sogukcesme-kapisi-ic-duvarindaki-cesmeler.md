@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9788066,41.0105419"
 draft: false
+
+weight: 100
 ---
 
 ## Soğukçeşme Kapısı İç Duvarındaki Çeşmeler

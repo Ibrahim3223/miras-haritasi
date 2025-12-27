@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.016431897,41.021350044"
 draft: false
+
+weight: 100
 ---
 
 ## Divitçizâde Şeyh Mehmet Tâlib Efendi Camii: Üsküdar'ın Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7357922,40.9932289"
 draft: false
+
+weight: 100
 ---
 
 ### Kamışça Tümülüsü: Malkara'nın Gizli Mirası

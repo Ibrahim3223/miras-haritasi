@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9263916,37.5909424"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Veli Bey Camii

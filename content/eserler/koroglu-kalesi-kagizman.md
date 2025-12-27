@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.9853325,40.2405243"
 draft: false
+
+weight: 100
 ---
 
 ## Köroğlu Kalesi

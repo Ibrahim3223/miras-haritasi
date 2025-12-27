@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.772,39.902"
 draft: false
+
+weight: 10
 ---
 
 ## ODTÜ Bilim ve Teknoloji Müzesi

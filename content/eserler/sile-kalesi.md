@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.60912,41.18144"
 draft: false
+
+weight: 10
 ---
 
 ### Şile Kalesi: İstanbul'un Efsanevi Kaleleri Arasındaki Bir Harika

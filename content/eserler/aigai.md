@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.18861111,38.83111111"
 draft: false
+
+weight: 10
 ---
 
 ### Aigai Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.718722222,40.421111111"
 draft: false
+
+weight: 10
 ---
 
 ## İznik'teki Kırgızlar Türbesi: Bir Kültür Mirası

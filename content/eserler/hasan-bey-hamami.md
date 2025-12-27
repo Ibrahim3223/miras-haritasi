@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.8835011,40.3755341"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Bey Hamamı: Mudanya'da Bir Önemli Tarihî Eser

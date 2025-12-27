@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.61553812,38.747929248"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Dimitros Rum Kilisesi: Gülşehir'in Tarihi ve Kültürel Mirası

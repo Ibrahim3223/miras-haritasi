@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5190163,38.6230774"
 draft: false
+
+weight: 100
 ---
 
 # Saip Camii: İzmir'in Tarihi Bir Mirası

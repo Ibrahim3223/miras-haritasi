@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.958948786,41.013810121"
 draft: false
+
+weight: 100
 ---
 
 ## Delikanlı Sokak Sarnıcı: İstanbul'un Gizli Kuytu Mezarı

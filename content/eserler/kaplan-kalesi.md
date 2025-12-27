@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.419871,37.030701"
 draft: false
+
+weight: 100
 ---
 
 ## Kaplan Kalesi: Bodrum'un Gizli Çehresini İncele

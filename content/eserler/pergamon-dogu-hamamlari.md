@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1867847,39.1272583"
 draft: false
+
+weight: 100
 ---
 
 ## Pergamon Doğu Hamamları

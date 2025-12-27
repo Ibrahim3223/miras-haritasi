@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3781433,37.0608788"
 draft: false
+
+weight: 100
 ---
 
 ## Eyüpoğlu Camii: Gaziantep'in Tarihi Çıkınlarından Biri

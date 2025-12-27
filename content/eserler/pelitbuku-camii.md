@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4556999,41.3918991"
 draft: false
+
+weight: 100
 ---
 
 ## Pelitbükü Camii: Alaçam'ın Tarihi ve Kültürel Mirası

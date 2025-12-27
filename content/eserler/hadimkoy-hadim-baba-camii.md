@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.6180325,41.1572418"
 draft: false
+
+weight: 100
 ---
 
 ### Hadımköy Hadım Baba Camii

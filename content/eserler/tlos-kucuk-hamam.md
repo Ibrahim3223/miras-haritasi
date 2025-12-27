@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.420002,36.5524559"
 draft: false
+
+weight: 10
 ---
 
 ## Tlos Küçük Hamamı: Seydikemer'in Gizli Çandırı

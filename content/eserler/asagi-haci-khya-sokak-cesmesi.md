@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2256927,40.9192734"
 draft: false
+
+weight: 10
 ---
 
 ## Aşağı Hacı Kâhya Sokak Çeşmesi

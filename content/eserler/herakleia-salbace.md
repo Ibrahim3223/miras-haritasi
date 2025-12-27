@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.98571,37.62259"
 draft: false
+
+weight: 10
 ---
 
 # Herakleia Salbace: Tavas'taki Antik Bir Şehre Yolculuk

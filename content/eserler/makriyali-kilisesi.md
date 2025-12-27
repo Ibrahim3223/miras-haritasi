@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.5281029,41.488533"
 draft: false
+
+weight: 10
 ---
 
 ## Makriyali Kilisesi: Artvin'in Tarihî Bir Şansı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.111819,36.622579"
 draft: false
+
+weight: 10
 ---
 
 ## Lycian Mezarı

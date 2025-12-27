@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "41.2754097,39.9099312"
 draft: false
+
+weight: 100
 ---
 
 ## Ayaz Paşa Çeşmesi

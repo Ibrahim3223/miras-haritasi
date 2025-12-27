@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.19025,38.199472222"
 draft: false
+
+weight: 100
 ---
 
 ## Elbistan Ulu Cami: Tarihi ve Etkileyici Mimari Özellikleri

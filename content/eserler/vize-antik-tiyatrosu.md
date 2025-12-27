@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.76936,41.573787"
 draft: false
+
+weight: 10
 ---
 
 ## Vize Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.922889,40.998587"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Piri Sokak Çeşmesi: Yedikule'nin Gizemi

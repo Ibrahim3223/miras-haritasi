@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0376002,41.0208532"
 draft: false
+
+weight: 10
 ---
 
 ### Marmara Üniversitesi İlahiyat Fakültesi Camii: Üsküdar'ın Kültürel Mirası

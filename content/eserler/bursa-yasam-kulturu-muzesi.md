@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0580921,40.1808853"
 draft: false
+
+weight: 100
 ---
 
 ## Bursa Yaşam Kültürü Müzesi

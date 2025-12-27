@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.303611111,38.323611111"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme Kalesi: İzmir'in Tarihi Mirası

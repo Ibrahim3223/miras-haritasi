@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.092412,41.133761"
 draft: false
+
+weight: 10
 ---
 
 ## Serbostani Mustafa Ağa Camii

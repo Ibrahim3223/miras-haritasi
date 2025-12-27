@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.747975,37.312792"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Muhammed Türbesi

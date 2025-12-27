@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0627041,38.9129066"
 draft: false
+
+weight: 100
 ---
 
 ## Zafertepeçalköy Zafer Anıtı: Kütahya'nın Tarihî Mirası

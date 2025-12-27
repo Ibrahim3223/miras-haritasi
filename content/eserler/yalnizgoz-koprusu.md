@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.5466,41.6828"
 draft: false
+
+weight: 10
 ---
 
 **Yalnızgöz Köprüsü: Edirne'nin Tarihî Mirası**

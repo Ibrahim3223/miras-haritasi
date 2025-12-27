@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.929457,41.052696"
 draft: false
+
+weight: 100
 ---
 
 ## Evlice Baba Çeşmesi

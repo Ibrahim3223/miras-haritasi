@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.331719302,40.015687694"
 draft: false
+
+weight: 100
 ---
 
 ## Dispanser Çeşmesi: Ayaş'taki Bir Kültür Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.944849,41.033264"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı İsa Camii: Fatih'in Gizli Çehresi

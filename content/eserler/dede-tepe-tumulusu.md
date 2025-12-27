@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3422165,40.3202019"
 draft: false
+
+weight: 100
 ---
 
 # Dede Tepe Tümülüsü

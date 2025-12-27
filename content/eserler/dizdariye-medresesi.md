@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9721088,41.0062103"
 draft: false
+
+weight: 100
 ---
 
 ## Dizdariye Medresesi

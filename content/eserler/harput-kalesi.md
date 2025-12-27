@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.2574,38.7034"
 draft: false
+
+weight: 10
 ---
 
 ### Harput Kalesi: Tarihî Bir Mirasın Öyküsü

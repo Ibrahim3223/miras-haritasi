@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2552032,38.2807465"
 draft: false
+
+weight: 100
 ---
 
 ### Sülüklü Çeşme

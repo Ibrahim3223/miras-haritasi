@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.350533604,37.934951165"
 draft: false
+
+weight: 100
 ---
 
 # Doğu Gymnasionu'ndaki Bazilika: İzmirlinin Geç Antik Dönem Mirası

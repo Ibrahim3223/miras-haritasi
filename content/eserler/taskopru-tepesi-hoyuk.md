@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.1298923,39.6924553"
 draft: false
+
+weight: 100
 ---
 
 ## Taşköprü Tepesi Höyük: Eskişehir'in Gizli Anıtı

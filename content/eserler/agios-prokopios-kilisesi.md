@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.71997,38.816335"
 draft: false
+
+weight: 100
 ---
 
 **Agios Prokopios Kilisesi: Kayseri'nin Gizli Cenneti**

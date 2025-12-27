@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.241693,40.779078"
 draft: false
+
+weight: 100
 ---
 
 ## Mengencik Sultan Türbesi

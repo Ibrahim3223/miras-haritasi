@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9415932,41.0100594"
 draft: false
+
+weight: 100
 ---
 
 ## Amcazade Hüseyin Paşa Çeşmesi

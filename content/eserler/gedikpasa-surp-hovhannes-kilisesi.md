@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.967398,41.00591"
 draft: false
+
+weight: 10
 ---
 
 ## Gedikpaşa Surp Hovhannes Kilisesi

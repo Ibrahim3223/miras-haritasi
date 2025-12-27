@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8043594,39.8955154"
 draft: false
+
+weight: 100
 ---
 
 ## İmre Ormos Anıt Rölyefi: Ankara'nın Tarihi ve Kültürel Mirası

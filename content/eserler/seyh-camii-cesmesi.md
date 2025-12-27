@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01800366,41.025119167"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Camii Çeşmesi

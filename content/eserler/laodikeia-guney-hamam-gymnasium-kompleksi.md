@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1059914,37.8317604"
 draft: false
+
+weight: 100
 ---
 
 ## Laodikeia Güney Hamam-Gymnasium Kompleksi

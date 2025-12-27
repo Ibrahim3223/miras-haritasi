@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.147001,40.564665"
 draft: false
+
+weight: 100
 ---
 
 **Kayadibi Mahallesi Kilisesi**

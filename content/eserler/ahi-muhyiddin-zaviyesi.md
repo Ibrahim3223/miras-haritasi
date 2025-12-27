@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.5543976,40.3079491"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Muhyiddin Zaviyesi: Tokat'ın Tarihi ve Kültürel Mirası

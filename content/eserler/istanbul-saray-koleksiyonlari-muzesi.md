@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.00406254,41.041251887"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Saray Koleksiyonları Müzesi

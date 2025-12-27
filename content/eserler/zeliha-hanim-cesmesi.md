@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8739071,39.6521645"
 draft: false
+
+weight: 100
 ---
 
 ## Zeliha Hanım Çeşmesi: Balıkesir'in Tarihi Bir Mirası

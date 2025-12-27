@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.3354187,38.4677238"
 draft: false
+
+weight: 100
 ---
 
 ## Tilkitepe Höyüğü: Edremit'in Gizli Öztürk Tarihçesindeki Bir Değer

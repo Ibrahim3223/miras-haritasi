@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.0096092,38.1342239"
 draft: false
+
+weight: 100
 ---
 
 ## Kırık Minare, Silvan

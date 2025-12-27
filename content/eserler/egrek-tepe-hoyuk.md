@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.0407219,40.523468"
 draft: false
+
+weight: 100
 ---
 
 # Eğrek Tepe Höyük: Çankırı'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5207233,40.9788017"
 draft: false
+
+weight: 100
 ---
 
 ## Yalı Hamamı Çeşmesi

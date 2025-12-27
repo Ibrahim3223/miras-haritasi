@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9709473,41.0105703"
 draft: false
+
+weight: 100
 ---
 
 ### Nuruosmaniye Türbesi: Fatih'in Gizli Çehresi

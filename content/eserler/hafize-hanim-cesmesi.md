@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9468613,41.0344696"
 draft: false
+
+weight: 10
 ---
 
 **Hafize Hanım Çeşmesi: İstanbullu Kadınların Yaptığı Tarihi Bir Çeşme**

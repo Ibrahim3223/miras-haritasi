@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.772583,37.306324"
 draft: false
+
+weight: 100
 ---
 
 ## Mor Cercis Kilisesi

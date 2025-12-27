@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.9113159,38.6331444"
 draft: false
+
+weight: 10
 ---
 
 ## Sagir Mescit Camii

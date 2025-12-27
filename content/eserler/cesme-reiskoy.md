@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5916805,37.8473167"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Reisköy: Aydın'ın Germencik'te Gizli Bir Çeşme

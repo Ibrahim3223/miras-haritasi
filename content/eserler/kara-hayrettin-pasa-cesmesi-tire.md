@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7307606,38.0830727"
 draft: false
+
+weight: 100
 ---
 
 ## Kara Hayrettin Paşa Çeşmesi

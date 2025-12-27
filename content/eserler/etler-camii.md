@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.056958,37.143315"
 draft: false
+
+weight: 100
 ---
 
 ## Etler Camii: Serik'te Bir Önemli Kültür Mirası

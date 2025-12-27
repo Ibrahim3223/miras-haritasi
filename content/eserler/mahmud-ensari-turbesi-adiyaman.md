@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.3555054,37.7560776"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmud Ensari Türbesi Adıyaman

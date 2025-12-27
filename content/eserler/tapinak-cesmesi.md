@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1263062,37.92693"
 draft: false
+
+weight: 10
 ---
 
 # Tapınak Çeşmesi

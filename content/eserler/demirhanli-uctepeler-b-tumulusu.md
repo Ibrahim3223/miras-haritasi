@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.751585,41.6763306"
 draft: false
+
+weight: 100
 ---
 
 ## Demirhanlı Üçtepeler B Tümülüsü

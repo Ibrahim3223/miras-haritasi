@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18185833,39.11641667"
 draft: false
+
+weight: 10
 ---
 
 ## Metanet Caddesi Çeşmesi

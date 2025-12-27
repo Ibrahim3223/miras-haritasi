@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4899223,41.0308905"
 draft: false
+
+weight: 100
 ---
 
 ## Bostancılar Gomelt Camii

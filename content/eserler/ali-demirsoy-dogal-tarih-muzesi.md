@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.4975,39.260833333"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Demirsoy Doğal Tarih Müzesi

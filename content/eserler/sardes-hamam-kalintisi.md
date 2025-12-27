@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.0555058,38.4844971"
 draft: false
+
+weight: 100
 ---
 
 ## Sardes Hamam Kalıntısı

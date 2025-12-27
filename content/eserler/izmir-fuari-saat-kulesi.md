@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.1431561,38.4299278"
 draft: false
+
+weight: 10
 ---
 
 # İzmir Fuarı Saat Kulesi

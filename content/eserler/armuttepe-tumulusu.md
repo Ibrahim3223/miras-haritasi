@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9900455,41.1586113"
 draft: false
+
+weight: 100
 ---
 
 ## Armuttepe Tümülüsü: Hayrabolu'nun Gizli Mabeti

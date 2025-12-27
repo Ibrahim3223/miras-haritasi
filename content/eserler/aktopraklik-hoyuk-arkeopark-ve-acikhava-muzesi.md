@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.769825,40.1746597"
 draft: false
+
+weight: 100
 ---
 
 ### Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi

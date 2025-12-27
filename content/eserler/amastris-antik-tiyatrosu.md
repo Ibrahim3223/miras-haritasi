@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.3811,41.74403"
 draft: false
+
+weight: 100
 ---
 
 ### Amastris Antik Tiyatrosu: Amasra'nın Tarihi Mirası

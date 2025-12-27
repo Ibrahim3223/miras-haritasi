@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.461861111,40.873833333"
 draft: false
+
+weight: 10
 ---
 
 ### Çelebi Mehmet Medresesi Camii

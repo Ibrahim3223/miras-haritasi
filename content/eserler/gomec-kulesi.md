@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.135540182,36.490084579"
 draft: false
+
+weight: 10
 ---
 
 ### Gömeç Kulesi

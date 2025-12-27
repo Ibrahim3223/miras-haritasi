@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7538891,39.0470695"
 draft: false
+
+weight: 100
 ---
 
 ## Abidintepe Tümülüsü: Manisa'nın Gizli Öreni

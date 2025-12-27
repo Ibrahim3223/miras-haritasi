@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.949722222,41.019722222"
 draft: false
+
+weight: 10
 ---
 
 ## Havariyyun Kilisesi: İstanbul'un Gizli Azınlık Tarihi

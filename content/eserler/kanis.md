@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.634261,38.851389"
 draft: false
+
+weight: 10
 ---
 
 ### Kaniş: Tarihî Bir Arkeolojik Sit

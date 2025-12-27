@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.132888888,38.419333333"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Paşa Şadırvanı

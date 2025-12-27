@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.3833,37.0664"
 draft: false
+
+weight: 10
 ---
 
 # Gaziantep Kalesi: Türkiye'nin Eski Çağlı Mirası

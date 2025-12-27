@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3268013,42.034668"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayık Kalesırtı D Tümülüsü: Kırklareli'nin Gizli Cenneti

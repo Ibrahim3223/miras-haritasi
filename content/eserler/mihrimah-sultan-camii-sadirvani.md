@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015837639,41.02693902"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrimah Sultan Camii Şadırvanı

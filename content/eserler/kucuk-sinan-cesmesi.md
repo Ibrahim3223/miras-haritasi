@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5073166,37.8864441"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Sinan Çeşmesi: Karatay, Konya'nın Göz Alıcı Çeşmesi

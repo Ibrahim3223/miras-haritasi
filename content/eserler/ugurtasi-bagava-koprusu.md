@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.489358,40.570002"
 draft: false
+
+weight: 100
 ---
 
 ## Uğurtaşı (Bağava) Köprüsü: Torul'un Tarihi Çiçeği

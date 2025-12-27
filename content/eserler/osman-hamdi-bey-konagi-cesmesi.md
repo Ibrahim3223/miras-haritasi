@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0308571,37.373745"
 draft: false
+
+weight: 100
 ---
 
 ## Osman Hamdi Bey Konağı Çeşmesi

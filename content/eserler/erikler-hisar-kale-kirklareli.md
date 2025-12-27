@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.1142368,41.9136086"
 draft: false
+
+weight: 100
 ---
 
 # Erikler Hisar Kale: Kırklareli'nin Gizli Mücevheri

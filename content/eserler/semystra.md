@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.94536,41.065398"
 draft: false
+
+weight: 100
 ---
 
 ## Semystra: Antik Uygarlığın İzleri

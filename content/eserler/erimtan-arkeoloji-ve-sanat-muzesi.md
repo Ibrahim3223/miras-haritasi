@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.863055555,39.938055555"
 draft: false
+
+weight: 10
 ---
 
 ## Erimtan Arkeoloji ve Sanat Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.12611111,37.92666667"
 draft: false
+
+weight: 10
 ---
 
 ## Hierapolis Plutoniumu: Denizli'nin Gizli Mirası

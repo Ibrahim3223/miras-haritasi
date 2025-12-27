@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.303194444,40.850194444"
 draft: false
+
+weight: 100
 ---
 
 ## İdris Güllüce Kütüphanesi

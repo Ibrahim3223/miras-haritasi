@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.81416667,41.8175"
 draft: false
+
+weight: 10
 ---
 
 # Demirköy Dökümhanesi: Tarihî Bir Sanayi Mirası

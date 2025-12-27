@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1235771,41.5226479"
 draft: false
+
+weight: 100
 ---
 
 ## Taşağıl Köyü Camii

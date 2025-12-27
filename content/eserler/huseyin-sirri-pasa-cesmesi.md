@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.066555,41.1822243"
 draft: false
+
+weight: 10
 ---
 
 ## Hüseyin Sırrı Paşa Çeşmesi

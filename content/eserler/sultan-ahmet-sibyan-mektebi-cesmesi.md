@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9777402,41.0059004"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Ahmet Sıbyan Mektebi Çeşmesi

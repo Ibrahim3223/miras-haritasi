@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.22361111,38.67472222"
 draft: false
+
+weight: 10
 ---
 
 **İzzet Paşa Camii**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.31431,36.26008"
 draft: false
+
+weight: 10
 ---
 
 ## Patara Tiyatrosu: Antik Çağın Efsanesi

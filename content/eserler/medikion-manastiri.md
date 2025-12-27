@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.79058,40.38532"
 draft: false
+
+weight: 10
 ---
 
 ### Medikion Manastırı: Bursa'nın Tarihî ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.6210709,40.6215363"
 draft: false
+
+weight: 100
 ---
 
 ## Akça Dede Kabri Tanıtımı

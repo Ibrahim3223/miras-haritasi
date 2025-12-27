@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9080733,38.3953402"
 draft: false
+
+weight: 100
 ---
 
 **Tuvağın Tömeği Höyük 1**

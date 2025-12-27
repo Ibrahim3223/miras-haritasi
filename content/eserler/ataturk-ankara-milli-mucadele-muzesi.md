@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.864509685,39.966201023"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Ankara Milli Mücadele Müzesi

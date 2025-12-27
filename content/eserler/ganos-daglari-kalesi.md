@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3057117,40.809597"
 draft: false
+
+weight: 100
 ---
 
 ### Ganos Dağları Kalesi

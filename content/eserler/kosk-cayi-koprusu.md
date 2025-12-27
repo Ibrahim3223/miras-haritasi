@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0462494,37.8558578"
 draft: false
+
+weight: 100
 ---
 
 ## Köşk Çayı Köprüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.133583333,38.421472222"
 draft: false
+
+weight: 10
 ---
 
 ## Hisar Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9784374,41.0089989"
 draft: false
+
+weight: 100
 ---
 
 ### Zeynep Sultan Çeşmesi: İstanbul'un Gizli Çeşmesi

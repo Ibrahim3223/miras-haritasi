@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9232922,40.7675285"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ayvaz Cami: Kocaeli'nin Değerli Tarihi Bir Eseri

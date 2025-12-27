@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0622025,41.644413"
 draft: false
+
+weight: 100
 ---
 
 ## Dokuzhöyük Höyükler 1 Tümülüsü: Kırklareli'nin Gizli Mirası

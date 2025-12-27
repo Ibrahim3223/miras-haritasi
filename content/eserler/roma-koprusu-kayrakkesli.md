@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.484055,36.949623"
 draft: false
+
+weight: 10
 ---
 
 ## Roma Köprüsü, Kayrakkeşli: Toroslar'ın Gizli Cüzdanı

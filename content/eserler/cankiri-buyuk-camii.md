@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.617333333,40.6025"
 draft: false
+
+weight: 10
 ---
 
 ## Çankırı Büyük Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1815662,40.0158577"
 draft: false
+
+weight: 100
 ---
 
 ## Söğüt Hamidiye Camii

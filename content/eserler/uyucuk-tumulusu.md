@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.099369,40.134201"
 draft: false
+
+weight: 100
 ---
 
 ### Üyücük Tümülüsü

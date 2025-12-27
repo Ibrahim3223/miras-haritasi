@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.454074,36.524766"
 draft: false
+
+weight: 100
 ---
 
 ### Solyma

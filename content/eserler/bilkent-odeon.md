@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.752874635,39.875525696"
 draft: false
+
+weight: 100
 ---
 
 ## Bilkent Odeon: Antik Tiyatro Unutulmaz Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.166597,39.751385"
 draft: false
+
+weight: 100
 ---
 
 ## Baths of Herodes Atticus

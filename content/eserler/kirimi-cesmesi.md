@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.936359,41.037022"
 draft: false
+
+weight: 10
 ---
 
 ### Kırımi Çeşmesi

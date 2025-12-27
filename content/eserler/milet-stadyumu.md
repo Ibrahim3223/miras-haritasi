@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.274444444,37.528055555"
 draft: false
+
+weight: 10
 ---
 
 ## Milet Stadyumu

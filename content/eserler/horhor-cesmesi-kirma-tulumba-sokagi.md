@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.951019,41.013196"
 draft: false
+
+weight: 10
 ---
 
 ### Horhor Çeşmesi (Kırma Tulumba Sokağı)

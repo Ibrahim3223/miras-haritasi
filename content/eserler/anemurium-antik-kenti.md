@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.8025,36.02417"
 draft: false
+
+weight: 10
 ---
 
 ### Anemurium Antik Kenti

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5706348,41.7619705"
 draft: false
+
+weight: 100
 ---
 
 ### Kurudere Yalancıoluk Tümülüsü

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.092068,41.133826"
 draft: false
+
+weight: 10
 ---
 
 ## Subaşı Suyu Çeşmesi: Beykoz'un Tarihî Bir Çeşmesi

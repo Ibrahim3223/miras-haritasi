@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.576,37.089"
 draft: false
+
+weight: 10
 ---
 
 ### Öküzini Mağarası: Antik Dünyanın Gizli Harikası

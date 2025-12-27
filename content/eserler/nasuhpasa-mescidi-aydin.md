@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8405132,37.85252"
 draft: false
+
+weight: 100
 ---
 
 ## Nasuhpaşa Mescidi: Aydın'ın Tarihi Bir Mirası

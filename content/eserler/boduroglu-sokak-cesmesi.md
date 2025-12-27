@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7451,38.0858994"
 draft: false
+
+weight: 100
 ---
 
 ### Boduroğlu Sokak Çeşmesi

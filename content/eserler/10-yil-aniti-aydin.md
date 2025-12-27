@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8379707,37.8522949"
 draft: false
+
+weight: 100
 ---
 
 ## 10. Yıl Anıtı, Aydın

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4124527,38.3665085"
 draft: false
+
+weight: 100
 ---
 
 ## Daldırıcı Çeşmesi

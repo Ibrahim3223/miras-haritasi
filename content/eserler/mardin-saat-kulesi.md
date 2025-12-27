@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "40.717055555,37.32525"
 draft: false
+
+weight: 100
 ---
 
 # Mardin Saat Kulesi: Türk İslam Mimarisinin Göz Alıcı Örneği

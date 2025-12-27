@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.9531345,37.3029213"
 draft: false
+
+weight: 100
 ---
 
 ### Taşkemer Köprüsü 4 - Yatağan, Muğla

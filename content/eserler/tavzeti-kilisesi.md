@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.475538888,41.286544444"
 draft: false
+
+weight: 100
 ---
 
 ## Tavzeti Kilisesi: Şavşat'ta Bir Zeytin Dağındaki Gizemli Kilise

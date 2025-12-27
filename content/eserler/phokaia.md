@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.758055555,38.6675"
 draft: false
+
+weight: 10
 ---
 
 ## Phokaia: Foça'nın Eski Yunan Mirası

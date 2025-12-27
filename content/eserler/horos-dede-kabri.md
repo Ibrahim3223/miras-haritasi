@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9621658,41.0215263"
 draft: false
+
+weight: 100
 ---
 
 ## Horos Dede Kabri: Fatih'in Gizli Anıtı

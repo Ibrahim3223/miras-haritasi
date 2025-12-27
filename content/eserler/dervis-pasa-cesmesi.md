@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.921284067,41.022910086"
 draft: false
+
+weight: 10
 ---
 
 ## Derviş Paşa Çeşmesi

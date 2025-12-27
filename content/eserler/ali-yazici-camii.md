@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9516277,41.0298538"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Yazıcı Camii

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.487068449,37.867580948"
 draft: false
+
+weight: 100
 ---
 
 ## Konya Yazma Eserler Kütüphanesi: Tarihî bir Zenginlik

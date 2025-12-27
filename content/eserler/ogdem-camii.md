@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.635135,40.9166434"
 draft: false
+
+weight: 100
 ---
 
 ## Öğdem Camii

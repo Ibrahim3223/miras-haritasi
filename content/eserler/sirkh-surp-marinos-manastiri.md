@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.3566017,38.3457451"
 draft: false
+
+weight: 100
 ---
 
 ## Sırkh Surp Marinos Manastırı: Van'ın Gizli Cenneti

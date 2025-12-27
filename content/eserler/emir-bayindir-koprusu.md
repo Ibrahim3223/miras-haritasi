@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.4539719,38.7458878"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Bayındır Köprüsü: Ahlat'ın Tarihî Mirası

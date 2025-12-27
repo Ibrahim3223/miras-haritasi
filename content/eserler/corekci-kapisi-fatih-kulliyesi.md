@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9486809,41.0202827"
 draft: false
+
+weight: 100
 ---
 
 ## Çörekçi Kapısı, Fatih Külliyesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.1338501,37.2927094"
 draft: false
+
+weight: 100
 ---
 
 ## Siyami ve Benli Bey Türbesi: Muğla'nın İhtişamlı Anıtı

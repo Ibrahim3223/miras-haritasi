@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.553333333,36.972222222"
 draft: false
+
+weight: 10
 ---
 
 ## Belenkeşlik Kalesi: Toros Dağları'nin Gizli Öyküsü

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.13594,38.1994289"
 draft: false
+
+weight: 100
 ---
 
 ### Küner Köprüsü: Tarihî ve Kültürel Mirasımız

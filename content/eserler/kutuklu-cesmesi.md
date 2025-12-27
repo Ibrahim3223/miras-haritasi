@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.7084579,38.6215515"
 draft: false
+
+weight: 100
 ---
 
 ## Kütüklü Çeşmesi

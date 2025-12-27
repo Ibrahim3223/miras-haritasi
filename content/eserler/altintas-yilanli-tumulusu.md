@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.7258854,40.9692688"
 draft: false
+
+weight: 100
 ---
 
 # Altıntaş Yılanlı Tümülüsü: Edirne'nin Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.2826275,37.1373143"
 draft: false
+
+weight: 100
 ---
 
 ## Thera (Karya): Antik Yunanistan'ın Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9750263,37.059638"
 draft: false
+
+weight: 10
 ---
 
 ## Hacınebi Höyüğü: Şanlıurfa'nın Gizli Mirası

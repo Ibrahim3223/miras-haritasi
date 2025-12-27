@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.919536836,40.99996042"
 draft: false
+
+weight: 10
 ---
 
 # Barış ve Kültür Heykeli

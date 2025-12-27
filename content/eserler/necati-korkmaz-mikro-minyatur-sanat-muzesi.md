@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.2582817,37.8591232"
 draft: false
+
+weight: 100
 ---
 
 ## Necati Korkmaz Mikro Minyatür Sanat Müzesi

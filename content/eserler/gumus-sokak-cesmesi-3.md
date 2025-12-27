@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6911011,41.2477989"
 draft: false
+
+weight: 10
 ---
 
 ## Gümüş Sokak Çeşmesi 3: Safranbolu'nun Tarihi ve Kültürel Mirası

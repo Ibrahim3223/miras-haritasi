@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.52027778,39.88027778"
 draft: false
+
+weight: 100
 ---
 
 ## Marpessos: Antik Bir Kentin İzleri

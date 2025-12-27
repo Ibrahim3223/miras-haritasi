@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.4956093,37.1584549"
 draft: false
+
+weight: 100
 ---
 
 ### Kibyra Bazilikal Kilise

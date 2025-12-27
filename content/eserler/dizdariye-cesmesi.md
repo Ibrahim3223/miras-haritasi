@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970365,41.006402"
 draft: false
+
+weight: 100
 ---
 
 ## Dizdariye Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.5205345,37.5657616"
 draft: false
+
+weight: 100
 ---
 
 # Seçme Kalesi: Tarihi ve Kültürel Mirasın Bir Parçası

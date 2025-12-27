@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.932772059,41.047920683"
 draft: false
+
+weight: 10
 ---
 
 ## Eyüpsultan Türbe Hamamı Müzesi

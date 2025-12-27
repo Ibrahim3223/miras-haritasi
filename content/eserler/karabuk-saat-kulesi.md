@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "32.617916666,41.198111111"
 draft: false
+
+weight: 100
 ---
 
 ## Karabük Saat Kulesi

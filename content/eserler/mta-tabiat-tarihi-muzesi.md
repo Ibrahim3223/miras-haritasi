@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.798719,39.902129"
 draft: false
+
+weight: 100
 ---
 
 ## MTA Tabiat Tarihi Müzesi: Ankara'nın Gizli Cenneti

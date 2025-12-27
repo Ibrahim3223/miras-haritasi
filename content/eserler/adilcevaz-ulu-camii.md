@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.730222222,38.799944444"
 draft: false
+
+weight: 100
 ---
 
 ### Adilcevaz Ulu Camii

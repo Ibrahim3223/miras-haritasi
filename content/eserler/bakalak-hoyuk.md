@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.4154729,38.1490041"
 draft: false
+
+weight: 100
 ---
 
 # Bakalak Höyük: Aksaray'ın Gizli Kahramanı

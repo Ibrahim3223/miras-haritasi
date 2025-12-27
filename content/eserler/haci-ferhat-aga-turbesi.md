@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9555189,41.0231737"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Ferhat Ağa Türbesi

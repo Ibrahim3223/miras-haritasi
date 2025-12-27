@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.2333946,40.9382019"
 draft: false
+
+weight: 100
 ---
 
 ### Binbaşı Nihat Bey Çeşmesi: Bulancak'ta Bir Tarihi Çeşme

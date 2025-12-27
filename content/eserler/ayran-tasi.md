@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.731917183,40.39864802"
 draft: false
+
+weight: 100
 ---
 
 ## Ayran Taşı: Ankara'nın Gizli Çarpık Taşı

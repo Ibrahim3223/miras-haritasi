@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8650513,39.927227"
 draft: false
+
+weight: 10
 ---
 
 ## Sarıkız Heykeli: Ankara'nın Sembolik Anıtı

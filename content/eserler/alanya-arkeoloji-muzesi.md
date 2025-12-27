@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.9885783,36.5441411"
 draft: false
+
+weight: 10
 ---
 
 ## Alanya Arkeoloji Müzesi Tanıtımı

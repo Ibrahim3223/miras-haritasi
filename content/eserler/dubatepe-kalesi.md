@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.7597885,38.3835335"
 draft: false
+
+weight: 100
 ---
 
 ## Dubatepe Kalesi: İzmir'in Gizli İncisi

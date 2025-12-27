@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "36.33194444,41.29472222"
 draft: false
+
+weight: 10
 ---
 
 ### Samsun Saat Kulesi

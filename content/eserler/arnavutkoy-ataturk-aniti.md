@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.043249,41.067209"
 draft: false
+
+weight: 100
 ---
 
 **Arnavutköy Atatürk Anıtı**

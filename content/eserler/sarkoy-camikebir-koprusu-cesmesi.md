@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.0948753,40.6451721"
 draft: false
+
+weight: 100
 ---
 
 ## Şarköy Camikebir Köprüsü Çeşmesi: Tarihi ve Kültürel Mirasının Bir Parçası

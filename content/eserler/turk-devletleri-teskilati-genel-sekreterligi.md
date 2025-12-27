@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "28.97260226,41.007877005"
 draft: false
+
+weight: 10
 ---
 
 ## Türk Devletleri Teşkilatı Genel Sekreterliği

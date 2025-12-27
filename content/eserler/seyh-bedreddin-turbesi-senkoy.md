@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.6067429,37.4394646"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Bedreddin Türbesi, Şenköy

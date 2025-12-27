@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9806709,41.0048866"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Dede Kabri: Fatih'te Yüzyılların Emaneti

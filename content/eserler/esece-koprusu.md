@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0048447,39.1237488"
 draft: false
+
+weight: 100
 ---
 
 ## Esece Köprüsü: Akhisar'ın Tarihi ve Kültürel Mirası

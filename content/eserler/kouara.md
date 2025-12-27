@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.693248,38.581202"
 draft: false
+
+weight: 100
 ---
 
 ### Kouara Arkeolojik Sit

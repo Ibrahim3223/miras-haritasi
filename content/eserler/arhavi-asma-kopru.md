@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 # Arhavi Asma Köprü: Geçmişten Günümüze Uzanan Bir Mimari Harikası

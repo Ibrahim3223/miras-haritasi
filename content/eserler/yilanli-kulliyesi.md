@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7747345,41.3767853"
 draft: false
+
+weight: 10
 ---
 
 ## Yılanlı Külliyesi: Kastamonu'nun Tarihi ve Kültürel Mirası

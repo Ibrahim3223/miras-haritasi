@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.3992729,40.1466599"
 draft: false
+
+weight: 100
 ---
 
 ### Çimenlik Kalesi Fatih Camii: Çanakkale'nin Tarihi ve Kültürel Mirası

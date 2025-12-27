@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1776009,39.1166992"
 draft: false
+
+weight: 100
 ---
 
 **Sathiye Hanım Çeşmesi**

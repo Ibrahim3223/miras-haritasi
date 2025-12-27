@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.386666666,41.749722222"
 draft: false
+
+weight: 10
 ---
 
 ## Amasra Kalesi

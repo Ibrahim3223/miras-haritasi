@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9784927,41.0120125"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Terapion Ayazması

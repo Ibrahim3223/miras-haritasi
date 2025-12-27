@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.566595528,40.801264034"
 draft: false
+
+weight: 100
 ---
 
 ### Muzareti Kilisesi: Çakırüzüm'un Gizli Güzelliği

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7377758,41.5621758"
 draft: false
+
+weight: 100
 ---
 
 ## Karşıbağlar 1 Tümülüsü: Kırklareli'nin Gizli Mirası

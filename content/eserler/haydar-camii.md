@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.956369,41.022381"
 draft: false
+
+weight: 100
 ---
 
 ## Haydar Camii: Cibali'nin Değerli Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0962963,40.9532204"
 draft: false
+
+weight: 10
 ---
 
 **Bostancı Köprüsü: Kadıköy'ün Tarihî Görseli**

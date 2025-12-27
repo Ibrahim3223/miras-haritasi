@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9577579,41.0240746"
 draft: false
+
+weight: 100
 ---
 
 ## Karanlık Mescit: İstanbul'un Gizli Bir Cenneti

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.682136,38.388411"
 draft: false
+
+weight: 100
 ---
 
 ## Kalhane Köprüsü: Elazığ'ın Tarihî Mirası

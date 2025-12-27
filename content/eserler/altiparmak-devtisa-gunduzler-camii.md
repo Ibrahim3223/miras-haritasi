@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4876491,40.9596074"
 draft: false
+
+weight: 100
 ---
 
 ## Altıparmak Devtisa Gündüzler Camii

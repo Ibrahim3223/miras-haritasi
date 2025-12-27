@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.5894012,41.4939995"
 draft: false
+
+weight: 100
 ---
 
 ## Çanakçar Köprüsü

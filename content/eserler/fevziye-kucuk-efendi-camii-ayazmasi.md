@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.924528539,41.000384487"
 draft: false
+
+weight: 100
 ---
 
 ## Fevziye Küçük Efendi Camii Ayazması

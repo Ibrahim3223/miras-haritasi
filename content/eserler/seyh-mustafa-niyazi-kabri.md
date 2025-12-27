@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9322128,41.0192032"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Mustafa Niyazi Kabri: Fatih'in Gizli Şehri'nin Gizemi

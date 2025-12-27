@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.830322271,40.652355772"
 draft: false
+
+weight: 10
 ---
 
 **Şehzadeler Müzesi**

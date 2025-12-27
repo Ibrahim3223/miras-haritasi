@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.979864,41.009317"
 draft: false
+
+weight: 1
 ---
 
 ## Ayasofya Medresesi Tanıtımı

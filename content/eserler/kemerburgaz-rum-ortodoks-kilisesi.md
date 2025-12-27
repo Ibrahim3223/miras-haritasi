@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9117508,41.1590004"
 draft: false
+
+weight: 100
 ---
 
 ## Kemerburgaz Rum Ortodoks Kilisesi

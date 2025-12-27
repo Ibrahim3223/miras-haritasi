@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.0270386,39.7477608"
 draft: false
+
+weight: 100
 ---
 
 ## Süt Evliyası Türbesi

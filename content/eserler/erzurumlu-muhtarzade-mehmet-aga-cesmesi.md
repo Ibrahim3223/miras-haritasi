@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.26189698,40.83891178"
 draft: false
+
+weight: 100
 ---
 
 ### Erzurumlu Muhtarzade Mehmet Ağa Çeşmesi

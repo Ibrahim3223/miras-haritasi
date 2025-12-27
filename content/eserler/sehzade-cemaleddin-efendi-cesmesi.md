@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.35375,41.405944444"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Cemaleddin Efendi Çeşmesi

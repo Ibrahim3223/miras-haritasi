@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.866938062,39.934058315"
 draft: false
+
+weight: 100
 ---
 
 # Anonim Çeşme-23: Altındağ'ın Gizli Çeşmesi

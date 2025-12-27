@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.118832,40.84866"
 draft: false
+
+weight: 100
 ---
 
 # Büyükada Aya Yorgi Manastır Çeşmesi

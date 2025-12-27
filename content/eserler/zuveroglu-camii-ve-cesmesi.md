@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.1686325,36.2029228"
 draft: false
+
+weight: 100
 ---
 
 # Züveroğlu Camii ve Çeşmesi

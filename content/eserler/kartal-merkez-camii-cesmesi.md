@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1862583,40.8887978"
 draft: false
+
+weight: 10
 ---
 
 ## Kartal Merkez Camii Çeşmesi: İstanbul'un Bir Diğer Gizli Çeşmesi

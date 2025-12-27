@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0793362,40.1822815"
 draft: false
+
+weight: 10
 ---
 
 # Feyzullah Paşa Mescidi: Bursa'da Bir Tarihî Şans

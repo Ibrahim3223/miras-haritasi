@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.858,39.94415"
 draft: false
+
+weight: 10
 ---
 
 **Hacı Bayram Türbesi**

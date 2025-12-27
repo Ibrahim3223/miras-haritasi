@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.8558998,41.2108002"
 draft: false
+
+weight: 100
 ---
 
 ### Karacalı Camii: Terme'nin Eski Camii'si

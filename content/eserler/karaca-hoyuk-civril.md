@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.7194061,38.1946678"
 draft: false
+
+weight: 100
 ---
 
 ## Karaca Höyük: Çivril'in Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4588964,40.8694628"
 draft: false
+
+weight: 100
 ---
 
 ## Fevzi Baba Türbesi

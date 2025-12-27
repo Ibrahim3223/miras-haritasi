@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.5601349,41.6779747"
 draft: false
+
+weight: 100
 ---
 
 ### Türk ve İslam Eserleri Müzesi, Edirne

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.040408333,41.001333333"
 draft: false
+
+weight: 10
 ---
 
 ## Baba-Oğul Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6229992,37.9331017"
 draft: false
+
+weight: 100
 ---
 
 ## Ilıca Köprüsü

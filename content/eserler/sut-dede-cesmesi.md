@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5371876,38.7519493"
 draft: false
+
+weight: 100
 ---
 
 ### Süt Dede Çeşmesi: Tarihî Bir Mirasın Tanıtımı

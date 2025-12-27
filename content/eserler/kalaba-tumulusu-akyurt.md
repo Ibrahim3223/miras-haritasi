@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.0783691,40.147049"
 draft: false
+
+weight: 100
 ---
 
 ## Kalaba Tümülüsü: Akyurt'taki Antik Mirasın Gizemi

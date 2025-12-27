@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9618397,41.0105247"
 draft: false
+
+weight: 100
 ---
 
 ## Hatice Usta Çeşmesi: İstanbul'un Yüzyıllarca Geçen Tarihi ve Kültürel Mirası

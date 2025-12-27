@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2782764,40.1046562"
 draft: false
+
+weight: 100
 ---
 
 ## Kiremitdere Şehitliği: Eceabat'ta Bir Anıtsal Örnek

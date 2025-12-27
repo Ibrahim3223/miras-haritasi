@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.38818728,37.413317165"
 draft: false
+
+weight: 10
 ---
 
 ## Mor Abrohom Manastırı: Tarihi ve Kültürel Mirasın Gizemi

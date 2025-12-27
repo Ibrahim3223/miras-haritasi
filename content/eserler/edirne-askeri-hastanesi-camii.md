@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.534841442,41.702450564"
 draft: false
+
+weight: 100
 ---
 
 ### Edirne Askeri Hastanesi Camii

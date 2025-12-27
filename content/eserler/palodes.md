@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.099572,41.123881"
 draft: false
+
+weight: 100
 ---
 
 ## Palodes Arkeolojik Sit

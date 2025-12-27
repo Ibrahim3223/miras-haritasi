@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.945466666,41.185897222"
 draft: false
+
+weight: 100
 ---
 
 ## Hoşureti Kilisesi: Tarihi ve Kültürel Miras

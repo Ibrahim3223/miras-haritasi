@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.7338524,38.4326363"
 draft: false
+
+weight: 100
 ---
 
 ## Çatalköprü 2: Manisa'nın Tarihî Mirası

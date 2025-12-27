@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8328,40.6592"
 draft: false
+
+weight: 100
 ---
 
 ### Aişe Hatun Türbesi

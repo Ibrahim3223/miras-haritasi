@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.827,40.65"
 draft: false
+
+weight: 10
 ---
 
 ## İkinci Beyazıt Camii: Amasya'nın Göbeği

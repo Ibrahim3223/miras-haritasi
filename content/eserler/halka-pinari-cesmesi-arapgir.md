@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.622498529,39.077514741"
 draft: false
+
+weight: 100
 ---
 
 **Halka Pınarı Çeşmesi: Arapgir'deki Bir Tarihi ve Kültürel Öncü**

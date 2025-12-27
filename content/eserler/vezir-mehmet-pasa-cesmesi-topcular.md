@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9311924,41.0274734"
 draft: false
+
+weight: 100
 ---
 
 ## Vezir Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi

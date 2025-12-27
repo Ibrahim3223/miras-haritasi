@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0108395,41.0241051"
 draft: false
+
+weight: 10
 ---
 
 ### Şair Şem'i Şem'allah Efendi Türbesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.854002,39.941956"
 draft: false
+
+weight: 10
 ---
 
 ## Kurtuluş Savaşı Müzesi: Tarih ve Kültür Anıtı

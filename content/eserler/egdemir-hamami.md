@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.977027777,39.417"
 draft: false
+
+weight: 10
 ---
 
 ## Kütahya'nın Tarihî Harikası: Eğdemir Hamamı

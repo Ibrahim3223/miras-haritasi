@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3920097,41.4158478"
 draft: false
+
+weight: 100
 ---
 
 ## Umurca Tümülüsü 3: Lüleburgaz'ın Gizemi

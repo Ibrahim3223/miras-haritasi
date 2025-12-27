@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.015,36.829722222"
 draft: false
+
+weight: 10
 ---
 
 ## Karkamış Arkeolojik Sit

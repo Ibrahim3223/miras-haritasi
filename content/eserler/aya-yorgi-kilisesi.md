@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.8728142,40.1913147"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Yorgi Kilisesi: Gökçeada'nın Gizli Çehresi

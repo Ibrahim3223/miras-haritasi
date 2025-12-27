@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.439896,38.608256"
 draft: false
+
+weight: 100
 ---
 
 ## Harabat Sultan Türbesi: Manisa'nın Gizli Kahramanlarından Birini Anımsayan Bir Anıt

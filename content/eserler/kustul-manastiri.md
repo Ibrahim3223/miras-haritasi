@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.7067919,40.8025316"
 draft: false
+
+weight: 10
 ---
 
 ## Kuştul Manastırı: Tarihi ve Kültürel Mirasın Bir Parçası

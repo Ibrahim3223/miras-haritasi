@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.0888996,40.5026016"
 draft: false
+
+weight: 100
 ---
 
 ## Tarihi Köprü, Büyükkumla

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5640984,41.6746063"
 draft: false
+
+weight: 100
 ---
 
 # Helvacı Baba Mescidi ve Türbesi

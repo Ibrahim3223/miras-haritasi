@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9692127,41.0082902"
 draft: false
+
+weight: 100
 ---
 
 ## Karababa Türbesi: Fatih'te Bir Azınlık Dininin En Önemli Eserleri Arasındaki Bir Örnek

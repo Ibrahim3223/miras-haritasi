@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.5405788,39.446701"
 draft: false
+
+weight: 100
 ---
 
 ### Kurşunlu Camii: Sivrihisar'ın Tarihî Mirası

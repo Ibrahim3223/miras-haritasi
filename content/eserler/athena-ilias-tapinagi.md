@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.2392134,39.9577892"
 draft: false
+
+weight: 10
 ---
 
 ## Athena Ilias Tapınağı

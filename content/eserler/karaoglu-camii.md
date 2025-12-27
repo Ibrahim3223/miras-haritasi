@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.066206,38.2547569"
 draft: false
+
+weight: 100
 ---
 
 ## Karaoğlu Camii: Bir Ödemiş Kentinin Gizli Cenneti

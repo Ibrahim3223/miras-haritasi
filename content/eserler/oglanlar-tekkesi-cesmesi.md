@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.948492,41.010512"
 draft: false
+
+weight: 100
 ---
 
 ### Oğlanlar Tekkesi Çeşmesi

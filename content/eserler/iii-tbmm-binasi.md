@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "32.851111111,39.911666666"
 draft: false
+
+weight: 10
 ---
 
 ## III. TBMM Binası: Ankara'nın Tarihî ve Kültürel Mirası

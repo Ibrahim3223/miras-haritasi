@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.7458763,37.3140488"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Camii: Mardin'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.1838722,39.6291237"
 draft: false
+
+weight: 100
 ---
 
 ## Hamam, Kösedere

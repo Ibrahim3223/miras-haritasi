@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.9784831,39.6504791"
 draft: false
+
+weight: 10
 ---
 
 ## Gordion: İskiti İmparatorluk Merkezinin Gizemi

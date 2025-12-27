@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9575481,41.0110664"
 draft: false
+
+weight: 100
 ---
 
 ## Çukur Çeşme Hamamı

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.8809242,38.9482803"
 draft: false
+
+weight: 100
 ---
 
 ## Köroğlu Kalesi, Bayat

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.94116,41.03788"
 draft: false
+
+weight: 10
 ---
 
 ## İvaz Efendi Çeşmesi

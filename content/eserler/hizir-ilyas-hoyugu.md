@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.0571781,41.521048"
 draft: false
+
+weight: 100
 ---
 
 # Hızır-İlyas Höyüğü: Samsun'un Gizli Çağı

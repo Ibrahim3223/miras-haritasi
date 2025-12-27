@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.977222222,41.030833333"
 draft: false
+
+weight: 10
 ---
 
 ### Fransız Sarayı

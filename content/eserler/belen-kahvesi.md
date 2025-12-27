@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.1380787,37.2416191"
 draft: false
+
+weight: 100
 ---
 
 ### Belen Kahvesi Müzesi

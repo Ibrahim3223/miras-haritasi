@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.2218132,38.1672287"
 draft: false
+
+weight: 100
 ---
 
 #### İrun Kalesi

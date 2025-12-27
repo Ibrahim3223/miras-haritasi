@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0483475,41.0397644"
 draft: false
+
+weight: 100
 ---
 
 ### Gülendam Kadın Çeşmesi: Üsküdar'daki Bir Azizlik Anıtı

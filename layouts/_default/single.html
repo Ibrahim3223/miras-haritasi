@@ -1,9 +1,28 @@
 {{ define "main" }}
 
 <!-- Hero Section -->
-{{ $bgImage := .Params.image | default .Params.featured_image | default .Params.cover | default
+{{ $fallback :=
 "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1920px-Hagia_Sophia_Mars_2013.jpg"
 }}
+{{ if eq .Params.type "Cami" }}
+{{ $fallback =
+"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Sultan_Ahmed_Mosque_Istanbul.jpg/1200px-Sultan_Ahmed_Mosque_Istanbul.jpg"
+}}
+{{ else if eq .Params.type "Müze" }}
+{{ $fallback =
+"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Istanbul_Archaeology_Museum_Main_Building_2019.jpg/1200px-Istanbul_Archaeology_Museum_Main_Building_2019.jpg"
+}}
+{{ else if eq .Params.type "Antik Kent" }}
+{{ $fallback =
+"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Celsus_Library_Ephesus.jpg/1200px-Celsus_Library_Ephesus.jpg"
+}}
+{{ else if eq .Params.type "Kale" }}
+{{ $fallback =
+"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Rumeli_Hisar%C4%B1_ve_Fatih_Sultan_Mehmet_K%C3%B6pr%C3%BCs%C3%BC.jpg/1200px-Rumeli_Hisar%C4%B1_ve_Fatih_Sultan_Mehmet_K%C3%B6pr%C3%BCs%C3%BC.jpg"
+}}
+{{ end }}
+
+{{ $bgImage := .Params.image | default .Params.featured_image | default .Params.cover | default $fallback }}
 <div class="hero-section"
     style="background-image: url('{{ $bgImage }}'); min-height: 50vh; align-items: flex-end; padding-bottom: 60px; margin-bottom: 0; position: relative;">
     <div class="hero-overlay"

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.941343,41.022214"
 draft: false
+
+weight: 10
 ---
 
 ## Akseki Kemaleddin Efendi Kabri: Fatih, İstanbul'da Yüzyılların İzleri

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.8399029,38.9204292"
 draft: false
+
+weight: 100
 ---
 
 # Zeytin ve Zeytincilik Müzesi: Akhisar'daki Bir Kültür Mirası

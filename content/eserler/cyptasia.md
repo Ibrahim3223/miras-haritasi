@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.068707,41.92842"
 draft: false
+
+weight: 100
 ---
 
 ## Cyptasia: Türkiye'nin Gizli Çarpıntısı

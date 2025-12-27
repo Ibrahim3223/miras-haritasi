@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.2490353,41.2509433"
 draft: false
+
+weight: 100
 ---
 
 ## Aslandere Köprüsü: Rize'nin Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.3883514,41.7493629"
 draft: false
+
+weight: 100
 ---
 
 ## Kilise Mescidi Amasra: Bartın'ın Tarihî Mirası

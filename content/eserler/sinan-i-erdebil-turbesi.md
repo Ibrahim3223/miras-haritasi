@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9223289,41.019989"
 draft: false
+
+weight: 100
 ---
 
 ## Sinan-ı Erdebilî Türbesi: İstanbul'un Gizli Mücevheri

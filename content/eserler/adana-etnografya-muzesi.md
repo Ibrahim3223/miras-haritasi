@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.323056,36.989444"
 draft: false
+
+weight: 10
 ---
 
 ## Adana Etnografya Müzesi

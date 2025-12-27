@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0795,40.9623"
 draft: false
+
+weight: 10
 ---
 
 ## Suadiye Camii: Kadıköy'de Gizli Bir Çehre

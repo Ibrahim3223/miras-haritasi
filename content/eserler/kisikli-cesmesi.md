@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.063953,41.022034"
 draft: false
+
+weight: 100
 ---
 
 ## Kısıklı Çeşmesi: Üsküdar'ın Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.3336258,36.9844704"
 draft: false
+
+weight: 100
 ---
 
 # Altınkoza Sanat Galerisi ve Tarihi Eski Kız Lisesi

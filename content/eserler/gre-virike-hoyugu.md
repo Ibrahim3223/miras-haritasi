@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0154,36.922745"
 draft: false
+
+weight: 100
 ---
 
 **Gre Virike Höyüğü: Şanlıurfa'nın Gizli Anıtı**

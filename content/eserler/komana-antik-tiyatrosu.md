@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.325981,38.329498"
 draft: false
+
+weight: 100
 ---
 
 ## Komana Antik Tiyatrosu

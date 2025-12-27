@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0703,40.4162"
 draft: false
+
+weight: 100
 ---
 
 ## Parion: Bir Antik Kentin Mirası

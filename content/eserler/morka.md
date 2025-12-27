@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.79518,37.11455"
 draft: false
+
+weight: 100
 ---
 
 ### Morka

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1284313,38.4139214"
 draft: false
+
+weight: 100
 ---
 
 ### Güneş Saati, İzmir Arkeoloji Müzesi: Tarihi ve Kültürel Mirasın Parçası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.7969,40.3931"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Camii, Tirilye

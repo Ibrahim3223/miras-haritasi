@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.2983131,37.6596832"
 draft: false
+
+weight: 100
 ---
 
 ## Priene Roma Hamam Kompleksi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.963388888,41.02025"
 draft: false
+
+weight: 10
 ---
 
 ## Üçmihraplı Camii

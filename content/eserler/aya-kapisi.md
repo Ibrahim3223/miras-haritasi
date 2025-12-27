@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.956346641,41.027844323"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Kapısı

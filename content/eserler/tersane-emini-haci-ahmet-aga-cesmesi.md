@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979611,41.027987"
 draft: false
+
+weight: 10
 ---
 
 ## Tersane Emini Hacı Ahmet Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.001580357,41.164478582"
 draft: false
+
+weight: 100
 ---
 
 ## Pirinçlik Köyü Camii

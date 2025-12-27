@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.54805556,40.3175"
 draft: false
+
+weight: 10
 ---
 
 ## Tokat Kalesi: Tarihî Bir Kahramanlık Eseri

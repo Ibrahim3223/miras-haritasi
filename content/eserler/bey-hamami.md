@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5573597,37.763846"
 draft: false
+
+weight: 100
 ---
 
 ## Bey Hamamı: Isparta'nın Tarihî Bir Mirası

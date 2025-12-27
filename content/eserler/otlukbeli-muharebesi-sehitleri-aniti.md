@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.9798,40.0187"
 draft: false
+
+weight: 100
 ---
 
 ## Otlukbeli Muharebesi Şehitleri Anıtı

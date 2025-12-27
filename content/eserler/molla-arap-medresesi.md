@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.713398,38.0958633"
 draft: false
+
+weight: 100
 ---
 
 ## Molla Arap Medresesi

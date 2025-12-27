@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.277264876,40.238577261"
 draft: false
+
+weight: 10
 ---
 
 ## Arıburnu Anıtı

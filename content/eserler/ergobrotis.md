@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.149947,40.133759"
 draft: false
+
+weight: 100
 ---
 
 ### Ergobrotis: Antik Tiyatro ve Kentin Mirası

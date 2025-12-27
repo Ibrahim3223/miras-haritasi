@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9237995,41.0012512"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hamza Mescidi: İstanbul'un Gizli Cenneti

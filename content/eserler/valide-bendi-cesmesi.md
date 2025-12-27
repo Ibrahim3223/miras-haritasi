@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9876958,41.1903871"
 draft: false
+
+weight: 100
 ---
 
 ## Valide Bendi Çeşmesi

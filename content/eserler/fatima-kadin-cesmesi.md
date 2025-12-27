@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5538559,40.5859756"
 draft: false
+
+weight: 100
 ---
 
 ## Fatıma Kadın Çeşmesi: Marmara'nın Tarihî Bir Örneği

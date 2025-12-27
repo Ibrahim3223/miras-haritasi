@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.975711,40.341321"
 draft: false
+
+weight: 100
 ---
 
 ### Akşar Höyük: Türkiye'nin Eski Kenti

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.3834,37.0676498"
 draft: false
+
+weight: 100
 ---
 
 ## Naib Hamamı

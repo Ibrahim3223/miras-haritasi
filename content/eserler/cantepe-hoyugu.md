@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3804169,38.4675446"
 draft: false
+
+weight: 100
 ---
 
 ### Cantepe Höyüğü: Malatya'nın Gizli Mirası

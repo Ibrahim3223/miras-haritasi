@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9529781,41.0147476"
 draft: false
+
+weight: 100
 ---
 
 ## Atiye Hanım Çeşmesi: İstanbul'un Gizli Kahramanı

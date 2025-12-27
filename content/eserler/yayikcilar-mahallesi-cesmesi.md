@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.149611,40.494113"
 draft: false
+
+weight: 100
 ---
 
 ## Yayıkçılar Mahallesi Çeşmesi

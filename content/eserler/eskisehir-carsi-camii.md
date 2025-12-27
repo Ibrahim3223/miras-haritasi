@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.5192146,39.7739639"
 draft: false
+
+weight: 100
 ---
 
 ## Eskişehir Çarşı Camii: Tarihi ve Kültürel Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.16666667,36.86666667"
 draft: false
+
+weight: 10
 ---
 
 ## Tarhuntassa Arkeolojik Sit

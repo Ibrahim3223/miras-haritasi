@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0319637,37.7597015"
 draft: false
+
+weight: 100
 ---
 
 ### Sapaca Camii: Tarihi ve Kültürel Mirasın Parçaları

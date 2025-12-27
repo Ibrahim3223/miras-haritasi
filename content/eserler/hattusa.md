@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.615277777,40.019722222"
 draft: false
+
+weight: 10
 ---
 
 ## Hattuşa: Geçmişe Yolculuk Eden Boğazkale'nin Gizemi

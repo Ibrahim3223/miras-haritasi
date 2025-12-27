@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.0692825,38.9526901"
 draft: false
+
+weight: 100
 ---
 
 # Mollakent Medresesi

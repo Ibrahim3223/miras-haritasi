@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.548083333,40.812611111"
 draft: false
+
+weight: 100
 ---
 
 ## Hamzeti Kilisesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.2113078,40.4648693"
 draft: false
+
+weight: 100
 ---
 
 ## Yıldırım Beyazıt Hamamı: Mudurnu'nun Tarihi Bir Anıtını Keşfedin

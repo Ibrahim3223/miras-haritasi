@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9893742,41.0341148"
 draft: false
+
+weight: 100
 ---
 
 ## Sacre Coeur Süryani Katolik Kilisesi: İstanbul'un Gizli Çehresinde Bir Ölümsüz

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.433638888,41.356555555"
 draft: false
+
+weight: 100
 ---
 
 ## Tsihia Kilisesi: Yoncalı'daki Bir İhtişam

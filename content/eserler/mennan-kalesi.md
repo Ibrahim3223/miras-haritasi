@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.0457458,36.5493393"
 draft: false
+
+weight: 100
 ---
 
 ## Mennan Kalesi: Ermenek'in Tarihî Mirası

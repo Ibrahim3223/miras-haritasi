@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.4222431,41.2802696"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Ağa Hamamı Tanıtımı

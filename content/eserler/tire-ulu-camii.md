@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.736361111,38.08375"
 draft: false
+
+weight: 10
 ---
 
 ## Tire Ulu Camii: Tarih ve Miras

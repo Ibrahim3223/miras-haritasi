@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17969444,39.11815278"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Çavuş Çeşmesi

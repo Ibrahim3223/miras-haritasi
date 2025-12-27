@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6443214,38.2238121"
 draft: false
+
+weight: 100
 ---
 
 ### Işıldaklı Geçidi Çeşmesi, Bayındır: Tarihi Bir Anıt

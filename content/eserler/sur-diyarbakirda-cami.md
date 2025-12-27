@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.230681,37.905779"
 draft: false
+
+weight: 10
 ---
 
 ## Diyarbakır'daki Sur'daki Cami: Tarihi ve Kültürel Miras

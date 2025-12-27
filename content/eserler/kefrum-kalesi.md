@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.0911751,38.4293137"
 draft: false
+
+weight: 100
 ---
 
 ### Kefrum Kalesi: Diyarbakır'ın Tarihi Bir Anıtı

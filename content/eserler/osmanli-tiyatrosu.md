@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Osmanlı Tiyatrosu: İstanbul'un Gizli Tiyatro Mirası

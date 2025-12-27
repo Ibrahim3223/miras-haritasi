@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "34.66305556,38.7375"
 draft: false
+
+weight: 10
 ---
 
 ## Açıksaray Manastırı

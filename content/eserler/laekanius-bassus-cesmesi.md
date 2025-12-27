@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.343325188,37.936115287"
 draft: false
+
+weight: 100
 ---
 
 ## Laekanius Bassus Çeşmesi

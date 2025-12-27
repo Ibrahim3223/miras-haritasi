@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.724963,40.83924"
 draft: false
+
+weight: 100
 ---
 
 # Tesderamoska: Türkiye'nin Değerli Arkeolojik Mirası

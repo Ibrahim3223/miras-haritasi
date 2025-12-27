@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.02004,41.013226"
 draft: false
+
+weight: 10
 ---
 
 ## Karaca Ahmet Türbesi

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.0084743,41.0455208"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Zafir Kütüphanesi

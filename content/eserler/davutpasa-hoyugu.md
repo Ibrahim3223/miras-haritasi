@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.6097879,36.3180224"
 draft: false
+
+weight: 100
 ---
 
 ## Davutpaşa Höyüğü

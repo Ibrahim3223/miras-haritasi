@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.555704,41.676712"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Camii: Edirne'nin Tarihî Bir Zenginliği

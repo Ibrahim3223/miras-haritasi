@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.637467,40.049983"
 draft: false
+
+weight: 100
 ---
 
 ### Kurşunlu Höyük: Bursa'nın Gizli Ören Yeri

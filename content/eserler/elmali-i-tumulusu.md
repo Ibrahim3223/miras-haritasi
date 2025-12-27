@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8975029,41.1871262"
 draft: false
+
+weight: 100
 ---
 
 ## Elmalı I Tümülüsü: Uzunköprü'ün Gizli Kahramanı

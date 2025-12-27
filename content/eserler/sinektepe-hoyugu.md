@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3852997,38.1018982"
 draft: false
+
+weight: 100
 ---
 
 ## Sinektepe Höyüğü: İzmir'in Gizli Mirası

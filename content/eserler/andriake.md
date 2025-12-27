@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9585,36.22961111"
 draft: false
+
+weight: 10
 ---
 
 # Andriake: Antik Limanın Gizemi

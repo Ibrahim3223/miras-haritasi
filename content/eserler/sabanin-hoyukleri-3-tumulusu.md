@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2603588,42.0200539"
 draft: false
+
+weight: 100
 ---
 
 ## Şabanın Höyükleri 3 Tümülüsü

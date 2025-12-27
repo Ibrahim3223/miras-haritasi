@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.455254,38.671823"
 draft: false
+
+weight: 100
 ---
 
 ## Veziroğlu Höyük: Tarihi ve Kültürel Mirasın Gizemi

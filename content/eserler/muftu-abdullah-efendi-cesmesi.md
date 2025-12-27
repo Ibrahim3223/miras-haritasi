@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5057602,37.8743019"
 draft: false
+
+weight: 100
 ---
 
 ### Müftü Abdullah Efendi Çeşmesi

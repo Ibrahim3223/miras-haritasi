@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.9277382,36.3711048"
 draft: false
+
+weight: 100
 ---
 
 ## Mukaddem Dede Türbesi

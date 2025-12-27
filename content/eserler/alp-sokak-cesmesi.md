@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1838226,39.1230698"
 draft: false
+
+weight: 10
 ---
 
 **Alp Sokak Çeşmesi: Bergama'nın Tarihi Bir Çeşmesi**

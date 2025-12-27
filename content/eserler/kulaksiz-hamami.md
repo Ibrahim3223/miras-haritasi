@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.96225,41.039083333"
 draft: false
+
+weight: 100
 ---
 
 ## Kulaksız Hamamı

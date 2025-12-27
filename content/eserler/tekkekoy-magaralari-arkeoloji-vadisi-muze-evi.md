@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.461573445,41.204529552"
 draft: false
+
+weight: 10
 ---
 
 ## Tekkeköy Mağaraları Arkeoloji Vadisi Müze Evi

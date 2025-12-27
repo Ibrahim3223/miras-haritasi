@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.9173698,38.3093987"
 draft: false
+
+weight: 100
 ---
 
 ## Kandiltepesi Tümülüsü: Akçadağ'ın Gizli Hazineleri

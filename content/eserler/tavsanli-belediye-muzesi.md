@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.491108,39.544009"
 draft: false
+
+weight: 100
 ---
 
 ### Tavşanlı Belediye Müzesi: Kütahya'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9398022,41.0354118"
 draft: false
+
+weight: 10
 ---
 
 ## Avcı Bey Camii

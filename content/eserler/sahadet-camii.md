@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.056027777,40.186305555"
 draft: false
+
+weight: 10
 ---
 
 ## Şahadet Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0241833,41.0097923"
 draft: false
+
+weight: 100
 ---
 
 ## Mollacıkzade Sebili: Üsküdar'ın Gizli Çeşmesi

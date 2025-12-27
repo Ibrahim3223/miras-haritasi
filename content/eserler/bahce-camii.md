@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.4640102,38.0668411"
 draft: false
+
+weight: 10
 ---
 
 ### Bahçe Camii: Isparta'nın Doğal Güzelliği Arasında Yükselen Bir Tarihî Miras

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.371418,40.9849167"
 draft: false
+
+weight: 100
 ---
 
 ## İskefiye Kalesi: Trabzon'un Gizli Çandırı

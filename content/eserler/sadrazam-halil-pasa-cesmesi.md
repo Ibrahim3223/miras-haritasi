@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.015190269,41.021773658"
 draft: false
+
+weight: 10
 ---
 
 ## Sadrazam Halil Paşa Çeşmesi

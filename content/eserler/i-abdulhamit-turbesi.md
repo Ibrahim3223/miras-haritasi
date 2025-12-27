@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.974138,41.015522"
 draft: false
+
+weight: 10
 ---
 
 **I. Abdülhamit Türbesi**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0499611,40.1851959"
 draft: false
+
+weight: 10
 ---
 
 ## Alaeddin Paşa Camii

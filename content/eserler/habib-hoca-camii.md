@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.6843529,41.2629013"
 draft: false
+
+weight: 100
 ---
 
 ### Habib Hoca Camii: Edirne'nin Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras

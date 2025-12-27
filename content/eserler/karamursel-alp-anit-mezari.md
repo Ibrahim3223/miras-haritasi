@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.6163731,40.6908913"
 draft: false
+
+weight: 100
 ---
 
 ## Karamürsel Alp Anıt Mezarı

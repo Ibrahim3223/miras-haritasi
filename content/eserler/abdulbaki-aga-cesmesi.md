@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971981,41.035127"
 draft: false
+
+weight: 10
 ---
 
 ### Abdulbaki Ağa Çeşmesi

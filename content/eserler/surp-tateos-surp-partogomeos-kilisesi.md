@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.951444444,41.003361111"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Tateos – Surp Partoğomeos Kilisesi

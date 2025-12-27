@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.9874954,38.2291069"
 draft: false
+
+weight: 100
 ---
 
 ### Boşat Kalesi

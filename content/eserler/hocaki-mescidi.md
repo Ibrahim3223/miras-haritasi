@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5554638,41.6786385"
 draft: false
+
+weight: 100
 ---
 
 ### Hocaki Mescidi: Edirne'nin Gizli Çeşmesi

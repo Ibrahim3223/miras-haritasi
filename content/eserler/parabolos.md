@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.030439,41.052491"
 draft: false
+
+weight: 100
 ---
 
 ## Parabolos: Eski Yunanistan'ın Gizemli Arkeolojik Sit

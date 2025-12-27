@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.493885,37.8649559"
 draft: false
+
+weight: 100
 ---
 
 ### Taş Mescit Çeşmesi: Konya'nın Tarihî Mirası

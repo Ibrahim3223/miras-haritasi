@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.5961571,40.4579163"
 draft: false
+
+weight: 100
 ---
 
 ## Kocapınar Köyü Çeşmesi

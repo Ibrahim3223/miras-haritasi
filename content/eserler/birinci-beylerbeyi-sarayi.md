@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "29.04,41.0425"
 draft: false
+
+weight: 100
 ---
 
 # Birinci Beylerbeyi Sarayı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.259701098,36.101590617"
 draft: false
+
+weight: 10
 ---
 
 ### Tokaçlı Meryem Ana Kilisesi

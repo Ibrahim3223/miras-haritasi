@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.3124027,37.2751083"
 draft: false
+
+weight: 100
 ---
 
 ### Pancar Höyük, Korkuteli: Tarih Öncesi Mirası

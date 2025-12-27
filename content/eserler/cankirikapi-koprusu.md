@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.850195424,39.945179057"
 draft: false
+
+weight: 100
 ---
 
 ### Çankırıkapı Köprüsü: Ankara'nın Tarihi Bir Mirası

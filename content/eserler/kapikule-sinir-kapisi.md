@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "26.35694444,41.71666667"
 draft: false
+
+weight: 10
 ---
 
 ### Kapıkule Sınır Kapısı

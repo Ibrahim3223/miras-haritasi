@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.088725,40.612477"
 draft: false
+
+weight: 10
 ---
 
 ## Alperenler Türbesi

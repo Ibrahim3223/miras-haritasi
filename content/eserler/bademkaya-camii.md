@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.6938606,41.0172794"
 draft: false
+
+weight: 100
 ---
 
 ### Bademkaya Camii: Artvin'in Tarihi ve Kültürel Miraslarından biri

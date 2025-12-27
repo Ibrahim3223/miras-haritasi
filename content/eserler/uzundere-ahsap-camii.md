@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.694241,40.669612"
 draft: false
+
+weight: 100
 ---
 
 ## Uzundere Ahşap Camii: Kocaeli'nin Gizli Çehresini Açığa Çıkaran Bir Miras

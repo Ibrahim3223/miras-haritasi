@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.768978,39.295607"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Dede Türbesi

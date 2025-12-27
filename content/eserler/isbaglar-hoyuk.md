@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8565052,38.9147782"
 draft: false
+
+weight: 100
 ---
 
 **İsbağlar Höyük: Aksaray'ın Gizli Kahramanı**

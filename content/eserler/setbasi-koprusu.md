@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.069622,40.1809616"
 draft: false
+
+weight: 10
 ---
 
 ## Setbaşı Köprüsü: Bursa'nın Tarihi ve Mimari Mirası

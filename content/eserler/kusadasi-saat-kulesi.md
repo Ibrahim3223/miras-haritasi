@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "27.2535,37.860777777"
 draft: false
+
+weight: 10
 ---
 
 ## Kuşadası Saat Kulesi

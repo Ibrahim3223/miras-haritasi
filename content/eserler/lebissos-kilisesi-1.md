@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0659962,36.5544472"
 draft: false
+
+weight: 100
 ---
 
 ## Lebissos Kilisesi 1: Muğla'nın Gizli Cenneti

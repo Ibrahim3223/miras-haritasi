@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6246986,36.7940331"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Devlet Resim Heykel Müzesi ve Galerisi

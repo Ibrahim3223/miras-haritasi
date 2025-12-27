@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.4453964,37.2007294"
 draft: false
+
+weight: 10
 ---
 
 ## Mor Yakup D'Karno Manastırı

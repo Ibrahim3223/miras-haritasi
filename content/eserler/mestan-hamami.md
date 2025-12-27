@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.324814,36.9859385"
 draft: false
+
+weight: 100
 ---
 
 # Mestan Hamamı: Seyhan'ın Tarihi Bir Mirası

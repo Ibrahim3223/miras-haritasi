@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.3826645,37.0648934"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Paşa Hamamı

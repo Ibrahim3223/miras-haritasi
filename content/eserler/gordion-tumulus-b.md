@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.990698,39.655102"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs B: Polatlı'nın Gizemi

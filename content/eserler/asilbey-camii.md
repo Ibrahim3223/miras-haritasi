@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.2144871,40.4587555"
 draft: false
+
+weight: 100
 ---
 
 ## Asilbey Camii: Bolu'nun Tarihi Bir Mirası

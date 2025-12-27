@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.214166666,37.067222222"
 draft: false
+
+weight: 100
 ---
 
 ## Zeynel Abidin Camii: Mezopotamya'nın Tarihi Bir Mirası

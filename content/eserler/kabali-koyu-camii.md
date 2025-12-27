@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.0716248,41.8615913"
 draft: false
+
+weight: 100
 ---
 
 ## Kabalı Köyü Camii: Sinop'un Gizli Çehresinde Bir Ölümsüz

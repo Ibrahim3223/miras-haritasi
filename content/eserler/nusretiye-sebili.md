@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.983395,41.027645"
 draft: false
+
+weight: 100
 ---
 
 ### Nusretiye Sebili: Beyoğlu'ndaki Tarihi Çeşme

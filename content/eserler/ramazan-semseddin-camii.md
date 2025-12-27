@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8639107,39.9381294"
 draft: false
+
+weight: 100
 ---
 
 # Ramazan Şemseddin Camii: Ankara'nın Tarihi ve Kültürel Mirası

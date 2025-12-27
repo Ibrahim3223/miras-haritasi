@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.2927914,37.462532"
 draft: false
+
+weight: 100
 ---
 
 ### Don Baba Türbesi

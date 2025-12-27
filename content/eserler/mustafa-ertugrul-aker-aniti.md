@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.6876678,36.8841858"
 draft: false
+
+weight: 100
 ---
 
 ## Mustafa Ertuğrul Aker Anıtı

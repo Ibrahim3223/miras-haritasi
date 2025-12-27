@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.128000057,38.32100161"
 draft: false
+
+weight: 10
 ---
 
 ## Seydiköy Tren İstasyonu

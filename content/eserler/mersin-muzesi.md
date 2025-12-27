@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.601345226,36.78170999"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Müzesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

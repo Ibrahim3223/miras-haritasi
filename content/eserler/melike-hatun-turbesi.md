@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.857884601,39.937514329"
 draft: false
+
+weight: 10
 ---
 
 ## Melike Hatun Türbesi

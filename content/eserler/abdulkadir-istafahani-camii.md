@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.860722222,39.942527777"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülkadir İstafahani Camii: Geçmişin Mirası ve İnsanların İbadet Ettiği Yer

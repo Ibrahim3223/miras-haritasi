@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.139361111,38.435777777"
 draft: false
+
+weight: 10
 ---
 
 ## Cumhuriyet Ağacı: İzmir'in Yüce Anıtı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.0983181,41.6331749"
 draft: false
+
+weight: 100
 ---
 
 **Kıyıköy Kalesi Liman Kapısı: Bir Altın Çağın Kalıntısı**

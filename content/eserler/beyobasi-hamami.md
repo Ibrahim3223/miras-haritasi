@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.26399,40.27967"
 draft: false
+
+weight: 100
 ---
 
 ## Beyobası Hamamı: Tokat'ın Tarihî Mirası

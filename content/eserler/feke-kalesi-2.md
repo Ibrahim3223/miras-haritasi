@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.92007,37.817679"
 draft: false
+
+weight: 100
 ---
 
 ### Feke Kalesi 2

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.933333333,38.933333333"
 draft: false
+
+weight: 100
 ---
 
 ## Pitane: İyonya'nın Gizli Kenti

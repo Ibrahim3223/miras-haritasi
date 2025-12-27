@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.975266,41.008225"
 draft: false
+
+weight: 100
 ---
 
 ## Sağlık Müzesi: İstanbul'un Tarihi ve Kültürel Mirası

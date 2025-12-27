@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7555866,38.6700859"
 draft: false
+
+weight: 100
 ---
 
 ## Öğretmenler Lokali Duvar Çeşmesi, Foça

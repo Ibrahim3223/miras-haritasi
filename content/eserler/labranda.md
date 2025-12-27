@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.81999,37.41892"
 draft: false
+
+weight: 10
 ---
 
 ## Labranda: Muğla'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.77771,41.3720779"
 draft: false
+
+weight: 100
 ---
 
 # Nuri Fırtına Çeşmesi

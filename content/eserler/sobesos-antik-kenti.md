@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9661,38.4641"
 draft: false
+
+weight: 10
 ---
 
 # Sobesos Antik Kenti

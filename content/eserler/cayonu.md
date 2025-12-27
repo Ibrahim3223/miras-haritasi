@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.725,38.216"
 draft: false
+
+weight: 10
 ---
 
 ### Çayönü Arkeolojik Sit

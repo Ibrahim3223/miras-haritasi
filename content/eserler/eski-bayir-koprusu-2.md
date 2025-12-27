@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.2632294,37.2698288"
 draft: false
+
+weight: 100
 ---
 
 ### Eski Bayır Köprüsü 2

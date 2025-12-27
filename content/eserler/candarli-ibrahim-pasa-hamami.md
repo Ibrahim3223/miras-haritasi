@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.053669,40.1868401"
 draft: false
+
+weight: 100
 ---
 
 ## Çandarlı İbrahim Paşa Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

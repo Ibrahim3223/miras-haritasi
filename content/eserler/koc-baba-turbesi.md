@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.114962,41.079524"
 draft: false
+
+weight: 100
 ---
 
 ## Koç Baba Türbesi: Tarihi ve Kültürel Mirasının İncisi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.469896,40.891465"
 draft: false
+
+weight: 100
 ---
 
 ## Güneyköy Camii: Giresun'un Gizli Çehresi

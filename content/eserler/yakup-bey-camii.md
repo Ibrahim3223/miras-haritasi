@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1758347,39.2373466"
 draft: false
+
+weight: 100
 ---
 
 ## Yakup Bey Camii: Sındırgı'nın Tarihî Bir Mirası

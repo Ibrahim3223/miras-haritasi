@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4091473,38.1706429"
 draft: false
+
+weight: 100
 ---
 
 # Arslanlar Höyüğü, Torbalı: İzmir'in Gizli Kahramanı

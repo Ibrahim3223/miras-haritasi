@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.623056,36.825278"
 draft: false
+
+weight: 10
 ---
 
 ## Kaunos: Tarihi ve Kültürel Mirası

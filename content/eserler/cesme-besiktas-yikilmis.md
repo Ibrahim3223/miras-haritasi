@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.005354277,41.041727373"
 draft: false
+
+weight: 100
 ---
 
 ### Beşiktaş Çeşmesi

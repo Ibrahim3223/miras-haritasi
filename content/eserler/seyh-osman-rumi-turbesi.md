@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4933052,37.8687897"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Osman Rumi Türbesi

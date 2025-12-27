@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.131777777,38.418555555"
 draft: false
+
+weight: 10
 ---
 
 ## Kemeraltı Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.932905,41.047932"
 draft: false
+
+weight: 100
 ---
 
 ## Eyüp Sultan Camii Avlu Duvarı Çeşmesi

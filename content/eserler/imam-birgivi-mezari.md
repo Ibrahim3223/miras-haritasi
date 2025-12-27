@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.0702,38.2622"
 draft: false
+
+weight: 100
 ---
 
 ## İmam Birgivi Mezarı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.966465,41.0094376"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Sebili: Beyazıt'ta Bir Çelenek

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9742985,39.4163513"
 draft: false
+
+weight: 10
 ---
 
 ## Şengül Camii

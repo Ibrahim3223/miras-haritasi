@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3778,40.1509"
 draft: false
+
+weight: 100
 ---
 
 ### Kaşıklı Baba Türbesi: Eceabat'ın Tarihi Bir Mirası

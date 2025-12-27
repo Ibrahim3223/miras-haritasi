@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.839127063,38.6386709"
 draft: false
+
+weight: 100
 ---
 
 ## El Nazar Kilisesi: Göreme'nin Gizemli Mirası

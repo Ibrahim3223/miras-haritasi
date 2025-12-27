@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.7967205,40.3928795"
 draft: false
+
+weight: 100
 ---
 
 ### Tirilye Hamamı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.9459534,38.7039833"
 draft: false
+
+weight: 100
 ---
 
 ## Cimşit Paşa Külliyesi: Palu'da Bir Kentin Ruhunu Koruyan Bir Miras

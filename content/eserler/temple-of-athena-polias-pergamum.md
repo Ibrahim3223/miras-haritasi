@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Tapınağın Öyküsü: Pergamon Altarı'nda Athena Polias Tapınağı

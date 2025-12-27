@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.55572222,41.69111111"
 draft: false
+
+weight: 10
 ---
 
 ## Edirne Sarayı: Osmanlı İmparatorluğu'nun Gizli Kalesi

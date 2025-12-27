@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7741203,41.3789024"
 draft: false
+
+weight: 10
 ---
 
 ## Topçuoğlu Camii: Kastamonu'nun Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6927528,41.2458649"
 draft: false
+
+weight: 10
 ---
 
 ## Ayntabzade Hacı Mehmet Ağa Çeşmesi

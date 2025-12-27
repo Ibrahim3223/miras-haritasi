@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.047121,40.9762039"
 draft: false
+
+weight: 100
 ---
 
 ### Haldun Taner Müze Evi

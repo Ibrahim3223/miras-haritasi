@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.7568413,38.2177962"
 draft: false
+
+weight: 100
 ---
 
 ## Yayvantepe: Tarihî Bir Anıtın Gizemi

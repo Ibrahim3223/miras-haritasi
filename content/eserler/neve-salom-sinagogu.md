@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.972416666,41.026694444"
 draft: false
+
+weight: 10
 ---
 
 ## Neve Şalom Sinagogu: İstanbul'un Tarihi ve Kültürel Mirası

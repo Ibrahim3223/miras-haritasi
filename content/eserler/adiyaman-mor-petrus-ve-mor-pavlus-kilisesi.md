@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.2732811,37.7571831"
 draft: false
+
+weight: 100
 ---
 
 ## Adıyaman Mor Petrus ve Mor Pavlus Kilisesi

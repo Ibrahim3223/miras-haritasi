@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970154,41.030815"
 draft: false
+
+weight: 10
 ---
 
 ## Çukur Çeşme, Kasımpaşa

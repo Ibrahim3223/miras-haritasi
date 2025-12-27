@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "41.22766721,37.072684901"
 draft: false
+
+weight: 100
 ---
 
 ## Suriye - Türkiye Sınır geçiş noktası #2745: Kervansaray'ın Gizli Çehresi

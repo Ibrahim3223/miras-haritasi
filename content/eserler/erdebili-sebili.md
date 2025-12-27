@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9794712,41.0097504"
 draft: false
+
+weight: 100
 ---
 
 ## Erdebili Sebili: İstanbul'un Gizli Çeşmesi

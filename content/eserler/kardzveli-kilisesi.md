@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.832623898,41.18291903"
 draft: false
+
+weight: 100
 ---
 
 ## Kardzveli Kilisesi

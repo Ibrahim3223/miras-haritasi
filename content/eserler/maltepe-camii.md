@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.84713611,39.92480278"
 draft: false
+
+weight: 10
 ---
 
 ### Maltepe Camii: Ankara'nın Tarihi ve Kültürel Mirası

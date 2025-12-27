@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.950333333,41.022833333"
 draft: false
+
+weight: 10
 ---
 
 # Yeniçeşme Medresesi: İstanbul'un Eski Medresesi

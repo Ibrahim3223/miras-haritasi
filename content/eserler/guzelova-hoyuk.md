@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Güzelova Höyük: Türkiye'nin Eski Köyleri Arasında Gizli Kalan Bir Arkeolojik Sit

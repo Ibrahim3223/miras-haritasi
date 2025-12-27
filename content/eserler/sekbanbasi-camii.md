@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.955805555,41.016527777"
 draft: false
+
+weight: 10
 ---
 
 ## Sekbanbaşı Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6325474,39.0125331"
 draft: false
+
+weight: 100
 ---
 
 ### İlicek Höyüğü: Nevşehir'in Gizli Mirası

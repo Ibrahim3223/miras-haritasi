@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.4089355,40.0993309"
 draft: false
+
+weight: 100
 ---
 
 ## Saray Camii, Kalecik

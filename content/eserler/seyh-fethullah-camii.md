@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3911896,37.0593758"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Fethullah Camii: Gaziantep'in Tarihi Zirvesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.1248646,36.9167016"
 draft: false
+
+weight: 100
 ---
 
 # Bellitaş Höyüğü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.539625,41.9522875"
 draft: false
+
+weight: 100
 ---
 
 ## Stephane Arkeolojik Sit

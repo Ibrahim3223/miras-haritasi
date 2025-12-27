@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.715972222,40.155444444"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Şami Camii ve Türbesi

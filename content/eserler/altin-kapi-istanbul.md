@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9225,40.9928"
 draft: false
+
+weight: 10
 ---
 
 ## Altın Kapı (İstanbul)

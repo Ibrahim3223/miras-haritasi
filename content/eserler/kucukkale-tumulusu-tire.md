@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5247002,38.0312996"
 draft: false
+
+weight: 100
 ---
 
 ## Küçükkale Tümülüsü: Tarihi ve Kültürel Mirasın Gizemi

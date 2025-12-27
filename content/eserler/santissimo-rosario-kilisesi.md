@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.142916666,38.438416666"
 draft: false
+
+weight: 10
 ---
 
 ## Santissimo Rosario Kilisesi

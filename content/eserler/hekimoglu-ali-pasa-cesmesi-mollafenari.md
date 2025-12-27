@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970329,41.008572"
 draft: false
+
+weight: 100
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi, Mollafenari: Fatih, İstanbul'un Gizli Çeşmesi

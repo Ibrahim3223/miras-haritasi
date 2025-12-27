@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.000104,41.043614"
 draft: false
+
+weight: 100
 ---
 
 ### Ekmekçibaşı Mescidi

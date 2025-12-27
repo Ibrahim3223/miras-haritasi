@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.030222222,40.99325"
 draft: false
+
+weight: 10
 ---
 
 ### Kayışdağı Suyu Çeşmesi: Kadıköy'ün Klasik Çeşmesi

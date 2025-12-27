@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7318784,38.0832245"
 draft: false
+
+weight: 10
 ---
 
 ## Yalınayak Hamamı

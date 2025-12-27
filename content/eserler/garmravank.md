@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.904281,38.372315"
 draft: false
+
+weight: 10
 ---
 
 ## Garmravank Manastırı: Van'ın Tarihi ve Kültürel Mirası

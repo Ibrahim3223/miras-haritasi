@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0095654,41.0247574"
 draft: false
+
+weight: 100
 ---
 
 ## Hanım Sultanlar Müzesi

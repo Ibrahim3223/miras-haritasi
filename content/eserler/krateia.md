@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.1649185,40.812102"
 draft: false
+
+weight: 100
 ---
 
 ## Krateia Arkeolojik Sit

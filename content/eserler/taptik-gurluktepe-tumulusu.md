@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9149017,41.5669785"
 draft: false
+
+weight: 100
 ---
 
 **Taptık Gürlüktepe Tümülüsü**

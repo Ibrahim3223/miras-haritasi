@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.848774,38.3216972"
 draft: false
+
+weight: 100
 ---
 
 ## Dombey Hamamı: Çivril'de Bir Tarihî Miras

@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "28.99,41.0579"
 draft: false
+
+weight: 10
 ---
 
 ## Şişli Etfal Hastanesi Saat Kulesi

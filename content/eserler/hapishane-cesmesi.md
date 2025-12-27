@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.224305555,41.732861111"
 draft: false
+
+weight: 10
 ---
 
 ## Hapishane Çeşmesi: Kırklareli'nin Gizli Çeşmesi

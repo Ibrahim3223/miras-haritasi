@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0882454,37.7730026"
 draft: false
+
+weight: 100
 ---
 
 ## Fatma Hoca Camii: Denizli'nin Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.8791695,39.6454773"
 draft: false
+
+weight: 10
 ---
 
 ## Mutasarrıf Ömer Ali Bey Yazma Eser Kütüphanesi

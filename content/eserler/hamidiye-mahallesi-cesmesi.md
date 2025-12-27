@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8558464,39.9452667"
 draft: false
+
+weight: 100
 ---
 
 **Hamidiye Mahallesi Çeşmesi**

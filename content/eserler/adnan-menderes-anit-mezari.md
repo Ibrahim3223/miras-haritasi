@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9269,41.0253"
 draft: false
+
+weight: 10
 ---
 
 ## Adnan Menderes Anıt Mezarı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.044124268,41.022397554"
 draft: false
+
+weight: 100
 ---
 
 ## Ekslibris Müzesi: İstanbul'un Gizemi

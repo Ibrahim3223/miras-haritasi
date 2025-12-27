@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.301410299,41.245890751"
 draft: false
+
+weight: 100
 ---
 
 ### Akıncılar Köyü Çeşmesi

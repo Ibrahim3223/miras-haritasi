@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.934112,41.039803"
 draft: false
+
+weight: 10
 ---
 
 ## Aşçıbaşı Camii: İstanbul'un Gizli Cenneti

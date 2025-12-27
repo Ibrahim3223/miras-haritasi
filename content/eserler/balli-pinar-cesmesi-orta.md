@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.987571569,40.600425248"
 draft: false
+
+weight: 100
 ---
 
 ### Ballı Pınar Çeşmesi

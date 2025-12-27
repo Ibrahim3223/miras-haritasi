@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.3928249,37.5646383"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Hatunsaray: Konya'nın Tarihi ve Kültürel Mirası

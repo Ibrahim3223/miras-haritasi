@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.082027,39.508231"
 draft: false
+
+weight: 100
 ---
 
 ## Lyrnessos: Bir Antik Kentin İzleri

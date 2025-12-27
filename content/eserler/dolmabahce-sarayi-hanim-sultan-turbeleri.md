@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9996662,41.0396652"
 draft: false
+
+weight: 1
 ---
 
 ## Dolmabahçe Sarayı Hanım Sultan Türbeleri

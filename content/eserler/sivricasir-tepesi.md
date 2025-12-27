@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8924148,38.9124276"
 draft: false
+
+weight: 100
 ---
 
 ### Sivriçaşır Tepesi: Aksaray'ın Gizli Arkeolojik Cenneti

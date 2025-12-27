@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0185604,41.047081"
 draft: false
+
+weight: 100
 ---
 
 **Kaptanıderya Ve Sadrazam Cezayirli Gazi Hasan Paşa Çeşmesi**

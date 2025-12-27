@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.058329,41.074329"
 draft: false
+
+weight: 100
 ---
 
 ### Kandilli İskele Çeşmesi: Üsküdar'da Bir Ölümsüz Çeşme

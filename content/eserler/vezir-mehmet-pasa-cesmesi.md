@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.770722222,40.990916666"
 draft: false
+
+weight: 10
 ---
 
 ## Vezir Mehmet Paşa Çeşmesi: Küçükçekmece'nin Gizli Çeşmesi

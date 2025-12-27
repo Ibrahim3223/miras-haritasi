@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.026736111,40.991074111"
 draft: false
+
+weight: 10
 ---
 
 ## Mısırlı Osman Ağa Çeşmesi

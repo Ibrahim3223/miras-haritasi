@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.04132795,39.72611851"
 draft: false
+
+weight: 10
 ---
 
 ### Eğri Köprü: Sivas'taki Bir Önemli Köprü

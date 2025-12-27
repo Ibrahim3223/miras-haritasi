@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.1991741,38.9604995"
 draft: false
+
+weight: 10
 ---
 
 ## Kesikköprü: Kırşehir'in Tarihi ve Kültürel Mirası

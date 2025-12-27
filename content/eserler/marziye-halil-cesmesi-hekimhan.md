@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.932087815,38.819876999"
 draft: false
+
+weight: 100
 ---
 
 ## Marziye Halil Çeşmesi: Hekimhan'ın Tarihi Bir Zirvesi

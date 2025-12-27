@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.857048,39.9408264"
 draft: false
+
+weight: 100
 ---
 
 **Hallac Mahmut Türbesi**

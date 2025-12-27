@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.822821,37.713536"
 draft: false
+
+weight: 100
 ---
 
 ## Siirt Köprüsü: Geçmişi ve Kültür Mirası

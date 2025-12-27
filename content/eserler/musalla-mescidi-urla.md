@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.768528,38.3179436"
 draft: false
+
+weight: 100
 ---
 
 ## Musalla Mescidi, Urla

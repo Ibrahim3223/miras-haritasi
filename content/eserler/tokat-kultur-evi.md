@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.548617,40.315532"
 draft: false
+
+weight: 100
 ---
 
 ## Tokat Kültür Evi

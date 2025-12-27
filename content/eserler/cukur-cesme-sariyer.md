@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.057234,41.170279"
 draft: false
+
+weight: 10
 ---
 
 ### Çukur Çeşme: Sarıyer'in Tarihî Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.053881,41.13866"
 draft: false
+
+weight: 10
 ---
 
 ## Sultan II.Mahmut Han Çeşmesi

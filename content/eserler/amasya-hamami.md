@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.481287,37.6096306"
 draft: false
+
+weight: 100
 ---
 
 **Amasya Hamamı: Aydın'ın Gizli Cenneti**

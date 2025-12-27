@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9664822,41.0106773"
 draft: false
+
+weight: 100
 ---
 
 ## Camili Han Mescidi

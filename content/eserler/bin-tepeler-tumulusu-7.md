@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.010717,38.573372"
 draft: false
+
+weight: 100
 ---
 
 ### Bin Tepeler Tümülüsü 7: Manisa'nın Gizli Şansına

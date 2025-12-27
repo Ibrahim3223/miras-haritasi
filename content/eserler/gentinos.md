@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.279146,39.876943"
 draft: false
+
+weight: 100
 ---
 
 ## Gentinos Arkeolojik Sit

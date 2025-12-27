@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9671631,41.0145035"
 draft: false
+
+weight: 100
 ---
 
 ## Bezzazı Cedit Camii

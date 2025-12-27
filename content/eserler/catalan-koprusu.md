@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.2742,37.0771"
 draft: false
+
+weight: 10
 ---
 
 ## Çatalan Köprüsü: Adana'nın Tarihi Bir Mirası

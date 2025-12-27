@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.98184,41.03316"
 draft: false
+
+weight: 10
 ---
 
 ### Ağa Hamamı: İstanbul'un Gizli Kahramanı

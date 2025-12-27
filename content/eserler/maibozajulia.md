@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9285,38.6811"
 draft: false
+
+weight: 100
 ---
 
 ## Maiboza/Julia: Gölmarmara'nın Gizli Klasığı

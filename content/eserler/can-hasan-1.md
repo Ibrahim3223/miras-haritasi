@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.3313,37.263"
 draft: false
+
+weight: 100
 ---
 
 ## Can Hasan 1 Arkeolojik Sitesi

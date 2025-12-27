@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.5505428,41.6747704"
 draft: false
+
+weight: 100
 ---
 
 ## İtalyan Kilisesi: Edirne'nin Gizli Cenneti

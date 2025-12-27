@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.68295,39.143767"
 draft: false
+
+weight: 100
 ---
 
 ## Bağlartepe Höyük: Manisa'nın Gizemli Arkeolojik Mirası

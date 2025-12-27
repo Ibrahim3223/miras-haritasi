@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1449909,40.9625244"
 draft: false
+
+weight: 100
 ---
 
 ## Ayazma, Başıbüyük: Maltepe'nin Gizli Çeşmesi

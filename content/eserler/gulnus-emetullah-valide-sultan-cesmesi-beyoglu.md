@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9728838,41.0230024"
 draft: false
+
+weight: 10
 ---
 
 # Gülnuş Emetullah Valide Sultan Çeşmesi, Beyoğlu

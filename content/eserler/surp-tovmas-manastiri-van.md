@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.874162,38.416797"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Tovmas Manastırı: Van'ın Gizli Cenneti

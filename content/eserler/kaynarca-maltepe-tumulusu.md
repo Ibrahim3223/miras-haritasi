@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4551086,41.6073799"
 draft: false
+
+weight: 100
 ---
 
 ## Kaynarca Maltepe Tümülüsü

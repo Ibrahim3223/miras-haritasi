@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.98,41.008333333"
 draft: false
+
+weight: 1
 ---
 
 **Ayasofya: İnsanlığa Bir Miras**

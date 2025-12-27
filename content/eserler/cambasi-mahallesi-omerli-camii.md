@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.249575835,40.695895444"
 draft: false
+
+weight: 100
 ---
 
 ## Çambaşı Mahallesi Ömerli Camii

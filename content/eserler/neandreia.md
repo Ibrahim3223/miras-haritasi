@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.273117,39.7236265"
 draft: false
+
+weight: 100
 ---
 
 ## Neandreia: Ezine'nin Kültürel Mirası

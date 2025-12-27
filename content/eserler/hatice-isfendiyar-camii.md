@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0750542,40.1856308"
 draft: false
+
+weight: 10
 ---
 
 # Hatice İsfendiyar Camii

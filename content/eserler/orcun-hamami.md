@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.7901421,40.7049217"
 draft: false
+
+weight: 100
 ---
 
 ## Örcün Hamamı

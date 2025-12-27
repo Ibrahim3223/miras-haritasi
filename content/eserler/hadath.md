@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.46,37.707"
 draft: false
+
+weight: 100
 ---
 
 ### Hadath Arkeolojik Sit: Türkiye'nin Gizli Mirası

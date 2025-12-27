@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.5137367,37.8748741"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Alaman Türbesi

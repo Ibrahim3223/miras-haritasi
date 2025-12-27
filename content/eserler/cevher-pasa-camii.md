@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8437767,37.4312248"
 draft: false
+
+weight: 100
 ---
 
 ## Cevher Paşa Camii

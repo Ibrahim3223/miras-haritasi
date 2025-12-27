@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.3008232,37.9495392"
 draft: false
+
+weight: 100
 ---
 
 ## Nazmiye ve Ayhan Çetin Maket Köy Müzesi

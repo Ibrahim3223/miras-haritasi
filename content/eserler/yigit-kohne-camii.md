@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0693302,40.185112"
 draft: false
+
+weight: 100
 ---
 
 ## Yiğit Köhne Camii: Bursa'nın Tarihi Bir Mirası

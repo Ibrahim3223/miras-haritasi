@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.9731328,36.824996"
 draft: false
+
+weight: 100
 ---
 
 # Sütlüce Höyüğü: Harran'ın Gizli İhtişamı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3636494,41.932518"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Troitsa Kilisesi

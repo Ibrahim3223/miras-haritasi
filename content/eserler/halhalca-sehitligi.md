@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.4353199,40.1612778"
 draft: false
+
+weight: 100
 ---
 
 # Halhalca Şehitliği

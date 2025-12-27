@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.977354,41.0068741"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Ahmet Külliyesi Sebili 7: İstanbul'un Tarihi Çeşmesi

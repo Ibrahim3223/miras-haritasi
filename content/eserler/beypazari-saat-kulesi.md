@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "31.919,40.168611111"
 draft: false
+
+weight: 100
 ---
 
 ## Beypazarı Saat Kulesi: Bir Tarihî Mirasın Tanıtımı

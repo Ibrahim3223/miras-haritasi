@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.931897,41.000417"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Mina Kilisesi: İstanbul'un Gizli Çehresinde Bir Kutsal Eser

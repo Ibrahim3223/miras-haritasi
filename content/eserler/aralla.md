@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.151896,38.434969"
 draft: false
+
+weight: 100
 ---
 
 # Aralla: Bir Eski Sitin Gizemi

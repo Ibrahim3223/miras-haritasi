@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.982523,41.0126076"
 draft: false
+
+weight: 100
 ---
 
 ## Perde Kapısı: Fatih'in Gizemli Anıtı

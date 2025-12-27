@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.972397538,40.999339262"
 draft: false
+
+weight: 100
 ---
 
 ### Şenyuva Köyü Camii

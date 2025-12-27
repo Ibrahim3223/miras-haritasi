@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5861892,39.9873079"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarıılıca Kaplıcaları

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2645988,40.7619019"
 draft: false
+
+weight: 100
 ---
 
 # Kabataş Camii: Trabzon'un Tarihî Mirası

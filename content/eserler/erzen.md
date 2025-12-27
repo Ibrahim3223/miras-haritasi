@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.3842642,37.9777203"
 draft: false
+
+weight: 10
 ---
 
 ## Erzen: Siirt'te Gizli bir Tarih

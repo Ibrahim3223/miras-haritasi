@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.011651558,41.05046173"
 draft: false
+
+weight: 100
 ---
 
 ### Yıldız Sarayı Harem İç Kapısı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "37.671111111,37.845"
 draft: false
+
+weight: 10
 ---
 
 ## Alman Köprüsü

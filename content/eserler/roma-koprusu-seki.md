@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.8155823,37.6876907"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Seki: Tavas'taki Antik Miras

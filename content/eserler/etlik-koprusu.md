@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.8474731,39.9605179"
 draft: false
+
+weight: 100
 ---
 
 ## Etlik Köprüsü: Keçiören'in Tarihi Yüzyıllara Sahibi Köprüsü

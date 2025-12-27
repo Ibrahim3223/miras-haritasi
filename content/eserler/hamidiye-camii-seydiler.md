@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7200966,41.6202202"
 draft: false
+
+weight: 100
 ---
 
 # Hamidiye Camii, Seydiler

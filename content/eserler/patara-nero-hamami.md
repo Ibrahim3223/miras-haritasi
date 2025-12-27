@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.316599,36.261608"
 draft: false
+
+weight: 10
 ---
 
 ## Patara Nero Hamamı

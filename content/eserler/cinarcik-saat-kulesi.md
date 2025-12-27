@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "29.117083333,40.645861111"
 draft: false
+
+weight: 100
 ---
 
 ## Çınarcık Saat Kulesi: Yalova'nın Tarihi Örtüleri

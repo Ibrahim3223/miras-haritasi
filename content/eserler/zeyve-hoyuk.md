@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.57944444,37.51444444"
 draft: false
+
+weight: 10
 ---
 
 ## Zeyve Höyük: Niğde'nin Efsanevi Arkeolojik Sit

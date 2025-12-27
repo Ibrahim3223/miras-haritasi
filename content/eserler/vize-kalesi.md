@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.7679,41.57727"
 draft: false
+
+weight: 10
 ---
 
 ## Vize Kalesi: Tarihçesi ve Özellikleri

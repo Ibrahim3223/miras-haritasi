@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.333333333,41.2"
 draft: false
+
+weight: 10
 ---
 
 ## Anastasios Suru: Geçmişte Yaşayan Bir Arkeolojik Sit

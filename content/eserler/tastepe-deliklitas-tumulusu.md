@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1279049,41.9571762"
 draft: false
+
+weight: 100
 ---
 
 ## Tastepe Deliklitaş Tümülüsü: Tarihî Bir Anıt

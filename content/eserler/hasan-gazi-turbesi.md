@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.4976,38.5665"
 draft: false
+
+weight: 100
 ---
 
 ### Hasan Gazi Türbesi

@@ -55,7 +55,8 @@
 
     <!-- Grid -->
     <div class="card-grid">
-        {{ range .Paginator.Pages }}
+        {{ $paginator := .Paginate (.Pages.ByWeight) }}
+        {{ range $paginator.Pages }}
         <article class="card" data-title="{{ .Title | lower }}" data-city="{{ .Params.province | lower }}"
             data-type="{{ .Params.type | lower }}">
             <a href="{{ .Permalink }}" class="card-img-wrap">

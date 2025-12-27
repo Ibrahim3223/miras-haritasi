@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.0184441,39.7545547"
 draft: false
+
+weight: 100
 ---
 
 ## Sivas Cizvit Kilisesi: Sivas'ta Bir Tarihî Miras

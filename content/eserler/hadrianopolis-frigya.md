@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.6780556,38.1447222"
 draft: false
+
+weight: 100
 ---
 
 # Hadrianopolis (Frigya)

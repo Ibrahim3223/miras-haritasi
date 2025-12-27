@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.7625523,38.1760178"
 draft: false
+
+weight: 100
 ---
 
 ## Bekirli Höyük: Tarihi ve Kültürel Mirası Anlatıyor

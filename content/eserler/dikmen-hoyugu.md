@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6824003,37.6911157"
 draft: false
+
+weight: 100
 ---
 
 # Dikmen Höyüğü

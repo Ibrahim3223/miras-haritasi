@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.863419955,39.936401623"
 draft: false
+
+weight: 100
 ---
 
 # Pirinç Hanı Mescidi

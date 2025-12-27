@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.926872,41.048229"
 draft: false
+
+weight: 100
 ---
 
 ### Altuncuzade Mustafa Ağa Çeşmesi

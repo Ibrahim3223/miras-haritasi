@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.955577,41.028049"
 draft: false
+
+weight: 100
 ---
 
 ## Ayakapı Hamamı

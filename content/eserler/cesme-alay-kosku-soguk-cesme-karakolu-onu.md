@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9783916,41.0110435"
 draft: false
+
+weight: 100
 ---
 
 ### Çeşme: Alay Köşkü Soğuk Çeşme Karakolu Önü, Fatih, İstanbul

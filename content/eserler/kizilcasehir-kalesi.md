@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.085561,36.569209"
 draft: false
+
+weight: 100
 ---
 
 ## Kızılcaşehir Kalesi: Alanya'nın Gizli Cezireleri

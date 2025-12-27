@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.668055555,40.406666666"
 draft: false
+
+weight: 10
 ---
 
 **Gelibolu Savaş Müzesi: Çanakkale'nin Kahramanlık Evi**

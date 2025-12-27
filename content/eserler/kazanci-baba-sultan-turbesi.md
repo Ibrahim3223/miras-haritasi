@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.405505,40.097175"
 draft: false
+
+weight: 100
 ---
 
 ## Kazancı Baba Sultan Türbesi: Ankara'nın Gizli Mabeti

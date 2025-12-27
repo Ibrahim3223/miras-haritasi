@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.2660751,40.5104485"
 draft: false
+
+weight: 100
 ---
 
 ## Gorgodos Kilisesi: Torul'un Gizli Değerleri

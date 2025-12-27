@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.557984219,41.66928361"
 draft: false
+
+weight: 10
 ---
 
 ### Hasan Sezai Camii

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0650272,41.1174049"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Yeniköy

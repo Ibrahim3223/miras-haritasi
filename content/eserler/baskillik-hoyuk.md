@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.9542948,38.2416504"
 draft: false
+
+weight: 100
 ---
 
 ## Başkillik Höyük: Aksaray'ın Gizli Mirası

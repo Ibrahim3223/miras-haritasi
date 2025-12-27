@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.4094296,38.3566895"
 draft: false
+
+weight: 1
 ---
 
 ## Küçük Ayasofya Mescidi

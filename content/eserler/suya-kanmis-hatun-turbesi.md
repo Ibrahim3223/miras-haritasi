@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.495163,38.7208672"
 draft: false
+
+weight: 10
 ---
 
 ## Suya Kanmış Hatun Türbesi: Kayseri'nin Gizli Çehresinde Bir Anıt

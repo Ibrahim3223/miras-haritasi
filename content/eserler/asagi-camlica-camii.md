@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.000778,41.055834"
 draft: false
+
+weight: 100
 ---
 
 ### Aşağı Çamlıca Camii: Rize'nin Tarihî ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "43.352,38.864877"
 draft: false
+
+weight: 10
 ---
 
 ## Lim Manastırı

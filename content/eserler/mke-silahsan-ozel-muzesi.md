@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.515277777,39.846666666"
 draft: false
+
+weight: 100
 ---
 
 ## MKE Silahsan Özel Müzesi

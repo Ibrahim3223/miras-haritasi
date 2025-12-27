@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.817522,37.3148232"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Dede Mescidi, Milas

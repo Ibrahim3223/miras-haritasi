@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.88559,40.989403"
 draft: false
+
+weight: 100
 ---
 
 **Çoban Çeşmesi (Bakırköy)**

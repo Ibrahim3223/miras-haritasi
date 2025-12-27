@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9749584,41.0455894"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Atanasios Ayazması, Kurtuluş: İstanbul'un Gizli Çeşmesi

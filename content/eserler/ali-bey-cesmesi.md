@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.928027777,41.017611111"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Bey Çeşmesi

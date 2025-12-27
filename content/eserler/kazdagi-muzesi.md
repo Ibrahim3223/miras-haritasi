@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.8800602,39.5860252"
 draft: false
+
+weight: 100
 ---
 
 ## Kazdağı Müzesi: Edremit'in Kültür Mirası

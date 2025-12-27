@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8651428,39.9327126"
 draft: false
+
+weight: 100
 ---
 
 ## Tacettin Sultan Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.81602,37.6836"
 draft: false
+
+weight: 100
 ---
 
 ## Kapıdallı Höyüğü: Konya'nın Gizli Tarihi

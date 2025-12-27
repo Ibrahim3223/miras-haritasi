@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.931581,41.048843"
 draft: false
+
+weight: 10
 ---
 
 ### Kapıağası Mustafa Ağa Çeşmesi

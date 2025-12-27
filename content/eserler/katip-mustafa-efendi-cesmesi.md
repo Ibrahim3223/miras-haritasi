@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020821236,41.01981719"
 draft: false
+
+weight: 10
 ---
 
 ## Katip Mustafa Efendi Çeşmesi: Üsküdar'daki Bir Çeşme Eseri

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.5622349,41.7954407"
 draft: false
+
+weight: 100
 ---
 
 ## Yolüstü Tümülüsü: Edirne'nin Gizli Mirası

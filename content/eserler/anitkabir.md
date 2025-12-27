@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.836944444,39.925"
 draft: false
+
+weight: 1
 ---
 
 ### Anıtkabir: Türkiye'nin En Önemli Tarihsel Yapılarından biri

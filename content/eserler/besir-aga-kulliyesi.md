@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.977108,41.010853"
 draft: false
+
+weight: 10
 ---
 
 ## Beşir Ağa Külliyesi: Tarihi ve Kültürel Mirasımız

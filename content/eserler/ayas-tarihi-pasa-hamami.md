@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.3328362,40.015377"
 draft: false
+
+weight: 100
 ---
 
 ## Ayaş Tarihi Paşa Hamamı

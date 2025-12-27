@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.8952713,38.417038"
 draft: false
+
+weight: 100
 ---
 
 ## Karadağ Tümülüsleri I-II-III: Malatya'nın Gizli Cenneti

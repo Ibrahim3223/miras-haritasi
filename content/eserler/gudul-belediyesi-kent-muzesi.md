@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.240550223,40.210835635"
 draft: false
+
+weight: 100
 ---
 
 ### Güdül Belediyesi Kent Müzesi

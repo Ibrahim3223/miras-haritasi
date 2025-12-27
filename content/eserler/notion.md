@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1975,37.99277778"
 draft: false
+
+weight: 10
 ---
 
 ## Notion: İyonya Uygarlığı'nın Gizli Şehirleri Arasındaki Bir Örnek

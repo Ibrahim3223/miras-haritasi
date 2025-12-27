@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.2556877,40.6448441"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Bey Camii: Çorum'un Tarihi ve Kültürel Mirası

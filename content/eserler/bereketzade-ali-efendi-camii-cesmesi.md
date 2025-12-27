@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9742279,41.0249329"
 draft: false
+
+weight: 10
 ---
 
 ## Bereketzade Ali Efendi Camii Çeşmesi: Osmanlı Rönesansının Efsanevi Eseri

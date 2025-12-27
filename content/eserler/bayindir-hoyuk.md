@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.8191261,40.6019096"
 draft: false
+
+weight: 100
 ---
 
 ### Bayındır Höyük: Çankırı'da Eski Uygarlığın İzleri

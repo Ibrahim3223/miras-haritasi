@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.6285,40.5457"
 draft: false
+
+weight: 10
 ---
 
 ## Oluz Höyük

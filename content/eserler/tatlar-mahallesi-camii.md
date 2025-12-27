@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.994450223,39.993746765"
 draft: false
+
+weight: 100
 ---
 
 ## Tatlar Mahallesi Camii: Ankara'nın Gizli Cenneti

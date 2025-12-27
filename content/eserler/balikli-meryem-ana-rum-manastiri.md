@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9157,41.0065"
 draft: false
+
+weight: 10
 ---
 
 ### Balıklı Meryem Ana Rum Manastırı

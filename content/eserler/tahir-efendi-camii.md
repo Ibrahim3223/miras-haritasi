@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.012872,41.0091876"
 draft: false
+
+weight: 10
 ---
 
 ## Tahir Efendi Camii: Üsküdar'ın Tarihi ve Kültürel Mirası

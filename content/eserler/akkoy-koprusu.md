@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.00045,40.897876"
 draft: false
+
+weight: 100
 ---
 
 ### Akköy Köprüsü: Giresun'un Ölümsüz Mirası

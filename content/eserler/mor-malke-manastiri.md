@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.4328957,37.2385635"
 draft: false
+
+weight: 100
 ---
 
 **Mor Malke Manastırı: Nusaybin'in Gizli Cenneti**

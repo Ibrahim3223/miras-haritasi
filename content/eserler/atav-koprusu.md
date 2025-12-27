@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.0392895,40.024086"
 draft: false
+
+weight: 100
 ---
 
 ## Atav Köprüsü: Çanakkale'nin Efsanevi Köprüsü

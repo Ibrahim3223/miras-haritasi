@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4638176,37.0377884"
 draft: false
+
+weight: 100
 ---
 
 ## Kışladağ: Bodrum'un Tarihi ve Kültürel Mirası

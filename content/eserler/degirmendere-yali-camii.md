@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.7795639,40.72118"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmendere Yalı Camii

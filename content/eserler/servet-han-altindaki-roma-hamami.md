@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9731808,41.0062294"
 draft: false
+
+weight: 100
 ---
 
 ## Servet Han Altındaki Roma Hamamı

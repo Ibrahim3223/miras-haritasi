@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.5863705,36.6022415"
 draft: false
+
+weight: 100
 ---
 
 ### Paris 2 Batığı: Kemer'de Yüzyıllar Öncesinden Kalan Gizemli Sit

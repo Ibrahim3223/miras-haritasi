@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.736381,37.325915"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Mehmet Hekim Türbesi

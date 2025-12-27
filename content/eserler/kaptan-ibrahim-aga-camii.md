@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.003,41.042888888"
 draft: false
+
+weight: 10
 ---
 
 ## Kaptan İbrahim Ağa Camii

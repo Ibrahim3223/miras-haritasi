@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0401974,40.9842834"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Ağa Çeşmesi: Kadıköy'deki Bir Örnek Osmanlı Mimarisinden

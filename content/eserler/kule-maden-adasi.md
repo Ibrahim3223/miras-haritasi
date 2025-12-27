@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.584845768,39.38265887"
 draft: false
+
+weight: 100
 ---
 
 ## Kule, Maden Adası: Ayvalık'ın Tarihî Bir Zirvesi

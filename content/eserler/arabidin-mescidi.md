@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.44495912,38.82448731"
 draft: false
+
+weight: 100
 ---
 
 ## Arabıdın Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası

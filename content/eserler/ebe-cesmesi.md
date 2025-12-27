@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5632057,41.6687431"
 draft: false
+
+weight: 10
 ---
 
 ### Ebe Çeşmesi: Edirne'nin Gizli Çeşmesi

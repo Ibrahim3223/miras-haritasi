@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.0463791,38.7111816"
 draft: false
+
+weight: 100
 ---
 
 ### Bolvadin Rüstem Paşa Camii: Bir Osmanlı Dönemi Mirası

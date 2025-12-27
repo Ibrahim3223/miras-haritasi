@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.978444444,41.035805555"
 draft: false
+
+weight: 10
 ---
 
 ## Doğançay Müzesi: Beyoğlu'ndaki Etkileyici Kültür Mirası

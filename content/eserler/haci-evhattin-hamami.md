@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.924003,40.997124"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Evhattin Hamamı

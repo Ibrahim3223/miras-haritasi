@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.864798,39.932666"
 draft: false
+
+weight: 10
 ---
 
 # Mehmet Akif Ersoy Müze Evi

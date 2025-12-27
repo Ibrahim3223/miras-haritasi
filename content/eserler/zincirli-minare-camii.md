@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.0238609,39.7497025"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirli Minare Camii

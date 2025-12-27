@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.9652004,40.1982002"
 draft: false
+
+weight: 100
 ---
 
 ## Kanyeri Mevki Manastırı: Gökçeada'nın Gizli Çehresini Keşfetmek

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.921111,40.1675"
 draft: false
+
+weight: 100
 ---
 
 ## Petobriga: Tarihi ve Kültürel Mirasın Bir Parçası

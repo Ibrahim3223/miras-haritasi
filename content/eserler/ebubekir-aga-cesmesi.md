@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.94493,41.024436"
 draft: false
+
+weight: 10
 ---
 
 ## Ebubekir Ağa Çeşmesi: Fatih'te Bir Tarihî Çeşme

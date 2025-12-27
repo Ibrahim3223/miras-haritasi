@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.119666666,38.410777777"
 draft: false
+
+weight: 100
 ---
 
 ## Karataş Yaya Üst Geçidi

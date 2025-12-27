@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.5809,39.3317"
 draft: false
+
+weight: 10
 ---
 
 ## Pessinus: Eskişehir'in Gizli Mirası

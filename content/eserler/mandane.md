@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.11213,36.12732"
 draft: false
+
+weight: 100
 ---
 
 ## Mandane Arkeolojik Sit

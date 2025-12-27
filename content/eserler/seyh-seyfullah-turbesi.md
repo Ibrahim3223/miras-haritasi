@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4918709,38.725338"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Seyfullah Türbesi: Kayseri'nin Gizli Çehresini Keşfeden Anıt

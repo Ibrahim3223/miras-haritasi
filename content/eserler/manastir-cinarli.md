@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.9074993,40.1882019"
 draft: false
+
+weight: 100
 ---
 
 ## Manastır – Çınarlı: Gökçeada'nın Gizli Cenneti

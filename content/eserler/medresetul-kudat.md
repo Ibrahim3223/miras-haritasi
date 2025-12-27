@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9624138,41.0130463"
 draft: false
+
+weight: 100
 ---
 
 ### Medresetü'l-Kudat: İstanbul'un Altın Çağı'nın Bir Anıtı

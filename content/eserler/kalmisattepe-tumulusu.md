@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.70961,38.3607674"
 draft: false
+
+weight: 100
 ---
 
 **Kalmışattepe Tümülüsü**

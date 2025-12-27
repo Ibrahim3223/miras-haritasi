@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.174,39.126"
 draft: false
+
+weight: 10
 ---
 
 **Pergamon Amfitiyatrosu: Tarih, Kültür ve Miras**

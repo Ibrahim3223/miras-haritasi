@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.881171,41.567294"
 draft: false
+
+weight: 100
 ---
 
 ## Çetinkaya Köprüsü: Samsun'un Tarihi ve Kültürel Değerleri Arasındaki Önemli Köprü

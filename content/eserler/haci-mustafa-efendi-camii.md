@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7769127,40.7577133"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Mustafa Efendi Camii: Çankırı'nın Gizli Çağı

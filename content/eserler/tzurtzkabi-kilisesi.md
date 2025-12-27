@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.662472222,41.431944444"
 draft: false
+
+weight: 100
 ---
 
 ## Tzurtzkabi Kilisesi

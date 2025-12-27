@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.822855,39.915245"
 draft: false
+
+weight: 100
 ---
 
 ## Kültür ve Turizm Bakanlığı Sanal Müzik Müzesi

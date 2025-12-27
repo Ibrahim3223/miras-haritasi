@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.149896,40.826897"
 draft: false
+
+weight: 100
 ---
 
 ### Melik Mehemmed Gazi Türbesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.578617,38.562683"
 draft: false
+
+weight: 100
 ---
 
 ### Hüyük Mevkii, Şuhut: Tarihî Bir Arkeolojik Sit

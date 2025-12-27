@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6997174,38.7669725"
 draft: false
+
+weight: 100
 ---
 
 ## Kızılözün Höyük: Gülşehir'de Bir Arkeolojik Ören

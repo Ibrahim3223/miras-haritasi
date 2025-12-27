@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.965398,41.018202"
 draft: false
+
+weight: 10
 ---
 
 ## Kepenekçi Sinan Medresesi

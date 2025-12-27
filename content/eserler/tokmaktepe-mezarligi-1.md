@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9373856,41.0363426"
 draft: false
+
+weight: 10
 ---
 
 ## Tokmaktepe Mezarlığı 1: Eyüpsultan'ın Tarihi ve Kültürel Mirası

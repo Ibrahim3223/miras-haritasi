@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.2398987,40.6912956"
 draft: false
+
+weight: 100
 ---
 
 # Dumanlı Köyü Camii

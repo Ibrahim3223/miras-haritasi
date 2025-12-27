@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.529232,39.7626495"
 draft: false
+
+weight: 100
 ---
 
 ## Eskişehir'in Tarihi Cenneti: Hacı Hasan Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.122736,36.722583"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Ali Baba Türbesi

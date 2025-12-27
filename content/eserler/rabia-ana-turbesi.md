@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.2792091,39.9024696"
 draft: false
+
+weight: 100
 ---
 
 ## Rabia Ana Türbesi

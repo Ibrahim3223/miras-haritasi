@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1362686,38.4153519"
 draft: false
+
+weight: 100
 ---
 
 ## Toraman Mescidi: İzmir'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8718834,39.9365425"
 draft: false
+
+weight: 100
 ---
 
 **Hacı Mehmet Çeşmesi: Altındağ'un Tarihî Çeşmesi**

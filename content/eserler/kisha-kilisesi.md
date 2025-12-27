@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.423305555,40.431216666"
 draft: false
+
+weight: 100
 ---
 
 ## Kisha Kilisesi: Tarihi ve Mimari Özellikleri

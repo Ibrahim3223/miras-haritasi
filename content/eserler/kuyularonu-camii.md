@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.998037466,36.541690732"
 draft: false
+
+weight: 10
 ---
 
 ## Kuyularönü Camii: Alanya'nın Tarihi Bir Mirası

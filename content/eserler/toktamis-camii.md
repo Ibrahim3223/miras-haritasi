@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.8663979,37.678215"
 draft: false
+
+weight: 100
 ---
 
 ## Toktamış Camii: Adıyaman'ın Önemli Camii

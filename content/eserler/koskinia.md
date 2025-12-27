@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0771713,37.7945099"
 draft: false
+
+weight: 100
 ---
 
 ## Koskinia: Aydın'ın Tarihî Bir Mirası

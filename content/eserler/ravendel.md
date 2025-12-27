@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.949187,36.793102"
 draft: false
+
+weight: 100
 ---
 
 ## Ravendel Kalesi: Kilis'in Tarihi Bir Anıtı

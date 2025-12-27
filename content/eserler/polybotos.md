@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.9850597,38.6906815"
 draft: false
+
+weight: 100
 ---
 
 ## Polybotos: Afyonkarahisar'ın Gizli Ören Yeri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4332176,39.3392099"
 draft: false
+
+weight: 100
 ---
 
 ## Çatak Höyük: Yozgat'ın Gizli Anıtı

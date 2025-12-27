@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.874027777,38.362333333"
 draft: false
+
+weight: 10
 ---
 
 ## Atiye-Ali Çiçek Camii: İzmir'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.3250198,38.1273575"
 draft: false
+
+weight: 100
 ---
 
 ## Metropolis Araplıtepe Kilisesi: Tarihî Bir Miras

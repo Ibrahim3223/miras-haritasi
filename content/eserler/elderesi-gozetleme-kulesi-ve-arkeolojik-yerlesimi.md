@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.1103992,37.7001991"
 draft: false
+
+weight: 100
 ---
 
 ## Elderesi Gözetleme Kulesi ve Arkeolojik Yerleşimi

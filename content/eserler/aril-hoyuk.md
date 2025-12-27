@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.6020241,37.1087379"
 draft: false
+
+weight: 100
 ---
 
 ### Arıl Höyük: Gaziantep'in Tarihî Mirası

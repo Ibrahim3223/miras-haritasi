@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9855442,41.0140572"
 draft: false
+
+weight: 100
 ---
 
 ## Gülhane Kapısı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.404167,41.181667"
 draft: false
+
+weight: 10
 ---
 
 **İnceğiz Mağaraları: Çatalca'da Bir Tarihî Kilise**

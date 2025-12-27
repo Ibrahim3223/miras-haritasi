@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.95222222,41.00466667"
 draft: false
+
+weight: 100
 ---
 
 ### Theodosius Limanı

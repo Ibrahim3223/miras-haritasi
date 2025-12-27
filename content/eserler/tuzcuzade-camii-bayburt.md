@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.223782,40.256392"
 draft: false
+
+weight: 10
 ---
 
 ## Tuzcuzade Camii: Bayburt'un Tarihi ve Kültürel Mirası

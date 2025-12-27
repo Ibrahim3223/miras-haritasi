@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6972237,41.2457352"
 draft: false
+
+weight: 10
 ---
 
 ## Karakullukçu Çeşmesi: Safranbolu'nun Tarihi Bir Mirası

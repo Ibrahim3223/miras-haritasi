@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.442249,37.067654"
 draft: false
+
+weight: 100
 ---
 
 # Kyllandos Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "44.389484885,39.412513237"
 draft: false
+
+weight: 100
 ---
 
 ## İran-Türkiye Sınır İniş Anıtı #2895: Tarihi ve Mimari Özellikleri

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.035621,41.249217"
 draft: false
+
+weight: 100
 ---
 
 ## Kilyos Kalesi: Sarıyer'in Tarihi Çelik Yumurtası

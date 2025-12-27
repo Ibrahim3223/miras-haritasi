@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.129488,37.9298058"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Philippus Kapısı, Hierapolis

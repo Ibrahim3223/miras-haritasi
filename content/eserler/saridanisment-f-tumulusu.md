@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8243351,41.8698654"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıdanişment F Tümülüsü

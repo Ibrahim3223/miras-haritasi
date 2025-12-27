@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.070892,41.018736"
 draft: false
+
+weight: 10
 ---
 
 ## Bulgurlu Hamamı: Üsküdar'ın Tarihi Bir Mirası

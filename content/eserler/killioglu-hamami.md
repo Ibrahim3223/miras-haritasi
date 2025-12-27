@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1422119,38.4204483"
 draft: false
+
+weight: 100
 ---
 
 ## Kıllıoğlu Hamamı: İzmir'in Tarihi Bir Hamamı

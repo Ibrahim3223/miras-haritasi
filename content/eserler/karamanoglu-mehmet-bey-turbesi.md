@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8856621,36.7777786"
 draft: false
+
+weight: 100
 ---
 
 ## Karamanoğlu Mehmet Bey Türbesi

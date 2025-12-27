@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9834521,41.0282637"
 draft: false
+
+weight: 100
 ---
 
 ## Dayezade Yusuf Ağa Mescidi

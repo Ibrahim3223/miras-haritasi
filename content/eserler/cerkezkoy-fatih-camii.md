@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0077222,41.2883439"
 draft: false
+
+weight: 100
 ---
 
 ## Çerkezköy Fatih Camii

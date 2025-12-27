@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0015697,41.0407333"
 draft: false
+
+weight: 1
 ---
 
 ## Dolmabahçe Sarayı Valide Kapısı

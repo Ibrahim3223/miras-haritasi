@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.035557,41.060498"
 draft: false
+
+weight: 100
 ---
 
 ## Yerevman Surp Haç Kilisesi: İstanbul'un Gizli Çarpıntıları

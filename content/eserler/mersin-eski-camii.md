@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.630218,36.798377"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Eski Camii: Akdeniz'in Tarihi Bir Anıtı

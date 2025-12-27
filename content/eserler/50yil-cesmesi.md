@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.921526,40.7642555"
 draft: false
+
+weight: 100
 ---
 
 ## 50.Yıl Çeşmesi

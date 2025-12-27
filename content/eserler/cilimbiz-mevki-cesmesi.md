@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7165146,37.881916"
 draft: false
+
+weight: 100
 ---
 
 ### Cılımbız Mevki Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası

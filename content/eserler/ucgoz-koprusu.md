@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.68545974,40.152687337"
 draft: false
+
+weight: 100
 ---
 
 # Üçgöz Köprüsü

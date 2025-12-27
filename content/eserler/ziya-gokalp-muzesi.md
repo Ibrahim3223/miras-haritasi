@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.23416667,37.91138889"
 draft: false
+
+weight: 10
 ---
 
 ## Ziya Gökalp Müzesi

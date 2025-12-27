@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.2281322,38.5321198"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Sultandağı

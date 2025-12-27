@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.3703785,37.2208405"
 draft: false
+
+weight: 100
 ---
 
 ## Azize Meryem Kilisesi

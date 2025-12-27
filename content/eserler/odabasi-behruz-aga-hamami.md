@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9319611,41.0120087"
 draft: false
+
+weight: 100
 ---
 
 ### Odabaşı Behruz Ağa Hamamı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.7174687,41.3332693"
 draft: false
+
+weight: 10
 ---
 
 **Mamatsminda Kilisesi**

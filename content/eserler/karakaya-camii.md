@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.2646999,37.0616989"
 draft: false
+
+weight: 100
 ---
 
 ### Karakaya Camii

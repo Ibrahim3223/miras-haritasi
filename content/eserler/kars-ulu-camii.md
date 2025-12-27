@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.092055555,40.612027777"
 draft: false
+
+weight: 10
 ---
 
 ## Kars Ulu Camii

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7206726,41.0076561"
 draft: false
+
+weight: 10
 ---
 
 **Hacı Arif Hamamı: Ortahisar'ın Tarihi Bir Mirası**

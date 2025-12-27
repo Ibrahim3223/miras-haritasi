@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.982809,41.036796"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Cervantes Kütüphanesi

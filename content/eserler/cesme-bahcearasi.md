@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8929672,37.708889"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Bahçearası: Aydın'ın Tarihi Bir Çeşme

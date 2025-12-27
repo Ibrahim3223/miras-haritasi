@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.94986,41.02595"
 draft: false
+
+weight: 10
 ---
 
 ## **Çukurbostan Arkeolojik Sit**

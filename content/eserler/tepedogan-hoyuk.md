@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.3150555,39.4161208"
 draft: false
+
+weight: 100
 ---
 
 ### Tepedoğan Höyük: Yozgat'ın Gizli Anıtı

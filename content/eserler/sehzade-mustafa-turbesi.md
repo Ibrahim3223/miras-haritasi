@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0458145,40.1903648"
 draft: false
+
+weight: 10
 ---
 
 ## Şehzade Mustafa Türbesi

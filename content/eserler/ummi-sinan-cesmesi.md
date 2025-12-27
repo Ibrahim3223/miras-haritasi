@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9260311,41.0473442"
 draft: false
+
+weight: 100
 ---
 
 ## Ümmi Sinan Çeşmesi

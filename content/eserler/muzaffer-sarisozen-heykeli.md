@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8528595,39.9327927"
 draft: false
+
+weight: 100
 ---
 
 ## Muzaffer Sarısözen Heykeli

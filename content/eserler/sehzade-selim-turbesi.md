@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.5597324,41.6777496"
 draft: false
+
+weight: 100
 ---
 
 ### Şehzade Selim Türbesi

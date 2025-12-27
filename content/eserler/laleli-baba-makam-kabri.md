@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9557819,41.0097046"
 draft: false
+
+weight: 100
 ---
 
 ## Laleli Baba Makam Kabri

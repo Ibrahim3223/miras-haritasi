@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970045605,41.010033343"
 draft: false
+
+weight: 100
 ---
 
 ## Nuruosmaniye Sebili: İstanbul'un Gizli Çeşmesi

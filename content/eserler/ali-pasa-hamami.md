@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.5517718,40.3149051"
 draft: false
+
+weight: 10
 ---
 
 ### Ali Paşa Hamamı

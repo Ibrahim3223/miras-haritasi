@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.602342,40.759127"
 draft: false
+
+weight: 100
 ---
 
 ### Mercanköy A Köprüsü

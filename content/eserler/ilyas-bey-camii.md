@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.277861111,37.526416666"
 draft: false
+
+weight: 10
 ---
 
 ### İlyas Bey Camii Tanıtımı

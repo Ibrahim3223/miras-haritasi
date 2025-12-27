@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6644707,37.769516"
 draft: false
+
+weight: 100
 ---
 
 # Dedeköylü Hacı Ahmet Efendi Çeşmesi

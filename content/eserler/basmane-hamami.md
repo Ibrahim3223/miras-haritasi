@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1438351,38.4216309"
 draft: false
+
+weight: 100
 ---
 
 ### Basmane Hamamı

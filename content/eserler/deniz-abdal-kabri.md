@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9334869,41.0156136"
 draft: false
+
+weight: 100
 ---
 
 ## Deniz Abdal Kabri: İstanbul'un Gizli Anıtı

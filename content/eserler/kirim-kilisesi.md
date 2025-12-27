@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9771,41.0277"
 draft: false
+
+weight: 10
 ---
 
 ## Kırım Kilisesi: İstanbul'un Gizli Çarıtsı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.3197021,37.7766609"
 draft: false
+
+weight: 100
 ---
 
 ## Taşhelvası I Köprüsü: Diyarbakır'ın Eski Çağlardan Kalma Harikası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.7052851,40.1072844"
 draft: false
+
+weight: 100
 ---
 
 **Çimentepe Höyüğü: Tarihî Mirasın Gizemi**

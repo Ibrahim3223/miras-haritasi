@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.059942,36.514319"
 draft: false
+
+weight: 100
 ---
 
 ### Arykanda Antik Tiyatrosu

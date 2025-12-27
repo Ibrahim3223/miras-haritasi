@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.854397,36.860367"
 draft: false
+
+weight: 100
 ---
 
 ## Rhoscopus Arkeolojik Sit

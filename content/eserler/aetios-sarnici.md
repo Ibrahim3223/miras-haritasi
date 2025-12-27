@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9392,41.0278"
 draft: false
+
+weight: 10
 ---
 
 ### Aetios Sarnıcı: İstanbul'un Gizli Tarihi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9107056,37.4676781"
 draft: false
+
+weight: 100
 ---
 
 # Hırka Camii

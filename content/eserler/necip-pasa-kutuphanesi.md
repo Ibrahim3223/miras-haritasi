@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.732456696,38.086366905"
 draft: false
+
+weight: 100
 ---
 
 ## Necip Paşa Kütüphanesi: Tire'nin Tarihi ve Kültürel Mirası

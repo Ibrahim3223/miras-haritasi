@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "43.1391799,41.2582429"
 draft: false
+
+weight: 100
 ---
 
 # Kurt Kale: Ardahan'ın Tarihi ve Kültürel Mirası

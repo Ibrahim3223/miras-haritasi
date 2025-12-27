@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.0834999,39.9967575"
 draft: false
+
+weight: 100
 ---
 
 ## Sebastopolis Roma Hamamı

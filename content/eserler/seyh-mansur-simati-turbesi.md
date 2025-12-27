@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.125949,36.695579"
 draft: false
+
+weight: 100
 ---
 
 **Şeyh Mansur Simati Türbesi**

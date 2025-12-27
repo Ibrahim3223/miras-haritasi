@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.938082,41.010491"
 draft: false
+
+weight: 100
 ---
 
 ## Molla Fenai Türbesi

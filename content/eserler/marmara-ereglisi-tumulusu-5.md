@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.945202475,41.015375136"
 draft: false
+
+weight: 100
 ---
 
 ## Marmara Ereğlisi Tümülüsü 5

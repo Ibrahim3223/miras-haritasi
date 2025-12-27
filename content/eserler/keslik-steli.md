@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Keşlik Steli: Türkiye'nin Eski Bir Anıtı

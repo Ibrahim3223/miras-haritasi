@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9376431,41.0055237"
 draft: false
+
+weight: 100
 ---
 
 **Haydar Kethüda Camii**

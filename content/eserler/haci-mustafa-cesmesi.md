@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6260662,37.3848801"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Mustafa Çeşmesi: Milas'taki Tarihi Bir Çeşme

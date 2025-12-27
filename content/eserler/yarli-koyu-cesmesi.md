@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "40.3384514,40.9033089"
 draft: false
+
+weight: 100
 ---
 
 ## Yarlı Köyü Çeşmesi: Trabzon'un Gizli Çeşmesi

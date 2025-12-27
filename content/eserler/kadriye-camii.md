@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.0111306,36.8845939"
 draft: false
+
+weight: 100
 ---
 
 ### Kadriye Camii: Serik'in Gölgeli Yöresinde Yükselişe Geçen Tarihsel Bir Zirve

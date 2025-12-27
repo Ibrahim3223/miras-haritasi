@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.491066,39.7510757"
 draft: false
+
+weight: 100
 ---
 
 ### İsmet İnönü Heykeli, Erzincan

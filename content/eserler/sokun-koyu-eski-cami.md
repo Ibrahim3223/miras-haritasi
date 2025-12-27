@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.0084457,36.3395767"
 draft: false
+
+weight: 100
 ---
 
 ## Sökün Köyü Eski Cami: Mersin'in Tarihî Bir Mirası

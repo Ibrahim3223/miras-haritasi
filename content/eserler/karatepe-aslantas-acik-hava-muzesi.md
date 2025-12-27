@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.25004,37.30022"
 draft: false
+
+weight: 10
 ---
 
 ### Karatepe-Aslantaş Açık Hava Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0618935,40.1827888"
 draft: false
+
+weight: 100
 ---
 
 ## Şeker Hoca Türbesi: Bursa'nın Efsanevi Anıtı

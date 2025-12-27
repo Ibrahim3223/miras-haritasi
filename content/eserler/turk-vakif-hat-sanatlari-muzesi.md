@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9632,41.01"
 draft: false
+
+weight: 10
 ---
 
 ## Türk Vakıf Hat Sanatları Müzesi

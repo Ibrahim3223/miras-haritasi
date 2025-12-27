@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7902117,38.8254757"
 draft: false
+
+weight: 100
 ---
 
 ## Demircili Höyük: Ağaçören'in Gizli Cenneti

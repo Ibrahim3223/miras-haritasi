@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.98111,41.00972"
 draft: false
+
+weight: 10
 ---
 
 ### Aya İrini Kilisesi

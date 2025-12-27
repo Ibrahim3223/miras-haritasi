@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.4867992,37.6654015"
 draft: false
+
+weight: 100
 ---
 
 ### Minareli Camii, Olukbaşı: Aydın'ın Tarihi Bir Mirası

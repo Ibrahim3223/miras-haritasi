@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.033968,40.9873581"
 draft: false
+
+weight: 10
 ---
 
 ## Lefter Küçükandonyadis Heykeli

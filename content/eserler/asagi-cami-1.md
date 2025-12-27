@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.5149994,38.4023018"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Cami 1: İzmir'in Tarihi Bir Mirası

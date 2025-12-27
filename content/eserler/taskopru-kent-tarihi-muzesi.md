@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.220108,41.5089226"
 draft: false
+
+weight: 100
 ---
 
 ## Taşköprü Kent Tarihi Müzesi: Kastamonu'nun Gizli Çehresi

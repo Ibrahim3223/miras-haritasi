@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.2110214,40.4622002"
 draft: false
+
+weight: 100
 ---
 
 ## Havlu Camii

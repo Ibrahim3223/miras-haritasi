@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.92848,41.012493"
 draft: false
+
+weight: 100
 ---
 
 ## Dibekçi Ali Çeşmesi

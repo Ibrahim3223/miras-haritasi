@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0797036,40.962306"
 draft: false
+
+weight: 100
 ---
 
 ### Suadiye Camii Sebili: Kadıköy'ün Tarihi Bir Çeşmesi

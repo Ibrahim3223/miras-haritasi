@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2240295,40.2585411"
 draft: false
+
+weight: 10
 ---
 
 ## Ahi Emir Ahmet Zencani Türbesi, Bayburt

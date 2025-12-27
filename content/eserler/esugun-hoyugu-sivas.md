@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.8118324,39.4975586"
 draft: false
+
+weight: 100
 ---
 
 ## Esüğün Höyüğü: Sivas'ın Gizli Tarihi

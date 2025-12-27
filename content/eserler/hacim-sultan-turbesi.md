@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.5311222,38.5374947"
 draft: false
+
+weight: 100
 ---
 
 ### Hacım Sultan Türbesi

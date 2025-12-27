@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.233403228,40.947506208"
 draft: false
+
+weight: 100
 ---
 
 ## Dalkoz Köyü Yukarı Mahalle Çeşmesi: Bayramören'in Tarihî Çeşmesi

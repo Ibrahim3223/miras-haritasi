@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9510345,38.0388981"
 draft: false
+
+weight: 10
 ---
 
 ## Tripolis ad Meaendrum: Denizli'nin Gizli Mirası

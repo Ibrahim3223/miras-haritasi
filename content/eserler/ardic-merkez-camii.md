@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.6225014,40.9207993"
 draft: false
+
+weight: 100
 ---
 
 ## Ardıç Merkez Camii: Ayvacık'ta Bir Tarihi Miras

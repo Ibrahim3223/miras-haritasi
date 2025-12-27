@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "35.355166666,37.059888888"
 draft: false
+
+weight: 100
 ---
 
 ## Çukurova Üniversitesi Merkez Kütüphanesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "31.5298347,39.4531136"
 draft: false
+
+weight: 100
 ---
 
 ## Kavakdibi Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi

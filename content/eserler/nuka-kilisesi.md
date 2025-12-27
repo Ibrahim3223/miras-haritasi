@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.088222222,41.256666666"
 draft: false
+
+weight: 100
 ---
 
 ## Nuka Kilisesi: Artvin'in Gizli Çağılan

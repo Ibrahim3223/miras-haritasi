@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.960277777,41.01"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul: Bir İmparatorlukın Mirası

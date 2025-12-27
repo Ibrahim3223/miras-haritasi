@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9354324,41.041069"
 draft: false
+
+weight: 100
 ---
 
 ## Gülşirin Daye Hatun Kabri: İstanbul'un Gizli Tarihçesini Keşfetmek

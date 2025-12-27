@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.564022,36.540522"
 draft: false
+
+weight: 100
 ---
 
 ## Musbanda: Karaman'ın Gizli Anıtı

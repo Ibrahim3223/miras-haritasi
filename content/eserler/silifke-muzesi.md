@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.94222222,36.37361111"
 draft: false
+
+weight: 10
 ---
 
 ### Silifke Müzesi

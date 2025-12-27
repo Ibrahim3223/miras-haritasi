@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.8972196,41.5669094"
 draft: false
+
+weight: 100
 ---
 
 # Bafra Arkeoloji ve Etnografya Müzesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "44.2139015,38.1418991"
 draft: false
+
+weight: 100
 ---
 
 ## Albayrak Köprüsü: Başkale'nin Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0211449,40.2024155"
 draft: false
+
+weight: 10
 ---
 
 ### Hüdavendigar Camii: Bursa'nın Tarihi Örenliği

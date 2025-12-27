@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.491907001,38.715102078"
 draft: false
+
+weight: 100
 ---
 
 ### Tacettin Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.807968,39.233571"
 draft: false
+
+weight: 100
 ---
 
 ## Körtükaya Yerleşimi: Altınova'nın Gizli Anıtı

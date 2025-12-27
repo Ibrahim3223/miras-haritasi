@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.222861111,40.990694444"
 draft: false
+
+weight: 100
 ---
 
 ### Pekraşeni Kilisesi

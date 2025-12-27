@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1327286,38.4212189"
 draft: false
+
+weight: 100
 ---
 
 ## Kızlarağası Hanı Çeşmesi

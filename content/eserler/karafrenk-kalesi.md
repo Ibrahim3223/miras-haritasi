@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.6021309,37.1312218"
 draft: false
+
+weight: 100
 ---
 
 ## Karafrenk Kalesi: Osmaniye'nin Tarih Özellikli Yerlerindendir

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.95555556,41.00861111"
 draft: false
+
+weight: 10
 ---
 
 ## Bodrum Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.9864883,39.4164658"
 draft: false
+
+weight: 100
 ---
 
 ### Gümüşeşik Tekkesi: Kütahya'nın Tarihî Bir Mirası

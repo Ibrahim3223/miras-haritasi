@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.939472,41.03647"
 draft: false
+
+weight: 100
 ---
 
 ### Kesikbaş Sultan Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.129325,38.41907778"
 draft: false
+
+weight: 10
 ---
 
 ## Konak Camii: İzmir'in Tarihi ve Kültürel Mirası

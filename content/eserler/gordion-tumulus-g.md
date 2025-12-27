@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.990639,39.653648"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs G: Ankara'nın Gizli Kahramanı

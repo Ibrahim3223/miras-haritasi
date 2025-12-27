@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4652405,37.509285"
 draft: false
+
+weight: 100
 ---
 
 ## Menet Ada Kilisesi: Aydın'ın Gizli Çehresini Aydınlatacak Bir Anıtsal Kilise

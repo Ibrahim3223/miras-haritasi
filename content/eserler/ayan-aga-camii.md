@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.7050362,36.8886299"
 draft: false
+
+weight: 100
 ---
 
 ## Ayan Ağa Camii

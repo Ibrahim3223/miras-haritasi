@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.714611111,38.622111111"
 draft: false
+
+weight: 10
 ---
 
 ## Kurşunlu Camii

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3982983,41.3021889"
 draft: false
+
+weight: 100
 ---
 
 ### Ovacık Alçak Tarla B Tümülüsü

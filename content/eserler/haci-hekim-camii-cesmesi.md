@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1792107,39.1211395"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Hekim Camii Çeşmesi

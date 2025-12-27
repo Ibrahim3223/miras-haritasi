@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.18744,37.17743"
 draft: false
+
+weight: 10
 ---
 
 ## Kastabala Arkeolojik Sit

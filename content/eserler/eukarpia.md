@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.119166666,38.4725"
 draft: false
+
+weight: 100
 ---
 
 ## Eukarpia Arkeolojik Sit

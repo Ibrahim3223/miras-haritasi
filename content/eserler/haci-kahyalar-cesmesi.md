@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.805964197,37.700207539"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Kahyalar Çeşmesi

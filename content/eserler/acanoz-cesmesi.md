@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.70548,38.364724"
 draft: false
+
+weight: 100
 ---
 
 ## Acanoz Çeşmesi: Tarihi ve Kültürel Miras

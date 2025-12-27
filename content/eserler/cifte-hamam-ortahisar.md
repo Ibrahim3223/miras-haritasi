@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.7202263,41.0056"
 draft: false
+
+weight: 100
 ---
 
 ## Çifte Hamam, Ortahisar: Trabzon'un Tarihi Bir Zenginliği

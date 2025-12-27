@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.8830185,40.2144394"
 draft: false
+
+weight: 100
 ---
 
 ## Bademli Köyü Açık Hava Tapınağı: Gökçeada'nın Gizli Çeşmesi

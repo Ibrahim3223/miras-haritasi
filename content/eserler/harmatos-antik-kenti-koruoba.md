@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2602425,39.4811058"
 draft: false
+
+weight: 100
 ---
 
 ## Harmatos Antik Kenti, Koruoba

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.7133217,39.1971207"
 draft: false
+
+weight: 100
 ---
 
 ## Sümbül Anıtı

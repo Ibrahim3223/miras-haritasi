@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.96017,41.02334"
 draft: false
+
+weight: 10
 ---
 
 ## Haraççı Çeşmesi: Fatih'te Bir Tarihi Çeşme

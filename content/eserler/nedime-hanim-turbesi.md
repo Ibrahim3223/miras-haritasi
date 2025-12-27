@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.4047661,40.142765"
 draft: false
+
+weight: 100
 ---
 
 ## Nedime Hanım Türbesi: Çanakkale'nin Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.53782,39.02545"
 draft: false
+
+weight: 10
 ---
 
 ### Aslantaş-Yılantaş: Göller Bölgesi'nin Eski Çağlara Sahip Gizemli Arkeolojik Sit

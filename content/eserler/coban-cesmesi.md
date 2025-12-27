@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.819468,40.993813"
 draft: false
+
+weight: 100
 ---
 
 # Çoban Çeşmesi: İstanbul'un Gizli Çeşmesi

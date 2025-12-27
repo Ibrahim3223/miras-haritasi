@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1773033,40.7964363"
 draft: false
+
+weight: 100
 ---
 
 ## Kumbağlar 2 Tümülüsü: Şarköy'ün Gizemi

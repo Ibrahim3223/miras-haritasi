@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.9662933,41.0136681"
 draft: false
+
+weight: 100
 ---
 
 ### Ali Paşa Sarayı

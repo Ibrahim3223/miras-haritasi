@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.330833,36.985"
 draft: false
+
+weight: 10
 ---
 
 ### Adana Ulu Camii: Tarih, Mimari ve Ziyaret Bilgileri

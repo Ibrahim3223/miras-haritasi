@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.097667,39.218945"
 draft: false
+
+weight: 100
 ---
 
 ## Zingotos Kome: Türkiye'nin Antikçağından Bir İhtişam

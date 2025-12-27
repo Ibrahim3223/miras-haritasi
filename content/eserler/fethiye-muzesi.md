@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.1171131,36.62323"
 draft: false
+
+weight: 100
 ---
 
 ### Fethiye Müzesi

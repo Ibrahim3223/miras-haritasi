@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4237,38.6056"
 draft: false
+
+weight: 100
 ---
 
 ## Revak Sultan Türbesi

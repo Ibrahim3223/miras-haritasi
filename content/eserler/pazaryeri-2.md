@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.9327,39.991383"
 draft: false
+
+weight: 100
 ---
 
 # Pazaryeri 2: Tarihî bir Arkeolojik Sit

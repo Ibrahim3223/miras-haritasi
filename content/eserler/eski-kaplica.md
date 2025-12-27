@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.023333333,40.202305555"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Kaplıca: Bursa'nın Tarihsel Hamamı

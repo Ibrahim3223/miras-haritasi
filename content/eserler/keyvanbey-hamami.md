@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.3821784,37.0608855"
 draft: false
+
+weight: 100
 ---
 
 ## Keyvanbey Hamamı

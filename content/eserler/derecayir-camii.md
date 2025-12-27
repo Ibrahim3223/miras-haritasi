@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.6477013,40.7387543"
 draft: false
+
+weight: 100
 ---
 
 ## Dereçayır Camii: Ordu'da Bir Tarihi Miras

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.7883568,37.7710266"
 draft: false
+
+weight: 100
 ---
 
 ## Mennek Kalesi: Geçmişin Gizemi

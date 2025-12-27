@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9610271,41.0178108"
 draft: false
+
+weight: 100
 ---
 
 ## Sarı Bayezit Kabri

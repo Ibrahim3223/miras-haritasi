@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.95524,41.016858"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyhülislam Sunullah Efendi Türbesi

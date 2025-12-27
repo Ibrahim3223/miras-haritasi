@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.907684082,40.800100758"
 draft: false
+
+weight: 100
 ---
 
 ## Ortayayla Köyü Camii: Çamlıhemşin'in Tarihi Mirası

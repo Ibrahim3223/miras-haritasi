@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.3063712,37.0038908"
 draft: false
+
+weight: 100
 ---
 
 ## Kızılhisar Höyüğü: Gaziantep'in Gizli Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9424478,41.0249864"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirli Sultanlar Türbesi: İstanbul'un Gizli Anıtı

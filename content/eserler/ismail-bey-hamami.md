@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.7220211,40.4334679"
 draft: false
+
+weight: 100
 ---
 
 ## İsmail Bey Hamamı

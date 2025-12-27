@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.4313049,37.348774"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Bedirbey

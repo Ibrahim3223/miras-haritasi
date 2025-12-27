@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.46385,40.926583"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayan Köyü Köprüsü

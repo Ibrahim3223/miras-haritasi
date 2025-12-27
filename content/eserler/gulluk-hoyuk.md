@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1557698,39.6020303"
 draft: false
+
+weight: 100
 ---
 
 ### Güllük Höyük: Sivas'ta Bir Arkeolojik Miras

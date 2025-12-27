@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.98121111,41.00825278"
 draft: false
+
+weight: 10
 ---
 
 ### III. Ahmet Çeşmesi: Fatih'te Bir Büyüklük

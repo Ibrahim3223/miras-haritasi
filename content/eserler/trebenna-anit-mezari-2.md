@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4728184,36.8643684"
 draft: false
+
+weight: 100
 ---
 
 ### Trebenna Anıt Mezarı 2: Antalya'nın Tarihî Mirası

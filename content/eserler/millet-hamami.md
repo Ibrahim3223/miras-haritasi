@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5315323,38.7535477"
 draft: false
+
+weight: 100
 ---
 
 ## Millet Hamamı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4960632,37.8818245"
 draft: false
+
+weight: 100
 ---
 
 ## Halka Begüş Türbesi

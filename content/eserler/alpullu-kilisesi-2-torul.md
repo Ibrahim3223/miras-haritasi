@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.4945107,40.5753517"
 draft: false
+
+weight: 100
 ---
 
 ### Alpullu Kilisesi (2) Torul: Gümüşhane'nin Gizli Çağı

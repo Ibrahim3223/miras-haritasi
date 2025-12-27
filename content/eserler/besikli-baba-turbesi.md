@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.25,38.7017"
 draft: false
+
+weight: 100
 ---
 
 ## Beşikli Baba Türbesi

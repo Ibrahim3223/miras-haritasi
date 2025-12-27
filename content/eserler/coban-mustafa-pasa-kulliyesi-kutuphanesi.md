@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.4311447,40.799572"
 draft: false
+
+weight: 100
 ---
 
 **Çoban Mustafa Paşa Külliyesi Kütüphanesi**

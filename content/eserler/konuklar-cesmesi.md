@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.857497055,39.939181278"
 draft: false
+
+weight: 100
 ---
 
 ### Konuklar Çeşmesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.783562,39.021408"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Nikola Kilisesi: Dikili'nin Gizli Çehresini Keşfedin

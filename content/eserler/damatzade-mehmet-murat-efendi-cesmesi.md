@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.04306,41.160614"
 draft: false
+
+weight: 10
 ---
 
 ## Damatzade Mehmet Murat Efendi Çeşmesi

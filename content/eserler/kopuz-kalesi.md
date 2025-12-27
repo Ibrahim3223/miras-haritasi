@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.0711098,40.4741669"
 draft: false
+
+weight: 100
 ---
 
 ### Kopuz Kalesi: Torul'un Tarihî ve Kültürel Mirası

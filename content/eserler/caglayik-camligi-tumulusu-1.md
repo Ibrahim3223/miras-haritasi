@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3087139,42.0407372"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayık Çamlığı Tümülüsü 1: Tarihi ve Kültürel Mirasının Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1763382,39.234436"
 draft: false
+
+weight: 100
 ---
 
 ## Rızaiye Camii: Sındırgı'nın Tarihi ve Kültürel Mirası

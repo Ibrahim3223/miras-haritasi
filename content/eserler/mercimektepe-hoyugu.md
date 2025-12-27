@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8255116,39.8267862"
 draft: false
+
+weight: 100
 ---
 
 ## Mercimektepe Höyüğü: Yozgat'ın Gizli Tarihçesi

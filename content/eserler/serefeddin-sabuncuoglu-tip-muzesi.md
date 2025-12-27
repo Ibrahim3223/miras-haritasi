@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.8355026,40.6538467"
 draft: false
+
+weight: 100
 ---
 
 ## Şerefeddin Sabuncuoğlu Tıp Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.4939919,40.3925743"
 draft: false
+
+weight: 100
 ---
 
 ## Yusufbey Camii: Sakarya'da Bir Önemli Cami

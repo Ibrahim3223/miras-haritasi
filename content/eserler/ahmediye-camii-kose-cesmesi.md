@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01659,41.020546"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmediye Camii Köşe Çeşmesi

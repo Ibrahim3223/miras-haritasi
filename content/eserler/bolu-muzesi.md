@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.606944444,40.733055555"
 draft: false
+
+weight: 10
 ---
 
 ### Bolu Müzesi: Tarihi ve Kültürel Mirasını Tanıyarak

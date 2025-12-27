@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0675,40.88111111"
 draft: false
+
+weight: 10
 ---
 
 # Sait Faik Abasıyanık Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.977483,41.009111"
 draft: false
+
+weight: 10
 ---
 
 # Üskübiye Mescidi

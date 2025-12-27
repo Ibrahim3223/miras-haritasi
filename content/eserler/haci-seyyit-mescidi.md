@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8641319,39.9322891"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Seyyit Mescidi: Ankara'nın Gizli Cenneti

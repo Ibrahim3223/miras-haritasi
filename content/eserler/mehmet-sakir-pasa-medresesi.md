@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.8983,38.5834"
 draft: false
+
+weight: 10
 ---
 
 ### Mehmet Şakir Paşa Medresesi

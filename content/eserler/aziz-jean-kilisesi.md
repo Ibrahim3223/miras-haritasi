@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.634850025,38.740958784"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Jean Kilisesi: Tarih, Mimarisi ve Kültürel Mirası

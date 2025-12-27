@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.413414,37.9276352"
 draft: false
+
+weight: 100
 ---
 
 ## Mormi Camii Çeşmesi

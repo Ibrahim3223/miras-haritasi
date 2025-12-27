@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.386641,39.777762"
 draft: false
+
+weight: 100
 ---
 
 ### Mama Hatun Türbesi: Tercan'daki Bir Kültür Mirası

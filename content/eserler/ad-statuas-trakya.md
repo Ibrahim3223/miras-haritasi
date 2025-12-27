@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.4031659,41.1862392"
 draft: false
+
+weight: 100
 ---
 
 ### Ad Statuas: Trakya'nın Gizli Mirası

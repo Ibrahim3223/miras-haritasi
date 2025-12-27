@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.88472222,36.75722222"
 draft: false
+
+weight: 10
 ---
 
 ## Nusret Mayın Gemisi Kültür Parkı: Mersin'in Tarihi Anıtı

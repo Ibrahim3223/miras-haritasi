@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.4640871,36.6173439"
 draft: false
+
+weight: 100
 ---
 
 ### Bozhüyük: Kırıkhan'ın Gizli Mirası

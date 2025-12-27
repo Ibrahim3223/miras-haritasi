@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0472431,40.1873894"
 draft: false
+
+weight: 10
 ---
 
 ## Üç Hanım Kızlar Türbesi

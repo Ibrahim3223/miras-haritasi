@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.6213799,37.7137566"
 draft: false
+
+weight: 100
 ---
 
 ### Beylerli Höyük: Tarihî Bir Mirasın İzleri

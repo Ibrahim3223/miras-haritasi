@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.7907009,41.4521446"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Cami (Zonguldak)

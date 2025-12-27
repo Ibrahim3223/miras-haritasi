@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.2654762,38.2942734"
 draft: false
+
+weight: 100
 ---
 
 ## Yaprakhisar Kaya Camii: Aksaray'ın Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.8953552,41.1004124"
 draft: false
+
+weight: 100
 ---
 
 ### Suçatı 1 Köprüsü: Rize'nin Tarihi Yüzyıllarını Geçen Bir Köprü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.3446958,38.5022332"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Abdurahman Gazi Türbesi

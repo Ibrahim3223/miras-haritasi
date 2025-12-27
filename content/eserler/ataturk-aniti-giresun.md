@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.384096,40.917663"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Anıtı, Giresun

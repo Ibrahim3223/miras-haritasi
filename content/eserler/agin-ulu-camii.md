@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.7160835,38.9428558"
 draft: false
+
+weight: 100
 ---
 
 ### Ağın Ulu Camii: Elazığ'da Gizli Bir Çanak

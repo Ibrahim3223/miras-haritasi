@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.73375,38.372194444"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Theodoros Trion Kilisesi

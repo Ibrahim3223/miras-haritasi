@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.34619,36.54423"
 draft: false
+
+weight: 10
 ---
 
 # Magarsa Arkeolojik Sit

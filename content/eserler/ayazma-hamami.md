@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.009866187,41.023608282"
 draft: false
+
+weight: 100
 ---
 
 ## Ayazma Hamamı: İstanbul'un Gizli Çeşmesi

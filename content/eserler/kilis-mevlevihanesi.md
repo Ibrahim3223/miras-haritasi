@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.1143875,36.7155495"
 draft: false
+
+weight: 100
 ---
 
 # Kilis Mevlevihanesi: Tarihi ve Kültürel Mirasının Parçası

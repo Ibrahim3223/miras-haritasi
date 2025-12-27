@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.752277777,38.669222222"
 draft: false
+
+weight: 10
 ---
 
 ## Kayalar Camii: Foça'nın Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.366418684,41.275820581"
 draft: false
+
+weight: 100
 ---
 
 ## Gemi Köyü Camii Çeşmesi

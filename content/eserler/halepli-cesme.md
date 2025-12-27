@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.065388,41.098665"
 draft: false
+
+weight: 100
 ---
 
 ## Halepli Çeşme: Beykoz'un Kültürel Mirası

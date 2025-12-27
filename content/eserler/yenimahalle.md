@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.784996,37.148716"
 draft: false
+
+weight: 100
 ---
 
 ### Yenimahalle: Şanlıurfa'nın Gizli Mirası

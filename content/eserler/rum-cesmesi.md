@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18315556,39.12563333"
 draft: false
+
+weight: 10
 ---
 
 ## Rum Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.9554672,36.4374924"
 draft: false
+
+weight: 100
 ---
 
 # Demircili Aşağı Anıt Mezar

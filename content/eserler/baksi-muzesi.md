@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "40.566417,40.385639"
 draft: false
+
+weight: 10
 ---
 
 ## Baksı Müzesi: Bayraptaki Tarihî Bir Müze

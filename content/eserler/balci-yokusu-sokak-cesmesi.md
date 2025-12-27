@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.93328,41.04319"
 draft: false
+
+weight: 10
 ---
 
 ### Balcı Yokuşu Sokak Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.702783,38.687133"
 draft: false
+
+weight: 100
 ---
 
 ### Halitpaşa II Arkeolojik Sit

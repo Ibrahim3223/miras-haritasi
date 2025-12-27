@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.027953,41.017611"
 draft: false
+
+weight: 10
 ---
 
 ## Fenai Ali Efendi Camii

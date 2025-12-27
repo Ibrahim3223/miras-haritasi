@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0853081,37.7759094"
 draft: false
+
+weight: 100
 ---
 
 ### Yalvaçlı Medresesi: Tarihi ve Kültürel Mirasın Gizemi

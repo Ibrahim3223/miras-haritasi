@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.2004995,41.1016773"
 draft: false
+
+weight: 100
 ---
 
 ## Abu Yaylası Köprüsü

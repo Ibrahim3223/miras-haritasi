@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.0888032,39.7207052"
 draft: false
+
+weight: 100
 ---
 
 ## Idrisli Höyük: Sorgun'un Efsanevi Arkeolojik Sitleri

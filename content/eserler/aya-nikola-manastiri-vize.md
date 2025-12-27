@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.084726061,41.633976285"
 draft: false
+
+weight: 10
 ---
 
 # Aya Nikola Manastırı, Vize: Bir Tarihsel Mirasın Tanıtımı

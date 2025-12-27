@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.922254,41.049781"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Ali Paşa Camii

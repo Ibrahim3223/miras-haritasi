@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.22525,40.261027777"
 draft: false
+
+weight: 10
 ---
 
 # Bayburt Ulu Camii

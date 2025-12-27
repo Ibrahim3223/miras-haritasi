@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.9775182,39.9213308"
 draft: false
+
+weight: 100
 ---
 
 **Karaçayır Kale Tepesi: Sivas'ın Gizli Kahramanı**

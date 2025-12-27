@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.318611111,36.357222222"
 draft: false
+
+weight: 10
 ---
 
 ## Xanthos Yazıtı: Lycia'nın Gizemli Anıtı

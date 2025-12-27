@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.4927254,39.2627029"
 draft: false
+
+weight: 10
 ---
 
 ## Taşdibi Camii: Kemaliye'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.16958631,38.433887612"
 draft: false
+
+weight: 10
 ---
 
 ### Eski Otogar Camii

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.4620438,37.1053772"
 draft: false
+
+weight: 100
 ---
 
 **Odabaşı Mor Abrohom Kilisesi**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5020561,37.8661728"
 draft: false
+
+weight: 100
 ---
 
 ### Tolluoğlu Camii

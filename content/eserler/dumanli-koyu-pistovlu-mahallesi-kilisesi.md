@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.80002,40.653238"
 draft: false
+
+weight: 100
 ---
 
 ## Dumanlı Köyü Piştovlu Mahallesi Kilisesi

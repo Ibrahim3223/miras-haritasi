@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4277634,39.1067195"
 draft: false
+
+weight: 100
 ---
 
 ## Arslan Kaya: İhsaniye'nin Efsanevi Arkeolojik Sit

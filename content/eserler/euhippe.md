@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.086631,37.787596"
 draft: false
+
+weight: 100
 ---
 
 ## Euhippe Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9364204,41.0444069"
 draft: false
+
+weight: 100
 ---
 
 ## Şah Sultan Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1116905,41.2337761"
 draft: false
+
+weight: 100
 ---
 
 **Yeni Camii Çeşmesi: Sarıyer'in Gizli Çeşmesi**

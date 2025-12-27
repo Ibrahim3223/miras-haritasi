@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.424167,37.037778"
 draft: false
+
+weight: 10
 ---
 
 ### Halikarnassos: Muhteşem Eski Yunanistan'ın Kalıntıları

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.985177,37.59176"
 draft: false
+
+weight: 100
 ---
 
 ### Alabanda Antik Tiyatrosu

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.8439007,38.2478981"
 draft: false
+
+weight: 100
 ---
 
 ## Ulamış Hamamı: Seferihisar'ın Tarihi Bir Mirası

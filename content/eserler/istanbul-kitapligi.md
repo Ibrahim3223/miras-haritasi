@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9798145,41.0096779"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Kitaplığı: Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.296111111,37.660555555"
 draft: false
+
+weight: 100
 ---
 
 ## Demeter ve Kore Tapınağı (Priene)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0605659,41.8795624"
 draft: false
+
+weight: 100
 ---
 
 ### Çayırlı Höyükler Yanı 1 Tümülüsü

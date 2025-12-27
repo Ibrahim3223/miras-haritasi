@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.85488,38.55937"
 draft: false
+
+weight: 100
 ---
 
 ### Leukai Arkeolojik Sit

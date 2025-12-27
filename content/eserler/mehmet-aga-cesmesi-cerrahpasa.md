@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.939861,41.007042"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Ağa Çeşmesi, Cerrahpaşa

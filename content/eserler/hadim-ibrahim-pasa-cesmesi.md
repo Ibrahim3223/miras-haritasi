@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.922786,41.006326"
 draft: false
+
+weight: 10
 ---
 
 ## Hadım İbrahim Paşa Çeşmesi

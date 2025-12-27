@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8290997,40.1735992"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Triada Manastırı

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.0860004,36.6562004"
 draft: false
+
+weight: 100
 ---
 
 ### Piramit Mezar-Söğüt: Marmaris'in Gizli Cenneti

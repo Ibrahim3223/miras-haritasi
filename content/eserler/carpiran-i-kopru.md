@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.822129,38.176283"
 draft: false
+
+weight: 10
 ---
 
 ## Çarpiran I. Köprü: Tarihi ve Güzelliği

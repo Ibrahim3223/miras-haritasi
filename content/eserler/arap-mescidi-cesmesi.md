@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5355663,38.756424"
 draft: false
+
+weight: 100
 ---
 
 ## Arap Mescidi Çeşmesi

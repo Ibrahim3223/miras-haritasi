@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.5829144,37.2816849"
 draft: false
+
+weight: 100
 ---
 
 ### Iasos Balık Pazarı Açık Hava Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8587399,40.9742737"
 draft: false
+
+weight: 10
 ---
 
 ## Ataköy Baruthane-i Âmire Çeşmesi

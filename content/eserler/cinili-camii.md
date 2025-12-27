@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0292,41.0199"
 draft: false
+
+weight: 10
 ---
 
 ## Çinili Camii

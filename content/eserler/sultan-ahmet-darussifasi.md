@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9736996,41.0042038"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Ahmet Darüşşifası

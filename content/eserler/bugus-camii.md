@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.007301,37.035507"
 draft: false
+
+weight: 100
 ---
 
 ### Büğüş Camii: Serik'teki Bir Kentin Kalbi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.5212097,41.3146782"
 draft: false
+
+weight: 100
 ---
 
 ### İkiz Höyükler A-B Tümülüsleri

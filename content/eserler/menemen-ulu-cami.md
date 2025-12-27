@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0665359,38.6101303"
 draft: false
+
+weight: 100
 ---
 
 ## Menemen Ulu Cami: İzmirlinin Tarihi ve Kültürel Mirası

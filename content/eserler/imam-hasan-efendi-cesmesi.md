@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.022141,41.219993"
 draft: false
+
+weight: 10
 ---
 
 # İmam Hasan Efendi Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5478458,41.6783447"
 draft: false
+
+weight: 100
 ---
 
 ### İsmihan Sultan Camii: Edirne'nin Gizli Çehresini İfşa Eden Bir Miras

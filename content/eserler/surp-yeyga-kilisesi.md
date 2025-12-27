@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.93124,41.042989"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Yeyğa Kilisesi: İstanbul'un Gizli Çarpıcılarından Birisi

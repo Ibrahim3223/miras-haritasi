@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9492054,41.0457497"
 draft: false
+
+weight: 100
 ---
 
 ## Kahhar Baba Türbesi

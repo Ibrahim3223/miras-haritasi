@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.743194444,41.198111111"
 draft: false
+
+weight: 10
 ---
 
 ### Göğceli Camii

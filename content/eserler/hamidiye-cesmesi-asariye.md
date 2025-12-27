@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.011859,41.04669"
 draft: false
+
+weight: 10
 ---
 
 ## Hamidiye Çeşmesi, Asariye

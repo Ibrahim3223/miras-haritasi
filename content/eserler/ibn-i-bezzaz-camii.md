@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0791798,40.1835442"
 draft: false
+
+weight: 10
 ---
 
 ## İbn-i Bezzaz Camii

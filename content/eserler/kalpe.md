@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.1958,41.1501"
 draft: false
+
+weight: 100
 ---
 
 ## Kalpe Arkeolojik Sit

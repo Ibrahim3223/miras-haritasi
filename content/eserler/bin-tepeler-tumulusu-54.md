@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.008554,38.553787"
 draft: false
+
+weight: 100
 ---
 
 ## Bin Tepeler Tümülüsü 54: Manisa'nın Gizli Çarpısı

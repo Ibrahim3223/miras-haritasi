@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.761763679,41.977896323"
 draft: false
+
+weight: 100
 ---
 
 ### Eyüpzade Mehmet Efendi Çeşmesi

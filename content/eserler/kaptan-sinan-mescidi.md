@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.939352,41.0164757"
 draft: false
+
+weight: 100
 ---
 
 # Kaptan Sinan Mescidi

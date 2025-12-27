@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.4631996,38.2541008"
 draft: false
+
+weight: 100
 ---
 
 ## Kendale Hecale Höyüğü

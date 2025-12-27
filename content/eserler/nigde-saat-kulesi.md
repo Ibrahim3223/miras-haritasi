@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "34.6793709,37.9683571"
 draft: false
+
+weight: 10
 ---
 
 ### Niğde Saat Kulesi: Tarihi ve Kültürel Mirasın En Güzel Örnekleri Arasındaki Yer

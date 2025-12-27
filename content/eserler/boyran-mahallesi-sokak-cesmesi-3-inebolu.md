@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.755495218,41.977653949"
 draft: false
+
+weight: 100
 ---
 
 ## Boyran Mahallesi Sokak Çeşmesi 3, İnebolu

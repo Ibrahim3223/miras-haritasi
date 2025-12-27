@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.492123,39.545459"
 draft: false
+
+weight: 100
 ---
 
 ## Arslan Bey Türbesi: Tavşanlı'nın Gizli Mücevheri

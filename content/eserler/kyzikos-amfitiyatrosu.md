@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.884,40.398"
 draft: false
+
+weight: 10
 ---
 
 **Kyzikos Amfitiyatrosu**

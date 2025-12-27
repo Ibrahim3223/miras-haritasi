@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.00944444,36.43944444"
 draft: false
+
+weight: 10
 ---
 
 ### Işıkkale Arkeolojik Sit'i Keşfetmek

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.484975401,38.71476932"
 draft: false
+
+weight: 100
 ---
 
 ## Ayakcaklı Mescit: Melikgazi'nin Tarihi Bir Mirası

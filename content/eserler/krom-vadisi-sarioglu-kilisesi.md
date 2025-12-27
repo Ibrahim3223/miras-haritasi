@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.585606,40.550073"
 draft: false
+
+weight: 100
 ---
 
 ## Krom Vadisi Sarıoğlu Kilisesi

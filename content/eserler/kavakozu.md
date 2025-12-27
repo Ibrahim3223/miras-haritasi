@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.5714,39.635267"
 draft: false
+
+weight: 100
 ---
 
 ## Kavaközü Arkeolojik Sit

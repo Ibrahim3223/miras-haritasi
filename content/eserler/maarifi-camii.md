@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.190587,40.888312"
 draft: false
+
+weight: 100
 ---
 
 ## Maarifi Camii

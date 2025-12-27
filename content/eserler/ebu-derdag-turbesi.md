@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9359055,41.0440445"
 draft: false
+
+weight: 100
 ---
 
 ## Ebu Derdağ Türbesi: Eyüpsultan'da Bir Tarihî Anıt

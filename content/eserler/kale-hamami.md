@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.76625,41.575583333"
 draft: false
+
+weight: 10
 ---
 
 ## Kale Hamamı

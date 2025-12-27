@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.972559,41.038383"
 draft: false
+
+weight: 100
 ---
 
 **Sefer Baba Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt**

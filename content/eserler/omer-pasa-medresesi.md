@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.9138966,36.7432632"
 draft: false
+
+weight: 100
 ---
 
 ## Ömer Paşa Medresesi: Antalya'nın Tarihî Mirası

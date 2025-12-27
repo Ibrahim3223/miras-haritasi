@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.012681714,41.009063226"
 draft: false
+
+weight: 100
 ---
 
 ### Harem İskelesi Ayazması: Üsküdar'da Eski Çağın Mirası

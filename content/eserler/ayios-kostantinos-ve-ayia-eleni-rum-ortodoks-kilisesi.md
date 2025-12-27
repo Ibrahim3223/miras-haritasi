@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0970211,41.1152573"
 draft: false
+
+weight: 10
 ---
 
 ## Ayios Kostantinos ve Ayia Eleni Rum Ortodoks Kilisesi

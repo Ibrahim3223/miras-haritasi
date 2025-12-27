@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.3807,41.019067"
 draft: false
+
+weight: 100
 ---
 
 ## Sarayköy-Yalıköy Değirmen Köprüsü

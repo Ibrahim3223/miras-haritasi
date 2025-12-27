@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01251,41.014111"
 draft: false
+
+weight: 10
 ---
 
 ## Hatice Sultan Çeşmesi, Salacak

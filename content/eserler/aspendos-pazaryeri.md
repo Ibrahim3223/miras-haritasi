@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.1682205,36.9398994"
 draft: false
+
+weight: 1
 ---
 
 ### Aspendos Pazaryeri

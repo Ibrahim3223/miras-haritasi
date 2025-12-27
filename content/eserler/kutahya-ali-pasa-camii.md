@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9837608,39.4187393"
 draft: false
+
+weight: 10
 ---
 
 ## Kütahya Ali Paşa Camii

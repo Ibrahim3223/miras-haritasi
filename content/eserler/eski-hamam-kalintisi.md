@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.6118259,41.1762695"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Hamam Kalıntısı: Şile'nin Tarihî Mirası

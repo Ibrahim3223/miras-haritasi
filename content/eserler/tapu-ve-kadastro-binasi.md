@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.975412,41.006516"
 draft: false
+
+weight: 10
 ---
 
 ## Tapu ve Kadastro Binası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3733006,37.4017982"
 draft: false
+
+weight: 100
 ---
 
 ## Yağlıkuyu Mevkii Arkeolojik Yerleşimi: Didim'in Gizli Mirası

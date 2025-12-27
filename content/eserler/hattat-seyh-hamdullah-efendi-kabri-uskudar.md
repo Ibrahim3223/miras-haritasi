@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0187759,41.014267"
 draft: false
+
+weight: 10
 ---
 
 ## Hattat Şeyh Hamdullah Efendi Kabri, Üsküdar

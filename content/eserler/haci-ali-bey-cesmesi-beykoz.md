@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0941034,41.1328435"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Ali Bey Çeşmesi, Beykoz

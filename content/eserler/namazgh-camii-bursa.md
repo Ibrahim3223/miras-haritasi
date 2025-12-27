@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.075666666,40.177805555"
 draft: false
+
+weight: 10
 ---
 
 ### Namazgâh Camii: Bursa'nın Tarihi Bir Mirası

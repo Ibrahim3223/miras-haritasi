@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.265806,36.387169"
 draft: false
+
+weight: 10
 ---
 
 # Opramoas Mozolesi

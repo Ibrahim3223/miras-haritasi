@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4128304,38.607338"
 draft: false
+
+weight: 100
 ---
 
 ## Haki Baba Camii: Manisa'nın Tarihi Bir Mirası

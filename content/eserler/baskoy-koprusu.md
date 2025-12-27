@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.8904025,41.0859602"
 draft: false
+
+weight: 100
 ---
 
 **Başköy Köprüsü: Doğu Karadeniz'in Görsel Harikası**

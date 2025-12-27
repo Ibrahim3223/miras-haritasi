@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.163353,36.2000389"
 draft: false
+
+weight: 100
 ---
 
 ### Antakya Türk Katolik Kilisesi

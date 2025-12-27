@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.732193,41.3002472"
 draft: false
+
+weight: 100
 ---
 
 ## Yıkık Dere Köprüsü: Uzunköprü, Edirne'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.7494179,39.5249999"
 draft: false
+
+weight: 100
 ---
 
 ## Çayözü Höyüğü: Tarihî Bir Mirasın Geri Bıraktığı İzler

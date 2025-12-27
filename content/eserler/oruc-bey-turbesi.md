@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0542545,40.1846733"
 draft: false
+
+weight: 10
 ---
 
 ## Oruç Bey Türbesi: Bursa'nın Gizli Cenneti

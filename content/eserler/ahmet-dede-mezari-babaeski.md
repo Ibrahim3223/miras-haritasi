@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.094826082,41.428364419"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Dede Mezarı (Babaeski)

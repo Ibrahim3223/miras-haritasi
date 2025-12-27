@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.8214302,40.9570503"
 draft: false
+
+weight: 10
 ---
 
 **Agios Stefanos Rum Ortodoks Kilisesi**

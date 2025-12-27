@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.418294,38.355585"
 draft: false
+
+weight: 10
 ---
 
 ## Nasreddin Hoca Türbesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2366562,37.9162521"
 draft: false
+
+weight: 100
 ---
 
 ### Mervani Mescidi: Diyarbakır'ın Gizli Cenneti

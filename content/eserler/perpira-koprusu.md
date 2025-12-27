@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.152431,37.98867"
 draft: false
+
+weight: 100
 ---
 
 ## Perpıra Köprüsü

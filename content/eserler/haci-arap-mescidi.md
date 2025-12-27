@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8639412,39.9366798"
 draft: false
+
+weight: 100
 ---
 
 # Hacı Arap Mescidi

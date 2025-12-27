@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.0238075,41.0255165"
 draft: false
+
+weight: 100
 ---
 
 ## Hemşin Köyü Cuma Camii: Düzce'nin Tarihi Bir Mirası

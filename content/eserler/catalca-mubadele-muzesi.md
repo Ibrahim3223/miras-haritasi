@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.457227546,41.143786696"
 draft: false
+
+weight: 10
 ---
 
 ### Çatalca Mübadele Müzesi

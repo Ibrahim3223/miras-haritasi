@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.341100613,37.940042296"
 draft: false
+
+weight: 10
 ---
 
 ### Efes Agorası

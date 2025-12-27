@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.121583333,39.371222222"
 draft: false
+
+weight: 10
 ---
 
 ## Divriği Ulu Camii ve Darüşşifası

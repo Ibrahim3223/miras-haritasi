@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.960638888,40.589388888"
 draft: false
+
+weight: 100
 ---
 
 ### Niksar Ulu Cami

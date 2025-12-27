@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.8455876,39.7996237"
 draft: false
+
+weight: 100
 ---
 
 # Midaeium

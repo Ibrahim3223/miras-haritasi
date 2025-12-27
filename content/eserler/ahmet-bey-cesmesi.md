@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.088698,41.172543"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmet Bey Çeşmesi: Beykoz'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.2494011,39.2555504"
 draft: false
+
+weight: 100
 ---
 
 ## Gazitepe Anıtı

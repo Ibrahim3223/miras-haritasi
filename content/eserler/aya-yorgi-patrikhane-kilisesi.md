@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.951822222,41.029091666"
 draft: false
+
+weight: 10
 ---
 
 **Aya Yorgi Patrikhane Kilisesi**

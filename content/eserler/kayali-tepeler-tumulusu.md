@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0734539,41.7719307"
 draft: false
+
+weight: 100
 ---
 
 ### Kayalı Tepeler Tümülüsü: Kırklareli'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.043349031,40.99554693"
 draft: false
+
+weight: 10
 ---
 
 ## Osman Ağa Çeşmesi: Kadıköy'ün Tarihi ve Kültürel Mirası

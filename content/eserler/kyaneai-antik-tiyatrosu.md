@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.815052,36.246036"
 draft: false
+
+weight: 100
 ---
 
 # Kyaneai Antik Tiyatrosu

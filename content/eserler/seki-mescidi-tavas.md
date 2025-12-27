@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8066,37.6999"
 draft: false
+
+weight: 100
 ---
 
 ### Seki Mescidi, Tavas: Tarihi ve Kültürel Mirasının Bir Anıtı

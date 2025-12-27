@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6985168,41.2468796"
 draft: false
+
+weight: 10
 ---
 
 ## Tuzcupınarı Çeşmesi

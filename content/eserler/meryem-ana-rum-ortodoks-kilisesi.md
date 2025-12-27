@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.935612,41.007142"
 draft: false
+
+weight: 100
 ---
 
 ### Meryem Ana Rum Ortodoks Kilisesi: İstanbul'un Gizli Çekebilecek Bir Öreni

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.263067,38.068266"
 draft: false
+
+weight: 100
 ---
 
 ## Ördekçi Höyük: Tarih ve Kültür Mirasının Gizemli Yerleşkesi

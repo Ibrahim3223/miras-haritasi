@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9529495,41.0152435"
 draft: false
+
+weight: 100
 ---
 
 ## Canfeda Kadın Sebili: Fatih'te Bir Altın Çeşme

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8246155,40.6489716"
 draft: false
+
+weight: 100
 ---
 
 ### Yusuf Sinaneddin Türbesi

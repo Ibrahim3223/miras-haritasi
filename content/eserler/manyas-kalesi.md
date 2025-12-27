@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0518799,40.0040169"
 draft: false
+
+weight: 100
 ---
 
 ## Manyas Kalesi: Tarihin Gizemi

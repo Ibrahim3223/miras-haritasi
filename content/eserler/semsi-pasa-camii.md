@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.011369444,41.025944444"
 draft: false
+
+weight: 10
 ---
 
 ## Şemsi Paşa Camii Tanıtımı

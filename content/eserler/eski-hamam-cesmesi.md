@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.012308,41.024071"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Hamam Çeşmesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.6395435,38.4130363"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Hamam, Bağyurdu

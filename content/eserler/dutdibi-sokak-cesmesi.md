@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7690125,41.3764381"
 draft: false
+
+weight: 100
 ---
 
 ## Dutdibi Sokak Çeşmesi

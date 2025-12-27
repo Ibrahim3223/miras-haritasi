@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "33.2123528,37.1830635"
 draft: false
+
+weight: 10
 ---
 
 ### Karaman Saat Kulesi

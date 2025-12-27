@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.834152,37.762262"
 draft: false
+
+weight: 100
 ---
 
 ## Adnan Menderes Demokrasi Müzesi

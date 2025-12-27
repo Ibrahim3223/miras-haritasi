@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.1245575,39.0723114"
 draft: false
+
+weight: 100
 ---
 
 ## Türbe Ziro Kalesi

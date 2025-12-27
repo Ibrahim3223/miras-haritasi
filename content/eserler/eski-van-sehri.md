@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.339,38.503"
 draft: false
+
+weight: 10
 ---
 
 ## Eski Van Şehri: Tarihî Bir Mirasın Gizemi

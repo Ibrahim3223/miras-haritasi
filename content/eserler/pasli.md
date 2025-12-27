@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.00583333,36.46777778"
 draft: false
+
+weight: 10
 ---
 
 ## Paslı: Türkiye'nin Eski Kenti

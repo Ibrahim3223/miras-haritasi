@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.091944444,39.536111111"
 draft: false
+
+weight: 10
 ---
 
 # Hamaxitos Arkeolojik Sit

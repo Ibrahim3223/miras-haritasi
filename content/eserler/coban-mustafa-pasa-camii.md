@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.431698752,40.800017125"
 draft: false
+
+weight: 10
 ---
 
 ### Çoban Mustafa Paşa Camii: Gebze'nin Tarihi Bir Öreni

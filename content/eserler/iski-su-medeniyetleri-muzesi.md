@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.673597418,41.300965933"
 draft: false
+
+weight: 100
 ---
 
 ## İSKİ Su Medeniyetleri Müzesi

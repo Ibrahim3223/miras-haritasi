@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4493923,38.992012"
 draft: false
+
+weight: 100
 ---
 
 ### Saya Baba Türbesi: İhsaniye'nin Gizli Anıtı

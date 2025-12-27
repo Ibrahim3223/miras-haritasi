@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.2475815,40.4661865"
 draft: false
+
+weight: 100
 ---
 
 ### Çukurören Köyü Camii: Ankara'nın Gizli Cenneti

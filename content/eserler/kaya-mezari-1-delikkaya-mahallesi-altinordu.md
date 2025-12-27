@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.847003,40.899988"
 draft: false
+
+weight: 100
 ---
 
 ## Kaya Mezarı 1 (Delikkaya Mahallesi), Altınordu

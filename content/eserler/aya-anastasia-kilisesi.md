@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4032173,38.6305504"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Anastasia Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek

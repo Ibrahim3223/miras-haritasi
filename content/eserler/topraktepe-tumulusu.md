@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7451458,38.5705299"
 draft: false
+
+weight: 100
 ---
 
 ## Topraktepe Tümülüsü: Manisa'nın Gizli Kutsal Alanı

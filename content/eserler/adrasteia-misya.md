@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.268273,40.39198"
 draft: false
+
+weight: 100
 ---
 
 ## Adrasteia (Misya): Geçmişin Gizemi

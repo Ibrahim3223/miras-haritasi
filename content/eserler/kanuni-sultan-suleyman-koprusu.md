@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.57055556,41.02180556"
 draft: false
+
+weight: 10
 ---
 
 ## Kanuni Sultan Süleyman Köprüsü: Büyükçekmece'nin Tarihi ve Kültürel Mirası

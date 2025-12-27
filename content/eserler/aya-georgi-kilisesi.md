@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4403362,41.9228516"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Georgi Kilisesi: Kırklareli'nin Tarihî Bir Harikası

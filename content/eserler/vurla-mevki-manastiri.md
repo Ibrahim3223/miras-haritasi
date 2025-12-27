@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.7779999,40.1484985"
 draft: false
+
+weight: 100
 ---
 
 ## Vurla Mevki Manastırı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9566239,37.8155479"
 draft: false
+
+weight: 100
 ---
 
 ## Köprüköy Köprüsü: Bismil'in Tarihî Bir Rönesansı

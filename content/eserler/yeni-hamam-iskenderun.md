@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.1707268,36.5889893"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Hamam, İskenderun

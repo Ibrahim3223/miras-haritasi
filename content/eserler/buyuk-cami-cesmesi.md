@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.224055555,41.735805555"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük Cami Çeşmesi

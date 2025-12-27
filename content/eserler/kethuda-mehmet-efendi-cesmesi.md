@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.971156923,41.028538446"
 draft: false
+
+weight: 10
 ---
 
 ### Kethüda Mehmet Efendi Çeşmesi

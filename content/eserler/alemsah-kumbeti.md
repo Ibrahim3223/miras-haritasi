@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.5374223,39.4510981"
 draft: false
+
+weight: 100
 ---
 
 ## Alemşah Kümbeti: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

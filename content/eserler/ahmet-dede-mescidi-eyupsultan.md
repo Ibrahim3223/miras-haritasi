@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9315357,41.053566"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Dede Mescidi, Eyüpsultan

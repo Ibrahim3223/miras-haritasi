@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9741497,41.0251083"
 draft: false
+
+weight: 100
 ---
 
 ## Bereketzade Ali Efendi Kabri

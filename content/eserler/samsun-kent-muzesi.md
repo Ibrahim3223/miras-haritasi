@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.339994,41.286409"
 draft: false
+
+weight: 100
 ---
 
 ## Samsun Kent Müzesi 

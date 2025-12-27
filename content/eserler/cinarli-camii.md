@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.0689602,38.6077957"
 draft: false
+
+weight: 100
 ---
 
 ## Çınarlı Camii: İzmir'in Gizli Çehresini Gözler önüne Seren Bir Miras

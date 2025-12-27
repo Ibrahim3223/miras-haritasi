@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.192222222,37.353888888"
 draft: false
+
+weight: 10
 ---
 
 ### Poseidon Altarı (Milet)

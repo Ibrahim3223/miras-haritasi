@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.234390094,40.951898054"
 draft: false
+
+weight: 100
 ---
 
 ### Dalkoz Köyü Aşağı Mahalle Camii

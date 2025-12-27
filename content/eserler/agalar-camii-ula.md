@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.4179516,37.1022072"
 draft: false
+
+weight: 100
 ---
 
 ## Ağalar Camii: Ula'nın Tarihi ve Kültürel Mirası

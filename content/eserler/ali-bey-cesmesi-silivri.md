@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.2490225,41.0746928"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Bey Çeşmesi, Silivri

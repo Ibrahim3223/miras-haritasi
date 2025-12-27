@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4688911,40.7368469"
 draft: false
+
+weight: 100
 ---
 
 ### Yanıklar Sokak Çeşmesi

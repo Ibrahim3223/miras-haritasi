@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.0203972,39.7546463"
 draft: false
+
+weight: 100
 ---
 
 ## Çatalpınar Camii: Sivas'ın Tarihî Bir Mirası

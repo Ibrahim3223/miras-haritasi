@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9817829,41.0678711"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmed Şefik Midhat Paşa Anıt Mezarı

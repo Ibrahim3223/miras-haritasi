@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.7198601,41.0081253"
 draft: false
+
+weight: 10
 ---
 
 ### İskender Paşa Çeşmesi 2: Ortahisar'da Bir Güzellik

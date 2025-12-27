@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.922027777,41.335222222"
 draft: false
+
+weight: 100
 ---
 
 ### Akarca Köprüsü

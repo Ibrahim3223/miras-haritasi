@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.92389,41.013163"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Evliya Camii: İstanbul'un Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.65718,40.913268"
 draft: false
+
+weight: 100
 ---
 
 ## Psarela: Bir Arkeolojik Sitin Gizemi

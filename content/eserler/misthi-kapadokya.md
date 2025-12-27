@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.848959,38.171594"
 draft: false
+
+weight: 1
 ---
 
 ## Misthi, Kapadokya

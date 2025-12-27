@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.259192,38.847595"
 draft: false
+
+weight: 100
 ---
 
 ### Roma Köprüsü, Maldan

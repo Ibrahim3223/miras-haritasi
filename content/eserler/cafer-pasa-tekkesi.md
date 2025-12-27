@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.934855,41.046682"
 draft: false
+
+weight: 100
 ---
 
 ## Cafer Paşa Tekkesi: İstanbul'un Gizli Çağı

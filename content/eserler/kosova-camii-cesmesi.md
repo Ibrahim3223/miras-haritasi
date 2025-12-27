@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4993324,37.8617439"
 draft: false
+
+weight: 100
 ---
 
 ## Kosova Camii Çeşmesi

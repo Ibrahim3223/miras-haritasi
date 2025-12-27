@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.98355,41.035634"
 draft: false
+
+weight: 100
 ---
 
 ### Ayia Triada Rum Ortodoks Kilisesi Bahçesindeki Çeşme

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7341003,37.3726006"
 draft: false
+
+weight: 100
 ---
 
 ### Mehmet Salih Efendi Çeşmesi

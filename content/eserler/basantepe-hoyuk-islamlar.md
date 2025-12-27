@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8972464,39.1158831"
 draft: false
+
+weight: 100
 ---
 
 ## Başantepe Höyük, İslamlar: Dikili'nin Gizli Mirası

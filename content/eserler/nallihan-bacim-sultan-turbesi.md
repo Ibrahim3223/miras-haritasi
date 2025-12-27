@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.2055473,40.1433525"
 draft: false
+
+weight: 100
 ---
 
 ## Nallıhan Bacım Sultan Türbesi: Tarihi ve Kültürel Mirasının Gizemi

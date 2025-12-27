@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.110955589,41.237831804"
 draft: false
+
+weight: 10
 ---
 
 ### Rumelifeneri Kalesi: İstanbul'un Tarihi ve Kültürel Mirası

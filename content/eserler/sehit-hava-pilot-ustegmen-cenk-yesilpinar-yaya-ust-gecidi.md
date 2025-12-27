@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1305,38.421944444"
 draft: false
+
+weight: 10
 ---
 
 ## Şehit Hava Pilot Üsteğmen Cenk Yeşilpınar Yaya Üst Geçidi

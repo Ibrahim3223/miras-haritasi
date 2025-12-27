@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.492998,40.754892"
 draft: false
+
+weight: 10
 ---
 
 ### Büyükesence Orhan Camii

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Atilla Altıkat Köprüsü: Seyhan Nehri'nin Rengarenk Köprüsü

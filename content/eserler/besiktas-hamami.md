@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.003220047,41.044040019"
 draft: false
+
+weight: 10
 ---
 
 ## Beşiktaş Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.8511971,36.9580113"
 draft: false
+
+weight: 10
 ---
 
 ## Perge Roma Tiyatrosu: Antik Çağın Büyüleyici Mirası

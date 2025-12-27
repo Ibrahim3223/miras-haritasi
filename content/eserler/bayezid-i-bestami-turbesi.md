@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.3646,36.5315"
 draft: false
+
+weight: 10
 ---
 
 ### Bayezid-i Bestami Türbesi

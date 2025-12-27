@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.3361301,39.7870255"
 draft: false
+
+weight: 100
 ---
 
 ### Seferşah Hamamı: Ezine'de Bir Zamanın Mirası

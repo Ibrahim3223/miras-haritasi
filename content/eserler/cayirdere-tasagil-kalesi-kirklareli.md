@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5258293,41.6966858"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırdere Taşağıl Kalesi: Kırklareli'nin Gizli Kalesi

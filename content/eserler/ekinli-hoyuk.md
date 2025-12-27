@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.3670255,36.8204812"
 draft: false
+
+weight: 100
 ---
 
 # Ekinli Höyük: Gaziantep'in Gizli Kutsalı

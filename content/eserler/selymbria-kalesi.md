@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.248745,41.0698624"
 draft: false
+
+weight: 100
 ---
 
 ## Selymbria Kalesi: Silivri'nin Tarihi Mirası

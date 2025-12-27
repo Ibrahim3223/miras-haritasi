@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.870489,36.612105"
 draft: false
+
+weight: 100
 ---
 
 # Abdal Musa Tekkesi

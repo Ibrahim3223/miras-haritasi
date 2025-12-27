@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4278622,38.6154785"
 draft: false
+
+weight: 100
 ---
 
 ## Derviş Hasan Çeşmesi: Manisa'nın Gizli Çeşmesi

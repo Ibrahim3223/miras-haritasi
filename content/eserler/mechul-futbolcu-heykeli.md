@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0376263,40.9694405"
 draft: false
+
+weight: 10
 ---
 
 ## Meçhul Futbolcu Heykeli: Kadıköy, İstanbul'un Gizemli Anıtı

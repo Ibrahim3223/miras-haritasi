@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.890049,40.3040886"
 draft: false
+
+weight: 100
 ---
 
 # Zile Saat Kulesi: Tarihi ve Kültürel Bir Anıtlar Arasından Farklılık

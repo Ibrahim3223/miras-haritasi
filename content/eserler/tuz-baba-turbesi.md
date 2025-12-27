@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.003934,41.046246"
 draft: false
+
+weight: 100
 ---
 
 ## Tuz Baba Türbesi: Beşiktaş'ın Tarihî Bir Anıtı

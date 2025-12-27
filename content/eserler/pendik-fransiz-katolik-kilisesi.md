@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.229108101,40.874283832"
 draft: false
+
+weight: 10
 ---
 
 ## Pendik Fransız Katolik Kilisesi

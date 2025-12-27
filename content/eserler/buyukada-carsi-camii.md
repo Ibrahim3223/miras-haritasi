@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.130010154,40.874699091"
 draft: false
+
+weight: 10
 ---
 
 ## Büyükada Çarşı Camii: Adalar'ın Yüzyıllar Öncesi Tarihini Saklayan Anıt

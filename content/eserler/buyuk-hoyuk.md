@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.492761,39.385039"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Höyük: Sivrihisar'ın Gizli Mirası

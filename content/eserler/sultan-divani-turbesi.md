@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5334,38.7537"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Divanı Türbesi

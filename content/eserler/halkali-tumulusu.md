@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9149189,41.7275162"
 draft: false
+
+weight: 100
 ---
 
 ## Halkalı Tümülüsü: Edirne'nin Gizemli Arkeolojik Sit

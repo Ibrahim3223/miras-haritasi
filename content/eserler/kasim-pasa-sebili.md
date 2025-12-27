@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968902,41.033154"
 draft: false
+
+weight: 10
 ---
 
 ### Kasım Paşa Sebili: İstanbul'un Çiftlikköyü'nün Tarihi Çeşmesi

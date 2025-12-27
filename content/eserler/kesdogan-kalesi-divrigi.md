@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.129532,39.37722"
 draft: false
+
+weight: 100
 ---
 
 **Kesdoğan Kalesi: Divriği'nin Tarihî ve Kültür Mirası**

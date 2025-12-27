@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7962971,41.4512215"
 draft: false
+
+weight: 100
 ---
 
 ## Kumtepe Tümülüsü

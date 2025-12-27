@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.0648994,39.4785995"
 draft: false
+
+weight: 100
 ---
 
 ### Yalı Çeşmesi: Ayvacık'ta Bir Osmanlı Dönemi Çeşmesinden Hatıralar

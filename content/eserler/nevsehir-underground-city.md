@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Nevşehir Yeraltı Şehri: Tarihî ve Kültürel Mirasımızın Gizemi

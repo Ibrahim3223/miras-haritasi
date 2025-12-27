@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.899263767,39.01488747"
 draft: false
+
+weight: 100
 ---
 
 **Yassıdağ Höyüğü: Kayseri'nin Gizemli Arkeolojik Sit**

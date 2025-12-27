@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.7652225,38.3192253"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Çeşme 2, Urla: Urla'nın Tarihi ve Kültürel Mirası

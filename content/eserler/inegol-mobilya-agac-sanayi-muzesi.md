@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.5130463,40.0782242"
 draft: false
+
+weight: 100
 ---
 
 ## İnegöl Mobilya Ağaç Sanayi Müzesi

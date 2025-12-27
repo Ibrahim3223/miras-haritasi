@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.552228,41.663535"
 draft: false
+
+weight: 10
 ---
 
 ## Meriç Köprüsü

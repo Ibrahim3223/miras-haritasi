@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "32.5038567,37.8702469"
 draft: false
+
+weight: 10
 ---
 
 ### Yusuf Ağa Kütüphanesi: Konya'nın Önemli Kültürel Mirası

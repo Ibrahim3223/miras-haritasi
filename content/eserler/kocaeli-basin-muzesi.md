@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.9198265,40.76474"
 draft: false
+
+weight: 100
 ---
 
 # Kocaeli Basın Müzesi

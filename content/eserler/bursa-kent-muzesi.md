@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0666036,40.1823029"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Kent Müzesi

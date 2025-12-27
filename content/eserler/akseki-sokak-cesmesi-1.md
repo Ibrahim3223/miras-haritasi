@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6889648,41.2436676"
 draft: false
+
+weight: 10
 ---
 
 ### Akseki Sokak Çeşmesi 1: Safranbolu'nun Tarihi Bir Değerini Tanıtıyor

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "37.3824539,37.0641251"
 draft: false
+
+weight: 10
 ---
 
 ## Gaziantep Hamam Müzesi

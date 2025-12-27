@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8636856,39.9356461"
 draft: false
+
+weight: 100
 ---
 
 ## Ağazade Hanı Mescidi

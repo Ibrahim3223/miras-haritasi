@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.947916666,41.026861111"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyhülislam Esat Efendi Medresesi

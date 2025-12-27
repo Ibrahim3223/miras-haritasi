@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.944817,41.026738"
 draft: false
+
+weight: 10
 ---
 
 # Mehmet Ağa Hamamı

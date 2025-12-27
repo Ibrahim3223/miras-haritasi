@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.97117,41.025244"
 draft: false
+
+weight: 10
 ---
 
 ## Pir Mehmet Çeşmesi

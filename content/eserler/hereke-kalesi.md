@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.612868,40.78424"
 draft: false
+
+weight: 10
 ---
 
 ## Hereke Kalesi: Kocaeli'nin Tarihî ve Kültürel Mirası

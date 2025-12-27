@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0572815,40.1818695"
 draft: false
+
+weight: 100
 ---
 
 ## Üçkurnalar Çeşmesi

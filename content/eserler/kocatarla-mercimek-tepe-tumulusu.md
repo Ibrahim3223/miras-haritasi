@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0803146,41.945591"
 draft: false
+
+weight: 100
 ---
 
 ## Kocatarla Mercimek Tepe Tümülüsü

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.94626164,36.081706891"
 draft: false
+
+weight: 10
 ---
 
 ## Hızır Türbesi: Samandağ'ın Tarihi ve Kültürel Mirası

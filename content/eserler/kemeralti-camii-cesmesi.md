@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1317253,38.4187813"
 draft: false
+
+weight: 100
 ---
 
 ## Kemeraltı Camii Çeşmesi

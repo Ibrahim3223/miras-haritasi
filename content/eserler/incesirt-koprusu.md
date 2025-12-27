@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.7733,41.0646"
 draft: false
+
+weight: 100
 ---
 
 ## İncesırt Köprüsü: Rize'nin Tarihi Bir Mirası

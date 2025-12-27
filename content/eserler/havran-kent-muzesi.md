@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.0981293,39.5570564"
 draft: false
+
+weight: 100
 ---
 
 ## Havran Kent Müzesi: Balıkesir'in Tarihini Yaşamak

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.725180555,37.70715"
 draft: false
+
+weight: 10
 ---
 
 ## Théâtre d'Aphrodisias: Aydın'ın Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6763496,41.2636795"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hafız Çeşmesi

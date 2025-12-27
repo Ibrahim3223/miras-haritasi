@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.1018276,37.8378601"
 draft: false
+
+weight: 100
 ---
 
 ## Laodikeia Efes Kapısı: Tarih ve Mimarisi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.67907,41.00507"
 draft: false
+
+weight: 10
 ---
 
 ## Haramidere Köprüsü

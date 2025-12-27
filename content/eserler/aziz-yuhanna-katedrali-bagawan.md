@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.51722,39.61194"
 draft: false
+
+weight: 10
 ---
 
 ### Aziz Yuhanna Katedrali (Bagawan): Taşteker'in Gizli Çehresini Keşfedin

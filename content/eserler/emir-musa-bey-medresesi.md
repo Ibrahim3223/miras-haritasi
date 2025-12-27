@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "33.2069931,37.1807327"
 draft: false
+
+weight: 100
 ---
 
 **Emir Musa Bey Medresesi**

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.172813888,41.070572222"
 draft: false
+
+weight: 100
 ---
 
 ## Longothevi Kilisesi

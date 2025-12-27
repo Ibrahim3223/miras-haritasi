@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.725804,38.315052"
 draft: false
+
+weight: 100
 ---
 
 ## Samut Baba Türbesi: Urla'nın Gizemli Anıtı

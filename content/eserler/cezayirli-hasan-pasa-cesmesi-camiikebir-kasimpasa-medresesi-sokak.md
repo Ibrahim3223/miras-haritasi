@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.968754,41.033413"
 draft: false
+
+weight: 10
 ---
 
 ## Cezayirli Hasan Paşa Çeşmesi, Camiikebir – Kasımpaşa Medresesi Sokak

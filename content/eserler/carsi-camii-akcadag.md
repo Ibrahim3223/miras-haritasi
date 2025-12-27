@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.9703369,38.3444557"
 draft: false
+
+weight: 100
 ---
 
 ### Çarşı Camii: Akçadağ'ın Tarihi ve Kültürel Mirası

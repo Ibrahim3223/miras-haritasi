@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.974957639,41.035135112"
 draft: false
+
+weight: 10
 ---
 
 ## Kamer Hatun Camii: İstanbul'un Gizli Gözdeleri Arasındaki Bir Kahraman

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.881218,37.7462425"
 draft: false
+
+weight: 100
 ---
 
 ## Savrandere Köprüsü

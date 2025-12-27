@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.3373566,41.6328049"
 draft: false
+
+weight: 100
 ---
 
 ## Arap Camii, Bartın

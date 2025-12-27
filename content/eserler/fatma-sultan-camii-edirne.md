@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.553782904,41.672450089"
 draft: false
+
+weight: 100
 ---
 
 # Fatma Sultan Camii, Edirne

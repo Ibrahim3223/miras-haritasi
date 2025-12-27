@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.956068,41.026875"
 draft: false
+
+weight: 10
 ---
 
 ### İhramcı Mehmed Sadık Efendi Çeşmesi

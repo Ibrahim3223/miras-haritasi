@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "41.547546,41.520660097"
 draft: false
+
+weight: 100
 ---
 
 ## Sarpi Sınır Postu: Tarihi ve Kültürel Miras

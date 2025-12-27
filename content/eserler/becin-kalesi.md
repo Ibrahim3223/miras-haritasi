@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.78916667,37.275"
 draft: false
+
+weight: 10
 ---
 
 ## Beçin Kalesi: Milas'ın Tarihî Mirası

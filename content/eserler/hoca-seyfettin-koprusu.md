@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.7145061,38.6273155"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Seyfettin Köprüsü

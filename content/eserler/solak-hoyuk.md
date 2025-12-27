@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.1330353,40.1659615"
 draft: false
+
+weight: 100
 ---
 
 # Solak Höyük: Sivas'ta Bir Geç Antik Çağ Mirası

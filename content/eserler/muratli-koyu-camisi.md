@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.71035,41.47838"
 draft: false
+
+weight: 10
 ---
 
 ### Muratlı Köyü Camisi

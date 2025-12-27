@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.020129,41.019945"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Efendi Çeşmesi

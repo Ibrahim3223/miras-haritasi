@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.03105,41.0243"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Haç Tıbrevank Ermeni Lisesi

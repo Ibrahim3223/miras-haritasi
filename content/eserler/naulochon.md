@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.171,38.4645"
 draft: false
+
+weight: 100
 ---
 
 ## Naulochon: İzmir'in Gizli Cenneti

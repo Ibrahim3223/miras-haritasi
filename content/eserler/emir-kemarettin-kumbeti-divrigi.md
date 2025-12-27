@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.1195412,39.371521"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Kemarettin Kümbeti: Divriği'nin Işığında Geç Orta Çağ'ın Altın Çağı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.967813,41.004692"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Fotoğraf Müzesi

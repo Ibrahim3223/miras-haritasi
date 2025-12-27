@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.9568558,40.5896072"
 draft: false
+
+weight: 100
 ---
 
 ## Çilhane Köprüsü

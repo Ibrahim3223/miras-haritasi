@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6589629,37.2950179"
 draft: false
+
+weight: 100
 ---
 
 ## Tilmen Höyük: Şanlıurfa'nın Gizli Mirası

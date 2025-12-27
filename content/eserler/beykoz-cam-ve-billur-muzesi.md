@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.1035,41.1384"
 draft: false
+
+weight: 10
 ---
 
 ## Beykoz Cam ve Billur Müzesi

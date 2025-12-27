@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.246836,37.190134"
 draft: false
+
+weight: 100
 ---
 
 ### Bozkır Köprüsü

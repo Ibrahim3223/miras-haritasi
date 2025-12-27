@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.941437,41.022304"
 draft: false
+
+weight: 10
 ---
 
 ### Akseki Kemalettin Mescidi

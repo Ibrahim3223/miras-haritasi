@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.958464742,37.179123217"
 draft: false
+
+weight: 100
 ---
 
 ## Mir Türbesi: Mardin'in Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ### Monastir Mesjedi: İstanbul'un Gizli Çiçeği

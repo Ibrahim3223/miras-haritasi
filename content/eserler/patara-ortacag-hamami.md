@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.3151932,36.263813"
 draft: false
+
+weight: 100
 ---
 
 ### Patara Ortaçağ Hamamı

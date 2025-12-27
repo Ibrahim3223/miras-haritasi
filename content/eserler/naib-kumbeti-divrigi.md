@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.1189232,39.3719978"
 draft: false
+
+weight: 100
 ---
 
 ## Naib Kümbeti, Divriği

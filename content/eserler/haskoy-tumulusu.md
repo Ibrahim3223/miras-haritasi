@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8757706,41.6406708"
 draft: false
+
+weight: 100
 ---
 
 ## Hasköy Tümülüsü: Edirne'nin Gizli Tarihi

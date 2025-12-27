@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0544186,40.1854591"
 draft: false
+
+weight: 10
 ---
 
 ## Oruçbey Hamamı

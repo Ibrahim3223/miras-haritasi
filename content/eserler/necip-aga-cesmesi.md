@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0234966,41.2204208"
 draft: false
+
+weight: 10
 ---
 
 ## Necip Ağa Çeşmesi

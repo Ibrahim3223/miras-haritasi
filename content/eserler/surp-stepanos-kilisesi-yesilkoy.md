@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.820611,40.957058"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Stepanos Kilisesi: İstanbul'un Gizli Çarpıcılarından Birisi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.7046967,41.4642487"
 draft: false
+
+weight: 100
 ---
 
 ## Dört Tepeler B Tümülüsü: Kırklareli'nin Gizli Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.01725,41.04587"
 draft: false
+
+weight: 10
 ---
 
 # Yahya Efendi Çeşmesi

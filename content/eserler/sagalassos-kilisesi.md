@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.517639,37.675694"
 draft: false
+
+weight: 100
 ---
 
 **Sagalassos Kilisesi**

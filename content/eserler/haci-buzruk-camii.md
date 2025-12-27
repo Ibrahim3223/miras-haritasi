@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.237801,37.914115"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Büzrük Camii

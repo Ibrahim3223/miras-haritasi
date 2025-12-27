@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.089698,40.61355"
 draft: false
+
+weight: 100
 ---
 
 ## Celal Baba Türbesi: Kars'ta Bir Zihniyetin Mirası

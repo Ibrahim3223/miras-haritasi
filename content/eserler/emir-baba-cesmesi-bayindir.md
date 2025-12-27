@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6368008,38.2242012"
 draft: false
+
+weight: 100
 ---
 
 ## Emir Baba Çeşmesi, Bayındır

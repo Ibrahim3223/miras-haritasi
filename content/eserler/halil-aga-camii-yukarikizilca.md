@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4984493,38.3853264"
 draft: false
+
+weight: 100
 ---
 
 ## Halil Ağa Camii, Yukarıkızılca

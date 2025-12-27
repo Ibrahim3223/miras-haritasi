@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.524444444,37.852222222"
 draft: false
+
+weight: 10
 ---
 
 ## Zeus Sosipolis Tapınağı

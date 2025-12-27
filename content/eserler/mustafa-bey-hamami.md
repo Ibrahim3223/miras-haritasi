@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.835467,40.6541215"
 draft: false
+
+weight: 100
 ---
 
 # Mustafa Bey Hamamı

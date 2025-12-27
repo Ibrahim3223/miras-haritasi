@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9460087,41.0099831"
 draft: false
+
+weight: 100
 ---
 
 ### Tevekkül Hamamı

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "37.8925896,40.9448738"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Hamam: Altınordu'nun Tarihi Bir Mirası

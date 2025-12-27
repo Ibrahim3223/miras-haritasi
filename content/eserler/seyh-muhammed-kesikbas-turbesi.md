@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.1878433,37.3243332"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Muhammed Kesikbaş Türbesi: Cizre'nin Tarihi ve Kültürel Mirası

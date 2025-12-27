@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.718889,40.913333"
 draft: false
+
+weight: 100
 ---
 
 ### Esenyaka Polostav Camii

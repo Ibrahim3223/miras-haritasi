@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.968373671,41.033511637"
 draft: false
+
+weight: 10
 ---
 
 ## Büyük Hamamı

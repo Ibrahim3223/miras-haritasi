@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9830189,41.0135612"
 draft: false
+
+weight: 100
 ---
 
 ## III. Osman Taşlığı Çeşmeleri

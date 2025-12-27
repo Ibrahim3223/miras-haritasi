@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.1869398,38.764196"
 draft: false
+
+weight: 100
 ---
 
 ### Kıraç Höyüğü: Aksaray'ın Gizli Ören Yeri

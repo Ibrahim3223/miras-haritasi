@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "26.068905,39.835316"
 draft: false
+
+weight: 10
 ---
 
 ## Bozcaada Saat Kulesi

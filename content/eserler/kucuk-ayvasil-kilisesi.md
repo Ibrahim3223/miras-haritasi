@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.7233,41.0061"
 draft: false
+
+weight: 10
 ---
 
 ## Küçük Ayvasıl Kilisesi: Tarih, Mimarlık ve Kültür Mirası

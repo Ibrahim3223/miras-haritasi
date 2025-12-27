@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.733387,38.0856667"
 draft: false
+
+weight: 100
 ---
 
 ## Yahşi Bey Camii: İzmir'in Tarihi Bir Mirası

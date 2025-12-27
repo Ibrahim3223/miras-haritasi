@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0233,40.9969"
 draft: false
+
+weight: 10
 ---
 
 ### Haydarpaşa Protokol Camii: İstanbul'un Ziyaretçi Merkezlerinden Bir Diğer

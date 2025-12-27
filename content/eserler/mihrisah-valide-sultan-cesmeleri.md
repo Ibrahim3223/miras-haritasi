@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.934419,41.048339"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Valide Sultan Çeşmeleri

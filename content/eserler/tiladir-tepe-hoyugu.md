@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.0379653,36.8654423"
 draft: false
+
+weight: 100
 ---
 
 ## Tiladir Tepe Höyüğü

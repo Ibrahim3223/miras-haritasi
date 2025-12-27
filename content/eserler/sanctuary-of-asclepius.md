@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2981824,37.6584946"
 draft: false
+
+weight: 10
 ---
 
 ## Söke Asclepios Tapınağı

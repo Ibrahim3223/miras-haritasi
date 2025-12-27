@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.560555555,41.678888888"
 draft: false
+
+weight: 10
 ---
 
 ### Edirne Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.1543064,37.8904076"
 draft: false
+
+weight: 100
 ---
 
 ## Çarşı Camii, Sultanhisar: Aydın'ın Tarihî Bir Mirası

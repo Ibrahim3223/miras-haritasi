@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "26.55157222,41.67161111"
 draft: false
+
+weight: 10
 ---
 
 ## Edirne Büyük Sinagogu: Edirne'nin Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 **Arif Nihat Asya'nın Mezarı: Ankara'nın En Güzel Anıtlarından Biri**

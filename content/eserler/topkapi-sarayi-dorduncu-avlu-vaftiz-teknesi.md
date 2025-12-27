@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.984777777,41.013722222"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Dördüncü Avlu Vaftiz Teknesi

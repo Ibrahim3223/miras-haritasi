@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9355,41.044555555"
 draft: false
+
+weight: 10
 ---
 
 # Selahi Mehmet Bey Cami

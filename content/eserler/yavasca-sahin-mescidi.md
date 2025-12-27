@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.967702,41.015851"
 draft: false
+
+weight: 100
 ---
 
 ## Yavaşça Şahin Mescidi: İstanbul'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9667301,41.0106697"
 draft: false
+
+weight: 100
 ---
 
 ## Yorgancılar Kapısı Tanıtımı

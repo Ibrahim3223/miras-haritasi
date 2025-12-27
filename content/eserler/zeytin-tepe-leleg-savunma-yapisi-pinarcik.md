@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5015011,37.4686546"
 draft: false
+
+weight: 100
 ---
 
 ### Zeytin Tepe Leleg Savunma Yapısı

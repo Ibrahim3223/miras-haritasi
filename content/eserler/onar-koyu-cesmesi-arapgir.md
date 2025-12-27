@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.569398107,38.969034402"
 draft: false
+
+weight: 100
 ---
 
 ### Onar Köyü Çeşmesi: Arapgir'in Gizli Çeşmesi

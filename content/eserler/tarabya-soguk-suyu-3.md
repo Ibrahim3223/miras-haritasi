@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.052186,41.136815"
 draft: false
+
+weight: 100
 ---
 
 ## Tarabya Soğuk Suyu 3: Tarabya'nın Tarihî Çeşmesinde Bir Ziyaret

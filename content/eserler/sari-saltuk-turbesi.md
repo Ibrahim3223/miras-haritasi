@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.734073,40.428521"
 draft: false
+
+weight: 10
 ---
 
 ## Sarı Saltuk Türbesi

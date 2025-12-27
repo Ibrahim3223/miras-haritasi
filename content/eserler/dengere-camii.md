@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.776474,37.1102829"
 draft: false
+
+weight: 100
 ---
 
 ### Dengere Camii: Burdur'un Tarihi Bir Anıtı

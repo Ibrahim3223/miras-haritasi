@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.054288,41.081369"
 draft: false
+
+weight: 10
 ---
 
 ### Orhan Veli Heykeli: Beşiktaş'taki Edebiyatın Anıtı

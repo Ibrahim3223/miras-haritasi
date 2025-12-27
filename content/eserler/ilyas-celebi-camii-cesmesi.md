@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.984798,41.029293"
 draft: false
+
+weight: 100
 ---
 
 ## İlyas Çelebi Camii Çeşmesi: Beyoğlu'nun Gizli Cezvesi

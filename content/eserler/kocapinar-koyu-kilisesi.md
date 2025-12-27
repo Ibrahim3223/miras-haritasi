@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.596656,40.476909"
 draft: false
+
+weight: 100
 ---
 
 ## Kocapınar Köyü Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek

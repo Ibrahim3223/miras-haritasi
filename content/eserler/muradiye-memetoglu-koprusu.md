@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.544267,40.938717"
 draft: false
+
+weight: 100
 ---
 
 ## Muradiye Memetoğlu Köprüsü: Tarihi ve Kültürel Bir Miras

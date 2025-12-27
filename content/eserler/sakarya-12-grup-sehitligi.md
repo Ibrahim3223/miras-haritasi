@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.0800171,39.5087967"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarya 12. Grup Şehitliği

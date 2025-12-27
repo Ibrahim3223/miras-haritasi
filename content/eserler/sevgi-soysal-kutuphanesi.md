@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.985903,41.039364"
 draft: false
+
+weight: 10
 ---
 
 ## Sevgi Soysal Kütüphanesi

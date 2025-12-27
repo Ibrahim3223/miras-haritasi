@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4211126,40.9621071"
 draft: false
+
+weight: 100
 ---
 
 ## Altıparmak Börekçiler Camii: Artvin'in Gizli Cenneti

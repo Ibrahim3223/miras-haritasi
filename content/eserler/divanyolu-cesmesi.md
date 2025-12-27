@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.973349639,41.008266972"
 draft: false
+
+weight: 10
 ---
 
 ## Divanyolu Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

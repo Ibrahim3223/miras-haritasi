@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.992619,39.664249"
 draft: false
+
+weight: 100
 ---
 
 ## Gordion Tümülüs: Antik Çağın Gizemi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.94815,41.01218"
 draft: false
+
+weight: 100
 ---
 
 **Hammal Dede Kabristanı**

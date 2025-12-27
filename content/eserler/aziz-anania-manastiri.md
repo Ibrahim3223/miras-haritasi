@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "42.175,38.43"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Anania Manastırı

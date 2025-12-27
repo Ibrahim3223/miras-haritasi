@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.2503166,38.7015228"
 draft: false
+
+weight: 100
 ---
 
 # Balak Gazi Anıtı

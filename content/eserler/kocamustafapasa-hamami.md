@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.927648738,41.003593148"
 draft: false
+
+weight: 10
 ---
 
 ## Kocamustafapaşa Hamamı

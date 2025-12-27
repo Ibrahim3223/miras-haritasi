@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3131523,38.186657"
 draft: false
+
+weight: 100
 ---
 
 **Küçüktepe Höyüğü, Kuşçuburun: İzmir'in Tarihî Mirası**

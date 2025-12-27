@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.460988814,40.878548294"
 draft: false
+
+weight: 10
 ---
 
 ## Sofular Camii

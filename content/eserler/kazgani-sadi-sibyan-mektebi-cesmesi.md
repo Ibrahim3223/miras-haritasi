@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.960143,41.004532"
 draft: false
+
+weight: 100
 ---
 
 ### Kazgani Sadi Sıbyan Mektebi Çeşmesi Tanıtımı

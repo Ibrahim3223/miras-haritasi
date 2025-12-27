@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.8963,41.0456"
 draft: false
+
+weight: 10
 ---
 
 ## Sea Life İstanbul

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "28.98503333,41.00903056"
 draft: false
+
+weight: 10
 ---
 
 ### Hodegon Manastırı: Bir Geçiş Döneminin Eski Manastırı

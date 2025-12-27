@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.052820009,40.261733818"
 draft: false
+
+weight: 100
 ---
 
 ### Güzelce Köprüsü

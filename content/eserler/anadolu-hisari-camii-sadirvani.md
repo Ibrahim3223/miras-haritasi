@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0674744,41.0851936"
 draft: false
+
+weight: 100
 ---
 
 ## Anadolu Hisarı Camii Şadırvanı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.011969,41.049673"
 draft: false
+
+weight: 100
 ---
 
 ## III. Selim Han Çeşmesi, Yıldız

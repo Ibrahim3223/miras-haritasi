@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9487,40.5906563"
 draft: false
+
+weight: 100
 ---
 
 **Kırkkızlar Kümbeti, Niksar**

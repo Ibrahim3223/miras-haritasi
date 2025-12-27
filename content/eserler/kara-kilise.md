@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.943018817,37.85114629"
 draft: false
+
+weight: 10
 ---
 
 ## Kara Kilise: Adana'nın Gizli Çehresi

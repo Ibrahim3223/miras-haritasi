@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9287243,41.0036011"
 draft: false
+
+weight: 100
 ---
 
 ### Sümbül Efendi Türbesi

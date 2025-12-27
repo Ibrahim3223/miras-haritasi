@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.660965,38.880455"
 draft: false
+
+weight: 100
 ---
 
 # Abdal Kalesi

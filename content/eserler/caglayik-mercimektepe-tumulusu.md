@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3389339,42.0379639"
 draft: false
+
+weight: 100
 ---
 
 ### Çağlayık Mercimektepe Tümülüsü

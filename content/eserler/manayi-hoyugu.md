@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8154454,38.4199091"
 draft: false
+
+weight: 100
 ---
 
 ## Manayi Höyüğü: Tarihî ve Kültürel Mirasın İncelenmesi

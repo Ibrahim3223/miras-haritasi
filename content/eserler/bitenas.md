@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2808381,40.9367528"
 draft: false
+
+weight: 100
 ---
 
 ## Bitenas Arkeolojik Sit

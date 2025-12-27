@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.9322281,37.5833664"
 draft: false
+
+weight: 100
 ---
 
 ## Kuyucak Hamamı: Kahramanmaraş'taki Bir Osmanlı Dönemi Eseri

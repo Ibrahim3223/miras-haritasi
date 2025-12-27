@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3748798,40.1413498"
 draft: false
+
+weight: 100
 ---
 
 ### Rumeli Mecidiye Tabyası Şehitliği

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.968493,41.008966"
 draft: false
+
+weight: 100
 ---
 
 # Çorlulu Ali Paşa Dershanesi

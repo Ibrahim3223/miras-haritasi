@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.925282,40.170311"
 draft: false
+
+weight: 100
 ---
 
 ## Hacılar Köprüsü: Ankara'nın Eski Bir Köprüsü

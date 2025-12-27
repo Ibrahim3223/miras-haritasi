@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9673538,41.0089645"
 draft: false
+
+weight: 100
 ---
 
 ### Kemankeş Kara Mustafa Paşa Medresesi: Fatih'te Eğitime Öncülük Eden Bir Miras

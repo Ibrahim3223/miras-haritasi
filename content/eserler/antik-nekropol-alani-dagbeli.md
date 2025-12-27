@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.547297468,37.213155905"
 draft: false
+
+weight: 100
 ---
 
 ## Antik Nekropol Alanı, Dağbeli

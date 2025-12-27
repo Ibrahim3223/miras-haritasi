@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.337114,40.2927289"
 draft: false
+
+weight: 100
 ---
 
 ### Endiz Höyüğü: Tokat'taki Gizemli Arkeolojik Sit

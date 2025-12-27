@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.499277777,37.869888888"
 draft: false
+
+weight: 10
 ---
 
 ## Kapu Camii: Konya'nın Tarihi ve Kültürel Bir Mirası

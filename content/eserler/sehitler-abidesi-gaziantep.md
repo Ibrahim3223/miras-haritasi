@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.3770828,37.0631599"
 draft: false
+
+weight: 100
 ---
 
 **Şehitler Abidesi: Gaziantep'in Ebedi Övgüsü**

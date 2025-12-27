@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.9038277,41.0004501"
 draft: false
+
+weight: 100
 ---
 
 ### Yörücek Cami

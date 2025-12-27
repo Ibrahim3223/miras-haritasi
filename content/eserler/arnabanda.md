@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.90196,36.32842"
 draft: false
+
+weight: 100
 ---
 
 # Arnabanda: Tarihî Bir Arkeolojik Sit

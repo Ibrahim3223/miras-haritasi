@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.007311,41.050461"
 draft: false
+
+weight: 10
 ---
 
 ## Hamidiye Çeşmesi: Yıldız'ın Büyülü Bir Parçası

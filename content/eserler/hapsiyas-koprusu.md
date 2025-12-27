@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.2658,40.81919"
 draft: false
+
+weight: 10
 ---
 
 ## Hapsiyaş Köprüsü

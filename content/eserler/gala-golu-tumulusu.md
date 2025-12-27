@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1669979,40.7509766"
 draft: false
+
+weight: 100
 ---
 
 ## Gala Gölü Tümülüsü

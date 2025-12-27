@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.8878269,38.3569565"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Çarşı Merkez Camii - İzmir'in Tarihi bir Çaprazı

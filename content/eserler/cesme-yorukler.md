@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.9778004,37.6287994"
 draft: false
+
+weight: 100
 ---
 
 # Çeşme, Yörükler: Aydın'ın Etkileyici Tarihi Bir Çeşmesi

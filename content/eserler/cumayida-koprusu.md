@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.1645229,41.1329467"
 draft: false
+
+weight: 100
 ---
 
 # Çumayida Köprüsü: Ardeşen'in Tarihi Bir Mirası

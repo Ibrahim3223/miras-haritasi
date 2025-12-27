@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.977278,41.006544"
 draft: false
+
+weight: 10
 ---
 
 ## Sultan Ahmet Medresesi

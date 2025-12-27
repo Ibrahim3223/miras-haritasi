@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "33.50358,39.288509"
 draft: false
+
+weight: 100
 ---
 
 ## Kumkeçi Kalesi: Balâ'da Tarih ve Kültür

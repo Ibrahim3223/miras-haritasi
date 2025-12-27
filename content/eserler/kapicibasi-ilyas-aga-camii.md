@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.505331,37.7372665"
 draft: false
+
+weight: 100
 ---
 
 ## Kapıcıbaşı İlyas Ağa Camii

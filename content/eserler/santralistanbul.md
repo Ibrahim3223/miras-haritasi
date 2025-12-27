@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9461,41.0665"
 draft: false
+
+weight: 10
 ---
 
 ## Santralİstanbul: Teknoloji ve Sanatta Bir Büyü

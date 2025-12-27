@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.1056824,38.398613"
 draft: false
+
+weight: 100
 ---
 
 ## Alemdar Camii: Bitlis'in Tarihsel ve Kültürel Mirası

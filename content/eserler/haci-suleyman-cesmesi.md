@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8603821,39.9343109"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Süleyman Çeşmesi

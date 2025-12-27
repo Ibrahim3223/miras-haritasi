@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "37.08498,36.63353"
 draft: false
+
+weight: 100
 ---
 
 ## Öncüpınar Sınır Kapısı: Tarihî Bir Kervansarayın Gizemi

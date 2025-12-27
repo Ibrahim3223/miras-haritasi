@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.116099,36.713219"
 draft: false
+
+weight: 100
 ---
 
 ### Şem’un Nebi Türbesi

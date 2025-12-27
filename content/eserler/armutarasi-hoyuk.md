@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.455283,38.577483"
 draft: false
+
+weight: 100
 ---
 
 ## Armutarası Höyük: Manisa'nın Gizli Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.5354368,40.5426873"
 draft: false
+
+weight: 100
 ---
 
 ### Kırkharman Kilisesi: Giresun'un Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.1834145,40.0136261"
 draft: false
+
+weight: 100
 ---
 
 # Çelebi Sultan Mehmed Camii

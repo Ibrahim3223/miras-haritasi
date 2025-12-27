@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.6280212,41.7117081"
 draft: false
+
+weight: 100
 ---
 
 ## İslambeyli Taşköprü Tümülüsü

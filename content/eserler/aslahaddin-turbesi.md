@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.6118,40.7333"
 draft: false
+
+weight: 100
 ---
 
 ## Aslahaddin Türbesi

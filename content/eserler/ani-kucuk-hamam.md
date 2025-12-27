@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "43.5788231,40.5059128"
 draft: false
+
+weight: 100
 ---
 
 ## Ani Küçük Hamam: Tarihi ve Kültürel Bir Miras

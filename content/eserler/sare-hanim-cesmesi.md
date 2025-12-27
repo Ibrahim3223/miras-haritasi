@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6920776,41.2435379"
 draft: false
+
+weight: 10
 ---
 
 ## Sare Hanım Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "32.865611111,39.94175"
 draft: false
+
+weight: 10
 ---
 
 ### Akkale: Ankara'nın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.7131793,38.620548079"
 draft: false
+
+weight: 10
 ---
 
 # Zülfikar Kılıç Arslan Camii

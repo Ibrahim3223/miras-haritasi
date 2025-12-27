@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.961766,41.018789"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Gıyasettin Camii Tanıtımı

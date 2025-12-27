@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9412384,41.0392952"
 draft: false
+
+weight: 100
 ---
 
 ### Toklu Dede ve Sahabeler Haziresi

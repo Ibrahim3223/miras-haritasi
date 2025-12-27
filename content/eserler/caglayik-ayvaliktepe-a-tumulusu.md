@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3488216,41.9937897"
 draft: false
+
+weight: 100
 ---
 
 ## Çağlayık Ayvalıktepe A Tümülüsü

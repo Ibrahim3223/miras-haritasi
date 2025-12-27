@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.094722222,41.178611111"
 draft: false
+
+weight: 100
 ---
 
 **Zeus Ourios Tapınağı: Anadolu Kavağı'ndaki Antik Bir Miras**

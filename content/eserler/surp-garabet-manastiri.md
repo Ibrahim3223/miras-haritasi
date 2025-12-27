@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.191697,38.961068"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Garabet Manastırı

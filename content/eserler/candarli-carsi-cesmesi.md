@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.9352379,38.9353561"
 draft: false
+
+weight: 100
 ---
 
 ## Çandarlı Çarşı Çeşmesi: Dikili, İzmir'de Bir Çarpıcı Özellik

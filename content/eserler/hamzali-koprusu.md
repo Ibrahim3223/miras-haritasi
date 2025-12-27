@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.08482,40.958263"
 draft: false
+
+weight: 100
 ---
 
 # Hamzalı Köprüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5535,41.678055555"
 draft: false
+
+weight: 10
 ---
 
 ## Üç Şerefeli Cami: Edirne'nin Muhteşem Mirası

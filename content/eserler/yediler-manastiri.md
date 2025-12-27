@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "27.557099,37.497936"
 draft: false
+
+weight: 10
 ---
 
 ### Yediler Manastırı: Milas'ın Gizli Çehresini Açığa Çıkaran Bir Ören

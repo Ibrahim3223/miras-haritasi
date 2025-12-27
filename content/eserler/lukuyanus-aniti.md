@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "31.8966579,37.6590691"
 draft: false
+
+weight: 100
 ---
 
 ## Lukuyanus Anıtı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.147605,41.051223"
 draft: false
+
+weight: 100
 ---
 
 ### Morzapena - Türkiye'nin Gizli Cenneti

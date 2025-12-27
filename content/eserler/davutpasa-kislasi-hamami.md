@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.8897934,41.0274353"
 draft: false
+
+weight: 100
 ---
 
 ## Davutpaşa Kışlası Hamamı

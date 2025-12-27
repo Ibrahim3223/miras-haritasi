@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.1055978,39.3927401"
 draft: false
+
+weight: 100
 ---
 
 ## Pur Tepesi: Sivas'taki Bir Arkeolojik Harikası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1772003,39.1245995"
 draft: false
+
+weight: 10
 ---
 
 ### Çeşme - Selçuk, 2. Çukurbağ Caddesi, 12: Bergama'nın Tarihi Çeşmesi

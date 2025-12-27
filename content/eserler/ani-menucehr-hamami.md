@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "43.5743942,40.5062256"
 draft: false
+
+weight: 100
 ---
 
 ## Ani Menuçehr Hamamı

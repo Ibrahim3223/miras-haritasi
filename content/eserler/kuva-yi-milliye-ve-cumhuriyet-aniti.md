@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.359916666,38.603666666"
 draft: false
+
+weight: 10
 ---
 
 ## Kuva-yi Milliye ve Cumhuriyet Anıtı

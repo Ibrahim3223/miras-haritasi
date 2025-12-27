@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.403398,38.674223"
 draft: false
+
+weight: 10
 ---
 
 **Uşak Arkeoloji Müzesi**

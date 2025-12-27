@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.96548687,41.043637521"
 draft: false
+
+weight: 100
 ---
 
 ## Zincirli Ali Baba Türbesi

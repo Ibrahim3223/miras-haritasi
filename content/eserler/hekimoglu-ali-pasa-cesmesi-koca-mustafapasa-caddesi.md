@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9349117,41.0048714"
 draft: false
+
+weight: 100
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.096074113,37.159269777"
 draft: false
+
+weight: 100
 ---
 
 ## Göndere Köprüsü: Karaman'ın Tarihi Örenleri Arasındaki Bir Harika

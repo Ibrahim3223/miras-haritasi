@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.0100861,40.4942055"
 draft: false
+
+weight: 100
 ---
 
 ## Samsa Çavuş Camii: Bolu'nun Tarihi ve Mimari Mirası

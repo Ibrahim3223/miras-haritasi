@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.942831,41.008816"
 draft: false
+
+weight: 10
 ---
 
 ## Bayrampaşa Külliyesi Medresesi

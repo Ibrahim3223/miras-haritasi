@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3658352,41.1339455"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlu Çeşme 2, Kadıköy Silivri

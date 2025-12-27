@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.8536,37.12157"
 draft: false
+
+weight: 100
 ---
 
 ### Madamprum Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.136,38.420416666"
 draft: false
+
+weight: 100
 ---
 
 # Şalom Sinagogu: İzmir'in Tarihi Bir Mirası

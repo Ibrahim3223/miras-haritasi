@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.728505,37.312521"
 draft: false
+
+weight: 100
 ---
 
 ## Halife Camii: Mardin'in Tarihî ve Kültürel Mirası

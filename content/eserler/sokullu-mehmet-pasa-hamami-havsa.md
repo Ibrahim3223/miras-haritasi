@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.822437531,41.550023817"
 draft: false
+
+weight: 10
 ---
 
 # Sokullu Mehmet Paşa Hamamı, Havsa

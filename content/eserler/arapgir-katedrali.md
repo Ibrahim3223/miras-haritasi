@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.483345,39.043433"
 draft: false
+
+weight: 10
 ---
 
 ### Arapgir Katedrali: Türkiye'nin Gizli Kutsal Anıtı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.944101695,41.035243643"
 draft: false
+
+weight: 10
 ---
 
 ## Çınçınlı Çeşme: İstanbul'un Tarihi Bir Simgesi

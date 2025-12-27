@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.543745,41.6764793"
 draft: false
+
+weight: 10
 ---
 
 ## Şah Melek Camii

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.985055555,41.036"
 draft: false
+
+weight: 100
 ---
 
 ## Taksim Sahnesi: Beyoğlu'ndaki Antik Tiyatro

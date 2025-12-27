@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.05894,40.918875"
 draft: false
+
+weight: 100
 ---
 
 ## Sinekli Köprü: Gülyalı, Ordu'nun Tarihî Esrarı

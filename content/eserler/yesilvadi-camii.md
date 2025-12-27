@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.126222222,41.028305555"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşilvadi Camii: Fatih Sultan Mehmet'in Ümraniye'deki Ziyaretgahı

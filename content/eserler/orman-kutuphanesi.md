@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "30.163378915,40.736342789"
 draft: false
+
+weight: 10
 ---
 
 ## Orman Kütüphanesi: Kocaeli'nin Gizli Çehresi

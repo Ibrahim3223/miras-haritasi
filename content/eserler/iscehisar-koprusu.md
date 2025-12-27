@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.7497559,38.8622589"
 draft: false
+
+weight: 100
 ---
 
 ## İscehisar Köprüsü: Tarihimizin Gizli Çehresini Açığa Çıkaran Bir Ölümsüz

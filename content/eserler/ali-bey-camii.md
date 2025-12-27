@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.612833333,40.603166666"
 draft: false
+
+weight: 100
 ---
 
 ## Ali Bey Camii: Çankırı'nın Gizli Çehresini Açığa Çıkaran Bir Miras

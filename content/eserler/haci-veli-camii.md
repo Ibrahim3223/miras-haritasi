@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3859863,37.0606346"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Veli Camii: Gaziantep'te Bir Tarihî Çanak

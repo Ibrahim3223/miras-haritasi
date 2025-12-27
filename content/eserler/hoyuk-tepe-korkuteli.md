@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.3257008,37.1585999"
 draft: false
+
+weight: 100
 ---
 
 ### Höyük Tepe, Korkuteli

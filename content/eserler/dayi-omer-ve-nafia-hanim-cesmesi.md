@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941354,41.003776"
 draft: false
+
+weight: 100
 ---
 
 ## Dayı Ömer ve Nafia Hanım Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası

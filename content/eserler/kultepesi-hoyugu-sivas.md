@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.077198,39.7996025"
 draft: false
+
+weight: 100
 ---
 
 ### Kültepesi Höyüğü: Sivas'taki Gizemli Geçmiş

@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "26.5593872,41.6775436"
 draft: false
+
+weight: 100
 ---
 
 ## Selimiye Külliyesi Darülkurra Medresesi: Edirne'nin Gizli Çehresini Keşfetmek

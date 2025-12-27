@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4854584,37.8698692"
 draft: false
+
+weight: 100
 ---
 
 ## Tahir ile Zühre Mescidi ve Türbesi

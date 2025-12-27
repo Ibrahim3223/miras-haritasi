@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.4866257,37.515007"
 draft: false
+
+weight: 100
 ---
 
 ### Kamil Dede Türbesi

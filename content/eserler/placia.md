@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.27741,40.397648"
 draft: false
+
+weight: 100
 ---
 
 ## Placia: Bursa'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5156517,40.9756355"
 draft: false
+
+weight: 100
 ---
 
 ## Liman Çeşmesi Tekirdağ

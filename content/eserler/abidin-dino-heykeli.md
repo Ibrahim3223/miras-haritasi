@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0551872,40.9793167"
 draft: false
+
+weight: 100
 ---
 
 ## Abidin Dino Heykeli

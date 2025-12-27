@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.921523,36.734861"
 draft: false
+
+weight: 100
 ---
 
 ## Akarassus: Antik Bir Kentin Mirası

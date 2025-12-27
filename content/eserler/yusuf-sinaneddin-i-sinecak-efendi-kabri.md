@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9414349,41.0488129"
 draft: false
+
+weight: 100
 ---
 
 ## Yusuf Sinaneddin-i Sineçak Efendi Kabri

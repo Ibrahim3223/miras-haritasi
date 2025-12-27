@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.918333,39.5702"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye 1: Eskişehir'in Tarihî Mirası

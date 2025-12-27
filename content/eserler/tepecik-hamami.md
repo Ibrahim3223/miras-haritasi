@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.4254017,37.0364075"
 draft: false
+
+weight: 100
 ---
 
 ## Tepecik Hamamı: Bodrum'un Tarihi ve Kültürel Mirası

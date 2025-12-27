@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.866777777,40.993777777"
 draft: false
+
+weight: 10
 ---
 
 ### Sağlık Çalışanlarına Saygı Anıtı

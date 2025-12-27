@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.975861,41.038024"
 draft: false
+
+weight: 100
 ---
 
 ## II. Mahmut Han Çeşmesi

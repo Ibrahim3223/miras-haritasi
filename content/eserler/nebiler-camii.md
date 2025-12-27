@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.940337,37.024689"
 draft: false
+
+weight: 100
 ---
 
 ## Nebiler Camii

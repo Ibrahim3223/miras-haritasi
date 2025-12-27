@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.02714,40.202029"
 draft: false
+
+weight: 10
 ---
 
 ## Karagöz Müzesi: Bursa'nın Gizli Çehresini Keşfedin

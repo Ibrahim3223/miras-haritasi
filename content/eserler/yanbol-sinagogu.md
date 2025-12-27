@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.948333333,41.033333333"
 draft: false
+
+weight: 10
 ---
 
 ## Yanbol Sinagogu: İstanbul'un Gizli Tarihi

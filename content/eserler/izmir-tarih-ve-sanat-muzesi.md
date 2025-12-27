@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.142694444,38.427444444"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Tarih ve Sanat Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.6766,36.3545"
 draft: false
+
+weight: 100
 ---
 
 ## Alamuar Çeşmesi: Kaş'ın Kırmızı Taş Çeşmesi

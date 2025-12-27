@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.7556,40.5158"
 draft: false
+
+weight: 100
 ---
 
 ### Gazi Süleyman Paşa Türbesi

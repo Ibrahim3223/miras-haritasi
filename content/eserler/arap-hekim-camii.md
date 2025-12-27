@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2268639,40.9853172"
 draft: false
+
+weight: 10
 ---
 
 ## Arap Hekim Camii

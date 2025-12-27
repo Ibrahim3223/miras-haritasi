@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.915709,40.990971"
 draft: false
+
+weight: 10
 ---
 
 # Derya-i Ali Baba Türbesi

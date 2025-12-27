@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9606075,41.0409012"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Şehitliği Kulaksız: İstanbul'un Anıtsal Özellisi

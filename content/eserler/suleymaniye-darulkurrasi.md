@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9648,41.015434"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Darülkurrası: İstanbul'un Gizli Tarihini Açığa Çıkaran Medrese

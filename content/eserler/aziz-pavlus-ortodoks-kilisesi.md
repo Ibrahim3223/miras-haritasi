@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.160722222,36.199944444"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Pavlus Ortodoks Kilisesi: Antakya'nın Tarihî Bir Ölümsüzlüğü

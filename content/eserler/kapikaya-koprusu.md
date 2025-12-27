@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.1436539,39.1706314"
 draft: false
+
+weight: 100
 ---
 
 ### Kapıkaya Köprüsü: Bergama'nın Tarihi Gizemi

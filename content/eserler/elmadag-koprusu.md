@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.4153247,39.869811"
 draft: false
+
+weight: 100
 ---
 
 **Elmadağ Köprüsü: Tarihi ve Kültürel Mirası**

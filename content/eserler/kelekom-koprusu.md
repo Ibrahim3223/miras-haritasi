@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "44.092408896,37.951427769"
 draft: false
+
+weight: 100
 ---
 
 ## Kelekom Köprüsü

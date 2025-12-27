@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1621455,39.4225269"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarısarıkaya Höyük: Tarih ve Kültür Mirası

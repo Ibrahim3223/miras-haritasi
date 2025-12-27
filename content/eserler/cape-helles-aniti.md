@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.1792,40.0458"
 draft: false
+
+weight: 10
 ---
 
 ## Cape Helles Anıtı

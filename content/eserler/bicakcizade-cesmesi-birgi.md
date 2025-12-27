@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0637913,38.2537498"
 draft: false
+
+weight: 100
 ---
 
 ## Bıçakçızade Çeşmesi, Birgi

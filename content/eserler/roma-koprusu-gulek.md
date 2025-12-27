@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "34.754112,37.261925"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Gülek

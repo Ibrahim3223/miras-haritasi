@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.772,41.378361111"
 draft: false
+
+weight: 10
 ---
 
 ### Araba Pazarı Hamamı

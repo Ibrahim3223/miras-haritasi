@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.8017921,39.8227501"
 draft: false
+
+weight: 100
 ---
 
 ## Yozgat'ta Tarihi Bir Olanak: Başçavuşoğlu Camii

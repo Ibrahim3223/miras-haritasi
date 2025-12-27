@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4147072,36.2632713"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Mustafa Camii: Kaş'taki Bir Ören

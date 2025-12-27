@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.128055555,38.413888888"
 draft: false
+
+weight: 10
 ---
 
 ### İzmir Arkeoloji Müzesi

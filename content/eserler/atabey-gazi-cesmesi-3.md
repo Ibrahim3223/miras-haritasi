@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7716217,41.3755074"
 draft: false
+
+weight: 100
 ---
 
 ## Atabey Gazi Çeşmesi 3: Kastamonu'nun Tarihi Bir Çeşmesi

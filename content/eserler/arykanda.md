@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.06,36.51388889"
 draft: false
+
+weight: 10
 ---
 
 ## Arykanda: Antalya'nın Gizli Cenneti

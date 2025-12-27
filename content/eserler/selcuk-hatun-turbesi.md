@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9657947,41.0098376"
 draft: false
+
+weight: 100
 ---
 
 ### Selçuk Hatun Türbesi

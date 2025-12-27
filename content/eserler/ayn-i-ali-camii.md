@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4212303,38.6126671"
 draft: false
+
+weight: 100
 ---
 
 ## Ayn-ı Ali Camii: Manisa'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.775309913,41.377534649"
 draft: false
+
+weight: 100
 ---
 
 ### Nasrullah Camii Şadırvanı: Kastamonu'nun Güzeli

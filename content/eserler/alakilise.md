@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.002555555,36.330055555"
 draft: false
+
+weight: 100
 ---
 
 ## Alakilise: Antalya'nın Tarihî ve Kültürel Mirası

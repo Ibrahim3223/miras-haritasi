@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34213,37.9388"
 draft: false
+
+weight: 10
 ---
 
 ## Efes Varius Hamamı: İzmir'de Bir Antik Eğlence Merkezi

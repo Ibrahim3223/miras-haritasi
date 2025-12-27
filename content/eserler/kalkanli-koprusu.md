@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.364918,40.607849"
 draft: false
+
+weight: 100
 ---
 
 # Kalkanlı Köprüsü

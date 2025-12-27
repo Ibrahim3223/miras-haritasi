@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.9,36.91666667"
 draft: false
+
+weight: 10
 ---
 
 ## Altından Geçme Arkeolojik Sit

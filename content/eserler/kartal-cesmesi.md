@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.187142,40.890021"
 draft: false
+
+weight: 10
 ---
 
 ## Kartal Çeşmesi

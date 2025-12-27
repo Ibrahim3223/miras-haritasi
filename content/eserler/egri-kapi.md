@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.939388,41.036442"
 draft: false
+
+weight: 10
 ---
 
 ## Eğri Kapı: İstanbul'un Tarihî ve Kültürel Mirasının Değerli Parçaları

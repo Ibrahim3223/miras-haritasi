@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.4295143,41.0547821"
 draft: false
+
+weight: 100
 ---
 
 ### Bıçakcılar Yet Camii

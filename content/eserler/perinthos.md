@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.848611,40.994444"
 draft: false
+
+weight: 100
 ---
 
 ## Perinthos: Marmara'nın Korunmasız Mirası

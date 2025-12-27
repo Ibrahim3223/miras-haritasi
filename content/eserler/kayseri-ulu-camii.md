@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4857,38.7199"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Ulu Camii: Tarihi ve Kültürel Miras

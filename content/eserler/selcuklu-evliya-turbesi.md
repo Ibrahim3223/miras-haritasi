@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.9597168,40.5556183"
 draft: false
+
+weight: 100
 ---
 
 ## Selçuklu Evliya Türbesi: Kars'ta Bir Türk Tarihinin Eşiğindeki Anıtsal Yapı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9575329,41.1005974"
 draft: false
+
+weight: 100
 ---
 
 ## Tümülüs, Seymen: Çorlu'nun Gizli Tarihi

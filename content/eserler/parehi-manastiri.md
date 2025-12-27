@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.99,41.25194444"
 draft: false
+
+weight: 10
 ---
 
 ## Parehi Manastırı

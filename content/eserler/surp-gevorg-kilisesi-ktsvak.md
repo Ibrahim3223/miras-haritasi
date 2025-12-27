@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.3810586,38.5758919"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Gevorg Kilisesi (Ktsvak)

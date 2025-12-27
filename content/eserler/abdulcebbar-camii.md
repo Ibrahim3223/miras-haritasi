@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.782959,41.3778076"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülcebbar Camii

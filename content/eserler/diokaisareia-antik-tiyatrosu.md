@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.926775,36.581255"
 draft: false
+
+weight: 100
 ---
 
 ## Diokaisareia Antik Tiyatrosu

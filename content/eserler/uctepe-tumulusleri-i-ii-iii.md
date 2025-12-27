@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.1042366,38.3807373"
 draft: false
+
+weight: 100
 ---
 
 # Üçtepe Tümülüsleri I, II, III: Malatya'da Gizemli Geçmişin İzleri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.6054688,39.0213051"
 draft: false
+
+weight: 100
 ---
 
 # Eski Elti Hatun Türbesi: Mazgirt'te Bir Klasik Anıt

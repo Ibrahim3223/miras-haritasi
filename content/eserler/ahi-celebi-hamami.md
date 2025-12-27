@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5551548,41.6773262"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Çelebi Hamamı

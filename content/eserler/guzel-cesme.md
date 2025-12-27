@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.383908176,37.561890031"
 draft: false
+
+weight: 100
 ---
 
 ## Güzel Çeşme: Söke'nin Tarihi Bir Çeşmesi

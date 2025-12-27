@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.824722222,40.649444444"
 draft: false
+
+weight: 10
 ---
 
 ## Amasya Arkeoloji ve Mumya Müzesi

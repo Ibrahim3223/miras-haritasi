@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.4037793,36.7036782"
 draft: false
+
+weight: 100
 ---
 
 **Taşlıbakar Höyüğü: Kilis'te Bir Arkeolojik Çıkın**

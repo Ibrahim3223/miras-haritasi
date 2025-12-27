@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.06395,39.7131"
 draft: false
+
+weight: 100
 ---
 
 ### Porsuk Höyük 2: Eskişehir'in Gizli Anıtı

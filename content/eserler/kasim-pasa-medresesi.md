@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.0727005,38.6090012"
 draft: false
+
+weight: 100
 ---
 
 ## Kasım Paşa Medresesi

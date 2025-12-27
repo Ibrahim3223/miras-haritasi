@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "43.3446312,38.5022659"
 draft: false
+
+weight: 100
 ---
 
 **Galip Paşa Kümbeti**

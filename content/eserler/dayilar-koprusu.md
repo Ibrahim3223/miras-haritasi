@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.500637,38.091366"
 draft: false
+
+weight: 100
 ---
 
 ## Dayılar Köprüsü: Bir Geçit Üzerinden Geçen Tarih

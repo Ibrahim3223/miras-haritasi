@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.5388985,40.9394989"
 draft: false
+
+weight: 100
 ---
 
 ## Karşıdöngel Camii

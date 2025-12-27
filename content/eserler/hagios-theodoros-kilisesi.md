@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.459103,40.45379"
 draft: false
+
+weight: 100
 ---
 
 ## Hagios Theodoros Kilisesi

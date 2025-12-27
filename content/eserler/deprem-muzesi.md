@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.402187,40.776962"
 draft: false
+
+weight: 10
 ---
 
 ## Deprem Müzesi

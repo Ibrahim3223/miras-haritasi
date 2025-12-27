@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.484075,41.779469"
 draft: false
+
+weight: 100
 ---
 
 ## Erythini: Antik Kentin Gizemi

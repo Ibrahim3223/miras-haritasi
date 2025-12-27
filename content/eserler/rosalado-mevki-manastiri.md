@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8729,40.1935997"
 draft: false
+
+weight: 100
 ---
 
 ### Rosalado Mevki Manastırı

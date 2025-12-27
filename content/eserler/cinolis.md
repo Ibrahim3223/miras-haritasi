@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.178403,41.961269"
 draft: false
+
+weight: 100
 ---
 
 ## Cinolis Arkeolojik Sitesi

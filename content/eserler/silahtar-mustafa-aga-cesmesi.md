@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.009157,41.020653"
 draft: false
+
+weight: 10
 ---
 
 ## Silahtar Mustafa Ağa Çeşmesi

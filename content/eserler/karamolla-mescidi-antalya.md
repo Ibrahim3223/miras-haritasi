@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.7068996,36.8846016"
 draft: false
+
+weight: 100
 ---
 
 **Karamolla Mescidi: Antalya'nın Tarihi Bir Güzelliği**

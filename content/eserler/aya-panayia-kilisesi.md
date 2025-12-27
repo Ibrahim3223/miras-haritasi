@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.8730469,40.1900864"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Panayia Kilisesi: Gökçeada'nın Tarihî Bir Ölümsüzü

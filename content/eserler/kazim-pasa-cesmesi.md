@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.17115556,39.11741667"
 draft: false
+
+weight: 10
 ---
 
 ## Kazım Paşa Çeşmesi

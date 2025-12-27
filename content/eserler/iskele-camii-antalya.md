@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.703055555,36.884722222"
 draft: false
+
+weight: 10
 ---
 
 ## İskele Camii (Antalya)

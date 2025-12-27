@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6045,36.8141"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Su Müzesi

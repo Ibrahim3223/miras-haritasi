@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.974638888,41.032972222"
 draft: false
+
+weight: 10
 ---
 
 ## Tepebaşı Tiyatrosu: Antik Tiyatro'nun Gizemi

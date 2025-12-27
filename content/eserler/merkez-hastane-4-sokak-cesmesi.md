@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6922207,39.3129959"
 draft: false
+
+weight: 100
 ---
 
 ### Merkez Hastane 4. Sokak Çeşmesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.5307426,40.5092049"
 draft: false
+
+weight: 100
 ---
 
 ## Alibaba Türbesi: Balıkesir'in Hızlı Dalgası

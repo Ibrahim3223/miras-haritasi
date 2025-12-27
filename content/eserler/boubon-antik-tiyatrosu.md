@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.407325,36.968363"
 draft: false
+
+weight: 100
 ---
 
 ## Boubon Antik Tiyatrosu: Gölhisar'ın Gizli Hazineleri

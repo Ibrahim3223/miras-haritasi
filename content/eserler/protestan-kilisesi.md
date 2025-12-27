@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.58429,38.644229"
 draft: false
+
+weight: 100
 ---
 
 ### Protestan Kilisesi: Talas'taki Bir Geçmiş

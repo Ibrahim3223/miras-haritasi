@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.6734453,40.4097664"
 draft: false
+
+weight: 100
 ---
 
 ### Kasap Hamamı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.897778,36.917778"
 draft: false
+
+weight: 10
 ---
 
 ## Tarsus Eski Cami: Tarihî bir Mirasın Gizemi

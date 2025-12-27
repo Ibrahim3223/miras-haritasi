@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5015297,40.9722137"
 draft: false
+
+weight: 100
 ---
 
 ## Rakoczi Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.0629921,40.7214584"
 draft: false
+
+weight: 100
 ---
 
 ## Dörtdivan Merkez Camii: Bolu'nun Tarihi ve Kültürel Mirası

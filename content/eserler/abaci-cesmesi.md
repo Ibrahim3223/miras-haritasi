@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9575958,40.5473328"
 draft: false
+
+weight: 100
 ---
 
 ## Abacı Çeşmesi

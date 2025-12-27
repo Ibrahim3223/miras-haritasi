@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.3023186,38.2476044"
 draft: false
+
+weight: 100
 ---
 
 ## Rabat Kalesi, Kozluk

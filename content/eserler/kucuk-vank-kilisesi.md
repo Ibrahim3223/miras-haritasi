@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.306166666,40.544194444"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Vank Kilisesi: Tarihi ve Kültürel Mirasın Gizemi

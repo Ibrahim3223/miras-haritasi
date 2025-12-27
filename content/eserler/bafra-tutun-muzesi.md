@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.8980293,41.563652"
 draft: false
+
+weight: 100
 ---
 
 ## Bafra Tütün Müzesi: Samsun'un Gizli Gözlükleri

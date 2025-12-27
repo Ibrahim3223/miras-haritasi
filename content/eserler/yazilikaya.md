@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.63278,40.025"
 draft: false
+
+weight: 10
 ---
 
 # Yazılıkaya: Tarih ve Kültür Mirası

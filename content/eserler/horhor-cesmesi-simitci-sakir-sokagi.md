@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.947746,41.011280305"
 draft: false
+
+weight: 10
 ---
 
 ## Horhor Çeşmesi (Simitçi Şakir Sokağı)

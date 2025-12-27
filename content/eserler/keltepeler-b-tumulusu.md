@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8373146,41.5374107"
 draft: false
+
+weight: 100
 ---
 
 ## Keltepeler B Tümülüsü

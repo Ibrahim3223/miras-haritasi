@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3691006,37.4174995"
 draft: false
+
+weight: 100
 ---
 
 ## Ta Marmara Anıt Mezarı

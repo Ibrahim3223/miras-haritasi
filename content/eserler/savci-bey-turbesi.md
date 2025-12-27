@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.0346832,39.8241234"
 draft: false
+
+weight: 100
 ---
 
 ## Savcı Bey Türbesi

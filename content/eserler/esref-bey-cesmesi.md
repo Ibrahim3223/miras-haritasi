@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.3860435,40.9195976"
 draft: false
+
+weight: 100
 ---
 
 ## Eşref Bey Çeşmesi

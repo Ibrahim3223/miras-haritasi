@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.1586914,39.6098022"
 draft: false
+
+weight: 100
 ---
 
 **Acemoğlu Köprüsü ve Şehitliği**

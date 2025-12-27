@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.93583333,41.03027778"
 draft: false
+
+weight: 10
 ---
 
 ## Edirnekapı Aya Yorgi Kilisesi

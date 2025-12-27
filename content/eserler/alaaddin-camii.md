@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.158694444,39.145777777"
 draft: false
+
+weight: 100
 ---
 
 ## Alaaddin Camii: Kırşehir'in Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8874435,36.6411934"
 draft: false
+
+weight: 100
 ---
 
 ### Ermenek Akça Mescit: Karaman'ın Gizli Çehresinde Bir Cami

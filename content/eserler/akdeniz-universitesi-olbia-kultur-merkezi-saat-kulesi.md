@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "30.659416666,36.893111111"
 draft: false
+
+weight: 100
 ---
 
 # Akdeniz Üniversitesi Olbia Kültür Merkezi Saat Kulesi

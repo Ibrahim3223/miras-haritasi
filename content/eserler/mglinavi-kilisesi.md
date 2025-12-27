@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.835,41.205888888"
 draft: false
+
+weight: 100
 ---
 
 ## Mglinavi Kilisesi: Hanak'ta Gizli Bir Kıltürel Ören

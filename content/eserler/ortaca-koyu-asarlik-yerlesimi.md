@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.6256962,40.0719032"
 draft: false
+
+weight: 100
 ---
 
 ## Ortaca Köyü Asarlık Yerleşimi: Çanakkale'nin Gizli Kıvılcımı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.678400004,37.460903356"
 draft: false
+
+weight: 100
 ---
 
 # Asartepe, Milas

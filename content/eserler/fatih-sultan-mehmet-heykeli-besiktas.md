@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.008822,41.048749"
 draft: false
+
+weight: 100
 ---
 
 ## Fatih Sultan Mehmet Heykeli, Beşiktaş

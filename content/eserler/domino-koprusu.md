@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.8197041,41.4727364"
 draft: false
+
+weight: 100
 ---
 
 ## Domino Köprüsü: Tekirdağ'ın Tarihi Bir Mirası

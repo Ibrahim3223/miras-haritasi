@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.013526634,41.015668844"
 draft: false
+
+weight: 10
 ---
 
 **İhsaniye Camii tanıtımı**

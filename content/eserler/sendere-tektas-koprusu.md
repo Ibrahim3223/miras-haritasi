@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.814115111,41.116520388"
 draft: false
+
+weight: 100
 ---
 
 ## Şendere-Tektaş Köprüsü: Pazar'ın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.040133,41.142516"
 draft: false
+
+weight: 100
 ---
 
 ## Tarabya Soguk Suyu: İstanbul'un Tarihi ve Kültürel Mirası

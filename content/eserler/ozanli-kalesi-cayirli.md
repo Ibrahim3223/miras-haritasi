@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.9230614,39.8152084"
 draft: false
+
+weight: 100
 ---
 
 ## Ozanlı Kalesi, Çayırlı: Tarihi ve Kültürel Miras

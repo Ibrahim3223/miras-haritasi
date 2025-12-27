@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.585083333,37.279777777"
 draft: false
+
+weight: 10
 ---
 
 ## Iasos Agorası: İnsanlığın Tarihine Tanıklık Eden Efsanevi Bir Yer

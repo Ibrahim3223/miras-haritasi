@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.335,37.0074"
 draft: false
+
+weight: 10
 ---
 
 ## Demirköprü: Seyhan Nehri Üzerinde Tarihi Bir Köprü

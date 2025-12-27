@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0222397,41.0315323"
 draft: false
+
+weight: 100
 ---
 
 ## Silahtar Abdurrahman Ağa Camii Güneş Saati

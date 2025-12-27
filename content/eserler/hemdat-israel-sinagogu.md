@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.0273,40.9948"
 draft: false
+
+weight: 10
 ---
 
 ## Hemdat Israel Sinagogu

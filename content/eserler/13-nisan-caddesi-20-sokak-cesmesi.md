@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6939774,39.3135147"
 draft: false
+
+weight: 100
 ---
 
 ## 13 Nisan Caddesi 20. Sokak Çeşmesi

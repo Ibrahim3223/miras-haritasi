@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.3264694,36.9815178"
 draft: false
+
+weight: 100
 ---
 
 # Ali Dede Camii

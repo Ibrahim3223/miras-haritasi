@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.536075,41.756786"
 draft: false
+
+weight: 100
 ---
 
 ## Düştübakyaması: Edirne'nin Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "32.4278088,40.3671909"
 draft: false
+
+weight: 100
 ---
 
 ## Alicin Manastırı

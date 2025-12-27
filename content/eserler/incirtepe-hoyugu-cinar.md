@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.5016785,37.7086525"
 draft: false
+
+weight: 100
 ---
 
 **İncirtepe Höyüğü: Diyarbakır'ın Eski Tarihi**

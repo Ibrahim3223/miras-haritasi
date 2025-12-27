@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.9271169,37.5995551"
 draft: false
+
+weight: 100
 ---
 
 # Sarlak Höyük

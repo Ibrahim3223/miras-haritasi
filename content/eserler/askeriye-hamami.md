@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "41.2744021,39.902103"
 draft: false
+
+weight: 100
 ---
 
 ## Askeriye Hamamı

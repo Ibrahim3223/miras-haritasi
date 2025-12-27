@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.979081,41.008885"
 draft: false
+
+weight: 100
 ---
 
 ### Eudoksia Sütunu

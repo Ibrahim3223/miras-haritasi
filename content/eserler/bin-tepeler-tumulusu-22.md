@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.99382,38.583595"
 draft: false
+
+weight: 100
 ---
 
 ### Bin Tepeler Tümülüsü 22: Salihli'nin Gizli Çandırı

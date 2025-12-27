@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.183305555,39.132694444"
 draft: false
+
+weight: 10
 ---
 
 ## Bergama Agorası: Tarihî Bir Miras

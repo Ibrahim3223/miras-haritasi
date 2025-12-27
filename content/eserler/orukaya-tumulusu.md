@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.902401,40.1054649"
 draft: false
+
+weight: 100
 ---
 
 ### Örükaya Tümülüsü

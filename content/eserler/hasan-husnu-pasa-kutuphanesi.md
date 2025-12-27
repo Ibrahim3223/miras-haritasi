@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9356003,41.0481453"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Hüsnü Paşa Kütüphanesi

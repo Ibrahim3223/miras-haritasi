@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.2361717,38.2477646"
 draft: false
+
+weight: 100
 ---
 
 ### Hamam, Suludere: İzmir'in Tarihi ve Kültürel Mirası

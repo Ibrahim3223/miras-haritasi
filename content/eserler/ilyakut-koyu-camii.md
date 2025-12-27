@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4918671,40.067009"
 draft: false
+
+weight: 100
 ---
 
 ## İlyakut Köyü Camii: Ankara'nın Gizli Cenneti

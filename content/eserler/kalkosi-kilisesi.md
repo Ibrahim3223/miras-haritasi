@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.342533333,40.608836111"
 draft: false
+
+weight: 100
 ---
 
 ## Kalkosi Kilisesi: Bir Doğu Anadolu'nun Gizli Çehresini İleri Sürleyen Tarihî Eser

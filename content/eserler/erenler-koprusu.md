@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.8311176,41.0905209"
 draft: false
+
+weight: 100
 ---
 
 ## Erenler Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.933254768,40.218329657"
 draft: false
+
+weight: 100
 ---
 
 ## Bursa Oyuncak Müzesi

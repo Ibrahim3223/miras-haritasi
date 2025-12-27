@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9768247,41.0053851"
 draft: false
+
+weight: 1
 ---
 
 ## Sultan Ahmet Camii: İstanbul'un En Güzel Camileri Arasındaki Klasikleşmiş Örneği

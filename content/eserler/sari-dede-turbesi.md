@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0579853,41.1697578"
 draft: false
+
+weight: 10
 ---
 
 ## Sarı Dede Türbesi: İstanbul'un Gizli Öyküsü

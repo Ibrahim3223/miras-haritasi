@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.9308319,37.5872765"
 draft: false
+
+weight: 100
 ---
 
 **Çukuroba Camii**

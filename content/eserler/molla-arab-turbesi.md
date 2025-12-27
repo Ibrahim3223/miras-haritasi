@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.074095,40.174652"
 draft: false
+
+weight: 100
 ---
 
 ### Molla Arab Türbesi

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9587555,41.023819"
 draft: false
+
+weight: 100
 ---
 
 # Üsküplü Bostan Hamamı

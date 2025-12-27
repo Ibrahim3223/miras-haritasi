@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.11333333,36.44388889"
 draft: false
+
+weight: 10
 ---
 
 ## Narlıkuyu Mozaik Müzesi

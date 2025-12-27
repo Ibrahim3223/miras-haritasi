@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "29.09444444,41.17861111"
 draft: false
+
+weight: 10
 ---
 
 ## Yoros Kalesi

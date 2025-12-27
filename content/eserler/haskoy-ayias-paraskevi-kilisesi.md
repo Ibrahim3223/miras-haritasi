@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.951138888,41.041111111"
 draft: false
+
+weight: 100
 ---
 
 ## Hasköy Ayias Paraskevi Kilisesi: İstanbul'un Gizli Cenneti

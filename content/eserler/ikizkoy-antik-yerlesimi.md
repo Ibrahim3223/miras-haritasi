@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.8581848,37.1742172"
 draft: false
+
+weight: 100
 ---
 
 ## İkizköy Antik Yerleşimi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.275556,37.531111"
 draft: false
+
+weight: 10
 ---
 
 # Milet: İyonya'nın Şerefli Mirası

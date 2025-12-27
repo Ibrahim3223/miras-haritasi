@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.982885,41.034565"
 draft: false
+
+weight: 10
 ---
 
 ## Cebecibaşı Abdullah Ağa Çeşmesi: 19. Yüzyılın Ölümsüz Abidesi

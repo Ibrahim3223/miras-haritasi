@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3284,37.7015"
 draft: false
+
+weight: 100
 ---
 
 ### Mykalessos: Aydın'ın Gizli Mirası

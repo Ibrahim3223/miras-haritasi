@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.97405,39.525167"
 draft: false
+
+weight: 100
 ---
 
 ## Hüyücek Tepe: Burhaniye'nin Gizli Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.974513351,41.329877408"
 draft: false
+
+weight: 10
 ---
 
 ## Kabaklıpınar Camii: Tekirdağ'ın Tarih Özellikli Camisi

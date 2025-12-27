@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.949694444,41.031805555"
 draft: false
+
+weight: 10
 ---
 
 ## Sveti Stefan Kilisesi: İstanbul'un Gizli Cenneti

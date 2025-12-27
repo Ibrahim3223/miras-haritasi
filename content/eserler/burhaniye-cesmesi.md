@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.04739,41.029065"
 draft: false
+
+weight: 100
 ---
 
 ### Burhaniye Çeşmesi

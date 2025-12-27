@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.74345,37.313085"
 draft: false
+
+weight: 100
 ---
 
 ## Molla Halil Camii: Mardin'in Güzelliğini Ada Etiren Bir İmza

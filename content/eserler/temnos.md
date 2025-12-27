@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0667,38.6"
 draft: false
+
+weight: 100
 ---
 
 ### Temnos Arkeolojik Sit

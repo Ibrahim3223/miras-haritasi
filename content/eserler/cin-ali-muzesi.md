@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.862777777,39.90575"
 draft: false
+
+weight: 10
 ---
 
 ## Cin Ali Müzesi

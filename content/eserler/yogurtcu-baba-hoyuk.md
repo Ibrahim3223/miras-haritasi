@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.6158641,40.7462138"
 draft: false
+
+weight: 100
 ---
 
 ## Yoğurtçu Baba Höyük: Suluova'nın Gizli Arkeolojik Mirası

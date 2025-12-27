@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2267723,40.2599602"
 draft: false
+
+weight: 10
 ---
 
 ## Yakutiye Camii: Bayburt'un Tarihi Güzelliği

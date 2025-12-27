@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.4237156,38.6043549"
 draft: false
+
+weight: 100
 ---
 
 ### Çaybaşı Köprüsü-2: Manisa'nın Tarihi bir Öreni

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.79965,41.487763888"
 draft: false
+
+weight: 100
 ---
 
 ## Sakire Kilisesi: Tarihi ve Kültürel Mirasımız

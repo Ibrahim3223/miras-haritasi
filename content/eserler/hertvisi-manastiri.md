@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.909361111,41.487527777"
 draft: false
+
+weight: 100
 ---
 
 ## Hertvisi Manastırı: Borçka'nın Gizli Cenneti

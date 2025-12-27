@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.4274106,39.701452"
 draft: false
+
+weight: 100
 ---
 
 ## Dedefakılı Höyük: Yozgat'ın Gizli Anıtı

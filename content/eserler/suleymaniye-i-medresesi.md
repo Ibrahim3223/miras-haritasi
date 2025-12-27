@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.96311,41.015404"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye I. Medresesi: İstanbul'un Tarihi Bir Mirası

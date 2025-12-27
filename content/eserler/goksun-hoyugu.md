@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.5055205,38.0276013"
 draft: false
+
+weight: 100
 ---
 
 ## Göksun Höyüğü: Kahramanmaraş'ın Gizli Cenneti

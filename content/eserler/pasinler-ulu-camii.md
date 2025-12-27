@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.677833333,39.979277777"
 draft: false
+
+weight: 100
 ---
 
 ### Pasinler Ulu Camii

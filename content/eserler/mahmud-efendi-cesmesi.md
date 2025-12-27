@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.941277777,41.049027777"
 draft: false
+
+weight: 10
 ---
 
 **Mahmud Efendi Çeşmesi: Beyoğlu'ndaki Bir Zıtınlıklı Çeşme**

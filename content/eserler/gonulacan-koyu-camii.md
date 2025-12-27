@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.729027777,41.57325"
 draft: false
+
+weight: 100
 ---
 
 ## Gönülaçan Köyü Camii

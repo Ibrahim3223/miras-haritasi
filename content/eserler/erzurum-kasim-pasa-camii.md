@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.276972222,39.910694444"
 draft: false
+
+weight: 10
 ---
 
 # Erzurum Kasım Paşa Camii

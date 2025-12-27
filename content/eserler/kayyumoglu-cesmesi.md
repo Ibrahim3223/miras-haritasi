@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.22925,41.734305555"
 draft: false
+
+weight: 10
 ---
 
 ## Kayyumoğlu Çeşmesi

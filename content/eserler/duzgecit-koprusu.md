@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.793567,41.0736"
 draft: false
+
+weight: 100
 ---
 
 ## Düzgeçit Köprüsü

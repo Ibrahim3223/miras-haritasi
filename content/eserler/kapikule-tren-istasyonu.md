@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "26.361411106,41.71899973"
 draft: false
+
+weight: 10
 ---
 
 ## Kapıkule Tren İstasyonu: Edirne'nin Tarihî Bir Mirası

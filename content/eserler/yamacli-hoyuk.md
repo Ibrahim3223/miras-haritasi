@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.0794906,39.3072832"
 draft: false
+
+weight: 100
 ---
 
 ## Yamaçlı Höyük: Boğazlıyan'ın Gizli Öreni

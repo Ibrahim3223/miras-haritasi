@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.4888,38.7211"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Kalesi: Tarih ve Kültürel Mirasın İkisi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.861557,39.9317932"
 draft: false
+
+weight: 100
 ---
 
 ### Poyracı Mescidi: Altındağ'ın Tarihi Bir Mirası

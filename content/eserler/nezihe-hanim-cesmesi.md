@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8578987,39.9438705"
 draft: false
+
+weight: 100
 ---
 
 ### Nezihe Hanım Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9302788,41.0461159"
 draft: false
+
+weight: 100
 ---
 
 ## Emin Efendi Çeşmesi

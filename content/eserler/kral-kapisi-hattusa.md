@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.622611,40.00925"
 draft: false
+
+weight: 10
 ---
 
 ## Kral Kapısı, Hattuşa

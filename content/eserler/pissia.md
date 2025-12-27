@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.542903,38.25813"
 draft: false
+
+weight: 100
 ---
 
 ## Pissia Arkeolojik Sit

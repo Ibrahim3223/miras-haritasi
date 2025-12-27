@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8741179,41.0265941"
 draft: false
+
+weight: 10
 ---
 
 ## Genç Osman Çeşmesi 1: Güngören'in Tarihi Çeşmesi

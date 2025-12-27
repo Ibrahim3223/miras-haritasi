@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.33,38.33"
 draft: false
+
+weight: 10
 ---
 
 ## Şar Arkeolojik Sit: Tarihin Gizemli Mirası

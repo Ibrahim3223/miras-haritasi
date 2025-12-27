@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.4662819,37.7841415"
 draft: false
+
+weight: 100
 ---
 
 ### Ramazan Paşa Köprüsü

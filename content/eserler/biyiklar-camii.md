@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.6528473,38.2218513"
 draft: false
+
+weight: 100
 ---
 
 ## Bıyıklar Camii

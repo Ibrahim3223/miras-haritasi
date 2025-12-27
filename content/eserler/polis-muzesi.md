@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.8456383,39.8972626"
 draft: false
+
+weight: 10
 ---
 
 ## Polis Müzesi: Ankara'nın Gizli Çehresini Açığa Çıkaran Bir Tarihî Yapı

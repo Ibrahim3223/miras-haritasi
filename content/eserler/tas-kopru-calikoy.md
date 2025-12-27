@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.6086102,41.2975845"
 draft: false
+
+weight: 100
 ---
 
 ### Taş Köprü, Çalıköy: Edirne'nin Tarihi Çırası

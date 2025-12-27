@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.332333,41.290156"
 draft: false
+
+weight: 10
 ---
 
 ## Gazi Müzesi: Samsun'un Tarihî Mirası

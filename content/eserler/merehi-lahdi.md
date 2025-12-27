@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.321663,36.359737"
 draft: false
+
+weight: 10
 ---
 
 ## Merehi Lahdi: Kaş'ın Zengin Tarihçesinde Bir Anıt

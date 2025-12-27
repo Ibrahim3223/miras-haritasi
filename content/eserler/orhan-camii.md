@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.919631,40.768515"
 draft: false
+
+weight: 10
 ---
 
 ## Orhan Camii: İzmit'in Tarihi Bir Mirası

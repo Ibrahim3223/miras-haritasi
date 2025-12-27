@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.221031,37.277111"
 draft: false
+
+weight: 100
 ---
 
 ## Tendeba: Türkiye'nin Gizli Kahramanı

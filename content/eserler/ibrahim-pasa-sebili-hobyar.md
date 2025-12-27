@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9739075,41.0140228"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Paşa Sebili, Hobyar

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.034083333,38.412194444"
 draft: false
+
+weight: 10
 ---
 
 ## İzmir Müze Gemileri: Balçova'daki Tarihî Bir Miras

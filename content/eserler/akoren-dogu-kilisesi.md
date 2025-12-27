@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: ""
 draft: false
+
+weight: 10
 ---
 
 ## Akören Doğu Kilisesi: Aladağ'ın Gizli Kahramanı

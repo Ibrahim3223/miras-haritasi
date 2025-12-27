@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.962305555,41.012805555"
 draft: false
+
+weight: 10
 ---
 
 ### Kaptanıderya İbrahim Paşa Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.1836815,39.6289368"
 draft: false
+
+weight: 100
 ---
 
 ## Kösedere Köyü Eski Camii

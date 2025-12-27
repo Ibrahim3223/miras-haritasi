@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.0654659,38.2542572"
 draft: false
+
+weight: 100
 ---
 
 # Şeyh Muhiddin Hamamı

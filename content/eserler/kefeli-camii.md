@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.94166667,41.02944444"
 draft: false
+
+weight: 10
 ---
 
 ## Kefeli Camii

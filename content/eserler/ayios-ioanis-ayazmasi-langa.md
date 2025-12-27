@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9565697,41.0054016"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Ioanis Ayazması, Langa: Fatih, İstanbul'ın Gizli Çeşmesi

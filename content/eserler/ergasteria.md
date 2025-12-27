@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.59645,39.727645"
 draft: false
+
+weight: 100
 ---
 
 ### Ergasteria: Balya'daki Eski Yerleşim

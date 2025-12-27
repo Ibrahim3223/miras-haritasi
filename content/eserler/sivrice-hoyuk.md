@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.001816,37.427898"
 draft: false
+
+weight: 100
 ---
 
 ### Sivrice Höyük: Kahramanmaraş'ın Eski Kenti

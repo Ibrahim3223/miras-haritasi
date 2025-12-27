@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.363987,37.5280228"
 draft: false
+
+weight: 100
 ---
 
 ## Haştırın Kalesi: Kahramanmaraş'ın Tarihi Bir Mirası

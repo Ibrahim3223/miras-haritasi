@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3429012,41.8081856"
 draft: false
+
+weight: 100
 ---
 
 ## Kızılcageren Kalesi: Kırklareli'nin Tarihî Bir Mirası

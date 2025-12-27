@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.646368,38.5447998"
 draft: false
+
+weight: 100
 ---
 
 ## Kurşunlu Camii, Kula

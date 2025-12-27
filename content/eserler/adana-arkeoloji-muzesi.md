@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.313741,36.995135"
 draft: false
+
+weight: 10
 ---
 
 ## Adana Arkeoloji Müzesi

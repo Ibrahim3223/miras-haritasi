@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.798068,39.936122"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Atatürk Evi Müzesi

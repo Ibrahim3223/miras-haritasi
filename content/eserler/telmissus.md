@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.319,37.0488"
 draft: false
+
+weight: 100
 ---
 
 ### Telmissus: Bodrum'un Eski Kenti

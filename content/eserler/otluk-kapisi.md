@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.982746,41.005695"
 draft: false
+
+weight: 100
 ---
 
 ## Otluk Kapısı: Fatih'teki Bir Tarihî Anıtın Gizemi

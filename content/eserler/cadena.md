@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Cadena: Geçmişte Gizlenmiş, Bugün Farklılaşan Bir Miras

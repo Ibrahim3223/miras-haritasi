@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.525775,39.991087"
 draft: false
+
+weight: 100
 ---
 
 ### Zir Köprüsü: Ankara'nın Tarihi Mirası

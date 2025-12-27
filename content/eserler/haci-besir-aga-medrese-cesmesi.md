@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9770126,41.0106812"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Beşir Ağa Medrese Çeşmesi: Fatih'in Gizli Cehenneminde Bir Çeşme Anıtı

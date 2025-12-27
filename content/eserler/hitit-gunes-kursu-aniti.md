@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.85520278,39.92671944"
 draft: false
+
+weight: 10
 ---
 
 ### Hitit Güneş Kursu Anıtı

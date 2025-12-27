@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.6156044,40.7836952"
 draft: false
+
+weight: 100
 ---
 
 ## Sümer Camii

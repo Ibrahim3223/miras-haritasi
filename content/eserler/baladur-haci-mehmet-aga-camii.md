@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1393375,38.4142189"
 draft: false
+
+weight: 100
 ---
 
 ### Baladur Hacı Mehmet Ağa Camii

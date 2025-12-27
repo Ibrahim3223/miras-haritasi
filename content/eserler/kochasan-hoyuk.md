@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.092083,38.7434731"
 draft: false
+
+weight: 100
 ---
 
 ### Koçhasan Höyük: Bir Arkeolojik Sitin Tarihçesi Ve Özellikleri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9485408,41.0316102"
 draft: false
+
+weight: 10
 ---
 
 ## Hüseyin Sadık Türbesi

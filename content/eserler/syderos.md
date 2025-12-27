@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.975664,40.414489"
 draft: false
+
+weight: 100
 ---
 
 ## Syderos Arkeolojik Sit

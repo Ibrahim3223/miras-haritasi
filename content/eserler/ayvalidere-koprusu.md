@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.904647214,40.22115473"
 draft: false
+
+weight: 100
 ---
 
 ### Ayvalıdere Köprüsü: Bursa'nın Tarihi Bir Mirası

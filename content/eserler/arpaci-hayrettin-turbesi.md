@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935936,41.0420761"
 draft: false
+
+weight: 100
 ---
 
 **Arpacı Hayrettin Türbesi**

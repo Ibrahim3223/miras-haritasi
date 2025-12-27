@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.905962,36.269294"
 draft: false
+
+weight: 100
 ---
 
 # Trysa Arkeolojik Sit

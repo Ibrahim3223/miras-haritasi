@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "25.8366337,40.1904869"
 draft: false
+
+weight: 100
 ---
 
 ### Ayakuruna Mevki Manastırı: Gökçeada'nın Gizli Çağı

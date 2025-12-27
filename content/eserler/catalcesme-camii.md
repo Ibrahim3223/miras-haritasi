@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0865555,37.7714539"
 draft: false
+
+weight: 100
 ---
 
 ### Çatalçeşme Camii

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.984805555,39.414777777"
 draft: false
+
+weight: 100
 ---
 
 ## Ahırardı Camii

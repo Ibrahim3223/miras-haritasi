@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.110833333,38.449444444"
 draft: false
+
+weight: 10
 ---
 
 ## İnsan Hakları Anıtı

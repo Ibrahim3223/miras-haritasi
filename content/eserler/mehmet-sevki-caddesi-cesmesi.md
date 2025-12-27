@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7619553,41.9779053"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Şevki Caddesi Çeşmesi

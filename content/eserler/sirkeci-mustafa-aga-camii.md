@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.983904036,41.033034524"
 draft: false
+
+weight: 10
 ---
 
 ## Sirkeci Mustafa Ağa Camii

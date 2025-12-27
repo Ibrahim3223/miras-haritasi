@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.942953,41.037706"
 draft: false
+
+weight: 100
 ---
 
 ## Ebu Zer Gifari Camii

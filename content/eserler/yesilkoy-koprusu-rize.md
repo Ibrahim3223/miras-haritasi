@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.5992,40.9576"
 draft: false
+
+weight: 100
 ---
 
 **Yeşilköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası**

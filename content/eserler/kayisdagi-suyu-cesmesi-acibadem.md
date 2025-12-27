@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.040666,40.999565"
 draft: false
+
+weight: 100
 ---
 
 ## Kayışdağı Suyu Çeşmesi, Acıbadem: Kadıköy'de Bir Çeşme Mirası

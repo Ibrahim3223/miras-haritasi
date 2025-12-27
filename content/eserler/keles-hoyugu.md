@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.503122165,36.259666511"
 draft: false
+
+weight: 100
 ---
 
 **Keleş Höyüğü: Hatay'ın Gizli Tarihi**

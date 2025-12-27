@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.46481,37.1068"
 draft: false
+
+weight: 100
 ---
 
 ### Eğiste Hadimi Viyadüğü

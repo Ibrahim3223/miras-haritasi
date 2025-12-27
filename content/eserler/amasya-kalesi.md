@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.82667,40.65528"
 draft: false
+
+weight: 10
 ---
 
 ## Amasya Kalesi

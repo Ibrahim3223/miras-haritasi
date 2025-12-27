@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.5627,37.8965"
 draft: false
+
+weight: 100
 ---
 
 **Kuddusi Baba Türbesi: Bor'un Gizli Çehresini Açan Anıt**

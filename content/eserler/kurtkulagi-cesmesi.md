@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.885334118,36.922901064"
 draft: false
+
+weight: 100
 ---
 
 ## Kurtkulağı Çeşmesi: Adana'nın Tarihî ve Kültürel Mirası

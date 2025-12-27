@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.96333333,41.00444444"
 draft: false
+
+weight: 10
 ---
 
 ## Kumkapı Ayia Panayia Elpida Rum Ortodoks Kilisesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5089912,38.6349754"
 draft: false
+
+weight: 100
 ---
 
 ## Abdullah Ağa Camii: Karaburun'un Tarihi bir Mirası

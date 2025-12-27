@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3324285,38.280002"
 draft: false
+
+weight: 100
 ---
 
 ## Karbala: Hz. Ali'nin Anıtı

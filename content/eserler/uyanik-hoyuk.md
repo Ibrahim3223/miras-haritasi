@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.0595662,38.6054771"
 draft: false
+
+weight: 100
 ---
 
 ## Uyanık Höyük: Afyonkarahisar'ın Gizli Mücevheri

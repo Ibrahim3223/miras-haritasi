@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "28.94075,41.030805555"
 draft: false
+
+weight: 10
 ---
 
 **İştipol Sinagogu**

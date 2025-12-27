@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.9150734,36.7606468"
 draft: false
+
+weight: 100
 ---
 
 # Sarıaydın Köyü Camii: Mersin'in Eski ve Gizli Bir Mirası

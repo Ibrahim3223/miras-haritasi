@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.318327,36.2702217"
 draft: false
+
+weight: 10
 ---
 
 ## Patara Tapınak Mezarı

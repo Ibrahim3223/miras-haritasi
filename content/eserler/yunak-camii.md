@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.9056473,38.6335564"
 draft: false
+
+weight: 100
 ---
 
 ## Yunak Camii: Geçmişten Geleceğe Yönelik Bir Miras

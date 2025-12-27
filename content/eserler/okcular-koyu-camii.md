@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.039808259,40.37988919"
 draft: false
+
+weight: 100
 ---
 
 ### Okçular Köyü Camii: Ankara'nın Gizli Cenneti

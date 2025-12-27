@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6430988,38.2238197"
 draft: false
+
+weight: 100
 ---
 
 ## Su Bölümü Sokak Çeşmesi: Tarihi ve Kültürel Miras Değerleri

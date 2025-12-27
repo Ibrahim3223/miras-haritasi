@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.856361111,39.942027777"
 draft: false
+
+weight: 10
 ---
 
 ## Zincirli Camii: Ankara'nın Tarihi ve Kültürel Mirası

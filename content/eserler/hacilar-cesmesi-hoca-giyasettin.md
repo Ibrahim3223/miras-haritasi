@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.960835,41.019439"
 draft: false
+
+weight: 100
 ---
 
 ## Hacılar Çeşmesi

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "42.185589,37.332126"
 draft: false
+
+weight: 100
 ---
 
 **İsmail Ebul-iz El Cezeri Müzesi**

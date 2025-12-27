@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.4341812,38.6154213"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk ve Milli Egemenlik Anıtı, Şehzadeler

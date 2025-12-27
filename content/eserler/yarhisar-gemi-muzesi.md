@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.8352242,40.7234268"
 draft: false
+
+weight: 100
 ---
 
 ## Yarhisar Gemi Müzesi: Gölcük'te Bir Tarih Öyküsünün Yeri

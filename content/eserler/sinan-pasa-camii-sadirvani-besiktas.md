@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0060368,41.0424309"
 draft: false
+
+weight: 100
 ---
 
 ## Sinan Paşa Camii Şadırvanı, Beşiktaş

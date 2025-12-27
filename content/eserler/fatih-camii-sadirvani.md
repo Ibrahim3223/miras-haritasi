@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9495964,41.019886"
 draft: false
+
+weight: 10
 ---
 
 # Fatih Camii Şadırvanı

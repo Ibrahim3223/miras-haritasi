@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958563,41.019274"
 draft: false
+
+weight: 100
 ---
 
 ## Şebsafa Kadın Camii Çeşmeleri: Fatih'in Gizli Çeşmesi

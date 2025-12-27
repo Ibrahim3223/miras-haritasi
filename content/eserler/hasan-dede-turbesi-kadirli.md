@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.112434826,37.426857516"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Dede Türbesi, Kadirli

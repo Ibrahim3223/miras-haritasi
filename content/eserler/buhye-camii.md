@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.86102,40.341284"
 draft: false
+
+weight: 100
 ---
 
 ## Buhye Camii: Balıkesir'in Tarihî Bir Mirası

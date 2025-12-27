@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1450462,38.4182587"
 draft: false
+
+weight: 100
 ---
 
 ## İmam Caferi Sadık Tayyar Türbesi

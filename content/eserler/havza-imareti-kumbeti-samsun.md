@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.6563339,40.9711075"
 draft: false
+
+weight: 100
 ---
 
 ## Havza İmareti Kümbeti Samsun: Samsun'un Gizli Çehresini Bekleyen Bir Anıt

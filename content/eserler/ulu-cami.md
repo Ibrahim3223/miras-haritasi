@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8410721,38.9249191"
 draft: false
+
+weight: 10
 ---
 
 ## Ulu Cami: Manisa'nın Tarihi Bir Zenginliği

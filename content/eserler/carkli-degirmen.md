@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.050024,40.1898079"
 draft: false
+
+weight: 100
 ---
 
 ### Çarklı Değirmen: Bursa'nın Gizli Kilise Mirası

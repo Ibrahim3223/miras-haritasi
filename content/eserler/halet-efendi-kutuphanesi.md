@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9744854,41.0282516"
 draft: false
+
+weight: 100
 ---
 
 ## Halet Efendi Kütüphanesi

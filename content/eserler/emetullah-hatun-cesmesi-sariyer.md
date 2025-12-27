@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.028898,41.196469"
 draft: false
+
+weight: 10
 ---
 
 ## Emetullah Hatun Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi

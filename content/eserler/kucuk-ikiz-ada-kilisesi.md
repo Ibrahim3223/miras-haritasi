@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.4888668,37.5059128"
 draft: false
+
+weight: 10
 ---
 
 ### Küçük İkiz Ada Kilisesi

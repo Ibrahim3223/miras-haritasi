@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4942474,37.8675613"
 draft: false
+
+weight: 100
 ---
 
 ## Sahip Ata Türbesi

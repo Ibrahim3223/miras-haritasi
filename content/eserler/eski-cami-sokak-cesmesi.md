@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6912193,41.2435303"
 draft: false
+
+weight: 10
 ---
 
 ### Eski Cami Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi

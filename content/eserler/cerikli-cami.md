@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.9884987,39.8991013"
 draft: false
+
+weight: 100
 ---
 
 ## Çerikli Cami: Kırıkkale'nin Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.840681,39.031437"
 draft: false
+
+weight: 100
 ---
 
 ### Yahşibey Köyü Eski Cami

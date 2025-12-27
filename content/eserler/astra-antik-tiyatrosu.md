@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.4025002,37.0382652"
 draft: false
+
+weight: 100
 ---
 
 ### Astra Antik Tiyatrosu

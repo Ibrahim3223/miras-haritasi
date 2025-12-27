@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.4051247,40.2606659"
 draft: false
+
+weight: 100
 ---
 
 # Şehit Madam Erika Mezarı

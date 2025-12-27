@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4939308,38.7156982"
 draft: false
+
+weight: 100
 ---
 
 ## Hakırdaklı Mescidi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.142217,41.129383"
 draft: false
+
+weight: 100
 ---
 
 ## Zendi (Ada Mahallesi) Köprüsü

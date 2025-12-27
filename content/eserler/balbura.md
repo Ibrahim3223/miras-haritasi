@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.57913889,36.95236111"
 draft: false
+
+weight: 100
 ---
 
 ### Balbura: Bir Mitolojik Şehirin Kalıntıları

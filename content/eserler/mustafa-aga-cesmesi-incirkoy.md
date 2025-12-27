@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.098856,41.118046"
 draft: false
+
+weight: 10
 ---
 
 ## Mustafa Ağa Çeşmesi, İncirköy

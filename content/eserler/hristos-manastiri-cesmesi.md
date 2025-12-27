@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.124012,40.8645706"
 draft: false
+
+weight: 100
 ---
 
 ## Hristos Manastırı Çeşmesi: İstanbul'un Gizli Çeşmesi

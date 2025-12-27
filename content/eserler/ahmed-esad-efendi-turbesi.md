@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934227598,41.04747027"
 draft: false
+
+weight: 10
 ---
 
 ### Ahmed Esad Efendi Türbesi

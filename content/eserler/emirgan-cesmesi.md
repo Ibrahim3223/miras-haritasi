@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.056242,41.104809"
 draft: false
+
+weight: 10
 ---
 
 ### Emirgan Çeşmesi: İstanbul'un Gizli Çeşmesi

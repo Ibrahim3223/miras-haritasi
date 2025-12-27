@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.0116158,39.7549973"
 draft: false
+
+weight: 100
 ---
 
 ### İncili Hanım Türbesi

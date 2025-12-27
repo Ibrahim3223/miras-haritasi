@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.407972222,37.711"
 draft: false
+
+weight: 100
 ---
 
 ## Hasankeyf Ulu Camii: Tarihî Bir Mirasın Gizemi

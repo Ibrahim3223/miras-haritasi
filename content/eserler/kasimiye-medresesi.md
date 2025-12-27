@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "40.7200623,37.307579"
 draft: false
+
+weight: 10
 ---
 
 **Kasımiye Medresesi: Mardin'in Tarihî Mirası**

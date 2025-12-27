@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.9931417,39.6106311"
 draft: false
+
+weight: 100
 ---
 
 # Hamur Kümbeti: Ağrı'nın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0145772,41.0224748"
 draft: false
+
+weight: 10
 ---
 
 ### Aziz Mahmud Hüdai Çeşmeleri

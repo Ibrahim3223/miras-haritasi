@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.855,39.935666666"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Vakıf Eserleri Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.074988805,40.974000694"
 draft: false
+
+weight: 10
 ---
 
 ## Erenköy İstasyon Çeşmesi

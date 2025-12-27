@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Koca Mehmed Paşa Camii: Bir Osmanlı Dönemi Eseri

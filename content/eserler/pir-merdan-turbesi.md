@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.683713,37.476626"
 draft: false
+
+weight: 100
 ---
 
 ## Pirê Merdan Türbesi

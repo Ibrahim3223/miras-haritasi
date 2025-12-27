@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.734444444,36.861111111"
 draft: false
+
+weight: 10
 ---
 
 ## Yaka Kalesi: Mersin'in Tarihsel Ören Yeri

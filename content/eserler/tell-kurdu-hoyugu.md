@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.445,36.330278"
 draft: false
+
+weight: 100
 ---
 
 ## Tell Kurdu Höyüğü

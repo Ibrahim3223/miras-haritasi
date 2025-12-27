@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.1570358,41.2720009"
 draft: false
+
+weight: 100
 ---
 
 ## Akalan Kalesi

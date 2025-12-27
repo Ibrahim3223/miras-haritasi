@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9706154,39.4218025"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Hisar Camii: Kütahya'nın Büyüleyici Camii

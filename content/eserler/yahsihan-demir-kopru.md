@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "33.447984,39.842922"
 draft: false
+
+weight: 100
 ---
 
 ## Yahşihan Demir Köprü

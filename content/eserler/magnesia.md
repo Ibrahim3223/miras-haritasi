@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.527104,37.852692"
 draft: false
+
+weight: 10
 ---
 
 ## Magnesia Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9352894,41.0293045"
 draft: false
+
+weight: 100
 ---
 
 ### Gülzar Baba Kabri: Fatih'in Gizli Anıtı

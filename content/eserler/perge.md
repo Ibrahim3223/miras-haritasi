@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.853686,36.960353"
 draft: false
+
+weight: 10
 ---
 
 ## Perge: Antik Kentin Gizemi

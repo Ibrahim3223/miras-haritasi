@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "34.1613464,39.1451645"
 draft: false
+
+weight: 10
 ---
 
 ## Cacabey Medresesi

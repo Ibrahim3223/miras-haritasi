@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97583333,41.03277778"
 draft: false
+
+weight: 10
 ---
 
 ## Panayia İsodion Kilisesi: Beyoğlu, İstanbul'da bir İkonoklastik Miras

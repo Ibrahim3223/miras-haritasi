@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.967687285,41.008736381"
 draft: false
+
+weight: 100
 ---
 
 ## Yahya Kemal Müzesi

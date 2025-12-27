@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.85596389,39.94228611"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Roma Yolu

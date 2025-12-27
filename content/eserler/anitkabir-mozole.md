@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.8379135,39.925499"
 draft: false
+
+weight: 1
 ---
 
 ## Anıtkabir Mozole

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.971888888,41.016166666"
 draft: false
+
+weight: 10
 ---
 
 ## Hatice Turhan Sultan Türbesi

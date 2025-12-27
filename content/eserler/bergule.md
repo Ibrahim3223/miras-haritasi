@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.36121,41.41621"
 draft: false
+
+weight: 100
 ---
 
 ### Bergule Arkeolojik Sit

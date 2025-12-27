@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.5165653,37.6219521"
 draft: false
+
+weight: 100
 ---
 
 ## Sayrakçı Kalesi: Aydın'ın Gizli Cenneti

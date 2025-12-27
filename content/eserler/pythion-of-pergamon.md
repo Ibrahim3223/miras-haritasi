@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.18416,39.1325"
 draft: false
+
+weight: 100
 ---
 
 ### Pythion of Pergamon

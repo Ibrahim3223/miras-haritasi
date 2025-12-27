@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.3315,40.185"
 draft: false
+
+weight: 10
 ---
 
 ## Ali Paşa Camii: Tokat'ın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.8460636,37.4306793"
 draft: false
+
+weight: 100
 ---
 
 ## Tekke Önü Mescidi, Kale-i Tavas

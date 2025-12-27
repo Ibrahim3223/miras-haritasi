@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.394722222,36.771388888"
 draft: false
+
+weight: 100
 ---
 
 ## Side Nymphaeum: Antik Side'nin Gizemi

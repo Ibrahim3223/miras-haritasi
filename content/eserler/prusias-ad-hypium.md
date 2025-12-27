@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.148055555,40.906111111"
 draft: false
+
+weight: 10
 ---
 
 ## Prusias ad Hypium: Tarihî Bir Kentin İzleri

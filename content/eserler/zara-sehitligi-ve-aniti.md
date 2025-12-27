@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.7455063,39.8919373"
 draft: false
+
+weight: 100
 ---
 
 ## Zara Şehitliği ve Anıtı

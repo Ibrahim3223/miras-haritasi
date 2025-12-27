@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.179295,37.39809"
 draft: false
+
+weight: 100
 ---
 
 **Han Mahmut Köprüsü**

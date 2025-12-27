@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4242477,41.7825775"
 draft: false
+
+weight: 100
 ---
 
 ## Üsküp Kurtkumluğu Batı Tümülüsü: Kırklareli'nin Gizli Çehresini Keşfetmek

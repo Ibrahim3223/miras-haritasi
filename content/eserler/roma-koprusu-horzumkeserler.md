@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3240926,38.37779"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Horzumkeserler: Alaşehir'in Tarihi Bir Mirası

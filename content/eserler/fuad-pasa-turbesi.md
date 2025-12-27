@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.972816,41.006563"
 draft: false
+
+weight: 10
 ---
 
 ## Fuad Paşa Türbesi: İstanbul'un Tarihî Mirası

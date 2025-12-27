@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9239597,41.0459976"
 draft: false
+
+weight: 100
 ---
 
 ## Bayburtlu Ömer Paşa Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.946921,41.034342"
 draft: false
+
+weight: 10
 ---
 
 ## Balat Çeşmesi

@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.021,41.103694444"
 draft: false
+
+weight: 10
 ---
 
 ### İTÜ Mustafa İnan Kütüphanesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.98625278,36.9775"
 draft: false
+
+weight: 100
 ---
 
 ## Mezraa - Teleilat Höyüğü: Şanlıurfa'nın Gizli Hazineleri

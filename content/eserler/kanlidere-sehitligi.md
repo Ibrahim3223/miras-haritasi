@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2393684,40.0872459"
 draft: false
+
+weight: 100
 ---
 
 **Kanlıdere Şehitliği**

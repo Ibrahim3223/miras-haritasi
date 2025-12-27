@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.012267,37.609367"
 draft: false
+
+weight: 100
 ---
 
 ## Çine - Tepecik Höyük: Aydın'ın Gizemi

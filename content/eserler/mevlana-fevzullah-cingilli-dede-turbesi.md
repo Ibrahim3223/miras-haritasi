@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.326666666,37.901666666"
 draft: false
+
+weight: 100
 ---
 
 ## Mevlana Fevzullah Çingilli Dede Türbesi

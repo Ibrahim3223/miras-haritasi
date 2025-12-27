@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.81777778,36.2475"
 draft: false
+
+weight: 10
 ---
 
 ## Kyaneai: Antik Şehir ve Itsiz Kaya Mezarları

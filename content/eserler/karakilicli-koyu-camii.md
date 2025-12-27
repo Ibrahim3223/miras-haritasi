@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.3432007,38.775238"
 draft: false
+
+weight: 100
 ---
 
 ## Karakılıçlı Köyü Camii: Manisa'nın Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.757888888,40.824805555"
 draft: false
+
+weight: 100
 ---
 
 ## Suhbeçi Kilisesi Tanıtımı

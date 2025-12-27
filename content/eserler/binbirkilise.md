@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.14416667,37.43722222"
 draft: false
+
+weight: 10
 ---
 
 ## Binbirkilise

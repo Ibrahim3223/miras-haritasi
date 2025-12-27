@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5178928,40.9810028"
 draft: false
+
+weight: 100
 ---
 
 ## Soğukkuyu Çeşmesi: Tekirdağ'ın Tarihî ve Kültürel Mirası

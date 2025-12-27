@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.677824,39.5772324"
 draft: false
+
+weight: 100
 ---
 
 ## Narlı Camii: Edremit'in Tarihi ve Kültürel Mirası

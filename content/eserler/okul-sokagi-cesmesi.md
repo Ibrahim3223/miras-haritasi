@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6858978,41.2491112"
 draft: false
+
+weight: 10
 ---
 
 ## Okul Sokağı Çeşmesi: Safranbolu'nun Tarihi Bir Mirası

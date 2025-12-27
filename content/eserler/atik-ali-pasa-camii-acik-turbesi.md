@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.970802,41.008694"
 draft: false
+
+weight: 100
 ---
 
 # Atik Ali Paşa Camii Açık Türbesi

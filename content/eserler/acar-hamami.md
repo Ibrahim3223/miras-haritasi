@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.9249496,37.5881577"
 draft: false
+
+weight: 100
 ---
 
 ## Acar Hamamı: Kahramanmaraş'ın Tarihi Bir Mirası

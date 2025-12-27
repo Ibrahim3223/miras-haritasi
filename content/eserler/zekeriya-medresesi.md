@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9484692,41.0256424"
 draft: false
+
+weight: 100
 ---
 
 ### Zekeriya Medresesi

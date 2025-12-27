@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.947416666,41.05125"
 draft: false
+
+weight: 100
 ---
 
 ## Halıcıoğlu Surp Stepanos Kilisesi

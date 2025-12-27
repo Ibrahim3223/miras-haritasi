@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.3299664,41.2775763"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Triada Rum Ortodoks Kilisesi: Samsun'daki Bir İleri Dönem Kilisesi

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.2119179,40.8924484"
 draft: false
+
+weight: 100
 ---
 
 # Ekinlik Kalesi

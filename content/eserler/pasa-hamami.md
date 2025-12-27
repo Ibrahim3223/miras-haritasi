@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.841312651,38.922812843"
 draft: false
+
+weight: 10
 ---
 
 ### Paşa Hamamı

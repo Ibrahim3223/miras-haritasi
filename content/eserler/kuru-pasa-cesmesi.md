@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.226333333,41.733527777"
 draft: false
+
+weight: 10
 ---
 
 ## Kuru Paşa Çeşmesi: Kırklareli'nin Tarihi Şöleni

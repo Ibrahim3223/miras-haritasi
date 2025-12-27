@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.888464,41.0262527"
 draft: false
+
+weight: 100
 ---
 
 ## Davutpaşa Kışlası Mescidi

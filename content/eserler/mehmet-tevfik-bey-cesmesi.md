@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.4301682,38.6083908"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Tevfik Bey Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.932384,40.999516"
 draft: false
+
+weight: 100
 ---
 
 ## Samatya Kapısı: Fatih'teki Tarihi Bir Anıt

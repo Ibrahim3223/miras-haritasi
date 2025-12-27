@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.4282227,38.4706612"
 draft: false
+
+weight: 100
 ---
 
 ## İmam Zeynel Abidin Türbesi: Battalgazi'nin Semahanesi

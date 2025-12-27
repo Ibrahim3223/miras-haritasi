@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.221162152,38.463139396"
 draft: false
+
+weight: 10
 ---
 
 ### Mattheys Köşkü: İzmir'in Gizli Cenneti

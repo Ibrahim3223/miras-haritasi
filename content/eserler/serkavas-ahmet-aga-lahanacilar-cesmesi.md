@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.052627155,41.050806388"
 draft: false
+
+weight: 10
 ---
 
 ## Serkavas Ahmet Ağa Lahanacılar Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4942818,37.8679466"
 draft: false
+
+weight: 100
 ---
 
 # Sahip Ata Camii

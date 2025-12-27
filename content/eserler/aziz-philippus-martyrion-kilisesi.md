@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.1301098,37.9312439"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Philippus Martyrion Kilisesi

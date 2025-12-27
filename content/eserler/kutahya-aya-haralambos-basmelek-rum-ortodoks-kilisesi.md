@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.969555555,39.42275"
 draft: false
+
+weight: 100
 ---
 
 ## Kütahya Aya Haralambos Başmelek Rum Ortodoks Kilisesi

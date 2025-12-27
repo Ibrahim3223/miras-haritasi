@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.7458725,37.0040016"
 draft: false
+
+weight: 10
 ---
 
 ## Muvatalli Kabartması

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.97379,41.048778"
 draft: false
+
+weight: 10
 ---
 
 ### Aya Dimitri Kilisesi

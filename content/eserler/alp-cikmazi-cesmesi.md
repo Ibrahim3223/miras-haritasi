@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18415278,39.12328889"
 draft: false
+
+weight: 10
 ---
 
 ## Alp Çıkmazı Çeşmesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.13262,40.873643"
 draft: false
+
+weight: 10
 ---
 
 ## Büyükada Ayios Dimitrios Rum Ortodoks Kilisesi

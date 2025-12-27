@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.0813313,40.725975"
 draft: false
+
+weight: 100
 ---
 
 ### Kilise 2: Enez'in Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.3262444,41.2945671"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Seyyid Kudbettin Camii: Samsun'un Tarihi ve Kültürel Mirası

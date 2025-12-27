@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.4062424,37.7506523"
 draft: false
+
+weight: 100
 ---
 
 **Abdülvahit Çelebi Çeşmesi: Konya'nın Tarihî ve Kültürel Mirası**

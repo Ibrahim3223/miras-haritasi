@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.86527778,39.93666667"
 draft: false
+
+weight: 10
 ---
 
 # Arslanhane Camii

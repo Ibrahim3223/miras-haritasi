@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.0076707,41.0619148"
 draft: false
+
+weight: 100
 ---
 
 ### Örenkit Köprüsü: Bir Geçit Nefesinin Tarihi Köprüsü

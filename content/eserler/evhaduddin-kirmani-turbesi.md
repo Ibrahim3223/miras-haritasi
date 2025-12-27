@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.4957657,37.8842926"
 draft: false
+
+weight: 100
 ---
 
 ## Evhaduddin Kirmani Türbesi

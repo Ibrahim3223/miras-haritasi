@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.5202789,39.8802795"
 draft: false
+
+weight: 100
 ---
 
 ## Marpessos Yerleşimi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.372113711,38.800607967"
 draft: false
+
+weight: 100
 ---
 
 ## Molu Köyü Camii

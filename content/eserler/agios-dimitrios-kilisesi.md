@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.661614,39.334563"
 draft: false
+
+weight: 100
 ---
 
 ### Agios Dimitrios Kilisesi: Ayvalık'ta Bir Geçmişle Ortaklıklı Bir Miras

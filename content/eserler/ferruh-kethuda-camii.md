@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.945724,41.034466"
 draft: false
+
+weight: 10
 ---
 
 # Ferruh Kethüda Camii

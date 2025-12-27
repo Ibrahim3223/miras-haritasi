@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.974267069,41.010153264"
 draft: false
+
+weight: 10
 ---
 
 ### Cezeri Kasım Paşa Camii

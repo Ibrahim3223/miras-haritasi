@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.7718945,38.3222542"
 draft: false
+
+weight: 100
 ---
 
 ## Kütük Minare Mescidi: Urla'nın Tarihî Bir Çeşidi

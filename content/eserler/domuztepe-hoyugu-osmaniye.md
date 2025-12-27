@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.03568056,37.32098056"
 draft: false
+
+weight: 10
 ---
 
 ## Domuztepe Höyüğü: Kahramanmaraş'ın Gizli Kahramanı

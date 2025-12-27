@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0602188,36.5404129"
 draft: false
+
+weight: 100
 ---
 
 ## Karacaören Kilisesi: Muğla'nın Gizli Çiçeği

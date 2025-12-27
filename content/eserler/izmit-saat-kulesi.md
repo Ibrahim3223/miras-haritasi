@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "29.919611111,40.762805555"
 draft: false
+
+weight: 10
 ---
 
 ### İzmit Saat Kulesi: İzmit'in Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.694235,41.244053"
 draft: false
+
+weight: 100
 ---
 
 ## Safranbolu Kaymakamlar Gezi Evi

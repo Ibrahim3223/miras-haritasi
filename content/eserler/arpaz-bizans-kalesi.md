@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "28.352747,37.8022385"
 draft: false
+
+weight: 100
 ---
 
 ## Arpaz Bizans Kalesi: Aydın'ın Gizli Cenneti

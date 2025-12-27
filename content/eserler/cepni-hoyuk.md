@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.3978299,39.6401495"
 draft: false
+
+weight: 100
 ---
 
 ### Çepni Höyük: Tarihî bir Mirasın İzleri

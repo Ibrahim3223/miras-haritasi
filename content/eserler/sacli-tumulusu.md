@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.567936098,39.731007758"
 draft: false
+
+weight: 100
 ---
 
 ## Bayramiç'in Gizemli Zenginliği: Saçlı Tümülüsü

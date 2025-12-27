@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8619156,39.9354286"
 draft: false
+
+weight: 10
 ---
 
 ## Sakalar Camii: Ankara'nın Tarihi Bir Mirası

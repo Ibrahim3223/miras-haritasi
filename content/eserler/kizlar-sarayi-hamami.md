@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "35.8308372,40.6528511"
 draft: false
+
+weight: 100
 ---
 
 ### Kızlar Sarayı Hamamı

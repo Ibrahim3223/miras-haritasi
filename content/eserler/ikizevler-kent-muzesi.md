@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "39.464981,40.464782"
 draft: false
+
+weight: 100
 ---
 
 ## İkizevler Kent Müzesi: Gümüşhane'nin Gizli Çehresi

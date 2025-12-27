@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.027453,41.889787"
 draft: false
+
+weight: 100
 ---
 
 ## Thynias: Demirköy'ün Gizli Örtüsü

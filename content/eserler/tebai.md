@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0,39.5833"
 draft: false
+
+weight: 100
 ---
 
 ### Tebai Arkeolojik Siti: Balıkesir'in Gizli Çanakkale'si

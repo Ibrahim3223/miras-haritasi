@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.599637,37.264967"
 draft: false
+
+weight: 100
 ---
 
 **Sia Antik Tiyatrosu: Bucak'ta Bir Antik Edebiyat Mirası**

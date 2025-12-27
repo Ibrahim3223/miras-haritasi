@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.945333333,37.925055555"
 draft: false
+
+weight: 10
 ---
 
 ## Siirt Ulu Camii: Bir歷örek Osmanlı Dönemi Eseri

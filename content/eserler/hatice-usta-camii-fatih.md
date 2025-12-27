@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.962225,41.010132"
 draft: false
+
+weight: 100
 ---
 
 ### Hatice Usta Camii

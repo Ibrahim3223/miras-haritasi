@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.049,41.139693"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Alaattin Gözcü Çeşmesi

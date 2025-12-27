@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.323,37.9305229"
 draft: false
+
+weight: 100
 ---
 
 ## Sinan Dede Türbesi: Aydın'ın Tarihi ve Kültürel Mirası

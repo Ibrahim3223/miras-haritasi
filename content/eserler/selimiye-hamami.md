@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0168419,41.0104866"
 draft: false
+
+weight: 100
 ---
 
 ## Selimiye Hamamı: İstanbul'un Tarihî ve Kültürel Mirasının Değerli Parçaları Arasındaki Bir Üstün Örnek

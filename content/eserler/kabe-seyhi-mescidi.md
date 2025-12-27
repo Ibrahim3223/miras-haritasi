@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2737808,39.9102554"
 draft: false
+
+weight: 100
 ---
 
 ### Kabe Şeyhi Mescidi

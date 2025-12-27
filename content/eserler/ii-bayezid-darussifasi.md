@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "26.5439529,41.6852417"
 draft: false
+
+weight: 100
 ---
 
 ## II. Bayezid Darüşşifası

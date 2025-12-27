@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.975122,41.00562"
 draft: false
+
+weight: 10
 ---
 
 ## Yılanlı Sütun

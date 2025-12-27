@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.32277778,36.98972222"
 draft: false
+
+weight: 10
 ---
 
 ## Kuruköprü Anıt Kilisesi

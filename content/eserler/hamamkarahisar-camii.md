@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.7226791,39.4418373"
 draft: false
+
+weight: 100
 ---
 
 ## Hamamkarahisar Camii: Sivrihisar'ın Tarihi Bir Zümrütü

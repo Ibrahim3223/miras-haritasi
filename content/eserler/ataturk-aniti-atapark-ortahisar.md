@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "39.716194,41.003999"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Anıtı (Atapark)

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.7984314,40.9727821"
 draft: false
+
+weight: 100
 ---
 
 ## Baltacı Mehmet Paşa Çeşmesi

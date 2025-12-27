@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.2301712,38.9206085"
 draft: false
+
+weight: 100
 ---
 
 ### Tekeli Höyük: Kırşehir'in Gizli Ören Yeri

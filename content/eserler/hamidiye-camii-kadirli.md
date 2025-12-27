@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.098285554,37.37267321"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Camii, Kadirli

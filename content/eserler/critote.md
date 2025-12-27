@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.651664,40.406725"
 draft: false
+
+weight: 100
 ---
 
 ### Critote: Gelibolu'nun Gizli Anıtı

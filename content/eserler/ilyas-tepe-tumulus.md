@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.19862,39.13085"
 draft: false
+
+weight: 100
 ---
 
 ## Ilyas Tepe Tumulus: İzmir'in Gizli Mirası

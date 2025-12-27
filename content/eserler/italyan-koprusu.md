@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0569572,37.6159668"
 draft: false
+
+weight: 100
 ---
 
 ### İtalyan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

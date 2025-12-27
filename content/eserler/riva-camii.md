@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.217672281,41.223681839"
 draft: false
+
+weight: 100
 ---
 
 ### Riva Camii: Beykoz'un Tarihî ve Kültürel Mirası

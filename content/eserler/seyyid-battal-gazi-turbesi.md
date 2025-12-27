@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.694539,39.442082"
 draft: false
+
+weight: 10
 ---
 
 ## Seyyid Battal Gazi Türbesi

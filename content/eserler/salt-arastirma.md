@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.9734887,41.024034719"
 draft: false
+
+weight: 10
 ---
 
 ## Salt Araştırma Müzesi

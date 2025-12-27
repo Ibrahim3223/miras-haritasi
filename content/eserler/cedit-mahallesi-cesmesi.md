@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9729042,39.4229774"
 draft: false
+
+weight: 100
 ---
 
 ### Cedit Mahallesi Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası

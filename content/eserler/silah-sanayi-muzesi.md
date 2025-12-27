@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.453622,39.850274"
 draft: false
+
+weight: 100
 ---
 
 ## Silah Sanayi Müzesi

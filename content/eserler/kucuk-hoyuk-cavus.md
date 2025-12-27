@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6536598,39.9718895"
 draft: false
+
+weight: 100
 ---
 
 # Küçük Höyük: Erzincan'ın Gizli Ören Yeri

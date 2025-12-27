@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9843988,41.0126332"
 draft: false
+
+weight: 1
 ---
 
 ## Topkapı Sarayı Babüssaade İç Oda Çeşmesi

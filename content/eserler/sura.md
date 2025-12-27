@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.94480556,36.24402778"
 draft: false
+
+weight: 100
 ---
 
 ## Sura Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.7060776,37.1458168"
 draft: false
+
+weight: 100
 ---
 
 ## Küçük Kozluca Höyüğü: Şırnak'ın Gizli İncisi

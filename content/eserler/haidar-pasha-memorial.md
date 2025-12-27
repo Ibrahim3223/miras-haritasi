@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0208,40.99987"
 draft: false
+
+weight: 100
 ---
 
 ## Haidar Pasha Anısı: İstanbul'un Tarihî Anıtlarından Bir İsim

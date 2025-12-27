@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3225,38.125"
 draft: false
+
+weight: 10
 ---
 
 ### Metropolis: İzmir'in Gizli Mirası

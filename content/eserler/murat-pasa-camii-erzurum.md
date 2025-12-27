@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.270134,39.9043427"
 draft: false
+
+weight: 100
 ---
 
 # Murat Paşa Camii (Erzurum)

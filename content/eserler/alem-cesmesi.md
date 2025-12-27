@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5263615,39.7625542"
 draft: false
+
+weight: 100
 ---
 
 ## Alem Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi

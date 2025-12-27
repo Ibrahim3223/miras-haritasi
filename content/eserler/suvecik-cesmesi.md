@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.6749,36.3553"
 draft: false
+
+weight: 100
 ---
 
 ### Süvecik Çeşmesi: Kaş'ın Tarihi Bir Hatırası

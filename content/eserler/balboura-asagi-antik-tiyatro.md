@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.5833969,36.9510994"
 draft: false
+
+weight: 100
 ---
 
 ### Balboura Aşağı Antik Tiyatro

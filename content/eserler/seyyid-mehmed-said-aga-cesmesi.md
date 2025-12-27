@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7813873,37.3168716"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Mehmed Said Ağa Çeşmesi

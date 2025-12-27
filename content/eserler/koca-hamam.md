@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.7105087,38.5014907"
 draft: false
+
+weight: 100
 ---
 
 **Koca Hamam: Turgutlu'nun Tarihi Bir Mirası**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.8247531,39.3037591"
 draft: false
+
+weight: 100
 ---
 
 # Kül I Höyük: Türkiye'nin Eski Medeniyetin Gizemi

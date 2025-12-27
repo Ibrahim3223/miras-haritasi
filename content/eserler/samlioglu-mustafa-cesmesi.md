@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6985741,41.2457428"
 draft: false
+
+weight: 10
 ---
 
 ## Şamlıoğlu Mustafa Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası

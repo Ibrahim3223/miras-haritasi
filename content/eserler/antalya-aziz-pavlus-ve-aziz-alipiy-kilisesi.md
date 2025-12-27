@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.707027777,36.88225"
 draft: false
+
+weight: 10
 ---
 
 ## Antalya Aziz Pavlus ve Aziz Alipiy Kilisesi

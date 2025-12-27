@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.78111111,38.19875"
 draft: false
+
+weight: 10
 ---
 
 ### Taşçı Kabartmaları

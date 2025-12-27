@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.962899,41.007966"
 draft: false
+
+weight: 100
 ---
 
 ## Soğan Ağa Camii Çeşmesi: Tarihî Bir Ziyaretçi Merkezi

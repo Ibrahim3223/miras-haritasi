@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.02888889,40.98944444"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Levon Ermeni Katolik Kilisesi

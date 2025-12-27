@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.4720497,40.7324638"
 draft: false
+
+weight: 100
 ---
 
 ### Hacı Ali Bey Çeşmesi

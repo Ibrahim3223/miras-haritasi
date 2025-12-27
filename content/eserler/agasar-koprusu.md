@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "39.1962852,40.9478874"
 draft: false
+
+weight: 100
 ---
 
 ## Ağasar Köprüsü: Trabzon'un Gizli Çehresini Keşfetmek

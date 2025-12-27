@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9840736,41.0133743"
 draft: false
+
+weight: 1
 ---
 
 ## Fazlullah Ağa Abdest Teknesi: Topkapı Sarayı'nın Gizli Çeşmesi

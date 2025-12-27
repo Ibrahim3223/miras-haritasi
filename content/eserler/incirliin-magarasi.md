@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.76194444,37.18972222"
 draft: false
+
+weight: 10
 ---
 
 ## İncirliin Mağarası: Muğla'nun Gizli Tarihi

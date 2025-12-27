@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1090848,37.836262"
 draft: false
+
+weight: 10
 ---
 
 ## Septimius Severus Nymphaeum: Denizli'nin Tarihi Bir Mirası

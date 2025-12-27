@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.90611111,37.05027778"
 draft: false
+
+weight: 10
 ---
 
 **Sultantepe Höyüğü: Şanlıurfa'nın Gizli Tarihi**

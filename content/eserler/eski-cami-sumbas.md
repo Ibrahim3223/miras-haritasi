@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.01754,37.4486351"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Cami, Sumbas: Tarihi ve Kültürel Mirasın Gizemi

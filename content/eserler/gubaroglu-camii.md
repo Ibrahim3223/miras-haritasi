@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4802818,38.7166748"
 draft: false
+
+weight: 10
 ---
 
 ## Gubaroğlu Camii: Kayseri'nin Tarihi Bir Mirası

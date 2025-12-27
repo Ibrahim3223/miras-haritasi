@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.714734,38.136201"
 draft: false
+
+weight: 100
 ---
 
 ## Bukolion Arkeolojik Sitesi

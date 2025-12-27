@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.326163551,38.755910366"
 draft: false
+
+weight: 100
 ---
 
 ## Yukarı Mahalle Çeşmesi, Arguvan

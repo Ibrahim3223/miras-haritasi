@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.337551122,37.943598677"
 draft: false
+
+weight: 10
 ---
 
 # Liman Hamamları: İzmir'in Tarihi ve Kültürel Mirası

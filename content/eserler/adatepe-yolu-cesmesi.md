@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6146908,39.5600433"
 draft: false
+
+weight: 100
 ---
 
 ## Adatepe Yolu Çeşmesi

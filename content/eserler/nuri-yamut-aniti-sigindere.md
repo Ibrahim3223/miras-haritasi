@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.2111168,40.1015282"
 draft: false
+
+weight: 100
 ---
 
 ### Nuri Yamut Anıtı: Sığındere'nin Gizli Çehresi

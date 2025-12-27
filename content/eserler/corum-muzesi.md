@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.95111111,40.54111111"
 draft: false
+
+weight: 10
 ---
 
 ## Çorum Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.479562,39.761791"
 draft: false
+
+weight: 100
 ---
 
 ## Çiftlik Höyük: Odunpazarı'nın Zengin Tarihî Mirası

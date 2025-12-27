@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.946466394,41.010611027"
 draft: false
+
+weight: 100
 ---
 
 ## Kazancıbaşı Sadettin Efendi Türbesi

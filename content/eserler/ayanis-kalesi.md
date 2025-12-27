@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.21118,38.70827"
 draft: false
+
+weight: 10
 ---
 
 ## Ayanis Kalesi: Van'ın Gizemli Yüzyılları

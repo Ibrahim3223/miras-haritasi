@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.4736176,40.1660614"
 draft: false
+
+weight: 100
 ---
 
 ## Özbek Köyü Hamamı ve Çeşmesi

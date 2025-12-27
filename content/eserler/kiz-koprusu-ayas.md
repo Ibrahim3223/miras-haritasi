@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.1053009,40.0903358"
 draft: false
+
+weight: 100
 ---
 
 ## Kız Köprüsü, Ayaş

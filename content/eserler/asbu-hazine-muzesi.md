@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.854908,39.9431229"
 draft: false
+
+weight: 100
 ---
 
 ### ASBÜ Hazine Müzesi

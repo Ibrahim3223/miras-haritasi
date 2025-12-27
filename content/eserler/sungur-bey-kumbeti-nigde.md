@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6775665,37.96558"
 draft: false
+
+weight: 100
 ---
 
 ## Sungur Bey Kümbeti, Niğde

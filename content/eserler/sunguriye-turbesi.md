@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.961916666,40.589722222"
 draft: false
+
+weight: 100
 ---
 
 ## Sunguriye Türbesi: Niksar'ın Tarihî Mirası

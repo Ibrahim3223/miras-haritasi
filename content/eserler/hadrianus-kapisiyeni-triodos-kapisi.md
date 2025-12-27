@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3412228,37.9388971"
 draft: false
+
+weight: 10
 ---
 
 ## Hadrianus Kapısı/Yeni Triodos Kapısı

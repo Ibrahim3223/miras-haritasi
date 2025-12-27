@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.5545,41.685561"
 draft: false
+
+weight: 10
 ---
 
 ### Saraçhane Köprüsü: Edirne'nin Tarihi ve Mimari Bir Ölümsüzlüğü

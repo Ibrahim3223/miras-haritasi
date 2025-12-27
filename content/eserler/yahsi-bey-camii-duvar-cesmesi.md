@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.7336464,38.08564"
 draft: false
+
+weight: 100
 ---
 
 ### Yahşi Bey Camii Duvar Çeşmesi

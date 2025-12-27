@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.493927,37.870032"
 draft: false
+
+weight: 10
 ---
 
 ## Sırçalı Medrese: Konya'nın Tarihi Bir Mirası

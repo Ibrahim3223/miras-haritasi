@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.967335,41.03215"
 draft: false
+
+weight: 10
 ---
 
 ## Cezayirli Gazi Hasan Paşa Çeşmesi: Beyoğlu'ndaki Bir Kültür Mirası

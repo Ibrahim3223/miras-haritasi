@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.38166667,37.06583333"
 draft: false
+
+weight: 10
 ---
 
 ### Şirvani Camii: Gaziantep'in Tarihi ve Kültürel Mirası

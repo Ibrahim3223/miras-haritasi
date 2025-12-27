@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.9754,41.0078"
 draft: false
+
+weight: 10
 ---
 
 ### Lausus Sarayı: İstanbul'un Gizli Çatısı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.75718,37.65214"
 draft: false
+
+weight: 100
 ---
 
 ### Sandalion: Isparta'nın Eski Çağ Tarihçesi

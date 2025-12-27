@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.3399811,41.2695198"
 draft: false
+
+weight: 100
 ---
 
 # Dündartepe Höyüğü

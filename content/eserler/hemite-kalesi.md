@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.09444444,37.18861111"
 draft: false
+
+weight: 10
 ---
 
 ## Hemite Kale'si: Osmaniye'nin Gizli Çağı

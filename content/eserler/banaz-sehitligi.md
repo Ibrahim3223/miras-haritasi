@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7619896,38.7358665"
 draft: false
+
+weight: 100
 ---
 
 ## Banaz Şehitliği: Bir Anı Tutkusu

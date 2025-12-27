@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.982283,38.6038"
 draft: false
+
+weight: 100
 ---
 
 ### Üyük Arkeolojik Sit

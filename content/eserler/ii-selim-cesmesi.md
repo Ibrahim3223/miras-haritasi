@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.5633087,41.673893"
 draft: false
+
+weight: 100
 ---
 
 ### II. Selim Çeşmesi

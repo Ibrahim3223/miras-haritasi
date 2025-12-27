@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.899662,40.933342"
 draft: false
+
+weight: 100
 ---
 
 ## Ambarköy Açık Hava Müzesi: Samsun'un Eski Köy Evinin Mirası

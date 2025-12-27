@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0554428,41.0641136"
 draft: false
+
+weight: 100
 ---
 
 ### Vaniköy Camii Şadırvanı

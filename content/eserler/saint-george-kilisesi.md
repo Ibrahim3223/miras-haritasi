@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.2423945,37.9159757"
 draft: false
+
+weight: 10
 ---
 
 ## Saint George Kilisesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3,37.35"
 draft: false
+
+weight: 100
 ---
 
 # Parpariotai: Ege Denizi'ndeki Antik Bir Şehirdir

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.489214,37.160128"
 draft: false
+
+weight: 10
 ---
 
 # Kibira Arkeolojik Sit

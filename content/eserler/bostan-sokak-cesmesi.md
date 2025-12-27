@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.577354563,41.022475867"
 draft: false
+
+weight: 10
 ---
 
 ### Bostan Sokak Çeşmesi: Büyükçekmece'nin Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0789013,40.989254"
 draft: false
+
+weight: 100
 ---
 
 ### Buhur Baba Türbesi: Kadıköy'ün Gizli Tarihi

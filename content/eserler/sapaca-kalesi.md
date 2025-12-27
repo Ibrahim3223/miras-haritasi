@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.617026,40.543874"
 draft: false
+
+weight: 100
 ---
 
 **Sapaca Kalesi**

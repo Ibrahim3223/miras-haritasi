@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.775762,41.3737"
 draft: false
+
+weight: 10
 ---
 
 ### Kastamonu Arkeoloji Müzesi

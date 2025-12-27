@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.530078253,38.6690755"
 draft: false
+
+weight: 100
 ---
 
 # Traianopolis: Tarih Öncesi ve Roma Dönemi'nin Gizli Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.196542,40.431121"
 draft: false
+
+weight: 100
 ---
 
 ### Linus (Misya) Arkeolojik Sit Tanıtımı

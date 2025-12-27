@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.45,36.71666667"
 draft: false
+
+weight: 10
 ---
 
 ## Tece Kalesi: Mersin'in Gizli Mirası

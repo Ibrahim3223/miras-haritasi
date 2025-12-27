@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.921390894,41.022707612"
 draft: false
+
+weight: 100
 ---
 
 ## Takkeci İbrahim Ağa Sebili: Zeytinburnu'nun Tarihi Çeşmesi

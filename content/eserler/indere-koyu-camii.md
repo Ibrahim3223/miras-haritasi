@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "38.2493439,37.8077316"
 draft: false
+
+weight: 100
 ---
 
 ## İndere Köyü Camii

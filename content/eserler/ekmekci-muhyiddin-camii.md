@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9369431,41.0286636"
 draft: false
+
+weight: 100
 ---
 
 ### Ekmekçi Muhyiddin Camii: İstanbul'un Gizli Cenneti

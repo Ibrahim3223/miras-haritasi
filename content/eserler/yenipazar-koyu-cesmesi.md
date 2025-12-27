@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1982136,38.4661598"
 draft: false
+
+weight: 100
 ---
 
 # Yenipazar Köyü Çeşmesi

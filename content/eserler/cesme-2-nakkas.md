@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.5564384,41.1888466"
 draft: false
+
+weight: 10
 ---
 
 ## Eskişehir'de Nakkaş Çeşmesi: İstanbul'un Gizli Cenneti

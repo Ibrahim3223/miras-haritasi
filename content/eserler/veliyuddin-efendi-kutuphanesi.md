@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9649277,41.0099449"
 draft: false
+
+weight: 100
 ---
 
 ## Veliyüddin Efendi Kütüphanesi: Öyküleri ve Tarihçesi

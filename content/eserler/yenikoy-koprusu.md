@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.760726,40.776303"
 draft: false
+
+weight: 100
 ---
 
 ## Yeniköy Köprüsü: Tarihi ve Kültürel Miras

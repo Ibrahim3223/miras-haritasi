@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.2961006,38.3218956"
 draft: false
+
+weight: 100
 ---
 
 ## İskele Çeşmesi: Çeşme'nin Tarihi Bir Anıtı

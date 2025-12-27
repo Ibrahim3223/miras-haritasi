@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.150888888,42.025777777"
 draft: false
+
+weight: 100
 ---
 
 ### Sinop Saat Kulesi

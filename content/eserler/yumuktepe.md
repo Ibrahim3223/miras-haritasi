@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.6,36.8"
 draft: false
+
+weight: 10
 ---
 
 ### Yumuktepe: Mersin'in Gizli Tarihî Ören Yeri

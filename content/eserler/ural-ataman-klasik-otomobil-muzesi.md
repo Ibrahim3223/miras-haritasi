@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.047912,41.128107"
 draft: false
+
+weight: 100
 ---
 
 **Ural Ataman Klasik Otomobil Müzesi: Sarıyer'de Klasik Otomobillerin Anıtlığı**

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.423611,40.288339"
 draft: false
+
+weight: 10
 ---
 
 # Şebinkarahisar Kalesi: Giresun'un Tarihî Bir Zirvesi

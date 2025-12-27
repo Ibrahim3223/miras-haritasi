@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.392916666,41.376055555"
 draft: false
+
+weight: 10
 ---
 
 ## Pironiti Kilisesi

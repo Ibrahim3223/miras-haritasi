@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.631607,41.373977"
 draft: false
+
+weight: 100
 ---
 
 ## Ancon (Pontus) Arkeolojik Sit

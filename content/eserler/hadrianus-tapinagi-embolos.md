@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34194444,37.9385"
 draft: false
+
+weight: 10
 ---
 
 ## Hadrianus Tapınağı (Embolos)

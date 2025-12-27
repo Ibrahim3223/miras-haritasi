@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.959242,41.014663"
 draft: false
+
+weight: 100
 ---
 
 ### Aşcıbaşı Mehmet Ağa Çeşmesi

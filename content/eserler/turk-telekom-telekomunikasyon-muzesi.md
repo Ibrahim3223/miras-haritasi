@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.866523,39.958607"
 draft: false
+
+weight: 100
 ---
 
 ## Türk Telekom Telekomünikasyon Müzesi

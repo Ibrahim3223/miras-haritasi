@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1464348,38.4136314"
 draft: false
+
+weight: 100
 ---
 
 **Kadifekale Mescidi: İzmir'in Tarihî Bir Zengini**

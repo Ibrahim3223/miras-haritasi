@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "35.331356,36.9847984"
 draft: false
+
+weight: 100
 ---
 
 ## Ramazanoğlu Medresesi

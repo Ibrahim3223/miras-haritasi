@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Gümüşhane Müzesi: Tarih, Kültür ve Sanatın Karşılıklı Olumlu Etkileşimi

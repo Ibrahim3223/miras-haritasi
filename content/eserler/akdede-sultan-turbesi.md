@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.83976,39.853527"
 draft: false
+
+weight: 10
 ---
 
 ## Akdede Sultan Türbesi: Ankara'nın Tarihi ve Kültürel Mirası

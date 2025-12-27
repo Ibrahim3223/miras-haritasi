@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9450188,41.0308952"
 draft: false
+
+weight: 10
 ---
 
 ## Tatlı Memba Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi

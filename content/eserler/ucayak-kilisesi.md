@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.170780555,39.413247222"
 draft: false
+
+weight: 10
 ---
 
 ## Üçayak Kilisesi

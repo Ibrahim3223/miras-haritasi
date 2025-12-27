@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.93951,41.008102"
 draft: false
+
+weight: 100
 ---
 
 ## Haseki Hürrem Sultan Hamamı

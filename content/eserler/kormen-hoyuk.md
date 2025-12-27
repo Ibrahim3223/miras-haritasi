@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.6988717,39.3876188"
 draft: false
+
+weight: 100
 ---
 
 ## Körmen Höyük: Tarihî ve Kültürel Bir Miras

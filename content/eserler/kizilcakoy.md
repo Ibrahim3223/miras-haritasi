@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.312649,39.349758"
 draft: false
+
+weight: 100
 ---
 
 ## Kızılcaköy Arkeolojik Sit

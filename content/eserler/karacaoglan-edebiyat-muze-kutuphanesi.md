@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "35.3295174,36.9797478"
 draft: false
+
+weight: 100
 ---
 
 ## Karacaoğlan Edebiyat Müze Kütüphanesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.16945,39.15129"
 draft: false
+
+weight: 10
 ---
 
 ## Aşık Paşa Türbesi: Kırşehir'in Kültürel Mirası

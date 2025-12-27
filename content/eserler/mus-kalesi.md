@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Muş Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

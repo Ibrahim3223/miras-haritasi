@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.667942,39.1014557"
 draft: false
+
+weight: 100
 ---
 
 ## Hıdırağa Mahallesi Çeşmesi: Kırkağaç'ta Bir Tarihsel Çeşme

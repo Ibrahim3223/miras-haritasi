@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8945541,36.641346"
 draft: false
+
+weight: 100
 ---
 
 ## Arapşah Camii: Karaman'ın Göz Alıcı Bir Mirası

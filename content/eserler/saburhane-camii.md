@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.370916666,37.219666666"
 draft: false
+
+weight: 100
 ---
 
 ## Saburhane Camii

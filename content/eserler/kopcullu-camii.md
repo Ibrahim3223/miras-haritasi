@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.493162285,38.363254051"
 draft: false
+
+weight: 100
 ---
 
 ## Kopçullu Camii

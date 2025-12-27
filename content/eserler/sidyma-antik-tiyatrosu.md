@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.1939812,36.4094925"
 draft: false
+
+weight: 100
 ---
 
 ### Sidyma Antik Tiyatrosu: Muğla'nın Tarihi Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.673305,40.412472"
 draft: false
+
+weight: 100
 ---
 
 ## Fikirli Sinan Kabri: Gelibolu'nun Gizli Gözyaşları

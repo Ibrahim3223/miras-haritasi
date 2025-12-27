@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.987169,41.033688"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Beşir Ağa Çeşmesi: Gümüşsuyu'nun Tarihi Çeşmesi

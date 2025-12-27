@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.256944444,37.383888888"
 draft: false
+
+weight: 10
 ---
 
 ## Didyma Antik Tiyatrosu

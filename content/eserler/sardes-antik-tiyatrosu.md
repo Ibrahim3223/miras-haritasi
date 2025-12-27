@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.047712,38.481816"
 draft: false
+
+weight: 100
 ---
 
 ### Sardes Antik Tiyatrosu

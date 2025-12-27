@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9746399,41.0282288"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Galip Türbesi: Beyoğlu'ndaki Bir Kültürel Miras

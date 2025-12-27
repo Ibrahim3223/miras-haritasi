@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5445,41.685527777"
 draft: false
+
+weight: 10
 ---
 
 ## İkinci Bayezid Camii: Edirne'nin İhtişamlı Mirası

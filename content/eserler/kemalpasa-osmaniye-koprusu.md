@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.5265797,41.4812583"
 draft: false
+
+weight: 10
 ---
 
 # Kemalpaşa Osmaniye Köprüsü

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.7834627,36.8219039"
 draft: false
+
+weight: 100
 ---
 
 **Kazokhüyüğü: Şanlıurfa'nın Gizli Kahramanı**

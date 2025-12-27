@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.956666666,41.01"
 draft: false
+
+weight: 10
 ---
 
 # Laleli Camii: İstanbul'un Gizli Çehresini Açıklıyor

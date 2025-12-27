@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.2237854,37.1796913"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Mahmut Çeşmesi

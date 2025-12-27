@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0670929,36.5540352"
 draft: false
+
+weight: 100
 ---
 
 ## Lebissos Kilisesi 2: Muğla'da Bir Geçmişe Sahip Kırsal Kilise

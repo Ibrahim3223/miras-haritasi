@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.52472222,39.76222222"
 draft: false
+
+weight: 10
 ---
 
 ## Tayfun Talipoğlu Daktilo Müzesi

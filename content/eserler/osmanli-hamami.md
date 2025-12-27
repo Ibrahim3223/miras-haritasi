@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.7274609,37.7079697"
 draft: false
+
+weight: 100
 ---
 
 ## Osmanlı Hamamı: Aydın'ın Tarihi ve Kültürel Mirası

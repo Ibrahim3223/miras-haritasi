@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.845915,38.921967"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh İlyas Çelebi Türbesi

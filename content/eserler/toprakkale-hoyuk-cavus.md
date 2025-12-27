@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.6654091,39.9725227"
 draft: false
+
+weight: 100
 ---
 
 ### Toprakkale Höyük: Erzincan'da Bir Tarih Ören Yeri

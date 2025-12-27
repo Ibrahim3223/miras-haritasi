@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.5043602,37.8562813"
 draft: false
+
+weight: 100
 ---
 
 ## Uluırmak Saka Camii Çeşmesi

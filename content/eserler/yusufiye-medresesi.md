@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "42.111351,38.3995171"
 draft: false
+
+weight: 100
 ---
 
 # Yusufiye Medresesi: Bitlis'in Gizli Çehresi

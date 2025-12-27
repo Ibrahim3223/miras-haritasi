@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.428417,39.583528"
 draft: false
+
+weight: 10
 ---
 
 # Büklükale Arkeolojik Sitesi

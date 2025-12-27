@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.4183502,40.2880974"
 draft: false
+
+weight: 100
 ---
 
 ## Alay Çeşmesi: Şebinkarahisar'ın Tarihi Bir Çeşmesi

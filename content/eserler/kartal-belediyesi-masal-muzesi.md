@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.2202644,40.9168777"
 draft: false
+
+weight: 10
 ---
 
 ## Kartal Belediyesi Masal Müzesi: İstanbul'un Gizli Çehresini Keşfedin

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.0395851,36.8021927"
 draft: false
+
+weight: 100
 ---
 
 ## Müğren Mezar Odası

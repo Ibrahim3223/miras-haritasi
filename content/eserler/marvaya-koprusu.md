@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.7376617,41.0737917"
 draft: false
+
+weight: 100
 ---
 
 ## Marvaya Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

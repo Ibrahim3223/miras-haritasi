@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4930573,38.7171478"
 draft: false
+
+weight: 100
 ---
 
 # Han Camii, Kayseri

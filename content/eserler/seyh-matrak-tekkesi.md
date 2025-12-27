@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9251518,41.0160179"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Matrak Tekkesi: Fatih'te Bir Tarihi Cami

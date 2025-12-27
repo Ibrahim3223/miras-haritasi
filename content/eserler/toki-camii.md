@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.2836576,37.7616679"
 draft: false
+
+weight: 100
 ---
 
 ## Toki Camii: Honaz, Denizli'nin Değerli Hazinesi

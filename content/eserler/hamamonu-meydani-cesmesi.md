@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.8665466,39.9332581"
 draft: false
+
+weight: 100
 ---
 
 ## Hamamönü Meydanı Çeşmesi

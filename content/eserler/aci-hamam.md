@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.975496,41.008409"
 draft: false
+
+weight: 100
 ---
 
 ## Acı Hamam: Fatih'te Bir Tarihi Hamamın Gizemleri

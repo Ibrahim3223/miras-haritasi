@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.177416666,38.386833333"
 draft: false
+
+weight: 10
 ---
 
 ## Buca Protestan Baptist Kilisesi

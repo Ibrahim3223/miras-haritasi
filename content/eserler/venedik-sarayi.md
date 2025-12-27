@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.977222222,41.029722222"
 draft: false
+
+weight: 10
 ---
 
 ### Venedik Sarayı: İstanbul'un En Güzel Saraylarından biri

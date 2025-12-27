@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.285611111,41.131361111"
 draft: false
+
+weight: 10
 ---
 
 ## Saray Camii

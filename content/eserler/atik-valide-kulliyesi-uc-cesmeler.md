@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023586,41.018566"
 draft: false
+
+weight: 100
 ---
 
 ## Atik Valide Külliyesi Üç Çeşmeler

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.3277245,36.9811516"
 draft: false
+
+weight: 100
 ---
 
 ## Arpacı Dede Türbesi

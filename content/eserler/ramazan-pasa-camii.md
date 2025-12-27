@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.8443222,37.8495178"
 draft: false
+
+weight: 100
 ---
 
 ## Ramazan Paşa Camii: Aydın'ın Tarihi Bir Mirası

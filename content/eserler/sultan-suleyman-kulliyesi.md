@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "41.4130592,37.7125359"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Süleyman Külliyesi

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.351861111,41.064888888"
 draft: false
+
+weight: 100
 ---
 
 ## Urumi Kilisesi: Tarihî Mirasın Gizemli Anıtı

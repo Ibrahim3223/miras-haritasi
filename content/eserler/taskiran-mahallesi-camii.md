@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.258221249,40.667804354"
 draft: false
+
+weight: 100
 ---
 
 ## Taşkıran Mahallesi Camii: Tarihi ve Kültürel Mirasın Bir Parçası

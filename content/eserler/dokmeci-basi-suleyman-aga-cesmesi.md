@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9244366,41.0463142"
 draft: false
+
+weight: 100
 ---
 
 # Dökmeci Başı Süleyman Ağa Çeşmesi

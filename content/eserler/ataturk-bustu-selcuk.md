@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.3639393,37.94841"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk Büstü, Selçuk

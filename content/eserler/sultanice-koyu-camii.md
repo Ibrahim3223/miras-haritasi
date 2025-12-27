@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.1543922,40.625351"
 draft: false
+
+weight: 100
 ---
 
 ## Sultaniçe Köyü Camii: Edirne'nin Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.931946365,41.0204373"
 draft: false
+
+weight: 10
 ---
 
 ### Arpa Emini Mescidi

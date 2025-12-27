@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.60218,37.262066"
 draft: false
+
+weight: 100
 ---
 
 ## Sia (Pisidya) Arkeolojik Sit

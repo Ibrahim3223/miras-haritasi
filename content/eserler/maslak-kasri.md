@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.04166667,41.18472222"
 draft: false
+
+weight: 10
 ---
 
 ## Maslak Kasrı: İstanbul'un Gizli Cenneti

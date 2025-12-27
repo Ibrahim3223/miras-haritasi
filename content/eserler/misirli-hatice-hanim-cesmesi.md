@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.610227,41.176192"
 draft: false
+
+weight: 10
 ---
 
 ## Mısırlı Hatice Hanım Çeşmesi

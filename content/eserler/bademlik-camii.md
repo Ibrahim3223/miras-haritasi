@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5393963,41.6872787"
 draft: false
+
+weight: 10
 ---
 
 ## Bademlik Camii: Edirne'nin Gizli Cenneti

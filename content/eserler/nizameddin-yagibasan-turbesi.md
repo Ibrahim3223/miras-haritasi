@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "36.9547006,40.5915292"
 draft: false
+
+weight: 100
 ---
 
 ## Nizameddin Yağıbasan Türbesi

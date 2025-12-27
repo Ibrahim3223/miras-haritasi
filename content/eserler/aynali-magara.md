@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8425783,40.6717383"
 draft: false
+
+weight: 10
 ---
 
 ## Aynalı Mağara: Amasya'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.927356,41.050288"
 draft: false
+
+weight: 100
 ---
 
 ## Ermeni Mahallesi Çeşmesi

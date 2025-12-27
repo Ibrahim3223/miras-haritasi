@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.662955,40.70093"
 draft: false
+
+weight: 100
 ---
 
 ## Heracleium: Antik Bir Uygarlığın İzleri

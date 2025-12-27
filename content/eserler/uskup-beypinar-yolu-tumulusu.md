@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4377537,41.7520485"
 draft: false
+
+weight: 100
 ---
 
 ## Üsküp Beypınar Yolu Tümülüsü

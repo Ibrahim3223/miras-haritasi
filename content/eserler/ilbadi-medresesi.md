@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0777855,37.7899818"
 draft: false
+
+weight: 100
 ---
 
 ## İlbadı Medresesi: Merkezi Efsane

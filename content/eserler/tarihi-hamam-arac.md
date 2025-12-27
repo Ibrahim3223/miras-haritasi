@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "33.3210831,41.2398224"
 draft: false
+
+weight: 100
 ---
 
 ## Tarihi Hamam, Araç

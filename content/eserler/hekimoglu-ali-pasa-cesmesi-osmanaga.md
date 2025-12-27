@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0257794,40.9909426"
 draft: false
+
+weight: 10
 ---
 
 ## Hekimoğlu Ali Paşa Çeşmesi, Osmanağa

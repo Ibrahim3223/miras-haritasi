@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.3732281,40.8125"
 draft: false
+
+weight: 100
 ---
 
 ## Karakamış Türbesi: Sakarya'nın Tarihi ve Kültürel Mirası

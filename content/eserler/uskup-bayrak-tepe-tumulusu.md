@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4164772,41.7135696"
 draft: false
+
+weight: 100
 ---
 
 **Üsküp Bayrak Tepe Tümülüsü**

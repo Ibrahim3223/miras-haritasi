@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.023130751,41.020391584"
 draft: false
+
+weight: 10
 ---
 
 ### Ümmü Gülsüm Hanım Çeşmesi

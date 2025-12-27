@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.95196,41.026551"
 draft: false
+
+weight: 10
 ---
 
 ## Abdülmecit Türbesi

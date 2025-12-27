@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.80256785,39.173441813"
 draft: false
+
+weight: 100
 ---
 
 ## Taşlık Köyü Camii: Kayseri'nin Tarihi ve Kültürel Mirasının Göz Alıcı Örneği

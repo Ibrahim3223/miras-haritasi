@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "26.55229,41.67747"
 draft: false
+
+weight: 10
 ---
 
 ## Makedon Kulesi: Edirne'nin Tarihî Saat Kulesi

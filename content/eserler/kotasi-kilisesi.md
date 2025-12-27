@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.115222222,41.305666666"
 draft: false
+
+weight: 100
 ---
 
 ## Kotasi Kilisesi

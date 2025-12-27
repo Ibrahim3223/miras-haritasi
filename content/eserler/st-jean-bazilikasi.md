@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.36777778,37.9525"
 draft: false
+
+weight: 10
 ---
 
 ## St. Jean Bazilikası

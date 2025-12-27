@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.034893,38.2619934"
 draft: false
+
+weight: 100
 ---
 
 ## Paşa Çeşmesi, Ödemiş

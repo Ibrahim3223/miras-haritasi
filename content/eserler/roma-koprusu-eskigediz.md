@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.4139768,39.0387672"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Eskigediz

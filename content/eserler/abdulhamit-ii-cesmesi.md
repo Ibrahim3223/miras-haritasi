@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.009901,41.05489"
 draft: false
+
+weight: 10
 ---
 
 ## Abdülhamit II Çeşmesi: Beşiktaş'taki bir Geçiş Dönemi Çeşmesi

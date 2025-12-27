@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "30.3550254,40.7793607"
 draft: false
+
+weight: 100
 ---
 
 ## Sakarya İl Halk Kütüphanesi

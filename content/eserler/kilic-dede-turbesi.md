@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.459672,40.875744"
 draft: false
+
+weight: 100
 ---
 
 ### Kılıç Dede Türbesi: Merzifon'un Tarihi bir Anıtı

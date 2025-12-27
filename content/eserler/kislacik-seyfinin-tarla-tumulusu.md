@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.929985,41.6971588"
 draft: false
+
+weight: 100
 ---
 
 ## Kışlacık Seyfinin Tarla Tümülüsü

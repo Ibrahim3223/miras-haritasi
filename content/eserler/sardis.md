@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.040278,38.488333"
 draft: false
+
+weight: 10
 ---
 
 ## Sardis: Antik Çağın Şövalyesi

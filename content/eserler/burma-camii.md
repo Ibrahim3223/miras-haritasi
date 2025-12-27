@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4064,38.67949"
 draft: false
+
+weight: 10
 ---
 
 ## Burma Camii: Uşak'ta Bir Görsel Şölen

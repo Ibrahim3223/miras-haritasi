@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.862703207,39.937264271"
 draft: false
+
+weight: 100
 ---
 
 ## Safran Hanı Mescidi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.960768,40.945688"
 draft: false
+
+weight: 100
 ---
 
 ## Şenköy Camii: Çamlıhemşin'in Kültürel Mirası

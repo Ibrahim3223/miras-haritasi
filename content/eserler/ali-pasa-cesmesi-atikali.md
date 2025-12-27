@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.940296,41.02586"
 draft: false
+
+weight: 100
 ---
 
 **Ali Paşa Çeşmesi, Atikali**

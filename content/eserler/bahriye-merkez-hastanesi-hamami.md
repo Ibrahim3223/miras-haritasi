@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.963448015,41.03327545"
 draft: false
+
+weight: 100
 ---
 
 ## Bahriye Merkez Hastanesi Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

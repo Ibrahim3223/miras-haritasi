@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9562492,41.0259743"
 draft: false
+
+weight: 100
 ---
 
 ## Müstantik Caddesi Çeşmesi

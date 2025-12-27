@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.3601341,41.2522545"
 draft: false
+
+weight: 100
 ---
 
 ## Kemal Paşa Camii, Şavşat

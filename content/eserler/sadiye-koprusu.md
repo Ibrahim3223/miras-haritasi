@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.5155602,38.0627213"
 draft: false
+
+weight: 100
 ---
 
 ## Şadiye Köprüsü: Konya'nın Geçmişini Etkileyen Bir Mimari Harika

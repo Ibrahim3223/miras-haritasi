@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9194327,40.7687015"
 draft: false
+
+weight: 10
 ---
 
 ## Canfeda Kethüda Hâtun Çeşmesi

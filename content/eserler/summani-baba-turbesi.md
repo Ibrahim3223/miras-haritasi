@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "41.883303,40.376235"
 draft: false
+
+weight: 100
 ---
 
 ## Sümmani Baba Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.970634,41.028377"
 draft: false
+
+weight: 10
 ---
 
 ## Lohusa Sultan Türbesi: Beyoğlu'ndaki Bir Hazine

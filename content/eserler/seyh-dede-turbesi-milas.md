@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.8172703,37.3152161"
 draft: false
+
+weight: 100
 ---
 
 **Şeyh Dede Türbesi, Milas**

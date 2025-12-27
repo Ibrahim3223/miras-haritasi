@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.854894,39.932668"
 draft: false
+
+weight: 10
 ---
 
 ## Ankara Etnografya Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.019744798,41.018754481"
 draft: false
+
+weight: 10
 ---
 
 ## Kurban Nasuh Baba Camii: Üsküdar'da Bir Önemli Cami

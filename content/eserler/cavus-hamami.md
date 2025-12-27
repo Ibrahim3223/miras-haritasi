@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "36.9633942,40.5892258"
 draft: false
+
+weight: 100
 ---
 
 **Çavuş Hamamı: Niksar'da Bir Tarihsel Eğlence Merkezi**

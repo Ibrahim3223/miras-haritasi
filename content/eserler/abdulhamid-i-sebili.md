@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.978656,41.010412"
 draft: false
+
+weight: 10
 ---
 
 ### Abdülhamid I Sebili: İstanbul'un Tarihi ve Kültürel Mirası

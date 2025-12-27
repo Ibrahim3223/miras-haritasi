@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.937357,41.02752"
 draft: false
+
+weight: 100
 ---
 
 ## Taşçı Dede Kabri: Fatih, İstanbul'da Eski Zeminlerin Gizemi

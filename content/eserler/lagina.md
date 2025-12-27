@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.03944444,37.37861111"
 draft: false
+
+weight: 10
 ---
 
 ### Lagina Arkeolojik Sit

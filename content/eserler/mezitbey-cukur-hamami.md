@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.5568637,41.6766944"
 draft: false
+
+weight: 100
 ---
 
 ## Mezitbey Çukur Hamamı: Edirne'nin Tarihi Bir Mirası

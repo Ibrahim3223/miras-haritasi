@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.2167,36.85"
 draft: false
+
+weight: 10
 ---
 
 ### Haran: Tarihî Bir Kentin İzleri

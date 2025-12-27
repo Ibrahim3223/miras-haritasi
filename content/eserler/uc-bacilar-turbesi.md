@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.1065254,38.4061089"
 draft: false
+
+weight: 100
 ---
 
 ## Üç Bacılar Türbesi

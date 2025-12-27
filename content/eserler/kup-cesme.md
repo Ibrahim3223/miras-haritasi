@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "30.5395832,38.7537079"
 draft: false
+
+weight: 100
 ---
 
 ## Küp Çeşme: Afyonkarahisar'ın Büyüleyici Tarihi Çeşmesi

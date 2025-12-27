@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.21432,40.08809"
 draft: false
+
+weight: 100
 ---
 
 ## Yeni Zelanda Twelve Tree Copse Anıtı

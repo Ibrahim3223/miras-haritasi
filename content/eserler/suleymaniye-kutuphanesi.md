@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.962860595,41.01573279"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Kütüphanesi

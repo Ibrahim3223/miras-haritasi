@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.5056,37.8719902"
 draft: false
+
+weight: 100
 ---
 
 ## Asmalı Hatip Sultan Camii

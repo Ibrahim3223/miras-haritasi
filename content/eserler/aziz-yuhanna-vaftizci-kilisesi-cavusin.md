@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.8431262,38.6675235"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Yuhanna Vaftizci Kilisesi (Çavuşin)

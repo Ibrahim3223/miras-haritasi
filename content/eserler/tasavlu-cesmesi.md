@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1241779,37.8985596"
 draft: false
+
+weight: 100
 ---
 
 ### Taşavlu Çeşmesi

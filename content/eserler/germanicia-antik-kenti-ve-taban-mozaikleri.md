@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.9455986,37.5760994"
 draft: false
+
+weight: 100
 ---
 
 ## Germanicia Antik Kenti ve Taban Mozaikleri

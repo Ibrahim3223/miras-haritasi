@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.9313,38.6234"
 draft: false
+
+weight: 100
 ---
 
 ### Kaymakçı Höyüğü: Manisa'nın Gizli Klasik Çağ Mirası

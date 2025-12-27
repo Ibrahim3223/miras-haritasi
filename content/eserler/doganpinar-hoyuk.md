@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.6235333,36.8414826"
 draft: false
+
+weight: 100
 ---
 
 # Doğanpınar Höyük

@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.029594444,41.036377777"
 draft: false
+
+weight: 10
 ---
 
 **Bet Yaakov Sinagogu**

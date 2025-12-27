@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.978066,41.008043"
 draft: false
+
+weight: 10
 ---
 
 ## Milyon Taşı Anıtının Tarihi ve Kültürel Mirası

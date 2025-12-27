@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.7641869,41.3745804"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh Şaban-ı Veli Camii: Kastamonu'nun Tarihi Bir Mirası

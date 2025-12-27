@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.346773,38.301338"
 draft: false
+
+weight: 100
 ---
 
 ### Kanotala: Aksaray'ın Gizli Kahramanı

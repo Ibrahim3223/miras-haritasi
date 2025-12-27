@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.4589691,40.6699524"
 draft: false
+
+weight: 100
 ---
 
 ### Güdül Kilisesi: Dereli'nin Gizli Cehennemi

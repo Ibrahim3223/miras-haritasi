@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.0645103,38.253933"
 draft: false
+
+weight: 100
 ---
 
 ### Gazi Umur Bey Çeşmesi, Birgi

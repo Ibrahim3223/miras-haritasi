@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.970381,39.423477"
 draft: false
+
+weight: 10
 ---
 
 # Lala Hüseyin Paşa Camii

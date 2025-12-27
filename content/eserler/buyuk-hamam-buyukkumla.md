@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.0875587,40.5020638"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük Hamam, Büyükkumla: Birimemişin Mirasının Öncüleri

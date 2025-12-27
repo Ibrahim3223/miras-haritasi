@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.4383278,38.9293671"
 draft: false
+
+weight: 100
 ---
 
 ## Tozkoparan Höyük, Pertek: Tarih ve Kültür Mirasının Gizemi

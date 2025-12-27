@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.600333,37.562283"
 draft: false
+
+weight: 10
 ---
 
 ### Lidar Höyük: Eski Çağın Gizli Şehirleri

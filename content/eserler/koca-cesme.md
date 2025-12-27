@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.2819805,38.5443192"
 draft: false
+
+weight: 100
 ---
 
 ## Koca Çeşme: Ulubey'de Bir Tarihi Çeşme

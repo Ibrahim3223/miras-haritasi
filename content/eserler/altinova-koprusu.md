@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.9667969,40.0710373"
 draft: false
+
+weight: 100
 ---
 
 **Altınova Köprüsü: Ankara'nın Gizli Çiçeği**

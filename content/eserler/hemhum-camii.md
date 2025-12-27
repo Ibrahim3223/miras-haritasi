@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8705635,39.9357872"
 draft: false
+
+weight: 100
 ---
 
 ## Hemhüm Camii: Ankara'nın Gizli Cenneti

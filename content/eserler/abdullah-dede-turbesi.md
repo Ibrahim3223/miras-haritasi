@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9269047,41.0038567"
 draft: false
+
+weight: 100
 ---
 
 **Abdullah Dede Türbesi**

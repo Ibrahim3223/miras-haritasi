@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.898666666,41.478944444"
 draft: false
+
+weight: 10
 ---
 
 # Camili Köyü Camii: Borçka'nın Tarihi ve Kültürel Mirası

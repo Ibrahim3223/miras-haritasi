@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9490566,41.0431671"
 draft: false
+
+weight: 10
 ---
 
 ### Lengerhane Çeşmesi

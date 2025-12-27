@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.217865,41.9736938"
 draft: false
+
+weight: 100
 ---
 
 # Kocayazı Kula Yolu Tümülüsü

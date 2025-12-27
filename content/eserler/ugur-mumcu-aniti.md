@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9877644,41.0491867"
 draft: false
+
+weight: 100
 ---
 
 ## Uğur Mumcu Anıtı

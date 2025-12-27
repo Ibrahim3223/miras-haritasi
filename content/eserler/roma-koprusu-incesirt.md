@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.598949,41.940159"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, İncesırt

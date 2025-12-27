@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.92955,39.99045"
 draft: false
+
+weight: 100
 ---
 
 ## Pazaryeri 1: Bilecik'te Eski Bir Kentin İzleri

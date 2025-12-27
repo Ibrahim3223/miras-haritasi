@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.967016,41.03426"
 draft: false
+
+weight: 10
 ---
 
 ## Hamidiye Çeşmesi, Kasımpaşa

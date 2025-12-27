@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.13527778,38.29861111"
 draft: false
+
+weight: 10
 ---
 
 **Çanlı Kilise: Aksaray'ın Tarihi bir Mirası**

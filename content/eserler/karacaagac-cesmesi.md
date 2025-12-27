@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.8977718,37.1675606"
 draft: false
+
+weight: 100
 ---
 
 ### Karacaağaç Çeşmesi

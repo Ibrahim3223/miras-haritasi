@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "32.867727,39.935098"
 draft: false
+
+weight: 100
 ---
 
 ## Ahi Hüsameddin Türbesi

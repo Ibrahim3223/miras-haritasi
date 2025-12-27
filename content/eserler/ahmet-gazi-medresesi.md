@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.7882538,37.2729416"
 draft: false
+
+weight: 100
 ---
 
 ### Ahmet Gazi Medresesi

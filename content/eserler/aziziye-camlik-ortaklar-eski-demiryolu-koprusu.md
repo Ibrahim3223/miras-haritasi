@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.4346848,37.8812485"
 draft: false
+
+weight: 100
 ---
 
 ## Aziziye (Çamlık) – Ortaklar Eski Demiryolu Köprüsü

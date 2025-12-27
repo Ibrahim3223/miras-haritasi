@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.977417,39.4212914"
 draft: false
+
+weight: 100
 ---
 
 ### Karadonlu Camii: Kütahya'nın Tarihi Bir Mirası

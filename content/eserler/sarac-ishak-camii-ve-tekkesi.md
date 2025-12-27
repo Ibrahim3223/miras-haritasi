@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9638939,41.0071869"
 draft: false
+
+weight: 100
 ---
 
 ## Saraç İshak Camii ve Tekkesi

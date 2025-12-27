@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.2824,40.2076"
 draft: false
+
+weight: 10
 ---
 
 ### Kabatepe Müzesi

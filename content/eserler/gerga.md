@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.1481545,37.5185756"
 draft: false
+
+weight: 10
 ---
 
 ### Gerga: Aydın'ın Gizli Çarpıntısı

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.9919354,38.8728205"
 draft: false
+
+weight: 100
 ---
 
 **Roma Köprüsü, Kayaışık**

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.403916666,38.680611111"
 draft: false
+
+weight: 100
 ---
 
 ## Merkez, Uşak'ta Cami: Tarihî Bir Zeminde Dürüstlük ve Güzellik

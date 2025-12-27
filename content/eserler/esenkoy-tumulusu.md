@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0457172,40.1079102"
 draft: false
+
+weight: 100
 ---
 
 ### Eşenköy Tümülüsü: Tarih, Kültür ve Mirasın Meşalesi

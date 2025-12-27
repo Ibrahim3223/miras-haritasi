@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3714008,37.7757988"
 draft: false
+
+weight: 100
 ---
 
 ## Uzunçam Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.934588,38.935368"
 draft: false
+
+weight: 100
 ---
 
 # Çandarlı Merkez Camii

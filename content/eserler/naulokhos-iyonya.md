@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.24617,37.63908"
 draft: false
+
+weight: 100
 ---
 
 ## Naulokhos: İyonya'nın Gizli Mirası

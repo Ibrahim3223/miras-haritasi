@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "39.4568634,40.4514008"
 draft: false
+
+weight: 100
 ---
 
 ## Çaput Hamamı: Gümüşhane'de Bir Tarihî Miras

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.45583333,36.43138889"
 draft: false
+
+weight: 10
 ---
 
 ## Yanartaş: Tarihinin Gizemi ve Mirası

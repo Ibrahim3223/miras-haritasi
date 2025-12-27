@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.1985245,39.1418724"
 draft: false
+
+weight: 100
 ---
 
 ## Niyazi Tepe Tapınak Mezarı

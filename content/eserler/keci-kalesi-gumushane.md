@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "39.699558,40.385904"
 draft: false
+
+weight: 100
 ---
 
 ## Keçi Kalesi, Gümüşhane

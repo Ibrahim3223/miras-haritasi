@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9490929,41.0184784"
 draft: false
+
+weight: 100
 ---
 
 ## Akdeniz Baş Kurşunlu Medrese

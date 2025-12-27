@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "44.2100709,38.145036"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz Bartalmay Manastırı Tanıtımı

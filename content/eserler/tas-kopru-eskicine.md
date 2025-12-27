@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.0659199,37.5433235"
 draft: false
+
+weight: 100
 ---
 
 ## Taş Köprü, Eskiçine: Aydın'ın Tarihi ve Kültürel Mirası

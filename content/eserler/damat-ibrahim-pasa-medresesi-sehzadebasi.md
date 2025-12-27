@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9584408,41.0130005"
 draft: false
+
+weight: 100
 ---
 
 ## Damat İbrahim Paşa Medresesi Şehzadebaşı

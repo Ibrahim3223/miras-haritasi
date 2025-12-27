@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.9613112,41.0103874"
 draft: false
+
+weight: 100
 ---
 
 ## Seyyid Hasan Paşa Medresesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.239617,39.7649"
 draft: false
+
+weight: 100
 ---
 
 ## Kümbet Kocabahce: Ezine'nin Gizli Mimari Harikası

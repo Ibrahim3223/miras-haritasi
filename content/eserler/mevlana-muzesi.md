@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.50472222,37.87055556"
 draft: false
+
+weight: 10
 ---
 
 ## Mevlana Müzesi

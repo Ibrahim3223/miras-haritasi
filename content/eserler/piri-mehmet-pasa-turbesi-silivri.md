@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.2457,41.0734"
 draft: false
+
+weight: 100
 ---
 
 ## Piri Mehmet Paşa Türbesi, Silivri

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.224555555,40.550194444"
 draft: false
+
+weight: 100
 ---
 
 # Pertusi Kilisesi: Geçmişin Gizemi ve Zümrüt'te Yankıları

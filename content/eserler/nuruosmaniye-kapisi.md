@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.969902,41.010086"
 draft: false
+
+weight: 100
 ---
 
 ## Nuruosmaniye Kapısı

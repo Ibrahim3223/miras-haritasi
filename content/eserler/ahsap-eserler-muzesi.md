@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.52527778,39.76277778"
 draft: false
+
+weight: 10
 ---
 
 ## Ahşap Eserler Müzesi

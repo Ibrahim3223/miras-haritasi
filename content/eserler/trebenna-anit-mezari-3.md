@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.4778118,36.8639107"
 draft: false
+
+weight: 100
 ---
 
 ## Trebenna Anıt Mezarı 3: Antalya'nın Gizli Çekegiti

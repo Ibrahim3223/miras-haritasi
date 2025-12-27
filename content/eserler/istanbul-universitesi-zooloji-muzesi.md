@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.963611,41.013333"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Üniversitesi Zooloji Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.5427513,38.6287956"
 draft: false
+
+weight: 100
 ---
 
 ## Korucutepe Höyüğü: Elazığ'ın Eski Yerleşimi

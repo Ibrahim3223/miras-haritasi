@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.4745073,36.3960806"
 draft: false
+
+weight: 10
 ---
 
 ## Olympos Köprüsü: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Keşfedin

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.5757504,37.7854004"
 draft: false
+
+weight: 100
 ---
 
 ### Aydın Bey Türbesi, Karacasu

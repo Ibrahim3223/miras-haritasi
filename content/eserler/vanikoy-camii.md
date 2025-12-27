@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.055222222,41.064111111"
 draft: false
+
+weight: 10
 ---
 
 ## Vaniköy Camii

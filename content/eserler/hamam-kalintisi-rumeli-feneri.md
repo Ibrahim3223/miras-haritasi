@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.1114941,41.2334442"
 draft: false
+
+weight: 100
 ---
 
 ## Rumeli Feneri Hamam Kalıntısı

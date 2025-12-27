@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.022667,40.99157"
 draft: false
+
+weight: 100
 ---
 
 ## Başöğretmen Atatürk Anıtı

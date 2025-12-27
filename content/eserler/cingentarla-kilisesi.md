@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.9774742,39.4151688"
 draft: false
+
+weight: 100
 ---
 
 ## Çingentarla Kilisesi: Burhaniye'nin Tarihî Cenneti

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.750818,38.669218"
 draft: false
+
+weight: 10
 ---
 
 # Foça Kalesi: Tarih ve Kültür Mirasının Parçaları

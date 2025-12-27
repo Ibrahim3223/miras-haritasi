@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.945261,41.035816"
 draft: false
+
+weight: 10
 ---
 
 ## Ayvansaray Panayia Balino Kilisesi

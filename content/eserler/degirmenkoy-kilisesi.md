@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.617363,39.6312943"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmenköy Kilisesi: Erzincan'ın Eski Bir Kültürel Mirası

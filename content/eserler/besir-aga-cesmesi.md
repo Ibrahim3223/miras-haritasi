@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0808086,40.1809654"
 draft: false
+
+weight: 10
 ---
 
 # Beşir Ağa Çeşmesi

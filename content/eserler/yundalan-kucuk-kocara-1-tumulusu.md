@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3431454,41.7542992"
 draft: false
+
+weight: 100
 ---
 
 ## Yündalan Küçük Koçara 1 Tümülüsü

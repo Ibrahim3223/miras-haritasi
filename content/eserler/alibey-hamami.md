@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1165009,38.4583893"
 draft: false
+
+weight: 10
 ---
 
 ## Alibey Hamamı: İzmir'in Tarihi ve Kültürel Mirası

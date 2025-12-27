@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.218019,37.709368"
 draft: false
+
+weight: 100
 ---
 
 ## Melia (İyonya)

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.3548,36.299"
 draft: false
+
+weight: 100
 ---
 
 ### Gagae Arkeolojik Sit

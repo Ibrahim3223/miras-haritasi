@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935419,41.030178"
 draft: false
+
+weight: 10
 ---
 
 ## Edirne Kapısı: Karagümrük'te Bir Anıtın Gizemi

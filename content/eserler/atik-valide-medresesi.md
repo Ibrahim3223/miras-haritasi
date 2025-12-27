@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0233308,41.0191493"
 draft: false
+
+weight: 100
 ---
 
 ### Atik Valide Medresesi

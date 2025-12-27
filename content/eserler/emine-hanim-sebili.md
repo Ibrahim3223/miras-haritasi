@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9283237,41.0033073"
 draft: false
+
+weight: 100
 ---
 
 ## Emine Hanım Sebili: Fatih'te Bir Çeşmenin Tarihi ve Özellikleri

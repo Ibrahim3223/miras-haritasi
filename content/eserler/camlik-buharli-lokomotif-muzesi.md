@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.3806,37.8852"
 draft: false
+
+weight: 10
 ---
 
 ## Çamlık Buharlı Lokomotif Müzesi

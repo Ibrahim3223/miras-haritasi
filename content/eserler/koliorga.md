@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.202725,37.349625"
 draft: false
+
+weight: 100
 ---
 
 ## Koliorga: Türkiye'nin Gizli Zirvesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.612975713,40.980618776"
 draft: false
+
+weight: 100
 ---
 
 ### Güneysu Betonarme Kemer Köprü

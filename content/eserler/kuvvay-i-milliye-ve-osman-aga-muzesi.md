@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.384448,40.917513"
 draft: false
+
+weight: 100
 ---
 
 ## Kuvvay-i Milliye Ve Osman Ağa Müzesi

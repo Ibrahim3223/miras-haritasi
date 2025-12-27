@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.681271,39.97911"
 draft: false
+
+weight: 100
 ---
 
 ## Pasinler Kalesi: Erzurum'un Klasik Çağlı Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.9572945,40.5491028"
 draft: false
+
+weight: 100
 ---
 
 ## Maraz Hatça Çeşmesi

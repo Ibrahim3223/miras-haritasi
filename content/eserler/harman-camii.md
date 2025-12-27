@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.5614891,38.6820793"
 draft: false
+
+weight: 100
 ---
 
 ### Harman Camii

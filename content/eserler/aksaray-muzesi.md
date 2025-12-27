@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "33.993611111,38.361111111"
 draft: false
+
+weight: 10
 ---
 
 ### Aksaray Müzesi: Türkiye'nin Kültür Mirası

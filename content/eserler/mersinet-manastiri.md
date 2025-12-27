@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "27.508997,37.4787636"
 draft: false
+
+weight: 100
 ---
 
 ## Mersinet Manastırı

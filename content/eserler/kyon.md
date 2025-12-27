@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.460502,37.411146"
 draft: false
+
+weight: 100
 ---
 
 ### Kyon Arkeolojik Sit

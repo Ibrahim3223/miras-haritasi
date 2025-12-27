@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.238,37.9108"
 draft: false
+
+weight: 10
 ---
 
 ## Mar Petyun Keldani Kilisesi

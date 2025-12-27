@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.3298111,37.5131645"
 draft: false
+
+weight: 100
 ---
 
 ## Yassıhöyük Eski Cami

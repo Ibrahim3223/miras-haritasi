@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.9338779,41.6261253"
 draft: false
+
+weight: 100
 ---
 
 ## Kömürköy Osmançe Kalesi

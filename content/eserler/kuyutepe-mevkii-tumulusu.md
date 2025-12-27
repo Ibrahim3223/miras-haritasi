@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0011463,38.6818542"
 draft: false
+
+weight: 100
 ---
 
 ## Kuyutepe Mevkii Tümülüsü: Manisa'da Bir Antik Kültür Mirası

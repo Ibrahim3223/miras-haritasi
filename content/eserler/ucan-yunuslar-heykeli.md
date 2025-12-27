@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.103722222,38.451222222"
 draft: false
+
+weight: 10
 ---
 
 # Uçan Yunuslar Heykeli: Karşıyaka'nın Simgesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.63295,39.58831"
 draft: false
+
+weight: 100
 ---
 
 ## Hadriania (Misya)

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.7434883,38.3054314"
 draft: false
+
+weight: 100
 ---
 
 ### Habib-i Acem Türbesi, Çivril

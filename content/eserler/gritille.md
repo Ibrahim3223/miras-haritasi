@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.579479319,37.574464703"
 draft: false
+
+weight: 100
 ---
 
 ## Gritille: Tarihin Eseri

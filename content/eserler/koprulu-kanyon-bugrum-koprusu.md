@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.179205,37.187553"
 draft: false
+
+weight: 100
 ---
 
 ## Köprülü Kanyon Büğrüm Köprüsü

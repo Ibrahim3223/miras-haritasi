@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9749107,39.4250107"
 draft: false
+
+weight: 100
 ---
 
 ## Fuat Paşa Çeşmesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.4079323,38.6820183"
 draft: false
+
+weight: 100
 ---
 
 ## Kurşunlu Camii: Uşak'ın Tarihi Bir Mirası

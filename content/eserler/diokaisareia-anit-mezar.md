@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.9329338,36.5736008"
 draft: false
+
+weight: 100
 ---
 
 ## Diokaisareia Anıt Mezarı

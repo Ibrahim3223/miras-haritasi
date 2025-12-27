@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.4060822,38.3602638"
 draft: false
+
+weight: 10
 ---
 
 ### Hafız Hatip Ali Camii

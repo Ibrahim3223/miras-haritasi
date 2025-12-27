@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "36.165844,36.5800934"
 draft: false
+
+weight: 100
 ---
 
 ## Mar Circos Ortodoks Kilisesi

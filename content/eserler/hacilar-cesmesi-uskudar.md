@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0304489,41.0098305"
 draft: false
+
+weight: 100
 ---
 
 ## Hacılar Çeşmesi, Üsküdar

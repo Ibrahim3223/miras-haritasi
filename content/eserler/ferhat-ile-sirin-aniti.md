@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8119,40.6325"
 draft: false
+
+weight: 10
 ---
 
 ## Ferhat ile Şirin Anıtı: Amasya'nın Efsanevi Kahramanı

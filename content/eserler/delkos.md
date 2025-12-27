@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.6766806,41.3381803"
 draft: false
+
+weight: 100
 ---
 
 ### Delkos: Antik Çağın Gizemi

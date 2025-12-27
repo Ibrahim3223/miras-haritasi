@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.554883,40.988033"
 draft: false
+
+weight: 100
 ---
 
 ### Dörtyol Camidağı Köprüsü: Rize'nin Eski Zanaatkarlığının Mirası

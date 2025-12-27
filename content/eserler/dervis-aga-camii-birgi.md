@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.0642128,38.2533646"
 draft: false
+
+weight: 100
 ---
 
 ## Derviş Ağa Camii: Bir Ödemiş Efsanesi

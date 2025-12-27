@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.926758,41.007065"
 draft: false
+
+weight: 10
 ---
 
 ### Saliha Sultan Çeşmesi: Seyyid Ömer'in Özbekler için Yaptığı İlginci Örnek

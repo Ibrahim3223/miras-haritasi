@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.9907856,41.0641403"
 draft: false
+
+weight: 100
 ---
 
 ## Metamorfosis Rum Ortodoks Mezarlık Kilisesi

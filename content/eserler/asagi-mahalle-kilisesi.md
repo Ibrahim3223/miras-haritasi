@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.14507,40.456353"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Mahalle Kilisesi: Torul'da Bir Tarihi İmaj

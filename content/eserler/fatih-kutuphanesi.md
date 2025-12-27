@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.9500313,41.0192108"
 draft: false
+
+weight: 10
 ---
 
 ## Fatih Kütüphanesi: İstanbul'un Kültürel Mirası

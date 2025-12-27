@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.935732,41.046104"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Vusuli Efendi Türbesi

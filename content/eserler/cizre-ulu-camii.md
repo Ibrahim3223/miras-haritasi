@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "42.19125,37.321555555"
 draft: false
+
+weight: 10
 ---
 
 ## Cizre Ulu Camii: Şırnak'ın Tarihi ve Kültürel Mirası

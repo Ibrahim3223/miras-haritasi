@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.4332905,38.6092758"
 draft: false
+
+weight: 100
 ---
 
 # Göktaşlı Camii

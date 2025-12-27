@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.386266,41.105749"
 draft: false
+
+weight: 100
 ---
 
 ## Ameletos Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.6961594,39.3187027"
 draft: false
+
+weight: 100
 ---
 
 ### Mareşal Fevzi Çakmak Caddesi 5. Sokak Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.73706,37.907299"
 draft: false
+
+weight: 100
 ---
 
 # Syneta (Karya): Antik Çağın Gizemi

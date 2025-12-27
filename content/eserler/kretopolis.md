@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.321707,37.374984"
 draft: false
+
+weight: 100
 ---
 
 ### Kretopolis

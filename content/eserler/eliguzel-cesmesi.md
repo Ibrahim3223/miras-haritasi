@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.7713318,41.3736305"
 draft: false
+
+weight: 100
 ---
 
 ## Eligüzel Çeşmesi

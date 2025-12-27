@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.963342,41.005736"
 draft: false
+
+weight: 10
 ---
 
 ## Hüsmen Ağa Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "25.9049149,40.1914253"
 draft: false
+
+weight: 100
 ---
 
 ### Hanife Kadın Çamaşırhanesi ve Çeşmesi

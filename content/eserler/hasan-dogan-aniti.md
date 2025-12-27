@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.016231,41.028494"
 draft: false
+
+weight: 100
 ---
 
 ## Hasan Doğan Anıtı

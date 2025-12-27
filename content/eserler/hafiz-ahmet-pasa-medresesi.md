@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.947366,41.021867"
 draft: false
+
+weight: 100
 ---
 
 ## Hafız Ahmet Paşa Medresesi

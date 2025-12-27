@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.06127,41.171875"
 draft: false
+
+weight: 100
 ---
 
 ## İoannis Prodromos Rum Kilisesi

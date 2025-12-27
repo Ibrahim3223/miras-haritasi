@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.7088227,38.92689"
 draft: false
+
+weight: 100
 ---
 
 ## Hacıbayram Höyük: Tarihî Bir Anıtın Gizemi

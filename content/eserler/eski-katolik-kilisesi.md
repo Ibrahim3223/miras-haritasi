@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.391045,40.917533"
 draft: false
+
+weight: 100
 ---
 
 ## Eski Katolik Kilisesi: Giresun'un Tarihî Bir Mirası

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.3135929,37.6258659"
 draft: false
+
+weight: 100
 ---
 
 ## Köprü 5, Altıntaş

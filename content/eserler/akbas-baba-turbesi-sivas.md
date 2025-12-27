@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.0253716,39.7485313"
 draft: false
+
+weight: 100
 ---
 
 ## Akbaş Baba Türbesi Sivas

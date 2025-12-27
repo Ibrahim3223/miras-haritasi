@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1329708,38.4160156"
 draft: false
+
+weight: 100
 ---
 
 ## Esnaf Şeyh Camii Çeşmesi: İzmir'in Tarihî ve Kültürel Mirası

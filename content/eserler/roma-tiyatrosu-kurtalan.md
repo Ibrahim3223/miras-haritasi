@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.3849144,37.977951"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Tiyatrosu, Kurtalan

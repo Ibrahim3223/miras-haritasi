@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.172481849,36.34293947"
 draft: false
+
+weight: 100
 ---
 
 ## Limyra Xaterebra Anıt Mezarı

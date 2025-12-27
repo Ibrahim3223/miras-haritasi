@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.6620023,36.2423955"
 draft: false
+
+weight: 10
 ---
 
 ## Phellos Arkeolojik Sit

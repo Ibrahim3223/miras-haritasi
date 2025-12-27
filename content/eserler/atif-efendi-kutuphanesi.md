@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "28.959963888,41.017155555"
 draft: false
+
+weight: 10
 ---
 
 ## Atıf Efendi Kütüphanesi

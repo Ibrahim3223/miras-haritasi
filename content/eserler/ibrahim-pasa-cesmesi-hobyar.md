@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.974041,41.0130959"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Paşa Çeşmesi

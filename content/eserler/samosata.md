@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.481316666,37.57955"
 draft: false
+
+weight: 10
 ---
 
 ## Samosata Arkeolojik Sit

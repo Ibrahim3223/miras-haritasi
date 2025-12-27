@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.496666666,37.871944444"
 draft: false
+
+weight: 10
 ---
 
 ## İplikçi Camii: Konya'nın Tarihi ve Kültürel Mirası

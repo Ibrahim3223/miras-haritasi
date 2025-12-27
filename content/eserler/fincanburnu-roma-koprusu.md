@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.3605042,39.1615257"
 draft: false
+
+weight: 100
 ---
 
 ## Fincanburnu Roma Köprüsü: Tarih ve Güzellik

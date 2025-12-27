@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.754432,41.203417"
 draft: false
+
+weight: 100
 ---
 
 ## Gazi Turhan Bey Türbesi

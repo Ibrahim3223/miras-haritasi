@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.79054,40.279002"
 draft: false
+
+weight: 100
 ---
 
 ## Köprühisar Höyük

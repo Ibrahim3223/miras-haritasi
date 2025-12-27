@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.4107155,37.463255"
 draft: false
+
+weight: 100
 ---
 
 ## Kolbasa Arkeolojik Sit

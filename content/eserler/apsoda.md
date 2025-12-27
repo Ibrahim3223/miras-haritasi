@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.745892,40.214551"
 draft: false
+
+weight: 100
 ---
 
 ## Apsoda: Tarihî Bir Mirasın Gizemi

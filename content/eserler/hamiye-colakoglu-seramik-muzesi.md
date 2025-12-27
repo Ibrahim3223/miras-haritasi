@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.730901,39.891782"
 draft: false
+
+weight: 10
 ---
 
 ## Hamiye Çolakoğlu Seramik Müzesi

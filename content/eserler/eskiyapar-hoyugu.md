@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.773056,40.158056"
 draft: false
+
+weight: 10
 ---
 
 ## Eskiyapar Höyüğü: Çorum'un Tarihî Bir Mirası

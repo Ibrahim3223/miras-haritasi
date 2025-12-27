@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.4386584,38.9593483"
 draft: false
+
+weight: 100
 ---
 
 ## Hırka Höyüğü: Kayseri'nin Gizli Anıtı

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.55908956,40.307088955"
 draft: false
+
+weight: 100
 ---
 
 **Gazi Osman Paşa Müzesi**

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.949225,41.0206544"
 draft: false
+
+weight: 100
 ---
 
 ## Boyacı Kapısı Çeşmesi

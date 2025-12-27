@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "26.358849,40.236796"
 draft: false
+
+weight: 100
 ---
 
 ## Bigalı Köyü Atatürk Karargah Müzesi

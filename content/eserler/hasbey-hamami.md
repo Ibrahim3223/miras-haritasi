@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.421229,37.8527003"
 draft: false
+
+weight: 100
 ---
 
 ### Hasbey Hamamı

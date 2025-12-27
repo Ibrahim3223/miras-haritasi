@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.748047534,37.313736004"
 draft: false
+
+weight: 100
 ---
 
 ### Şeyh İmameddin Türbesi: Mardin'in Gizli Çehresi

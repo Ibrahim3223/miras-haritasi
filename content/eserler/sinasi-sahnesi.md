@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.8595,39.903916666"
 draft: false
+
+weight: 10
 ---
 
 ## Şinasi Sahnesi: Ankara'nın Tarihî Tiyatro Mirası

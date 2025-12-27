@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "42.5082512,39.9912605"
 draft: false
+
+weight: 100
 ---
 
 # Aşağı Iğırbığır Kalesi: Tarihi ve Kültürel Mirası

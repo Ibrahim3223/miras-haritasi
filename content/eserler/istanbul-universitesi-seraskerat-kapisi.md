@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9642086,41.010994"
 draft: false
+
+weight: 10
 ---
 
 ## İstanbul Üniversitesi Seraskerat Kapısı

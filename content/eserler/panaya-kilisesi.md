@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "26.661555555,39.336"
 draft: false
+
+weight: 10
 ---
 
 ## Panaya Kilisesi

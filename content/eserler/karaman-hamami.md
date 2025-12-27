@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9478264,41.0206299"
 draft: false
+
+weight: 100
 ---
 
 ## Karaman Hamamı: İstanbul'un Gizli Cenneti

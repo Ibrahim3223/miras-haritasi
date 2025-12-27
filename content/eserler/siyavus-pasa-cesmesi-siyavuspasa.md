@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.8520317,41.0009842"
 draft: false
+
+weight: 10
 ---
 
 ### Siyavuş Paşa Çeşmesi

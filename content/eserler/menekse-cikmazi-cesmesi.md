@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.18224444,39.12519167"
 draft: false
+
+weight: 10
 ---
 
 ## Menekşe Çıkmazı Çeşmesi

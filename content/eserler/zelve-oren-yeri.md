@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.86416667,38.66916667"
 draft: false
+
+weight: 10
 ---
 
 # Zelve Ören Yeri: Tarihi ve Kültürel Bir Miras

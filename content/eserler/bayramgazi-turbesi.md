@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.0393028,41.9266891"
 draft: false
+
+weight: 100
 ---
 
 ## Bayramgazi Türbesi: Kastamonu'nun Gizli Hazineleri

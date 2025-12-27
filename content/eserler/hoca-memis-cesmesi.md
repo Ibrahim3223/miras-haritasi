@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.304206053,38.32026291"
 draft: false
+
+weight: 100
 ---
 
 # Hoca Memiş Çeşmesi

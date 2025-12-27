@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972051,41.003212"
 draft: false
+
+weight: 10
 ---
 
 **Mehmet Efendi Çeşmesi: Küçük Ayasofya'nın Gizli Çeşmesi**

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.033333333,40.983333333"
 draft: false
+
+weight: 100
 ---
 
 ## Kalkedon: Kadıköy'ün Tarihi ve Kültürel Mirası

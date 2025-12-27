@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "27.1842,39.1325"
 draft: false
+
+weight: 10
 ---
 
 ## Bergama Kütüphanesi

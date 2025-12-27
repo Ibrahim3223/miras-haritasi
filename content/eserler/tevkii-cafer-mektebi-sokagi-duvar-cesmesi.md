@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9487057,41.0300865"
 draft: false
+
+weight: 10
 ---
 
 ## Tevkii Cafer Mektebi Sokağı Duvar Çeşmesi

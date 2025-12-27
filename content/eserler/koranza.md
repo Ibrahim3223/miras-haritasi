@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.0295486,37.384552"
 draft: false
+
+weight: 100
 ---
 
 ### Koranza Arkeolojik Sit

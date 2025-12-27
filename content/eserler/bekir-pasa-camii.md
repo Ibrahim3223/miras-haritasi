@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9369373,41.0084305"
 draft: false
+
+weight: 100
 ---
 
 ## Bekir Paşa Camii: Fatih'teki Gizli Çan Kulesi

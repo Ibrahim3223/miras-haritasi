@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.0006008,37.8698006"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşilyayla Tümülüsü: Merkezefendi'nin Gizli Anıtı

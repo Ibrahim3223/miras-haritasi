@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.032336566,39.960194971"
 draft: false
+
+weight: 100
 ---
 
 **Çeşme, Gökçeyurt: Ankara'nın Gizli Çeşme Öreni**

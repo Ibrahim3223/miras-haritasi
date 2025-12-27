@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.94944,41.022465"
 draft: false
+
+weight: 100
 ---
 
 ## Abdülhalim Medresesi: Fatih'in Gizli Çeşmesi

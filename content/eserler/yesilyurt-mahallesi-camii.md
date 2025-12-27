@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.552774154,40.77605664"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşilyurt Mahallesi Camii: İkizdere'nin Gizli Çeşmesi

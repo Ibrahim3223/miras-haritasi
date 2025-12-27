@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.2459297,39.9460487"
 draft: false
+
+weight: 100
 ---
 
 ## Paşatepe Tümülüsü

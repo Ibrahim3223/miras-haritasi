@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.36805556,37.95555556"
 draft: false
+
+weight: 10
 ---
 
 ### Ayasuluk Kalesi: Tarihî Bir Mirasın Gizemi

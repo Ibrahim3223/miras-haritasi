@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.9805412,39.4159698"
 draft: false
+
+weight: 100
 ---
 
 ## Hatuniye Camii, Kütahya

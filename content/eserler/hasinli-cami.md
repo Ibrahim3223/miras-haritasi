@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4902267,38.7145462"
 draft: false
+
+weight: 100
 ---
 
 ## Hasinli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Miras

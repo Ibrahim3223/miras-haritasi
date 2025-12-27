@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5089149,40.9773026"
 draft: false
+
+weight: 100
 ---
 
 ## Tekke Sirozi Mustafa Ağa Çeşmesi: Aydoğdu'daki Değerli Çeşme

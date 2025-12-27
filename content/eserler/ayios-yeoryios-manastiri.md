@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "29.09879,40.871778"
 draft: false
+
+weight: 100
 ---
 
 ## Ayios Yeoryios Manastırı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.7757,40.705"
 draft: false
+
+weight: 100
 ---
 
 # Dağeteği Camii

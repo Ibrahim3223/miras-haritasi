@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.37525,38.283666666"
 draft: false
+
+weight: 10
 ---
 
 # Alaçatı Pazaryeri Camii

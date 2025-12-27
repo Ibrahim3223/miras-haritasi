@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.0817528,40.1877022"
 draft: false
+
+weight: 100
 ---
 
 # Yıldırım Bayezid Medresesi

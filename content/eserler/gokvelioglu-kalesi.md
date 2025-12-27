@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.60833333,36.84472222"
 draft: false
+
+weight: 10
 ---
 
 ### Gökvelioğlu Kalesi: Adana'nın Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.466995,40.907132"
 draft: false
+
+weight: 100
 ---
 
 ## Panion Arkeolojik Sit

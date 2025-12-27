@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.197337913,41.748861503"
 draft: false
+
+weight: 100
 ---
 
 **Niğdeli Şehit Ethem Onbaşı Anıtı**

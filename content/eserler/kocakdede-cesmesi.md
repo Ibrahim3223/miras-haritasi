@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "33.221283,37.1776161"
 draft: false
+
+weight: 100
 ---
 
 ## Koçakdede Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirası

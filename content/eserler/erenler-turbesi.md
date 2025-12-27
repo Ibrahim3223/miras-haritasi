@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.054697,37.7532768"
 draft: false
+
+weight: 100
 ---
 
 ### Erenler Türbesi: Merkezefendi'nin Gizli Çağı

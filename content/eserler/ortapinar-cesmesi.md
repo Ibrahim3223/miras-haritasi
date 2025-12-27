@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.2883072,39.786972"
 draft: false
+
+weight: 100
 ---
 
 ## Ortapınar Çeşmesi: Sincan'ın Tarihi Parıltısı

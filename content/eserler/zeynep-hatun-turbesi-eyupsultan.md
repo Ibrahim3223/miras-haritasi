@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.932143177,41.055059504"
 draft: false
+
+weight: 100
 ---
 
 ## Zeynep Hatun Türbesi, Eyüpsultan

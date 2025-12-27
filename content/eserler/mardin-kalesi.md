@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.7383929,37.3154406"
 draft: false
+
+weight: 10
 ---
 
 ## Mardin Kalesi

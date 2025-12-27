@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.508856409,38.848645376"
 draft: false
+
+weight: 100
 ---
 
 ## Yazır Köyü Camii: Kayseri'nin Gizli Çarı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.1332378,41.1505737"
 draft: false
+
+weight: 10
 ---
 
 ## II. Mahmut Çeşmesi, Dereseki

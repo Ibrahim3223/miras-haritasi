@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.938978,41.032721"
 draft: false
+
+weight: 10
 ---
 
 ## Berberbaşı Ali Ağa Çeşmesi

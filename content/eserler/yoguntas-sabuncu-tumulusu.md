@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.0226421,41.8046913"
 draft: false
+
+weight: 100
 ---
 
 ### Yoğuntaş Sabuncu Tümülüsü

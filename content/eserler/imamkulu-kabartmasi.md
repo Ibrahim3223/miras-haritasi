@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.92916667,38.24611111"
 draft: false
+
+weight: 10
 ---
 
 # İmamkulu Kabartması

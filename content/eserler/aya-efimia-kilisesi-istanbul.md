@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0250907,40.9907767"
 draft: false
+
+weight: 10
 ---
 
 ## Aya Efimia Kilisesi: Kadıköy'ün Gizli Çehresi

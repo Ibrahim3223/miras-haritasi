@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.3271065,38.120945"
 draft: false
+
+weight: 100
 ---
 
 ## Sultanhamit Camii Çeşmesi

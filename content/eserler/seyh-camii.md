@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.365888888,37.218111111"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyh Camii: Muğla'nın Tarihi Bir Mirası

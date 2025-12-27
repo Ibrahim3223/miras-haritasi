@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.182623531,39.922442591"
 draft: false
+
+weight: 100
 ---
 
 ### Surp Minas Kilisesi: Aziziye'nin Yüce Anıtı

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.120551433,37.239226765"
 draft: false
+
+weight: 100
 ---
 
 **Merkez Camii (Ahırlı)**

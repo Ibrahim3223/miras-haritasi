@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.3540039,37.5819168"
 draft: false
+
+weight: 100
 ---
 
 ### Lilabadi Höyük: Batman'ın Gizli Kahramanı

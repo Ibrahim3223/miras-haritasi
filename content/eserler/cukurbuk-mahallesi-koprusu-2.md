@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.156907,41.078407"
 draft: false
+
+weight: 100
 ---
 
 **Çukurbük Mahallesi Köprüsü 2**

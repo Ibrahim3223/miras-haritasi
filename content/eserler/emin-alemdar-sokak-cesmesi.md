@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.724102,41.0069695"
 draft: false
+
+weight: 100
 ---
 
 ## Emin Alemdar Sokak Çeşmesi

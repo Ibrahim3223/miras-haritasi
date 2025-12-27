@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5648,41.6824"
 draft: false
+
+weight: 10
 ---
 
 ## Muradiye Camii: Edirne'nin Değerli Mirası

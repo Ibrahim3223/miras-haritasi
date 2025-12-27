@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9399319,41.0353508"
 draft: false
+
+weight: 100
 ---
 
 ## Avcı Başı Mehmet Bey Kabri

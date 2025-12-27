@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.4694405,41.8406601"
 draft: false
+
+weight: 100
 ---
 
 ### Çukurpınar Meşelitepe B Tümülüsü

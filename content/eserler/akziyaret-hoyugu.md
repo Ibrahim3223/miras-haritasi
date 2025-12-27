@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.507599474,37.190931838"
 draft: false
+
+weight: 100
 ---
 
 ## Akziyaret Höyüğü: Mardin'in Gizli Kahramanı

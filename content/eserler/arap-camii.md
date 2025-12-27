@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.97083333,41.02444444"
 draft: false
+
+weight: 10
 ---
 
 ### Arap Camii: İstanbul'un Gizli Ceziresi

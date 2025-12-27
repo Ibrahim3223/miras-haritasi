@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.4130394,39.0422656"
 draft: false
+
+weight: 100
 ---
 
 ## Eskigediz Gazanfer Ağa Hamamı

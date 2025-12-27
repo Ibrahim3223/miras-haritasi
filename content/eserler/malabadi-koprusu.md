@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.20373,38.15348"
 draft: false
+
+weight: 10
 ---
 
 ### Malabadi Köprüsü

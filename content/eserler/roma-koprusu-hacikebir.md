@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.675359,39.2371003"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Hacıkebir

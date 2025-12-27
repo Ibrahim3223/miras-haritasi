@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.3471433,41.408078"
 draft: false
+
+weight: 10
 ---
 
 ## Lüleburgaz Kalesi: Tarihî İnsanların İzlerini Taşıyan Bir Kale

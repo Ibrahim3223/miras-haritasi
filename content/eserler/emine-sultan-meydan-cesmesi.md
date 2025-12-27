@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.927777777,41.014777777"
 draft: false
+
+weight: 10
 ---
 
 **Emine Sultan Meydan Çeşmesi**

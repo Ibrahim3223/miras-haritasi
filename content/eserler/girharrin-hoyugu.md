@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.7842755,37.2254249"
 draft: false
+
+weight: 100
 ---
 
 ## Girharrin Höyüğü: Mardin'in Gizli Anıtı

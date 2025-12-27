@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.601388888,36.781388888"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Arkeoloji Müzesi

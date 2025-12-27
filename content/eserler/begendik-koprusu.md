@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "42.649166666,37.964722222"
 draft: false
+
+weight: 100
 ---
 
 ### Beğendik Köprüsü: Pervari'nin Tarihi bir Kalesi

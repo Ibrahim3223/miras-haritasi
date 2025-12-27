@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "36.3672,41.2733"
 draft: false
+
+weight: 10
 ---
 
 ## Bandırma Vapuru: Tarihinin ve Eğlencenin Bir Kombinasyonu

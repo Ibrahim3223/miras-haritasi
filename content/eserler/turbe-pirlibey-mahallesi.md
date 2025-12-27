@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.4371471,37.8681297"
 draft: false
+
+weight: 100
 ---
 
 ## Türbe (Pirlibey Mahallesi)

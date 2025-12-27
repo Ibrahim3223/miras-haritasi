@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.974127684,41.036238186"
 draft: false
+
+weight: 10
 ---
 
 # Beyoğlu Aynalıçeşme Protestan Kilisesi

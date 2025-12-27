@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.6022263,40.730217"
 draft: false
+
+weight: 100
 ---
 
 ## Tabaklar Camii: Bolu'nin Tarihi ve Kültürel Mirası

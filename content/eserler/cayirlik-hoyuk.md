@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.2093228,39.3364633"
 draft: false
+
+weight: 100
 ---
 
 ## Çayırlık Höyük: Boğazlıyan'ın Gizli Anıtı

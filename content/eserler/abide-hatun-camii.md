@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.496222776,40.878282492"
 draft: false
+
+weight: 10
 ---
 
 ## Abide Hatun Camii: Merzifon'un Şehvetinin Kalbinin Sesi

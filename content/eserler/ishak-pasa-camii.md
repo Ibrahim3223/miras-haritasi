@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.5120296,40.0784683"
 draft: false
+
+weight: 100
 ---
 
 ## İshak Paşa Camii

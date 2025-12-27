@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.206111111,36.993055555"
 draft: false
+
+weight: 100
 ---
 
 ## Sedir Adası: Muğla'nın Yemyeşil Şöleni

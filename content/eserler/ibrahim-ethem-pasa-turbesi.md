@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0161532,41.0269846"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Ethem Paşa Türbesi

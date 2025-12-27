@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.0605583,38.3296776"
 draft: false
+
+weight: 100
 ---
 
 ## Zengibar Kalesi: Yeşilhisar'ın Tarihî Mirası

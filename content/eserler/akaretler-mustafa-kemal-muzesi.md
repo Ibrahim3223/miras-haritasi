@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0022907,41.0423012"
 draft: false
+
+weight: 100
 ---
 
 **Akaretler Mustafa Kemal Müzesi**

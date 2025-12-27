@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.585754,40.765806"
 draft: false
+
+weight: 100
 ---
 
 ### Demirkapı Köyü Camii

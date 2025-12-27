@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.92916667,36.12277778"
 draft: false
+
+weight: 10
 ---
 
 ### Titus Tüneli: Hatay'ın Tarihî Bir Anıtı

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.5403824,38.7540321"
 draft: false
+
+weight: 100
 ---
 
 ## İmaret Hamamı

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.954356,41.007861"
 draft: false
+
+weight: 100
 ---
 
 ## Kızlar Ağası Hamamı: İstanbul'un Gizli Çeşmesi

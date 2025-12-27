@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.14761,39.967991"
 draft: false
+
+weight: 100
 ---
 
 # Karaz Köprüsü: Aziziye'nin Tarihi Bir Mirası

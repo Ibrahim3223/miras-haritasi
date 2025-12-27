@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.0599461,36.5126534"
 draft: false
+
+weight: 100
 ---
 
 ### Arykanda Küçük Hamamı: Antik Dönemin Gizli Harikası

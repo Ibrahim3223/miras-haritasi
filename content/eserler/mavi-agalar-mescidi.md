@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8633614,39.9353523"
 draft: false
+
+weight: 100
 ---
 
 ## Mavi Ağalar Mescidi: Ankara'nın Tarihî Mirasının Değerli Bir Parçası

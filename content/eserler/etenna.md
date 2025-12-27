@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.44916667,37.00166667"
 draft: false
+
+weight: 100
 ---
 
 ## Etenna Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.902939,39.158148"
 draft: false
+
+weight: 100
 ---
 
 ### Nebiler Ilıcası (Astyra) Tanıtımı

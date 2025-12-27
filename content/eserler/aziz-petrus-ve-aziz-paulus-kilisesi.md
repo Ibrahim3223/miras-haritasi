@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.7932892,37.1503296"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Petrus ve Aziz Paulus Kilisesi

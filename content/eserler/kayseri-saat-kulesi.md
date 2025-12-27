@@ -11,6 +11,8 @@ type: "Saat Kulesi"
 turler: ["Saat Kulesi"]
 coords: "35.48795,38.72227"
 draft: false
+
+weight: 10
 ---
 
 ## Kayseri Saat Kulesi: Tarih ve Kültür Mirasının Simgesi

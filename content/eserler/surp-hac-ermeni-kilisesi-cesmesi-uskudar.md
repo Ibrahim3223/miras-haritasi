@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0302048,41.0246124"
 draft: false
+
+weight: 100
 ---
 
 # Surp Haç Ermeni Kilisesi Çeşmesi, Üsküdar

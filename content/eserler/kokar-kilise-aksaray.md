@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.307889,38.2529284"
 draft: false
+
+weight: 10
 ---
 
 ### Kokar Kilisesi: Aksaray'ın Gizli Cenneti

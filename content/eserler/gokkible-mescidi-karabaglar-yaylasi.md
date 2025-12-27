@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.3882999,37.1851006"
 draft: false
+
+weight: 100
 ---
 
 ## Gökkıble Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti

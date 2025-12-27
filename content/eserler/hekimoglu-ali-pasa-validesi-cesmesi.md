@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.979616,41.003203"
 draft: false
+
+weight: 10
 ---
 
 ### Hekimoğlu Ali Paşa Validesi Çeşmesi

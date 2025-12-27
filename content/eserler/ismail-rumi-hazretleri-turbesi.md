@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9811192,41.0297432"
 draft: false
+
+weight: 100
 ---
 
 ## İsmail Rumi Hazretleri Türbesi

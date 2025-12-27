@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "36.9207611,40.5765648"
 draft: false
+
+weight: 100
 ---
 
 ## Hamidiye Köprüsü Kalıntısı

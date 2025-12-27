@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.567994,41.672831"
 draft: false
+
+weight: 10
 ---
 
 **Şeyh Çelebi Türbesi**

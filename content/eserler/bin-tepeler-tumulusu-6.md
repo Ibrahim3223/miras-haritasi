@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.987848,38.5756"
 draft: false
+
+weight: 100
 ---
 
 ### Bin Tepeler Tümülüsü 6: Manisa'nın Gizemi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.490345,38.1935921"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Bey Camii, Kozluk

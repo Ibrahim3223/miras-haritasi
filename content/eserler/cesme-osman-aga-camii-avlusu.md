@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0260468,40.9909706"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme, Osman Ağa Camii Avlusu

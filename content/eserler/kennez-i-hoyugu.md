@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.860771,38.846196"
 draft: false
+
+weight: 100
 ---
 
 ## Kennez I Höyüğü: Akhisar'ın Gizli Cenneti

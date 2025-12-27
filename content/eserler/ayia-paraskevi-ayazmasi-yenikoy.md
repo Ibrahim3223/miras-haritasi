@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0637646,41.1225395"
 draft: false
+
+weight: 100
 ---
 
 ### Ayia Paraskevi Ayazması, Yeniköy

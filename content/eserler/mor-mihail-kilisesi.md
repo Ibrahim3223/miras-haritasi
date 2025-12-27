@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.7332687,37.3076439"
 draft: false
+
+weight: 100
 ---
 
 ### Mor Mihail Kilisesi: Mardin'in Tarihi Cenneti

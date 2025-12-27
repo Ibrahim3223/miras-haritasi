@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "31.9784927,39.4139709"
 draft: false
+
+weight: 100
 ---
 
 ### Kavuncu Köprüsü

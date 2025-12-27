@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.371457,37.95151"
 draft: false
+
+weight: 100
 ---
 
 **Selçuk Hamamı: Tarihi ve Kültürel Miras**

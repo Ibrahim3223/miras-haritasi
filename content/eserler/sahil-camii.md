@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.5831947,41.9471474"
 draft: false
+
+weight: 100
 ---
 
 ### Sahil Camii - Sinop'un Tarihi Mirası

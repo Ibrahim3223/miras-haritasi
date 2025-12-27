@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.4981422,37.8710747"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Hasan Camii, Konya: Tarih, Mimarisi ve Kültür Mirası

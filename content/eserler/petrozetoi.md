@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.88112,40.89809"
 draft: false
+
+weight: 100
 ---
 
 ### Petrozetoi: Antik Kentin Gizemi

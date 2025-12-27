@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.903687,41.092071"
 draft: false
+
+weight: 100
 ---
 
 ## Asma Köprü, Borçka: Doğu Karadeniz'in Gizli Çeşmesi

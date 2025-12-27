@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.971733268,41.008282971"
 draft: false
+
+weight: 10
 ---
 
 ## Köprülü Camii
