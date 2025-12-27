@@ -2,25 +2,68 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LandmarksOrHistoricalBuildings",
+  "@type": ["TouristAttraction", "Place", "LandmarksOrHistoricalBuildings"],
   "name": "{{ .Title }}",
   "description": "{{ .Description }}",
-  "image": "{{ .Params.image }}",
+  "image": [
+    {{ with .Params.featured_image }}
+    "{{ . | absURL }}"
+    {{ end }}
+  ],
   "address": {
     "@type": "PostalAddress",
-    "addressLocality": "{{ .Params.district }}",
-    "addressRegion": "{{ .Params.province }}",
+    "addressLocality": "{{ .Params.province }}",
+    "addressRegion": "{{ .Params.district }}",
     "addressCountry": "TR"
   },
-  {{ if .Params.coords }}
-  {{ $coords := split .Params.coords "," }}
+  {{ with .Params.coords }}
+  {{ $latlng := split . "," }}
   "geo": {
     "@type": "GeoCoordinates",
-    "longitude": "{{ index $coords 0 }}",
-    "latitude": "{{ index $coords 1 }}"
+    "latitude": "{{ index $latlng 1 }}",
+    "longitude": "{{ index $latlng 0 }}"
+  },
+  {{ end }}
+  "touristType": "Culture and Heritage",
+  {{ if .Params.type }}
+  "additionalProperty": {
+    "@type": "PropertyValue",
+    "name": "Kategori",
+    "value": "{{ .Params.type }}"
   },
   {{ end }}
   "url": "{{ .Permalink }}"
+}
+</script>
+
+{{ if eq .Params.type "Müze" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Museum",
+  "name": "{{ .Title }}",
+  "image": "{{ .Params.featured_image | absURL }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.province }}",
+    "addressCountry": "TR"
+  }
+}
+</script>
+{{ end }}
+
+{{ if or (eq .Params.type "Cami") (eq .Params.type "Kilise") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PlaceOfWorship",
+  "name": "{{ .Title }}",
+  "image": "{{ .Params.featured_image | absURL }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.province }}",
+    "addressCountry": "TR"
+  }
 }
 </script>
 {{ end }}
@@ -33,23 +76,27 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "Anasayfa",
+      "name": "Ana Sayfa",
       "item": "{{ .Site.BaseURL }}"
-    }
-    {{ if .IsPage }}
-    ,{
+    },
+    {
       "@type": "ListItem",
       "position": 2,
       "name": "{{ .Params.province }}",
-      "item": "{{ .Site.BaseURL }}iller/{{ .Params.province | urlize }}"
+      "item": "{{ .Site.BaseURL }}iller/{{ .Params.province | urlize }}/"
     },
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "{{ .Title }}",
-      "item": "{{ .Permalink }}"
+      "name": "{{ .Params.type }}",
+      "item": "{{ .Site.BaseURL }}turler/{{ .Params.type | urlize }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "{{ .Title }}"
     }
-    {{ end }}
   ]
 }
 </script>
+{{ end }}

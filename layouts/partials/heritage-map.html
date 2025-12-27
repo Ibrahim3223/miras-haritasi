@@ -1,0 +1,20 @@
+{{ if .Params.coords }}
+<div id="map-container"
+    style="margin-bottom: 30px; border-radius: 12px; overflow: hidden; border: 1px solid var(--border);">
+    <div
+        style="background: #eee; height: 300px; display: flex; align-items: center; justify-content: center; text-align: center; padding: 20px;">
+        <div>
+            <p style="margin-bottom: 10px; color: var(--text-light);">Harita Yükleniyor...</p>
+            {{ $coords := split .Params.coords "," }}
+            {{ $lat := index $coords 1 }}
+            {{ $lon := index $coords 0 }}
+            <a href="https://www.google.com/maps/search/?api=1&query={{ $lat }},{{ $lon }}" target="_blank"
+                class="btn btn-primary">Google Maps'te Aç</a>
+        </div>
+    </div>
+    <!-- 
+      Google Maps Placeholder 
+      (User needs to provide API Key for interactive map)
+    -->
+</div>
+{{ end }}

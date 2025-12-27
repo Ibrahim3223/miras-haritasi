@@ -1,6 +1,21 @@
+<!-- Dynamic Title -->
+<title>
+    {{ if .IsHome }}
+    {{ .Site.Title }} | Türkiye'nin Kültürel Mirası (19.000+ Yapı)
+    {{ else if .Params.province }}
+    {{ .Title }} | {{ .Params.province }} Tarihi Yapılar - Miras Haritası
+    {{ else }}
+    {{ .Title }} | {{ .Site.Title }}
+    {{ end }}
+</title>
+
 <!-- Basic Meta -->
 <meta name="description"
-    content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}">
+    content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }} {{ .Title }}, {{ .Params.province }} ilinin {{ .Params.district }} ilçesinde bulunan tarihi bir {{ .Params.type }}. {{ .Summary | plainify | truncate 150 }}.. {{ end }}">
+
+<meta name="keywords"
+    content="{{ if .Params.province }}{{ .Params.province }} tarihi yerler, {{ .Params.province }} gezilecek yerler, {{ end }}{{ if .Params.type }}{{ .Params.type }} mimarisi, {{ end }}kültürel miras, {{ .Title }}">
+
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <link rel="canonical" href="{{ .Permalink }}">
 
@@ -11,9 +26,10 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}">
+<meta property="og:title"
+    content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Params.province }} - Miras Haritası{{ end }}">
 <meta property="og:description"
-    content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}">
+    content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Title }}, {{ .Params.province }} bölgesinde ziyaret edebileceğiniz önemli bir {{ .Params.type }} yapısıdır. Detaylı bilgi, harita ve fotoğraflar.{{ end }}">
 {{ if .Params.image }}
 <meta property="og:image" content="{{ .Params.image }}">{{ end }}
 <meta property="og:site_name" content="{{ .Site.Title }}">
