@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8709869,39.935215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yörük Dede Türbesi, Altındağ

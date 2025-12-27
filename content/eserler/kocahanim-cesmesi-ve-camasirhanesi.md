@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.7432995,38.3212013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocahanım Çeşmesi ve Çamaşırhanesi

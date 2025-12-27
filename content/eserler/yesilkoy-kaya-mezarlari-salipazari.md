@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.853417,41.064626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yeşilköy Kaya Mezarları Salıpazarı

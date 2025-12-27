@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9307251,41.0402603"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Murad-ı Münzavi Türbesi

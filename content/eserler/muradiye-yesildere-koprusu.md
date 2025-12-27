@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.54275,40.94975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muradiye Yeşildere Köprüsü

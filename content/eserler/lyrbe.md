@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.47344,36.87477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lyrbe: Antalya'nın Gizli Arkeolojik Harikası

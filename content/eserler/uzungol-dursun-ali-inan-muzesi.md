@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "40.303961111,40.617669444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzungöl Dursun Ali İnan Müzesi

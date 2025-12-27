@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.955965,41.016559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırkçeşmeler: Zeyrek'teki Büyüleyici Çeşme

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.717144,37.8254166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kavuşan Höyük: Bismil, Diyarbakır'daki Yaşlı Bir Miras

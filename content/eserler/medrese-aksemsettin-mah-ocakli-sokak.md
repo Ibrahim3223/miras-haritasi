@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.947404,41.018489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Medrese (Akşemsettin Mah. Ocaklı Sokak): Fatih'teki Bir Geçmişe Sahip Medrese

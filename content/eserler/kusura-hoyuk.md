@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.2242016,38.3654415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kusura Höyük: Sandıklı'da Eski Çağın Gizemi

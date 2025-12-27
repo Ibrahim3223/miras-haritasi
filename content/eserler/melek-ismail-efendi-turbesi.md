@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.441388,40.864973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Melek İsmail Efendi Türbesi

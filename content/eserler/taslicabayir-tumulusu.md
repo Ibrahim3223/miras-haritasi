@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.243206,41.674633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşlıcabayır Tümülüsü: Kırklareli'nin Gizli İhtişamı

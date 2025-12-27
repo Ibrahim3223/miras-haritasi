@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.066301,38.881219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tomara (Lidya)

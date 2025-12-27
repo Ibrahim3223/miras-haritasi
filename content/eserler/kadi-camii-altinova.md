@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.774157,39.222316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Camii: Altınova'nın Tarihi Bir Mirası

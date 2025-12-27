@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.8187371,37.8252495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üçpınar Höyük: Konya'nın Gizli İncisi

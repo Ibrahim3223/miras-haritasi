@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.121983422,38.676142091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Toptepe Tümülüsü

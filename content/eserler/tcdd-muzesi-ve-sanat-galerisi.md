@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.844721,39.935488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## TCDD Müzesi ve Sanat Galerisi

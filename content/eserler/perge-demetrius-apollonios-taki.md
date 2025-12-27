@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.8547974,36.9651222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Perge Demetrius Apollonios Takı

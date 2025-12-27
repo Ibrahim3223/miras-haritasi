@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.779620452,41.376412768"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saray Cami Sokak Çeşmesi: Kastamonu'nun Tarihi ve Kültür Mirası

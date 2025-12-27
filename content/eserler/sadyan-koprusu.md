@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.6213455,38.4146233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şadyan Köprüsü

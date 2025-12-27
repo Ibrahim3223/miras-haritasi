@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9675922,41.0086365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Merzifonlu Kara Mustafa Paşa Medresesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.423361,40.911546"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muhtar Bey Çeşmesi

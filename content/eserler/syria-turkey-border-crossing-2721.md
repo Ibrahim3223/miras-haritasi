@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "42.185165278,37.290408804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suriye - Türkiye Sınır Kapısı #2721: Bir Kervansarayın Gizli Tarihi

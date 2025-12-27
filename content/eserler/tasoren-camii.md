@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.263559,40.742285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşören Camii: Trabzon'un Tarihi ve Kültürel Mirası

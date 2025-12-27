@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.219666,40.26103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehid Osman Gazi Baba Türbesi

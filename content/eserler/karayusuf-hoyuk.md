@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.0034607,38.9654246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karayusuf Höyük: Avanos'un Gizli Tarihi

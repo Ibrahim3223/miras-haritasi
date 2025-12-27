@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.344094444,40.685566666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nihahi Kalesi

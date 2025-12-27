@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.918346,41.051889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nazım Bey Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.496367,37.862956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehmed Bahaeddin Nakşibendi Türbesi

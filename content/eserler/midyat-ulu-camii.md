@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.37325,37.414277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Midyat Ulu Camii: Tarih ve Kültürün Birleştiği Nokta

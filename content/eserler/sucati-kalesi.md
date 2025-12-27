@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.3503532,37.9738045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suçatı Kalesi

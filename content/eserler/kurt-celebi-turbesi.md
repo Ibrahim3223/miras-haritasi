@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.965485,41.033981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurt Çelebi Türbesi: İstanbul'un Eski Beyoğlu'nde Gizlenen Tarihi Bir Miras

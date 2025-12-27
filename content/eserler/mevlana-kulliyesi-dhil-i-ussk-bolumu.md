@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.5049095,37.8706398"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mevlana Külliyesi Dâhil-i Uşşâk Bölümü

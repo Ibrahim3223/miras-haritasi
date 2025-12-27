@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.4450836,38.762207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeldeğirmenitepe Tümülüsü

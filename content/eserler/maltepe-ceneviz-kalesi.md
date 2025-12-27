@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.1565361,40.9574509"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe Ceneviz Kalesi

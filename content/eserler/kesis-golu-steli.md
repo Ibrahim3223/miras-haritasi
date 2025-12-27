@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.62111111,38.53055556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keşiş Gölü Steli

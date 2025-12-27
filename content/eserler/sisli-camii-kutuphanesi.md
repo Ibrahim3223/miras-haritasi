@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9880829,41.0616417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şişli Camii Kütüphanesi

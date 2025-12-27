@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.53445,36.87392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sennea Arkeolojik Sit

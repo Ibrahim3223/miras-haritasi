@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3612995,37.2198982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kara Mehmet Mahalle Çeşmesi

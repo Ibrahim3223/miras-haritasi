@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.1133804,38.2901688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavşanburuntepe Tümülüsü: Malatya'nın Gizli Mirası

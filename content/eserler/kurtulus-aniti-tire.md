@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7320499,38.0892868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurtuluş Anıtı, Tire

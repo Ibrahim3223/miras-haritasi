@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.011936578,41.051353187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldız Sarayı Tiyatrosu: İstanbul'un En Efsanevi Tiyatro Adası

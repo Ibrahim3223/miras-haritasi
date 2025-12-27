@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "41.259,38.7834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeghrdut Manastırı: Türkiye'nin Gizli Tarihi Mirası

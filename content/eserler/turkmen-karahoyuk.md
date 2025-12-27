@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.0294,37.623299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Türkmen Karahöyük: Tarihî Miras ve Arkeolojik Büyüklük

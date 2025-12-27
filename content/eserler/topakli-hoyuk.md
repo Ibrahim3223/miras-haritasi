@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.826767444,39.007279436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topaklı Höyük: Avanos'un Gizli Cenneti

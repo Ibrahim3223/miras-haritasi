@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.17035,41.61294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mokata: Bartın'ın Gizemli Arkeolojik Sit**

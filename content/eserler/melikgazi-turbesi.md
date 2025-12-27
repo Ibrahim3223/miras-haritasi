@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.96539,40.591142"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Melikgazi Türbesi: Niksar'da Bir Önemli Anıt

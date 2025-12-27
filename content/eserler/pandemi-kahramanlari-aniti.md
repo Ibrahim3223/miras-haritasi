@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.106722222,38.40825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pandemi Kahramanları Anıtı

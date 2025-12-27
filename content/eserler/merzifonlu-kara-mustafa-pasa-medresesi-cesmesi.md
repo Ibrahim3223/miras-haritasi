@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9677272,41.0085161"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Merzifonlu Kara Mustafa Paşa Medresesi Çeşmesi

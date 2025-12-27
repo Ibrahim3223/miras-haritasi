@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.911953,39.61967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sarısu Arkeolojik Sit

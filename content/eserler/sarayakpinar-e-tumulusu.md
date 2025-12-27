@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4640579,41.7880478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarayakpınar E Tümülüsü

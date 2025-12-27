@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1126747,40.6268997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraybayırı Mevkii Çeşmesi

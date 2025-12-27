@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0739098,41.1811256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kavak İskele Caddesi Çeşmesi: Sarıyer'in İhtişamlı Çeşmesi

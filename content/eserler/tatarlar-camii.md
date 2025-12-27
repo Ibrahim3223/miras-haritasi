@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0761967,40.1848488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tatarlar Camii: Bursa'nın Tarihi ve Kültürel Mirası

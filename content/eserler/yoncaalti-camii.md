@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5388279,38.7544632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoncaaltı Camii: Afyonkarahisar'ın Gizli Çehresi

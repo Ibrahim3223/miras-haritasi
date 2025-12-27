@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8996315,41.7042503"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küküler U Tümülüsü: Edirne'nin Gizli Mirası

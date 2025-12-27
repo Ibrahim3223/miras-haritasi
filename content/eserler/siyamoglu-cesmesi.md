@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.821762,41.004847"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Siyamoğlu Çeşmesi

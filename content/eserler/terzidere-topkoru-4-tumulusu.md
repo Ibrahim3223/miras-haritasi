@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1607189,41.9900284"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Terzidere Topkoru 4 Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5990314,40.5811539"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pera Çeşmesi: Marmara'nın Tarihi Bir Çeşmesi

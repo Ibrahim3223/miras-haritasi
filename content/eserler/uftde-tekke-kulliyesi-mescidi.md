@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0541916,40.1779633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üftâde Tekke Külliyesi Mescidi: Bursa'nın Tarihi Bir Mirası

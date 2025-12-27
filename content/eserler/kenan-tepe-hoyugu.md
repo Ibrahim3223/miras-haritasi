@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.813221,37.8305893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kenan Tepe Höyüğü

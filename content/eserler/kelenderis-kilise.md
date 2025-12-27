@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "33.3231697,36.1440353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kelenderis Kilisesi: Bir Roma-Orta Çağ Mirası

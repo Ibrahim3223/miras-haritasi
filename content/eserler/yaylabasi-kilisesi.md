@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.5226173,39.6366959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yaylabaşı Kilisesi

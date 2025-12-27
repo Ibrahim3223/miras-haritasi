@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.74149,37.3115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Teker Çeşmesi

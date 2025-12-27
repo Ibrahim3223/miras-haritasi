@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.328499,37.303398"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salur Höyük: Karaman'ın Gizli Tarihi

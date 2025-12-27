@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9722373,41.0115903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Zengi Ali Baba Türbesi**

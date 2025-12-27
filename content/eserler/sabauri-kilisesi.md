@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.71775,41.450611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sabauri Kilisesi

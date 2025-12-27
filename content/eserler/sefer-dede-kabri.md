@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.961996,41.02158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sefer Dede Kabri

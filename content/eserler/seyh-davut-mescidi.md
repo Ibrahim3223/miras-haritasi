@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9671326,41.0171318"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Davut Mescidi

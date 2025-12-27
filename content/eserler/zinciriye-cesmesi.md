@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.739826,37.313987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zinciriye Çeşmesi

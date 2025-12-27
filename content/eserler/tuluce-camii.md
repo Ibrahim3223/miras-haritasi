@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8571167,39.9429665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tülüce Camii: Ankara'nın Tarihi ve Kültürel Mirası

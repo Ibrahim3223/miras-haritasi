@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.753996474,41.110767684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Küçüktaşhane Camii: Rize'nin Gizli Çalıksızı

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.7810364,37.317318"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tonozlu Yapı: Milas'taki Önemli Bir Kilise Mirası

@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "28.963722219,41.07158333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadabad Sarayı

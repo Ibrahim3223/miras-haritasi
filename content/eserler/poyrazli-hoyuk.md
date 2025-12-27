@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.0917777,39.3978939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Poyrazlı Höyük: Boğazlıyan'ın Gizli Kâsabı

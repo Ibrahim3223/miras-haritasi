@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0630035,40.1869087"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Reyhan Paşa Hamamı: Bursa'nın Tarihî Mirası

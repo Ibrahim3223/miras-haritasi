@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3025627,37.7515373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavaklı Meydan Çeşmesi: Aydın'da Bir Kültür Mirası

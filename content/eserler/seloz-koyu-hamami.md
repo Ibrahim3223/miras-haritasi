@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9248466,40.1319313"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selöz Köyü Hamamı: Bilecik'in Gizli Çeşmesi

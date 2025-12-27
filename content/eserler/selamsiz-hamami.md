@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0235367,41.0241051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selamsız Hamamı Tanıtımı

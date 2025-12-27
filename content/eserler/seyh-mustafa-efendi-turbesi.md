@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.0883255,40.3852577"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Mustafa Efendi Türbesi: Turhal'ın Tarihi Bir Mirası

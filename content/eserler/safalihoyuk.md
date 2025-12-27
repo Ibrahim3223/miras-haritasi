@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2954057,39.6402729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Safalıhöyük: Tarihî Bir Mirasın Gizemi

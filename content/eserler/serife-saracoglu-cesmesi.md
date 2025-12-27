@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.9652004,38.2238007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerife Saraçoğlu Çeşmesi: Ödemiş'in Tarihi Büyüsü

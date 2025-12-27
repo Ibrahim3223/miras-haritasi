@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6897354,41.7718811"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayapa Şehitliği: Edirne'nin Tarihi ve Kültürel Mirası

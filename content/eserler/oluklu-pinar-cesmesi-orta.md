@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.1729887,40.67874416"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oluklu Pınar Çeşmesi: Orta, Çankırı'daki Bir Tarihi Çeşme

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "31.4466362,36.7783051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Manavgat Hisar: Antalya'nın Tarihi ve Kültürel Mirası

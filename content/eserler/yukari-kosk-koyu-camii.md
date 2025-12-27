@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.8489799,39.5638771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yukarı Köşk Köyü Camii: Ağrı'nın Tarihî ve Kültürel Mirası**

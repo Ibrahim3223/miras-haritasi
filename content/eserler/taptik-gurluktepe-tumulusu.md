@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9149017,41.5669785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Taptık Gürlüktepe Tümülüsü**

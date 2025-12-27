@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.952431,41.027949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mismarcı Çeşmesi: Fatih'te Bir Ölümsüz Çeşme

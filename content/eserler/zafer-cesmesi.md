@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.1550941,40.4319839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Zafer Çeşmesi: Gemlik'in Tarihi Bir Çeşmesi

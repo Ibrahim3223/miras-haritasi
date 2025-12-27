@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.68808,39.289449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Camii (Küçükköy)

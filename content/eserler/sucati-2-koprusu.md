@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.8948898,41.0974887"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Suçatı 2 Köprüsü: Pazar'da Bir Klasik

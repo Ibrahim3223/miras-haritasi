@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3847351,37.0650558"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tahtani Camii: Gaziantep'in Tarihi Bir Mirası

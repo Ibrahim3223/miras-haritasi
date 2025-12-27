@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.015255,39.7490692"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivas Müzesi

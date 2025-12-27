@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.246944444,37.073055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Osmaniye Kent Müzesi

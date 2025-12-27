@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2220879,37.1753044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaman Nuh Paşa Camii

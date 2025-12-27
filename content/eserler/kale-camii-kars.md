@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.0905037,40.6136742"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kale Camii: Kars'taki Bir Kültür Mirası

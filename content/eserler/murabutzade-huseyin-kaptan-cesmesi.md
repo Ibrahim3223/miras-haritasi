@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.304615,38.3247528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Murabutzade Hüseyin Kaptan Çeşmesi

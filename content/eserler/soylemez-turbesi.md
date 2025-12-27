@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4894638,37.8653374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söylemez Türbesi

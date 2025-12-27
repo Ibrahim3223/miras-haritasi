@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.704166666,41.112777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Stameneia: Perşembe'nin Gizemli Arkeolojik Sit'i

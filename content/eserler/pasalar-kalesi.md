@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.10182,40.528604"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Paşalar Kalesi: Sakarya'nın Gizli Kaleleri Arasındaki Bir Öne Çıkan Eser

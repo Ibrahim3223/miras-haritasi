@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.943722167,39.924054961"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yılanbaşlı Çeşme: Ankara'nın Gizli Çeşmesi

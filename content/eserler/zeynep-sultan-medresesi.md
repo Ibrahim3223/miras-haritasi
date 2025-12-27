@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.978281,41.0099602"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeynep Sultan Medresesi

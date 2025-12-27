@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.067883,41.124983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şangul Köprüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.071331,41.0846329"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazar Sokağı Çeşmesi, Anadoluhisarı

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.3914452,37.0593224"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Fethullah Hamamı

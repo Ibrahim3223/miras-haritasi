@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.008044,40.939876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaledibi Köyü Kalesi: Çanakçı'nın Gizli Kahramanı

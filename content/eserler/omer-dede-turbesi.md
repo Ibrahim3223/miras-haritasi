@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.8714905,38.7352715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ömer Dede Türbesi: Selendi'nin Tarihi Anıtı

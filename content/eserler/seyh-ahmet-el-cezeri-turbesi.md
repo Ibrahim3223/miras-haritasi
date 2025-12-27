@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.1880989,37.3249779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Ahmet El-Cezeri Türbesi

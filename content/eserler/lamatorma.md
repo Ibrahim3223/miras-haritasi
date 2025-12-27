@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.0162235,36.734871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Lamatorma: Türkiye'nin Gizli Cenneti

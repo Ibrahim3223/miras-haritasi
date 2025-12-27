@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9681644,41.0117722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tacirler Kapısı: İstanbul'un Gizli Anıtı

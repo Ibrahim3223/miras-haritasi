@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.9078293,38.6328468"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Musa Efendi Çeşmesi

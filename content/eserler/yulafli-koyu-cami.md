@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8328114,41.2116356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yulaflı Köyü Cami: Tekirdağ'ın Gizli Cevheri

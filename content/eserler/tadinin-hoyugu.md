@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8356991,40.6412315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tadinin Höyüğü: Gelibolu'nun Gizli Anıtı

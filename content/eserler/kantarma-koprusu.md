@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.8340874,37.8744888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kantarma Köprüsü

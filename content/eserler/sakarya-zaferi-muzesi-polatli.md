@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.136763,39.58643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakarya Zaferi Müzesi, Polatlı

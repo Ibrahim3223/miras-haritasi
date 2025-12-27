@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9803486,41.0094299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Soğuk Çeşme Sokaktaki Hamam

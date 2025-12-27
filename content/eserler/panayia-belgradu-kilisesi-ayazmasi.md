@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9220886,41.0000496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia Belgradu Kilisesi Ayazması

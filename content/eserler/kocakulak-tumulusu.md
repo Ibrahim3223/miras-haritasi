@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3687,37.9360008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kocakulak Tümülüsü**

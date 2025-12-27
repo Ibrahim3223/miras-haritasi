@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8810482,39.6432877"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kasaplar Camii Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4917183,38.7163391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyitgazi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.110138888,36.635194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veyselli Kaya Kabartmaları

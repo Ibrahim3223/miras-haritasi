@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.9777895,36.9956068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeytinlibahçe Höyüğü: Şanlıurfa'da Bir Arkeolojik Gizem

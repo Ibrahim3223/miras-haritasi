@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.3793888,37.9229393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selçuk – Aziziye (Çamlık) Eski Demiryolu Köprüsü

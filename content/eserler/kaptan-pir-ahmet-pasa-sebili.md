@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.947709,41.021694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaptan Pir Ahmet Paşa Sebili

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.075498925,39.319135311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yassıhöyük: Kırşehir'in Eski Bir Eseri

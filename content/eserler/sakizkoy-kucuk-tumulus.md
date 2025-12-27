@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4570541,41.443203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakızköy Küçük Tümülüs

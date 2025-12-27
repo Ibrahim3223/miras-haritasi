@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.798805572,41.222983337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Camii (Safranbolu)

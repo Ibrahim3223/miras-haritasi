@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.8621368,39.9343147"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Nakşibendi Medresesi**

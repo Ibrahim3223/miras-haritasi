@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9249611,40.6373863"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Servetiye Karşı Köyü Taş Cami

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.969283,39.610067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ovaköy Üyücek: Balıkesir'in Gizli Arkeolojik Harikası

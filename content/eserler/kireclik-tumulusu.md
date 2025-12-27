@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8218098,41.6334381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kireçlik Tümülüsü: Kırklareli'nin Gizli Kahramanı

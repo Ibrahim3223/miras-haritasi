@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.6495209,41.1236725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Profitis İlyas Rum Ortodoks Kilisesi: Şile'nin Gizli Çehresi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.0520668,37.1227493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tatarlı Höyük Kale Yapısı

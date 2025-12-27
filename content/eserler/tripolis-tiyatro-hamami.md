@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9498043,38.0391121"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tripolis Tiyatro Hamamı: Denizli'nin Gizli Çehresini Keşfetmek

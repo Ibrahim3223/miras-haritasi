@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0540714,40.1847687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oruç Bey Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

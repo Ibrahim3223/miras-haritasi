@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7303619,38.0847588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şanizade Ataullah Efendi Anıtı

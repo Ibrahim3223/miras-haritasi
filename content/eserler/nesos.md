@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.683166781,39.341858851"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nesos Arkeolojik Sit

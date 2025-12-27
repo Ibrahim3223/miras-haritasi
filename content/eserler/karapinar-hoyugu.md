@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.6395969,36.9637041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karapınar Höyüğü: İslahiye'nin Gizli Anıtı

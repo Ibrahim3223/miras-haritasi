@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6772652,41.0341873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Bağlar Çeşmesi

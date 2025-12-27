@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4949093,37.8698158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karapınar Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.9013,37.51"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malik Ejder Türbesi

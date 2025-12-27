@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.196786,36.720882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Syrna (Karya): Marmaris'in Gizli Cenneti

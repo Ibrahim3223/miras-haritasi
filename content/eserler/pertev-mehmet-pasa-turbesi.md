@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.934059,41.048163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pertev Mehmet Paşa Türbesi

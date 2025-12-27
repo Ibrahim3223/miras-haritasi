@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.146839,36.445415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Syedra Antik Tiyatrosu: Alanya'nın Gizli Gözeçleri

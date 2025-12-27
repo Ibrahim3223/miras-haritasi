@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.7988186,37.9365768"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Timurtaş Köprüsü

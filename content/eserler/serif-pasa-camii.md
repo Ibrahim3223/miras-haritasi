@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9827995,40.1415901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şerif Paşa Camii

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.053072,41.0239944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nazif Paşa Köşkü Hamamı Kalıntısı

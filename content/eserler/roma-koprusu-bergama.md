@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.1473885,39.0767746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Bergama

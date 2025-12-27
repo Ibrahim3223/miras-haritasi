@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4858742,40.1835632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sungur Paşa Türbesi

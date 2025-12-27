@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.223361932,38.469049472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıkık Minare Camii: Bornova, İzmir'in Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.249969,38.912883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Singeç Köprüsü: Tunceli'nin Tarihî Mirası

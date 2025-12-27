@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.1664129,40.9197148"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sallar Höyük: Gümüşhacıköy'ün Gizli Kutsal Yeri

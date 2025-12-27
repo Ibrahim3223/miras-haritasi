@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7329216,37.815239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yağma Höyük: Karapınar, Konya'daki Önemli Arkeolojik Sit

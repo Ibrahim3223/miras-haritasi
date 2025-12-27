@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4104483,36.2301548"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marsıklı Tepe: Hatay'ın Gizli Zirvesi

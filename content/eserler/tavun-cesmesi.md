@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9224858,41.0511899"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## **Taâvün Çeşmesi**

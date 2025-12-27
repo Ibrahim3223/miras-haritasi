@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.1508675,39.5839615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topçu ve Füze Okulu Sınıf Müzesi

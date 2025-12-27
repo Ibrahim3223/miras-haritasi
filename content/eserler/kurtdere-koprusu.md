@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4375916,41.6943359"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurtdere Köprüsü: Pınarhisar'ın Tarihî Mirası

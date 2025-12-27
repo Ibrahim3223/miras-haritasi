@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "27.135777777,38.420138888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Los Forasteros Sinagogu

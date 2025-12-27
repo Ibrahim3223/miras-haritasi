@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.6080679,40.7323027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Orta Hamam

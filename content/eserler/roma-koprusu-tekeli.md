@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.914932,37.236008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Tekeli: Tarihî Bir Mirasın İncelemesi

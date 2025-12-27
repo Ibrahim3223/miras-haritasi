@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2053774,38.4711549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepesidelik Höyüğü: Aksaray'ın Gizli Cenneti

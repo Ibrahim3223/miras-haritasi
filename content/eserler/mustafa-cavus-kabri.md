@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9283085,41.0173645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Çavuş Kabri: İstanbul'un Tarihi Bir Ziyaret Günü

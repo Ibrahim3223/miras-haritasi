@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3025665,40.2472115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Talat Göktepe Anıtı

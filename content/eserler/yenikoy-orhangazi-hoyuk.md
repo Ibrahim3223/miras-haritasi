@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.3694,40.499921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yeniköy-Orhangazi Höyük: Bir Geçmişe Yönelik Yolculuk

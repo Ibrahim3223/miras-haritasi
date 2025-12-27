@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.4127369,40.8497887"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Naip Kalesi: Tekirdağ'ın Tarihi ve Kültürel Mirası

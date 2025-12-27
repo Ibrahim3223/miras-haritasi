@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9260216,41.047142"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ümmi Sinan Türbesi

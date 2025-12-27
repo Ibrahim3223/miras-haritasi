@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9455013,41.0175705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarı Güzel Camii Çeşmesi: Akşemsettin, Fatih'in Gizli Çeşmesi

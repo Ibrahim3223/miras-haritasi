@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0526676,38.9271927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Reşadiye İskele Camii: Tarihi ve Kültürel Bir Özanın Anlamı

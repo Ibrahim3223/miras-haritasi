@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.239572912,40.890882989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pendik Manastırı: Tarihi ve Kültürel Miras

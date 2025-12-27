@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.126109,38.2332332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Hüyüklü

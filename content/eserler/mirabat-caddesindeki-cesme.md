@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.069678,41.097841"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mirabat Caddesindeki Çeşme: Beykoz'un Gizli Çeşmesi

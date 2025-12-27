@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.5664902,37.7230988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Hasan Nurani Türbesi: Diyarbakır'ın Gizli Cenneti

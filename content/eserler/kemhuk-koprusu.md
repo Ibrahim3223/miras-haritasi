@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9049492,38.3453751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kemhük Köprüsü: Silvan'ın Tarihi Mirası

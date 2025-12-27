@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.520695,38.193405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Pisyar Köprüsü**

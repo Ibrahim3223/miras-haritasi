@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.375,40.8925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sabancı Gösteri Merkezi: Tuzla'nın Tarihî Tiyatro Mirası

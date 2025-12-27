@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.9718895,40.0774231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köse Süleyman Ziyaret Tepesi

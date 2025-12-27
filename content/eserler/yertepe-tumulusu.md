@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.7403202,38.5739822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yertepe Tümülüsü

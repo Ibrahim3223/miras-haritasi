@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3050995,40.1160278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Soğanlıdere Şehitliği Eceabat: Eceabat'ın Tarihini Canlandıran Anıt

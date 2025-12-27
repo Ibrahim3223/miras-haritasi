@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7770844,41.3766022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerife Bacı ve Kurtuluş Anıtı

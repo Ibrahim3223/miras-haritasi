@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.3262367,40.3477173"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Karabiga

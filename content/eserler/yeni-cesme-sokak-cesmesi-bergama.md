@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1868,39.1231003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Çeşme Sokak Çeşmesi, Bergama

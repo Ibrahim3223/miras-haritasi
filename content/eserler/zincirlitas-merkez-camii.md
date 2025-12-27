@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.248024314,40.790811701"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zincirlitaş Merkez Camii

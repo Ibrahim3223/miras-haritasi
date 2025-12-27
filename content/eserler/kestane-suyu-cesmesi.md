@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.026968,41.163523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kestane Suyu Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi

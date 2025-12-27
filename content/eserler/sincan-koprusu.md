@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.8945028,40.817174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sincan Köprüsü: Trabzon'un Tarihî Mirası

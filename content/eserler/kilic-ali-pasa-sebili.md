@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9808445,41.026741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kılıç Ali Paşa Sebili: İstanbul'un Tarihi ve Kültürel Miraslarından Bir Örnek

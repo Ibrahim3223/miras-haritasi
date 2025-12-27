@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9432487,41.0107613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pertevniyal Valide Sultan Çeşmesi: Haseki Sultan

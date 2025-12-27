@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.59444444,36.86027778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orokenda: Türkiye'nin Gizli Tarihi

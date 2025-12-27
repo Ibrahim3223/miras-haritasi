@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.1070557,38.3984108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultaniye Camii: Bitlis'in Gizemli Mirası

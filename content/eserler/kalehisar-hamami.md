@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.7140007,40.2669106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalehisar Hamamı: Alaca, Çorum'un Tarihi Mirası

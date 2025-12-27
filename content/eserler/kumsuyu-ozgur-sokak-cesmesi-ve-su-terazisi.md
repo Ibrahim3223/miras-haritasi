@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0634751,41.1244453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumsuyu Özgür Sokak Çeşmesi ve Su Terazisi

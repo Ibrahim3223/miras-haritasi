@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.7310028,38.7992935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zal Paşa Camii: Adilcevaz'ın Gizli Mücevheri

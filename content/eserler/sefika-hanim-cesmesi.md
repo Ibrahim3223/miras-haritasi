@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4894028,38.7169266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şefika Hanım Çeşmesi

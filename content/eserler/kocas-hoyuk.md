@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8444066,38.4728528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koçaş Höyük: Aksaray'ın Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.744117,38.085927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Thyaira: Eski Yunanistan'ın Gizli Kahramanı

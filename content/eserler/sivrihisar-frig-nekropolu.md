@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.4915886,39.5963211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivrihisar Frig Nekropolü: Eskişehir'in Gizli Çağı

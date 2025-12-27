@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5020828,37.8690567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Siyavuş Sultan Türbesi: Karatay'ın Gizli Çekeci

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.618757024,40.817328812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalıntı Köprü: Yusufeli'nin Tarihi Mirası

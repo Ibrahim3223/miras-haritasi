@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.5777912,38.6821098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Palankaya Köprüsü: Manisa'nın Tarihi Bir Mirası

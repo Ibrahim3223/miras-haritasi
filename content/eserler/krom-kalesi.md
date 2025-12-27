@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.5785408,40.5673752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Krom Kalesi

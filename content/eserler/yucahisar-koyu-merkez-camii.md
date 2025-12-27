@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.910005805,41.114290201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yücahisar Köyü Merkez Camii: Rize'nin Tarihi Bir Mirası

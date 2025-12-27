@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.272289,36.991329"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kallipolis (Karya): Ege Denizi'nin Gizli Anıtı

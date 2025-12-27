@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.3878822,40.9227448"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6763763,37.9732056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemal-i Ümmi Mescidi ve Türbesi

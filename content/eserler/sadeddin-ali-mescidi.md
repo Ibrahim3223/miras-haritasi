@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2133865,37.1833115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadeddin Ali Mescidi: Karaman'ın Tarihi ve Kültürel Mirası

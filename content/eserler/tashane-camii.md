@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.74864,41.10661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşhane Camii: Rize'nin Tarihî ve Kültürel Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6066933,37.1774864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mazı Çayı Köprüsü

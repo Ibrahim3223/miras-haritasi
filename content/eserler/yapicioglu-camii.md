@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.134583333,38.410611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yapıcıoğlu Camii: İzmir'in Gizli Cenneti

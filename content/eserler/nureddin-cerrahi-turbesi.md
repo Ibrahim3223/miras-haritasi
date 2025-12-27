@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9416368,41.0263843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Nureddin Cerrahi Türbesi**

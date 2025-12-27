@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.6705733,38.8070813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Vekse

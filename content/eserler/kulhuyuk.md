@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.65472,39.527222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Külhüyük Arkeolojik Sitesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.180833,37.618611"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Skolopoeis: Söke'nin Tarihî Bir Mirası

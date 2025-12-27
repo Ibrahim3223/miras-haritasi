@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1337643,37.2927208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Siyami Bey Camii (Yatağan)

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.014967,37.5102"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Medet Höyük: Tavas'ın Gizli İncisi

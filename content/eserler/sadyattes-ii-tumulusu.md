@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.02557,38.574032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadyattes II Tümülüsü

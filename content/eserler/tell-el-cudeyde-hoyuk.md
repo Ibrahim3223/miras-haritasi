@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.5866721,36.2676756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tell el Cüdeyde Höyük: Hatay'ın Gizli Kahramanı

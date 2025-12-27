@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5326004,38.1329994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süller Höyük: Tarihî ve Kültürel Mirasın Gizli Çandırı

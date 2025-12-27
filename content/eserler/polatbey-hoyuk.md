@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.1923443,36.8043308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Polatbey Höyük: Türkiye'nin Gizli Kahramanı

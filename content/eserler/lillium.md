@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.2148,41.096"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lillium: Akçakoca'nın Tarihî Bir Mirası

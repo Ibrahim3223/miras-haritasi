@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0047626,41.0499916"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süslü Karakol Çeşmesi: Beşiktaş'taki Bir İmparatorluk Çeşmesi

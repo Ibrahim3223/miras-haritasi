@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.549834,41.678487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tütünsüz Baba Türbesi: Edirne'nin Gizli Gölgeli Anıtı

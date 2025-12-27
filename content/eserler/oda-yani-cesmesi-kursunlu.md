@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.420704822,40.839322028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oda Yanı Çeşmesi, Kurşunlu

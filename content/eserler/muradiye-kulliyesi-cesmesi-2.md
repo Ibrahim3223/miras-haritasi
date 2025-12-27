@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0472679,40.1907692"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muradiye Külliyesi Çeşmesi 2: Bursa'nın Tarihi Bir Çeşmesi

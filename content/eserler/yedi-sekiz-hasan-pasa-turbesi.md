@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.006966082,41.041989394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yedi Sekiz Hasan Paşa Türbesi

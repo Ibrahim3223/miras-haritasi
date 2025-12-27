@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0783024,41.6299477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kıyıköy Vezirtepe Tümülüsü: Tarihî ve Kültürel Bir Miras

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.619133,39.767417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaca Höyük: Eskişehir'in Gizli Mirası

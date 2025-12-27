@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.664261,40.776412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaya Mezarı 10: Gürgentepe'nin Gizli Anıtı

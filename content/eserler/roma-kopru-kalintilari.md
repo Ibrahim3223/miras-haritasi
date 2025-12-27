@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4903687,39.1952102"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprü Kalıntıları: Soma'nın Gizli Mirası

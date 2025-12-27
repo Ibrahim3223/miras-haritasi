@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1104221,37.8364296"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Laodikeia Kutsal Hac Kilisesi: Pamukkale'nin Gizemli Yapısı

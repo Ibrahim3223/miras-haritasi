@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.9118862,40.1893349"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yediler Türbesi: Ankara'nın Gizli Çarpıcı Anıtı

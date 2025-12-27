@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.857621656,39.940333442"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Papani Mescidi: Ankara'nın Eski Şehir Merkezi'nde Tarihi Bir Miras

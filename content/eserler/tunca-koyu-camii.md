@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.121593101,41.125413734"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tunca Köyü Camii: Ardeşen'in Tarihi Bir Ruhani Evi

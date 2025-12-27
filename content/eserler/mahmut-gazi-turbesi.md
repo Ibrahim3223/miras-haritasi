@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4263668,38.0261002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mahmut Gazi Türbesi

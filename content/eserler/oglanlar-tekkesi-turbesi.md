@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.948431,41.0103645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Oğlanlar Tekkesi Türbesi

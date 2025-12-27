@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.833681,38.997165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Lysimachea (Misya): Tarihe ve Kültüre Öncülük Eden Arkeolojik Sit

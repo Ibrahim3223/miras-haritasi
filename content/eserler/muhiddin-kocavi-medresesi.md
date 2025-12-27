@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9576359,41.0239372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Muhiddin Kocavi Medresesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9166431,41.0485115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rami Kışlası Kasr-ı Hümayun Çeşmeleri

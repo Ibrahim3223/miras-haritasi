@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.4429836,37.7866058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söke Kalesi: Aydın'ın Tarihi Bir Mirası

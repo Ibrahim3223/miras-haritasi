@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.4844799,37.6632767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meryem Ana Türbesi: Aydın'ın Kültürel Mirası

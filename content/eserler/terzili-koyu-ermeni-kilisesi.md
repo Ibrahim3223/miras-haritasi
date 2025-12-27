@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.361969,39.5537109"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terzili Köyü Ermeni Kilisesi

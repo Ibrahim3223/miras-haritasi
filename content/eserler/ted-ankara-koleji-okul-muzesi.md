@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.775687,39.831074"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## TED Ankara Koleji Okul Müzesi

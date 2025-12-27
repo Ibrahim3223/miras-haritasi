@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6186295,36.7949409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyidna Hıdır Aleyselam Türbesi

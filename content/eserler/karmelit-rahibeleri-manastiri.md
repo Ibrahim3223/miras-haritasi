@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.0300179,40.9818115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karmelit Rahibeleri Manastırı

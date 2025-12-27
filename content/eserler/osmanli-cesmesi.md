@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0663452,37.3129845"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmanlı Çeşmesi: Muğla'nın Tarihi Bir Mirasın Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2416859,37.8974457"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Suludere Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi**

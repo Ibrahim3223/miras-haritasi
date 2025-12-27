@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2093334,41.9693146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocayazı Paraşuttepe 1 Tümülüsü: Kırklareli'nin Gizli Anıtı

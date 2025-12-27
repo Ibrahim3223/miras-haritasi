@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1648674,36.204422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Servili Cami**

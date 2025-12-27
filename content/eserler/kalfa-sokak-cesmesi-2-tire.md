@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.729599,38.0819626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalfa Sokak Çeşmesi 2, Tire

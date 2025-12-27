@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.4032898,40.1454086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## St. George Ermeni Apostolik Kilisesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.411526,39.043048"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadoi: Gediz'in Gizli Anıtı

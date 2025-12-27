@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.627445,40.698711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yemişken Köprüsü: Giresun'un Tarihî Köyü Yağlıdere'nin Efsanevi Köprüsü

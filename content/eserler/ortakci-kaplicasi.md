@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.7112446,37.9759369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortakçı Kaplıcası: Buharkent'in Tarihi Hamamı

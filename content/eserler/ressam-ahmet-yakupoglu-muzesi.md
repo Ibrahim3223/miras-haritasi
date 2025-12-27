@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.989971,39.41245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ressam Ahmet Yakupoğlu Müzesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.258898,36.492114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pınara Antik Tiyatrosu: Muğla'nın Tarihi Harikası

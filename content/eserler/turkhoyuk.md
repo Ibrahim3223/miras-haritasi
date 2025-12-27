@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.4092091,39.5387461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Türkhöyük Arkeolojik Sit

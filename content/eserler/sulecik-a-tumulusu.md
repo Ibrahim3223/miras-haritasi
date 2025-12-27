@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.846632,41.803997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sülecik A Tümülüsü: Edirne'nin Gizli Tarihi Eseri

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9222088,40.9940796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yedikule Kapısı İsimsiz Şehit Kabri

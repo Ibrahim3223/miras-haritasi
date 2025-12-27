@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.14376,38.33261"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Stektorium: Antik Dönemin Gizemli Katedrali

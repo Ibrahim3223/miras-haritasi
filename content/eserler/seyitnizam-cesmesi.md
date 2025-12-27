@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9111462,41.0047417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyitnizam Çeşmesi: İstanbul'un Gizli Çeşmesi

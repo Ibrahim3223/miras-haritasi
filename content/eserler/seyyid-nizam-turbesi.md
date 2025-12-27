@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9133,41.005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Nizam Türbesi

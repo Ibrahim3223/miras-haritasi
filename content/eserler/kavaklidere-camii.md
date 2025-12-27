@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.001141075,41.195904802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kavaklıdere Camii: Ardeşen'in Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7771549,37.9976196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Taş Köprü, Dündarlı: İzmir'in Tarihi Mirası

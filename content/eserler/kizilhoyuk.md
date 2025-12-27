@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.399167,39.3948262"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılhöyük Arkeolojik Sit

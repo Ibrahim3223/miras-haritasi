@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4922543,41.3000641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rahmanca Kocahöyük Tümülüsü

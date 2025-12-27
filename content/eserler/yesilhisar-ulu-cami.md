@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.0832214,38.3503838"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşilhisar Ulu Camii: Kayseri'nin Gizli Cenneti

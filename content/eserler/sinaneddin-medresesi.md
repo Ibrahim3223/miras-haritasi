@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "30.1686401,37.0810394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinaneddin Medresesi: Antalya'nın Gizli Çehresi

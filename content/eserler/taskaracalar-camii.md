@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2727814,40.7148895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşkaracalar Camii

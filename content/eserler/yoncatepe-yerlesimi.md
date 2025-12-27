@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.4508247,38.4364014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoncatepe Yerleşimi: Van'ın Tarihi Mirası

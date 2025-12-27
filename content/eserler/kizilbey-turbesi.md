@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8538895,39.9398651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılbey Türbesi: Ankara'nın Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.112344,36.714238"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Muhammed Ensari Türbesi

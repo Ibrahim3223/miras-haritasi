@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.285973,37.548665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Moatra Arkeolojik Sitesi: Türkiye'nin Gizli Cenneti

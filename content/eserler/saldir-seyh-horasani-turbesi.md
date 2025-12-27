@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.406017,37.040782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Saldır Şeyh Horasani Türbesi**

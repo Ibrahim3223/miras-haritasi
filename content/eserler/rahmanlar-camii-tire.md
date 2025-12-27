@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5314598,38.1180153"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rahmanlar Camii: Tarih ve Mimarisi

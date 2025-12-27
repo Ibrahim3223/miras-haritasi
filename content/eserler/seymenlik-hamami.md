@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.7900352,37.2711601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seymenlik Hamamı: Milas'ın Tarihi Bir Mirası

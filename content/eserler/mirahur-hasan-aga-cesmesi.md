@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967045,41.015067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mirahur Hasan Ağa Çeşmesi

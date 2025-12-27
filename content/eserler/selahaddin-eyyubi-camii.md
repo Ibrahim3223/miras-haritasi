@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.227944444,37.919333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selahaddin Eyyubi Camii

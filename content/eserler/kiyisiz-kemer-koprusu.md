@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.0152016,37.9274445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kıyısız Kemer Köprüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.47029247,39.056615203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nalbant Pınarı Çeşmesi: Arapgir'in Bir Ölümsüz Çeşmesi

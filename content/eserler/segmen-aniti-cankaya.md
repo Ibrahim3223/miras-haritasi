@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8637619,39.8942413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seğmen Anıtı: Çankaya'daki Tarihi Bir Anıt

@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.8031044,39.655266697"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sederek Sınır Kapısı: Tarihi ve Kültürel Mirasın Gizli Cenneti

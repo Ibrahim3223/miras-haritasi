@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.940996,41.048122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sütlüce Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

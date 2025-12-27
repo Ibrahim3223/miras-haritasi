@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "29.0691319,40.8806648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ohel Yaakov Sinagogu: İstanbul'un Eski Adaları'nda Eski Bir Sinagogun Gizemi

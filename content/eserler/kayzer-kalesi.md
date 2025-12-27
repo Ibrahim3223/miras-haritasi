@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.2716064,39.5091743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayzer Kalesi: Kütahya'da Tarih ve Kültür Mirası

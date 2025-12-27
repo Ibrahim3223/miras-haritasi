@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4180069,37.9284668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mezaryaka Camii Çeşmesi

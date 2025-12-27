@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2841225,40.4821091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşa Sultan Camii, Şabanözü

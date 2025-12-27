@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.929296811,41.828801831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivri Kulübeler Tümülüsü

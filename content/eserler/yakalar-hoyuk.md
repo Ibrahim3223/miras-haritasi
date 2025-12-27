@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0032997,37.3251991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yakalar Höyük: Kemer'in Gizemi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.3587232,36.3466378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karatepe Höyük: Tarihî ve Kültürel Mirasımız

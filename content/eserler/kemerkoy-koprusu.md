@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.7667,41.1219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemerköy Köprüsü: Rize'nin Eski Yollarının Mirası

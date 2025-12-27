@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "39.4489086,38.1358959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Şehir Hamamı

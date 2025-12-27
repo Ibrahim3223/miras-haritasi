@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.80229,39.3021317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskişehir'in Gizli Çeşmesinde Bir Yolculuk: Kayakent Çukur Çeşme

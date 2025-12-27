@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.0189438,40.3774796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karahan Kalesi: İspir'deki Tarihî Bir Miras

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.937305158,41.027424118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavasbaşı Kabri

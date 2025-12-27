@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9972019,36.5354233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alanya'nın Tarihi Çağı: Tahtalı Cami

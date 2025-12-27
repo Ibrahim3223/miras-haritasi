@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.7486725,38.3827782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kinnaborion: Çay, Afyonkarahisar'da Bir Arkeolojik Sitin Gizemi

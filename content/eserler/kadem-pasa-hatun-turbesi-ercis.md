@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.3855247,39.0175095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kadem Paşa Hatun Türbesi, Erciş**

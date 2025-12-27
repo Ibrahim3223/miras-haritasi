@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.975081,40.184398"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yazır Köyü Çeşmesi: Ankara'nın Gizli Cenneti

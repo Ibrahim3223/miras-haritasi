@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.586931,39.05445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Parnassos: Şereflikoçhisar'ın Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.1466637,42.0249901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turgutlar Hamamı

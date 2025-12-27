@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.80542,37.167355"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Karacahisar: Bodrum'un Tarihi Harikası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9105,36.7488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Vehhab-i Ümmi Türbesi: Elmalı'dan Bir Anıt

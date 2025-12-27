@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.4192352,40.7852478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kapu Ağası Hüseyin Ağa Camii

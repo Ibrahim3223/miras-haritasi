@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "39.5478096,39.104229"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tunceli Müzesi: Doğu Anadolu'nun Değerli Kültürel Mirası

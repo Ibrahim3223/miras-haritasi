@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.874491,41.671919"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaynaklar/Arpaç Arkeolojik Sitinin Tanıtımı

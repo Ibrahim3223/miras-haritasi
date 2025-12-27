@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.121727,40.4773979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Abdullah Türbesi: Bursa'nın Tarihî Anıtlarından Bir Örnek

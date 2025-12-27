@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.0717468,39.8337936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalı Camii: Bozcaada'nın Tarihi Bir Mirası

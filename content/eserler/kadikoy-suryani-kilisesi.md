@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.025539,40.983665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadıköy Süryani Kilisesi

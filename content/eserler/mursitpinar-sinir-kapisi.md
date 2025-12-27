@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "38.3495,36.8995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mürşitpınar Sınır Kapısı: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası

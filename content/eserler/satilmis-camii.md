@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.7765007,38.8222008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Satılmış Camii: Manisa'nın Tarihi Bir Mirası

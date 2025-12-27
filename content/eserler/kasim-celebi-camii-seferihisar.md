@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8160229,38.2425804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kasım Çelebi Camii: Seferihisar'ın Tarihi Bir Mirası

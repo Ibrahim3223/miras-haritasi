@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1851006,39.1235008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Şevket Paşa Caddesi Çeşmesi

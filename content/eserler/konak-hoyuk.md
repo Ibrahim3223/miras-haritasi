@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6345291,40.3866959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Konak Höyük: Çankırı'nın Gizli Kahramanı

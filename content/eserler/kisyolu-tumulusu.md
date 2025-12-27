@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.0880966,38.3857613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kışyolu Tümülüsü: Akçadağ'da Gizemli Bir Geçmiş

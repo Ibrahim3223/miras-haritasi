@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.052603,41.115124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Lasthenes: İstanbul'un Gizli Mirası

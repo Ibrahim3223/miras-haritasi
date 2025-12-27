@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6152382,40.3797684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaynarca Mevkii Arkeolojik Sit

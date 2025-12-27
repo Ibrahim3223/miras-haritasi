@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.2582531,37.8595543"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuşadası Halk Kütüphanesi: Aydın'ın Kültürel Mirasının Aydınlık Yeri

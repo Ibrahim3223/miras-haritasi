@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.8511139,39.3930146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuzayca Höyük: Şefaatli'nin Gizemli Ören Yeri

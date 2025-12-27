@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2567005,39.0058441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tuz Höyük: Türkiye'nin Gizli Hazinesi

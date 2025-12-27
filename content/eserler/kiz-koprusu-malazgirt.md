@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.5479546,39.1300278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kız Köprüsü, Malazgirt

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.1154442,40.9435463"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Satyros Manastırı: İstanbul'un Gizli Çarpıntısı

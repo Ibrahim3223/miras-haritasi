@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "44.2501526,39.7954254"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korhan Kalesi: Iğdır'ın Gizli Tarihi

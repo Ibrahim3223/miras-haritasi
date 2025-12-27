@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.685712,37.349058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Khalketor: Milas'ın Gizli Yerleşimi

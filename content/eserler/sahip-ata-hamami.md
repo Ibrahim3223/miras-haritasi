@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.4945946,37.8674088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sahip Ata Hamamı: Konya'nın Tarihi ve Kültürel Mirası

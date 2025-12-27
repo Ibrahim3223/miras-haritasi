@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.84905,37.87414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Prostanna: Eğirdir'in Gizli Kahramanı

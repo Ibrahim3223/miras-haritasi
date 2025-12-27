@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.856724844,39.945095097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mescit-1, Altındağ: Ankara'nın Gizli Cenneti

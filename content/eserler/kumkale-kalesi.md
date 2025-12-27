@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.198691,40.006526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumkale Kalesi: Çanakkale'nin Gizli Mirası

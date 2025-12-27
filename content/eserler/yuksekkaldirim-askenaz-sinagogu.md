@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.97521,41.024508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yüksekkaldırım Aşkenaz Sinagogu

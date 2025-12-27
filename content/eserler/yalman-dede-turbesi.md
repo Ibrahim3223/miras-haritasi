@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.057457,36.3528328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalman Dede Türbesi

@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.972194444,41.027194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kenesset Sinagogu: İstanbul'un Tarihi Bir Mirası

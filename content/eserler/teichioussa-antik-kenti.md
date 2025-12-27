@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4109,37.4124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Teichioussa Antik Kenti: İyonya'nın Gizli Mirası

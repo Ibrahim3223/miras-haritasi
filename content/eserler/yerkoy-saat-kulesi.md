@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "34.469805555,39.637944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yerköy Saat Kulesi: Yozgat'ın Tarihi ve Kültürel Mirası**

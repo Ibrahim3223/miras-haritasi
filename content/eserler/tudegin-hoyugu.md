@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0209805,38.283604"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tudeğin Höyüğü: Kahramanmaraş'ın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.97296186,41.92003501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocaçam Köyü Camii: Bozkurt, Kastamonu'nun Tarihi Bir Mirası

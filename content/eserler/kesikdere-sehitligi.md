@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.292881,40.2395782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kesikdere Şehitliği

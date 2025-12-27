@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.3908253,40.6803627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşköprü, Çiftlikköy, Yalova

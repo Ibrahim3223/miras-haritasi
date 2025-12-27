@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.3178177,36.2673988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Patara Kaynak Kilisesi

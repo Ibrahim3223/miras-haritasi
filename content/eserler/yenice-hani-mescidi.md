@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0851784,39.2756844"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenice Hanı Mescidi: Kütahya'nın Tarihi Bir Çatısı

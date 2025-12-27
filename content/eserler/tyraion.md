@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.904303,38.282553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tyraion: Antik Çağın Gizemi

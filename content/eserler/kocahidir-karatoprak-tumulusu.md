@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9103909,41.6388092"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocahıdır Karatoprak Tümülüsü

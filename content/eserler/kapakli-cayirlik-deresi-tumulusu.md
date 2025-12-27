@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.340292,41.9018784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapaklı Çayırlık Deresi Tümülüsü

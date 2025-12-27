@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9730434,41.0155716"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldız Dede Kabri: Fatih'te Bir Anıtın Anlamı 

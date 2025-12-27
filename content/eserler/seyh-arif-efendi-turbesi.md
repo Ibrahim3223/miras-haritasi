@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9426289,41.0185051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Arif Efendi Türbesi

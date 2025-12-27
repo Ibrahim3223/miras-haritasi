@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.5560818,38.2897301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köstem Zeytinyağı Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.985859,39.426501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sunullah Gaybi Türbesi: Kütahya'nın Gizli Çiçeği

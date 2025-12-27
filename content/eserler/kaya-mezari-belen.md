@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0443153,36.6056328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaya Mezarı, Belen: Muğla'nın Gizli Anıtı

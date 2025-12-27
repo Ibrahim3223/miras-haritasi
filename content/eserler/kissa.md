@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.424809,41.386719"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kissa Arkeolojik Sit

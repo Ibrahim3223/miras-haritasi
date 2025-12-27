@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.931459,41.046009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koca Yusuf Efendi Çeşmesi (Düğmeciler)

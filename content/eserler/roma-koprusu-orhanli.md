@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.9342373,38.1557922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Orhanlı

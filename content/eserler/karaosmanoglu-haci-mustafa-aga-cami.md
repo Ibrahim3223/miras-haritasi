@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6774998,38.9923477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaosmanoğlu Hacı Mustafa Ağa Cami

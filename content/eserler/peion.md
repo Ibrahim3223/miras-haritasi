@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.090849594,40.132293726"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Peion: Beypazarı'ndaki Antik Bir Kale

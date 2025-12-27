@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.095027777,41.042777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tanzot Ermeni Kilisesi

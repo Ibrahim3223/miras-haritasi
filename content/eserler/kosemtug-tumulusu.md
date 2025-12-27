@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0769672,40.1471024"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kösemtuğ Tümülüsü: Balıkesir'in Gizli İlahi

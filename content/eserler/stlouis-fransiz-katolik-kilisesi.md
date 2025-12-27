@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9769402,41.0307922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## St. Louis Fransız Katolik Kilisesi

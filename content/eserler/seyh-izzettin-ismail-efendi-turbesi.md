@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.665777706,40.807834086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh İzzettin İsmail Efendi Türbesi

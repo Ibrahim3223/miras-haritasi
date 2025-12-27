@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.0142136,38.2799187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Keremis Tümülüsü**

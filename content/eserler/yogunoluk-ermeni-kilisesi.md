@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.9746246,36.137249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoğunoluk Ermeni Kilisesi Tanıtımı

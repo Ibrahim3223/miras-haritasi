@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0703773,40.1811028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kılıç Kalkan Evi Müzesi, Bursa

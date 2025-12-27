@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9779854,39.0871315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üzüm Pazarı Camii

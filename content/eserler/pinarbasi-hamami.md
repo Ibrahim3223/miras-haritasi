@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2649345,38.4265289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pınarbaşı Hamamı

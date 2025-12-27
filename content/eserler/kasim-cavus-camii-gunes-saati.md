@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9297695,41.050312"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kasım Çavuş Camii Güneş Saati

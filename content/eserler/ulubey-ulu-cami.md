@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2912617,38.4202118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulubey Ulu Camii: Uşak'ın Gizli Hazinesi

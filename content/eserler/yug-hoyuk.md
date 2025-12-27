@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.2429771,40.2447624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yuğ Höyük: Ortaköy'ün Gizli Kahramanı

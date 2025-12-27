@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.4823341,37.5467072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulukışla Öküz Mehmet Paşa Camii

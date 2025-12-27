@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7088089,38.6205444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şekerci Çeşmesi

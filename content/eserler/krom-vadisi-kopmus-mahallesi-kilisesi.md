@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.590193,40.553875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümüşhane'nin Gizemli Kilisesi: Krom Vadisi Kopmuş Mahallesi Kilisesi

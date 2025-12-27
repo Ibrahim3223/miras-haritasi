@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.732027777,41.00725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Santa Maria Katolik Kilisesi

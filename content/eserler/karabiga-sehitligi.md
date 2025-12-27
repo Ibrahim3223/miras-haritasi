@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.300930134,40.402419158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabiga Şehitliği

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.357814,40.607041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zigana Köyü Köprüsü: Torul'un Gizli Harikası

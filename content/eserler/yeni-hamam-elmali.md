@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9132996,36.7444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Hamam, Elmalı

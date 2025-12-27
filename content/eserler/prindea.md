@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.248018,40.75315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Prindea Arkeolojik Sit

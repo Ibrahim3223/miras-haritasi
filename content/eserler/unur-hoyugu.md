@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0111961,40.5865211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ünür Höyüğü: Çankırı'nın Tarihi Gizemi

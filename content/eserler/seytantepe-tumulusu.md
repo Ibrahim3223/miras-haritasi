@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5726585,38.5393867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeytantepe Tümülüsü: Manisa'nın Gizemi

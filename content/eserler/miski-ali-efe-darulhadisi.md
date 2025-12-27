@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.949673,41.022497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Miski Ali Efe Darülhadisi

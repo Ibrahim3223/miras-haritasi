@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.1441002,40.6325531"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Murat Şehitliği: Trabzon'un Anıtsal Mirası

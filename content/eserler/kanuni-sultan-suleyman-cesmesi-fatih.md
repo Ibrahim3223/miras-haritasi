@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9484901,41.0131378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanuni Sultan Süleyman Çeşmesi: Fatih'te Tarih ve Güzellik

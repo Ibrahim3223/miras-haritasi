@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9973,37.8291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zilek Köprüsü

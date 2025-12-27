@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.97128,39.422944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kütahya Milli Mücadele Müzesi

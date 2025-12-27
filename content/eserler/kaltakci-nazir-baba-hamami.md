@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8416424,37.8548203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaltakçı Nazır Baba Hamamı: Aydın'ın Tarihi Bir Mirası

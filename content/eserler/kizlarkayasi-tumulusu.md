@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.0172234,39.6808319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızlarkayası Tümülüsü

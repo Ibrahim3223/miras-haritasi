@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3248405,37.9022141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yahya Paşa Camii Meydan Çeşmesi

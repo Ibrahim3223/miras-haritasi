@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.00947214,41.072840269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprübaşı Köyü Camii

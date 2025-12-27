@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4555855,41.145298"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tacettin Paşa Camii: Vezirköprü'de Bir Miras

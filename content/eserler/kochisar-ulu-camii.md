@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.582888888,37.189722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Koçhisar Ulu Camii**

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.1797371,39.2347641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Redif Kışlası, Sındırgı: Balıkesir'in Kültürel Mirasına Katkı Sunan Bir Müze

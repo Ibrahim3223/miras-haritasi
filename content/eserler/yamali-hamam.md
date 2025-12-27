@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9796371,41.0267944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yamalı Hamam

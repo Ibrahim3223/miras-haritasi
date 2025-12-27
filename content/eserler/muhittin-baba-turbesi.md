@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7992077,41.1600533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muhittin Baba Türbesi: Tekirdağ'ın Tarihî Mirası

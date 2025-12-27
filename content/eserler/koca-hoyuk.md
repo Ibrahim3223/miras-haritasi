@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.671948056,37.725909212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koca Höyük: Mardin'in Gizli Zenginliği

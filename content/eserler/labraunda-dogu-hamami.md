@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8207417,37.4185219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Labraunda Doğu Hamamı**

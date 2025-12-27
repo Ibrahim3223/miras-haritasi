@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.024194,41.052111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaköy Surp Krikor Lusavoriç Kilisesi

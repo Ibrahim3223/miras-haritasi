@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.779231,39.155043"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mysia Stratonikea: Tarihi Bir Arkeolojik Site

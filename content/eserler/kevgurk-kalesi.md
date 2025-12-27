@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.848388888,40.784083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kevgürk Kalesi: Akkuş'un Tarihî Mirası

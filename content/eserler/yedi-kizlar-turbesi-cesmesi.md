@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4236774,38.6062241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yedi Kızlar Türbesi Çeşmesi: Manisa'nın Eski Şövalyesi

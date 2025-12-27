@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.374024,38.192186"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Laodicea Combusta: Konya'nın Gizli Mabeti

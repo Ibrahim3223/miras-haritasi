@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.49138889,37.86666667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Konya Etnografya Müzesi

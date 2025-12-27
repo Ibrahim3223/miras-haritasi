@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.353138,41.8955917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapaklı Höyüksırtı Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "43.747307,39.022614"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeytan Köprüsü: Van'ın Gizli Hazineleri

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.2114,38.42703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nais (Lidya) Arkeolojik Sit

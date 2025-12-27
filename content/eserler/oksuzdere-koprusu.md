@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.5318928,41.7490005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Öksüzdere Köprüsü: Edirne'nin Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.224483,39.889917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oluklu Höyük: Sakarya'daki Gizemli Arkeolojik Sit

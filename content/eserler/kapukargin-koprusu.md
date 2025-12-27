@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.8113289,36.7237892"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapukargın Köprüsü

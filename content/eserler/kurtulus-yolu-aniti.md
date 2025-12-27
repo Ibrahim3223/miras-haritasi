@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3721237,37.9505234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurtuluş Yolu Anıtı

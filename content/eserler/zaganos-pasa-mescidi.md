@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5521049,41.6804314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Zağanos Paşa Mescidi

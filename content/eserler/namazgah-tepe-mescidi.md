@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.855425543,39.932882122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Namazgah Tepe Mescidi: Ankara'nın Tarihi Bir Mirası

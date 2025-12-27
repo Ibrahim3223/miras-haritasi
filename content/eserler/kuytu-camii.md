@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.5194321,40.7359695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuytu Camii: Çankırı'nın Tarihî Mirası

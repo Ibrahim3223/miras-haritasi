@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6521149,38.5446091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğukkuyu Camii: Manisa'nın Gizli Cenneti

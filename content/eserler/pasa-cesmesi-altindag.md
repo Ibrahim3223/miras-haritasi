@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8677177,39.9338913"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Paşa Çeşmesi, Altındağ

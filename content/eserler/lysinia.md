@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.06666667,37.7"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lysinia: Antik Bir Kentin Mirası

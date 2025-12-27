@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.431816,36.576553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yusuflu Höyük: Türk Tarihinin Gizli Kahramanı

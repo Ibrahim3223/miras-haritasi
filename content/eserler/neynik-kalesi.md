@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.0775642,38.9278374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neynik Kalesi: Bulanık, Muş'ta Bir Geçmişin Tanıklığı

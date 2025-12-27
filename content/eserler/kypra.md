@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.91593,40.900645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kypra Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.1916135,40.0981038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Saraycık: Sivas'ta Bir Tarihî Mirasın Tanımı

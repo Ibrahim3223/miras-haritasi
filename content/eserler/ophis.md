@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.264282,40.937952"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ophis: Antik Çağın Gizemi

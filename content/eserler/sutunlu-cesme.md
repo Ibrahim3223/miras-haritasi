@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.288269,39.7868805"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sütunlu Çeşme

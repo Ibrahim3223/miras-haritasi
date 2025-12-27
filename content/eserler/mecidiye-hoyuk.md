@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.67405,38.888267"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mecidiye Höyük: Akhisar'ın Tarihi Mirası

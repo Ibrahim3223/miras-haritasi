@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.3692398,40.1947212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Micingerd Kalesi: Sarıkamış'taki Tarihi Bir Miras

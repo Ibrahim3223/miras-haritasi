@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.03764,41.061474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tezkireci Osman Efendi Camii Çeşmesi

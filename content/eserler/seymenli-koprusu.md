@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.952099,40.58945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seymenli Köprüsü: Tarihi ve Kültürel Bir Miras

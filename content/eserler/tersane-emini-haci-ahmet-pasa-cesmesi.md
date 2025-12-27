@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9641457,41.0333481"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tersane Emini Hacı Ahmet Paşa Çeşmesi

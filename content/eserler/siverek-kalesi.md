@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.316657,37.754998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Siverek Kalesi: Şanlıurfa'nın Gizli Mücevheri

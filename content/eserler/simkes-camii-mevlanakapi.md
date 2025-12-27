@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9236679,41.0166664"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Simkeş Camii: Mevlanakapı'nın Gizli Çeşmesi

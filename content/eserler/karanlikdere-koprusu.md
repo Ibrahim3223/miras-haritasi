@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.0625191,38.3392181"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karanlıkdere Köprüsü

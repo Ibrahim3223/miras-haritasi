@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9837544,39.0108091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşalı Höyük: Avanos'un Gizli Kahramanı

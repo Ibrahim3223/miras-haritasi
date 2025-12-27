@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.4608459,41.2115211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Yusuf Zeynüddin Camii ve Türbesi: Tekkeköy'de Bir Kültür Mirası

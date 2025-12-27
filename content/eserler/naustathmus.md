@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.116602,41.497628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Naustathmus: Samsun'un Tarihî Mirası**

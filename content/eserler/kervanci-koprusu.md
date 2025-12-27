@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.918718592,40.261270756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kervancı Köprüsü: Ankara'nın Tarihî Bir Mirası

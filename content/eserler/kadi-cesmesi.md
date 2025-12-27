@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4842415,38.7226181"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadı Çeşmesi: Kayseri'nin Zümrüt Anıtı

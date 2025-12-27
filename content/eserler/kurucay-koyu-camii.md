@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.037413178,37.211967091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuruçay Köyü Camii: Ahırlı, Konya'da Bulunan Bir Tarihi Cebellar

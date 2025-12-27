@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "29.0516644,41.0831757"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Van Millingen Kütüphanesi

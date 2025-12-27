@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.115222222,41.305666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kotasi Kilisesi

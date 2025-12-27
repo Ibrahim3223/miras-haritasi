@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.950611111,41.012444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızıl Minare Mescidi

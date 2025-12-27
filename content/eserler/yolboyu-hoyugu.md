@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0215645,37.634285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yolboyu Höyüğü: Aydın'ın Gizli Ören Yeri**

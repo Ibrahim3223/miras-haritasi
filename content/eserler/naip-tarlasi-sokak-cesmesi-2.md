@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.6946831,41.2446136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Naip Tarlası Sokak Çeşmesi 2: Safranbolu'nun Tarihi Bir Çeşmesi

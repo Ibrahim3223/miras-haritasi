@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.693888888,39.445555555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nakoleia: Eskişehir'in Gizli Zenginliği

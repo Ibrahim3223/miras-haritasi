@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.1719856,36.3418846"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Limyra Roma Hamamı: Antalya'nın Eski Çağdan Kalan Gizemi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.1442833,40.9422073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süreyya Paşa Çeşmesi: Maltepe'nin Tarihi Simgesi

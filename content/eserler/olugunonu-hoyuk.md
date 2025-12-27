@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.613350986,37.247070432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oluğunönü Höyük: Adana'nın Gizli Mirası

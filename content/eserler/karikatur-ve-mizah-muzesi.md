@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.97378,41.03308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karikatür ve Mizah Müzesi: Tarihe ve Komikliğe Ev Sahip

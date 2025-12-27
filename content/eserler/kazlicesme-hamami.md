@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.915554,40.990661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazlıçeşme Hamamı

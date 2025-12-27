@@ -17,7 +17,15 @@
             <a href="{{ .RelPermalink }}" class="card-img-wrap">
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
                 {{ if $img }}
-                <img src="{{ $img }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                {{ $thumb := $img }}
+                {{ if and (findRE "wikimedia.org" $img) (findRE "/commons/" $img) }}
+                {{ $thumb = replace $img "/commons/" "/commons/thumb/" }}
+                {{ $fileName := index (last 1 (split $img "/")) 0 }}
+                {{ $thumb = printf "%s/800px-%s" $thumb $fileName }}
+                {{ if eq (path.Ext $img) ".svg" }}{{ $thumb = $img }}{{ end }}
+                {{ end }}
+                <img src="{{ $thumb }}" alt="{{ .Title }}" class="card-img" loading="lazy" width="800" height="533"
+                    style="aspect-ratio: 3/2; object-fit: cover;">
                 {{ else }}
                 <div
                     style="width: 100%; height: 100%; background: #eee; display: flex; align-items: center; justify-content: center; color: #ccc;">

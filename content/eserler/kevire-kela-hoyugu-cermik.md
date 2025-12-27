@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.5574112,38.1801033"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kevire Kela Höyüğü, Çermik: Diyarbakır'ın Gizli Hazineleri

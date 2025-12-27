@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2385675,37.9124164"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Camii: Diyarbakır'ın Tarihi ve Kültürel Mirası

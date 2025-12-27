@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.977984,41.00566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Ahmet Arastası Duvar Çeşmesi

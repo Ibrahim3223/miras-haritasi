@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5414677,38.7645988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehreküstü Türbesi: Afyonkarahisar'ın Gizli Çeşmesi

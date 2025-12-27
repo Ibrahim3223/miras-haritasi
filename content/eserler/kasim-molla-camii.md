@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.305401008,40.846205063"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Molla Camii: Of, Trabzon'un Gizli Çehresi

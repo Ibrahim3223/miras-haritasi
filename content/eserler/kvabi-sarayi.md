@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "42.265333333,40.555527777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kvabi Sarayı: Erzurum'un Tarihi Bir Mirası

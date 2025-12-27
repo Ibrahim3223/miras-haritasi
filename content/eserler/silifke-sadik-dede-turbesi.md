@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.942059,36.3705411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Silifke Sadık Dede Türbesi: Bir Ziyaretçi İçin Keşfedilmesi Gereken Tarihi Anıt**

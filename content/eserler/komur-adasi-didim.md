@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.39975,37.4105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kömür Adası: Didim'in Gizli Çandırı

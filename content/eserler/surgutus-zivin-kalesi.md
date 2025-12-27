@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.275434,40.234624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sürgütüs Zivin Kalesi: Tarihî Bir Mirasın Gizemi

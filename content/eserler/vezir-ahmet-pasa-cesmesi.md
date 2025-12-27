@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9557686,41.0135956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vezir Ahmet Paşa Çeşmesi: Fatih'ten Bir Tarihi Çeşme

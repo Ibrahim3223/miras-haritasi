@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2695274,38.4621582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şaloğlu Camii: Sandıklı'nın Tarihî Bir Anıtı**

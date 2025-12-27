@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.3777,41.021533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarayköy-Yalıköy Cami Köprüsü: Tarihi ve Kültürel Mirası

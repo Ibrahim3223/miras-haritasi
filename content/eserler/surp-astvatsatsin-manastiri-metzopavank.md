@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "43.199166666,39.158333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Astvatsatsin Manastırı (Metzopavank)

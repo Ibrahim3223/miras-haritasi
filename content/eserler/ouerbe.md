@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.266414,37.239357"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ouerbe Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5226383,39.7633286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müftü Camii, Eskişehir

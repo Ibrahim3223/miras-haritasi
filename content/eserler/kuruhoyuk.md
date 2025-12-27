@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.5664591,39.3297519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuruhöyük Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.941173,41.031589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Çeşmesi, Ayvansaray

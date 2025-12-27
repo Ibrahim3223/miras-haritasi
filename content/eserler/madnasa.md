@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3693,37.1143"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Madnasa: Türkiye'nin Gizli Arkeolojik Mirası

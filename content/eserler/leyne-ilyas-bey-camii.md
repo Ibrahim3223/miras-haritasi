@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.0301151,37.3725891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Leyne İlyas Bey Camii

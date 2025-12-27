@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.613870447,40.603034917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayabaşı Çeşmesi: Çankırı'nın İhtişamını Yansıtan Bir Miras

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8820133,39.6493034"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lazlar Hamamı

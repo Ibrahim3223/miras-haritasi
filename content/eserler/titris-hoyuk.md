@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.6772881,37.4763015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Titriş Höyük**

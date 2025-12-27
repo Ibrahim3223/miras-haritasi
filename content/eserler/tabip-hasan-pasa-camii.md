@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3795776,40.1490631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabip Hasan Paşa Camii

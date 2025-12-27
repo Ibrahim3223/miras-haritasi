@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.878777,40.99434"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kamera Müzesi, İstanbul

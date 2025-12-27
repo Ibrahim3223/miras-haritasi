@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1621857,42.0084381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Topkoru 3 Tümülüsü: Kırklareli'nin Gizli Anıtı

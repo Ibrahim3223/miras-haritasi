@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.3660316,37.2179108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vakıflar Hamamı: Muğla'nın Tarihi Bir Mirası

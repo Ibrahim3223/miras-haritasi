@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.1205559,40.9211311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Pir Aziz Türbesi**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.854406974,39.93282578"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Namazgah Tepe Kabristanı

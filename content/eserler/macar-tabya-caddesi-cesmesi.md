@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.087808,41.170628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Macar Tabya Caddesi Çeşmesi

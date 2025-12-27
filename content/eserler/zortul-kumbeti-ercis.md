@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.288154,39.068097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zortul Kümbeti: Erciş'teki Gizemli Anıt

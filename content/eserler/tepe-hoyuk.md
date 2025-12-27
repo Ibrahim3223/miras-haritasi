@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.211583,38.155317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tepe Höyük: Afyonkarahisar'ın Gizli Özellisi**

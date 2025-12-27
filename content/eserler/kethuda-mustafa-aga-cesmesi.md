@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2546005,37.8566017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kethüda Mustafa Ağa Çeşmesi

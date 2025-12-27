@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6095123,38.3978539"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Köprü 1: Tarihini Yaşatan Bir Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.7943767,40.9670508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşiltepe Kaptanpaşa Köprüsü

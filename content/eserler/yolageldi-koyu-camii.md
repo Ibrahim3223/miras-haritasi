@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9480057,41.5164566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yolageldi Köyü Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.499905,36.423264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılkaya Höyük: Tarih ve Kültür Mirası

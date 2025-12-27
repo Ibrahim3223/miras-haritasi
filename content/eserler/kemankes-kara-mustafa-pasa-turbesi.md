@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9673729,41.0089836"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kemankeş Kara Mustafa Paşa Türbesi

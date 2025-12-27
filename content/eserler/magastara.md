@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.388773,37.716197"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Magastara: Burdur'un Gizli Harikası

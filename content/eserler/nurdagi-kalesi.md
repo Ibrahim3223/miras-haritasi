@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.7254372,37.1892624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nurdağı Kalesi: Gaziantep'in Tarihî Mirası

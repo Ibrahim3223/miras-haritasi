@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2805233,37.5295753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milet Türk Hamamı: Efsanevi Bir Mirasın Gerçek Yüzü

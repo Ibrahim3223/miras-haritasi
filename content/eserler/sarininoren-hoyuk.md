@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.0314924,39.5852701"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarınınören Höyük: Yozgat'taki Bir Arkeolojik Harikası

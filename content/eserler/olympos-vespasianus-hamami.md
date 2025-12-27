@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.4753704,36.3954582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Olympos Vespasianus Hamamı

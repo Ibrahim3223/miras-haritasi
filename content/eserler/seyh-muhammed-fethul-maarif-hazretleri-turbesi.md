@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1905994,40.8883018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Muhammed Fethül Maarif Hazretleri Türbesi

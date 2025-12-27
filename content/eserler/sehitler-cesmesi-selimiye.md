@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.016357801,41.008295984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şehitler Çeşmesi, Selimiye

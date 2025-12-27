@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.3013573,40.817791"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Theodora Hamamı: İstanbul'un Gizli Cebi

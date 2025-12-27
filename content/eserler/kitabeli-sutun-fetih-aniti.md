@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1284008,40.8739319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kitabeli Sütun, Fetih Anıtı

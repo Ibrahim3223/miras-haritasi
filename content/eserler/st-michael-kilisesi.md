@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.561587,41.019072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## St. Michael Kilisesi: Trabzon'un Gizli Cenneti

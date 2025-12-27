@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1850681,39.1265755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pergamon Batı Hamamları

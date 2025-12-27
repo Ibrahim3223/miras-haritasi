@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4164772,38.4275627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meydan Anıtı, Kemalpaşa

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.219762633,36.659340729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıseki Kalesi: Hatay'ın Gizli Anıtı

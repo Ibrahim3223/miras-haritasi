@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7152748,38.6201057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kara Camii, Nevşehir

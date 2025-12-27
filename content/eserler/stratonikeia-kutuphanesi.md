@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.066778779,37.313816736"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Stratonikeia Kütüphanesi: Muğla'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.052061,40.217606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söğütlü Höyük: Bayburt'un Gizli Mirası

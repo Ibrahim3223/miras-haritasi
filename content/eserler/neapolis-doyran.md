@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.513888888,36.914722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neapolis (Doyran): Antalya'nın Gizli Mirası

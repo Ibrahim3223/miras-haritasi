@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.838333,40.653754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Abdurrahman Çelebi Türbesi

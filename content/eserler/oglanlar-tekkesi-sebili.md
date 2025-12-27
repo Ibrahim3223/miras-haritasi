@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.948466,41.010459"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oğlanlar Tekkesi Sebili

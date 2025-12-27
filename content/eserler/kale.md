@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "32.666944444,39.906388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Etimesgut Kale'si: Tarihin ve Kültürün Mirası

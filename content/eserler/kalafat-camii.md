@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.13554,38.413311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalafat Camii: İzmir'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.5225735,41.6520348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Milli Mücadele ve Lozan Müzesi**

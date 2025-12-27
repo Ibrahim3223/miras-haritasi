@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.962806,41.0223807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yaver Ağa Çeşmesi

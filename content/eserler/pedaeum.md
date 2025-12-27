@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "http://www.wikidata.org/.well-known/genid/1a5f05f171f7cf72d54478a63359c101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pedaeum: Tarihi ve Kültürel Mirasın Gizemi

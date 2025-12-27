@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.125722222,38.413722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şato Kütüphanesi

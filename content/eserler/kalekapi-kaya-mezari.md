@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.0904922,41.5655708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalekapı Kaya Mezarı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1819,39.1165009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Beyzade İsabey Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9303818,40.9960136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Samatya Süryani Kilisesi

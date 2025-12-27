@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9749761,41.0063657"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk ve İslam Eserleri Müzesi Selsebili

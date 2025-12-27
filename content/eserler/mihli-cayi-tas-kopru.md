@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6526846,39.5808196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mıhlı Çayı Taş Köprü: Edremit'in Tarihi ve Kültürel Mirası

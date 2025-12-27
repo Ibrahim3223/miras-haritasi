@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.952222222,41.040388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Parmakkapı Sinagogu: Beyoğlu'nun Gizli Kahramanı

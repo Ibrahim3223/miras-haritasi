@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.6329403,39.6467912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sanyaprak Höyüğü: Yozgat'ın Eski Uygarlığının İzleri

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.87874,40.980778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selimiye Mahallesi Köprüsü

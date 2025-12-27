@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.780688,40.485384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Paktye: Gelibolu'nun Gizli Mirası

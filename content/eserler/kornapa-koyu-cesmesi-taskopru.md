@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.272240064,41.576638511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kornapa Köyü Çeşmesi: Taşköprü'deki Gizli Çeşme

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3035507,38.3233566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleiçi Çeşmesi 1: Çeşme'nin Tarihi ve Kültürel Miraslarından Birisi

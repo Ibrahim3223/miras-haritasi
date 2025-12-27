@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.94112,41.027491"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kurtağa Çeşmesi

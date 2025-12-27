@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.914438,37.504859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vasada / Ouasada: Seydişehir'in Gizli Çeşmesi

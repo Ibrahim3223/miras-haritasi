@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9245911,41.0039177"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Çelebi Kabri: Fatih'in Gizli Anıtı

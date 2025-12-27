@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.3323994,38.8464012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Köprü, Pelitalan: Manisa'nın Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "40.7431717,37.3141594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehidiye Medresesi

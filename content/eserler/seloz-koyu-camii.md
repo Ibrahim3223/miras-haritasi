@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9255009,40.1314011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selöz Köyü Camii: Bilecik'in Gizli Çandırı

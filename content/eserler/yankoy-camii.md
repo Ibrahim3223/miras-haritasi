@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.0014159,37.004667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yanköy Camii: Serik'in Tarihi Çanakkalesi

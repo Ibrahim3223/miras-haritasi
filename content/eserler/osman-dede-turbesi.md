@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9747372,39.4199905"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osman Dede Türbesi

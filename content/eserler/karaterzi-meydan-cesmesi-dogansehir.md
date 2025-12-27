@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.900047733,38.197981086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaterzi Meydan Çeşmesi, Doğanşehir

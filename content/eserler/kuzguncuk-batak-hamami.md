@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.031082,41.033623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuzguncuk Batak Hamamı: İstanbul'un Gizli Cenneti

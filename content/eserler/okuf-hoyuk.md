@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.551617,40.187617"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Okuf Höyük: Bursa'nın Gizli Mirası

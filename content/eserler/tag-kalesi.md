@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.5924988,38.1239014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tağ Kalesi: Hizan'ın Tarihî ve Kültürel Mirası

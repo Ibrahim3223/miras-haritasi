@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.2089176,38.0825653"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehitler Anıtı: İzmir'in Efsanevi Anıtının Gizemi

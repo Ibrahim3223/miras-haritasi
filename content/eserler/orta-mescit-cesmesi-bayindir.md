@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6482067,38.2255783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Mescit Çeşmesi

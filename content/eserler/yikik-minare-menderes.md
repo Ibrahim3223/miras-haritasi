@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1296883,38.238781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıkık Minare, Menderes: Bir Tarihi Anıtın Hikayesi

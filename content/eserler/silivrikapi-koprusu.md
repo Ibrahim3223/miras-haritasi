@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9212742,41.0060196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silivrikapı Köprüsü: İstanbul'un Tarihi Bir Mirası

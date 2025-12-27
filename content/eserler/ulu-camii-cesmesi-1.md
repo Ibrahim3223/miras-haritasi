@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.429985,38.6082764"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulu Camii Çeşmesi

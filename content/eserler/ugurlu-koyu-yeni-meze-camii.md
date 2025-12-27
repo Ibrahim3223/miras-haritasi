@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.988615,41.0225372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uğurlu Köyü Yeni Meze Camii

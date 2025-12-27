@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6483994,38.5424995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zincirli Camii, Kula: Manisa'nın Tarihi Bir Mirası

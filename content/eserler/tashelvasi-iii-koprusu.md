@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.3060875,37.7656708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşhelvası III Köprüsü - Diyarbakır'ın Tarihi Bir Çığır

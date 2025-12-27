@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.6792507,38.990345"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeytinliova Rum Ortodoks Kilisesi

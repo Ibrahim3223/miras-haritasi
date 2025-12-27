@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3938522,41.4124985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Umurca Tümülüsü 1: Lüleburgaz'ın Gizli Çarpısı

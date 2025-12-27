@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.391108,40.872907"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Camii Hayrat

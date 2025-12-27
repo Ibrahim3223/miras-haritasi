@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.851313274,41.117821196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Efendi Camii

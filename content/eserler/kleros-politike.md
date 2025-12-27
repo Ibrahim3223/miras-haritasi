@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.958265,38.534915"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kleros Politike: Antik Çağın Bir Örneği

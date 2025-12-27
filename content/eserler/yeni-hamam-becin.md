@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.7875576,37.2745628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Milas'ta bir Tarih Öreni: Yeni Hamam, Beçin

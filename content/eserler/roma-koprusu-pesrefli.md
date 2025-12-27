@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8468761,38.0958214"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Peşrefli

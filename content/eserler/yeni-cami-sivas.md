@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0190659,39.7484703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami: Sivas'ın Tarihi ve Kültürel Mirası

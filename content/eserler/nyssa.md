@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.959229,38.954295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Nyssa Arkeolojik Sit

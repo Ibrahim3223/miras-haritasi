@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9744434,41.0060883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk ve İslam Eserleri Müzesi Duvar Çeşmesi 3

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2408485,37.9080429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadeniz Türbesi: Diyarbakır'ın Gizli Zirvesi

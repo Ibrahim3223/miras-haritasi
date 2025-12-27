@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4188194,37.9278984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muttakip Sokak Çeşmesi: Konya'nın Selçuklu Mirası

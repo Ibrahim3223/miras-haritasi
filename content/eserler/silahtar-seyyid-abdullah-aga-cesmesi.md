@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.942502,41.068689"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silahtar Seyyid Abdullah Ağa Çeşmesi

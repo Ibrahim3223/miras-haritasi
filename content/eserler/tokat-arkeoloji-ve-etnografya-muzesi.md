@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.886521,40.300298"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tokat Arkeoloji ve Etnografya Müzesi

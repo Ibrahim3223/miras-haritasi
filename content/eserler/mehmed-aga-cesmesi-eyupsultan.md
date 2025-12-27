@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.929952,41.050163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehmed Ağa Çeşmesi, Eyüpsultan

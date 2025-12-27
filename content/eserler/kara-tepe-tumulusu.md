@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.6478885,38.7605644"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kara Tepe Tümülüsü**

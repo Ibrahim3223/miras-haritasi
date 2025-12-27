@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.56064,39.07157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kayalıdere Kalesi: Muş'un Gizli Kahramanı

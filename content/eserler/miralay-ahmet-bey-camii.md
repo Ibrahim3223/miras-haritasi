@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8930931,36.9194069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Miralay Ahmet Bey Camii

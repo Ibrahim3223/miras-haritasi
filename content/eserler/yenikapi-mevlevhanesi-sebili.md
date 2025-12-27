@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.917572,41.0144539"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yenikapı Mevlevîhanesi Sebili

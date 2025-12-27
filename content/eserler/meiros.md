@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.376179,39.2051885"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Meiros Arkeolojik Sit

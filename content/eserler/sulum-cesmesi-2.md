@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5359249,38.7594223"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sülüm Çeşmesi 2: Afyonkarahisar'ın Tarihî Çeşmesinde Gizlenen Güzellik

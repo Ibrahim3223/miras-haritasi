@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.373508,36.474922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadurmuşlu Höyük: Tarihi ve Kültürel Mirasın Gizemi

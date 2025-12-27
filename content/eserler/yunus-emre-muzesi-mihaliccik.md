@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.486459,39.710971"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yunus Emre Müzesi, Mihalıçcık

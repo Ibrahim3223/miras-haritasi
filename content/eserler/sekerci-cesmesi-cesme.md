@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3048706,38.3225365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şekerci Çeşmesi: Çeşme'nin Birinci Sınıf Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.552,36.524"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phaselis'te Athena Tapınağı

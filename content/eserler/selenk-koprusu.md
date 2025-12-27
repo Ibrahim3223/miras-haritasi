@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.3704796,39.2923813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selenk Köprüsü: Bingöl'de Bir Tarihî Köprü

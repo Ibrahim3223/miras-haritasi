@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.955341,41.028152"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yerköylü Ahmed Ağa Çeşmesi

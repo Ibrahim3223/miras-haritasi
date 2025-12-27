@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.1407127,37.4546661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köprü 2, Yava

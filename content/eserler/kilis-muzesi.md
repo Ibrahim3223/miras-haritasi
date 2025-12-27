@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.111388888,36.716944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilis Müzesi: Türkiyenin Kuzeyinde Gizlenen Tarihî Bir Miras

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.2192192,37.4753494"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavuncu Köyü Kilisesi

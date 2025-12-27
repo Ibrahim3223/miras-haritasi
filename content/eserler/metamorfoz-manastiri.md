@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.0516376,40.9088631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Metamorfoz Manastırı: Adalar'da Bir Keşif

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8360062,40.6560402"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selamet Hâtun Türbesi – İnâç Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5818176,41.7706642"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kurudere İstapiş F Tümülüsü: Tarihî Bir Mirasın Tanıtımı

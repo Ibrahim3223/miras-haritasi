@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.951854,41.019505"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Medrese, Ali Kuşçukonumuza Hoşgeldiniz

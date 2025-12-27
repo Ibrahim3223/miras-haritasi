@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.88765,38.24303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koçyaka Anonim Türbe

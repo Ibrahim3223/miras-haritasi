@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.0255051,38.374752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nakkaşlar Köprüsü

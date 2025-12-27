@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.2677345,37.0569839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sancaklı Camii: Osmaniye'nin Tarihi bir Camisi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.433943,40.203779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lopadion Arkeolojik Sit

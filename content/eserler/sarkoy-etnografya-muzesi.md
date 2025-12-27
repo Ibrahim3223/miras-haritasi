@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.113678,40.6151085"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şarköy Etnografya Müzesi

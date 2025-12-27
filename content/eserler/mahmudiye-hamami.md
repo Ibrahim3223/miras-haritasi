@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.9967613,39.4952011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmudiye Hamamı: Eskişehir'in Tarihi ve Kültürel Mirası

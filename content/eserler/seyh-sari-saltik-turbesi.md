@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.04811,38.484958"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Sarı Saltık Türbesi: Türkiye'nin Tarihi ve Kültürel Mirasının Öncüleri Arasındaki Bir Figürün Anıtı

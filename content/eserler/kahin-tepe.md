@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.3919,41.2301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kahin Tepe: Kastamonu'nun Gizli Anıtı

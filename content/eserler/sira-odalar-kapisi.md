@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.969696,41.0113525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sıra Odalar Kapısı

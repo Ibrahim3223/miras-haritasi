@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.891974168,38.958067493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeker Pınar Çeşmesi, Hekimhan

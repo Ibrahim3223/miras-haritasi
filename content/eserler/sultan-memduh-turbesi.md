@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.0082,37.9467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Memduh Türbesi

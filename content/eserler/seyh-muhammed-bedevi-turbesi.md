@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.089456,36.711837"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Muhammed Bedevi Türbesi

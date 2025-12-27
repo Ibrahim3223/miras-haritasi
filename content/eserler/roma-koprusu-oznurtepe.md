@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.3770943,36.3590546"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Öznurtepe

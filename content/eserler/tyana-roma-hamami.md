@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.5728035,37.8203163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tyana Roma Hamamı

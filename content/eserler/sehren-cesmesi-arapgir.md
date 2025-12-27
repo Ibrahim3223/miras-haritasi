@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.470621594,39.057474386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehren Çeşmesi: Arapgir'in Tarihî Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4373779,38.6151276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşakızı Türbesi: Bir İmparatorun Anıtı

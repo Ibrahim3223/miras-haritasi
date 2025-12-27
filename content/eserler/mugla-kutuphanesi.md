@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.365799,37.2179489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muğla Kütüphanesi

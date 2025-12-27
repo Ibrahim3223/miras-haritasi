@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.052122,41.051235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavasbaşı Ahmet Ağa Çeşmesi

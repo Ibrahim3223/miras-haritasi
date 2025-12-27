@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.016746,41.024767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selim Ağa Çeşmesi: Üsküdar'da Bir Çeşme Mirası

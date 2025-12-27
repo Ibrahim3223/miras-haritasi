@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9396744,41.0299683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia Uranon Kilisesi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.960343,41.011372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kuyucu Murat Paşa Medresesi Sebili**

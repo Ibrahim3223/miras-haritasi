@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9241791,40.7626724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tarihi Yalı Hamamı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.172501,39.566516"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tragasai: Ayvacık'taki Gizemli Arkeolojik Sit

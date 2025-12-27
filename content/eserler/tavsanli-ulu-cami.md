@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.491916666,39.545444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavşanlı Ulu Cami: Kütahya'nın Önemli Camisi

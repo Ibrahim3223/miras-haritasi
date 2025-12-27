@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2709541,39.906456"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yakutiye Çeşmeleri: Erzurum'un Tarihi ve Kültürel Mirası

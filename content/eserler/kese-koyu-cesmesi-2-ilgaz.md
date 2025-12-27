@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.621940764,40.948035031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kese Köyü Çeşmesi 2: Ilgaz'ın Gizli Cenneti

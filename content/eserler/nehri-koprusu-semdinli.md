@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "44.51638,37.26732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nehri Köprüsü, Şemdinli

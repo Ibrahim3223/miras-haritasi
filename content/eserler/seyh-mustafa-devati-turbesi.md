@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.017926,41.025496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Mustafa Devati Türbesi

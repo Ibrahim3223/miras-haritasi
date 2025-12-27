@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.39138889,36.76833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Side: Pamfilya'nın Muhteşem Kenti

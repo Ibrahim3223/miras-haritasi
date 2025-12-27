@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4098167,39.1600609"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yazıkınık Höyük: Kırşehir'in Gizli Çınsı**

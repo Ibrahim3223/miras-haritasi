@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "33.928104,36.376972"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silifke Atatürk Evi ve Etnografya Müzesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1159477,38.4669876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğukkuyu Camii: İzmir'in Tarihi ve Kültür Mirası

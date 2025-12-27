@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2752075,37.5248108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milet Güney Roma Hamamı

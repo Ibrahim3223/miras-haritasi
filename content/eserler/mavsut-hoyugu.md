@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.84042135,38.79376662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mavsut Höyüğü: Avanos'un Gizli Kahramanı

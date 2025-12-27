@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.760207109,41.976787234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçük İbrahimzâde İlyas Çeşmesi

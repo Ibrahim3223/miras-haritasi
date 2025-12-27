@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.273281,36.376674"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korydalla: Antik Çağın Gizemli Yerleşim Yeri

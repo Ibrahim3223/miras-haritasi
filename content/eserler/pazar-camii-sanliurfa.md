@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.790451,37.1487999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazar Camii: Şanlıurfa'nın Ölümsüz Mirası

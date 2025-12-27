@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.102713,36.862538"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kynosarion: Ege Denizi'nin Gizli Harikası

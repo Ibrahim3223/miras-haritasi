@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8357353,40.6545753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehmet Paşa Camii Tanıtımı

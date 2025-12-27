@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0946465,36.5760651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muhacirlik Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi

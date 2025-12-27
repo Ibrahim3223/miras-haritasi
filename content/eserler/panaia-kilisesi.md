@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "25.9044609,40.1947327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Panaia Kilisesi: Gökçeada'nın Gizli Cenneti

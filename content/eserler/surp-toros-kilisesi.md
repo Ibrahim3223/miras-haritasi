@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.486741,38.382015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Surp Toros Kilisesi: Kayseri'nin Gizli Çehresini Keşfedin

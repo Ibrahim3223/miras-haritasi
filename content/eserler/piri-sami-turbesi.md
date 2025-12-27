@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "39.4924736,39.7272758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Piri Sami Türbesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "34.7132492,40.2678986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kalehisar Medresesi

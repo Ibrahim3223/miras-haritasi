@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.3196435,38.3855844"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tosun Höyük: Aksaray'ın Gizli Mirası

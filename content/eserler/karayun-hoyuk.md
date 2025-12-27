@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3076981,39.6749497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 Karayün Höyük: Sivas'ta Bir Arkeolojik Miras

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2742939,41.7754745"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeytandere Köprüsü: Kırklareli'nin Gizli Cenneti

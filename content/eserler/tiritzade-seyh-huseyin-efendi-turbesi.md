@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8659706,39.9364853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tiritzade Şeyh Hüseyin Efendi Türbesi

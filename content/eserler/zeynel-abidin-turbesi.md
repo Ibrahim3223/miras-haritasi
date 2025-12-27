@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4904518,38.7219238"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeynel Abidin Türbesi

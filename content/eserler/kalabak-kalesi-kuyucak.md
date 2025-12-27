@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.5200996,37.9590988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kalabak Kalesi: Aydın'ın Gizli Cenneti

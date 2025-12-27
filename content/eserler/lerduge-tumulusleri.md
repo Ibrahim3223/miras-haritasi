@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.6550026,40.9726868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lerdüge Tümülüsleri

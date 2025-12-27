@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.8931236,40.8119774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Murat Hamamı

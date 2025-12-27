@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.47451,40.514307"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tetrakomia: Antik Çağın Gizemi

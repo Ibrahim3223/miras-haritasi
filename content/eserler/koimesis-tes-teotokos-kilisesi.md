@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.9043617,40.5055351"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koimesis Tes Teotokos Kilisesi

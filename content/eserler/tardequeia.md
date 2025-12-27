@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.88579,36.93717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tardequeia: Türkiye'nin Gizli Şehri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8601151,39.9424324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tabakhane Camisi Çeşmesi

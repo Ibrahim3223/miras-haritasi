@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9838428,41.0128517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuşhane Yanındaki Çeşme: Cankurtaran'da Bir Keşif

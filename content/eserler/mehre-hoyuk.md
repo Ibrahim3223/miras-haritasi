@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0195706,38.1585139"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehre Höyük: Kahramanmaraş'ta Bir Tarihi Harikalar Diyarı

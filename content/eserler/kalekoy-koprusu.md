@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9608,40.7952928"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaleköy Köprüsü: Rize'nin Tarihî Bir Mirası

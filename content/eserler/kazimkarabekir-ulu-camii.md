@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.957166666,37.22625"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazımkarabekir Ulu Camii

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.2467613,41.0728378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silivri Belediye Hamamı: Tarihî Bir Mirasın Gizemi

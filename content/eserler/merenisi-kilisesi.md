@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.238305555,40.603638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merenisi Kilisesi: Yukarıbakraçlı Şehrinin Eski ve Gizli Zenginliği

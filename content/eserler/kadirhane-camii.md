@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2184486,37.1821938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadirhane Camii

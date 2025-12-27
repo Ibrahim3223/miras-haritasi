@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7302513,41.606823"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazarlı Aytepe Tümülüsü: Kırklareli'nin Gizli Mirası

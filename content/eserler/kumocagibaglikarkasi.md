@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.865033,41.662771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumocağı/Bağlıkarkası: Havsa'da Gizli Tarihi

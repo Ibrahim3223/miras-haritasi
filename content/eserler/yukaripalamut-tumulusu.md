@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.533889965,39.904104865"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarıpalamut Tümülüsü: Çanakkale'nin Gizli Şehri

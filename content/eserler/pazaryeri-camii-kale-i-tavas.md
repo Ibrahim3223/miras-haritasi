@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.8455639,37.4324265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazaryeri Camii – Kale-i Tavas

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6886005,38.226799"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kesik Köprü, Ergenli: İzmir'in Tarihi Bir Mirası

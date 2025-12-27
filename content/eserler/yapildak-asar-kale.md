@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.649929,39.1695442"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yapıldak Asar Kale: Eskişehir'in Tarihi Bir Mirası

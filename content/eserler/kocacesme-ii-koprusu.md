@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.8234825,40.6512871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocaçeşme II Köprüsü

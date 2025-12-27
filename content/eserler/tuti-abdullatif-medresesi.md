@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.951934,41.020746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tuti Abdullatif Medresesi

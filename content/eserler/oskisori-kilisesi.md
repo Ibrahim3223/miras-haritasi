@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.623066666,40.54205"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oşkisori Kilisesi: Erzurum'un Gizli Cenneti

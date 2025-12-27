@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.054319,41.165347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocataş Suyu Çeşmesi

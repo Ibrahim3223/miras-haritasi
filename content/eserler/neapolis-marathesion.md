@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2421455,37.8594398"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Neapolis / Marathesion: Kuşadası'nın Tarihî Mirası**

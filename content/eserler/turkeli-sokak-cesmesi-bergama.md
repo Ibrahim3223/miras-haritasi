@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1790657,39.1251945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Türkeli Sokak Çeşmesi, Bergama

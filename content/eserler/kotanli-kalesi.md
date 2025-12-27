@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.044338,41.154037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kotanlı Kalesi: Ardahan'ın Gizli Çehresini Tanıtan Bir Ölümsüz

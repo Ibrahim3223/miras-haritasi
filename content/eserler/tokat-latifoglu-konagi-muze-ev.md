@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.55211,40.311948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tokat Latifoğlu Konağı Müze Ev: Tokat'ın Tarihi ve Kültürel Mirası

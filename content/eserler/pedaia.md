@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.873662,37.634612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pedaia: Eski Türkiye'nin Gizli Harikası

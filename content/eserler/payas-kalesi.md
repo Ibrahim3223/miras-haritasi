@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.202376,36.754264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Payas Kalesi: Hatay'ın Gizli Çehreli Kaleleri Arasındaki En Önemlisi

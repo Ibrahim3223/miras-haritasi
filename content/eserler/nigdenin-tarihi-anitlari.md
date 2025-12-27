@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6791534,37.9668083"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Niğde'nin Tarihi Anıtları

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.546633,40.9458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muradiye Hacı Rıfat Köprüsü

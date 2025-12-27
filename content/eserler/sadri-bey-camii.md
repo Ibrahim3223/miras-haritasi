@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7646236,41.5771637"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sadri Bey Camii: Vize'nin Tarihi Bir Mirası

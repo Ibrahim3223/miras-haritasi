@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0326424,41.0211639"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Profiti İlya Kilisesi Ayazması

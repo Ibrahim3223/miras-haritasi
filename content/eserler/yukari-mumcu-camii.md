@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2691879,39.9065666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yukarı Mumcu Camii

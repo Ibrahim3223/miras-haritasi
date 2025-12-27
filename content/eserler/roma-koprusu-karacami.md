@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.203979,36.752819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Karacami

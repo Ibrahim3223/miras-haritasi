@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "34.372986,38.2782706"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karballa Manastırı: Aksaray'ın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.105743,41.142554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleyeri Tepesi Höyüğü Ve Yamaç Yerleşmesi, Kavak

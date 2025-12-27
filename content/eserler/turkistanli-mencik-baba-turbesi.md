@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9007797,36.9160767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türkistanlı Mencik Baba Türbesi

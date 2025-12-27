@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.733728,37.314379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Muhammed Seydullah Camii: Mardin'in Tarihi Bir Cenneti

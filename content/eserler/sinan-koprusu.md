@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9962845,37.8293266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Köprüsü: Batman'ın Tarihi ve Kültürel Mirası

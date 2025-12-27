@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.459547,37.9165688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Serçe Sokak Çeşmesi: Aydın'ın Gizli Çeşmesi

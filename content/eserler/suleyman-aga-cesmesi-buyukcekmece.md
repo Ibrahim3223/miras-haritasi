@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.579859,41.023708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Ağa Çeşmesi: Büyükçekmece'nin Tarihi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.7900543,37.1474037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şaban Hamamı

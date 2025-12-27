@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.044016666,40.54685"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karapi Kilisesi: İspir'in Görsel İhtişamı

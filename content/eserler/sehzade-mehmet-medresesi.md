@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9573914,41.0145796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şehzade Mehmet Medresesi

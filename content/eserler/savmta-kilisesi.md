@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.374405555,41.375480555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şavmta Kilisesi: Tarihi ve Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1877995,39.1241989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kale Meydan Çeşmesi, Bergama

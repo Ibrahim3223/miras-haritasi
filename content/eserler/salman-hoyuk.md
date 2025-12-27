@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6502647,40.914238"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 #### Salman Höyük: Türkiye'nin Gizli Tarihi

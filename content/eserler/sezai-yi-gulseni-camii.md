@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sezai-yi Gülşeni Camii: Edirne'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.4063683,40.2602386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yalova Zabitan Şehitliği

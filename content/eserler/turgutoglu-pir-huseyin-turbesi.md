@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4833069,37.8696098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turgutoğlu Pir Hüseyin Türbesi

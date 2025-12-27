@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.770445974,37.703406869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kurtbaba Höyük

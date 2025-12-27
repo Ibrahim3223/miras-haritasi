@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.1753426,38.1716347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selman Kalesi: Diyarbakır'ın Gizli Zirvesi

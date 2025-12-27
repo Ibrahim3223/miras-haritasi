@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6135063,39.8104744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepecik Cami ve Haziresi

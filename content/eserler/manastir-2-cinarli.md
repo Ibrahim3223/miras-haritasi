@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8936996,40.1831017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Manastır 2 – Çınarlı: Gökçeada'nın Tarihi Bir Mirası

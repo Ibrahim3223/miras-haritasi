@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.947256,41.007679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kürkçübaşı Külhanı Sokak Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.7933617,40.9799728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koyun Baba Türbesi

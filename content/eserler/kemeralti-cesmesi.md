@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.961222,41.012916"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kemeraltı Çeşmesi: Fatih'te Bir Ölümsüz**

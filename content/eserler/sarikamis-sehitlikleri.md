@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.6132,40.289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıkamış Şehitlikleri: Bir Anıtın Tarihçesi ve Önemi

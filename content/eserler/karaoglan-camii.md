@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8778934,39.6477623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaoğlan Camii

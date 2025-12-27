@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2443027,40.6648216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şarap Deposu Çeşmesi

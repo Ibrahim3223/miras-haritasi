@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2233086,41.7346344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmed Ağa Mescidi, Kırklareli

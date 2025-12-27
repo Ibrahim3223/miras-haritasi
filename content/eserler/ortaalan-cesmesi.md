@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.48218,40.931198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaalan Çeşmesi

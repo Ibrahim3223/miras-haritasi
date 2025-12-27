@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3223133,41.6887741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılcıkdere Tümülüsü: Kırklareli'nin Gizli Mücevheri

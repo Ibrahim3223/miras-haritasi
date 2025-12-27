@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.2534,38.2069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kerim Çayırı: Afyonkarahisar'ın Gizli Anıtı

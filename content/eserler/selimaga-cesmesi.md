@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.813758,41.006417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selimağa Çeşmesi: Giresun'un Tarihî Mirası

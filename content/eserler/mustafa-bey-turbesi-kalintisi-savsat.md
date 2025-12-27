@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.4445,41.2686996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mustafa Bey Türbesi Kalıntısı, Şavşat

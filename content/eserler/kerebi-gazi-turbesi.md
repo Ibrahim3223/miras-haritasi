@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9418259,40.5475629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kerebi Gazi Türbesi: Çorum'un Tarihî Mirası

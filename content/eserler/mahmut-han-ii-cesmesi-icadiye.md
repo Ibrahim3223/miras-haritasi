@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.033256,41.027012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Han II Çeşmesi, İcadiye

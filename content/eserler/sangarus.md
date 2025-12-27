@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.062942,40.639267"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sangarus Arkeolojik Sit

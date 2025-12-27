@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5006008,37.4525986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kel Hasan Çeşmesi

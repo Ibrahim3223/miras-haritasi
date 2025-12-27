@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6578388,39.3336105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selamet Caddesi Çeşmesi

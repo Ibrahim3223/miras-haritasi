@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1796608,39.122345"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Refik Efendi Çeşmesi, Bergama

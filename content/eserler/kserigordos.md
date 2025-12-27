@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.804166666,40.3925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kserigordos: Eski Yunanistan'ın Gizli Kaleyi**

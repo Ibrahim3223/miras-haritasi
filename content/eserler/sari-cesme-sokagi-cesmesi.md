@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9519386,41.0722275"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarı Çeşme Sokağı Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi

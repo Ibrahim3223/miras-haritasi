@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.420322,40.285279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Müftü Çeşmesi 1

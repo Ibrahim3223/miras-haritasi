@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.148883,41.0183469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ören Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası

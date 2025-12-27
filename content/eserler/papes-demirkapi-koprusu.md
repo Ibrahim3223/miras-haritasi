@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.564083,40.772933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Papes Demirkapı Köprüsü: İkizdere'nin Tarihi Bir Örneği

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3697147,41.9788284"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kıyıcınıntepe Tümülüsü: Kırklareli'nin Gizli Tarihi**

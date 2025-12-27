@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0104179,39.7471123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzun Hacıoğlu Camii

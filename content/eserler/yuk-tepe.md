@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.893383,40.98848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yük Tepe Arkeolojik Sit

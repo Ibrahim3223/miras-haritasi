@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.724867,39.08375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe (Bakıralan Tepe): Manisa'nın Gizli Hazinesi

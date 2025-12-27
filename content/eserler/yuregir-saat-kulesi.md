@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yüreğir Saat Kulesi: Adana'nın Tarihi ve Kültürel Mirasının Bir Parçası

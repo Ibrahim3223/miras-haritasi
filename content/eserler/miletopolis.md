@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3608046,40.2097627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Miletopolis: Bursa'nın Gizli Mirası

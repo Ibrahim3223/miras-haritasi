@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.58272,40.561553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Krom Vadisi Livana Kilisesi

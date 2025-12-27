@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "27.116611111,38.407388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roş Haar Sinagogu

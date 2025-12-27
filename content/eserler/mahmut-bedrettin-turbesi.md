@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.937354,41.021839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Bedrettin Türbesi

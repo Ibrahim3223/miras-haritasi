@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8761295,41.5136078"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Utsurgae: Antik Kentin Gizemi

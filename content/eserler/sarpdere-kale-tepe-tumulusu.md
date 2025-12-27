@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5989819,41.8415031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarpdere Kale Tepe Tümülüsü: Demirköy'ün Gizli Mirası

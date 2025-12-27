@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.474709343,39.05895146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şehir Anlacı Çeşmesi: Arapgir'in Büyülü Yapısı

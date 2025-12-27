@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.4352112,38.6175652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Manisa İl Eğitim Tarihi Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.848187,40.902316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu

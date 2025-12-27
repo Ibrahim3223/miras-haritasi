@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.1575394,38.9225769"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kurttaş Tümülüsü, Arguvan

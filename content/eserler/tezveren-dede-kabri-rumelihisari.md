@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.055336,41.0882111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tezveren Dede Kabri: Rumelihisarı'nın Tarihsel Özellikleri

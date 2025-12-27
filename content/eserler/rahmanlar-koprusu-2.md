@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3743992,38.0481987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rahmanlar Köprüsü 2: Aydın'ın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.4087906,38.3600464"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Türâbî Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.6998349,38.8375662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıyer Höyüğü: Afyonkarahisar'da Bir Arkeolojik Miras

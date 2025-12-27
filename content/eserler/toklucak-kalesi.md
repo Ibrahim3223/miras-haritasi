@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.532299,39.5161018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Toklucak Kalesi: Ağrı'nın Tarihi Mirası

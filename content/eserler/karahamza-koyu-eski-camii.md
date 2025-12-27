@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0140877,41.8725395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Karahamza Köyü Eski Camii: Kırklareli'de Bir Önemli Kültür Mirası**

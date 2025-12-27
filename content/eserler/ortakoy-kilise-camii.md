@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.982916666,41.249027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaköy Kilise Camii

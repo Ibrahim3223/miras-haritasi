@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "30.575632,38.698263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Prymnessos Antik Tiyatrosu

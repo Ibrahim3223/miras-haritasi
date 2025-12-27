@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.668896,38.674733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taza (Lidya) Arkeolojik Sit

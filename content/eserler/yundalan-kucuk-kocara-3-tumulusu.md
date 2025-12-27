@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.342329,41.7545967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yündalan Küçük Koçara 3 Tümülüsü

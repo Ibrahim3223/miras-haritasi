@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9609833,41.0061226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nişancı Mehmet Paşa Kabri: İstanbul'un Gizli Anıtı

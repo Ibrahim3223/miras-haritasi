@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3556919,37.120163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Thera: Menteşe'deki Gizemli Arkeolojik Sit

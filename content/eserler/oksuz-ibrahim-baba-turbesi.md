@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.2753868,37.7602596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Öksüz İbrahim Baba Türbesi

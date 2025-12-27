@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.7684326,37.7483063"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karagöl Kalesi: Konya'nın Gizli Çiçeği

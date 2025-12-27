@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "43.0918541,40.6080475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kars Atatürk Çocuk Kütüphanesi: Kültür ve Bilgi Merkezi

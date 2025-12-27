@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7609882,41.5521927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pomak Hasan Tümülüsü: Kırklareli'nin Gizli Mimari Harikası

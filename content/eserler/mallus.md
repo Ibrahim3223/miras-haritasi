@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.486763,36.757453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mallus: Geçmişin İzleri Kızıltahta

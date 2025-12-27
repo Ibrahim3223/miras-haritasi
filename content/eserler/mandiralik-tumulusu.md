@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1577187,41.9587784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mandıralık Tümülüsü

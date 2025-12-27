@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4104137,40.0350761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Müftü Camii: Bursa'nın Gizli Çehresinde Bir Önemli Eser

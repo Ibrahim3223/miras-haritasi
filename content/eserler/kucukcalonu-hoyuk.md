@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.333271,40.6298218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küçükçalönü Höyük: Geçmişin Gizemi

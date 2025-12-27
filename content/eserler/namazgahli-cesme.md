@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1698647,40.6327324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Namazgahlı Çeşme: Şarköy'ün Tarihi ve Kültürel Mirasının Özellikleri

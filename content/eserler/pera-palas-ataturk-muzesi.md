@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.973473003,41.031046069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pera Palas Atatürk Müzesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0566616,41.085125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rumeli Hisarı Müzesi: İstanbul'un Gizli Cenneti

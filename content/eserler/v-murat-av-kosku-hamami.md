@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0532856,40.9875755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## V. Murat Av Köşkü Hamamı

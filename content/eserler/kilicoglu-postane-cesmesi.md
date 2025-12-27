@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5199108,40.9791603"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kılıçoğlu Postane Çeşmesi

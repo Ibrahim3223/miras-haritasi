@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.31682,41.997734"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Timolaeum: Antik Dönemin Gizemi

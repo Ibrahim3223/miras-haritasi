@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9533443,40.7966499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Turkuaz Sokak Çeşmesi 

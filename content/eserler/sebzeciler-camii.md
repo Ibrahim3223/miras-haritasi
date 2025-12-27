@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.6725,40.8422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sebzeciler Camii: Artvin'in Tarihi Bir Mirası

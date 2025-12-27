@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.723341,40.7624588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmutköy Höyüğü: Edirne'nin Eski İnsanının Mirası

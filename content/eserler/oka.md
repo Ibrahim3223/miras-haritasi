@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.411202,40.13231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Oka Arkeolojik Sit

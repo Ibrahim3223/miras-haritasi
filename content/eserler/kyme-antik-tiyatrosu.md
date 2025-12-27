@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "26.937298,38.759502"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kyme Antik Tiyatrosu: İzmir'in Tarihî Mirasının Gizli Çehresini Keşfetmek

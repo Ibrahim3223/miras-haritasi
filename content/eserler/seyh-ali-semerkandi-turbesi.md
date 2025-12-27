@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.526274,36.4464333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Ali Semerkandi Türbesi**

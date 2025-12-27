@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8347855,37.8599319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tralleis Hamam Gymnasium Yapıları

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.931814,41.039244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Abdulbaki Efendi Kabri: Eyüpsultan'ın Tarihi Bir Anıtı

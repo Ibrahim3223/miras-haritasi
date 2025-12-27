@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.1225128,36.7225342"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şurahbil Türbesi

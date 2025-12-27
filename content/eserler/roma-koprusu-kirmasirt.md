@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.3020882,37.8215287"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Kırmasırt

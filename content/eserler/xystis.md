@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.5489,37.4944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Xystis: Antik Bir Arkeolojik Sit

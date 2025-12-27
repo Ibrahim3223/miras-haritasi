@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.0709248,38.405529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lajos Kossuth Büstü: İzmir'in Tarihi ve Kültürel Mirası

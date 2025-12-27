@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1301098,38.4138908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odunkapı Camii Çeşmesi

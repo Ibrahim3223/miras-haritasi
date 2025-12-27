@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.958074,41.013631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şehzade Mehmet Camii Dördüz Çeşmesi

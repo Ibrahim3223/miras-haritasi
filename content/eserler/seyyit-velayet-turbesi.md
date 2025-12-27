@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.956096,41.024244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyyit Velayet Türbesi

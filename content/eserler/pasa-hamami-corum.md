@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.9516536,40.5505642"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşa Hamamı: Çorum'un Tarihi ve Kültürel Mirası

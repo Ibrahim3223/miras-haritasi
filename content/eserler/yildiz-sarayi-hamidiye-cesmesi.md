@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.011455369,41.049652457"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldız Sarayı Hamidiye Çeşmesi

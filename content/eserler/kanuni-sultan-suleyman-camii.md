@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1930237,36.4923134"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanuni Sultan Süleyman Camii: Hatay'ın Tarihî ve Kültürel Mirası

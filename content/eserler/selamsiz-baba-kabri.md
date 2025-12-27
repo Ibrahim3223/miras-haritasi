@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0294437,41.0236893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selamsız Baba Kabri: Üsküdar'ın Gizli Anıtı

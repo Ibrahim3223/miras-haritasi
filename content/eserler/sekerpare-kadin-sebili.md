@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.935463,41.0475197"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şekerpare Kadın Sebili: İstanbul'un Gizli Güzelliği

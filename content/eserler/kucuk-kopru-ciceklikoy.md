@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.298008,38.4953117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küçük Köprü, Çiçekliköy: Bornova, İzmir'in Gizli Cenneti

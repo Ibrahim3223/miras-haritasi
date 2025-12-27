@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.199442,40.814479"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keçi Kalesi, Gerede: Bolu'nun Gizli Kahramanı

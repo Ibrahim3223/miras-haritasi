@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.14383,37.63439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Thebai (İyonya) Arkeolojik Sitesi

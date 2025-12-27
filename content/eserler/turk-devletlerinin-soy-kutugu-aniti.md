@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1817398,40.8870811"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk Devletlerinin Soy Kütüğü Anıtı

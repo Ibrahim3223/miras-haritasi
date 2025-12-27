@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9396553,41.022934"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muhtesip İskender Ağa Kabri

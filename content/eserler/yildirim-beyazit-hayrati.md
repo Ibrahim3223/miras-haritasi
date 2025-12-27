@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0811653,40.1863365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldırım Beyazıt Hayratı: Bursa'nın Gizli Çeşmesi

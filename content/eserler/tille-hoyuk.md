@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.8833,37.7333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tille Höyük: Türkiye'nin Eski Uygarlığının İzleri

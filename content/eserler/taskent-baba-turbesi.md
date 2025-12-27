@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.559117,41.673649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taşkent Baba Türbesi

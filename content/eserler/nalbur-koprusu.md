@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.7840786,41.5749207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Nalbur Köprüsü: Edirne'nin Tarihi Bir Mirası

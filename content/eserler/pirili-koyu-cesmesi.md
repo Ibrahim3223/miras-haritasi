@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.787663,40.323902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pirili Köyü Çeşmesi: Alucra'nın Değerli Kültürel Mirası

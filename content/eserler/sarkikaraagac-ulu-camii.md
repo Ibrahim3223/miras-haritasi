@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.365694444,38.080611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şarkikaraağaç Ulu Camii

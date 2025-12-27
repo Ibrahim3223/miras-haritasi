@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.8226089,40.0467072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakale: Iğdır'ın Tarihî Bir Anıtı

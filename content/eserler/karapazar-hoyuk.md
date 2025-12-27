@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.555683,39.587283"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karapazar Höyük: Odunpazarı'nı Tanıtan Tarihi Bir Miras

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0118961,40.3566628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldırım Beyazıt Camii: Bilecik'teki Tarihi Bir Çanakkale Kahramanının Anıtı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.886388888,40.302805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zile Ulu Camii: Tokat'ta Bir Osmanlı Dönemi Anıtı

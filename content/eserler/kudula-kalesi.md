@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.5954247,40.7541122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kudula Kalesi: Trabzon'un Tarihî Mirası

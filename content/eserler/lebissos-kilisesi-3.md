@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0686626,36.5528564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lebissos Kilisesi 3: Muğla'da Bir Bizans Mirası

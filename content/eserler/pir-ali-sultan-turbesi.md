@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.0227,38.3697"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Pir Ali Sultan Türbesi

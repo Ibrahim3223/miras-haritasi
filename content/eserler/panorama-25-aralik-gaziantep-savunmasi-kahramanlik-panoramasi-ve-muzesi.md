@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.3792763,37.0658798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi

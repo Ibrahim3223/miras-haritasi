@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.65346,40.780355"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe: Gürgentepe'nin Gizli Şehri

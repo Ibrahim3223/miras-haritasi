@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.2511368,37.0343895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Peksimet Kilisesi: Bodrum'un Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.939556,41.030091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia Uranon Kilisesi: İstanbul'un Gizli Cenneti

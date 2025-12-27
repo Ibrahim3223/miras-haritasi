@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.108768,41.321531"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pteria: Antik Çağın Gizemi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.5371838,37.5589218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemer Köprüsü, Bozdoğan

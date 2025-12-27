@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2901878,38.6137352"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topakhöyük Arkeolojik Sit

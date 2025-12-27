@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1360512,37.3060455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanuni Mescidi, Bozüyük

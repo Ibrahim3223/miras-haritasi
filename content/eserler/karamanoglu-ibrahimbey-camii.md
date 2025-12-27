@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.6594925,37.5804138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karamanoğlu İbrahimbey Camii

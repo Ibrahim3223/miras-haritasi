@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.875277777,40.982777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ordu Etnografya Müzesi: Türkiye'nin Doğu Karadeniz Bölgesi'nin Gerçek Yüzünü Görme Fırsatı

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.249191,40.928551"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Öksün Kalesi: Giresun'un Efsanevi Kale Güneş Batımı

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.7324715,37.6235123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yeltepe Garnizon Yerleşimi, Karacasu

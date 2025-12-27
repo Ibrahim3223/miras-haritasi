@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.654158555,40.771165589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Çamlıca

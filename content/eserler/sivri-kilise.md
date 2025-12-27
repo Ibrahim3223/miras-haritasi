@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.3838005,38.0020599"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sivri Kilise: Niğde'nin Gizli Çehresindeki Tarihi Bir Ören

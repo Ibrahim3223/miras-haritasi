@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.5014801,37.8725586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Süleyman Ahibaba Cami

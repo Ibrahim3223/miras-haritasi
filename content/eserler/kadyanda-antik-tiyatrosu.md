@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.2356,36.715422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadyanda Antik Tiyatrosu: Muğla'nın Kültürel Mirası

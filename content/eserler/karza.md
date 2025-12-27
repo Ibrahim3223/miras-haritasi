@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.524451,40.996009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karza: Tarihî Bir Arkeolojik Sit

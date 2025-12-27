@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.6458359,41.0203362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıkavak Kalesi - İstanbul'un Şile İlçesi'nin Gizli Kahramanları

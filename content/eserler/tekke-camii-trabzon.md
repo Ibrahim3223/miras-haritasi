@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.7293739,41.0037651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tekke Camii: Trabzon'un Gizli Çehresinin En Güzel Anıtları Arasındaki Bir Zenginlik**

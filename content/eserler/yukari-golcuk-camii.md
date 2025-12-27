@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2474995,37.1733017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yukarı Gölcük Camii

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9665642,41.010952"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lütfullah Kapısı: Fatih'in Gizli Anıtı

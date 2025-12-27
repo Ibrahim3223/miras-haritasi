@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.952795,41.022309"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Muid Ahmet Efendi Medresesi: Fatih'in Gizli Cenneti

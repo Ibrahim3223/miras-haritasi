@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.852409,41.0812031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tutinoğ Köprüsü

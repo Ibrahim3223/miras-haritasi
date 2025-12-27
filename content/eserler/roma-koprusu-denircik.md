@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.43597,37.152859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Denircik

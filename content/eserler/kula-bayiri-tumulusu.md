@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2035351,39.1203804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kula Bayırı Tümülüsü: Bergama'nın Gizli Kahramanı

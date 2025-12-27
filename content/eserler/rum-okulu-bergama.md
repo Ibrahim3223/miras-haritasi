@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.1829014,39.1238174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rum Okulu, Bergama: Efsanevi Bir Tarihî Eser

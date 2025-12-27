@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4200172,41.9325256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadere Doğu Tümülüsü: Kırklareli'nin Gizli Çanakkale'si

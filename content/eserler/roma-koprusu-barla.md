@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.786196,38.011078"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Barla: Eğirdir'in Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "40.515874,41.024427"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rize Müzesi

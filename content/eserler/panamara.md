@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0989,37.2677"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panamara: Türkiye'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.749769,37.314657"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Şaran Camii

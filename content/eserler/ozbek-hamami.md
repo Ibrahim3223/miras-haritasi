@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.7059002,38.3651009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Özbek Hamamı: Tarihi ve Kültürel Mirasının Bir Parçası

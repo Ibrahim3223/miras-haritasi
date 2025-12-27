@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2796707,39.9134941"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadıoğlu Çeşmesi: Yakutiye'nin Tarihi ve Kültür Mirası

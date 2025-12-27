@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3286018,37.6039658"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprü 1, Altıntaş: Aydın'ın Tarihi Bir Köprüsü

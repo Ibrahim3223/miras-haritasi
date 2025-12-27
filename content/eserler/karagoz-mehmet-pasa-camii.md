@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.926229,41.009285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karagöz Mehmet Paşa Camii

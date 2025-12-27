@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.918047,40.7669907"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Topçu Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.135179,41.2076588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Poyrazköy Kulesi: İstanbul'un Gizli Ceziredeki Tarihi Bir Mirası

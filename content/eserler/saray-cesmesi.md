@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.7957134,41.0354271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saray Çeşmesi: Küçükçekmece'nin Tarihî Çeşmesi

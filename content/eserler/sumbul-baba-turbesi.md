@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.551372,40.320941"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sümbül Baba Türbesi: Tokat'ın Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.9154,41.141861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kalacuk Kilisesi: Ardahan'ın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.466841,36.988029"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Termessos Hadrian Anıtsal Geçidi

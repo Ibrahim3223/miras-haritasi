@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.974176,39.528399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Miletos (Mysia) Arkeolojik Sitesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.956601,37.178652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyyid Muhammed El Hüseyn-i Türbesi

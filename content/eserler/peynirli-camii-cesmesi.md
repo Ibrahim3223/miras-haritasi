@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4793587,38.715519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Peynirli Camii Çeşmesi

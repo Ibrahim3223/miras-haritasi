@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.9168777,38.7081871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarı Ahmet Paşa Hamamı

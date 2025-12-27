@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.29263,40.55715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Torul Harşit Köprüsü: İnci gibi bir Miras

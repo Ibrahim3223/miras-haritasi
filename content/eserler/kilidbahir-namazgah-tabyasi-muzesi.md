@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.38005,40.1461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilidbahir Namazgah Tabyası Müzesi

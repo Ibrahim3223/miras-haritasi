@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.363464,37.931759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kınık Höyük: Niğde'nin Gizli Cenneti

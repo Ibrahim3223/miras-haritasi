@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.980945,41.026031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kılıç Ali Paşa Medresesi

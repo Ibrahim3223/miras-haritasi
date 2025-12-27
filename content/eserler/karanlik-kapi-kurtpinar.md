@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.9663925,36.9209633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karanlık Kapı, Kurtpınar

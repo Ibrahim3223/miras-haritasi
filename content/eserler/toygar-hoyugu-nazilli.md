@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3419418,37.8443947"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Toygar Höyüğü, Nazilli

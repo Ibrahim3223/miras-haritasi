@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.049446,41.088116"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pirhias Kion: Bir Antik Kentin İzleri

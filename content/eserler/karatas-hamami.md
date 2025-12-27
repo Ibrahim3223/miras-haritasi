@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.6131432,40.602937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karataş Hamamı

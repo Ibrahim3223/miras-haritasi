@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.6258392,36.7949371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zephyrion: Akdeniz'in Gizli Harikası

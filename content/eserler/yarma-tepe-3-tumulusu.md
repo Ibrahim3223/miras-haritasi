@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8233871,41.1741486"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yarma Tepe 3 Tümülüsü: Edirne'nin Gizli Tarihi

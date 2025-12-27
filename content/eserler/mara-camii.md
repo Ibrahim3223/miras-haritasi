@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.8687782,36.7221909"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mara Camii

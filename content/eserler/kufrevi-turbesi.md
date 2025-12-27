@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.1108,38.4015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küfrevi Türbesi: Bitlis'in Gizli Değerleri

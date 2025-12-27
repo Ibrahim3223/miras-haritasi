@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8420219,40.1699409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami (Alaca)

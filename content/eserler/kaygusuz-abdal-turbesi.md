@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.0494003,40.2509003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaygusuz Abdal Türbesi

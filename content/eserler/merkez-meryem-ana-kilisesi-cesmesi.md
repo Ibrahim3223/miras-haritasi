@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.979246404,41.025023665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Meryem Ana Kilisesi Çeşmesi

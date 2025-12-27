@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2812653,39.9053993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sıvırcık Camii: Erzurum'un İhtişamlı Mimarisi

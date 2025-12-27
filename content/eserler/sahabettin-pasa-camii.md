@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0573139,40.1887207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahabettin Paşa Camii: Bursa'nın Değerli Cami Mirası

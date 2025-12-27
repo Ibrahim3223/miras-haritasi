@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.85187,36.30492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mylae Arkeolojik Sit

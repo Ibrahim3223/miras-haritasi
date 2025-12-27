@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.983532,41.0112495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kitabeli Sütun: Cankurtaran'ın İhtişamlı Anıtı

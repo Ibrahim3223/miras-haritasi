@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1821003,39.1232986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saman Pazarı Sokak Çeşmesi, Bergama

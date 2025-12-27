@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0561562,41.091259"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Necip Bey Çeşmesi, Sarıyer

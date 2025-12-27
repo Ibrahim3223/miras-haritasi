@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.8745308,39.6916122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarıkız Tepe: Edremit'in Tarihî ve Kültürel Mirası

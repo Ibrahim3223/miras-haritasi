@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.036641,38.688192"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üçhöyük Arkeolojik Siti

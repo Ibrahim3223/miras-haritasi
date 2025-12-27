@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.384641,38.596028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaualena Arkeolojik Sit

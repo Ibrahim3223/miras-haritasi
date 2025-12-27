@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.37404,36.68618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sanctuary of Aphrodite Doritis in Knidos

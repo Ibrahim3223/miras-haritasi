@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9392319,41.0061646"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Kethüda Çeşmesi, Cerrahpaşa

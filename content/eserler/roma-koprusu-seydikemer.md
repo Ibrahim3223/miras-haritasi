@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.315578,36.354683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Seydikemer

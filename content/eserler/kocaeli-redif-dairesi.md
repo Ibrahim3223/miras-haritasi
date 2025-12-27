@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9214153,40.7639656"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocaeli Redif Dairesi: İzmit'in Gizli Hazineleri

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.5518893,38.8394464"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaletepe Höyük: Tarihî ve Kültürel Mirasın Gizli Cenneti

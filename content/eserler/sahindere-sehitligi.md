@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2606316,40.1210518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahindere Şehitliği: Eceabat'ta Bir Anıtın Anlamı

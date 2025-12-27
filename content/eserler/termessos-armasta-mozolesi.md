@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.466202,36.981766"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Termessos Armasta Mozolesi

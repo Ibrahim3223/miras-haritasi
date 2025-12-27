@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9537315,41.0101662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mir Alem Mahmut Ağa Kabri

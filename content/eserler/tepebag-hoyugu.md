@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.3281975,36.9881897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepebağ Höyüğü

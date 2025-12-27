@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0941715,39.555088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekke Camii, Havran

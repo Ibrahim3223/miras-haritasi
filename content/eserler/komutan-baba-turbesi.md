@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.0875,41.0454"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Komutan Baba Türbesi: Akçakoca, Düzce'nin Tarihi ve Kültürel Mirası

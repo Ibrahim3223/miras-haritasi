@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.940886,41.03162"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kariye Sultan Hamamı: İstanbul'un Gizli Cenneti**

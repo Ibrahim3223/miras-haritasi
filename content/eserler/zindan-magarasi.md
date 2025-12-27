@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.0849883,37.8117655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zindan Mağarası: Isparta'nın Gizli Çiçeği

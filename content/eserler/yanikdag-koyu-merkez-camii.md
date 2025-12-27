@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.749671077,41.074853171"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yanıkdağ Köyü Merkez Camii: Tarihi ve Kültürel Mirasın Parçaları

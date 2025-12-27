@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.083742,41.058891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Laleli Camii, İkizce: Ordu'nun İhtişamlı Camii

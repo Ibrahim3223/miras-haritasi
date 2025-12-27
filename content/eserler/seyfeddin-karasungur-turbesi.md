@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4955025,37.8751755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyfeddin Karasungur Türbesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.128361111,38.417777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadın Anıtı: İzmir'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2535992,38.3409004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uluyol Köprüsü

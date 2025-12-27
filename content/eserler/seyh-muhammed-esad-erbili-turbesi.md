@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.0685463,38.6031265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Muhammed Esad Erbili Türbesi**

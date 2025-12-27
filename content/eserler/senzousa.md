@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.969866,38.4442405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Senzousa: Türkiye'nin Gizli Arkeolojik Mirası

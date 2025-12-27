@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9455681,41.0419807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yahudi Köprüsü: İstanbul'un Gizli Çehresinde Bir Köprü

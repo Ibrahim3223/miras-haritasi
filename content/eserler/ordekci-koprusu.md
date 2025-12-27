@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.861131696,39.943960401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ördekçi Köprüsü: Ankara'nın Tarihsel Değerlerindendir

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.1070557,38.3995514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeref Han Türbesi: Bitlis'in Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1336975,38.4162903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoğurtçu Ahmet Çeşmesi: İzmir'in Tarihi Bir Çeşmesi

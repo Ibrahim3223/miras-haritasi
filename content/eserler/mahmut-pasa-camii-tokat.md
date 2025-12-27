@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5550537,40.307045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Paşa Camii, Tokat

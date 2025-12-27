@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "38.7850075,37.1480064"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rızvaniye Medresesi: Şanlıurfa'nın Tarihi Miraslarından BİRİ

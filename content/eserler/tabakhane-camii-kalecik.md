@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.4049225,40.0984612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabakhane Camii: Kalecik'in Ölümsüz Mirası

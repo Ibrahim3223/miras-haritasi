@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.7460003,40.1407013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kalam Mevki Manastırı: Gökçeada'nın Gizli Cenneti

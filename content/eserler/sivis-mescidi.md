@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.477644874,38.719162304"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Siviş Mescidi: Kayseri'nin Tarihi Bir Mirası**

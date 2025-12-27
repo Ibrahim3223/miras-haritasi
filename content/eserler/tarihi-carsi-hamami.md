@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.3172708,38.3497401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Çarşı Hamamı

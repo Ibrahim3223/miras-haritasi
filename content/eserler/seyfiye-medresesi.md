@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.870327,39.9375725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyfiye Medresesi: Ankara'nın Tarihî Mirası

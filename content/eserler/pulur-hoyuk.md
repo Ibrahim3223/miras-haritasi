@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.1308679,39.9073455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pulur Höyük: Aziziye'nin Gizli Mirası

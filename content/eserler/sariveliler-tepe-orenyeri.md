@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.6094818,36.7685928"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıveliler Tepe Örenyeri

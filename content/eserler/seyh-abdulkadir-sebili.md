@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9303665,41.0497169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Abdülkadir Sebili: Eyüpsultan'ın Tarihi Çeşmesi

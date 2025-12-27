@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9492435,41.0101624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mesih Paşa’nın Mezarı

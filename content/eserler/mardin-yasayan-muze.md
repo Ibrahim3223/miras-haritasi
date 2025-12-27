@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "40.7416208,37.314330353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mardin Yaşayan Müze

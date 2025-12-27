@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2582359,37.8600311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Öküz Mehmet Paşa Hamamı: Kuşadası'nın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9833736,41.0274811"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nusretiye Camii Şadırvanı

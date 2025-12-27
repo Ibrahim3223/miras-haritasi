@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.9076576,38.632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pancarcı Çeşmesi

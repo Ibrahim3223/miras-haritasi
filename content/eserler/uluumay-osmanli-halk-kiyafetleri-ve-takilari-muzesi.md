@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.046138,40.191664"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Uluumay Osmanlı Halk Kıyafetleri ve Takıları Müzesi**

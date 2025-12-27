@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.40819,38.682301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Temenotira: Antik Bir Kentin Mirası

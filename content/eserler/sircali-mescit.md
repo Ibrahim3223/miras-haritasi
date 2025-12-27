@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.5022736,37.8744736"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sırçalı Mescit: Konya'nın Değerli Kültür Mirası

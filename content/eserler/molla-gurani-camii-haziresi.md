@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.941087,41.011229"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Gürani Camii Haziresi

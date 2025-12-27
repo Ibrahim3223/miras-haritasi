@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.9731178,40.3464394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oslu Hoca Türbesi: Bayburt'un Tarihi Bir Anıt

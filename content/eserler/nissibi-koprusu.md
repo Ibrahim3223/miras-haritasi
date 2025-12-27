@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.974444444,37.898888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nissibi Köprüsü

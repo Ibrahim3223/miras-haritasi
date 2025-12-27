@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.6843,39.9788"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nazilli Baba Türbesi

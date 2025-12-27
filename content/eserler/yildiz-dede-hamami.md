@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9730072,41.0156288"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yıldız Dede Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

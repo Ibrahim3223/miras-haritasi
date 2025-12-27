@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.942251,37.7013085"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malus (Pisidya) - Eğirdir, Isparta

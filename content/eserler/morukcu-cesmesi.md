@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7130966,38.6215858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Morukçu Çeşmesi: Nevşehir'in Tarihi Bir Anıtı

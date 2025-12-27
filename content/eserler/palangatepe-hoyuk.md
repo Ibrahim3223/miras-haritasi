@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.47752,40.1126213"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Palangatepe Höyük: İnegöl'ün Gizli Mimari Harikası

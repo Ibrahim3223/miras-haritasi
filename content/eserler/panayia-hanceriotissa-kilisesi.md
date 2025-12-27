@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.94088889,41.03297222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Panayia Hançeriotissa Kilisesi**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.9845944,36.8066166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzunyol Höyüğü: Harran'ın Gizemli Mirası

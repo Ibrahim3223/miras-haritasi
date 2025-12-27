@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4802933,38.7177696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tasmakıran Camii Çeşmesi: Kayseri'nin Büyüleyici Çeşmesi

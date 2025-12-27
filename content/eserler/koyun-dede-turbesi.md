@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.697073,37.081087"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koyun Dede Türbesi

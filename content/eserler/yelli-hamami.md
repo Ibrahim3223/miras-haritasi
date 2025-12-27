@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.7914181,37.2695274"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yelli Hamamı: Milas'ın Tarihi ve Kültürel Mirasının Gizemi

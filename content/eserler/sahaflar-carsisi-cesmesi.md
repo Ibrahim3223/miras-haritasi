@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9659328,41.0104523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sahaflar Çarşısı Çeşmesi

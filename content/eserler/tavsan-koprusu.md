@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.6985441,37.4901087"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavşan Köprüsü: Konya'nın Tarihi ve Kültürel Mirası

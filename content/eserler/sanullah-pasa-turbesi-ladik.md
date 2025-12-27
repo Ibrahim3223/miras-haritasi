@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.895316,40.910711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sanullah Paşa Türbesi: Ladik'te Bir Anıtın Öyküsü

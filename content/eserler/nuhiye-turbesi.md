@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.1098862,38.39571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nuhiye Türbesi: Bitlis'in Gizli Şehri

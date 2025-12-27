@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.93417,38.935047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Hamamı: Dikili'nin Tarihî Bir Mirası

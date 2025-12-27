@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.316198,36.262527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Patara Merkez Hamamı: Antik Çağın Gizemli Hamamı

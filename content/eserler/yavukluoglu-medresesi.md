@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.7262688,38.0810966"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yavukluoğlu Medresesi

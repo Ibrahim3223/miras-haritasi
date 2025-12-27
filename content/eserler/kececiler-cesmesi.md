@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.936056,41.022038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keçeciler Çeşmesi

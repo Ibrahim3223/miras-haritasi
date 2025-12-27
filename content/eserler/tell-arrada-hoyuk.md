@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.412385225,37.019819821"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tell Arrada Höyük: Mardin'in Gizli Kahramanı

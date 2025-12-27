@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.917,37.812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kestel Arkeolojik Sit

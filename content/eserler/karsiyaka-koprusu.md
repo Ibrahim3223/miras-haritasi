@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.6064663,37.7261429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karşıyaka Köprüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.420785,40.284895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müftü Çeşmesi 3: Şebinkarahisar'ın Tarihi Bir Çeşmesi

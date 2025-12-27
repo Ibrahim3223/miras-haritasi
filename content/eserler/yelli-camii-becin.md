@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7921162,37.2698097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yelli Camii: Beçin'in Tarihi Anıtı

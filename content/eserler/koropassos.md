@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7920235,38.3077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koropassos: Mersin'in Gizemli Arkeolojik Sitleri

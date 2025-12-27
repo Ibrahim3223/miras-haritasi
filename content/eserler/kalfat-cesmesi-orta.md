@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.098934958,40.667933914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalfat Çeşmesi

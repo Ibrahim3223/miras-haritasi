@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.933667,41.048281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Lala Mustafa Paşa Türbesi: Eyüpsultan'ın Ölümsüz Anıtı

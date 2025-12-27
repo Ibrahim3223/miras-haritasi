@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.725,36.9981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lryboton Kome Antik Kenti

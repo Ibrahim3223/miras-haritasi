@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2936974,39.9278717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yanıkdere Şehitliği, Erzurum

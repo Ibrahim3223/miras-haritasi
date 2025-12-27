@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.945875615,41.020031558"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marmara Ereğlisi Tümülüsü 4: Tarihî Bir Mirasın Gizemi

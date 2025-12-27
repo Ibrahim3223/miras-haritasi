@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.562807,41.679222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Mustafa Kabuli Efendi Türbesi

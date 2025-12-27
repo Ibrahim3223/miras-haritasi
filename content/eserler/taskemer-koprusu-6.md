@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.9694939,37.3055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşkemer Köprüsü 6

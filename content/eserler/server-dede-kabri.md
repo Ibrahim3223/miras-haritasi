@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.975352,41.006546"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Server Dede Kabri: İstanbul'un Gizli Anıtı

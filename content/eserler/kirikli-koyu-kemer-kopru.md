@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.55988,40.35138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırıklı Köyü Kemer Köprü

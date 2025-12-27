@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.4895444,38.1954502"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kozluk Kalesi: Batman'ın Tarihi Bir Anıtı

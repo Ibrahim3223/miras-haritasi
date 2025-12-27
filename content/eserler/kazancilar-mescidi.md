@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.547568507,40.315644816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kazancılar Mescidi: Tokat'ın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9537506,41.0179863"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Manisalı Mehmet Paşa Kabri: Fatih'teki Bir Önemli Anıt

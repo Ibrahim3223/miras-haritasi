@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3366795,39.7867088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seferşah Camii: Çanakkale'nin Gözdeleri Arasındaki Öne Çıkan Camii

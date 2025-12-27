@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.8654137,41.0149918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kotyora: Altınordu'nun Eski Eseri

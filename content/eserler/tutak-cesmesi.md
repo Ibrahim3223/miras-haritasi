@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4876518,38.7145233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tutak Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirasının Bir Parçası

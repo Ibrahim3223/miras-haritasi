@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.0000458,39.5801392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabıyık Köprüsü

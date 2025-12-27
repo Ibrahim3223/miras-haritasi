@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8026116,36.0221158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odeion of Anemurium: Antik Çağın Gizli Anıtı

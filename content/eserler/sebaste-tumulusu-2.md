@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.654548991,38.489298759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sebaste Tümülüsü 2: Uşak'ta Gizemli Bir Tarih

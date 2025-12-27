@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.4863663,39.711216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yunus Emre Türbesi: Bir Şairin Anıtsal Mezarı

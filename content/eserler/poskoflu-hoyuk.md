@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.9999721,38.1526249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Poskoflu Höyük

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.813591,40.6542168"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurtboğan Türbesi

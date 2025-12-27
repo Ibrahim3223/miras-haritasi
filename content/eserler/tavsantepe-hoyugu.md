@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.4223677,37.751938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavşantepe Höyüğü

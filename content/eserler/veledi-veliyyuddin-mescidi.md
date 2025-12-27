@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5611782,41.6829376"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Veledi Veliyyuddin Mescidi

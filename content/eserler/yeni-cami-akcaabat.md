@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.5670204,41.0216827"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeni Cami, Akçaabat

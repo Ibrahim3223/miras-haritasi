@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.326361111,41.294555555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Kutbiddin Camii ve Türbesi

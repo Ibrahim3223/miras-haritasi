@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.853575,39.940157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## TCMB Para Müzesi

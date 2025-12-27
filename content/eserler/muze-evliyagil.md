@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.697861111,39.792527777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müze Evliyagil

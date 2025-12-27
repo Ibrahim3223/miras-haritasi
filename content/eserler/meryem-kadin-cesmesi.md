@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0653076,41.0268135"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meryem Kadın Çeşmesi

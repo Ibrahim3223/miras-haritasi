@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0609131,40.1858711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tavuk Pazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası

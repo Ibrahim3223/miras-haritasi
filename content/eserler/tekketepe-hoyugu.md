@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.556548,39.6904087"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekketepe Höyüğü

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.1707349,39.413185"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Üçayak Kilisesi Kalıntıları

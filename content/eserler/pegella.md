@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.665526,38.535371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pegella Arkeolojik Sit

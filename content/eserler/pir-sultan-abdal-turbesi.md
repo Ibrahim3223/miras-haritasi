@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.77745,39.996315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Pir Sultan Abdal Türbesi**

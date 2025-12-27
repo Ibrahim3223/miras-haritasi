@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9477425,38.0386276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tripolis Büyük Hamam: Buldan'ın Tarihi ve Kültür Mirası

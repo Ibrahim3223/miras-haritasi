@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.1818695,36.4992027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yemişkumu Anıt Mezarı

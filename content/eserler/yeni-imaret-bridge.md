@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Imaret Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası

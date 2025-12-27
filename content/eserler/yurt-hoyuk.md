@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.427776,36.317501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yurt Höyük: Hatay'ın Gizli Anıtı

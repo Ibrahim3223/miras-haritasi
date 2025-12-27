@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.908165,37.526783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yarıkkaya Kalesi: Adana'nın Gizli Kalesi**

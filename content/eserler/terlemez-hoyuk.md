@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3073308,38.7354544"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terlemez Höyük: Gülşehir'in Gizli Anıtı

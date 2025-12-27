@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.8776684,39.6482964"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşa Sultan Türbesi: Balıkesir'in Gizli Kahramanı

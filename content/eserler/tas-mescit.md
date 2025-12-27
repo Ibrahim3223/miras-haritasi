@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9263382,37.5852127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Mescit: Dulkadiroğlu'nun Tarihî Bir Örneği

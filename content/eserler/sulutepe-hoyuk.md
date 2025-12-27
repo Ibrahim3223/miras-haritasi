@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0989117,38.4181952"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sulutepe Höyük: Aksaray'ın Tarihî Mirası

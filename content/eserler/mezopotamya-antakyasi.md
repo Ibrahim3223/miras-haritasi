@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.755832,37.229021"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mezopotamya Antakyası: Şanlıurfa'nın Gizli Güzelliği

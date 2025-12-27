@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8538589,39.9396248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılbey Camii: Altındağ'nın Tarihi ve Kültürel Bir Ögesi

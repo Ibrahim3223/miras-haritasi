@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.677995,37.97038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmud Türbesi: Niğde'nin Tarihî Anıtı

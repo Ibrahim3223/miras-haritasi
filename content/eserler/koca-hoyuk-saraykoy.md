@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.9972,37.9062004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koca Höyük, Sarayköy: Tarihini Yeniden Yaşıyor

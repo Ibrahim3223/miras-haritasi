@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.810349,40.850132"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karaağaç Köprüsü

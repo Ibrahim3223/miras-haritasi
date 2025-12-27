@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9355412,41.0474167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sokullu Mehmet Paşa Çeşmesi: Eyüp'te Bir Tarihî Çeşme

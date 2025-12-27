@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.956499453,37.179387403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Hamidi Türbesi: Mardin'in Kutsal Anıtı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.633389,37.027158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nikopolis (Kilikya)

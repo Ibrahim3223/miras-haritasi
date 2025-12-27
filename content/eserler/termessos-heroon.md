@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.463379955,36.982370693"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Termessos Heroon

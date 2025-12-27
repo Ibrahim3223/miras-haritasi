@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3645251,39.3040882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yenidoğanlı Höyük: Tarihi ve Kültürel Mirası

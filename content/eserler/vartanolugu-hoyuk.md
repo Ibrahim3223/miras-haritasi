@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.6279136,40.054755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vartanoluğu Höyük: Sivas'ın Gizemli Eseri

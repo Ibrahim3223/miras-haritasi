@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.0220566,39.7351532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Erzurumi Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4999466,37.8725204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeref Şirin Camii Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5948868,39.8656387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami, Yıldızeli: Sivas'ın Gizli Çiçeği

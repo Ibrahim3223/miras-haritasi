@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.199185,38.527464"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mormonda Arkeolojik Sit

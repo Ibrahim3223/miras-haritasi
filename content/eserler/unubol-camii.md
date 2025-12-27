@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1964741,37.8287849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydın'ın Gizli Çiçeği: Ünübol Camii

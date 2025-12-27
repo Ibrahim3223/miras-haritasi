@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.850723,40.906068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nerola Arkeolojik Sitesi

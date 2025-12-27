@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.668747,40.559956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Liada: İznik'in Gizli Mimari Harikası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.16325,37.44608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılin Köprüsü: Adıyaman'ın Eski ve Gizemli Köprüsü

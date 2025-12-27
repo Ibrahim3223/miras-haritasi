@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.90026,36.2687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Trysa Heroonu: Demre'nin Gizli Kutsal Alanı

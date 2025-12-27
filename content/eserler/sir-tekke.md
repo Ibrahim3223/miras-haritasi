@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.932584901,41.035203326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sır Tekke: İstanbul'un Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7437515,38.0840149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Mehmet Çelebi Türbesi

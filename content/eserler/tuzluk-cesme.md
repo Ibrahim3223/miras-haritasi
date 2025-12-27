@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.066149,41.081728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tuzluk Çeşme: Beykoz'un Birincil Tarihi Çeşmesi

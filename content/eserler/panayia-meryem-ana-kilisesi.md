@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.129118,40.874218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia (Meryem Ana) Kilisesi

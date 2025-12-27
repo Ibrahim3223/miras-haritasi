@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.499279,39.7170219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terzi Baba Türbesi: Erzincan'ın Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.5326252,38.4040489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadıoğlu Hamamı

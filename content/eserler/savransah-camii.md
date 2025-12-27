@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.7785072,38.2258911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Savranşah Camii: Denizli'nin Tarihi ve Kültürel Mirası

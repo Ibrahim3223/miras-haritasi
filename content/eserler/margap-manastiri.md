@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "38.3894691,38.3900337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Margap Manastırı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.0253245,40.2387637"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahtalı Camii, Çubuk: Ankara'nın Gizli Cenneti

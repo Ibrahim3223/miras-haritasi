@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.329321,39.69864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Toğray Höyük: Eskişehir'in Gizli Cenneti

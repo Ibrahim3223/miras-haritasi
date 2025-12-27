@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0644321,40.1835823"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orhan Gazi Medresesi: Bursa'nın Eski Meydanında Gizli Bir Miras

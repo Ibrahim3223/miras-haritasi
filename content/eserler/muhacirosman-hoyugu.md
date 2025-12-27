@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2262786,36.9106554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Muhacırosman Höyük: Gaziantep'in Gizli Tarihi**

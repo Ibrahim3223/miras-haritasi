@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7646294,41.3745193"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Şaban-ı Veli Türbesi

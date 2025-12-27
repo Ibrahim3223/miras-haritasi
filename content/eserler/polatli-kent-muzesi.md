@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.1436043,39.5864487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Polatlı Kent Müzesi: Ankara'nın Kültür Mirası

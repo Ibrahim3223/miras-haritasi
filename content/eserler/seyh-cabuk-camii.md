@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.731823,37.3129387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Çabuk Camii: Mardin'in Gizli Çeşmesi

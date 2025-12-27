@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.7545013,39.8629456"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekke Köprüsü: Sivas'ta Bir Tarihi İkincil Köprü

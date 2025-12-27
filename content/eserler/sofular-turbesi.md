@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4608688,40.8786469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sofular Türbesi: Tarihi ve Kültürel Mirasın Bir Parçası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.938875,41.004044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şah Sultan Çeşmesi (Cerrahpaşa)

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.224211,40.469253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kara Aslan Türbesi

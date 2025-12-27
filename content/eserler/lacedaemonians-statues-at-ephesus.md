@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3637,37.9497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lacedaemonians, Ephesos'taki Heykeller: Tarihi Bir Anıt

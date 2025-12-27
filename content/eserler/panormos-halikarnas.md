@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.266667,37.116667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panormos (Halikarnas) Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.0887,40.3853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Mustafa Türbesi: Turhal'ın Öncü Değerleri

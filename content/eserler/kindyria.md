@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.2139865,38.148568"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kindyria Arkeolojik Sit

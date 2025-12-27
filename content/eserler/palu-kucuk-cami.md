@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.9528622,38.6994146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Palu Küçük Cami Tanıtımı

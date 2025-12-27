@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6469021,41.0365372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Çeşme: Esenyurt'ta Bir Tarihi Harikası

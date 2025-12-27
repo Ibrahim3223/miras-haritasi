@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.837162682,40.280790537"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karataş Köyü Camii: Ankara'nın Gizli Cenneti

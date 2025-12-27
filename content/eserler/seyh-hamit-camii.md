@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.5722733,38.6500206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Hamit Camii: Kayseri'nin Güzelliği

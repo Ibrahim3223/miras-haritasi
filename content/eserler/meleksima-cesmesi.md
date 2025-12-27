@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.070463,41.020058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meleksima Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4921799,38.7253761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mıhlım II Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4862595,39.5457535"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mülayim Dede Türbesi (Dedebali)

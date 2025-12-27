@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.951647,41.026271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yavuz Sultan Selim Türbesi

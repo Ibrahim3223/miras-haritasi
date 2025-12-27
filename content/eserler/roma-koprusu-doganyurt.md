@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.9822998,37.6100998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Doğanyurt

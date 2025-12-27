@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.91417,36.74292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ömer Paşa Camii: Elmalı'nın Tarihi Bir Mirası

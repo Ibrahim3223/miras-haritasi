@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.7019691,36.8943748"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şarampol Camii

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1150246,41.2339859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pompei Sütunu: İstanbul'un Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "28.9769936,41.0153923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sirkeci Garı Saat Kuleleri

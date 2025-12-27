@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0482178,40.1868553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaplıca Caddesi Çeşmesi: Bursa'nın Tarihi Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.91585,36.674495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Telandra: Antik Bir Kentin İzleri

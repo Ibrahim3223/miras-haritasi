@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "28.1325,40.3873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Polikron Manastırı

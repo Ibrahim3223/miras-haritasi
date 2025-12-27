@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9117189,39.8629666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kültepe Höyüğü, Çongar: Tarihi ve Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.933081,41.054443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rayet Kesan Kalfa Çeşmesi: Eyüp'te Bir Geçmişe Dair Anıtsal Çeşme

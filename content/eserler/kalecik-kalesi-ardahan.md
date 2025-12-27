@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.481213,40.968655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kalecik Kalesi: Ardahan'ın Tarihî Mirası

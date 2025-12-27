@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5967102,40.5817642"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marcukis Çeşmesi

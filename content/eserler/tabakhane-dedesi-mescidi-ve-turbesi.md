@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6156998,37.7285004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabakhane Dedesi Mescidi ve Türbesi

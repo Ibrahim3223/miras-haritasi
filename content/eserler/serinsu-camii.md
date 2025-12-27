@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.5745999,41.0252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Serinsu Camii: Artvin'in Zengin Kültür Mirası

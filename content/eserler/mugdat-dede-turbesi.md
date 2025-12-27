@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6008186,36.7827873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muğdat Dede Türbesi

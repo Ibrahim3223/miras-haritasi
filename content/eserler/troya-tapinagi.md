@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.2375,39.956944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Troya Tapınağı

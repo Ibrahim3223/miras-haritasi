@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.2142925,38.4579697"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ziraat Mektebi Atatürk Büstü

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5600338,37.4766579"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yılanlı Kale, Karahayıt: Milas'ın Tarihî Mirası

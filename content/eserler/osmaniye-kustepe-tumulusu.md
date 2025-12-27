@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1309319,41.4539299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmaniye Kuştepe Tümülüsü: Babaeski'nin Gizli Hazineleri

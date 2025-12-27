@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.8006859,39.7752037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemer Köprü, Çapanoğlu

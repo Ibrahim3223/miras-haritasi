@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9343987,41.0471191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sokullu Mehmet Paşa Medresesi

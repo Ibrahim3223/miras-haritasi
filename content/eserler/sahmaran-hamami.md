@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.8968834,36.9176799"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahmaran Hamamı: Tarsus'un Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.9135818,39.062603"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yelmaniye Camii: Tunceli'nin Gizli Çağından Kalan Bir İncil

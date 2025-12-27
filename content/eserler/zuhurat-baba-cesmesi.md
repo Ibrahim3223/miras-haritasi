@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.867338,40.982437"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zuhurat Baba Çeşmesi: Bakırköy'de Bir Çağdaş Çeşme Eseri

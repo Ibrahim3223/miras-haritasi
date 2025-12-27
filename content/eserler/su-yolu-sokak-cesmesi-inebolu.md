@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.765781537,41.974896184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Su Yolu Sokak Çeşmesi, İnebolu

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9239674,40.766346"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Zıbıncı Mescidi: İznik'in Gizli Çağına İşaret Eden Bir Cami

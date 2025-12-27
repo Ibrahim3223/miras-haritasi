@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.104447,36.917399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pınarcık Camii: Serik'in Tarihi bir Çanak

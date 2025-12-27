@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.95316,38.27748"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sanctuary of Persian Artemis in Hypaipa

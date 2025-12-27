@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.735578,37.378561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Olimos Arkeolojik Siti: Antik Çağın Gizli Mirası

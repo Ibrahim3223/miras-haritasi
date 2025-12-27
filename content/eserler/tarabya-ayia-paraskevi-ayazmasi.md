@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0566998,41.1366997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tarabya Ayia Paraskevi Ayazması: İstanbul'un Gizli Çeşmesi

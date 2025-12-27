@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.521389,37.8820343"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sadır Sultan Türbesi

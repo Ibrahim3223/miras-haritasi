@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6184654,36.7920685"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Hasan ve Musa Türbesi

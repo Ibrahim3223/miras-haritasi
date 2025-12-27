@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.1799221,38.2956123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yalvaç Ulu Cami

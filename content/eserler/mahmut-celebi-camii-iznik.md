@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.71982,40.428051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Çelebi Camii: İznik'in Gizli Çeşmesi

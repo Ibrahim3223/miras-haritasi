@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0570218,39.104392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Malkaya Arkeolojik Sit

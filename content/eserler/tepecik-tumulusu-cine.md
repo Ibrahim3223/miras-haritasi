@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0006008,37.5917015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepecik Tümülüsü: Aydın'ın Gizli Tarihi

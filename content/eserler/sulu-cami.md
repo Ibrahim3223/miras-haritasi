@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.3176613,37.7536812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sulu Cami: Şanlıurfa'nın Tarihi Bir Mirası

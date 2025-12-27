@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.5544147,38.7457314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Umur Bey Hamamı: Afyonkarahisar'ın Tarihi Bir Mirası

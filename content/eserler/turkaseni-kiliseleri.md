@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.561555555,40.9735"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turkaşeni Kiliseleri

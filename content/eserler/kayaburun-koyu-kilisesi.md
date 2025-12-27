@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.0172729,39.2924728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayaburun Köyü Kilisesi: Divriği'nin Gizli Mücevheri

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.85,38.75"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silandos Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.695263,40.436688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kabaköy Çeşmesi: Gümüşhane'nin Tarihi ve Kültürel Mirası

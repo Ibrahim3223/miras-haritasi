@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.7194138,41.002861"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şirin Hatun Camii

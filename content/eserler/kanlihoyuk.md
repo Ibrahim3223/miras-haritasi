@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.94842,39.6663456"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanlıhöyük: Tarih ve Kültür Mirası

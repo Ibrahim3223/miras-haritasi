@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8714657,41.7309189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocahöyük II Tümülüsü, Süloğlu: Tarihî Bir Mirasın Gizemi

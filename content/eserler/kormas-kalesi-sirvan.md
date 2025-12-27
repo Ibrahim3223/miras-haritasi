@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.1305275,38.0317879"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kormas Kalesi: Şirvan'ın Tarihî Mirası

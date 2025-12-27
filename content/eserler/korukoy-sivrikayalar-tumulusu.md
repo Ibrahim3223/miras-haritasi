@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3078194,41.8650932"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koruköy Sivrikayalar Tümülüsü: Türkiye'nin Gizli Anıtlarından Birisi

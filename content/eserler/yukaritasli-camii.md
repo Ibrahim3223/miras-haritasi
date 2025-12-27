@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.4762154,40.7381935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarıtaslı Camii: Çorum'un Gizli Şarkısı

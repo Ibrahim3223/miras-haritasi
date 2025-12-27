@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.9336991,39.256829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kanlıca Höyük: Türkiye'nin Eski Uygarlığının Gizli Yerleri

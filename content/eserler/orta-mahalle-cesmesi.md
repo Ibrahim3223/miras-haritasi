@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.85289,37.8449326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Orta Mahalle Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

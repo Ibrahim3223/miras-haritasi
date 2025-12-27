@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8654747,39.9350853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Telli Hacı Halil Camisi Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirasının Bir Parçası

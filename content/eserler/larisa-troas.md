@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.14527778,39.61527778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Larisa (Troas): Tarihî Bir Mirasın İzleri

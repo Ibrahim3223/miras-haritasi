@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.9518623,39.1784668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kılıçtepe Kalesi: İzmir'in Gizli Kahramanı

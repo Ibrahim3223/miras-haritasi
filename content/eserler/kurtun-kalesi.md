@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.1194458,40.7008324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kürtün Kalesi: Gümüşhane'nin Gizli Cenneti**

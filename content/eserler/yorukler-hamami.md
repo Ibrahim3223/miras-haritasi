@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.080195,41.526776"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yörükler Hamamı Tanıtımı

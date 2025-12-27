@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.50364,37.72545"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yanagelmez Höyüğü

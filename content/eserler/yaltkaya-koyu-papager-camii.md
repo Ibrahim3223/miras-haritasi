@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.914532491,41.070530041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yaltkaya Köyü Papager Camii

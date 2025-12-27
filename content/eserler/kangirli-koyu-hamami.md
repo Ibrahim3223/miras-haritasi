@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.5792694,40.2302666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kangırlı Köyü Hamamı: Lapseki'nin Tarihi Bir Mirası

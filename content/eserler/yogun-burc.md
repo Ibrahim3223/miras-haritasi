@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.4918709,38.7182465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoğun Burç: Kayseri'nin Tarihî Mirası

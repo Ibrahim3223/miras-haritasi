@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.088427,38.161899"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neikaia Arkeolojik Sit

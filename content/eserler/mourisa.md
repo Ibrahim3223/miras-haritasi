@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.375673,37.436126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mourisa Arkeolojik Sit

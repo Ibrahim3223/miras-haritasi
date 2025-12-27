@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4459991,37.5895996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yayla Namazgahı: Aydın'ın Tarihi Bir Çeşmesi

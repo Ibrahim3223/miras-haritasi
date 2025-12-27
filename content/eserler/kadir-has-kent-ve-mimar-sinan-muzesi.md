@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.491346,38.745976"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadir Has Kent ve Mimar Sinan Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.928706,41.00825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vani Ahmed Efendi Türbesi

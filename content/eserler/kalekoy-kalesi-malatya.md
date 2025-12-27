@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.7342033,38.368206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleköy Kalesi: Malatya'nın Tarihî ve Kültürel Mirası

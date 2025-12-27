@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2187,39.845348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofular Höyük: Hafik'te Gizlenen Geç Çağlar Mirası

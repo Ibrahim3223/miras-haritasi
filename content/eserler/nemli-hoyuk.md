@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.222153,39.719522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nemli Höyük

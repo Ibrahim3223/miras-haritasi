@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8695412,41.7193985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sazlı Köyü Camii: Sinop'un Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9108,40.2808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kolonai (Mysia): Türkiye'nin Eski Çağ Mirası

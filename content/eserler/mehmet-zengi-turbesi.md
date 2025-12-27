@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4987822,38.715488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Zengi Türbesi

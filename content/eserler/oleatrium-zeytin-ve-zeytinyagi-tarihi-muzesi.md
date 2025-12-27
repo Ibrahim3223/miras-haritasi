@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.2894897,37.7593002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Oleatrium Zeytin ve Zeytinyağı Tarihi Müzesi

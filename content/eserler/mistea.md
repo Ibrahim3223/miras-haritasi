@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.7261111,37.6763889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mistea Arkeolojik Sit

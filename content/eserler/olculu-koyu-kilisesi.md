@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.2546616,40.5681229"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ölçülü Köyü Kilisesi

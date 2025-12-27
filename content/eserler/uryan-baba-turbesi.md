@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.734349,39.495649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üryan Baba Türbesi: Seyitgazi'nin Gizli Cenneti

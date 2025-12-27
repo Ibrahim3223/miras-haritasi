@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.368694444,41.298333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tsihisdziri Kilisesi: Gürcistan'ın Şavşat'taki Tarihî Bir Mirası

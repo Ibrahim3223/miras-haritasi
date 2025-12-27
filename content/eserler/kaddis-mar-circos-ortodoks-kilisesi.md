@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "36.2532501,36.1200676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaddis Mar Circos Ortodoks Kilisesi: Altınözü'nün Gizli Cenneti

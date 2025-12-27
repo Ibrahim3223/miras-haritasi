@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.542461,41.735918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yorulmaz Çiftliği – Eski Bağlık

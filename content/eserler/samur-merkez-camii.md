@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.261523,40.87301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Samur Merkez Camii

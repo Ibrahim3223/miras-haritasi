@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.4202093,39.7799299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Tercan

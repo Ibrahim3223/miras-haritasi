@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.686075,40.631587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Libum: İhtişamlı Geç Antik Çağ'ın Mirası

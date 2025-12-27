@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.19986,39.547321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Akbucak

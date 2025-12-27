@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.6345005,37.6220016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tolaz Tepe Tonozlu Mezarı: Bir Tarih Öncesi Anıtının Öyküsü

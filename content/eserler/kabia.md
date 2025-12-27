@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.299985,40.500052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kabia: Sakarya'nın Gizli Arkeolojik Mirası

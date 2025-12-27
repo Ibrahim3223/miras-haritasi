@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.5516815,40.766449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taksiarki Kilisesi: Trabzon'un Gizli Çehresini Keşfedin

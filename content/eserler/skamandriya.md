@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.364872,39.83749"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Skamandriya: Ezine'nin Tarihi ve Kültürel Mirası

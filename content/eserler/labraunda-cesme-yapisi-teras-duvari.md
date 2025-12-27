@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8199253,37.4190331"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Labraunda Çeşme Yapısı ve Teras Duvarı: Milas'ın Gizli Cenneti

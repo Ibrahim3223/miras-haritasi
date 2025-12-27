@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.915896,40.999905"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pege Arkeolojik Sit

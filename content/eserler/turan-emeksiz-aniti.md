@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.963138888,41.009638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turan Emeksiz Anıtı

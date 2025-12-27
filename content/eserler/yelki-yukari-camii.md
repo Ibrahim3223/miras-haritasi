@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8745403,38.340519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yelki Yukarı Camii: İzmir'in Tarihi Bir Mirası

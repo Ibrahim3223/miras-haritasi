@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7844658,38.8435364"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rahmiye II: Akhisar'ın Tarihi Cebi

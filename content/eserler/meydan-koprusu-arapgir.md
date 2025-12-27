@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.4839672,39.0689607"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meydan Köprüsü, Arapgir

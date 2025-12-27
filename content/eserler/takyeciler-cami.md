@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.546305555,40.316083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Takyeciler Cami'nin Gizemi: Tokat'ta Bir Tarihî Harikası

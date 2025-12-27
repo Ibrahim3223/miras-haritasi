@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3030815,38.3189125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaymakam Çeşmesi: Çeşme'nin Tarihi Ve Çeşme'nin Kalbinde Yatan Değer

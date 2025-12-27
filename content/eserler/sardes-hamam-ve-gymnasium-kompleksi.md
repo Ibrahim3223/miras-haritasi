@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.0395985,38.4890289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sardes Hamam ve Gymnasium Kompleksi

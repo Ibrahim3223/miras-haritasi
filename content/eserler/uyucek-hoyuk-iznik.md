@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.766833,40.419567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üyücek Höyük: İznik'in Gizli Mirası

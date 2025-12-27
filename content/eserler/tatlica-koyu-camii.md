@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2419662,41.2562866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tatlıca Köyü Camii

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.932066,41.0175056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yavaşça Mehmet Ağa Camii

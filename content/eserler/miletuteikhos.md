@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.429191,40.212943"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Miletuteikhos: Antik Miletos'un Sembolü

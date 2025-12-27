@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.9594,40.248336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Teçik Tepecik Höyük (Oruçbeyli), Bayburt

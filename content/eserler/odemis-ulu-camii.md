@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.969666666,38.228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ödemiş Ulu Camii: İzmir'in Değerli Tarihi

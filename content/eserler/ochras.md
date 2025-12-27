@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.1401,38.8733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ochras: Antik Kentin Gizemi**

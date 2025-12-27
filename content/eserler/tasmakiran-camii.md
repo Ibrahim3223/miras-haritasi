@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4803047,38.7176208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tasmakıran Camii: Tarihi ve Mimari Gizemi

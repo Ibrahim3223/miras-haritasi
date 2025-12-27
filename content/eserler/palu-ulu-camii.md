@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.953975,38.6997559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Palu Ulu Camii: Elazığ'ın Gizli Çehresini Yansıtan bir Klasik

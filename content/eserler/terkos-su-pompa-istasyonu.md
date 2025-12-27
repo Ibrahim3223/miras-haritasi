@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.6733265,41.3008041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terkos Su Pompa İstasyonu: İstanbul'un Gizli Çarpıntısı

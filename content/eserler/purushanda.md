@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.835833,38.411389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Puruşhanda Arkeolojik Sit

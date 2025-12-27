@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.04693,41.162255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Boğos Ermeni-Katolik Kilisesi

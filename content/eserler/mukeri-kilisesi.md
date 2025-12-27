@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.057961111,41.091972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mukeri Kilisesi: Ardanuç'ta Bir İnanç Mirası

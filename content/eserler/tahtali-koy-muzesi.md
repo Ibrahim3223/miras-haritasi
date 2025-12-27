@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.6497822,40.5752831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahtalı Köy Müzesi

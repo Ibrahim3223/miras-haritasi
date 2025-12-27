@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.8463993,37.4174385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Harun Veli Hamamı: Tarihi ve Kültürel Bir Miras

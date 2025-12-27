@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8630219,39.9354057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koyunpazarı Mescidi: Ankara'nın Tarihi Bir Öreni

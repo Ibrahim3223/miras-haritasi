@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2777004,38.2937012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şehit Mehmet Anıtı

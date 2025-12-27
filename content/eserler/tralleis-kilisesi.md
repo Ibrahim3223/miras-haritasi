@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.8311634,37.859745"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tralleis Kilisesi: Aydın'ın Eski Kentinde Gizli Bir Miras

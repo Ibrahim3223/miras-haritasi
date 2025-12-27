@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9775257,39.4213104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karadonlu Can Baba Türbesi

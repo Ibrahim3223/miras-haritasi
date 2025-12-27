@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "36.926506,37.5850334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Medrese: Kahramanmaraş'ta Bir Geçmişe Sahip Medrese

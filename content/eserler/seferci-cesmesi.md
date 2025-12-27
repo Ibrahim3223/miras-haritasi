@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7101288,38.620945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seferci Çeşmesi: Nevşehir'in Tarihî ve Kültürel Mirası

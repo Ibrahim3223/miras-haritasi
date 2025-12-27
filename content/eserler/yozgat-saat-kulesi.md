@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "34.8082,39.8221"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yozgat Saat Kulesi: Cumhuriyet Dönemi'nin İhtiyaçını Hesaplayan Bir Miras

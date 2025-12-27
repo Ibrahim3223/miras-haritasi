@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.961283,40.924533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koluna Köprüsü: Tarihi ve Kültürel Mirasının Bir Örneği

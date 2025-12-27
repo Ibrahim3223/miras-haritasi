@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7681313,41.4656296"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaya Camii, Boyabat

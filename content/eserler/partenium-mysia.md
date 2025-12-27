@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.335,39.218055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Partenium (Mysia): Tarihi Mirasın Gizemi

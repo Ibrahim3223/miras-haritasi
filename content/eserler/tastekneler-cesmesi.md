@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.943581,41.00903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taştekneler Çeşmesi

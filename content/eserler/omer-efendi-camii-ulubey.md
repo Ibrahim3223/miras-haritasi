@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2922821,38.4223824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ömer Efendi Camii: Ulubey'in Tarihi Bir Mirası

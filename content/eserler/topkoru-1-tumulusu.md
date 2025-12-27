@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1616917,42.0094032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topkoru 1 Tümülüsü

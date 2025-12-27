@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0343437,40.967411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Hamam: Kadıköy'deki Bir İtikaf ve Terapi Merkezi

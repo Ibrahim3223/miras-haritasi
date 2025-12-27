@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3633289,40.2203255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kümbetli Camii: Bursa'nın Gizli Cenneti

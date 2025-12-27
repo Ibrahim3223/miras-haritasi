@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.972982,41.023019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sykai Arkeolojik Sit

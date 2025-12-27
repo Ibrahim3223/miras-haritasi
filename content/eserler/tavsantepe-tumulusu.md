@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.19472,39.11514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavşantepe Tümülüsü: İzmir'in Gizli İncisi

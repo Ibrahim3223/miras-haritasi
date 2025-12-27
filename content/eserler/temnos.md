@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0667,38.6"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Temnos Arkeolojik Sit

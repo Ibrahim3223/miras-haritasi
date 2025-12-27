@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.8646736,37.7622643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Muhammed Arabkendi Türbesi

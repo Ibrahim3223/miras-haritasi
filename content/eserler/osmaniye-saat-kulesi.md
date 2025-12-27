@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "36.251527777,37.07175"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmaniye Saat Kulesi

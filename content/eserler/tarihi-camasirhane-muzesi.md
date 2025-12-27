@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "33.6156998,40.6011581"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Çamaşırhane Müzesi

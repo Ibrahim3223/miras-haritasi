@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.593629,40.458273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocapınar Köyü Kilisesi 3 - Gümüşhane'deki Bir Ören Yeri

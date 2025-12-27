@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.43889,36.89532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kelbessos: Antik Çağın Gizli Harikası

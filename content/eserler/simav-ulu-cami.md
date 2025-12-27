@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.976972222,39.0855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Simav Ulu Camii: Kütahya'nın Tarihi ve Kültürel Mirası

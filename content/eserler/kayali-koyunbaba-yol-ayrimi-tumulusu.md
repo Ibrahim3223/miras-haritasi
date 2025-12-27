@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1166229,41.7540245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kayalı Koyunbaba Yol Ayrımı Tümülüsü

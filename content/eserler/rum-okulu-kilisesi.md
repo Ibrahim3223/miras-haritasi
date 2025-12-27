@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.6506424,38.5490189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Rum Okulu Kilisesi

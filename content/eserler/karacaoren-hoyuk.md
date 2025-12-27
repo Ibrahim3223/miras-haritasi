@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.9548187,40.6503334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karacaören Höyük: Çorum'un Gizemi

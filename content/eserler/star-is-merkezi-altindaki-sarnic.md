@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.961663329,41.008814482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Star İş Merkezi Altındaki Sarnıç: İstanbul'un Gizli Tarihi

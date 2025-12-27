@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9788418,39.4216194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sıtkı Olçar Çini Müzesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.1450691,39.6556816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tortan Kilisesi

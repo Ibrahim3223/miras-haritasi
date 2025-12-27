@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "32.8595,39.918916666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ziraat Sahnesi: Ankara'nın Eski Tiyatro Anıtı

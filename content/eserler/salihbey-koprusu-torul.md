@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.284577,40.529043"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salihbey Köprüsü Torul: Tarihi ve Kültürel Mirasın Özellikleri

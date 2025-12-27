@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.6260342,36.8690125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sarıabalı Camii: Serik'te Bir Tarihi Çiçek**

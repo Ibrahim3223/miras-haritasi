@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.216813,39.076771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Soa Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9362812,41.0448875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şah Sultan Çeşmesi, Külliye Girişi

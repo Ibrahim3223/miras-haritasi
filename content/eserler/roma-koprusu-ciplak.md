@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.261286304,39.927022329"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Çıplak: Çanakkale'nin Gizli Cenneti

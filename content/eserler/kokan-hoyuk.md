@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.0348026,38.81269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kökan Höyük: Elazığ'ın Gizli Cevheri

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.1748276,39.236969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemerli Köprü, Sındırgı

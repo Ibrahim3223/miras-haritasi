@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.0895538,40.6269646"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanlıca Köprüsü

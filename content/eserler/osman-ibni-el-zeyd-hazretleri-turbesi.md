@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.3876474,40.8272865"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Osman İbni El Zeyd Hazretleri Türbesi

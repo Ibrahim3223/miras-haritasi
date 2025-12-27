@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.7914333,41.1407013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofu Dede Türbesi: Şile'nin Tarihî Anıtı

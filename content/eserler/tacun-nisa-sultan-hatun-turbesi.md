@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.5119114,40.0783081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tacü'n-Nisa Sultan Hatun Türbesi: Bursa'nın Gizli Çehresini Yeniden Keşfeden Anıt

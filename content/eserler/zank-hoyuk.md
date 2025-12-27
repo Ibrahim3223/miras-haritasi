@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7943,38.9522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Zank Höyük: Geçmişin Eski Kenti**

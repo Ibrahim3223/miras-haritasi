@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.7481956,39.1041641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Miyadin Kilisesi

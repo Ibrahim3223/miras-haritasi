@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4075012,40.8788376"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Naip Tümülüsü

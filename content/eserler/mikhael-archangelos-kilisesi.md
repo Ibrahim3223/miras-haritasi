@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.6140633,40.1863708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mikhael Archangelos Kilisesi

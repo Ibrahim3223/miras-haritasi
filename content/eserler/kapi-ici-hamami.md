@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.979435,41.0261726"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kapı İçi Hamamı

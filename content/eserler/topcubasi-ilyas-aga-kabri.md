@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9420643,41.035511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topçubaşı İlyas Ağa Kabri

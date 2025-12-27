@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.4688225,40.4883995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Ali Semerkandî Müzesi, Çamlıdere

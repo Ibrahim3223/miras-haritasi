@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9337807,41.0349579"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Maktul Mustafa Paşa Camii Şadırvanı

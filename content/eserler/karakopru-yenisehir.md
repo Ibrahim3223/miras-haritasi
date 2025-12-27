@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.141471,38.067032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karaköprü, Yenişehir: Tarihi ve Kültürel Önemleri

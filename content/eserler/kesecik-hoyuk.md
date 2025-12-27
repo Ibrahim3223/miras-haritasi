@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.9280777,37.411438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kesecik Höyük: Türkiye'nin Gizli Mücevheri

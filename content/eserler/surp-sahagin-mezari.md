@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.451133547,38.972326143"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Sahag’ın Mezarı: Muş’un Gizli Mirası

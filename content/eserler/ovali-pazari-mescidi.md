@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7733383,41.3775253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ovalı Pazarı Mescidi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.78056276,41.377920717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kancı Çeşme: Kastamonu'nun Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.2990608,38.1839371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kara Halil Bey Türbesi: Kiraz'ın Tarihsel Mirası

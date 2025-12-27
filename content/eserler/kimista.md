@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.585455,40.98429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kimista Arkeolojik Sit

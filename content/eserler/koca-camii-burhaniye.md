@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9817619,39.5035591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koca Camii, Burhaniye

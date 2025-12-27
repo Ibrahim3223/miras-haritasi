@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "27.083055555,38.468888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Opera İzmir: Tarihi ve Kültürel Mirasımız

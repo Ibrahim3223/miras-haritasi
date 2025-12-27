@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0118694,40.35886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rüstem Paşa Camii: Osmanlınin Örnek Bir Camisi

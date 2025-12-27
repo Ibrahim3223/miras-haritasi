@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.266111111,38.463333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korama Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0197639,41.0186653"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Mehmed Nuri Efendi Türbesi

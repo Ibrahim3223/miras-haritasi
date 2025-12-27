@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0814209,40.1869202"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldırım Bayezid Hamamı

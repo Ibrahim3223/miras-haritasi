@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5053215,37.8705254"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Bey Türbesi: Karatay, Konya'da Bir Anıtın Tarihi ve Eğlenceli Hikayesi

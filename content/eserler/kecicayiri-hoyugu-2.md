@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.7592938,39.3001855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Keçiçayırı Höyüğü 2: Eskişehir'in Gizli Mirası

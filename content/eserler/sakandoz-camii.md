@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.543636554,40.671338707"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakandoz Camii: İkizdere'nin Gizli Çehresini Açıklayın

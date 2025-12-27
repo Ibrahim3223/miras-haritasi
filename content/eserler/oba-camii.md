@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.9302662,37.0702719"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Oba Camii: Serik'in Tarihi Bir Mirası**

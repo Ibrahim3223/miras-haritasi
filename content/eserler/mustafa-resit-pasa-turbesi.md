@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9653629,41.0096291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mustafa Reşit Paşa Türbesi

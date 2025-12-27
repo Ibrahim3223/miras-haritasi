@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.736391,37.31213"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeyd Camii: Mardin'in Tarihî Mirası

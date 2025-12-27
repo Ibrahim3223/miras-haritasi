@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.979483,41.029881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pirinççi İbrahim Efendi Çeşmesi

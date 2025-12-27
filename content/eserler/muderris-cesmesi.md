@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7104874,41.8042374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müderris Çeşmesi

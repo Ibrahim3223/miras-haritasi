@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.9027996,38.2841988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tosunlar Köprüsü: Ödemiş'in Tarihî Mirası

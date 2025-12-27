@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.9806976,37.0325089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadettin Camii: Şanlıurfa'nın Tarihi Bir Mirası

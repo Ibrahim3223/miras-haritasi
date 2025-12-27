@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.7144012,38.8156128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mimar Sinan Evi Müzesi

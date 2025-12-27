@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.959928,41.023446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nalıncı Mehmet Mimi Dede Türbesi

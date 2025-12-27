@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.637555555,41.735861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meydan Çeşmesi (Yenice, Pınarhisar)

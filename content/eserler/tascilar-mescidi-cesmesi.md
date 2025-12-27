@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.432003,38.612278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşçılar Mescidi Çeşmesi

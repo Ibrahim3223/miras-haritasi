@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.5533752,40.3175507"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pir Ahmet Bey Türbesi: Tokat'ın Gizli Güzeli

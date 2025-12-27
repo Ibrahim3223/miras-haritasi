@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.023112,41.561257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tieion: Ereğli'nin Gizli Mirası

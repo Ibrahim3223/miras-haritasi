@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2792511,39.9024315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rabia Ana Çeşmesi

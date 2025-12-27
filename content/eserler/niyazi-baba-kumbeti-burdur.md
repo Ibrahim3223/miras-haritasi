@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.730505,37.4727592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Niyazi Baba Kümbeti: Burdur'un Gizli Cenneti

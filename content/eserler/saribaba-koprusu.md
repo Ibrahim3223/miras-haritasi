@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.023958,40.543302"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarıbaba Köprüsü

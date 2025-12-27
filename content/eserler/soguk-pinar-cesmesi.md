@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2805481,39.9022217"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Soğuk Pınar Çeşmesi: Yakutiye'nin Tarihi Bir Mirası

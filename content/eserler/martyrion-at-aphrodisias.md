@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.723044137,37.706168589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Martyrion at Aphrodisias

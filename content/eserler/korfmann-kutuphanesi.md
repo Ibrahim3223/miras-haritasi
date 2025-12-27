@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "26.4031982,40.1457672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korfmann Kütüphanesi

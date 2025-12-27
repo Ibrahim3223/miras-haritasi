@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.517864,37.504341"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kurban Höyük: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi**

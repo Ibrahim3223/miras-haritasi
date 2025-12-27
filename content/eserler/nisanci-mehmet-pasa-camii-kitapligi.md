@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9608421,41.0061073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nişancı Mehmet Paşa Camii Kitaplığı

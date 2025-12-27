@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9437943,41.0246391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Malulzade Medresesi

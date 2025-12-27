@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.181555555,41.18025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Samtskaro Kilisesi: Gürcistan'ın Tarihî Bir Mirası

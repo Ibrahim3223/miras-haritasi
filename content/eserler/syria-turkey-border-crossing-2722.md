@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "42.17454722,37.284428992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suriye - Türkiye Sınırı #2722 Kervansarayı

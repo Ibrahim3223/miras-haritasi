@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.712388888,41.806055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küre Ulu Camii: Kastamonu'nun Tarihi Bir Mirası

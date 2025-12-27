@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7894249,37.1596718"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehbenderiye Camii

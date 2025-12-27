@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.372593,40.995022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yapraklar Köprüsü, İyidere

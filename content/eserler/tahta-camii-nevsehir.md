@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7106171,38.6215973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahta Camii: Nevşehir'in Gizli Cenneti

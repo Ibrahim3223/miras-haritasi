@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.4211655,37.8530884"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meram Köprüsü: Bir Tarihî Köprünin Gizemi

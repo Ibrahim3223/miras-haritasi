@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6011677,37.7242165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıkocataş Çeşmesi: Aydın'ın Gizli Çeşmesi

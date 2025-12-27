@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8720131,39.9350967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mil Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0619431,41.1174126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yeniköy Panayia Ayazması: İstanbul'un Gizli Çeşmesi

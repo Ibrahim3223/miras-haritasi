@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.3510838,37.9571953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mastaura Bizans Kalesi: Aydın'ın Tarihi ve Kültürel Mirası

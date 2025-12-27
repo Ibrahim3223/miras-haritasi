@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3521595,38.4666557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulucak Höyüğü: İzmir'in Gizli Tarihi

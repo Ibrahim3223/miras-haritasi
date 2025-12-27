@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.019558,39.4117622"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kütahya Şehitler Anıtı ve Parkı

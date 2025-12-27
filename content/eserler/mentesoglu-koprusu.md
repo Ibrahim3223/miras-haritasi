@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.1080894,38.4031105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Menteşoğlu Köprüsü

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3275299,37.8758965"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nazilli Büyük Menderes Köprüsü

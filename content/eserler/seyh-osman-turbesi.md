@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.710833,38.131611"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Osman Türbesi: Siirt'in Gizli Cenneti

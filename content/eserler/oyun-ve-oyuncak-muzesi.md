@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.3773,37.0614"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oyun ve Oyuncak Müzesi

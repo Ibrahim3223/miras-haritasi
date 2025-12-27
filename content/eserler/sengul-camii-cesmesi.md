@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9744072,39.4163246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şengül Camii Çeşmesi

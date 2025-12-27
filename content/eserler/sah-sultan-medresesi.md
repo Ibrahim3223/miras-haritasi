@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.935964,41.045036"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şah Sultan Medresesi

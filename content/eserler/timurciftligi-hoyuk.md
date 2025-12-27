@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.477871017,37.074175752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Timurçiftliği Höyük

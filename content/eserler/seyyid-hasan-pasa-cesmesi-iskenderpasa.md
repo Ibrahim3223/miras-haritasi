@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951603,41.012306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Seyyid Hasan Paşa Çeşmesi, İskenderpaşa

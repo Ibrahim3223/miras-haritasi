@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.9748497,36.1157684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Musadağ Müzesi

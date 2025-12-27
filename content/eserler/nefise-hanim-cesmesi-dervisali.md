@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.940534,41.030226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nefise Hanım Çeşmesi, Dervişali

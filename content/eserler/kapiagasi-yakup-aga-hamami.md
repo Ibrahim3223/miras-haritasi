@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.93391,41.001499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapıağası Yakup Ağa Hamamı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7656136,41.3748779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pehlül Çeşmesi

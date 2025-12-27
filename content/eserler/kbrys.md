@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.848989,40.589514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kóbrys Arkeolojik Sit: Gelibolu'nun Gizli Anıtı

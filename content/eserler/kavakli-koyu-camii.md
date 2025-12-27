@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.143465,37.9283638"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kavaklı Köyü Camii: Aydın'ın Gizli Çeşmesi

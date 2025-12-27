@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0145187,41.0225983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kethüda Mehmet Paşa Çeşmesi: Üsküdar'ın Gizli Çeşmesi

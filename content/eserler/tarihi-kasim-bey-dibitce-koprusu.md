@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.056206,35.908386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Kasım Bey (Dibitçe) Köprüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.065455,41.078182"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nausikleia: Beykoz'un Gizli Tarihi

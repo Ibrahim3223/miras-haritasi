@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9335,37.785404"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Altındere: Tarihî Bir İkona Yolculuk

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.3590709,40.6691"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karınca Dede Türbesi: Arifiye'nin Efsanevi Simgesi

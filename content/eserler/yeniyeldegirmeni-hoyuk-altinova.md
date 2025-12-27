@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.765484,39.210465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeniyeldeğirmeni Höyük, Altınova: Ayvalık'taki Tarihi Bir Anıt

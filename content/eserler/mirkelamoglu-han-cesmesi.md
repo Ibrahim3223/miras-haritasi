@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1340313,38.4221268"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mirkelamoğlu Han Çeşmesi

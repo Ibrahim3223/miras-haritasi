@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7907295,37.1545944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yusuf Paşa Camii: Şanlıurfa'nın Tarihi bir Çandır

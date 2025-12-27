@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.692381,39.290092"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küçükköy Şapeli: Ayvalık'ta Bir Ölümsüz

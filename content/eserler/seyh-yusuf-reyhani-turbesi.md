@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "34.7516212,36.8118095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Yusuf Reyhani Türbesi

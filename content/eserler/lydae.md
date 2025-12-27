@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.85926,36.621642"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lydae: Antik Kentin Gizemi

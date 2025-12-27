@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.22347964,37.178493698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kaya Halil Kümbeti: Karaman'ın Gizli Anıtı**

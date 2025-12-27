@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.1786308,39.9299049"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Metristepe Doruk Şehitliği

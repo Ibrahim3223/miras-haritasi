@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.029276,41.036563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuzguncuk İskele Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.12365,41.1225"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tunca Köyü Köprüsü - 2

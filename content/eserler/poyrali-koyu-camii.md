@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5941372,41.6249733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Poyralı Köyü Camii

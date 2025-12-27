@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.0818111,40.0017072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sulusaray Köprüsü: Tarihî Bir Köprüün Gizemi

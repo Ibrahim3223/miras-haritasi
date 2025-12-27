@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.278836953,40.759785283"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kapaklı Köyü Çeşmesi: Kurşunlu'nun Gizli Cenneti

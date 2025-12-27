@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9456978,41.6538887"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocahıdır Çiftehöyükler Kuzey Tümülüsü

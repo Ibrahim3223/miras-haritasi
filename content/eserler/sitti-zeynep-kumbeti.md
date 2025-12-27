@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.3722669,38.4198683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sitti Zeynep Kümbeti: Bir Anıtsal Yapının Tarihi ve Kültürel Mirası

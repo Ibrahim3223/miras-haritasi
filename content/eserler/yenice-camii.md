@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.531517,39.4517059"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenice Camii: Sivrihisar'ın Tarihi Bir Örneği

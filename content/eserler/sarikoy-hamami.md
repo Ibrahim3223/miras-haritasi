@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.6004677,40.2081871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıköy Hamamı

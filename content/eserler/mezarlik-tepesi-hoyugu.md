@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "44.1694794,38.6622124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mezarlık Tepesi Höyüğü: Van'ın Tarihî ve Kültürel Mirası

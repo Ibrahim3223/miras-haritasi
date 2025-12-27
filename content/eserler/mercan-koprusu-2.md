@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6013374,40.7685814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mercan Köprüsü 2: Edirne'nin Gizli Çehresinin İncisi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.6613312,39.026989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleköy Kalesi: Mazgirt'in Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.793611111,36.852777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Magydos: Antalya'nın Gizli Cenneti

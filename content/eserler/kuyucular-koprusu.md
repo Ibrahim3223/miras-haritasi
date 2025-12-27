@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.0233231,37.8682899"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuyucular Köprüsü: Aydın'ın Efsanevi Köprüsü

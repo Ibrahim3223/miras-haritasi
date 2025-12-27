@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "36.0639,35.9037895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yayladağı Rum Ortodoks Kilisesi

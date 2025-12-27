@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.772126,40.991965"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçükçekmece Hamamı: İstanbul'un Gizli Gizemli Hamamı

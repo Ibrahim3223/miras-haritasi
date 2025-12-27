@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.7230015,40.4279518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Paşa Medresesi Çeşmesi

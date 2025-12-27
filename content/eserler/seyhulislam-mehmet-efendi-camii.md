@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8991089,40.9332085"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeyhülislam Mehmet Efendi Camii

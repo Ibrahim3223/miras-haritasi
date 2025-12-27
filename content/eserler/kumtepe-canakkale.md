@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.195967,39.978917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumtepe Arkeolojik Sitesi

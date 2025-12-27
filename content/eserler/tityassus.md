@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.401349,37.700415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tityassus: Antik Çağın Gizemi

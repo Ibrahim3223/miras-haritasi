@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.1574488,39.523471"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yassıtepe Höyük: Sivas'ın Gizli Hazineleri

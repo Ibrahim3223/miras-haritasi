@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.979562,41.013851"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tanzimat Müzesi: İstanbul'un Tarihini Anlatan Bir Rönesans Örneği

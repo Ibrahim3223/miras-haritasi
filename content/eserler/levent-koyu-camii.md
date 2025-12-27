@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.880979553,41.072673952"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Levent Köyü Camii: Hemşin'in Gizli Öztürkistanı

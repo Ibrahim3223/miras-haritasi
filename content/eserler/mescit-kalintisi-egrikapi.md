@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9392605,41.0362816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mescit Kalıntısı, Eğrikapı

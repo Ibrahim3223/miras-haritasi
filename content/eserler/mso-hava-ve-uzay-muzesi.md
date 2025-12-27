@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.494027777,39.299802777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # M.S.Ö. Hava ve Uzay Müzesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.628849508,40.875646374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Okami Kilisesi

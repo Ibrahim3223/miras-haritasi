@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9765968,41.0065384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Ahmet Külliyesi Sebili 1: İstanbul'un En Önemli Çeşme Yapılarından Birisi

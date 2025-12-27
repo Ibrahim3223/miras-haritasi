@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2565002,37.8591995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Okurlar Sokak Çeşmesi

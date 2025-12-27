@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.989624,41.4543228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çayır Köprüsü: Zonguldak'ın Tarihsel Bir Mirası

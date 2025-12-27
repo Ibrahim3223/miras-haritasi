@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.037432,41.164661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocatas İlkokul Çeşmesi: İstanbul'un Gizli Çeşmesi

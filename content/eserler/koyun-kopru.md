@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2359352,39.1175346"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Koyun Köprü: Bergama'nın Efsanevi Köprüsü

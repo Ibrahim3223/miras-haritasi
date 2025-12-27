@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.0208025,39.7467959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurşunlu Hamamı

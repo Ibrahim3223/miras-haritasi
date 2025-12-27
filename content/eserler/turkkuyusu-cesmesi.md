@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.430685,37.0386124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türkkuyusu Çeşmesi

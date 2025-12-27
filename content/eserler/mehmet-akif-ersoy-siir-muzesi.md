@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.092796039,41.133703391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Akif Ersoy Şiir Müzesi

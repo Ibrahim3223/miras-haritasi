@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.7262,40.4299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeyh Kutbettin Türbesi

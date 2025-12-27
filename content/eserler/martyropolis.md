@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.001388888,38.142222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Martyropolis: Tarihi ve Kültürel Değeri

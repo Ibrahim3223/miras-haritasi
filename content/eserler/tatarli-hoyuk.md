@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.0517273,37.1227989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatarlı Höyük: Adana'nın Gizli Mirası

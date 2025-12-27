@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.385891,41.7081375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Reşit Bey Anıtı

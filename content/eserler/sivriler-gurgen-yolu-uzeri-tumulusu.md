@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9548473,41.8085022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivriler Gürgen Yolu Üzeri Tümülüsü

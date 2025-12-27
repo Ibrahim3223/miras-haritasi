@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0238247,41.0057411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kahraman Tıbbiyeliler Anıtı

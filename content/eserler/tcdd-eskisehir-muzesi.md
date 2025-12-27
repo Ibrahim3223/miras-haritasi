@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.506356016,39.778740394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### TCDD Eskişehir Müzesi: Eskişehir'in Tarihi ve Kültürel Mirasının Yeri

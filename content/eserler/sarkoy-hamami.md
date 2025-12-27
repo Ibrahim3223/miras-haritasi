@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1128998,40.6151085"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şarköy Hamamı: Tarihî Bir Mirasın Tanıtımı

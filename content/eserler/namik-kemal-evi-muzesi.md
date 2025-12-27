@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.5167,40.97898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Namık Kemal Evi Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.718837213,37.683588032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Osmanlı Türbesi, Beyşehir

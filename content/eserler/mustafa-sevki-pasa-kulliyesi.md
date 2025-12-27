@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5642967,36.2684784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Şevki Paşa Külliyesi: Hatay'ın Tarihi Canlandırıcılarından Biri

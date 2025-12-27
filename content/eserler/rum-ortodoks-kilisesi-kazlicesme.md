@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9177551,40.9945564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Rum Ortodoks Kilisesi, Kazlıçeşme: İstanbul'un Gizli Çehresi**

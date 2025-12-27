@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8317719,40.3491249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tümbektepe Tümülüsü: Lapseki'nin Gizli Anıtı

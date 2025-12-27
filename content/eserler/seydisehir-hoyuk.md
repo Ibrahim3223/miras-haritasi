@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.8669701,37.4515648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seydişehir Höyük: Türkiye'nin Gizli Anıtı

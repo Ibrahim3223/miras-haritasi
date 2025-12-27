@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.7977149,37.3218414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepeli Höyüğü

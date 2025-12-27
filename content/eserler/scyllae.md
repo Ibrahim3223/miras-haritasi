@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.091144,41.637244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ege Denizi'ndeki Gizemli Scyllae Arkeolojik Sit

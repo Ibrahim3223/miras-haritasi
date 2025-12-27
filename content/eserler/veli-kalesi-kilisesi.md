@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.978244444,41.155869444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veli Kalesi Kilisesi: Tarihi ve Kültürel Miras

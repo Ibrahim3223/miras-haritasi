@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.7962914,39.6320457"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söylemez Ana Kümbeti: Karayazı'nın Gizemli Anıtı

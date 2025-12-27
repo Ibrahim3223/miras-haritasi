@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.8283997,37.8214989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nasreddin Köprüsü

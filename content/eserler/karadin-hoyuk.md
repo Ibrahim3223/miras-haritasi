@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.883403,40.428901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadin Höyük: İznik'in Gizli Anıtı

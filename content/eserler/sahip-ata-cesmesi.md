@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4944801,37.8679504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sahip Ata Çeşmesi: Meram, Konya'daki Bir Ünlü Çeşme

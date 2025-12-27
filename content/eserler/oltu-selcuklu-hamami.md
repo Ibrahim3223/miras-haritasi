@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.9941483,40.5430374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oltu Selçuklu Hamamı: Tarihî Bir Mirasın Anıtsal Örneği

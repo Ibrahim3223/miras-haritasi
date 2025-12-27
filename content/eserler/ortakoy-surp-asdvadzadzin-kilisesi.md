@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.023031,41.049796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ortaköy Surp Asdvadzadzin Kilisesi

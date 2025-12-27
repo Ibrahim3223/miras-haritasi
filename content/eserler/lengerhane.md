@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9495487,41.0426331"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lengerhane: Beyoğlu'ndaki Tarihi Bir Müze

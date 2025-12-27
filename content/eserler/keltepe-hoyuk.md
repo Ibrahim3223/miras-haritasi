@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.810611413,39.360453972"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keltepe Höyük: Ankara'nın Gizli Kahramanı

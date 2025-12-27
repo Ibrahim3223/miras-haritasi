@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.934263,41.029942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kasapbaşı Hasan Efendi Çeşmesi**

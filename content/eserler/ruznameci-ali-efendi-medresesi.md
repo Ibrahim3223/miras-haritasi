@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9638767,41.0082703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ruznameci Ali Efendi Medresesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.135019,39.582231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarım Müzesi, Polatlı: Tarımda Geçmişten Geleceğe Yönlendirici Bir Miras

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.971113,38.4125339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karasüleymanlı Höyük: Kahramanmaraş'ta Gizemli Bir Arkeolojik Sit

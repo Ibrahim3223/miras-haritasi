@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0526104,40.2906189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pınarcık Kalesi: Bilecik'te Bir Tarihçe ve Edebiyatın Kaynakları

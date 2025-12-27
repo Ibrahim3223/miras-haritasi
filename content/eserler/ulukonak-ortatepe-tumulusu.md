@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.000988,41.6377411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ulukonak Ortatepe Tümülüsü

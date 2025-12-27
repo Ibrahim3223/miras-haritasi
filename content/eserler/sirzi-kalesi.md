@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.5079117,39.2821426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şırzı Kalesi: Tarihî Bir Mirasın Gizemi

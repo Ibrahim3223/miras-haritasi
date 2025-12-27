@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.548638888,38.53525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şuhut Şehitliği: Afyonkarahisar'ın Gülümsayan Anıtı

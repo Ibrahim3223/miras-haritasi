@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.9966882,39.2182536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yenifakılı Höyüğü: Yozgat'ın Gizli Kutsalı

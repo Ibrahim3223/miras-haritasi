@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.8551445,38.8479805"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Papaz Çeşmesi

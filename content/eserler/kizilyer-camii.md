@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.329389,37.784886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kızılyer Camii**

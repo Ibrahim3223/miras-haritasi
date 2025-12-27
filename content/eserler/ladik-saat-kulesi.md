@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "35.89575,40.912916666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ladik Saat Kulesi: Samsun'un Tarihi Güzelliği

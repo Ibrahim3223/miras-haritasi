@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.0334854,37.8330116"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyhçoban Höyük: Batman'ın Gizemli Anıtı**

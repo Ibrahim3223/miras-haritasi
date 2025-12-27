@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6056614,41.3089256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Misinli Kalesi: Tarihi ve Kültürel Bir Miras

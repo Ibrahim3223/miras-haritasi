@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.653511,40.6531334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraylar Açık Hava Müzesi: Balıkesir'in Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.3439751,37.1844711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zengibar Kalesi: Bozkır'ın Gizli Tarihi

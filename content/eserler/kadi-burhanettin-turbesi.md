@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.005433,39.742377"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Burhanettin Türbesi

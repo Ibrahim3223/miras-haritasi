@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3346024,39.7870522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeytinli Camii: Çanakkale'nin Gizli Öztürk Mirası

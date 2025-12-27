@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.7925243,37.2700729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yelli Medresesi: Milas'ta Bir Klasik Osmanlı Medresesi

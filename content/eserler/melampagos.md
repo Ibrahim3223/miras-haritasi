@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1606,38.5657"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Melampagos Arkeolojik Sit

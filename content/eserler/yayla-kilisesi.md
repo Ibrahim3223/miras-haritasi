@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.0339432,37.2841682"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yayla Kilisesi: Muğla'nın Gizli Cenneti

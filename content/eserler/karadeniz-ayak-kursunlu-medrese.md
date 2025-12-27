@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9502201,41.0209808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadeniz Ayak Kurşunlu Medrese

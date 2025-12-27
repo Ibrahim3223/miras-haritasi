@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2930012,37.7179947"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taşdemir Camii: Burdur'da Bir Klasik Örnek

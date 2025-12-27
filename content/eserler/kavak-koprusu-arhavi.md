@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavak Köprüsü: Arhavi'nin Tarihi ve Görsel Özelliklere Sahip Köprüsü

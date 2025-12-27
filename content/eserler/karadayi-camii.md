@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.11124,36.873325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadayı Camii: Antalya'nın Tarihi Bir Mirası

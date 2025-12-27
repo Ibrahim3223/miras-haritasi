@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2346783,40.179863"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasımlar Köyü Camii

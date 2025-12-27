@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0378208,41.1431236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarabya Ayios Konstantinos Kilisesi: İstanbul'un Gizli Çehresinde Bir Aziz

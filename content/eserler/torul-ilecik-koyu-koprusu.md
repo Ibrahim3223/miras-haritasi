@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.08765,40.51553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Torul İlecik Köyü Köprüsü: Tarihi ve Mimari Özellikleri

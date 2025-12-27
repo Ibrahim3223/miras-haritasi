@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9511051,41.026722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yavuz Selim Camii Şadırvanı: İstanbul'un Gizli Çeşmesi

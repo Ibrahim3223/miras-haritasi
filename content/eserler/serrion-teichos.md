@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.324357,40.750541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Serrion Teichos: Şarköy'ün Gizli Öncesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.7101593,38.5021095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turgutlu Kent Müzesi: Manisa'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9277725,41.0178223"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tülbentçi Mehmet Efendi Medresesi

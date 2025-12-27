@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.2700787,40.6587753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalova Kent Müzesi: Yalova'nın Kültür Mirasının Merkezinde

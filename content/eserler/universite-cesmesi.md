@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.962561,41.013763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üniversite Çeşmesi: İstanbul'un Gizli Çeşmesi

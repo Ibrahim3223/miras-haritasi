@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9587825,41.0093473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ragıp Mehmet Paşa Türbesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.507847,40.780318"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekkale Camii

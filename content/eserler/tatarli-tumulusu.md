@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5044937,38.2600937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatarlı Tümülüsü: Afyonkarahisar'ın Gizli Mirası

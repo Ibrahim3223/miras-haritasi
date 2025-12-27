@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0950451,37.7721558"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Musa Efendi Medresesi

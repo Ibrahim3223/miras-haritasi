@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.933354,41.026515"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Çeşmesi, Karagümrük

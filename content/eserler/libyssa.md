@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.539812,40.769562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Libyssa: Antik Kentin Gizemi

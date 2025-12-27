@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.847158,41.133616"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Psyllium Arkeolojik Sit

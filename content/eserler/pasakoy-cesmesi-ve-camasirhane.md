@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3034,39.219101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşaköy Çeşmesi ve Çamaşırhane: Bergama'nın Gizli Çeşmesi

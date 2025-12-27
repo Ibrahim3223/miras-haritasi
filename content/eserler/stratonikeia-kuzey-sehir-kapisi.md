@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.0663567,37.3160362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Stratonikeia Kuzey Şehir Kapısı

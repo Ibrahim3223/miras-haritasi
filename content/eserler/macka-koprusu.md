@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.612628,40.811261"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Maçka Köprüsü: Trabzon'un Tarihî Köyünde Gizli Bir Şehre Keşif

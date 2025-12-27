@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.529575,40.090314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kremaste: Antik Dönemden Kalan Gizemli Yer

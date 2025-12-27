@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.785552246,40.10743084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yatankavak Tümülüsü 2

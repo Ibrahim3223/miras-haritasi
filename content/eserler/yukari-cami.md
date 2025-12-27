@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.7712002,37.7100983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Cami

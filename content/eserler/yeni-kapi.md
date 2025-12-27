@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.245121654,37.910266227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Kapı: Diyarbakır'ın Gizli Çehresini Açan Anıt

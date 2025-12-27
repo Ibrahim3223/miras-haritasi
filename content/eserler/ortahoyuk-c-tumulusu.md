@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9110184,41.7545128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ortahöyük C Tümülüsü: Edirne'nin Gizli Cenneti

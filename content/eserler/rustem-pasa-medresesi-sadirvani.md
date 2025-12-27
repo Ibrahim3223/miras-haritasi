@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9723969,41.0131645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rüstem Paşa Medresesi Şadırvanı: İstanbul'un Gizli Çeşmesi

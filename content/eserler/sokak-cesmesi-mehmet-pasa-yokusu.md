@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9620056,41.0191917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sokak Çeşmesi, Mehmet Paşa Yokuşu

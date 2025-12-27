@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9247589,41.0137138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kılıç Baba Türbesi: Fatih'te Gizli Bir Anıt

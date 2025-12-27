@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.069608187,40.425658871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Parion Hamamı: Bir Roma Dönemi Mirası

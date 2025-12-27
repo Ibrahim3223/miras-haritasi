@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9613,41.0112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vezneciler Hamamı

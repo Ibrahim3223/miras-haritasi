@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3476238,39.0893135"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldırım Beyazıt Camii: İzmir'in Tarihi bir Mirası

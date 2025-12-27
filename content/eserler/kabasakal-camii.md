@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.2840118,37.1370354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kabasakal Camii: Menteşe'nin Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.4758873,36.395813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Olympos Sahil Kilisesi

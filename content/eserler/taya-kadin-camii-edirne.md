@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.561657,41.6837044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taya Kadın Camii: Edirne'nin Gizli Çehresi

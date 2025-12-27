@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.981411,39.4198303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Servi Camii Çeşmesi: Kütahya'nın Tarihî Çeşme Örneği

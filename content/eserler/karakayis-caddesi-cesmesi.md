@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5043411,37.8870239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakayış Caddesi Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası

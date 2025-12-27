@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.339225,37.829783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortigia (İyonya): İyonya'nın Efsanevi Kenti

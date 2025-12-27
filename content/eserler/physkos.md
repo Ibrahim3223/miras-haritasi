@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.2769,36.8631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Physkos Arkeolojik Sitesi

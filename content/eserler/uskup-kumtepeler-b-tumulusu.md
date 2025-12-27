@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3719025,41.753994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üsküp Kumtepeler B Tümülüsü: Kırklareli'nin Arkeolojik Güzelliği

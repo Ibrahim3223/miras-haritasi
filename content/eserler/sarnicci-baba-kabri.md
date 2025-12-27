@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9628716,41.0385857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sarnıççı Baba Kabri

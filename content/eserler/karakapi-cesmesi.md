@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.148262,38.4199867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakapı Çeşmesi: Tarihî Bir Anıtın Güncel Yüzü

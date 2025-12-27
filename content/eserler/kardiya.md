@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.74083333,40.54722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kardiya Arkeolojik Sit

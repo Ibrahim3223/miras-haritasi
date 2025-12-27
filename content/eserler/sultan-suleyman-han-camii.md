@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.454519,40.452006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sultan Süleyman Han Camii

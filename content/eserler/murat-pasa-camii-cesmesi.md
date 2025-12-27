@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.948595,41.010011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Murat Paşa Camii Çeşmesi

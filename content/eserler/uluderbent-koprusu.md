@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.5441074,38.1846809"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uluderbent Köprüsü

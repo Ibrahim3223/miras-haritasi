@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5352001,38.7598305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sülüm Çeşmesi 1: Afyonkarahisar'ın Tarihi Bir Çeşmesi

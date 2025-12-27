@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.0127563,37.7912598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kuriki Höyük: Batman'ın Gizli Kahramanı**

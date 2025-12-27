@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7945061,37.158474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Peygamber Camii, Şanlıurfa

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1312523,38.4206085"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Katipzade Mescidi: İzmir'in Tarihi Şöhreti

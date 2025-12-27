@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.512222222,40.076666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Efendi Camii

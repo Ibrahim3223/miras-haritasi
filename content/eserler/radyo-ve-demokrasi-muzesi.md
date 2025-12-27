@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.143896,38.420366"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Radyo ve Demokrasi Müzesi

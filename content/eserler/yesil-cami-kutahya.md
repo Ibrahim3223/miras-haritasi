@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9825134,39.4173317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşil Cami: Kütahya'nın Tarihi ve Kültürel Mirası

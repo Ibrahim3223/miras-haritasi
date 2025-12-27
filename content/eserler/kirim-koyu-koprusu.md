@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.4323463,38.3551407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kırım Köyü Köprüsü

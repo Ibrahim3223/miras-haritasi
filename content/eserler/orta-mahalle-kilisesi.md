@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.986649,40.508232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Orta Mahalle Kilisesi

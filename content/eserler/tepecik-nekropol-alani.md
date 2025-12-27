@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.5408707,41.0640984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepecik Nekropol Alanı

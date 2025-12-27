@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "38.3987885,38.615242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mar Ahron Manastırı

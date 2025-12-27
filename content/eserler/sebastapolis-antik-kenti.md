@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.083369477,39.997391048"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sebastapolis Antik Kenti**

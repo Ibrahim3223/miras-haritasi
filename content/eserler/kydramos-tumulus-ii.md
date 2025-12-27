@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.12863685,37.345200079"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kydramos Tümülüs II

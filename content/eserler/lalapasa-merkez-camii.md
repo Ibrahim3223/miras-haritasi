@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.7334995,41.8392334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lalapaşa Merkez Camii

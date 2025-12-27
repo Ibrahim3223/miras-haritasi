@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.848659595,37.871507399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyfullah Dede Türbesi: Eğirdir'in Yüce Zengini

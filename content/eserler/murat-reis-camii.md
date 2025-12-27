@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.027611111,41.018444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Murat Reis Camii: Üsküdar'da Bir Tarihi Örnek

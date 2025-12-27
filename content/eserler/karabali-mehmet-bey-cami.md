@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.6183243,40.6943436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabali Mehmet Bey Cami

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.238133992,41.150013344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilise Müştemilatı, Fenerköy

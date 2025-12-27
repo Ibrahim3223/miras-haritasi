@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.318005,36.464561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğuksu Höyük: Tarihî Mirasın Gizemi

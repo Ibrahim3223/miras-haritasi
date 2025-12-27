@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.337827,38.582016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Ahmet Peykeri Türbesi: Elazığ'ın Tarihi Bir Anıtı

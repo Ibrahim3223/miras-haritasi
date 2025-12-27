@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.326242,41.294494"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Kutbiddin Türbesi

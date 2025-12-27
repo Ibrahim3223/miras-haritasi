@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2204285,37.1823807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yunus Emre Camii ve Türbesi

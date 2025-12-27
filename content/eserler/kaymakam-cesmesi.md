@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5254498,39.7638016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaymakam Çeşmesi: Odunpazarı'nın Tarihî Simgesi

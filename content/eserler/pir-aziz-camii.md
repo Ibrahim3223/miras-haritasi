@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.1232338,40.9216957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pir Aziz Camii: Giresun'un Tarihi Mirası

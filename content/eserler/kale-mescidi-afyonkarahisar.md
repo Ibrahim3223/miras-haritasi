@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5305443,38.7548752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kale Mescidi, Afyonkarahisar

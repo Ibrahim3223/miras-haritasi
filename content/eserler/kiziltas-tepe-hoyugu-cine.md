@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9958992,37.6674614"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızıltaş Tepe Höyüğü: Aydın'ın Gizli Tarihi

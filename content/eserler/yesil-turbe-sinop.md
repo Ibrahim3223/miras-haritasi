@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.148892,42.02632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşil Türbe: Sinop'un Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.8858995,37.0733365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mopsu Krene: Tarsus'un Gizemi

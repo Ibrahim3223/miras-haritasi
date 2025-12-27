@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.419647306,37.152248369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Katarlı Höyük: Tarihî Mirasının Gizli Kalesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.922401428,37.581997288"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Levzin Höyük Arkeolojik Sit

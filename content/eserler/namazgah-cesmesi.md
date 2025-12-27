@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.0711098,39.8329773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Namazgah Çeşmesi: Bozcaada'nın Ebedi Mirası

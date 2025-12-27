@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.949346,37.952116"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pizan Kalesi: Başkale'nin Gizemli Kaleleri

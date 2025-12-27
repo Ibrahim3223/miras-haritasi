@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.966287,41.017187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Siyavuş Paşa Medresesi

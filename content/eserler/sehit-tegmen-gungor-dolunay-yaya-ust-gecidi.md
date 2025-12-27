@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.127555555,38.415888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehit Teğmen Güngör Dolunay Yaya Üst Geçidi

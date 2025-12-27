@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.881972222,39.647305555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşilli Camii: Balıkesir'in Tarihi ve Kültürel Mirası

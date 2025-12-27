@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6437149,38.2245789"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küp Çeşme, Bayındır

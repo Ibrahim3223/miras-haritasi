@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9719963,41.0048561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadırga Sokullu Mehmet Paşa Camii Şadırvanı

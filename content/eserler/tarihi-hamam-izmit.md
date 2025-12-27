@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9260101,40.7652664"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Hamam, İzmit

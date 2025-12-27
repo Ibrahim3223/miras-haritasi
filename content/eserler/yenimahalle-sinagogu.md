@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "29.0256424,41.0529823"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yenimahalle Sinagogu: İstanbul'un Gizli Tarihi

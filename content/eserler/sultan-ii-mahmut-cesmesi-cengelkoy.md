@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.05364,41.049629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan II. Mahmut Çeşmesi, Çengelköy

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "30.2654552,36.3866234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rhodiapolis Asklepion: Geçmişe Yolculuk

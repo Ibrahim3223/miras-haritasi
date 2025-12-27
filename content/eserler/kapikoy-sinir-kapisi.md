@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.321079,38.497534097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapıköy Sınır Kapısı: Türkiye'nin Tarihi Bir Kervansarayı

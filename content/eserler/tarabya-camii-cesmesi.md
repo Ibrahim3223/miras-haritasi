@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.053266,41.138125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarabya Camii Çeşmesi: Sarıyer'in Tarihî Mirası

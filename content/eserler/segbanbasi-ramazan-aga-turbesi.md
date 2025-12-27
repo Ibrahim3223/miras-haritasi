@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9346848,41.0457954"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Segbanbaşı Ramazan Ağa Türbesi

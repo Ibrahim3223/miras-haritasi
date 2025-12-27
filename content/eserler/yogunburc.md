@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.6190186,37.1447906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoğunburç: Şanlıurfa'nın Gizli Harikası

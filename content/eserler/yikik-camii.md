@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1072998,38.3760986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıkık Camii: İzmir'in Tarihi Bir Mirası

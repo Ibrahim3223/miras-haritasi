@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.511832496,37.155249186"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeşildere Hamamı

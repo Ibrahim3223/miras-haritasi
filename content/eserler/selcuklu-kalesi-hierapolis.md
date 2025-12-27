@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.1221695,37.924633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selçuklu Kalesi, Hierapolis

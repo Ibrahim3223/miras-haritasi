@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.030214211,41.036771617"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Krikor Lusavoriç Ermeni Kilisesi Çeşmesi, Kuzguncuk

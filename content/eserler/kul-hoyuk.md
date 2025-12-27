@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.2192819,39.2850959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kül Höyük: Tarihî Bir Mirasın İzleri

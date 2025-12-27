@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4890938,37.8733788"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zevle Sultan Mescidi

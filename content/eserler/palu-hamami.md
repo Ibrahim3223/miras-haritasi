@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "39.9534064,38.699876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Palu Hamamı: Elazığ'da Bir Tarihî Miras

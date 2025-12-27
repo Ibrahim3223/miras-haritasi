@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.4196587,38.3661842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yalıntaş Höyük: Elbistan'da Bir Arkeolojik Harikası

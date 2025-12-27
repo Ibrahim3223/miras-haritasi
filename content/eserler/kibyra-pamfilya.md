@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.67138889,36.65"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kibyra (Pamfilya)

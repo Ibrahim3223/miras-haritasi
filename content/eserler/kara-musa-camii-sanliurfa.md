@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7968597,37.1512489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Musa Camii

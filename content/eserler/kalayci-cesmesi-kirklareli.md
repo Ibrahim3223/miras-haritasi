@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2255363,41.7378883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalaycı Çeşmesi: Kırklareli'nin Gizli Cezbesi

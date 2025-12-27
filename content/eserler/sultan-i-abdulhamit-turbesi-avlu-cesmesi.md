@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.973959,41.015424"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan I. Abdülhamit Türbesi Avlu Çeşmesi

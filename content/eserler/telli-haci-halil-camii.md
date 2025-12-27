@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8654823,39.9351654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Telli Hacı Halil Camii

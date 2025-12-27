@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.0384598,38.6848221"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprübaşı Tümülüsü 2: Bünyan'ın Gizli Gözdeleri

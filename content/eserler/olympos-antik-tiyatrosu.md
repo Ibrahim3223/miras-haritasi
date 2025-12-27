@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.473434,36.395275"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Olympos Antik Tiyatrosu**

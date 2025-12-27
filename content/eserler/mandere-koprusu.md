@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.461,40.911217"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mandere Köprüsü**

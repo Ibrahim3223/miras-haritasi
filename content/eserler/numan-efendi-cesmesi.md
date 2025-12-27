@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6466293,38.2241707"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Numan Efendi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.28187,40.25218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## No.2 Outpost Cemetery: Kocadere'nin Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.8564,36.21537"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tyberissos: Demre'nin Gizli Cenneti

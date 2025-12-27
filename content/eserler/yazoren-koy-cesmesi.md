@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8182297,39.3312035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yazören Köy Çeşmesi

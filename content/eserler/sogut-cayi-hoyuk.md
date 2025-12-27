@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.708217,38.533233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Söğüt Çayı Höyük: Tarihî Bir Mirasın İzleri

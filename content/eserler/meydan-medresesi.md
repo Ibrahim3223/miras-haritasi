@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "43.7439041,37.5674515"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Meydan Medresesi: Hakkâri'nin Tarihi Bir Mirası**

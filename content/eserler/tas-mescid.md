@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2823639,39.9074631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erzurum'daki Taş Mescid: Bir Uygarlık Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.6074009,37.7297821"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yemezzade Süleyman Rüşdi Türbesi

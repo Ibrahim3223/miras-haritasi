@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.106187,40.534594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Sadi Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.067815,41.083377"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Setüstü Sokak Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi

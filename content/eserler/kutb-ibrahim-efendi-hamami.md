@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.989377,41.034127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kutb İbrahim Efendi Hamamı

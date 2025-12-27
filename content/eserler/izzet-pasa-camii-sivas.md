@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0145035,39.7503471"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzzet Paşa Camii, Sivas: Tarihi ve Kültürel Mirasın Parçası

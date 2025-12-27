@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.884775,40.376857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Samikale Kalesi

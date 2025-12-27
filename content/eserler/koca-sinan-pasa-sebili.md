@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.968548,41.008808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koca Sinan Paşa Sebili: Fatih'in Tarihi Çeşmesi

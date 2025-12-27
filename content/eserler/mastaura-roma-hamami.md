@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.3400059,37.9555321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mastaura Roma Hamamı: Aydın'ın Tarihî Mirası

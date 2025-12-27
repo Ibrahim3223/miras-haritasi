@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4408188,41.4533577"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakızköy Söğütdere Tümülüsü: Lüleburgaz'ın Gizli Anıtı

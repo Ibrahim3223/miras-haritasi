@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.7829437,37.3153954"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milas Halısı Müzesi

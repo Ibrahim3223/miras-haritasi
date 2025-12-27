@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0659065,40.1839523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Simkeş Camii: Bursa'nın Tarihî ve Kültürel Mirası

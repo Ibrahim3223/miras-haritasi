@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.891529,40.304589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zela: Antik bir Sitin Mirası

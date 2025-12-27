@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.745921,37.315009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pınarbaşı Camii: Mardin'in Tarihi Bir Güzelliği

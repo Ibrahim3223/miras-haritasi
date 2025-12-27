@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.741403,37.312608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salsal Camii: Mardin'in Gizli Çehresini İleri Söyleyen Bir Cami

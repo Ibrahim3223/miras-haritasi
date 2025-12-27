@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.087785892,41.062173939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Papazli Çiftliği: Silivri'nin Tarihi Anıtı

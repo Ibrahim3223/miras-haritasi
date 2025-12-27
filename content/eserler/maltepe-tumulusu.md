@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.17264,39.10906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe Tümülüsü: Bergama'nın Gizli Anıtı

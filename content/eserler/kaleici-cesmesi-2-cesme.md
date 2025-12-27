@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3037758,38.3231163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleiçi Çeşmesi 2: Çeşme'nin Gizli Çeşmesi

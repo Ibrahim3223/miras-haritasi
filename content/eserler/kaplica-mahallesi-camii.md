@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.047050809,41.015987256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaplıca Mahallesi Camii: Çamlıhemşin'in Tarihi ve Kültürel Mirası

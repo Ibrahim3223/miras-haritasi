@@ -23,6 +23,13 @@
 {{ end }}
 
 {{ $bgImage := .Params.image | default .Params.featured_image | default .Params.cover | default $fallback }}
+{{ if and (findRE "wikimedia.org" $bgImage) (findRE "/commons/" $bgImage) }}
+{{ $bgImage = replace $bgImage "/commons/" "/commons/thumb/" }}
+{{ $fileName := index (last 1 (split $bgImage "/")) 0 }}
+{{ $bgImage = printf "%s/1200px-%s" $bgImage $fileName }}
+{{ if eq (path.Ext $bgImage) ".svg" }}{{ $bgImage = .Params.image | default .Params.featured_image | default
+.Params.cover | default $fallback }}{{ end }}
+{{ end }}
 <div class="hero-section"
     style="background-image: url('{{ $bgImage }}'); min-height: 50vh; align-items: flex-end; padding-bottom: 60px; margin-bottom: 0; position: relative;">
     <div class="hero-overlay"

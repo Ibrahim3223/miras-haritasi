@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.837982706,37.080362233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ukkaşe Türbesi: Gaziantep'in Gizli Cenneti

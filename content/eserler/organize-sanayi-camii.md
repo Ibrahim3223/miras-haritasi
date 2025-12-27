@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.118475,37.7474497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Organize Sanayi Camii: Denizli'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9396515,41.0287933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Ağa Kabri

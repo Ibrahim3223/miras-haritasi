@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.985039158,36.988451048"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sillyon Osmanlı Mescidi

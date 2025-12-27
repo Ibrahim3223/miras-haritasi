@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0619335,41.0703354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Metamorfosis Rum Ortodoks Kilisesi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.4904938,40.5471878"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ziyarettepe Kalesi

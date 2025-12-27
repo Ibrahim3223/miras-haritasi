@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3057194,38.3228493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Kethüda Çeşmesi

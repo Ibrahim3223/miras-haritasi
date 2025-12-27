@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.4991417,38.7575645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Necmettin Kümbeti: Ahlat'ta Bir Önemli Kültürel Miras

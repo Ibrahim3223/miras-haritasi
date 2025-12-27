@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.8383865,38.7414169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kurtuluş Anıtı: Yeni Foça'nın Özenli İşleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1825752,39.1240425"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Aralığı Çeşmesi: Bergama'nın Eski Ahit'indeki Kutsal Suyu

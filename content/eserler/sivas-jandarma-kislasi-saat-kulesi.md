@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "37.0144683,39.7506174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sivas Jandarma Kışlası Saat Kulesi

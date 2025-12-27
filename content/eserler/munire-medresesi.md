@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "33.7752991,41.3768883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Münire Medresesi**

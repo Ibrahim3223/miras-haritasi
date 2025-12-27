@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.795866,36.216995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaş'ın Oninda Arkeolojik Sit'i: Geçmişteki Gizemini Keşfedin

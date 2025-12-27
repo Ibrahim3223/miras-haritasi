@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.746589,37.315319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekke Camii (Artuklu): Mardin'in Tarihi ve Kültürel Mirası

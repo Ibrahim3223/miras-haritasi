@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.794985,40.598056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müzadere Kilisesi Mesudiye

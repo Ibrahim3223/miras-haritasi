@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.653485,40.780387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaya Mezarı 2 (Tikenlice Mahallesi) Gürgentepe

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.486836,36.757771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Malus Köprüsü**

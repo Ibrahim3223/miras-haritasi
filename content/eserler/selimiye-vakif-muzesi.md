@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.5592442,41.6773911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selimiye Vakıf Müzesi: Edirne'nin İhtişamlı Mirası

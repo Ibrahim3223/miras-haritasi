@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6812611,38.3499527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ovacık Çeşmesi, Kemalpaşa

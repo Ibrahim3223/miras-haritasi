@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.7608795,37.1787338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Manastır Dağı: Tarihi ve Kültürel Mirasın Bir Örneği

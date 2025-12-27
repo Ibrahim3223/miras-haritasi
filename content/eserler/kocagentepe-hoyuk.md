@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.839689,39.108146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocagentepe Höyük: Manisa'nın Gizli Kıvılcımlarını Açığa Çıkaran Tarihi Bir Miras

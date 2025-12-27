@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.3966789,40.4278717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mart Köyü Camii

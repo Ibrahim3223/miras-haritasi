@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.286,37.983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panormus: Kıbrıs'ın Antik Kenti

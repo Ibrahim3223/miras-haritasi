@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2682152,40.6574097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rüstem Paşa Camii (Yalova)

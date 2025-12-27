@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.2109488,37.1830842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saadettin Ali Bey Türbesi

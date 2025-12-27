@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6123468,39.8080614"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Köprü, Bayramiç

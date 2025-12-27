@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.628155,39.171334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Metropolis (Kuzey Frigya)

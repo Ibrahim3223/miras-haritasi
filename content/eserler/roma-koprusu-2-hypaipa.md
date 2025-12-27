@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.9549236,38.2744179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü 2, Hypaipa: Ödemiş'in Gizli Çehresini Keşfedin

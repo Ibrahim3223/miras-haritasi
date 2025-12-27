@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0620155,40.1865082"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Veled-i Enbiya Camii**

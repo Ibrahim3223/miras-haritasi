@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.2432232,41.0753632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kısa Köprü: Silivri'nin Tarihi ve Etkileyici Köprüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.945665,41.0256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyit Ali Efendi Çeşmesi

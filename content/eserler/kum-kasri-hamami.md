@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.5564327,41.6911011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kum Kasrı Hamamı

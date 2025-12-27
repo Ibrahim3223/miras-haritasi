@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7814674,41.3793297"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanlı Çeşme: Kastamonu'da Bir Tarihî Çeşme

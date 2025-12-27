@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.3234844,37.0539513"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nail Çakırhan Evi

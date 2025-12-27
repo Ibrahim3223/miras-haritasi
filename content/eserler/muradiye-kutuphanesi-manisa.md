@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.429260817,38.609848053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muradiye Kütüphanesi, Manisa: Tarihi ve Mimari Özellikleri

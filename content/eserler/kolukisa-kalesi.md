@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.3328934,38.4901352"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kolukısa Kalesi: Kadınhanı'ndaki Tarihi Bir Miras

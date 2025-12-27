@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.078743,39.0209084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyit Halil Keramettin Türbesi

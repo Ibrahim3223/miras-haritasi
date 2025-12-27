@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0534248,40.0032883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Poimanenon: Manyas'ın Gizli Kahramanı

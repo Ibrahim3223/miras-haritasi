@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.929486,41.000959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üç Gözlü Dede Kabri Haziresi

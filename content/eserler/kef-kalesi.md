@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "42.718947,38.833536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kef Kalesi: Bitlis'in Tarihî Mirası

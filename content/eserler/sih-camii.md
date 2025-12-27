@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9310684,37.585041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şıh Camii: Kahramanmaraş'ın Tarihî Mirası

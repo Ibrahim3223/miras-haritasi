@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.3,40.0092"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rhoiteion: Çanakkale'nin Gizli Cenneti

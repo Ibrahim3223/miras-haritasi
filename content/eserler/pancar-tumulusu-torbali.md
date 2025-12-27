@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2507992,38.2210999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pancar Tümülüsü, Torbalı

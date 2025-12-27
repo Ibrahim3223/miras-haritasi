@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.2625904,37.8558464"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mezar Taşları Açıkhava Sergisi

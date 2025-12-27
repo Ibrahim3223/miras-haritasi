@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2211437,41.7176552"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanlıgeçit Höyük: Kırklareli'nin Gizli Anıtı

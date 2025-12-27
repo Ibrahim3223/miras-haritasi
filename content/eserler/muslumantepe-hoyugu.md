@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.9363527,37.8043586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müslümantepe Höyüğü

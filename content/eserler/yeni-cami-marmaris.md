@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.2729836,36.8525581"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marmaris'te Yeni Cami: Tarih, Mimari ve Ziyaret Bilgileri

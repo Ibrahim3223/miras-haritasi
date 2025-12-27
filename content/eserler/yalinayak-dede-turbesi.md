@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.957816,38.968504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalınayak Dede Türbesi: Dikili'nin Gizli Çehresini Keşfetmek

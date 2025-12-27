@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9285049,41.0036354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Nurettin Efendi Türbesi

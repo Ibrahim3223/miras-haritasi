@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.9262924,41.807354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivriler Sakırga Tepe Kalesi: Kırklareli'nin Gizli Cenneti

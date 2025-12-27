@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.7483788,38.2516212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sökmen Höyüğü, Çivril

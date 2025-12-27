@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.344039,37.184291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Zengibar Kalesi: Konya'nın Gizli Mirası

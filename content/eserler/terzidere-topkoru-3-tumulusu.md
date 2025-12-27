@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1609039,41.9903755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terzidere Topkoru 3 Tümülüsü: Tarihi ve Kültürel Mirasın Gizemli Anıtı

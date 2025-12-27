@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.840915,36.9189005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Papirion: Türkiye'nin Gizli Arkeolojik Şansı

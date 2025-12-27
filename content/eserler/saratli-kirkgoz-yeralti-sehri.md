@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2323221,38.4450257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Saratlı Kırkgöz Yeraltı Şehri

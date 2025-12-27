@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.782787,37.140061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şıh Maksut Türbesi: Şanlıurfa'nın Gizemli Anıtı

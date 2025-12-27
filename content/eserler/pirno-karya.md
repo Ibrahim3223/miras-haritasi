@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.445529,36.885007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pirno (Karya): Marmaris'in Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9727644,41.0116699"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kethüda Mehmet Paşa Çeşmesi (Fatih)

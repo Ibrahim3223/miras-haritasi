@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8005714,36.7130165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarıçağlar Camii

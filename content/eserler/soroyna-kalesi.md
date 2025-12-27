@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.2596054,40.445034"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Soroyna Kalesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.2725729,39.903461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeyhler Hamamı

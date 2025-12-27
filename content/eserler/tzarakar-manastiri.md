@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "42.9137383,40.2475739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tzarakar Manastırı

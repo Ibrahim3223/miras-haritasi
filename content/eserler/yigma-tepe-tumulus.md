@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.18096,39.10437"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yigma Tepe Tumulus: İzmir'in Gizli Mirası

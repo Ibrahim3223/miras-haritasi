@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0590839,41.1153336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taksiarhi Rum Ortodoks Kilisesi: İstanbul'un Gizli Çehresinin Bir Parçası

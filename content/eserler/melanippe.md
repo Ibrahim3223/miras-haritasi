@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.40496,36.25488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Melanippe: Antik Yunan Kültürünün Efsanevi Mirası

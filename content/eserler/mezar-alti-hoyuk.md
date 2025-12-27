@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2936891,39.6440774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mezar Altı Höyük: Bir Arkeolojik Harika**

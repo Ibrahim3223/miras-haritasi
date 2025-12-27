@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.087083333,41.266666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zegani Kilisesi: Tarihi ve Kültürel Mirasın Işığında

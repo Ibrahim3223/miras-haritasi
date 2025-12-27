@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.518116,37.675331"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sagalassos Tiberian Kapısı: Ağlasun'un Gizli Özdü

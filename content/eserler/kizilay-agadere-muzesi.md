@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.3697815,40.1603355"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılay Ağadere Müzesi

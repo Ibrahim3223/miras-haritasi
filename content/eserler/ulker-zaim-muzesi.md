@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.725841,39.814315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ülker Zaim Müzesi: Ankara'nın Kültürel Mirası

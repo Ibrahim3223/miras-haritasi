@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.149083333,41.346638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinanlı Çeşmesi

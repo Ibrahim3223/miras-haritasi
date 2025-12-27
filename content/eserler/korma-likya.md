@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.3003095,36.553099"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korma (Likya) Arkeolojik Sitesi

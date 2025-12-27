@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0338631,41.0728683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Profitis İlias Rum Ortodoks Kilisesi

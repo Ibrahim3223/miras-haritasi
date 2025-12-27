@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0338459,41.612339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karahalil Ulukonak Yolunda Tümülüs

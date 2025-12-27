@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.108786,41.214643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Myrileion: İstanbul'un Gizli Harikalılarından BİRİ

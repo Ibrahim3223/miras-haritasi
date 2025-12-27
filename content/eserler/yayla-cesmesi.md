@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4461994,37.5895996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yayla Çeşmesi: Aydın'ın Göz Alıcısı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.51023927,40.666680768"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karatekin Köyü Çeşmesi: Korgun'un Tarihi Bir Zirvesi

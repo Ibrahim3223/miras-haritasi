@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2502995,37.8254967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neapolis (İyonya)

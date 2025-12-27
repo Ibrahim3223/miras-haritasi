@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.85411,41.118799"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeytinlik Köyü Aşağı Türbe: Artvin'in Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.538353,41.326828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Küçükkarıştıran Höyükaltı Tümülüsü

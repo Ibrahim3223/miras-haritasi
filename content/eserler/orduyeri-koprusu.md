@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.3428345,41.6402397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orduyeri Köprüsü: Bartın'ın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5217934,40.9797554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şehit Yüzbaşı Mayadağlı Çeşmesi

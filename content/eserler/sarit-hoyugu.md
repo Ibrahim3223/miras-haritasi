@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2595084,36.903169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıt Höyüğü: Gaziantep'in Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.536644,39.4476013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yunus Hoca Kümbeti: Eskişehir'in Tarihî Bir Mirası

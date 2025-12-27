@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.876,41.268"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phinopolis (Pontus): Antik Dönemin Gizemi

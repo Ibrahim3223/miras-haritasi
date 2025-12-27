@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.2052727,38.2302856"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kiraz Ulu Cami: İzmir'in Tarihî Bir Zirvesi

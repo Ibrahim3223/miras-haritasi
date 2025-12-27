@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.066501,41.09882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Çeşme, Kanlıca: Beykoz'un Zeytinlik Köyü'ndeki Tarihi Çeşme

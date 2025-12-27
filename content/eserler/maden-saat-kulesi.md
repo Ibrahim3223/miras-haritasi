@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "39.666472222,38.393361111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maden Saat Kulesi: Türkiye'nin Doğası ile Birlikte Geçen Tarihi Bir Miras

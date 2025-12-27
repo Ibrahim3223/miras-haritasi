@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9559383,41.0129204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Hüsameddin Efendi Kabri

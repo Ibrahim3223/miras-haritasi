@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0223026,40.2434502"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vezirhan Camii: Bilecik'te Bir İkinci Roma'nin Mirası

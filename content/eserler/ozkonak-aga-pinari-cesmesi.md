@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.8335266,38.8033295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Özkonak Ağa Pınarı Çeşmesi

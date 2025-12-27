@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9386768,41.014286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lütfi Paşa Hamamı

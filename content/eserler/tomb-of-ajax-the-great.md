@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.242033997,39.991605569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tomb of Ajax the Great

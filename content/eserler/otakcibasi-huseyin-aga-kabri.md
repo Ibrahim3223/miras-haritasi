@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.935671574,41.035735991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Otakçıbaşı Hüseyin Ağa Kabri

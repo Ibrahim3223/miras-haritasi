@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.0010091,36.9195807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şaraga Höyük: Gaziantep'in Gizli Çarıtı

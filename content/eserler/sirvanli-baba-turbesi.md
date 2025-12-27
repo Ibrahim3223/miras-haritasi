@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8309,40.6613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şirvanlı Baba Türbesi: Amasya'nın Gizli Cenneti

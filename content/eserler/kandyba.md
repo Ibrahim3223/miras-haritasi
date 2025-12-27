@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.673804,36.318976388"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kandyba: Antik Kentin Gizemi

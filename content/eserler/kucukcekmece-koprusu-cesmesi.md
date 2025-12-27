@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.770106,40.990149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçükçekmece Köprüsü Çeşmesi

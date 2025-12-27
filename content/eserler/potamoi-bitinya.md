@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.379823,40.798384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Potamoi (Bitinya)

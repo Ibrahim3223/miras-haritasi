@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3080997,38.3064003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şerif Ağa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.4960926,40.8227567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Onhoroz Höyük

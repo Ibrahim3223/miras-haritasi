@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.782260839,41.384118511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Safalan Çeşmesi, Kastamonu

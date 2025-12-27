@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.9586258,37.2265739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazımkarabekir Asar Höyük: Karaman'ın Gizli Gölleri

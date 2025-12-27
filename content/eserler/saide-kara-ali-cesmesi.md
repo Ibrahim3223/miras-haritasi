@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2189751,41.0820312"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Saide Kara Ali Çeşmesi: Silivri'nin Tarihi Bir Ölümsüzü**

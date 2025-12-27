@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.211344476,40.889222117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Pınar Çeşmesi, Kurşunlu

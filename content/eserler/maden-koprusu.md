@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.67288168,38.390174662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Maden Köprüsü: Elazığ'ın Tarihî Mirası

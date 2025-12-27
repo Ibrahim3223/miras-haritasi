@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2105465,38.4484138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yassıtepe Höyüğü, Bornova

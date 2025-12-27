@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.040266,41.0425453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Han II Çeşmesi, Beylerbeyi Sarayı

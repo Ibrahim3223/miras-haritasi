@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9579755,41.0132848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Safiye Hanım Sultan Sebili: İstanbul'un Tarihi Çeşmesi

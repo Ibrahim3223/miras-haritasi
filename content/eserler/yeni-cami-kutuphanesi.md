@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9719429,41.0163498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami Kütüphanesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6139927,39.450882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Şücaüddin Türbesi: Eskişehir'in Tarihi ve Kültürel Mirası

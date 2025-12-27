@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "35.498554,38.716549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kayseri İl Halk Kütüphanesi: Kayseri'nin Kültür Mirası**

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.2512341,39.739727"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koçali Köyü Camii: Tarihî Bir Mirasın Gizemi

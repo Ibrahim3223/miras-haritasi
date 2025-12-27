@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8682518,39.9321938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Erzurum Çeşmesi

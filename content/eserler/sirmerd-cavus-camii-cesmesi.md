@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9452343,41.0104218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şirmerd Çavuş Çeşmesi: Fatih'in Gizli Çeşmesi

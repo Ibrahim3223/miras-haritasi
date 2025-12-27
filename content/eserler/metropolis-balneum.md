@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3262081,38.1265526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Metropolis Balneum: İzmir'in Tarihi Hamamı

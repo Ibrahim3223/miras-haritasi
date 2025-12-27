@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9402351,41.0404816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ya Vedûd Haziresi

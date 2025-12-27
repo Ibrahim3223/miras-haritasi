@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "32.855114,39.9348488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Katolik Kilisesi: Ankara'nın Gizli Cenneti

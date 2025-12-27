@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8583794,39.9396553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suluhan Mescidi: Altındağ'ın Önemli Tarihi Eserlerinden Birisi

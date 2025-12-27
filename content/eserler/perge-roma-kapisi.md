@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.8540878,36.9605446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Perge Roma Kapısı: Antik Şehirin Giriş Kapısı

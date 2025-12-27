@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.162149,37.442328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sedasa Arkeolojik Sit: Geçmişe Yolculuk

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.525833333,37.850277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Magnesia Tiyatrosu

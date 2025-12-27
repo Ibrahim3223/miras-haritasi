@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.107824,37.838647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Laodiceia Batı Tiyatrosu

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.5361729,39.4515533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Hamam, Sivrihisar

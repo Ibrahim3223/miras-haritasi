@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.0832214,37.9201393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karatepe Katliamı Anıtı

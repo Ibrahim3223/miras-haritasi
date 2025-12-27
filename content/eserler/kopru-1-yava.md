@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.1400928,37.4530373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köprü 1, Yava: Muğla'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.4756374,41.6861382"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazan Köprüsü

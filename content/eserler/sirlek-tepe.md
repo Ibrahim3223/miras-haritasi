@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.864109,41.5966797"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şirlek Tepe Arkeolojik Sit

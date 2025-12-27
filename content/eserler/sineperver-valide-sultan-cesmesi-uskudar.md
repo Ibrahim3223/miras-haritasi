@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.014431,41.025223"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sineperver Valide Sultan Çeşmesi, Üsküdar

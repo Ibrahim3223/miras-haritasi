@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.984957,41.034353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Philocaleia: Antik Dünyanın Gizemi

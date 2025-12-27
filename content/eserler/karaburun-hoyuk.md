@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7988953,38.7378415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karaburun Höyük: Tarihî Bir Mirasın Öyküsü

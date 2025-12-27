@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.489824315,38.358927445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Köşkerli Camii**

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8432999,38.1999016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turabiye Camii: İzmir'in Gizli Çehresinde Bir Özerklik Dönemi Eseri

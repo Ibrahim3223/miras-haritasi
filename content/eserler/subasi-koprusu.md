@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.0272064,37.7292633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Subaşı Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

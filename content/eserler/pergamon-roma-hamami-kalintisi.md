@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1863232,39.1214676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pergamon Roma Hamamı Kalıntısı

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9790554,39.4218407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mehmet Gürsoy Çini Konağı: Kütahya'nın Gizli Müzesi**

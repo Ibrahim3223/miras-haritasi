@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.0995712,40.383316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sis Kalesi

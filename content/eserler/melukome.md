@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.19111,38.57944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Melukome: Salihli'nin Gizli Gölleri

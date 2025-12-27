@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.4998999,40.9567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taşkıran Sarıgöl Camii: Artvin'in Gizli Cenneti

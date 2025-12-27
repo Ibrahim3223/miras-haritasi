@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.3913,37.0574"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Polat Dede Türbesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.914888888,37.794277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tut Ulu Camii: Adıyaman'ın Tarihi Bir Anıtı

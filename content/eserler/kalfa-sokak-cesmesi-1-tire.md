@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7319927,38.0815582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalfa Sokak Çeşmesi 1: Tire'nin Tarihi ve Kültürel Mirası

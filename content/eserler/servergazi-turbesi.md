@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0429382,37.7458954"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Servergazi Türbesi: Merkezefendi'nin Gizli Anıtı

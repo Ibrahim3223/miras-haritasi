@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.469038,41.346417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Narco: Bir Arkeolojik Sitin Gizemi

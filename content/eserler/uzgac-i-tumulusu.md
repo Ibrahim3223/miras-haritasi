@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4431648,41.7953148"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzgaç I Tümülüsü

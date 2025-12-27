@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8498358,37.2332356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Side (Karya) Arkeolojik Sit

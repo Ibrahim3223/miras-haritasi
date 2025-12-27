@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "29.0221558,40.9906845"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadıköy Şehremaneti Dairesi: Kadıköy'in Kültürel Mirası

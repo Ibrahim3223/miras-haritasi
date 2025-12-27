@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.507199,38.723103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odon (Lidya) Arkeolojik Sit

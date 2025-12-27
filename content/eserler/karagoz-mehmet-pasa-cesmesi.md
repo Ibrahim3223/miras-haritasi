@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.926267,41.009196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karagöz Mehmet Paşa Çeşmesi

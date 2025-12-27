@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.4530907,40.6818008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yolkaya Köyü Camii: Çankırı'nın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9409084,41.0030975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mirza Baba Kabri: Fatih'ten Gelen Bir Kutsal Anıt

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.468611111,38.071333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uluborlu Alaaddin Camii

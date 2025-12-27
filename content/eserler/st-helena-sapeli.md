@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9755344,41.0336876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## St. Helena Şapeli

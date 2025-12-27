@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5183125,41.5965195"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Pınarhisar Bağlar Tümülüsü: Kırklareli'nin Gizli Hazinesi**

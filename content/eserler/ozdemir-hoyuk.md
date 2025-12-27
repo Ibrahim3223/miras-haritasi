@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.059509698,36.871399702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Özdemir Höyük: Antalya'nın Gizli Mirası

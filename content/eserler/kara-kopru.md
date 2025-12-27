@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.2731018,37.8091965"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Köprü: Diyarbakır'ın Tarihi Bir Mirası

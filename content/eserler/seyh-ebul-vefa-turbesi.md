@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.959622,41.016799"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Ebul Vefa Türbesi

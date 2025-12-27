@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.1302795,40.5908318"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Manastır Kalesi: Gümüşhane'nin Tarihî ve Kültürel Mirası

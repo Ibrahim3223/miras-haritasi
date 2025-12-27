@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.970873,41.010761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nuruosmaniye Kütüphanesi: İstanbul'un Eski Kentinde Gizli Bir İyilik

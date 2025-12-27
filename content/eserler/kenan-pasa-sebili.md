@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9736996,41.0224533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kenan Paşa Sebili**

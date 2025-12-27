@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.267758468,40.759798751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kabataş Akpınar Camii

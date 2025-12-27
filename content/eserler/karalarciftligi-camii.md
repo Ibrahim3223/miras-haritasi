@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.620603791,40.109533987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karalarçiftliği Camii

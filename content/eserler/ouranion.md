@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2788,37.0935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ouranion: Bodrum'un Gizli Mirası

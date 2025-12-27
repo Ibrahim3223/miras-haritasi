@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.62327114,40.949558478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kese Köyü Çeşmesi 1, Ilgaz

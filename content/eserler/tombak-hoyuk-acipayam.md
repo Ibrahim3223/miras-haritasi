@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.3895969,37.4168434"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tombak Höyük, Acıpayam

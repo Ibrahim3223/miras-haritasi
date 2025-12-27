@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.983187,39.793768"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kale Peuke: Yenice'nin Tarihi Mirası

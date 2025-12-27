@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9521389,41.0129204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sancaktar Baba Hasan Ağa Kabri

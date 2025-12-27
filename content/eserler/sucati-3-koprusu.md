@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.894283,41.096917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suçatı 3 Köprüsü

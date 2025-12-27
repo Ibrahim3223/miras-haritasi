@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.56086519,41.671907767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Papazoğlu Ali Efendi Mescidi

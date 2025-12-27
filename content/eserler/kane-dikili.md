@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8,39.03333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kane (Dikili)

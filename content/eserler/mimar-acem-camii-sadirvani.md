@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9266396,41.0136261"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mimar Acem Camii Şadırvanı

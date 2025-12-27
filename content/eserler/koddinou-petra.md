@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.503594,38.585627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koddinou Petra: Kıbrıs'ta Bir Gizli Şehri Keşfetmek

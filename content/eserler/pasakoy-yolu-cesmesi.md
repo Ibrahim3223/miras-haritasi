@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3271294,39.5157356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşaköy Yolu Çeşmesi: Ayvacık'taki Tarihi Bir Örnek

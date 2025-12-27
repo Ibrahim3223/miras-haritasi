@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.492588,37.8689461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şekerfüruş Mescidi: Konya'nın Gizli Cenneti

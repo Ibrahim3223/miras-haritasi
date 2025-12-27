@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.243551,40.874011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kosilaos Arkeolojik Sit

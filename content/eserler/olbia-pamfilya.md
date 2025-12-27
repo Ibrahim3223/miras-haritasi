@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.658713,36.879103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Olbia (Pamfilya)

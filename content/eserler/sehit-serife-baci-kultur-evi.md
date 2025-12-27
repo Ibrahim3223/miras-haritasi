@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "33.7183113,41.6174698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehit Şerife Bacı Kültür Evi

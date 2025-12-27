@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.557431732,41.672816164"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mehmet Ağa Camii: Edirne'nin Gizli Çehresinde Bir Kıymetli Cami**

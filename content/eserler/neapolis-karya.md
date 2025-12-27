@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.378,37.1263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Neapolis: Bodrum'un Gizli Harikası

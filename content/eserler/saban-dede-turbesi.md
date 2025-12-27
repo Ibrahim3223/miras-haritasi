@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1858101,37.8811531"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şaban Dede Türbesi

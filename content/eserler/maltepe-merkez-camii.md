@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1305714,40.9245453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe Merkez Camii

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.130701,41.2081472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Poyrazköy Kalesi

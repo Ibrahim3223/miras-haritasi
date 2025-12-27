@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9344254,41.8147888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivriler 4 Tümülüsü

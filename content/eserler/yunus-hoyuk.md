@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.013333,36.834722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yunus Höyük: Gaziantep'in Gizli Kahramanı

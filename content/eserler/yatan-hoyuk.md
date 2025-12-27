@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.3232416,39.2724122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yatan Höyük: Boğazlıyan'ın Gizemi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.821888888,40.957527777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Stepanos Katolik Kilisesi: İstanbulluların Gizli Cenneti

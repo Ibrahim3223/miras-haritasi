@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2724075,39.9033508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Külhancı Baba Türbesi

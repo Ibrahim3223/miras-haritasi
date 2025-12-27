@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8718414,39.9392776"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şükriye Camii**

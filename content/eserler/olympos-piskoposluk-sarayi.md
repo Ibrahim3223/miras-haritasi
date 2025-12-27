@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.4733925,36.3964882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Olympos Piskoposluk Sarayı

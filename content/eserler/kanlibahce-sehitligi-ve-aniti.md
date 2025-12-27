@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5844383,37.8635292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kanlıbahçe Şehitliği ve Anıtı

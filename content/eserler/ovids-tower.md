@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.015360244,41.2103802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ovid'in Kulesi: Uskumruköy'deki Tarihi Bir Anıt

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.4448528,38.4027596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ümran Baradan Güzel Sanatlar Müzesi

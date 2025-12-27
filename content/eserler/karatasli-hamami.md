@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.0900039,40.3884816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karataşlı Hamamı: Turhallı'nın Gizli Çeşmesi

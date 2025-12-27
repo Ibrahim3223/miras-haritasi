@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "33.7718735,41.3767586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yakup Ağa Medresesi

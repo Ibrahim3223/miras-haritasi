@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9650249,41.0717354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kağıthane Açık Hava Müzesi

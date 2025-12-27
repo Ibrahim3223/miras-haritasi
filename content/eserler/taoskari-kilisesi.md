@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.943166666,40.817266666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Taoskari Kilisesi

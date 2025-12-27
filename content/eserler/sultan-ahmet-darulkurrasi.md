@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.976972,41.006818"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Ahmet Darülkurrası: İstanbul'un Gizli Mimari Harikası

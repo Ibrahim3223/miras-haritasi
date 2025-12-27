@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köşkerbaba Höyük: Bir Arkeolojik Sitin Gizemi

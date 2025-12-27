@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.812683,39.009483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kıranharmanyeri Arkeolojik Siti: Kütahya'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5022736,37.8690987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Ağa Çeşmesi: Karatay, Konya'nın Tarihî Çeşme Anıtı

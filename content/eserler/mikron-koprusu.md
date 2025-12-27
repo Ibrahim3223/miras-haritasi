@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.02523,41.04565"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mikron Köprüsü: Rize'nin Tarihi Bir Ören Yeri

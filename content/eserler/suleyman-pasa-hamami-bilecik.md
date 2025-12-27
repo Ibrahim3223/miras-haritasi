@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9874191,40.142601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Paşa Hamamı, Bilecik: Tarihi ve Kültürel Mirasının Gizli Çeşmesi

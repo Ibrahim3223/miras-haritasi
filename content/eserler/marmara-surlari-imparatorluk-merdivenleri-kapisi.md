@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9756527,41.0023422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Marmara Surları: İmparatorluk Merdivenleri Kapısı

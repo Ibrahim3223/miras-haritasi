@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.6098824,37.1420441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Taşkale Taş Camii: Karaman'ın Gizli Ödülleri

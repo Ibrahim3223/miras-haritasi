@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.1977596,40.0028381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumkale Kalesi Şehitliği

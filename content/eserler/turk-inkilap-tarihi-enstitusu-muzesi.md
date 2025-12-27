@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.8555946,39.9300995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Türk İnkılap Tarihi Enstitüsü Müzesi**

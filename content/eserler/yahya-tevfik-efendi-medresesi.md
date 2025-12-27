@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.946089,41.022331"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yahya Tevfik Efendi Medresesi

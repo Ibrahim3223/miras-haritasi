@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.698888888,37.583055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Loulon Kalesi: Ulukışla'da Geç Ortaçağ'ın Gizemi

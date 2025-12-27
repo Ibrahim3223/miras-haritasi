@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9356232,41.0448036"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zal Mahmut Paşa Camii Şadırvanı

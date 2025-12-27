@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.535284,38.7550392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami (Afyonkarahisar)

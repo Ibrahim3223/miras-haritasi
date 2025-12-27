@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.8868834,41.0716535"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Levent Köprüsü: Hemşin'in Gizli Mimari Çeşidi

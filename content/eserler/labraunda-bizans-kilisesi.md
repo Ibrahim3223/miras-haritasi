@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.820816,37.4186134"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Labraunda Bizans Kilisesi

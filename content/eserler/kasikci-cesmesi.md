@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2289867,41.0258026"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaşıkçı Çeşmesi: Tekirdağ'ın Tarihi Bir Anıtı

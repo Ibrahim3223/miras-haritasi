@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.026111111,36.622777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Philadelphia (Kilikya) Arkeolojik Sit**

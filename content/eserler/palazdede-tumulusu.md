@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8773346,38.834034"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Palazdede Tümülüsü: Akhisar'ın Gizli Kahramanı

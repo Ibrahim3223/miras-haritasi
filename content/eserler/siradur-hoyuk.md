@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.2276192,40.1626778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sıradur Höyük: Sivas'ın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.789865302,39.412155101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukansazlık Höyük: Şefaatli'deki Bir Arkeolojik Sit

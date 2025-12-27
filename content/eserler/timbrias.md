@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.02,37.82"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Timbrias Arkeolojik Sitesi

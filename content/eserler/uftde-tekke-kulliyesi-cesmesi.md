@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0542088,40.1781807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Üftâde Tekke Külliyesi Çeşmesi**

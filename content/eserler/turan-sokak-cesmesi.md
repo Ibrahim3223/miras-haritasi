@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.7934647,40.392746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Turan Sokak Çeşmesi

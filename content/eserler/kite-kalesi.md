@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.8783493,40.1988258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kite Kalesi: Bursa'nın Eski Kaleleri Arasındaki Bir Ören

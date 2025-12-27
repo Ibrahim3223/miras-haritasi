@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.9160671,38.0889282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakoç Roma Hamamı: Seferihisar'ın Eskişehirindeki Tarihi bir Mirası

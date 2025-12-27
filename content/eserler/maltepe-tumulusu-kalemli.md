@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4695225,38.7808495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Maltepe Tümülüsü, Kalemli: Manisa'nın Gizli Cenneti**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.4053364,37.507103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karahöyük Arkeolojik Sit, Acıpayam

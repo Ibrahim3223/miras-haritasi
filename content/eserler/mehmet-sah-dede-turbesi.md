@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.28646,40.779855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehmet Şah Dede Türbesi: Kurşunlu, Çankırı'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.98966,41.046585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Paşa Çeşmesi, Harbiye

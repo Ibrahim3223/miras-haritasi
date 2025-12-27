@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.946611111,41.034"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selanikli Sinagogu: Ayvansaray'daki Bir Tarihi Öncü

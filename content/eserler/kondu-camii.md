@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.231321981,40.801036235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kondu Camii: Trabzon'un Tarihî Bir Mirası

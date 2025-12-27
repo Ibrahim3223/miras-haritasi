@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.7452698,38.6608429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeytan Hamamı, Foça: Tarihî ve Mimarî Bir Anıt

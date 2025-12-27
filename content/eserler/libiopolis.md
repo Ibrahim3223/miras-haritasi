@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.198236,41.068855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Libiopolis: Beşikdüzü'ndeki Eski Kent**

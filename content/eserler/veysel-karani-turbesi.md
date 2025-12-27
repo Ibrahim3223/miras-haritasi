@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.7158987,38.1314264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veysel Karani Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.6310959,40.0563812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sökmen Köyü Çeşmesi Kelkit: Tarihi ve Kültürel Mirasın Gizemi

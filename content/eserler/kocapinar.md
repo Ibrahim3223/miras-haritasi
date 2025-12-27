@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.726317,38.466483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocapınar Arkeolojik Sit

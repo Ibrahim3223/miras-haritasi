@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.4646378,40.8714066"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tuz Pazarı Hamamı

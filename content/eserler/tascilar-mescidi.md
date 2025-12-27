@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4319382,38.6121101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taşçılar Mescidi: Manisa'nın Tarihî Bir Mirası

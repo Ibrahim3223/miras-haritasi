@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.010419831,41.018143231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üsküdar Sinan Paşa Hamamı

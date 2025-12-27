@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0091152,41.025219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şemsipaşa Atatürk Anıtı

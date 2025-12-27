@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.051377,41.138746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarabya Soğuk Suyu 2: İstanbul'un Eski Şenliklerinde Bir Çeşme

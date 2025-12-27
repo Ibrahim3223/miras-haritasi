@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.3376846,41.6335144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Cami (Bartın)

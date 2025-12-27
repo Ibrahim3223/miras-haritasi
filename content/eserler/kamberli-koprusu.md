@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.462482,40.482873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kamberli Köprüsü: Tarihi ve Kültürel Mirasın Gizemi

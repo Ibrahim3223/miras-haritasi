@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1104527,37.8374596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Laodikeia Kiliseli Peristilli Ev

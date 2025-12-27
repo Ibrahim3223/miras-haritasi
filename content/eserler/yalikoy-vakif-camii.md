@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.6127472,41.0508614"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yalıköy Vakıf Camii: Ordu'nun Tarihi ve Kültürel Mirası

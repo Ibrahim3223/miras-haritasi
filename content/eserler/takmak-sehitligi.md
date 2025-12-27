@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9730339,38.4489822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Takmak Şehitliği

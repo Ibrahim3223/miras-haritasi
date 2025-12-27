@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.2946739,40.8320808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenikarpuzlu Köyü Camii: Edirne'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.8389111,38.4699909"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mazı Yeraltı Şehri: Tarihin Gizli Bir Evi

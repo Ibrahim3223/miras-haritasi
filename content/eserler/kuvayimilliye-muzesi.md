@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.0648746,37.6093597"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuvayımilliye Müzesi: Aydın'ın Kültür ve Tarih Mirası

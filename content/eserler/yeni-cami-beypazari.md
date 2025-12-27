@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.920723,40.1688042"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami (Beypazarı)

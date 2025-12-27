@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.6987495,41.0951347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ordu Köyü Şehitliği: Samsun'un Gazi Mezarlığı

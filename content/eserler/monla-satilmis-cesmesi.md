@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4860229,40.0474129"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Monla Satılmış Çeşmesi

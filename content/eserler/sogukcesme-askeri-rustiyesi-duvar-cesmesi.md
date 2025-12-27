@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.978034,41.010843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğukçeşme Askeri Rüştiyesi Duvar Çeşmesi

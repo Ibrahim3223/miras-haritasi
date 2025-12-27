@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.743174,37.312928"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mardin Milliye Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası

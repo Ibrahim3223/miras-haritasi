@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2893715,37.7148743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saden Camii

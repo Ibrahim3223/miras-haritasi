@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7761497,40.7588501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şuca Bey Külliyesi Çeşmesi, Yapraklı

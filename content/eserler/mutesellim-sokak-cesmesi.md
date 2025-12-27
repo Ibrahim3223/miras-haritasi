@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.932539,41.000733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mutesellim Sokak Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3258057,38.1259232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Metropolis Aşağı Hamam Palaestra: Tarihî Bir Eserin Gizemi

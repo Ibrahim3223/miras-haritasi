@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.8011742,38.3146477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Bey Kümbeti, Gürpınar

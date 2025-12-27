@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.3057015,38.3460526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tarihi Tahtalı Hamamı: Malatya'nın Gizli Çehresini Keşfetmek

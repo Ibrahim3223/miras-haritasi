@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9571632,41.0099569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Laleli Külliyesi Çeşmesi: Fatih'in Gizli Çeşmesi

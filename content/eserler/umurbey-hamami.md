@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0717831,40.1772308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Umurbey Hamamı

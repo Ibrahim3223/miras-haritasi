@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8650932,39.9327049"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tacettin Sultan Türbesi

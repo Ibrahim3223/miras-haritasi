@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9675388,41.0128517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Piyalepaşa Sebili: Fatih'in Şehre Söylüyen Bir Çeşmesi

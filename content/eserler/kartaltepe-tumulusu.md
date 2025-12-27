@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4451866,40.9610825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kartaltepe Tümülüsü: Edirne'nin Gizli Kahramanı

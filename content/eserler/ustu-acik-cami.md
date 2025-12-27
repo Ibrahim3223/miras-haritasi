@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.331199998,40.722143053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üstü Açık Cami: Kürtün'de Gizemli Bir Miras

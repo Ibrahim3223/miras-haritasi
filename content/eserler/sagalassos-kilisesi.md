@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.517639,37.675694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sagalassos Kilisesi**

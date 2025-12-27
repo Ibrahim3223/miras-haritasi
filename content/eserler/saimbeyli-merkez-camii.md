@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.0888824,37.9855309"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Saimbeyli Merkez Camii: Adana'nın Gözdelerinden Bir Örnek**

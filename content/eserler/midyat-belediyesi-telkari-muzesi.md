@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mıdıtan Belediyesi Telkari Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer

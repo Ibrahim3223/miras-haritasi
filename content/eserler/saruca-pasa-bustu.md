@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.435957,38.6207962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Saruca Paşa Büstü

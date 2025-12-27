@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.367111111,40.490166666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odeki Kale Kilisesi: Tortum'un Gizli Çağı

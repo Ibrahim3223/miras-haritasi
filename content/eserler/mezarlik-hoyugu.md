@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.2770273,39.3302166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mezarlık Höyüğü: Balâ, Ankara'da Tarih Öncesi Mirası

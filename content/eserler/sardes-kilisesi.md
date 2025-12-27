@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.0317364,38.4788132"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sardes Kilisesi: İncil'in Kaynağı ve Ege'nin Gizemi

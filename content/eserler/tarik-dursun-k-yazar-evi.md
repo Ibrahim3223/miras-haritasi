@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.1140213,38.4088898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tarık Dursun K. Yazar Evi**

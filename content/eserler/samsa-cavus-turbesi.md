@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4712906,40.1669731"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Samsa Çavuş Türbesi: İnegöl'ün Tarihi ve Kültürel Mirası

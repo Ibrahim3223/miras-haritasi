@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.408886,38.2678947"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sivrihisar Kalesi: Aksaray'ın Tarihî Mirası

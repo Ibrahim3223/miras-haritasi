@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.105257418,41.216891527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarban Ahmet Türbesi: Hayrabolu' nun Tarihsel Ören Yeri

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.7949753,38.2325363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kömürtaş Köprüsü: Ergani'nin Efsanesi

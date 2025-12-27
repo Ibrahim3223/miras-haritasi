@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.934119069,38.817374868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Pınar Çeşmesi: Hekimhan'ın Tarihi Bir Mirası

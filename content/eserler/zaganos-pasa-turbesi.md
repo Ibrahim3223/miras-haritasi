@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.8801155,39.6485939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zağanos Paşa Türbesi: Karesi'nin Değerli Mirası

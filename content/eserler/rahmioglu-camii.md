@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.9455986,41.2145004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Rahmioğlu Camii

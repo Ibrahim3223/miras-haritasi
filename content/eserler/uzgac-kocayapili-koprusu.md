@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.4290447,41.8129654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzgaç Kocayapılı Köprüsü

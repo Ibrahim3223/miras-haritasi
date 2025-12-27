@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "34.7085,38.622805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nevşehir Saat Kulesi: Tarihi ve Ünlü Saat Kulesi

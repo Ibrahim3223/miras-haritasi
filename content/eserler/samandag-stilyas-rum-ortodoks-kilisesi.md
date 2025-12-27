@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.9916382,36.0976639"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Samandağ St.İlyas Rum Ortodoks Kilisesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.6164465,40.6032657"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şıh Kasım Türbesi

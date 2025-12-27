@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6556664,37.9954872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uzgur Köprüsü: Tarihi ve Kültürel Mirası Anlatmak

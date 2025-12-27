@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.94569,41.030477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yazıcı Baba Kabri

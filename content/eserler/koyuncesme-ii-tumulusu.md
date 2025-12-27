@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.674997316,41.853602608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koyunçeşme II Tümülüsü: Edirne'nin Gizli Harikası

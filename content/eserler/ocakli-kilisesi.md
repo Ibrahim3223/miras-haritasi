@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.569887,40.806746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ocaklı Kilisesi: Trabzon'un Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2807007,37.5298538"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milet Delphinion: Didim'in Gizli Kahramanı

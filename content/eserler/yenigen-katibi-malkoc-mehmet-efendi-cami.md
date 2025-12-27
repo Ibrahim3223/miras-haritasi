@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.917902,41.0141525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yenigen Katibi Malkoç Mehmet Efendi Cami

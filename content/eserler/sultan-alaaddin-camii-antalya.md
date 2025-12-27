@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.7070141,36.8829308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Alaaddin Camii: Antalya'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.1771,41.1309"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Okumuş Köprüsü: Ardeşen'in Tarihî Mirası

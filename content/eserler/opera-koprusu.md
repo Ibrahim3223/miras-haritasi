@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.8535843,39.9343376"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Opera Köprüsü: Ankara'nın Tarihi Mirası

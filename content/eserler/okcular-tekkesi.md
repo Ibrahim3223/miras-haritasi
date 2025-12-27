@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.959865771,41.041289985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Okçular Tekkesi - İstanbul'un Gizli Çehresini Keşfetmek**

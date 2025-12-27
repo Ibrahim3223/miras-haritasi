@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.594173855,40.66220974"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Meşeköy Camii: Rize'nin İkizdere Köyünde Gizli bir Ören

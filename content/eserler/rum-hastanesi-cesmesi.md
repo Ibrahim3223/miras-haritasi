@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.544796,37.7035751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rum Hastanesi Çeşmesi

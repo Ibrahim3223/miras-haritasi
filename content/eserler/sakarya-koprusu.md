@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.436779,40.7957306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakarya Köprüsü: Türkiye'nin Tarihi ve Teknolojik Mirası

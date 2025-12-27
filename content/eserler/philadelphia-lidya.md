@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.51666667,38.35"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Philadelphia (Lidya)

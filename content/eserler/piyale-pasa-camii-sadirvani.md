@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9655857,41.0448074"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Piyale Paşa Camii Şadırvanı

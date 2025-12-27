@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3168774,37.6149292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprü 4, Altıntaş

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.92238,41.037775"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yalı Köyü Köprüsü**

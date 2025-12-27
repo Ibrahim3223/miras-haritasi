@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.030764258,41.146675765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seslikaya Köyü Camii: Ardeşen'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.422304,40.674153"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kutlu Doğmuş Türbesi: Aybastı'nın Tarihi Mirası

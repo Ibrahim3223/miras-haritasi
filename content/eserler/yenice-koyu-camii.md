@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.847805,40.6874237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenice Köyü Camii: Yapraklı, Çankırı'da Bir Osmanlı Dönemi Mimari Harikası

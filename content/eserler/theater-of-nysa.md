@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.14535923,37.903691072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Theater of Nysa Tanıtımı

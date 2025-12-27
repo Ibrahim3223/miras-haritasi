@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.949154,41.021274"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Necip Bey Çeşmesi: Fatih'in Değerli Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.8402348,37.8524551"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Osman Ağa Medresesi

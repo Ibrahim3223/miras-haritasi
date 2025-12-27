@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.969861111,41.014333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kal Kadoş Çorapçı Han Sinagogu

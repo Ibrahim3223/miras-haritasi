@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.3328648,38.3179512"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırıklar Kalesi, Buca

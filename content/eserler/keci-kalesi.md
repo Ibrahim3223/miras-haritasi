@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.422058,38.024616"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Keçi Kalesi: İzmir'in Şatosu**

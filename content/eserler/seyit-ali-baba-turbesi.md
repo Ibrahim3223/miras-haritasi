@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0768795,40.9876137"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyit Ali Baba Türbesi

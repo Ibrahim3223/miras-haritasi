@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1297512,40.9202614"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rum Ortodoks Hagios Nikolas Kilisesi

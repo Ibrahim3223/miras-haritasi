@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.955555,37.401572"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ömerli Eski Camii: Mardin'in Tarihî Diyarı

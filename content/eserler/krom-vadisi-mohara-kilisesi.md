@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.606971,40.551093"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Krom Vadisi Mohara Kilisesi: Tarihi ve Kültürel Mirasımız

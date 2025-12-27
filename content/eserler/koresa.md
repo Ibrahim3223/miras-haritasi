@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.585778,38.624086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Koresa

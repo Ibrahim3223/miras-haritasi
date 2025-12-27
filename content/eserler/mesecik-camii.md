@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.5270654,40.8106038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meşecik Camii: Artvin'in Gizli Cenneti

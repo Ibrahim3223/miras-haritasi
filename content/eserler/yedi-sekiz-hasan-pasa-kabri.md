@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0180607,41.0466156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yedi Sekiz Hasan Paşa Kabri: Beşiktaş'ta Bir Anıt**

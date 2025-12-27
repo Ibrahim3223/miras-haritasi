@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.836195,40.654746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Veli Abdullah Türbesi**

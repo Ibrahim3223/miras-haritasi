@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.3746586,37.5552025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yatağan Baba Türbesi, Serinhisar

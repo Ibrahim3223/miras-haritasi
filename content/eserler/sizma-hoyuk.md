@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.4049824,38.0907282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sızma Höyük: Konya'nın Gizli Kahramanı

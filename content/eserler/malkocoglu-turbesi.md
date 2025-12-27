@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.431303,40.797821"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malkoçoğlu Türbesi

@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "41.699666666,37.927111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurtalan Saat Kulesi: Siirt'in Tarihî Mirası

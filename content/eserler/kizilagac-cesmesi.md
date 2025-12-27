@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5576725,37.3409157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılağaç Çeşmesi

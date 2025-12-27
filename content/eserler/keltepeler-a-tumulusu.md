@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8372993,41.5373955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keltepeler A Tümülüsü

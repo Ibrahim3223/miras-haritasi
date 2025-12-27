@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.0772438,38.2536659"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nisanoğlu Türbesi

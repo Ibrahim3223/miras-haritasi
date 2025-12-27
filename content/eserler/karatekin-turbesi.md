@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.616642,40.6082001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karatekin Türbesi: Çankırı'nın Gizli Mücevheri

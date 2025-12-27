@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.485383,39.529617"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavşanlı Höyük: Tarihî Bir Mirasın Gizemi

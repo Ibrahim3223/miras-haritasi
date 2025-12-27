@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.59493,37.044491"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Theangela: Türkiye'nin Gizli Arkeolojik Mirası

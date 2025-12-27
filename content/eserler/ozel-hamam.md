@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.7848644,37.314743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Özel Hamam

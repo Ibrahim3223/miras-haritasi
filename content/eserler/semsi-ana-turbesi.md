@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "28.3696918,37.2185211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şemsi Ana Türbesi: Tarihî Bir Mirasın Öyküsü

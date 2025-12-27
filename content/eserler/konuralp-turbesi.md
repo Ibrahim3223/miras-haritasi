@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.1476803,40.9051476"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Konuralp Türbesi: Düzce'nin Gizli Anıtı

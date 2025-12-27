@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.11682,36.47496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Nauloi Arkeolojik Sitleri

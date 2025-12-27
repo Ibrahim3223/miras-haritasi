@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.2975578,38.9189072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sağman Camii

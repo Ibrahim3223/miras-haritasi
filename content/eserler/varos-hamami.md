@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.1556435,42.0233307"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Varoş Hamamı: Sinop'un Tarihi bir Hamamı

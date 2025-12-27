@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.7420082,40.3986549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılcahamam Kırmızı Ebe Türbesi: Tarihi ve Kültürel Değerleri

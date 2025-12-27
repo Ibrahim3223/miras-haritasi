@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9462738,41.0082741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şem'i Molla Camii Su Teknesi

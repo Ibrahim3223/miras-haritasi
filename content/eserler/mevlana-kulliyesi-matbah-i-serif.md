@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.5045738,37.8703575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mevlana Külliyesi Matbah-ı Şerif

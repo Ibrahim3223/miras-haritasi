@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5046806,37.8649597"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pir Esad Sultan Türbesi

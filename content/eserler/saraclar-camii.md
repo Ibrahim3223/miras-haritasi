@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8622589,39.9366188"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Saraçlar Camii

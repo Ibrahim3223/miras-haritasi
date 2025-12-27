@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.8625317,39.1552696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sokak Çeşmesi: Eskişehir'in Gizli Çeşmesi

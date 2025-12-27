@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.377386282,41.015965128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalıköy Camii

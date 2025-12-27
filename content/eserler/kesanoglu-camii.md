@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8846207,40.6662102"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Keşanoğlu Camii: Gelibolu'nun Tarihi Mirası

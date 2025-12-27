@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0588531,41.1187134"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeniköy Şehitliği: Sarıyer'in Anıtsal Mezarlığı

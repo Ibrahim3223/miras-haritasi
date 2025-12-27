@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0377998,39.9095001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Bey Camii: Bozüyük'te Bir Geçmişe Sahip Önemli Cami

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.068163,41.084053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazar Sokağı Çeşmesi: Beykoz'un Tarihi Bir Mirası

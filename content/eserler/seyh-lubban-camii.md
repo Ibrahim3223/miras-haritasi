@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.747593,37.317453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Lübban Camii: Mardin'in TarihSEL Mirası

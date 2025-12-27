@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4896698,38.7182159"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Tennuri Türbesi**

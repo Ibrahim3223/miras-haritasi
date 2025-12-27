@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9328003,38.2528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe Tümülüsü: Ödemiş'in Gizli Kahramanı

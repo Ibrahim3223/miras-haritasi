@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.835655733,39.942969291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sıfır Atık ve İklim Müzesi

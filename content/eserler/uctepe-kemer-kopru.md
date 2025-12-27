@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.631157,40.710677"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üçtepe Kemer Köprü

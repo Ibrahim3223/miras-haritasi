@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6790276,40.0476379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kirazlı Köprüsü: Çanakkale'nin Tarihi ve Kültürel Mirası

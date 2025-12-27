@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.9841385,39.5023727"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazarbaşı Hamamı

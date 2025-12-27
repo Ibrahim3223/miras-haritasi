@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.6374836,41.7316017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenice Mezarlık Tepesi Tümülüsü

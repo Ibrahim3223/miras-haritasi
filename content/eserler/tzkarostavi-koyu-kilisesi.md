@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.164858333,41.24005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tzkarostavi Köyü Kilisesi

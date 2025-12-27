@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.987833333,40.143055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Orhan Gazi Camii: Bilecik'in Tarihi ve Kültürel Mirası

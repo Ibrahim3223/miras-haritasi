@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8663826,39.9333763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Akif Ersoy Heykeli

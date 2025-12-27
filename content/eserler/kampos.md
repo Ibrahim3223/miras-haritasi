@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.878683,40.983338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kampos: İstanbul'un Gizli Çarpıcı Arkeolojik Sitleri

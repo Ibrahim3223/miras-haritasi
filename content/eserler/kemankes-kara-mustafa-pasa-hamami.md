@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.6017456,39.866066"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kemankeş Kara Mustafa Paşa Hamamı

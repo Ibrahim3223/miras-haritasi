@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4238911,38.6089401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kirdeci Mescidi

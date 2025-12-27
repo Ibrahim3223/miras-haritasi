@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0452156,40.1910019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muradiye Külliyesi Çeşmesi

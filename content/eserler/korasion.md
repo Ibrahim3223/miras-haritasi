@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.07638889,36.40888889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korasion: Silifke'nin Gizli İhtişamı

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2971191,40.24543"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kılıçdere Şehitliği: Anıtsal Bir Miras

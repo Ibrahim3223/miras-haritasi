@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4266567,41.9440498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Karadere Dokuztepeler Tümülüsü**

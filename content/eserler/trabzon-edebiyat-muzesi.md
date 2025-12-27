@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "39.718802,41.004588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Trabzon Edebiyat Müzesi: Tarih, Edebiyat ve Kültür

@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "31.5865879,39.3305855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pessinus Antik Tiyatrosu: Eskişehir'in Tarihi Bir Mirası

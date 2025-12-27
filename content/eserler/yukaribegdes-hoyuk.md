@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.9046082,36.847508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarıbeğdeş Höyük: Şanlıurfa'nın Gizli Mirası

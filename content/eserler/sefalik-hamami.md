@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.42209,40.681225"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sefalık Hamamı

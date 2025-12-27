@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.9333453,38.5721781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pazarağaç Höyüğü: Afyonkarahisar'ın Tarihî Mirası

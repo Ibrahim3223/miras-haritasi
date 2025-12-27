@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.271389,39.9076462"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karaköse Camii: Erzurum'un Tarihî Bir Mirası

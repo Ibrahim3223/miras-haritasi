@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.4486351,41.0762978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Paşa Camii (Hacıhamza)

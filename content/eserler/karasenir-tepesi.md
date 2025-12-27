@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6453774,39.0525008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karasenir Tepesi: Ankara'nın Gizli Çarpıntısı

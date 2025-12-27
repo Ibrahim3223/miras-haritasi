@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.921771,41.006489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silivrikapı Hipojesti: İstanbul'un Gizli Anıtı

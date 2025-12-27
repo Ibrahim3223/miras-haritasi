@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.0537224,38.3050995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyfotepe Tümülüsü: Malatya'nın Gizli Mirası

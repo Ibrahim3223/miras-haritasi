@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.4423885,39.5965881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprü, Ayvacık

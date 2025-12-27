@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.3039,40.57592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprübaşı Köprüsü: Gümüşhane'nin Kıvrımlı Taş Köprüsü

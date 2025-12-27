@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.881176,39.6484795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kurtuluş Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9736595,39.4235306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeni Cadde Çeşmesi

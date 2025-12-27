@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.025776,41.015754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeynep Hanım ve Kamil Paşa Türbesi

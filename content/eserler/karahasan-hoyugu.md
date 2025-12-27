@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.7047517,36.8543643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karahasan Höyüğü: Gaziantep'in Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.931655,41.05204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaşgari Tekkesi Çeşmesi: İstanbul'un Gizli Çeşmesi

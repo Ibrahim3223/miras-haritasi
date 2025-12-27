@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.020979,41.013191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Üsküdar

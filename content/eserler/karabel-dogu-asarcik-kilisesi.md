@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9351673,36.3485718"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabel Doğu Asarcık Kilisesi: Tarihi ve Kültürel Mirasın Bir Parçası

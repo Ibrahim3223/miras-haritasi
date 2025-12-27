@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.053479,41.13776"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tarabya Soguk Suyu Çeşmesi: İstanbul'un Gizli Çeşmesi

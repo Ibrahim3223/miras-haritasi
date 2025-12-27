@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.4616652,36.9412792"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sazgın Höyük: Tarihî Mirasın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1289387,38.4125938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Jph Dalmas & Cie Marseille Şirketi Sokak Çeşmesi

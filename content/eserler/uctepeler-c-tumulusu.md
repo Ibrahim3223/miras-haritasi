@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7323494,41.5021744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üçtepeler C Tümülüsü

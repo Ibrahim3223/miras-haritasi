@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "35.4860191,38.7197762"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Raşit Efendi Yazma Eser Kütüphanesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.490886,38.725179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulu Hatun Türbesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4595833,38.6926765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuruoğlu Köprüsü: Manisa'nın Tarihî Mirası

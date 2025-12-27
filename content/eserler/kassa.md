@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.263486,40.690513"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kassa Arkeolojik Sit

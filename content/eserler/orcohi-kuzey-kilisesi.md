@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.80295,40.53475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orcohi (Kuzey) Kilisesi: Oltu'nun Tarihi Zenginliği

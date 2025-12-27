@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.07971,41.6330719"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vezirtepe F Tümülüsü

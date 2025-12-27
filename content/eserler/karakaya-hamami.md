@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.3322182,40.0203781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakaya Hamamı: Ankara'nın Gizli Cenneti

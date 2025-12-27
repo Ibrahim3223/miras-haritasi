@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.7855396,37.2699203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orman Tekkesi: Milas'ta Bir Medrese'nin Gizemi

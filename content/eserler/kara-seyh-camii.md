@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0654278,40.1826668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Şeyh Camii

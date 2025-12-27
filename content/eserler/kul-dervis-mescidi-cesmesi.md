@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8623009,39.9317589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kul Derviş Mescidi Çeşmesi

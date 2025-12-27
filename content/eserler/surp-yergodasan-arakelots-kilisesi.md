@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.060313,41.071861"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Yergodasan Arakelots Kilisesi: İstanbul'un Gizli Çarpızlarından Birini

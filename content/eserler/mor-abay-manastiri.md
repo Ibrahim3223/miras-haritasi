@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "40.958388888,37.557416666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mor Abay Manastırı

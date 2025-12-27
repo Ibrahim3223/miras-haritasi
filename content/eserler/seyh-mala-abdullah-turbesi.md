@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.8372917,37.4505272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Mala Abdullah Türbesi**

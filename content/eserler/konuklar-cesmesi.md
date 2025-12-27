@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.857497055,39.939181278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Konuklar Çeşmesi

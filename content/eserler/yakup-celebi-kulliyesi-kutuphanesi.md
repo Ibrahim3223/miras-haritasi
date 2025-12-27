@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "29.9760513,39.4170303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yakup Çelebi Külliyesi Kütüphanesi

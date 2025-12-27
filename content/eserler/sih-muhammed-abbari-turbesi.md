@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6215668,36.7979546"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şıh Muhammed Abbari Türbesi

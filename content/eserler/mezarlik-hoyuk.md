@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8830013,40.6628265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mezarlık Höyük: Gelibolu'nun Gizli Mirası

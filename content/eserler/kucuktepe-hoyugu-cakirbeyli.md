@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8291626,37.7613525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küçüktepe Höyüğü: Aydın'ın Eski Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.55805349,41.68243167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sofi İlyas Baba Yatırı

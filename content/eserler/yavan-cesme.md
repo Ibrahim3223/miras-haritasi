@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7296162,38.0831566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yavan Çeşme: İyonya'nın Değerli Çeşme Anıtı

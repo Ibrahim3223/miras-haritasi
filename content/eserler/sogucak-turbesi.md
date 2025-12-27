@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3005428,37.7825089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğucak Türbesi

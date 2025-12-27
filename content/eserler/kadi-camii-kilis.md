@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.1149712,36.7163467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Camii: Kilis'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.869768,37.258957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Saraganda: Bir Arkeolojik Sitin Gizemi

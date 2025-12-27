@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.039089,40.383948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Magabula

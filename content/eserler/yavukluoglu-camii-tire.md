@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7263737,38.0807114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yavukluoğlu Camii: Tire'nin Tarihî Mirası

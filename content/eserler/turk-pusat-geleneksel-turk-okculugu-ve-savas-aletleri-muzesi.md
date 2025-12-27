@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.862666772,39.938365858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi

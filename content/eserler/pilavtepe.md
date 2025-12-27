@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3634934,39.8388323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Pilavtepe: Hafik'te Bir Arkeolojik Sit**

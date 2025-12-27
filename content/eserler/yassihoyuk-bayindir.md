@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2975388,38.6082916"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yassıhöyük, Bayındır: Türkiye'nin Gizemli Arkeolojik Sitleri

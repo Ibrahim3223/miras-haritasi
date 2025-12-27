@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.989503503,37.813993453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Körtik Tepe Arkeolojik Sit

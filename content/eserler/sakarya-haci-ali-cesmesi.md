@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4658813,40.737072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakarya Hacı Ali Çeşmesi

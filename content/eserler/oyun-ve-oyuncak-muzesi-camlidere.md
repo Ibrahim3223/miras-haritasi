@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.4685822,40.4891968"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oyun ve Oyuncak Müzesi, Çamlıdere

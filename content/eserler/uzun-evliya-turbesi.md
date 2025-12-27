@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.089753,41.148646"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uzun Evliya Türbesi

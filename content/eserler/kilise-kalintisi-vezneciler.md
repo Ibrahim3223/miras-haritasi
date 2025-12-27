@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9598351,41.0117683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilise Kalıntısı, Vezneciler

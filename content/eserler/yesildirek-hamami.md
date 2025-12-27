@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.969298,41.025625"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşildirek Hamamı

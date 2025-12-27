@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.934079,41.004662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Vucudizade Türbesi: Fatih'te Bir Altın Örnek**

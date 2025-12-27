@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.9937321,36.5602816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Musa Dede Türbesi

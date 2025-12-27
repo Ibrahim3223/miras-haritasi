@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.8853531,40.300766"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Hamam, Zile

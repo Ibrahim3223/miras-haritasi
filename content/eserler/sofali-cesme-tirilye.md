@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.796111111,40.392444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofalı Çeşme: Tirilye'nin Tarihi Bir Çeşmesi

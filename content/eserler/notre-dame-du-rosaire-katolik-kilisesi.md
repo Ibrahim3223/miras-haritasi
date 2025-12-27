@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0278378,40.9964104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Notre Dame du Rosaire Katolik Kilisesi

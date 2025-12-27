@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.9834649,39.4936715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üzerliktepe Arkeolojik Sit

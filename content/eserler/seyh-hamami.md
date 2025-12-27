@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.7383537,38.0795631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Hamamı: Tarihi ve Kültürel Mirası Tanıtımı

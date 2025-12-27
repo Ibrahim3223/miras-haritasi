@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.948958,41.013619"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofular Hamamı: Tarihi ve Kültürel Değerini Koruyan Bir Hamam

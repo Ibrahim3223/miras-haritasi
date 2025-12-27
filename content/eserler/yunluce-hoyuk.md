@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.3524642,40.0299804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yünlüce Höyük: Sivas'taki Tarihî Bir Miras

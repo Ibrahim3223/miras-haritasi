@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.367805555,37.952472222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaçağ Yerleşimi Efes

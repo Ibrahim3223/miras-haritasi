@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "25.9139366,40.1209908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gökçeada'daki Trapezya: Bir Arkeolojik Sitin Gizemi

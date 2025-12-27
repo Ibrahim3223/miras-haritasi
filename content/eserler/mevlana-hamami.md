@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.5544111,40.3108769"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mevlana Hamamı: Tokat'ın Tarihi ve Kültürel Mirası

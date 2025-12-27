@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.1247482,37.0208321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yelkale: Erdemli'nin Tarihi ve Kültürel Mirası

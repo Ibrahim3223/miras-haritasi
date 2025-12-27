@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.847161,40.909521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kum Baba Türbesi: Tarih ve Kültür Mirası

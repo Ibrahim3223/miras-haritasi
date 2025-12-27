@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.416672,36.610725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kirmitli Höyük: Hatay'ın Gizli Klasik Çağ Mirası

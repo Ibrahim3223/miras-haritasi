@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8627625,41.2610016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurt Dere Tümülüsü: Edirne'nin Gizli Mirası

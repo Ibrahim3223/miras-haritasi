@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.37475,41.10125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaköy Tarihi Camii: Bir Ölümsüz Mirasın Tanıtımı

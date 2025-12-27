@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.81413,40.62047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Talazan Köprüsü: Niksar'ın Tarihi Çamurlu Göbeği

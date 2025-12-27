@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.3800793,37.4721069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırca Höyüğü, Acıpayam

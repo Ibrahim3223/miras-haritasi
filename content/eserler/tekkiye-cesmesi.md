@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.746226,37.315504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekkiye Çeşmesi: Mardin'in Eski Bir Çeşmesinin Tarihi Gülleri

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9814644,39.41996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Servi Camii: Kütahya'da Bir Tarihî Miras

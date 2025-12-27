@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.4458008,38.0779991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşatacak Kalesi

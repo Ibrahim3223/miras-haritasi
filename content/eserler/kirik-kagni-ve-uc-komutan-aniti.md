@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.0643044,38.9296494"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kırık Kağnı Ve Üç Komutan Anıtı

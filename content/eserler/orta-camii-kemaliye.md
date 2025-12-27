@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.4933472,39.2626724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Camii (Kemaliye)

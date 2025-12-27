@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9341495,37.596278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Takina: Bir Arkeolojik Sitin Gizemi ve Özellikleri

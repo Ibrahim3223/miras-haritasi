@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9552962,41.0237073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tahir Ağa Camii Çeşmesi

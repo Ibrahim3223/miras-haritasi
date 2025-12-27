@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.946172,41.019944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadrazam Ahmet Cevat Paşa Türbesi

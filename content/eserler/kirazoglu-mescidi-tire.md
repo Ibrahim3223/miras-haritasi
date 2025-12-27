@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7361221,38.0844193"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kirazoğlu Mescidi: Tarihî Bir Cami'nin Görsel İncisi

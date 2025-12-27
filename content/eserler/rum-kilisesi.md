@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.734145,41.003133"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Rum Kilisesi: Ortahisar'da Bir Tarihî Miras

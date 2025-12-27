@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.2117844,40.4647522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pertev Naili Boratav Kültür Evi

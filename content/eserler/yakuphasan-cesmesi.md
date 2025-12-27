@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.820561671,40.229887586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yakuphasan Çeşmesi

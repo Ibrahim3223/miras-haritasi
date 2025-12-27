@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9120255,41.2672615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turnacı A Tümülüsü: Edirne'nin Gizli Mirası

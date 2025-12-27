@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.6185513,40.6946411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karabali Hamamı: Kocaeli'nin Tarihi Bir Mirası

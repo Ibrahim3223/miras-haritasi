@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "39.719591,41.008633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Trabzon Ticaret ve Sanayi Odası İpekyolu Müzesi

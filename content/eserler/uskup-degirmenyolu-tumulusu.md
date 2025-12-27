@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3865223,41.7205086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsküp Değirmenyolu Tümülüsü: Kırklareli'nin Gizli Mirası

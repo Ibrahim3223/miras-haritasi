@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.2176,37.8802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kana Arkeolojik Sit

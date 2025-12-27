@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9196682,41.0292358"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tümülüs, Marmaraereğlisi: Tekirdağ'ın Gizli Mirası

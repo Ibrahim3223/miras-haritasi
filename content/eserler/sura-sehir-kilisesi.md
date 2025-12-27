@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.9450665,36.2455482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sura Şehir Kilisesi: Demre'nin Gizli Çehresini Keşfedin

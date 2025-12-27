@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4168968,38.6070938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pür Nefes Çeşmesi

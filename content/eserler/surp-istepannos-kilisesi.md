@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.3257942,38.8204384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Surp Istepannos Kilisesi

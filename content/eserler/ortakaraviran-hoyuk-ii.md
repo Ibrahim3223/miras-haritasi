@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.0765038,37.3575172"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortakaraviran Höyük II

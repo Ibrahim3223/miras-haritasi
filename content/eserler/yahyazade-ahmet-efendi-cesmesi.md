@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.944712,41.028061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yahyazade Ahmet Efendi Çeşmesi

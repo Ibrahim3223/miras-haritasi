@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967933,41.0794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kağıthane Mezarlığı Altındaki Çeşme

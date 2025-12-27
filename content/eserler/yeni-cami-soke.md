@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4075165,37.752327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami, Söke

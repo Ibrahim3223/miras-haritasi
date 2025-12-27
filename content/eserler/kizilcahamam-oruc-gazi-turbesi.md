@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.7276,40.3959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılcahamam Oruç Gazi Türbesi

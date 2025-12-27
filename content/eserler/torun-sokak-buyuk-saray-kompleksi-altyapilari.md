@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "28.9781742,41.004097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Torun Sokak Büyük Saray Kompleksi Altyapıları

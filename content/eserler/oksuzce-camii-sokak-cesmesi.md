@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.929175,41.006256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Öksüzce Camii Sokak Çeşmesi

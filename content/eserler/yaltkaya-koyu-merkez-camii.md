@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.895989267,41.07125659"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yaltkaya Köyü Merkez Camii

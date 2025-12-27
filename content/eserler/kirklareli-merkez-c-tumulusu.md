@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2315159,41.7198753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırklareli Merkez C Tümülüsü: Tarihini ve Zenginliğini Keşfedin

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.65396,38.329869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Hamamı Kalıntıları

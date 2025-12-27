@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.256723,39.71516"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tuzla Köprüsü: Yozgat'taki Tarihî Bir Miras

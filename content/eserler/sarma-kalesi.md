@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.5957036,40.9119245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarma Kalesi: Göle'nin Tarihî Kalesi

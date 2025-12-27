@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.1099434,37.1938629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Çakallı

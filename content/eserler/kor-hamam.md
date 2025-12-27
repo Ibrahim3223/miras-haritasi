@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.0509605,38.4452934"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kör Hamam: Sandıklı'nın Tarihi Bir Mirası

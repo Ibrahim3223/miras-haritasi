@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.761194444,41.567638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Petobani Kilisesi: Tarihi ve Kültürel Miras

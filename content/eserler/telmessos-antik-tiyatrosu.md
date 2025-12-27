@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.10576,36.620773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Telmessos Antik Tiyatrosu: Muğla'nın Gizli Günceliği

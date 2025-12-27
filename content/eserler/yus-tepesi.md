@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.08525,41.16255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yuşâ Tepesi: Beykoz'un Tarihî bir Anıtı

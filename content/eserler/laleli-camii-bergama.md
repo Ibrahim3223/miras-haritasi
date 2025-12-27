@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1742954,39.1215363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Laleli Camii, Bergama

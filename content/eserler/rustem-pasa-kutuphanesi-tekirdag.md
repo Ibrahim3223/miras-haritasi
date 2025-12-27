@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.5166569,40.9776344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rüstem Paşa Kütüphanesi, Tekirdağ

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9170628,41.0143471"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenigen Katibi Malkoç Mehmet Efendi Cami Şadırvanı

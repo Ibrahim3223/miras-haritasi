@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.0007095,40.4418068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karşıyaka Kilisesi: Balıkesir'in Gizli Cenneti

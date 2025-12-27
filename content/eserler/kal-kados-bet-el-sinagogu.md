@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "29.0671692,40.9726143"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kal Kadoş Bet El Sinagogu Tanıtımı

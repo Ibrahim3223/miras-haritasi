@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9236431,41.0028343"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kesik Baş Kavaklı Dede Kabri

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.6636031,39.9479169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Numune Asri Hamamı

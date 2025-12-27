@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.6732,36.3439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılkaya Çeşmesi: Kaş'ın Gizli Çeşmesi

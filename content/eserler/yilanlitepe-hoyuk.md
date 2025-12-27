@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7424616,39.8938553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yılanlıtepe Höyük: Yozgat'ın Eski Kültür Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.065273,41.026893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Han Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

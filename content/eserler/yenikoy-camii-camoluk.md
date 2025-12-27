@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.742527,40.185465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yeniköy Camii: Çamoluk'un Gizli Çarpıntısı**

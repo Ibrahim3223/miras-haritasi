@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7517681,41.6890297"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tektepe Tümülüsü: Edirne'nin Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.561981,40.830755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabulduk Eski Camii

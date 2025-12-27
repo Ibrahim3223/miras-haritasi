@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.285047222,41.365675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Svirevani Kilisesi: Dutlu, Şavşat'ta Bir Geçmişin Ölümsüz Kalıntıları

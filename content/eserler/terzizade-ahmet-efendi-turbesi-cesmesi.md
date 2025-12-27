@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4360485,38.611908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terzizade Ahmet Efendi Türbesi Çeşmesi

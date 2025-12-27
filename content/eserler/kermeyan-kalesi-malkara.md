@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.1017151,40.9285011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kermeyan Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.957475,37.215011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Moumoustra Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.765,39.9818"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmud Vehbi Efendi Türbesi

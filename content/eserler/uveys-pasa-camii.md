@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8422146,37.8536377"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üveys Paşa Camii

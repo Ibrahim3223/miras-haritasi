@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.6207294,36.8226089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaunos Demeter Kutsal Alanı

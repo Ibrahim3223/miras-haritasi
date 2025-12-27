@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.614771,38.566466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Muhammed Kattali Türbesi

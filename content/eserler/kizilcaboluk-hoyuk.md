@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.0214996,37.5839996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılcabölük Höyük: Tavas'ta Gizlenen Tarih

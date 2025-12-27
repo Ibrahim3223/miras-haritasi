@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.011972535,41.050781077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yıldız Sarayı Kaskad Köşkü: İstanbul'un Gizli Cenneti

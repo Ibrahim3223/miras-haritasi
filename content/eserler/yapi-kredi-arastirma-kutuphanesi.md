@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.977571026,41.033195816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yapı Kredi Araştırma Kütüphanesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.14737,38.438416"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## TCDD İzmir Müze ve Sanat Galerisi: İzmir'in Tarihini ve Günceliği Bir Arada

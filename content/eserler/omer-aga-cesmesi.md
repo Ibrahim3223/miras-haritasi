@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4338379,38.6120262"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ömer Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

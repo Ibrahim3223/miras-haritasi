@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0226326,39.7451515"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pulur Höyüğü, Sivas

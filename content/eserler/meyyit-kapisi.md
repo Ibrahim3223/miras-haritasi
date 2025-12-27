@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.982369137,41.011642889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Meyyit Kapısı: Fatih'ten Bir Örnek Anıt

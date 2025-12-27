@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.416666666,38.483333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pteleon: İyonya'nın Gizemli Yerleşimi

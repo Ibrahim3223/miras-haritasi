@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0431652,41.5864601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karahalil Sultantepe Tümülüsü

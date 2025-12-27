@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.184944444,41.200666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Samtzkaro Kilisesi

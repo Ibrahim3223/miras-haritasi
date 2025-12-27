@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakarya Kemalettin Sami Paşa Halk Kütüphanesi

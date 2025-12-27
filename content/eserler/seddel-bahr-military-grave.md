@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.18929,40.04619"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seddülbahir Askeri Mezarlığı (Seddel-Bahr Military Grave)

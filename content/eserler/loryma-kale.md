@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.0133495,36.5889587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Loryma Kale: Marmaris'in Gizli Cenneti

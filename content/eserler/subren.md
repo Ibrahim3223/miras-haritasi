@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.50815,39.631433"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sübren Arkeolojik Sit

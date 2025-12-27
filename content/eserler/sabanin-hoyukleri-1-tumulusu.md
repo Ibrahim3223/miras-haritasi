@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2616596,42.0183907"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şabanın Höyükleri 1 Tümülüsü

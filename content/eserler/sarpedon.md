@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarpedon: Lycia'nın Gizemli Arkeolojik Sitleri

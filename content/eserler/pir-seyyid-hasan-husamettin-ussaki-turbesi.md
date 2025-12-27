@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.972513,41.039429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pir Seyyid Hasan Hüsamettin Uşşaki Türbesi

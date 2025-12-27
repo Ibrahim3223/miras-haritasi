@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.9515533,40.5901375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Niksar Müzesi

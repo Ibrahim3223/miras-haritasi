@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4323254,38.6116409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sipahi Pazarı Vakfı Çeşmesi- 2

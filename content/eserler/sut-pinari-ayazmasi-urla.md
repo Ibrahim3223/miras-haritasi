@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7646465,38.3200035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Süt Pınarı Ayazması, Urla**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.1198273,39.3697891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nureddin Salih Kümbeti: Divriği'nin Muhteşem Anıtı

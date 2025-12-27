@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.2687362,37.9232227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Küçükmuhsine: Konya'nın Gizli Çehresi

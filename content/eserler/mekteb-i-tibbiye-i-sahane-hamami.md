@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.021,41.003235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mekteb-i Tıbbiye-i Şahane Hamamı: İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Hamam

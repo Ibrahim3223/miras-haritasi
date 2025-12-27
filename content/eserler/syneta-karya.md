@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.73706,37.907299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Syneta (Karya): Antik Çağın Gizemi

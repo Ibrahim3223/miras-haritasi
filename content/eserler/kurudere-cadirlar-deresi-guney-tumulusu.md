@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5369205,41.7876587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kurudere Çadırlar Deresi Güney Tümülüsü**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.464609,36.299759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Moron Hydor: Bir Arkeolojik Harikası

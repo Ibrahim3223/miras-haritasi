@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.114093,40.617746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tirodiza Arkeolojik Sit: Şarköy'ün Tarihi Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0981593,37.3258268"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmandede Höyük: Kahramanmaraş'taki Gizemli Arkeolojik Sit

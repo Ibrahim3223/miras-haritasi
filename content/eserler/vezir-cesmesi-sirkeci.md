@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9744987,41.0147133"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Vezir Çeşmesi, Sirkeci

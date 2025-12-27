@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7898521,37.3166199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mylasa Antik Tiyatrosu

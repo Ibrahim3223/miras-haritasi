@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.682272,41.1394157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tümülüs, Sarılar: Çorlu'nun Gizli Şecerini**

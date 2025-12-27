@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.271365,36.7329"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mağras Kalesi: Mut, Mersin'deki Tarih Öreni

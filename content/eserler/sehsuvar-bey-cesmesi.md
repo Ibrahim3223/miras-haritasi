@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.983097315,41.012379382"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şehsuvar Bey Çeşmesi**

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.447291,36.825217"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Naras Köprüsü**

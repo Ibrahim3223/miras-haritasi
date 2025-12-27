@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.1589699,39.5583496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tuzla Köprüsü, Ayvacık: Bir Geçit Köprüsüün Tarihi ve Mimari Özellikleri**

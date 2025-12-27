@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.4739342,40.5221672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topçam Höyük: Çorum'un Gizli Harikası

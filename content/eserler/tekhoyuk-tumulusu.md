@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6619148,41.3143044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tekhöyük Tümülüsü

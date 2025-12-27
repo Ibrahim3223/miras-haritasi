@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.559127,41.673639"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurd Baba Türbesi: Edirne'nin Gizemli Anıtı

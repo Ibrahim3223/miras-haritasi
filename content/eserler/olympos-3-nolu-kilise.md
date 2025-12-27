@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.474572057,36.396844645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Olympos 3 No'lu Kilise: Antalya'nın Gizli Çehresini Keşfetmek

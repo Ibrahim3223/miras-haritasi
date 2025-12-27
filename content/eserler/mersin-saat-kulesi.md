@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "34.634194444,36.801083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mersin Saat Kulesi

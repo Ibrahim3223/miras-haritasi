@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5290432,39.4542732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üçpınar Çeşmesi

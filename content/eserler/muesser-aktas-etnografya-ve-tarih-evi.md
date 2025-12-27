@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.5991707,38.5181236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müesser Aktaş Etnografya ve Tarih Evi

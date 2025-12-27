@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.273805555,38.46675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sandıklı Ulu Camii: Afyonkarahisar'ın Tarihi ve Güzel Bir Örneği**

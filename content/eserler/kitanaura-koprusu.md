@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.3638992,36.6469002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kitanaura Köprüsü

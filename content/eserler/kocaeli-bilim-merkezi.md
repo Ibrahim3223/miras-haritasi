@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9085814,40.761755274"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocaeli Bilim Merkezi: Eğitim ve Eğlenme Merkezinde Bilimin Güçleri

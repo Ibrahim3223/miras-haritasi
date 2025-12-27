@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.8124886,40.6434097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Venk Suyu Kilisesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.8480531,40.5667439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Serçehöyük Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.3869534,41.1804123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Merkez Camii (Alaplı)

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.444532998,38.318883866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Savaş Köyü Hamamı

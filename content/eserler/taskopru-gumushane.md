@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.791815,40.602252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşköprü, Gümüşhane: Tarihi ve Kültürel Mirası

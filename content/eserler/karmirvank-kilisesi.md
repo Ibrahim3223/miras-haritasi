@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.6014099,40.5144348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karmirvank Kilisesi: Ani'nin Gizli Çehresi

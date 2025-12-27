@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.0778923,40.9886475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merdivenköy Manastırı

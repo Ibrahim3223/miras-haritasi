@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.426145,37.765777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Otantika Etnografya Müzesi

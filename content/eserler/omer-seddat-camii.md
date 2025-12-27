@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.235504,37.90647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ömer Şeddat Camii: Diyarbakır'ın Eseri

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.2326679,39.9124756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yakup Çelebi Hamamı: Keles'te Bir Osmanlı Dönemi Mirası

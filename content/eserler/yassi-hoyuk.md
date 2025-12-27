@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.264387,40.255146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yassı Höyük: Gölpazarı'nın Gizli Zenginliği

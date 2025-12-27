@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5316391,39.451786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenice Camii Çeşmesi

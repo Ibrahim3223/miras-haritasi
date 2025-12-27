@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.6924629,41.2446404"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprülü Mehmet Paşa Camii Güneş Saati: Safranbolu'nun Gizli Mücevheri

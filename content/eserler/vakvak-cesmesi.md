@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.427454,38.6078339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Vakvak Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

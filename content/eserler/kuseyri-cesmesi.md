@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.730193,37.311173"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuseyri Çeşmesi: Mardin'in Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.8255997,37.8748016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşilyurt Tümülüsü: Sarayköy'de Bir Arkeolojik Harikası

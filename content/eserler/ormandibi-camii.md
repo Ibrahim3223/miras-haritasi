@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.5677,40.7271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ormandibi Camii

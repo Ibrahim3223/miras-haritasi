@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2381897,41.8350563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadıköy Demirkapı Tümülüsü

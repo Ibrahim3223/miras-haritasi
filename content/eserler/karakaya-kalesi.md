@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5507088,37.5699959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karakaya Kalesi: Aydın'ın Fethedilmiş Bir Anıtı

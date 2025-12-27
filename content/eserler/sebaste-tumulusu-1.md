@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.651785458,38.490197176"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sebaste Tümülüsü 1

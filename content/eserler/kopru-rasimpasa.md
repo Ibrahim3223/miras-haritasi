@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.0287914,41.0008469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rasimpaşa Köprüsü: Kadıköy'de Tarihi ve Kültürel Miras

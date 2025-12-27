@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.018851,40.509541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terbos Arkeolojik Sit

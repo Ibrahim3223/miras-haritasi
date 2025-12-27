@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.7278824,41.0077705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarmaşıklı Camii: Trabzon'un Tarihi Bir Mirası

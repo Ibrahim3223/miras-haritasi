@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.0616989,38.3384514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sutansuyu Köprüsü

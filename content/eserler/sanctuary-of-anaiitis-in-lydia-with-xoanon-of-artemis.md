@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.05,38.5"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Liya'daki Anaitis Tapınağı ve Artemis'in Xoanon'u

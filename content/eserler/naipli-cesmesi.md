@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4704647,37.8817329"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Naipli Çeşmesi

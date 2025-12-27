@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.6974277,39.3252411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Portaitissa Kilisesi

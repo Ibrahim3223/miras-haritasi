@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.143724655,38.437950347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neşe ve Karikatür Müzesi: İşte İzmir'in Komik Çehresi!

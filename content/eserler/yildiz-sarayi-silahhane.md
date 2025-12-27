@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "29.0111504,41.0492401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldız Sarayı Silahhane

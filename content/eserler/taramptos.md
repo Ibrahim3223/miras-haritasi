@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.49,37.141111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Taramptos: Muğla'nın Gizli Çırağı

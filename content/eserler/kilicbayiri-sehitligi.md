@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2950745,40.2436142"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kılıçbayırı Şehitliği

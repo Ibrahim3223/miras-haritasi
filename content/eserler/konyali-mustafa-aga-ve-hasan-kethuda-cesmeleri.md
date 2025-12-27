@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.352438,38.2321739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Konyalı Mustafa Ağa ve Hasan Kethüda Çeşmeleri

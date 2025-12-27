@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.7757969,37.3120995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mylasa Zeus Osogos Tapınağı: Milas'taki Antik Bir Miras

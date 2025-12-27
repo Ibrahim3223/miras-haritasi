@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.2247639,40.6341057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaca Arboretumu: Yalova'da Doğanın Müzesi

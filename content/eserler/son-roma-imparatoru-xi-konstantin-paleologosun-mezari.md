@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.957783,41.016311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Son Roma İmparatoru XI. Konstantin Paleologos’un Mezarı

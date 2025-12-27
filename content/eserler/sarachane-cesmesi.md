@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4356079,38.6128731"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraçhane Çeşmesi: Manisa'nın Büyüleyici Çeşmesi

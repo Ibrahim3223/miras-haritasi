@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malatya'nın Tekstil Mirası: Mahmut Çalık ve Ahmet Çalık Tekstil Müzesi

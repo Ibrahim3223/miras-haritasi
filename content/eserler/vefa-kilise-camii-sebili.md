@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9602032,41.0161934"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vefa Kilise Camii Sebili: Fatih'in Tarihi ve Kültürel Mirası

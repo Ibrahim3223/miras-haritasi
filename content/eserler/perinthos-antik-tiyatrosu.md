@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9616,40.966122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Perinthos Antik Tiyatrosu: Marmara Bölgesi'nin Gizli Cenneti

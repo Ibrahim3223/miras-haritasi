@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.493515,37.8750229"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küçük Karatay Medresesi

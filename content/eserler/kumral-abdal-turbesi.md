@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.0463333,39.8865433"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kumral Abdal Türbesi: Bozüyük'te Bir Manevi Miras

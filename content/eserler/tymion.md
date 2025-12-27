@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.4325,38.48694444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tymion: Uşak'ın Eski Yunan Mirası

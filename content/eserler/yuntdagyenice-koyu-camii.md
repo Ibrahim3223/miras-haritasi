@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2507401,38.8633957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yuntdağyenice Köyü Camii: Manisa'nın Tarihi Bir Mirası

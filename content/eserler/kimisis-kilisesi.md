@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "25.9073009,40.2220001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kimisis Kilisesi**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1468086,42.0252037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tayboğa Türbesi

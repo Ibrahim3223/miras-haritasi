@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.8332329,40.6508942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taceddin Altunbaş Medresesi: Amasya'nın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0824947,40.188118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yıldırım Bayezid Türbesi: Bursa'nın Ölümsüz Anıtı

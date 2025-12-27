@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5387,38.7609"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kasım Paşa Türbesi: Afyonkarahisar'ın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.699547,41.247787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü Safranbolu: Karabük'ün Tarihi Taş Köprüsü

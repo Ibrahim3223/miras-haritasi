@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0571918,37.5779648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yaka Mahallesi Kilisesi

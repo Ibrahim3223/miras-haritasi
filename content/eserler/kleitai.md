@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.5,41.6"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kleitai: Bartın'ın Gizli Gölleri

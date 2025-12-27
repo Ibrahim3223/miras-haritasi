@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.46966,38.559828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Anzaf Arkeolojik Sit

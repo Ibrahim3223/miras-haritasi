@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.578676667,40.505980778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tigran Honents Kilisesi: Ermeni Tarihine Örnek Bir Anıt

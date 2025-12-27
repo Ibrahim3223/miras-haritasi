@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9458027,41.0221748"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Çelebi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.9716644,38.1296463"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Afşar

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.345341,38.956581"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Felahiye

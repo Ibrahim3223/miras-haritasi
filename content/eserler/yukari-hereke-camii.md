@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.6437035,40.7998505"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yukarı Hereke Camii: Kocaeli'nin Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.9652157,37.0931168"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pinar Camii: Milas'ta Bir Önemli Cami Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.839444444,38.813055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Özkonak Yeraltı Şehri: Türkiye'nin Gizli Mirası

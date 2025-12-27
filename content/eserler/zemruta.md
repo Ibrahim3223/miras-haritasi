@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.9296946,38.1921715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zemruta: Türkiye'nin Gizli Harabeleri

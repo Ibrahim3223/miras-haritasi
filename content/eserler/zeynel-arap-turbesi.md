@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6769,40.4121"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeynel Arap Türbesi: Gelibolu'nun Gizli Mücevheri

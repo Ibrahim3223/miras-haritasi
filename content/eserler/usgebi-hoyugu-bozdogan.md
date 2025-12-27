@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3664417,37.6527023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üsgebi Höyüğü, Bozdoğan

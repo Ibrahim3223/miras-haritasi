@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.0743854,36.9738189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seksenören Höyüğü: Şanlıurfa'nın Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.978395,41.005028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Muslu Ağa Çeşmesi: Fatih, İstanbul'un Gizli Cenneti**

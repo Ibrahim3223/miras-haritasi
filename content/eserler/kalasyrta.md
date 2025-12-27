@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.026371,40.785278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalasyrta: Antik Çağın Gizemli Kaleleri

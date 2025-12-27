@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.229355,38.9169977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tekeli III Höyüğü

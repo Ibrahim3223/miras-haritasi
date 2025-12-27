@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.309537,39.291972"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meiros Megale: Antik Çağın Gizemi

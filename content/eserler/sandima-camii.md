@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2999916,37.0860825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sandıma Camii

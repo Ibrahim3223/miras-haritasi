@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "34.9091606,38.6316681"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Medreseli Yahya Efendi Camii

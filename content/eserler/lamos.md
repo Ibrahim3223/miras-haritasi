@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.450373,36.240622"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lamos Arkeolojik Sitesi: Antalya'nın Gizli Çarpıntısı

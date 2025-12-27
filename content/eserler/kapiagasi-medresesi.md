@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.8348808,40.6587219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kapıağası Medresesi: Amasya'nın Tarihi ve Kültürel Mirası

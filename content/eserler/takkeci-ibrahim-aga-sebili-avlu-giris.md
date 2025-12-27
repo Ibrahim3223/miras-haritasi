@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.921152505,41.022344336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Takkeci İbrahim Ağa Sebili, Avlu Giriş: İstanbul'un Gizli Çeşmesi

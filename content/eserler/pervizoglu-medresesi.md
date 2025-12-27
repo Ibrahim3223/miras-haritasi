@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "41.2745171,39.9093819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pervizoğlu Medresesi: Erzurum'un Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.930819,36.269278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Trebende Arkeolojik Sit

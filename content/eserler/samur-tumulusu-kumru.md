@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.256181,40.875454"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Samur Tümülüsü Kumru**

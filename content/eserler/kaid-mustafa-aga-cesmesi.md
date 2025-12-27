@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9226,41.000698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaid Mustafa Ağa Çeşmesi

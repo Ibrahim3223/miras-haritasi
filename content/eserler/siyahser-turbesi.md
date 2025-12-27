@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.2185631,37.1723785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Siyahser Türbesi: Karaman'ın Tarihi bir Anıtı

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.6801395,37.8675423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncirliova Medresesi: Aydın'ın Tarihi Bir Mirası

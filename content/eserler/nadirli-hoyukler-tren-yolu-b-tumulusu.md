@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0882645,41.3648834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nadırlı Höyükler Tren Yolu B Tümülüsü

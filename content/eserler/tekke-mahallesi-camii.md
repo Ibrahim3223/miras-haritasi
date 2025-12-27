@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0363007,39.9107361"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekke Mahallesi Camii: Bozüyük'teki Bir Kutsal Anıt

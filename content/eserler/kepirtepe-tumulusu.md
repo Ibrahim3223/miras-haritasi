@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4263496,41.3531914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kepirtepe Tümülüsü

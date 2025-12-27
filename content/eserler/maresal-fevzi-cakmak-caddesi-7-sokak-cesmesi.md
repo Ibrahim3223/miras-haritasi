@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6956615,39.3190193"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mareşal Fevzi Çakmak Caddesi 7. Sokak Çeşmesi

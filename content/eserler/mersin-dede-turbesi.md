@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.4042,40.1473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mersin Dede Türbesi: Çanakkale'nin Gizli Cenneti

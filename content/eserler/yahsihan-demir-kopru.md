@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.447984,39.842922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yahşihan Demir Köprü

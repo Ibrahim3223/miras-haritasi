@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.389611111,40.427925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maskuri Kilisesi

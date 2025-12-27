@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7763149,41.381018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saçayaklı Sultan Türbesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.2095623,40.4657021"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyrancık Camii: Bolu'nun Tarihi Bir Mirası

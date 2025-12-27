@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.3720322,39.0610123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Veli Efendi Camii**

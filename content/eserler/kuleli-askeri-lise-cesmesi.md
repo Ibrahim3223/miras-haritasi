@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.053319,41.058396"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuleli Askeri Lise Çeşmesi

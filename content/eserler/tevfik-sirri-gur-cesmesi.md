@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.0917155,41.430304534"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tevfik Sırrı Gür Çeşmesi: Tarihî Mirasın Gözdesi

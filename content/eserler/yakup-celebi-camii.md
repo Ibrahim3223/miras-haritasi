@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.7230282,40.4257011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yakup Çelebi Camii

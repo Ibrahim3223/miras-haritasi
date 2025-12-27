@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.7192383,40.4235039"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenişehir Kapı

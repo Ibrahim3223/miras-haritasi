@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.0924911,40.3883781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Turhal Kalesi: Tokat'ın Tarihî Mirası

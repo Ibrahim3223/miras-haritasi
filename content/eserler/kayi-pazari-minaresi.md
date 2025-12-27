@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4337959,38.1179047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kayı Pazarı Minaresi: Çal'ın Tarihi Bir Mirası

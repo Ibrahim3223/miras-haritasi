@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "37.7456117,40.4959991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mesudiye Kalesi**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.022665,39.5996094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üçler Dede Türbesi

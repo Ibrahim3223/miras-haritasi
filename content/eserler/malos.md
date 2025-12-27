@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.34095,40.126533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malos: Ankara'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.087813,38.24342"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Akçaköy

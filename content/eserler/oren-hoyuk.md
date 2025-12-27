@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.917244,38.2381744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ören Höyük: Malatya'nın Gizli Mirası

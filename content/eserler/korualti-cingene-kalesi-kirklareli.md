@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.8262577,41.7069511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korualtı Çingene Kalesi: Tarihî Bir Mirasın Gizemi

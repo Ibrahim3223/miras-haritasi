@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.027711,41.053994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Reşat Ağa Çeşmesi

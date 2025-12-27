@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3661919,37.9477806"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakol Yanı Camii: İzmir'in Tarihi ve Kültürel Mirasının BİR Parçası

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.004281,41.041438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sinan Paşa Hamamı**

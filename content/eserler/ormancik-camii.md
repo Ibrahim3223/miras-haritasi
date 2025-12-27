@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.222318445,40.770523245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ormancık Camii: Trabzon'un Gizli Cenneti

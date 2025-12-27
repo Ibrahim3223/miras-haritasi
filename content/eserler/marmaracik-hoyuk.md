@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.429007,40.235282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Marmaracık Höyük: Bursa'nın Gizli Tarihi

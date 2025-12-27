@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.30706,36.286167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keçebey Höyük: Antakya'da Gizli Bir Miras

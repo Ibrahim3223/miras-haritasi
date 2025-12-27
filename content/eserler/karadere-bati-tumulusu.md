@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4196339,41.9326477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadere Batı Tümülüsü: Kırklareli'nin Gizli Mirası

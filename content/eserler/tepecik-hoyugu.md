@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.737568,38.386547"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepecik Höyüğü: Lice'nin Gizli Tarihi

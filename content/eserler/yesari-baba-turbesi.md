@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1585388,42.0252457"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yesari Baba Türbesi: Sinop'un Gizli Çehresini Keşfedin

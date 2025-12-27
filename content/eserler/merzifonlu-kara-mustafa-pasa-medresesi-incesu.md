@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.1802254,38.6231117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Medresesi İncesu

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.5042133,38.933876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaoğlan Mevkii: Afyonkarahisar'ın Eski Çağ Mirası

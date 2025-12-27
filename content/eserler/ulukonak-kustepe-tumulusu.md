@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0039825,41.6439552"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulukonak Kuştepe Tümülüsü: Kırklareli'nin Gizli Hazinesi

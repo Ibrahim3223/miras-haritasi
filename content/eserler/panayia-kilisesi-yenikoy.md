@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.070583333,41.122805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia Kilisesi (Yeniköy)

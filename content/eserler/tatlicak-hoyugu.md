@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.83667,39.58988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatlıcak Höyüğü: Sivas'ta Bir Anıtın Gizemi

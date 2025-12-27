@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.621476,40.602501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veli Dede Türbesi: Çankırı'nın Gizli Cenneti

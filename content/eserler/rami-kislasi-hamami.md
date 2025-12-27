@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9142418,41.0496254"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Rami Kışlası Hamamı

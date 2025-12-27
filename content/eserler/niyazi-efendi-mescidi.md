@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8953629,36.9201698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Niyazi Efendi Mescidi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1655693,36.2036247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zülfikar Camii: Antakya'nın Tarihsel ve Mimari Güzelliği

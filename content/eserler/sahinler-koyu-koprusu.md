@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.95554,39.436068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahinler Köyü Köprüsü

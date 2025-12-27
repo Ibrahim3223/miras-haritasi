@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8630028,39.939045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadife Sokak Çeşmesi

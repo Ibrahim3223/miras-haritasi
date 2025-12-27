@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.992,36.55"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kazım Bulut Camii: Alanya'nın Güzelliğine Örnek Bir Yapı

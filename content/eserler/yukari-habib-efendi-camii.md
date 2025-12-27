@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2836723,39.9060974"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Habib Efendi Camii: Erzurum'un Tarihi Simgesi

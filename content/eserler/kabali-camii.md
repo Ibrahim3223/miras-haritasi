@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0212097,39.7409096"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kabalı Camii: Sivas'ta Bir Önemli Kültürel Miras

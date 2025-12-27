@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9594307,41.0179405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Halife Mehmet Efendi Çeşmesi

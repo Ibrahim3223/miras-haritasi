@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.715749,36.837326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Öksin (Karya) Arkeolojik Sit

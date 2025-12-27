@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.6495113,38.1472473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılçukur Höyüğü: Tarihî Mirasın Gizemli Yerleşkesi

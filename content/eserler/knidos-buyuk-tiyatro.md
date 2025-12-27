@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3793774,36.6886711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Knidos Büyük Tiyatro: Tarihî Mirasın Gizemi

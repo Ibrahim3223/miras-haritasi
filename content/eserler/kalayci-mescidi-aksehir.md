@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.4123306,38.3556519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalaycı Mescidi: Akşehir'in Tarihi ve Kültürel Mirası

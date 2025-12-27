@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0338821,41.0362587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuzguncuk Gazhanesi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.051572,40.199686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merinos Tekstil Sanayi Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.924503,40.994289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kürkçübaşı Hacı Hüseyin Ağa Camii Çeşmesi

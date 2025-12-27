@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.984288075,38.445040171"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şemşir Çeşmesi, Akçadağ**

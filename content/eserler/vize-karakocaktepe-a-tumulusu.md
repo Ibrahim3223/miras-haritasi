@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7801266,41.582901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vize Karakoçaktepe A Tümülüsü

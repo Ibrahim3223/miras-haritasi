@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.3009377,38.4705315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tuğ Kilisesi

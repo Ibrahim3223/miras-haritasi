@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.955267472,41.011586834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Laleli Baba Kabri

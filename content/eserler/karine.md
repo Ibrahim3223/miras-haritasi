@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9229722,39.1602528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karine: Dikili'nin Tarihî ve Kültürel Mirası

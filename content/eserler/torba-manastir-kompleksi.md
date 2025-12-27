@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "27.4643002,37.0812988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Torba Manastır Kompleksi: Bodrum'un Gizli Tarihi

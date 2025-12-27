@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.495077486,38.360600687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Şerif Türbesi: Develi'nin Tarihi Çehresini Taşıyan Bir Anıt

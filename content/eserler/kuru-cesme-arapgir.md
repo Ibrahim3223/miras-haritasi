@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.493951789,39.032404192"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuru Çeşme, Arapgir

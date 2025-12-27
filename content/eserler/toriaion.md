@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.919444,36.951111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Toriaion: Kıbrıs'in Gizli Mirası

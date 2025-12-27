@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9217529,40.9936905"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yedikule Köprüsü: İstanbul'un Tarihî Köprüsü**

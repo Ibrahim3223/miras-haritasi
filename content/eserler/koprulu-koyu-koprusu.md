@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.518,40.985017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprülü Köyü Köprüsü

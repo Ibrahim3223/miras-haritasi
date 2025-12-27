@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.92068,40.766978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Süleyman Paşa Hamamı: Kocaeli'nin Tarihi bir Mirası

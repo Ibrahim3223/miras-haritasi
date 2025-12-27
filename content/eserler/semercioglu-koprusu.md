@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.897619,40.968405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Semercioğlu Köprüsü

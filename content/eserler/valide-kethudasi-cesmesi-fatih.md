@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.966055,41.016106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Valide Kethüdası Çeşmesi

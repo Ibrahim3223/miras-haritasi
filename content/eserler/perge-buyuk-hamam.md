@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.8535156,36.9610596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Perge Büyük Hamamı

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "34.9498367,38.4953156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşkın Paşa Medresesi

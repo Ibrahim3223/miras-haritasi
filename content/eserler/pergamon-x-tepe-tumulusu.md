@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.16963,39.1033"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pergamon X Tepe Tümülüsü: İzmir'in Tarihî Mirası

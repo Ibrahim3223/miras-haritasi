@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2940369,42.0712166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaabalar Ağaçsızhöyük Tümülüsü: Kırklareli'nin Gizemi

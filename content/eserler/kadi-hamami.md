@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "40.2328231,37.911596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Hamamı: Diyarbakır'ın Tarihi Bir Anıtı

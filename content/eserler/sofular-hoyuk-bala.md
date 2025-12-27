@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.1223335,39.2602654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sofular Höyük, Bala: Tarihin Eski Kenti

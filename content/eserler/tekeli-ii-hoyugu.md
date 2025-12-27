@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2298231,38.919238"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekeli II Höyüğü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.968689,41.008835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koca Sinan Paşa Türbesi

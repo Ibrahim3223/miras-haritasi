@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8746433,39.6521416"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yoğurtçu Camii

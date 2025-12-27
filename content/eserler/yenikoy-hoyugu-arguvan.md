@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.2574539,38.8396606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeniköy Höyüğü, Arguvan

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.02333,40.20222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüdavendigar Kompleksi'ndeki Eski Türk Hamamı

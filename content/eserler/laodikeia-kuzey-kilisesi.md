@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1096325,37.8383179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Laodikeia Kuzey Kilisesi: Pamukkale'de Gizlenen Bir Geçmiş

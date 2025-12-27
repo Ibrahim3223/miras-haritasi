@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8200321,37.4194603"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Labraunda Pınar Çeşmesi: Milas'ta Bir Antik Marvel

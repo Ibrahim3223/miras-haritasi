@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6795692,37.9676933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rahmaniye Camii

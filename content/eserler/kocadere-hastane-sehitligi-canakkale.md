@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3187618,40.2255669"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocadere Hastane Şehitliği Çanakkale: Çanakkale Savaşları'nın Gizli Kahramanları

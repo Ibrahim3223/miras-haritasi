@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8611183,39.9337234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tezveren Sultan Türbesi**

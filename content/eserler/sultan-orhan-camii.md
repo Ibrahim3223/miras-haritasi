@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4377804,40.7981377"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Orhan Camii

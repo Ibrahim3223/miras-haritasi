@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.3675632,37.217556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muğla İl Halk Kütüphanesi: Bilgi Kaynağının Merkezi

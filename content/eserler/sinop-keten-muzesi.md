@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.1464777,42.0251107"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sinop Keten Müzesi

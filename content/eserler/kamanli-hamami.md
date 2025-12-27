@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.7772427,38.3218117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kamanlı Hamamı: Tarihî Bir Mirasın Gizemi

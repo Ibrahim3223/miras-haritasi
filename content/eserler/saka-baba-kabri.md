@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9420166,41.0367661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saka Baba Kabri: Fatih'in Gizli Anıtı

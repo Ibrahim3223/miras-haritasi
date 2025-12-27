@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.55449652,40.972622819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seki Köyü Çeşmesi, Ilgaz

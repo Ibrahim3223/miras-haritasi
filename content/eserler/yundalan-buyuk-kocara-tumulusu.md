@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3455124,41.7599983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yündalan Büyük Koçara Tümülüsü

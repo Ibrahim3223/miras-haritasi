@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.7995701,41.1352425"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şuayip Baba Mescidi

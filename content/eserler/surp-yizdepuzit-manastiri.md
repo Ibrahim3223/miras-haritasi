@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "42.3007736,38.4673843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Yizdepuzit Manastırı

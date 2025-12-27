@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8461685,38.9219475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh İsa Cami: Osmanlı Dönemi'nin Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0925,41.104633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinanköy Köprüsü: Ardeşen'in Ölümsüz Köprüsü

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.4349403,41.2903786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Sinan Hamamı**

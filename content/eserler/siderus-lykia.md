@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.502508,36.3656731"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Siderus (Lykia)

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.0678501,36.5538445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Lebissos: Muğla'nın Gizli Arkeolojik Şehri

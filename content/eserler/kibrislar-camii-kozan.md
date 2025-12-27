@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.6938438,37.6560783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kıbrıslar Camii: Kozan'ın Tarihi Bir Şansı

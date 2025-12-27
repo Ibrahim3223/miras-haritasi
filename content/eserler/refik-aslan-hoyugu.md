@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8893089,38.7932663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Refik Aslan Höyüğü

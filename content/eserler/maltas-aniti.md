@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5184288,39.0429802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltaş Anıtı: Afyonkarahisar'ın Gizli Çağı

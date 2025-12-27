@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9764881,41.0044136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sultan Ahmet Külliyesi Sebili 4: Tarihi ve Kültürel Mirasın Işığında

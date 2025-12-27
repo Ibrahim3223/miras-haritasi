@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7378407,41.5907249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uçmakdere Köprüsü: Kırklareli'nin Gizli Çiçeği

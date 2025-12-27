@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.599447,40.552893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Krom Vadisi Kayaaltı Kilisesi: Trabzon'un Gizli Gözdeleri Arasında Bir Çanak

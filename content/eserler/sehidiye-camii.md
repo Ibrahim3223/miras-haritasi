@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.743206,37.3140068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehidiye Camii: Mardin'in Tarihi Mirası

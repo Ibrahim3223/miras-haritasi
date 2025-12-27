@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.2567501,37.8567886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuşadası Özer Arabul Kültür Merkezi ve Kent Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.902334,40.372562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Mahmut Çağırgan Baba Türbesi

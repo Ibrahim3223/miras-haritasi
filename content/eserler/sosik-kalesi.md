@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.177214,39.528027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şoşik Kalesi: Ağrı'nın Tarihî Miraslarından Bir Değer

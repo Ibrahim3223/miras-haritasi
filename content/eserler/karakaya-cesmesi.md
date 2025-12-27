@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2641907,37.0621185"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakaya Çeşmesi

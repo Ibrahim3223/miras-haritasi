@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.974472222,41.032472222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tepebaşı Deneme Sahnesi: Beyoğlu'ndaki Antik Tiyatro

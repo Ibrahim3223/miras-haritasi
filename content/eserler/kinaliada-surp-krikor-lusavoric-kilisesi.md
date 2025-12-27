@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.053027777,40.909305555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kınalıada Surp Krikor Lusavoriç Kilisesi

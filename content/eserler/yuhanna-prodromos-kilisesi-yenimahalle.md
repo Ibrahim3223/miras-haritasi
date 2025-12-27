@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0610144,41.1717504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yuhanna Prodromos Kilisesi (Yenimahalle)

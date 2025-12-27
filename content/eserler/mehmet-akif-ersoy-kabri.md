@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9291744,41.0322876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Akif Ersoy Kabri

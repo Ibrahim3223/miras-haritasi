@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.769069191,41.378830152"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Miralay M. Nedim Çeşmesi, Kastamonu

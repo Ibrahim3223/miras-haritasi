@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1528797,38.4283142"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kahraman Asker Çeşmesi: İzmir'in Tarihi Bir Çeşmesi

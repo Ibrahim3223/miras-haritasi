@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.631974731,41.945403718"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taştepe Tümülüsü: Edirne'nin Gizli Tarihî Harikası

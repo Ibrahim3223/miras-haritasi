@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.279583,39.9060326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Narmanlı Camii Çeşmesi

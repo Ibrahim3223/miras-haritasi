@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7113724,38.6243019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türkiye İstiklal Çeşmesi

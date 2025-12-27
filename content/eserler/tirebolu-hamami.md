@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.815222222,41.006888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tirebolu Hamamı: Giresun'un Tarihi Bir Mirası

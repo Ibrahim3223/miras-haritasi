@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.953582,41.019512"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Serendil Kalfa Çeşmesi: Fatih'in Gizli Çeşmesi

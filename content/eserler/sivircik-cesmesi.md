@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2812996,39.9054108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sıvırcık Çeşmesi

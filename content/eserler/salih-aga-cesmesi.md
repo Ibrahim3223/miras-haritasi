@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.970087,41.042805"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salih Ağa Çeşmesi

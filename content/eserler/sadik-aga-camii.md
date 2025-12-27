@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5238514,41.6213036"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sadık Ağa Camii: Pınarhisar'ın Tarihi Bir Mirası

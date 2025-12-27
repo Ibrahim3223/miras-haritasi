@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9434395,41.0333252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pastırmacı Yokuşu Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0591068,40.176918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Fenari Camii (Bursa)

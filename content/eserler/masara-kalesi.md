@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.3683968,38.6148872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Masara Kalesi Tanıtımı

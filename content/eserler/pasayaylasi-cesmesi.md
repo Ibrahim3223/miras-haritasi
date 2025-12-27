@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8918991,37.9431"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşayaylası Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

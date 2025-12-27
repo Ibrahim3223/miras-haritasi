@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7426357,38.0885201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakadı Mecdettin Türbesi

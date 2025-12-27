@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.491117662,40.813884801"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şimşirli Köyü Aşağı Mahalle Camii**

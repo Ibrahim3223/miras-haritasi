@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1336403,38.4158516"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kahraman Mescidi: Bir Geçmişin Evi

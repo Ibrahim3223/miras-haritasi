@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.125857728,36.761226178"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızkumu Kalesi: Marmaris'in Gizli Çeşmesi

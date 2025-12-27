@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.6654854,41.0388715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mocasura

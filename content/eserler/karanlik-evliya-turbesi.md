@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.772395,41.37449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karanlık Evliya Türbesi

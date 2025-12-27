@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.25363,39.73056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kötür Köprüsü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.100132,40.9034195"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh İdris Türbesi: Piraziz'in Zümrüdü Anıtı

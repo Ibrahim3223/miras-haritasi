@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9246483,38.5159073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Lale Tepe Höyük: Manisa'nın Gizli Tarihî Mirası**

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.4449081,37.5101891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mor Yakob Süryani Kilisesi

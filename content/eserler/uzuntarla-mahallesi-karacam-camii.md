@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.179716199,40.599953245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uzuntarla Mahallesi Karaçam Camii

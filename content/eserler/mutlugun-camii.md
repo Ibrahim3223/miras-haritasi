@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.564614,40.8818294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mutlugün Camii: Artvin'in Tarihi Bir Mirası

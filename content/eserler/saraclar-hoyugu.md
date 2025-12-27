@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9738007,37.6114006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraçlar Höyüğü: Aydın'ın Gizli Anıtı

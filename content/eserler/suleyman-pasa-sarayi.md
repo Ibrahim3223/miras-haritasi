@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "37.285861111,41.131833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Paşa Sarayı

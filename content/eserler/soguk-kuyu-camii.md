@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4212646,37.9084702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğuk Kuyu Camii: Aydın'ın Tarihsel Mirası

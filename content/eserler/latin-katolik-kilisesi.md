@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.1738262,38.3869858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Latin Katolik Kilisesi: Türkiye'nin İncil'ine Kavuşan Değerli Bir Miras**

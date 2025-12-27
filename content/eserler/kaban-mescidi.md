@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2801018,40.823101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaban Mescidi: Bölümlü, Of'un Gizli Çehresi

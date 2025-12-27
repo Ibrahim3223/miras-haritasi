@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.3927994,41.0059013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yarımca Camii

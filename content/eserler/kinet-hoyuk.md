@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.157,36.85366"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kinet Höyük

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.0592842,38.1736526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keler Roma Hamamı ve Kaplıcaları: Tarihin Gizli Harikası

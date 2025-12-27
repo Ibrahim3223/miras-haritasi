@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.812573,39.893236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sebahattin Yıldız Müzesi: Ankara'nın Kültür Mirası

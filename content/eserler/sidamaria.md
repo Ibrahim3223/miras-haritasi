@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.63103,37.48053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sidamaria Arkeolojik Sitesi

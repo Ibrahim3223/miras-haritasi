@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.972185,41.016125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rukiye Kadın Çeşmesi

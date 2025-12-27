@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.825768,41.037881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaya Mezarı 2 (Güvercinlik Köyü) Havza: Samsun'un Gizli Hazinesi

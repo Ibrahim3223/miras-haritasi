@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.725571962,38.877737724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuyulukışla Camii: Tarih ve Kültür Mirasının Gizli Çehresi

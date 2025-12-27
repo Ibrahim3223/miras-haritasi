@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.1104412,41.2310791"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kabakçı Çeşmesi: İstanbul'un Gizli Cenneti

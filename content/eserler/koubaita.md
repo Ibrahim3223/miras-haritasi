@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.948216,40.791113"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koubaita Arkeolojik Sit

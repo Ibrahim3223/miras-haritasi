@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.934469,41.037949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadrazam Semiz Ali Paşa Çeşmesi

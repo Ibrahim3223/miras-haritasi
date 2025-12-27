@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.8400478,39.4887199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selçuklu Hamamı

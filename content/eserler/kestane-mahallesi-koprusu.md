@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.06558,40.917619"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kestane Mahallesi Köprüsü

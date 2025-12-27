@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.862854,38.9032974"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pulur / Sakyol Höyük

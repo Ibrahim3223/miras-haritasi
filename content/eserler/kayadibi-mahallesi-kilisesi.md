@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.147001,40.564665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kayadibi Mahallesi Kilisesi**

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.498188,38.7157288"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kalemkırdı Camii

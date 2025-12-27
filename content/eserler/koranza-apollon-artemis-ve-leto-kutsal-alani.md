@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.0319252,37.3837852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koranza Apollon Artemis ve Leto Kutsal Alanı

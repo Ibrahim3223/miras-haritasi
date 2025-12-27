@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.2485619,37.8635063"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuşadalı İbrahim Halveti Mezarı

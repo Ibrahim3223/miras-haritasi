@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5464764,38.1053314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Ahmet Camii: Isparta'nın Tarihî Bir Mirası

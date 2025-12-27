@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2940998,40.2328529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yarbay Hüseyin Avni Bey Şehitliği

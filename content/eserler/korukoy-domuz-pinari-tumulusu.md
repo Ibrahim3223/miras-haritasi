@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3124046,41.8659897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koruköy Domuz Pınarı Tümülüsü

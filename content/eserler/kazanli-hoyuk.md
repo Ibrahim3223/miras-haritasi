@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7383194,36.8352203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazanlı Höyük: Akdeniz'in Gizli Tarihi

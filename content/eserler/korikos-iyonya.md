@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.585833333,38.146388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Korikos, İyonya: Bir Antik Kentin Mirası

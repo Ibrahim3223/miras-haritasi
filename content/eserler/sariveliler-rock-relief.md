@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıveliler Rock Relief: Mersin'in Gizli Bir Çağı

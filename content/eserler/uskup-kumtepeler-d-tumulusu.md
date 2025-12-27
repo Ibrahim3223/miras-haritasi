@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3793488,41.7627449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üsküp Kumtepeler D Tümülüsü

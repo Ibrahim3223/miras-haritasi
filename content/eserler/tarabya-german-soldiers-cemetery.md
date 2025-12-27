@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.06076,41.13551"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tarabya Alman askerlerinin Mezarlığı**

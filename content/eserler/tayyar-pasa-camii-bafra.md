@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.9028168,41.5681419"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tayyar Paşa Camii, Bafra

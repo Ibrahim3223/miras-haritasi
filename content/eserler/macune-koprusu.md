@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7877102,38.930584"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Macune Köprüsü: Akhisar'ın Tarihi Bir Mirası

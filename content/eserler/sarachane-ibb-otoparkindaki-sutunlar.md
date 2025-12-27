@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9557438,41.0129852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraçhane İBB Otoparkındaki Sütunlar: İstanbul'un Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3192062,37.0650101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Mustafa Oğlu Mustafa Çeşmesi

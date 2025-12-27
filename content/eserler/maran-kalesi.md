@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.8095894,37.8347054"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Maran Kalesi

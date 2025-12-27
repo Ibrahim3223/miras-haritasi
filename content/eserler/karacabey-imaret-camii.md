@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3643398,40.2240143"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karacabey İmaret Camii: Bursa'nın Tarihi Bir Anıtı

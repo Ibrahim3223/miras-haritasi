@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4086212,38.9025134"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kar Höyüğü

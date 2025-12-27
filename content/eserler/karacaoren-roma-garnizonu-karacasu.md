@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.6499004,37.8454018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karacaören Roma Garnizonu: Aydın'ın Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9390888,40.822661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şebekdüzü Köprüsü

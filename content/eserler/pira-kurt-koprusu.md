@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.2399139,38.2218323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pıra Kurt Köprüsü: Tarihi ve Kültürel Özellikleri

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.793138,41.056023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Arsay Klasik Otomobil Müzesi

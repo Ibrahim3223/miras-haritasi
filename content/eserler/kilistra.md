@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.21053,37.66472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kilistra: Türkiye'nin Eski Dünya Mirası

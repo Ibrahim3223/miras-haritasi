@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.517443,37.677216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sagalassos St. Michael Kilisesi: Ağlasun'un Görsel ve Tarihi Bir Mirası

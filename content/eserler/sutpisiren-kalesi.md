@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.8843002,38.5198898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sütpişiren Kalesi: Afşin'in Tarihî Mirası

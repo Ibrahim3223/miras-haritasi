@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.6928795,36.7810675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pasanda: Muğla'nın Gizli Öncesi

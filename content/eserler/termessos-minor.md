@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.56268,36.82629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Termessos Minor: Muğla'nın Gizli Harikası

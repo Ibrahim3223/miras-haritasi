@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.862694444,39.971555555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meteoroloji Müzesi: Keçiören, Ankara'da Bir Ünlü Müze

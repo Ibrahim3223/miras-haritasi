@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9553661,41.0281258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Aya Kapısı: İstanbul'un Tarihi ve Kültürel Mirası

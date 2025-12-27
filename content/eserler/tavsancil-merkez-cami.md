@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.5748138,40.7723465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tavşancıl Merkez Cami: Kocaeli'nin Tarihi Bir Mirası

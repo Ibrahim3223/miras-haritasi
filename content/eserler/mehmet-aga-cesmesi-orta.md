@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.941597965,40.586644781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Ağa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7800465,37.3165932"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazar Camii, Bir Özenli Mimarinin Eseri

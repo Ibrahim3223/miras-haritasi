@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.112367,36.714295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Mehmed Amadin Türbesi

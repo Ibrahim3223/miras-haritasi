@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.352133,39.40337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Lütfiye

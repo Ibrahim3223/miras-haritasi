@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.588806,40.273913"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Perkote Arkeolojik Sit

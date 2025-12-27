@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.2556,40.469524"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kizoura: Türkiye'nin Gizli Harabeleri

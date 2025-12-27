@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.93423,41.048396"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mihrişah Valide Sultan Türbesi

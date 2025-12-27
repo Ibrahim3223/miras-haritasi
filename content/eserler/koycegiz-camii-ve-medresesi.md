@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.7091656,36.9298782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köyceğiz Camii ve Medresesi

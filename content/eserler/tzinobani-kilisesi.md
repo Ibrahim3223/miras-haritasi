@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.496963888,41.322463888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tzinobani Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası**

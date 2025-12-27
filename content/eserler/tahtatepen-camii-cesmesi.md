@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4993439,37.8645325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahtatepen Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.6881027,38.8602295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuşça Kalesi: Cihanbeyli'nin Kültürel Mirası

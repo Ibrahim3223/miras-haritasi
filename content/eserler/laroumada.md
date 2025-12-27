@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.663867,37.061961"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Laroumada Arkeolojik Sit**

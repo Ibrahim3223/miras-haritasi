@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3234653,41.9056473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kapaklı Soğuksu Tümülüsü

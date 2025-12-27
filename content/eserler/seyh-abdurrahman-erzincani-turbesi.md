@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.2488747,37.8061829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Abdurrahman Erzincani Türbesi

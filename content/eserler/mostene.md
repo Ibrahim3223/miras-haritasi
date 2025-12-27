@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5437397,38.510416"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mostene: Antik İyonya'nın Gizli Kahramanı

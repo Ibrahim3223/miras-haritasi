@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2123337,37.1830902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaman Şah Camii

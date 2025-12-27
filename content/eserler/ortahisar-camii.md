@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.719639,41.00466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortahisar Camii: Trabzon'un Tarihi Bir Mirası

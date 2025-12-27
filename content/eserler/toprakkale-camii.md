@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.8158951,39.8499107"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Toprakkale Camii

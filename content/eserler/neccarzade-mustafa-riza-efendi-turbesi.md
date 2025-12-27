@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0063095,41.0426369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neccarzade Mustafa Rıza Efendi Türbesi

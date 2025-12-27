@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.750059,37.308909"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milias Antik Tiyatrosu: Bir Zemin ve Tiyatroyla Gerçekleştirilen Tarihî Bir Miras

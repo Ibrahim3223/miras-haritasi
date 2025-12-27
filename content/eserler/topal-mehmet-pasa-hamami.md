@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.423923,40.283374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topal Mehmet Paşa Hamamı: Şebinkarahisar'ın Tarihî Bir Mirası

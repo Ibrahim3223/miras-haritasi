@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.502079,40.721716"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Limnae: Altınova'daki Gizemli Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.4588966,40.4600983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Özcan Mahallesi Çeşmesi

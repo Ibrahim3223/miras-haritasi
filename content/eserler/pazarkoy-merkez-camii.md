@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.577978146,41.001608126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pazarköy Merkez Camii

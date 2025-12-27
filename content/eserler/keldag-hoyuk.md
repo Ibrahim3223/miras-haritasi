@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.60055,38.507417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keldağ Höyük: Tarihçi ve Kültür Mirası

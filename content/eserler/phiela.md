@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.067372,41.091332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phiela: Bir Arkeolojik Sitin Gizemi

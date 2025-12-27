@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.55888889,36.87416667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tilbaşar Kalesi: Gaziantep'in Tarihî Mirası**

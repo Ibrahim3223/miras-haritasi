@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.144016,38.332722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Stektorion: Türkiye'nin Gizli Çarpıntısı

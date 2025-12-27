@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.83198,38.745271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kyllene (Eolis)

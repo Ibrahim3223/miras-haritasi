@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6942711,39.4420395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ümmühan Hatun Medresesi ve Türbesi

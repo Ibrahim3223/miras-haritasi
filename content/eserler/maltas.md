@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.51833344,39.04305649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltaş Arkeolojik Sit

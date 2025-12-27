@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5111465,37.8749084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Toraman Camii Çeşmesi: Karatay, Konya'daki Bir Zenginlik

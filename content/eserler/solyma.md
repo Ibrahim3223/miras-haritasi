@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.454074,36.524766"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Solyma

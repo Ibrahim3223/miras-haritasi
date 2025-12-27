@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.799799,40.651867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümüşhane'nin Dumanlı Köyü'nde Bulunan Santa (Dumanlı Köyü) Çeşme 1

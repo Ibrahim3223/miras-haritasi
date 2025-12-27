@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.400013,36.306778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terzi Höyük: Hatay'ın Gizli Arkeolojik Mirası

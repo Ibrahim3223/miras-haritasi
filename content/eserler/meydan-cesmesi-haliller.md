@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2889366,38.1848755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meydan Çeşmesi, Haliller

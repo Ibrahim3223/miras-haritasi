@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.7224731,40.4312935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Konak Çeşmesi: İznik'in Büyüleyici Çeşmesi

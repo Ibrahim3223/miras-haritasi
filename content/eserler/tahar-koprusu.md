@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.9132631,39.0472025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tahar Köprüsü

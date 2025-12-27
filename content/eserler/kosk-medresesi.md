@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.5105,38.7167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köşk Medresesi: Kayseri'nin Tarihi Bir Mirası

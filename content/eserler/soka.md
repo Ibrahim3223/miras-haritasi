@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.870564,40.878091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Soka Arkeolojik Sit

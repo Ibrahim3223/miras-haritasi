@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.214062,41.5182061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Zımbıllı Tepesi Höyüğü: Kastamonu'nun Gizli Kalmış Hazineleri

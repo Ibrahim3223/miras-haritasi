@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.53352,40.54272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yağlıdere Köyü Krom Vadisi Köprüsü: Tarihi ve Mimari Özellikleri

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.91486,38.71042"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Maiboza: Eski Türklerin Gizli Şehirleri Arasındaki Bir Harika

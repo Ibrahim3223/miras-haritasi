@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.3185081,36.2655525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Patara Kent Kapısı: Antik Kentin Gizemli Girişi

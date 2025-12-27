@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967827,41.011055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapalıçarşı Halıcılar Sokak Çeşmesi

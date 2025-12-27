@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9687843,41.0179977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rüstem Paşa Camii Şadırvanı

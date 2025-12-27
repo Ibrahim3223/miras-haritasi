@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.253603,41.0701141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selymbria Kenti Nekropolü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.444924891,38.822568259"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Musa Ağa Camii

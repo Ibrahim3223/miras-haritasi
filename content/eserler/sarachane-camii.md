@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9272041,37.583416"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraçhane Camii: Kahramanmaraş'taki Bir Tarihi Çağı Yakalamak

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.9265404,37.5851517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahruh Mehmet Bey Türbesi

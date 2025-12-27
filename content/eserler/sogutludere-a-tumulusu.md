@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.798624,41.6455498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söğütlüdere A Tümülüsü

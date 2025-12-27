@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9639664,41.0045891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia Elpida Kilisesi Çeşmesi

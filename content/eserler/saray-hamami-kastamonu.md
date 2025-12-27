@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.7780952,41.3753967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saray Hamamı, Kastamonu

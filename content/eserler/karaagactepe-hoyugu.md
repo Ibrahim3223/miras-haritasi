@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.192917,40.058233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karaağaçtepe Höyüğü: Çanakkale'nin Gizli Mirası

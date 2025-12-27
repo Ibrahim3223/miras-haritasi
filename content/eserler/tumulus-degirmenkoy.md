@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0034809,41.1113319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tümülüs, Değirmenköy: Silivri'nin Gizli Hazineleri

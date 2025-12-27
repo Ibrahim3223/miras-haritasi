@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9361134,41.0534172"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Ahmed Türbesi: Eyüpsultan'ın Gizli Azizleri

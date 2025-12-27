@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.316139372,40.136399559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yolağzı Höyük: Karacabey'in Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.422062,36.54052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karasu Köprüsü: Hatay'ın Tarihi ve Kültürel Mirası

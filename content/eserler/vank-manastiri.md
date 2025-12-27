@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "32.8507538,39.9653244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vank Manastırı: Keçiören'in Tarihi Bir Mirası

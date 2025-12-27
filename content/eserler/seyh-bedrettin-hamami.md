@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.487544677,39.582936583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Bedrettin Hamamı

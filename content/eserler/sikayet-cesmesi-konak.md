@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.149437,38.4179649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şikayet Çeşmesi: İzmir'in Gizli Çeşmesi

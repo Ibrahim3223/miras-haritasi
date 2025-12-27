@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.3407745,38.4977608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaya Çelebi Camii: İpek Yolu'nun Gizli Çehresi

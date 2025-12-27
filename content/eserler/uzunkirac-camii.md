@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4235992,41.4756012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uzunkıraç Camii

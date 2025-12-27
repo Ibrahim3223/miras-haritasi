@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9356308,41.8151512"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivriler 2 Tümülüsü: Demirköy'de Gizli Tarih

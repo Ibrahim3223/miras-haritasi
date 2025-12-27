@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.7866436,39.3164236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keçiçayırı Höyüğü: Eskişehir'in Gizli Kahramanı

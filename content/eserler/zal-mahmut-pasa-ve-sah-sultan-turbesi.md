@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9361483,41.0447927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zal Mahmut Paşa ve Şah Sultan Türbesi

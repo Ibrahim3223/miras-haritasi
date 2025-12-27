@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3010006,38.2136002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yazıbaşı Höyüğü, Torbalı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8687019,39.9355965"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sabuni Camii

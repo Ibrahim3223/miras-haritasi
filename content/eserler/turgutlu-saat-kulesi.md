@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "27.70577,38.49774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Turgutlu Saat Kulesi: Manisa'nın Tarihi ve Kültürel Mirası

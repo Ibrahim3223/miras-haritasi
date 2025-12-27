@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.9395714,39.6412277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşbulak Kalesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6467037,40.8094673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzzetiye Köprüsü

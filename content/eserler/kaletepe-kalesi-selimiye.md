@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.1003094,36.6881065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaletepe Kalesi, Selimiye: Marmaris'in Eski Günlerine Yolculuk

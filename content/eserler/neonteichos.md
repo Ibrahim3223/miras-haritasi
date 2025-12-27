@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.824531,41.017925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Neonteichos: Kıbrıs'ta Bir Antik Kent

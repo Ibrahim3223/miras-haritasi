@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.843901,39.799469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Midaion Köprüsü: Eskişehir'in Tarihi Görseli

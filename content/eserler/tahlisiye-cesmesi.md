@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0407867,41.2516289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tahlisiye Çeşmesi: Sarıyer'in Tarihi Bir Mirası

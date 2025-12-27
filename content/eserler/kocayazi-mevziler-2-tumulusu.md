@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.186264,41.9983139"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocayazı Mevziler 2 Tümülüsü: Kırklareli'nin Gizli Anıtı

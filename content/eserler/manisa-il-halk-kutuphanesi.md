@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.4319057,38.6160164"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Manisa İl Halk Kütüphanesi

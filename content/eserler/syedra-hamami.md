@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.1482773,36.4456177"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Syedra Hamamı: Alanya'nın Tarihi ve Kültürel Mirası

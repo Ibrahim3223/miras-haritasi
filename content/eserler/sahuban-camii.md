@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.9164429,38.7078438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahuban Camii: Gölmarmara'nın İhtişamlı Camii

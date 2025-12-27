@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "40.3860512,39.7776375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mama Hatun Hamamı: Tarihî Bir Mirasın Gizemi

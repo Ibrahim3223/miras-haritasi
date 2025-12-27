@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.4036198,40.7544899"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakar Baba Türbesi

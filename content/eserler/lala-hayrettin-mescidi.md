@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9781672,41.0097218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lala Hayrettin Mescidi

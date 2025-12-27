@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.1332036,39.7826609"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, İnceağa

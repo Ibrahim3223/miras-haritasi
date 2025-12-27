@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1693192,36.2038612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Orhaniye Camii

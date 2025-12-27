@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.965247,41.017911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kara Mustafa Paşa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9437122,41.5560722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocahöyük Tümülüsü, Yolageldi: Edirne'nin Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7162361,38.1313782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veysel Karani Camii

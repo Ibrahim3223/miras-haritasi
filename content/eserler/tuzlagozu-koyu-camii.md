@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.6756248,39.7144928"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tuzlagözü Köyü Camii: Sivas'ın Kültürel Mirası

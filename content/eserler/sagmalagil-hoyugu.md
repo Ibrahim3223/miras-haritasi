@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2413968,38.8330972"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sağmalağıl Höyüğü: Kırşehir'in Gizli Cenneti

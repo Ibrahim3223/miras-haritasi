@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0133324,41.0451698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müvezzi Caddesi Çeşmesi

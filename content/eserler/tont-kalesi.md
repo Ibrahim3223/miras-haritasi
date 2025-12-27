@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.1659698,37.4672127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tont Kalesi: Tarihî Bir Mirasın Güncel Yüzü

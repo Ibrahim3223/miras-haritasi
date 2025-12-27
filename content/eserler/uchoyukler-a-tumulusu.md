@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9305706,41.8553123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üçhöyükler A Tümülüsü

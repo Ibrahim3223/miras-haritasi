@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9145603,40.1721535"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karcıkaya Camii

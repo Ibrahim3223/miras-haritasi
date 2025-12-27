@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "32.0312309,41.5737877"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tios Bizans Kilisesi

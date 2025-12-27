@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.202725,37.349625"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koliorga: Türkiye'nin Gizli Zirvesi

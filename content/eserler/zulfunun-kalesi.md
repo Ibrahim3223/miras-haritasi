@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.95399838,39.861854081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zülfünün Kalesi: Tarihi ve Kültürel Mirasımız

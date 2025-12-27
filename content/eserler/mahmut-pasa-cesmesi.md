@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.971226,41.011592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

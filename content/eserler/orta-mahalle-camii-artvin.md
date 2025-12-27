@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.826528,41.181497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Mahalle Camii, Artvin

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.228037,37.824122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Orthosia (Karya)

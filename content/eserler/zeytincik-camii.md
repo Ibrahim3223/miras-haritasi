@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7589747,40.9669217"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeytincik Camii: Artvin'in Tarihî Bir Öğüdü

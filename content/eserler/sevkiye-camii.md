@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.9768143,40.3551483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şevkiye Camii

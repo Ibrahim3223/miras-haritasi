@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.4899673,37.8701515"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nasuh Bey Mescidi: Konya'nın Gizli Cenneti

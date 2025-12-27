@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.288766,41.023346"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kılavuzlu Mahallesi Tümülüsü, Asarcık

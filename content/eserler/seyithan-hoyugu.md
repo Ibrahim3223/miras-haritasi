@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8289536,37.6113971"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyithan Höyüğü: Çumra'nın Gizli Öyküsü

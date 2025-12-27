@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.3999615,38.0808449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Savranzade Camii: Denizli'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "44.1727753,39.971981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karakoyunlu Koçbaşlı Açık Hava Müzesi

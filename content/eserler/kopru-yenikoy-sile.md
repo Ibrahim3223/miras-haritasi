@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.6492882,41.1226082"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprü, Yeniköy-Şile

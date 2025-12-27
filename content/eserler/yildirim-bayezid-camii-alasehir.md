@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.5177402,38.3496742"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yıldırım Bayezid Camii (Alaşehir)

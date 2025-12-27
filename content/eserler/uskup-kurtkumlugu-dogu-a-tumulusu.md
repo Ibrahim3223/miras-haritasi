@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4281387,41.7835083"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsküp Kurtkumluğu Doğu A Tümülüsü Tanıtımı

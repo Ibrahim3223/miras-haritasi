@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.1626472,39.1435738"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Melik Gazi Kümbeti: Kırşehir'de Bir Zenginlik

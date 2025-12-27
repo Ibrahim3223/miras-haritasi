@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.029046,39.474144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Porselen Müzesi

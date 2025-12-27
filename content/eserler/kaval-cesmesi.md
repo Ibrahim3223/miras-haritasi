@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4208336,38.6075554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaval Çeşmesi

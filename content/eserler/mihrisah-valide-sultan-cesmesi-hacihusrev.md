@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.976412,41.043453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mihrişah Valide Sultan Çeşmesi, Hacıhüsrev: İstanbul'un Beyoğlu'nda Gizli Bir Çeşme

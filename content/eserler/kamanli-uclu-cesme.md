@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7769737,38.3214722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kamanlı Üçlü Çeşme

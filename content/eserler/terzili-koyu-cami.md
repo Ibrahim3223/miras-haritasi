@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0375099,41.5282097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Terzili Köyü Cami: Kırklareli'nin Gizli Öncüleri

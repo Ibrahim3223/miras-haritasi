@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.9513359,40.5903969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ünye Hamamı: Niksar'da Tarihi Bir Miras

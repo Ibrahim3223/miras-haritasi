@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.777270911,41.972646663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kazım Karabekir Caddesi Sokak Çeşmesi, İnebolu

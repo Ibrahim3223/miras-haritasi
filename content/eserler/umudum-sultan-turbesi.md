@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.24629,40.027849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Umudum Sultan Türbesi

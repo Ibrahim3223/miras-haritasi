@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "26.9208755,39.6159058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılkeçili Köy Konağı: Edremit'in Gizli Canlısı

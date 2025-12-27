@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.5583954,38.945591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uç Çeşmesi

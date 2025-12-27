@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.951172,41.022872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Medrese, Zeyrek: İstanbul'un Gizli Çehresini Keşfetmek

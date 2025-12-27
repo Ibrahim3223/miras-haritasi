@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.481772578,37.547802649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Öküz Mehmet Paşa Çeşmesi: Ulukışla'nın Tarihi Bir Çeşmesi

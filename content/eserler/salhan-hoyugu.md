@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.4323748,36.6503953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salhan Höyüğü

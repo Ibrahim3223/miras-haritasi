@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.7482529,41.573444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oğul Paşa Köprüsü

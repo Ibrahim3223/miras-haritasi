@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0343701,41.1484338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seslikaya Köprüsü

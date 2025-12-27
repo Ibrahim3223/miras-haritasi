@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.947727,36.983947"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şatırlı Camii: Antalya'nın Tarihî Bir Örneği

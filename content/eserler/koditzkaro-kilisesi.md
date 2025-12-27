@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.580108333,41.085136111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koditzkaro Kilisesi: Ardahan'ın Gizli Öreni

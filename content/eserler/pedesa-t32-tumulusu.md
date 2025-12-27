@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.425287038,37.05983932"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pedesa T32 Tümülüsü

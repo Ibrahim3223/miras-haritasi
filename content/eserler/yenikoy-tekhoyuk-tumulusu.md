@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7312431,41.3219604"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeniköy Tekhöyük Tümülüsü

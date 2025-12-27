@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.381815,37.066942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Medusa Cam Eserler Müzesi

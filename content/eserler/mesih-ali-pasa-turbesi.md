@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9434052,41.0220566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mesih Ali Paşa Türbesi: İstanbul'un Şair ve Zengin Mirası

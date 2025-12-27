@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9785385,41.0102348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeynep Sultan Sebili: İstanbul'un Gizli Çeşmeleri

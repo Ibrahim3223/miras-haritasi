@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8454819,37.8514519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karanlık Köprü: Aydın'ın Efsanevi Köprüsü

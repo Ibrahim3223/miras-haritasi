@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.7988148,41.0070572"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Zoğrafion Köyü Kilisesi

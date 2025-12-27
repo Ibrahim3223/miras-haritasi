@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.052447344,40.974553979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selamiçeşme Camii: Kadıköy'ün Tarihi Bir Mirası

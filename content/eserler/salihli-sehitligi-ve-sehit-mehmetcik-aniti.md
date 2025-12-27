@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.1279488,38.4832802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salihli Şehitliği ve Şehit Mehmetçik Anıtı

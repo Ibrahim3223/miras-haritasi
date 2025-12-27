@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2280273,40.257103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zahit Efendi Camii: Bayburt'un Tarihi ve Kültürel Mirası

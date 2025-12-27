@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.5612,40.7771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurusaha Camii: Rize'nin Tarihi Bir Mirası

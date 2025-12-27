@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.826,40.9226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeita Arkeolojik Sit

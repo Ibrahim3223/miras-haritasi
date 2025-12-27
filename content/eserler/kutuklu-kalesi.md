@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.0589409,37.0266266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kütüklü Kalesi: Tarsus'un Tarihî ve Kültürel Mirası

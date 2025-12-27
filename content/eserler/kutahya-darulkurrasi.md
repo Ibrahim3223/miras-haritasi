@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.979929,39.4198914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kütahya Darülkurrası: Geçmişten Geleceğe Uzanan Bir Medrese

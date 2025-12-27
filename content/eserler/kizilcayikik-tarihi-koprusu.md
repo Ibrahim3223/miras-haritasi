@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8007431,37.3648872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılcayıkık Tarihi Köprüsü

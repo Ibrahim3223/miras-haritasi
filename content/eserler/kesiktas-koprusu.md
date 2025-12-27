@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.6503103,41.4544298"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kesiktaş Köprüsü - Borçka'nın Tarihî Mirası

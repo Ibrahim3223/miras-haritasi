@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.5624084,38.9423065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üçler Çeşmesi: Hacıbektaş'taki Bir Önemli Kültürel Miras

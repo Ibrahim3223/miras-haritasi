@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9186687,41.5758705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köseömer Yediyalak Tümülüsü

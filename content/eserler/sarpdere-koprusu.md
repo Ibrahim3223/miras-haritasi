@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.741915,40.856226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarpdere Köprüsü

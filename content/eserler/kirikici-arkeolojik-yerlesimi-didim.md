@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3348999,37.4609985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırıkiçi Arkeolojik Yerleşimi: Didim'in Gizli Tarihi

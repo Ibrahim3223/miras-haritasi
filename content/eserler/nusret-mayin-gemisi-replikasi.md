@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.3987179,40.1488724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nusret Mayın Gemisi Replikası: Çanakkale'nin Aslına Özenle Yeniden Yaşamı

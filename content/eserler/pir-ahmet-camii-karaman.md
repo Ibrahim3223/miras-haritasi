@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2073631,37.1808662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pir Ahmet Camii Karaman: Karaman'ın Tarihi Bir Örneği

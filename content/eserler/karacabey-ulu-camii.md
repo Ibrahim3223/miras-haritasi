@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.359305555,40.219166666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Karacabey Ulu Camii: Bursa'nın Tarihi ve Kültürel Mirası**

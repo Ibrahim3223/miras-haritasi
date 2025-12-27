@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.109996,37.926519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Leimon Arkeolojik Sit

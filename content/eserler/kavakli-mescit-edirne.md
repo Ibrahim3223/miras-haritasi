@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.556419723,41.668318401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavaklı Mescit: Edirne'nin Zengin Cami Mirası

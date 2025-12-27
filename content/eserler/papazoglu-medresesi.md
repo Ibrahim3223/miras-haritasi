@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.960323,41.00886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Papazoğlu Medresesi

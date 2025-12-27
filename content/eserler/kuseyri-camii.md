@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.730186,37.311119"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kuseyri Camii

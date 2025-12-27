@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.145959,38.197854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oroanna: Seferihisar'ın Gizemli Arkeolojik Sitesi

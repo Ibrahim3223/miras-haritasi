@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.7362061,38.2500687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tercil Kalesi

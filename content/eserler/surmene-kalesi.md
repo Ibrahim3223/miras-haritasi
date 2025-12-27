@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.1260033,40.9033737"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sürmene Kalesi

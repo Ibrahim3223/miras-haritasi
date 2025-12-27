@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.4473972,38.6609344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepeboz Camii: İzmir'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.947834,41.007562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Refia Hanım Çeşmesi

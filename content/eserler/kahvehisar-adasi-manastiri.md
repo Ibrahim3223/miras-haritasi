@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "27.4850883,37.4789391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kahvehisar Adası Manastırı: Milas'ın Gizli Çiçeği

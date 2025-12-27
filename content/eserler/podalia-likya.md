@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0364,36.6741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Likya'da Podalia: Bir Arkeolojik Sitin Gizemi

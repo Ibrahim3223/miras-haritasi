@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.189064,40.042942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seddülbahir Eski Cami

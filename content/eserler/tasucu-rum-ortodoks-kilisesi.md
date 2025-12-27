@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "33.8820686,36.3197746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşucu Rum Ortodoks Kilisesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.96629,41.044285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Piyale Paşa Türbesi

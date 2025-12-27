@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9869041,41.0327873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pürtelaş Hasan Efendi Camii

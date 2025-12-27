@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.753273,38.765879"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Panasion: Uşak'ın Eski Kenti

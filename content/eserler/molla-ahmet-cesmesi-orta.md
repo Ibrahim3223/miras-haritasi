@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.989506397,40.602883279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Ahmet Çeşmesi: Orta'nın Tarihi Bir Mirası

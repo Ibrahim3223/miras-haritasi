@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.159174,37.6933403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazak Abdal Türbesi

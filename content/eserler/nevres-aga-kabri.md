@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9579067,41.0191956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nevres Ağa Kabri: Fatih'in Gizli Anıtı

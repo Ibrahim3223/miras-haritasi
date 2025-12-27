@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.835,38.623333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Klaneos Arkeolojik Sitesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.77788,37.72035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Muhittin Camii: Beyşehir'in Gizli Çehresi

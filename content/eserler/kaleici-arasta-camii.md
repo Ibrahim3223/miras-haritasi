@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0849915,37.7858276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleiçi Arasta Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.1578493,36.7849233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meydankapı Höyüğü: Harran'ın Tarihî Mirası

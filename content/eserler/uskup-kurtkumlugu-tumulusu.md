@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4289951,41.7854767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsküp Kurtkumluğu Tümülüsü

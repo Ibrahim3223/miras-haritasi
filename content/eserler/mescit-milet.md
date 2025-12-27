@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2781601,37.5277061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mescit, Milet: Didim'in Tarihi Bir Mirası

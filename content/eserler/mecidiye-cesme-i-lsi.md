@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.061451,40.1836243"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mecidiye Çeşme-i Âlîsi: Bursa'nın Tarihi bir Çeşmesi

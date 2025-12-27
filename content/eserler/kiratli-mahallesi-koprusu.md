@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.835697,40.835606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kıratlı Mahallesi Köprüsü

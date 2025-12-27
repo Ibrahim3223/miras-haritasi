@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.1041698,37.8354912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Laodikeia Batı Hamamı

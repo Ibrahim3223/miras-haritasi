@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.9417191,40.6426392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Servetiye Taş Köprü

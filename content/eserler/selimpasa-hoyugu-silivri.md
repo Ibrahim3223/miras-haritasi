@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3416348,41.0592995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selimpaşa Höyüğü: Silivri'nin Tarihî Mirası

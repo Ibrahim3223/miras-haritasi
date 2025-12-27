@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9717579,41.0160866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami Darülkurra ve Darülhadisi

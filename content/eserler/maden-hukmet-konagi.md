@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "39.666027777,38.393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Maden Hükûmet Konağı

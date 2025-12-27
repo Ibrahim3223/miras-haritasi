@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5263405,38.7556686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakatip Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi

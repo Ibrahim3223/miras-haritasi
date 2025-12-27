@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3465004,37.0477982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Müsgebi Mezarlık Çeşmesi

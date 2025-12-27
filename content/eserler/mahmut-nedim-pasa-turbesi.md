@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.973871,41.010021"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmut Nedim Paşa Türbesi

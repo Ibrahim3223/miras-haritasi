@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8668289,39.9314537"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıkadı Camii

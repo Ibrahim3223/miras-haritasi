@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.551712,41.3262253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçükkarıştıran Kartalbayırı Tümülüsü

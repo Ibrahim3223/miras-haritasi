@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7506886,38.0829048"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rum Mehmet Paşa Türbesi: Tarihi ve Kültürel Miras

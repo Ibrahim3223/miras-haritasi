@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.074724295,41.078706891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salih Dede Kabri ve Haziresi

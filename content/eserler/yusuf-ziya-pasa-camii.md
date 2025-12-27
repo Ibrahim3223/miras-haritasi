@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7380447,38.793911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yusuf Ziya Paşa Camii

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.0502052,36.975399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Murtaza Baba Türbesi: Tarsus'un Şövalye Kalesi

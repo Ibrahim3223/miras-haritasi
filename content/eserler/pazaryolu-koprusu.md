@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.34922,40.839112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazaryolu Köprüsü

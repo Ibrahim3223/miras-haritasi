@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.2764893,37.5309639"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Milet Bizans Kalesi

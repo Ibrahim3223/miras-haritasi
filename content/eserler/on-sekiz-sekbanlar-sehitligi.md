@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.956005,41.012941"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## On Sekiz Sekbanlar Şehitliği: Fatih'te Bir Anıtın Tarihi Öyküsü

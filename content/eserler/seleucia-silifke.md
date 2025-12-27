@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.9165,36.3765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Seleucia (Silifke): Tarihî Bir Miras**

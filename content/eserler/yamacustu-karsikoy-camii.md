@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.3940709,40.60272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yamaçüstü Karşıköy Camii

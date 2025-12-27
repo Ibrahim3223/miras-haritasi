@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.693272,41.240282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tipaso: Afrika'nın En Eski Roma Kentlerinden Biri

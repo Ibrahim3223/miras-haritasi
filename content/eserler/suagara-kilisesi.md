@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.005777777,41.167388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Suagara Kilisesi**

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9523139,41.0154455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeyhülislam Mustafa Efendi Çeşmesi

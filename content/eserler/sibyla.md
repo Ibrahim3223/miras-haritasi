@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.4662,36.713385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sibyla: Antik Çağın Gizemi

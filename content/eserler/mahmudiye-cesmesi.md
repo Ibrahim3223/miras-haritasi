@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.956686,41.0128517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmudiye Çeşmesi: Fatih'te Bir Altın Çağ Çeşmesi

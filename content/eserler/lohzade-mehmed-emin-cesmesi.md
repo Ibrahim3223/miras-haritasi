@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5188084,39.763279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lohzade Mehmed Emin Çeşmesi

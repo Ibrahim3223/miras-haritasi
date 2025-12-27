@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3018417,37.7045822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yukarı Çeşme, Pınarlı: Aydın'ın Gizli Çeşmesi

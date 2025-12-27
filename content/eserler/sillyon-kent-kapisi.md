@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.984905868,36.988950295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sillyon Kent Kapısı

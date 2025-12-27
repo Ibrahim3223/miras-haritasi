@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4949265,37.8626099"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Külahçı Camii Çeşmesi

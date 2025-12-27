@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.4898224,37.1864319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sefertepe: Viranşehir'in Gizli Kahramanı

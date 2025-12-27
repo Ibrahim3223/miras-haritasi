@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.719923,39.631093"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Toraman Höyük: Eskişehir'in Gizemi

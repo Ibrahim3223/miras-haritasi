@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.208011,38.22593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Koloe (Lidya)

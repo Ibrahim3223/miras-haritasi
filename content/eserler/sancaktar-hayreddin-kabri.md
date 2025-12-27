@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9345188,41.0027466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sancaktar Hayreddin Kabri: İstanbul'un Gizli Anıtı

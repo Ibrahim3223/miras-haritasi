@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.4202557,38.6086807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaköy Hamamı

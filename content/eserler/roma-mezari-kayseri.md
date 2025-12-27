@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4866447,38.7239151"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Mezarı, Kayseri

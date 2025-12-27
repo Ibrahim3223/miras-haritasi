@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.853874683,37.310909641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uzunköy Kalesi: Mardin'in Gizli Çehresini Keşfetmek

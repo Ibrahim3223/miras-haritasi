@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7347164,38.086937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Hüsamettin Camii: Tire'nin Tarihi Bir Mirası

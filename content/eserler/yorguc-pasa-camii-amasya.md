@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8203278,40.6505127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yörgüç Paşa Camii: Amasya'nın Tarihi Bir Ögesi

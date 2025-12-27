@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## The Poet's Breath (Monument in Turkey)

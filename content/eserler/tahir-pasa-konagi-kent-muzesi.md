@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.881815,40.376334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahir Paşa Konağı Kent Müzesi

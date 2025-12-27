@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9805013,41.0262481"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kaptan Kılıç Ali Paşa Hamamı**

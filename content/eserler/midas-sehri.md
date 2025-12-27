@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.7131958,39.199482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Midas Şehri

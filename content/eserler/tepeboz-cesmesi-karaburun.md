@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.4472008,38.6609993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepeboz Çeşmesi: Karaburun'un Tarihi Bir Çeşmesi

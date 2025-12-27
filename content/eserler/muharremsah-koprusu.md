@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4768372,38.6446342"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Muharremşah Köprüsü: Uşak'ta Bir Tarihi Köprü

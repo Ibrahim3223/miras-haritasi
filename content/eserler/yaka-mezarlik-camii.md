@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4960651,36.6994629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yaka Mezarlık Camii

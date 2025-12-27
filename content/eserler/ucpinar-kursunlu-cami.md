@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.2616,37.13299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Üçpınar Kurşunlu Cami: Konya'nın Gizli Cenneti

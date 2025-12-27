@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.5992284,40.7329607"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılay Hamamı: Bolu'da Bir Ölümsüz

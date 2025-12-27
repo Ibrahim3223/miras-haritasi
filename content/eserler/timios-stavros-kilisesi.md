@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.456332,40.451289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Timios Stavros Kilisesi: Gümüşhane'nin Gizli Cenneti

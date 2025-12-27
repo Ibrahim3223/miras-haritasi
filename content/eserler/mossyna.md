@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.298552,38.095586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mossyna: Denizli'nin Gizli İhtişamı

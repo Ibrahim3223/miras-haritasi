@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8236008,41.5541496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Okçular Köyiçi Tümülüsü

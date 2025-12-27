@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5541058,37.7624626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Peygamber Camii, Isparta: Isparta'nın Tarihi ve Kültürel Mirası

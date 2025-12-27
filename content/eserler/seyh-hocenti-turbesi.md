@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.596960954,37.496798729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Hocenti Türbesi: Çumra'da Bir Ziyaretçi Cenneti

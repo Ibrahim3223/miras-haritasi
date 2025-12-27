@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.719916666,39.209166666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kutluhan Camii: Tarih ve Mirasın Birleştiği Yer

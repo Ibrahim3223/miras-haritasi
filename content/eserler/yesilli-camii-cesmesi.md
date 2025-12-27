@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8818474,39.6473923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşilli Camii Çeşmesi: Balıkesir'in Zengin Mirasının Parçası

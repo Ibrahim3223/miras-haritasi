@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.018484,41.021175"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şehzade Seyfettin Çeşmesi: Üsküdar'da Bir Mimar Sinan Eseri**

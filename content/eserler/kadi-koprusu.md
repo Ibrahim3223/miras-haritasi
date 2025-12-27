@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.3647366,40.7356262"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Köprüsü

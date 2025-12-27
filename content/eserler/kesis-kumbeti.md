@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.4683342,38.7491684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keşiş Kümbeti: Ahlat'ın Gizli Anıtı

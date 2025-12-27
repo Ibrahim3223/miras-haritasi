@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.8282528,40.5195503"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taş Köprü, Armutlu

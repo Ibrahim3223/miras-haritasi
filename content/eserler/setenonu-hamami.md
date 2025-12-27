@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.484745,38.7160301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Setenönü Hamamı

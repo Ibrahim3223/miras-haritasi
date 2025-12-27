@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6859341,41.2691498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muradiye Camii (Uzunköprü)

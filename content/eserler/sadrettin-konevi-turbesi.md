@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.278869,39.910681"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadrettin Konevi Türbesi

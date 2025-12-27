@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.588202,40.420536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekkeköy Camii: Tarihi ve Kültürel Mirası

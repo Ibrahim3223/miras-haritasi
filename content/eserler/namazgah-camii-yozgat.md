@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8000641,39.8149872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Namazgah Camii, Yozgat

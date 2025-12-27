@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4197807,37.9283638"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sille Ak Camii: Konya'nın Bir Ören Yeri

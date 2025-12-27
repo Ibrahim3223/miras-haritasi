@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.4680176,38.0706062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karabey Hamamı: Uluborlu'nun Tarihi Harikası

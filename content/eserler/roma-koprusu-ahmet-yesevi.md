@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.487427,39.80806"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Ahmet Yesevi

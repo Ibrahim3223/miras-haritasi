@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.6189785,36.8256035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaunos Quintus Vedius Capito ve Glykinna Anıtları

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.549839,36.809808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Oinoanda Antik Tiyatrosu: Muğla'nın Görsel Şövalyesi

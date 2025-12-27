@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.2824974,39.9096832"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahta Hamamı: Erzurum'un Tarihi bir Hamamı

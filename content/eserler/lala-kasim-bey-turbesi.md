@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2308235,37.9095306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lala Kasım Bey Türbesi: Diyarbakır'ın Tarihi Mirası

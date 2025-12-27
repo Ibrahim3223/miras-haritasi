@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.926567,41.013386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Örümceksiz Dede Çeşmesi

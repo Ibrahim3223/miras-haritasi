@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.2489715,40.04443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mnizos Arkeolojik Sit

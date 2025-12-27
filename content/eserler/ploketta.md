@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.77988,40.422294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ploketta Tarihi Eseri

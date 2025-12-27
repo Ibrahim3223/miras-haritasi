@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6471996,38.5439987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Necip Camii, Kula

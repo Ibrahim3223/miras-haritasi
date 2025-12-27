@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.189074,41.958253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Thymena Arkeolojik Sit

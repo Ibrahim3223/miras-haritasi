@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.883,36.413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Rhosos: Arsuz'un Gizemli Arkeolojik Sit**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "42.9850006,39.1269913"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Pirömer Köyü Höyüğü

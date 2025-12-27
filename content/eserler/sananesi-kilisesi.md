@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.744888888,40.428777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sananesi Kilisesi: Oltu'nun Tarihi Çiçeği**

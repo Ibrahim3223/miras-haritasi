@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.909666666,37.581027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kahramanmaraş Abdülhamid Han Camii

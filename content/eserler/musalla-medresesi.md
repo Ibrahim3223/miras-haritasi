@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9572105,41.0067902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Musalla Medresesi: İstanbul'un Gizli Çandırı

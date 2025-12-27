@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.960989,40.758911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilezdere Köprüsü

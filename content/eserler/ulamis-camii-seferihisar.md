@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8414993,38.2467003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulamış Camii: Seferihisar'ın Tarihi Bir Mirası

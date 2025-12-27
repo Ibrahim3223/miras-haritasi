@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9685383,41.0030594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehsuvar Bey Kabri

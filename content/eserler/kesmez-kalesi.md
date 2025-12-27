@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.7425308,37.7247925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kesmez Kalesi: Konya'nın Gizli Mücevheri

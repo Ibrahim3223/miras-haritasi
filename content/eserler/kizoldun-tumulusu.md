@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3049107,40.2727165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızöldün Tümülüsü: Biga'nın Gizli Mirası

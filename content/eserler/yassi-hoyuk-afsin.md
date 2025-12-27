@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.9127292,38.3915654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yassı Höyük, Afşin: Kahramanmaraş'ın Gizli Cenneti

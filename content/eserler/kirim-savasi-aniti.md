@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0183563,41.0013046"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırım Savaşı Anıtı

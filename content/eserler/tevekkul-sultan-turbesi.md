@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9248772,36.3786354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tevekkül Sultan Türbesi

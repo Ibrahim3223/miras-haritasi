@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.454683,40.452065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mısırlıoğlu Türbesi

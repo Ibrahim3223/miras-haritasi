@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.902767,39.85335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmaniye Höyük: Eskişehir'in Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.878155,40.792641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tandırlı Köprüsü: Trabzon'un Tarihî ve Kültürel Mirası

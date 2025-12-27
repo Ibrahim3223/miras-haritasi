@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8571587,39.9427452"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tülüce Camii Çeşmesi

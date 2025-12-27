@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.1312256,39.5878372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakarya Şehitleri Ve Zafer Anıtı Müzesi, Polatlı

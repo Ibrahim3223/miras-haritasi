@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.819088,37.418293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Labraunda Tetraconch Hamam

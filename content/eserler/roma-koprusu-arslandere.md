@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.247787,41.247787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Arslandere

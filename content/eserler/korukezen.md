@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.7225258,37.2881468"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Korukezen Arkeolojik Sit

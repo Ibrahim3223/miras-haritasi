@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.078367,38.511883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köyaltı Arkeolojik Sit

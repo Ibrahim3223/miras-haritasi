@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8190994,38.137001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kireli Maltepe Tümülüsü

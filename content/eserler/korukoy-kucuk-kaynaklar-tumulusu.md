@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3302708,41.872509"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koruköy Küçük Kaynaklar Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.789195816,41.831194671"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sırahöyükler H Tümülüsü

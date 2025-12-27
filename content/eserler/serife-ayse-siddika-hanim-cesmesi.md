@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.961157,41.014214"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerife Ayşe Sıddıka Hanım Çeşmesi: Fatih'in Gizli Çeşmesi

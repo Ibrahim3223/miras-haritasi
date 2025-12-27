@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4993286,37.8643761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahtatepen Camii: Konya'nın Gizli Çandırı

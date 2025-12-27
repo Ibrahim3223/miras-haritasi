@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.865383212,41.162048429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sulak Köyü Camii: Tarihi ve Kültürel Mirası

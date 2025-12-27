@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9622726,41.0131073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaptan İbrahim Paşa Hamamı

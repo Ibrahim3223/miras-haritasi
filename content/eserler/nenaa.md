@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.712222,38.625"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nenašša: Bir Arkeolojik Sitin Gizemi

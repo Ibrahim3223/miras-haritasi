@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4956589,37.8844872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Sücaeddin Türbesi: Konya'nın Tarihî Bir Anıtı

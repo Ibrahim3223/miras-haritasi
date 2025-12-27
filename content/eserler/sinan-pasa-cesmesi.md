@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.987164,41.009871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Paşa Çeşmesi: Fatih'in Gizli Çeşmesi

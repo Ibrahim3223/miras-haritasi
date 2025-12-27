@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.9791924,41.0345095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ses Tiyatrosu

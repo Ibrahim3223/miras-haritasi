@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "26.63102,41.36209"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzunköprü Sınır Kapısı: Tarihi ve Kültürel Mirası

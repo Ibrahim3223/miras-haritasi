@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.9420967,40.6423721"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yuvacık Taş Köprü

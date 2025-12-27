@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8789825,41.0828857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahpaz Köyü Cami

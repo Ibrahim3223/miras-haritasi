@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.7284813,40.9981422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Manastır Çeşmesi

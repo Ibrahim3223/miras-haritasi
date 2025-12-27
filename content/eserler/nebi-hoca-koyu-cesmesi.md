@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.0190334,40.8818054"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nebi Hoca Köyü Çeşmesi

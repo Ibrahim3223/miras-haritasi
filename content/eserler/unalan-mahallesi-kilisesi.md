@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.131281,40.565244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ünalan Mahallesi Kilisesi: Gümüşhane'nin Gizli Cenneti

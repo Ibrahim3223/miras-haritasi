@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8903732,36.6414948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yedi Oluklu Çeşme'nin Öyküsü

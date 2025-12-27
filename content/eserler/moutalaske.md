@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.401742,38.706905"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Moutalaske: Antik Bir Arkeolojik Sit

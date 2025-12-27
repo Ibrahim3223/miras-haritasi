@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.741461,38.153004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Larisa (Lidya)

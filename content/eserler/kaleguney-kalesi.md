@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.1761513,40.9920578"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalegüney Kalesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7896214,41.8340874"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sırahöyükler F Tümülüsü: Edirne'nin Gizli Mirası

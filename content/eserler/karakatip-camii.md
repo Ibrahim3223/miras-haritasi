@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5262718,38.7557068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karakatip Camii

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.973252,41.023232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami: Beyoğlu'nun Semaya Katan Bir Şaheser

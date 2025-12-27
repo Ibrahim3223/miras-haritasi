@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2579994,37.8563538"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarı Sokak Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.7367439,38.0836754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tire Ulu Cami Medresesi

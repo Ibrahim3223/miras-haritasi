@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "40.9609947,37.5475349"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mor Yuhanon Dilimiyo Süryani Kilisesi

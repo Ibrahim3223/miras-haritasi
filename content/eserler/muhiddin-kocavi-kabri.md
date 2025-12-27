@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9577942,41.0240784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muhiddin Kocavi Kabri: İstanbul'un Gizli Anıtı

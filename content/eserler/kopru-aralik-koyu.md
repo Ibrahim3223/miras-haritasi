@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.1160088,41.0503273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aralık Köyü Köprüsü: Giresun'un Tarihi Mirası

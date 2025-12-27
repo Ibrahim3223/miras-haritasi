@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2832883,38.9595954"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sığıryatağı Höyük: Kırşehir'in Gizli Anıtı**

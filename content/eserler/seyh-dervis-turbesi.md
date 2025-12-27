@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.3340149,36.9598732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Derviş Türbesi: Yüreğir'in Tarihî Mirası

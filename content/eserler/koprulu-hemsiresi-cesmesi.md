@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.037479,41.061308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprülü Hemşiresi Çeşmesi: Tarihin Sütunlarından Bekleyen Bir Çeşme

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.673701999,39.196476"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sandaina: Manisa'nın Gizli Ören Yeri

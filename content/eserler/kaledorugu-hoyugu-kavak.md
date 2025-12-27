@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.041798,41.080219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaledoruğu Höyüğü: Samsun'un Gizli Anıtı

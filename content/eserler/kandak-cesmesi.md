@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6560001,37.4337997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kandak Çeşmesi

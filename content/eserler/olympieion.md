@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.340393002,37.946618835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Olympieion: İzmir'in Antik Bir Mirası

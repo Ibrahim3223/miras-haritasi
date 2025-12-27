@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "28.2679825,40.3994865"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurşunlu Manastırı: Bursa'nın Tarihi Bir Mirası

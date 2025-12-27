@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.4810257,38.7190208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kölük Hamamı: Kayseri'nin Tarihi Bir Hamamı

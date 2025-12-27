@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.6169392,38.7415023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sadrazam Silahtar Kara Vezir Hamamı: Tarihi ve Kültürel Miras

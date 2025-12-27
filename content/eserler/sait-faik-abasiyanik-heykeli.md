@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0697479,40.8812523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sait Faik Abasıyanık Heykeli

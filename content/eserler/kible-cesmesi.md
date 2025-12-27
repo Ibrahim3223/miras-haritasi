@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.964401,41.019175"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kıble Çeşmesi: Demirtaş'taki Bir Geçmişe Dönen Çeşme

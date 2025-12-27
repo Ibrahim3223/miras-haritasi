@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.0448034,39.3999374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zığra Höyük: Kütahya'nın Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.968946,41.005348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadırga Hamamı

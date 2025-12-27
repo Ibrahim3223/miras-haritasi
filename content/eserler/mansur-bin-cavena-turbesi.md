@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.2777672,37.7612877"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mansur Bin Cavena Türbesi

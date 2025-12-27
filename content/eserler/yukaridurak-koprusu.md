@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.100803,41.0886429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yukarıdurak Köprüsü

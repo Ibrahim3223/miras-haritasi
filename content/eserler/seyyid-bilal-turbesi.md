@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1621399,42.0254364"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyyid Bilal Türbesi

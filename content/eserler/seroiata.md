@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.543997,36.2431455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seroiata Arkeolojik Sit

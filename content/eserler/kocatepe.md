@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.90065,41.735167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocatepe: Edirne'nin Gizli Mirası

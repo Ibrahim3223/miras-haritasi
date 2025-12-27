@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2453766,41.0736122"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Piri Mehmet Paşa Camii Şadırvanı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.1191805,41.5715265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ziporea Arkeolojik Sit**

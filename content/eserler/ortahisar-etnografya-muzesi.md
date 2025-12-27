@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.8649,38.6212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ortahisar Etnoğrafya Müzesi

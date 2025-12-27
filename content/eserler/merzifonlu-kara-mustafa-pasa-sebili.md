@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.968214,41.0086827"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merzifonlu Kara Mustafa Paşa Sebili

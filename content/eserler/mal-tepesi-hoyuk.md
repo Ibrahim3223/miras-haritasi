@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.6443244,39.9672123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mal Tepesi Höyük

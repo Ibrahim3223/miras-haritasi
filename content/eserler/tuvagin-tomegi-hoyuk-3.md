@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.9090456,38.3937814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tuvağın Tömeği Höyük 3: Aksaray'ın Keşfedilmemiş Bir Öreni

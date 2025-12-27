@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.927854,41.04849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehmet Paşa Çeşmesi, Düğmeciler

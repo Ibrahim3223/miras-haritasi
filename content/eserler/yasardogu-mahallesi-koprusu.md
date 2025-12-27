@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.035291,41.067114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yaşardoğu Mahallesi Köprüsü

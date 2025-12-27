@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4378719,38.6092072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarabat Camii

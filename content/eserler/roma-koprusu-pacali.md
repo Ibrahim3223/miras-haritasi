@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.468887,38.807213"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Pacalı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.916214,38.2800522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lala Mustafa Paşa Camii

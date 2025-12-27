@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.0201721,39.7495003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şemseddin Sivâsî Türbesi

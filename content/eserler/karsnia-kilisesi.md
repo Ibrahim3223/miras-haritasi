@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.227527777,41.17875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karsnia Kilisesi: Kapıköy'ün Gizli Cenneti

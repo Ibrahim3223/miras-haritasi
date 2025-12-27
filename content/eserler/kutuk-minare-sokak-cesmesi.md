@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7717285,38.3218956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kütük Minare Sokak Çeşmesi: Urla'nın Ölümsüz Mirası

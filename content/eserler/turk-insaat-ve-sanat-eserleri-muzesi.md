@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.952138704,41.015293166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk İnşaat ve Sanat Eserleri Müzesi

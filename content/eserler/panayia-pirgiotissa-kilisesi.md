@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0866871,36.5754967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Panayia Pirgiotissa Kilisesi: Muğla'nın Tarihî Bir Çağına Tanıklık Eden İhtişamlı Yapı

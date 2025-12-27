@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.3381386,37.9556694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mastaura Amfitiyatro

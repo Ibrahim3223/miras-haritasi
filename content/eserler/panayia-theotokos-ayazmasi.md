@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9800873,41.0422325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panayia Theotokos Ayazması: Beyoğlu'ndaki Bir Tarihî Çeşme

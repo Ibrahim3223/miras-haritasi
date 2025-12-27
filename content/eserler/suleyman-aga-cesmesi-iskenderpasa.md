@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9509735,41.0161209"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Ağa Çeşmesi, İskenderpaşa

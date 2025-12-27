@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.7975903,40.6989212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraylı Köyü Camisi: Kocaeli'nin Gizli Çağından Kalan Bir Öncü

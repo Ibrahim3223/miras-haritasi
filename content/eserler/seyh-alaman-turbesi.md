@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5137367,37.8748741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Alaman Türbesi

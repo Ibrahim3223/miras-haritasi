@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.446910311,40.918370761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşçılar Mahallesi Camii

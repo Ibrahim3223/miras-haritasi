@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2272949,40.2621651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadızade Camii, Bayburt

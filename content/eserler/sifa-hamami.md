@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.0497906,37.5133772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şifa Hamamı: Ereğli'nin Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.699888888,41.117972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mevlüt Efendi Camii: Ardahan'ın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9487152,41.0102386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Murat Paşa Camii Güneş Saati

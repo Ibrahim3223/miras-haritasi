@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.942583,41.005757"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yokuş Çeşme: Aksaray'ın Tarihi Bir Özelliliği

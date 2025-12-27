@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.036335,38.380146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Terlemez Baba Türbesi**

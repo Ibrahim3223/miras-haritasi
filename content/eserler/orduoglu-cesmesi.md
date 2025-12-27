@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.898258,41.006306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orduoğlu Çeşmesi

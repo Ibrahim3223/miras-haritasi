@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.432806,40.3499451"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karainebeyli Köyü Camii

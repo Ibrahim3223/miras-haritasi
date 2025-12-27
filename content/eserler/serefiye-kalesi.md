@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.6707649,38.9431458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerefiye Kalesi: Kayseri'nin Gizli Zirvesi

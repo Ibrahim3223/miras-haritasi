@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5918655,40.6252975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Marmara Adası Kalesi

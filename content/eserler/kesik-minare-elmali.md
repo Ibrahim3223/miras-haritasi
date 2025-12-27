@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9133453,36.7431412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kesik Minare, Elmalı

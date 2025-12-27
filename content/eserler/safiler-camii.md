@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2783966,39.9075241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şafiler Camii Tanıtımı

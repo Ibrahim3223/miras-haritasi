@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3411179,41.8249779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yörükbayırı Kiliselik Kuzey Tümülüsü

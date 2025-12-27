@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.1781158,37.6319313"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tarihi Rum Okulu, Doğanbey

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.5132465,36.7055626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sındı Köprüsü: Datça'nın Tarihi ve Kıymetli Köprüsü

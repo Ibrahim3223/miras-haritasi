@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0909004,38.2462997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tepecik Tümülüsü'nden Ödemiş'e Yolculuk

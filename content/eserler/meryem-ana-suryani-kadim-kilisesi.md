@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "40.23059,37.908979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Meryem Ana Süryani Kadim Kilisesi**

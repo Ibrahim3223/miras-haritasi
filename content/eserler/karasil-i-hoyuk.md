@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.581017,40.22312"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karasıl I Höyük: Bursa'nın Gizli Kahramanı

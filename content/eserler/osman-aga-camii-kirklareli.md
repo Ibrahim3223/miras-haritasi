@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2267647,41.7367935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Osman Ağa Camii, Kırklareli

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "38.993627,40.506359"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Manastır Kilisesi: Kürtün'un Gizli Cenneti

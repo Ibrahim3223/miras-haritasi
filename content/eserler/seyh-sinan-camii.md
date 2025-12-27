@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.5185375,38.345047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Sinan Camii: Alaşehir'in Tarihi Bir Mirası

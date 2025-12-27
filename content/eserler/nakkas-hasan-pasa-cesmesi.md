@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.935205,41.045044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nakkaş Hasan Paşa Çeşmesi

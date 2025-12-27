@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.7716599,37.0182076"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 Sarıhacılar Köyü Camii

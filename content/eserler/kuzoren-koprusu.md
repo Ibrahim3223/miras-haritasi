@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.3595829,37.2478485"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuzören Köprüsü: Tarih ve Mimari Bir Çanaktır

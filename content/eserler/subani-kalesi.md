@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.711527777,41.443111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şubani Kalesi: Borçka'nın Gizli Harikası

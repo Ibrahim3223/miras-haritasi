@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.06813889,37.314296428"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Stratonikeia Roma Hamamı 2: Muğla'nın Tarihi Bir Mirası

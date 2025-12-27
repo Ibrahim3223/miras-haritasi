@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.6151161,40.6032028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mecbur Efendi Mescidi, Çankırı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.33815,41.6318817"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şadırvan Camii: Bartın'ın Tarihi Bir Mirası

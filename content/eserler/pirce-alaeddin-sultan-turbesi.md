@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.238766,36.500631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pirce Alaeddin Sultan Türbesi

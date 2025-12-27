@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.980259,41.006187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nakşidil Valide Sultan Çeşmesi

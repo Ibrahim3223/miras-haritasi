@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "29.093140906,41.130707529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalı Kütüphanesi: Beykoz'un Gizli Çehresinde Bir Büyülü Kütüphane

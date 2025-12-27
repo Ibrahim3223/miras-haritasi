@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.956118,41.009672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Laleli Sebili: İstanbul'un Gizli Çeşmesi

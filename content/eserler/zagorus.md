@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.4111,41.677747"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zagorus: Tarihî Bir İhtişamın Kalıntıları

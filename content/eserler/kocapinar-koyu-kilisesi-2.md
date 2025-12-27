@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.606968,40.475763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocapınar Köyü Kilisesi 2: Gümüşhane'nin Gizli Mirası

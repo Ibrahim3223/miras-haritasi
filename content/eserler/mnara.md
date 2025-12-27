@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.47823,36.661236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mnara: Likya'nın Gizemli Arkeolojik Sitleri

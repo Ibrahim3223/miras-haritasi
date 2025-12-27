@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6675682,40.4072304"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadı İskele Camii: Gelibolu'nun Tarihî Mirası

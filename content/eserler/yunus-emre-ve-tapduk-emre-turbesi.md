@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.523992,38.628983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yunus Emre ve Tapduk Emre Türbesi

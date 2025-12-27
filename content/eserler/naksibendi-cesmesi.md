@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8618851,39.9343452"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nakşibendi Çeşmesi

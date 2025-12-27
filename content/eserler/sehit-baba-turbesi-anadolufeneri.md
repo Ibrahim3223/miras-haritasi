@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1540184,41.21772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehit Baba Türbesi, Anadolufeneri

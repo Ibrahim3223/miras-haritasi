@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9691906,41.0123978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rahıkizade Medresesi

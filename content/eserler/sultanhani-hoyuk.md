@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.900177,38.9797249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sultanhanı Höyük: Geç Antik Dönem'in Gizemi

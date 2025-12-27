@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.4327774,37.9445686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taş Mektep, Şirince - İzmir'in Tarihi Bir Mirası

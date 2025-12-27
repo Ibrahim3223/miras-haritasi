@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.8464355,37.4168587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Harun Veli Camii

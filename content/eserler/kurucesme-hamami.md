@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0372944,41.0613213"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuruçeşme Hamamı: Beşiktaş'ta Bir Osmanlı Dönemi Mirası

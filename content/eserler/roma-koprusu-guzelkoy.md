@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.670231,38.770798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Güzelköy

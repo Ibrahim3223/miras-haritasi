@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.7646705,37.269914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güneysınır'da Gizli Bir Miras: Kodylessos

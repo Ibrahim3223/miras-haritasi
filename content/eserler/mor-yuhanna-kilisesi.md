@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "40.7401009,37.3134003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mor Yuhanna Kilisesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7464657,38.0914383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yağlıoğlu Türbesi: Tarihî Bir Anıtın Öyküsü

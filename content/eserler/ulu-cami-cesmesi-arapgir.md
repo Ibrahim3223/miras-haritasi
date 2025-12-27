@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.479132397,39.062074333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ulu Cami Çeşmesi: Arapgir'in Ziyaretçi Cenneti

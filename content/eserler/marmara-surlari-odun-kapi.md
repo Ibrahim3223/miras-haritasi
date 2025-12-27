@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9871655,41.0138588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Marmara Surları: Odun Kapı**

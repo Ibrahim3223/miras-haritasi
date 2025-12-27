@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.225258,40.094801"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Salim Mutlu Özel Harp Anıları Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5365467,39.4515877"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kağnıpazar Çeşmesi: Sivrihisar'ın Gizli Cenneti

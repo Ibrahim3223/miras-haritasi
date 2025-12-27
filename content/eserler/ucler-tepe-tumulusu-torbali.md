@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4162006,38.1739998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üçler Tepe Tümülüsü, Torbalı

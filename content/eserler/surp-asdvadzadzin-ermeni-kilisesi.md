@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.271864,38.722668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Asdvadzadzin Ermeni Kilisesi

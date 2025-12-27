@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5371914,38.751915"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süt Dede Mescidi: Tarihi ve Kültürel Mirası Yansıtan Bir Cami

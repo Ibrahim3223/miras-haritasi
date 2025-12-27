@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.025583333,40.982583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Moda Camii: Kadıköy'ün Eski ve Şirin Camisi

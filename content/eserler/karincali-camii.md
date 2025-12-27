@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.0237791,36.9535319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Karıncalı Camii: Serik'in Tarihi Bir Mirası**

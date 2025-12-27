@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4943008,37.1573982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kibyra Roma Köprüsü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8176498,38.0728035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ovacık Kilise Camii: Niğde'nin Gizli Çeşmesi

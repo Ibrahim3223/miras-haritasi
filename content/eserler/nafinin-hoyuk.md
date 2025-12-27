@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.87759,39.2106302"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nafinin Höyük: Kırşehir'in Gizli Hazineleri

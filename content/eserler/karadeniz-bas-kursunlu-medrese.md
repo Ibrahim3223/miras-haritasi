@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9513893,41.019783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karadeniz Baş Kurşunlu Medrese

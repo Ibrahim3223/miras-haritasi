@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.9225311,36.2689285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocagedik Tepe Kalesi: Demre'nin Gizli Kahramanı

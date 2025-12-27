@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.5520172,36.5244293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phaselis Büyük Hamam: Antik Çağın Gizemi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "25.8703995,40.1941986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rosalado Mevki Kilisesi

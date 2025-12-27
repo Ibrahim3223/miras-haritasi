@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5385971,39.4511528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mavi Kadın Çeşmesi: Sivrihisar'ın Gizli Çeşmesi

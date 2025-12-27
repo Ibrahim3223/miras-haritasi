@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.320933,39.832267"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Savrantepe: Ezine'nin Gizli Çarpıcı Arkeolojik Mirası

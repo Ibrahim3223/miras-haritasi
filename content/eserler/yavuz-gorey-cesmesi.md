@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9581795,41.0179939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yavuz Görey Çeşmesi

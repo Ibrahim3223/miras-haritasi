@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.32937,36.980117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Zülfo Türbesi: Adana'nın Tarihi ve Kültürel Mirası

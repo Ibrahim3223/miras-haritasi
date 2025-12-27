@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9819012,41.0039902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nimelceyş Kabirleri: Cankurtaran'ın Gizli Anıtı

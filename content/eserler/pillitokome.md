@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.7179,38.688014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pillitokome: Türkiye'nin Gizli Arkeolojik Sitleri

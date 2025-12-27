@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.801627777,40.514366666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orcohi (Güney) Kilisesi: Oltu'nun Tarihi Bir Mirası

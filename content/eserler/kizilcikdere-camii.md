@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.31081781,41.691577322"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılcıkdere Camii: Kırklareli'nin Gizli Cenneti

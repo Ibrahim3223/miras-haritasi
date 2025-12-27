@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.946504,41.010774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazgani Camii Çeşmesi

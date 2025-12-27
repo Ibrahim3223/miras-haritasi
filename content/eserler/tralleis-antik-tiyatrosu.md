@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "27.843812,37.867536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tralleis Antik Tiyatrosu

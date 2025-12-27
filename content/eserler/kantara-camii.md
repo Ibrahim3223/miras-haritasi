@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1661034,36.198555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kantara Camii: Hatay'daki Bir Tarihi ve Kültürel Harikası

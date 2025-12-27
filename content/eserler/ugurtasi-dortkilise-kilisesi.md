@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.470625,40.933891666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uğurtaşı Dört Kilise Kilisesi: Doğu Anadolu'nun Gizli Çatısı

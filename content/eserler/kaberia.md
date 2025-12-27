@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.95501,40.58956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaberia: Tarihçemizle Birlikte Geçmişin Gizemi

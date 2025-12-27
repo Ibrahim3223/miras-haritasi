@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.930623,40.164437"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh İvaz Türbesi: Beypazarı'nın Gizli Cenneti

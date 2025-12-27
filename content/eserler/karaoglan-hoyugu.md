@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8334355,39.7346914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karaoğlan Höyüğü: Ankara'nın Gizli Anıtı

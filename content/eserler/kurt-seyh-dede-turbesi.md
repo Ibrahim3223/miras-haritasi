@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.8474121,41.603569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurt Şeyh Dede Türbesi

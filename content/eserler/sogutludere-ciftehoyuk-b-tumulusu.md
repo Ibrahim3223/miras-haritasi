@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8020477,41.6194458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söğütlüdere Çiftehöyük B Tümülüsü

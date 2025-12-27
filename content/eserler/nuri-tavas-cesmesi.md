@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0222192,41.0314068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nuri Tavas Çeşmesi

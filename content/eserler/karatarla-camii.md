@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3859367,37.0618629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karatarla Camii: Gaziantep'in Tarihi bir Çarı

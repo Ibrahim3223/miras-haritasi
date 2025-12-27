@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1263428,41.1053467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh İbrahim Türbesi, Alanşeyhi

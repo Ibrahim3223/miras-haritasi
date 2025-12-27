@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9456825,41.0339165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Surp Hreşdagabet Kilisesi Ayazması**

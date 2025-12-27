@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.957676,41.018935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeyrek Yokuşu Çeşmesi: Tarihî Bir Eserin İzleri

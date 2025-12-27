@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Üzümlü Kilise: Nevşehir'in Gizli Cenneti**

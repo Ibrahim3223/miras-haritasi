@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3216133,38.1774118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçük Til Höyüğü: Tarihi ve Kültürel Mirasının Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.3185616,38.3506889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Harutyun Ermeni Kilisesi: Malatya'nın Gizli Cenneti

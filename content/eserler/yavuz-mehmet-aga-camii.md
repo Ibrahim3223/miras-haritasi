@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9394264,41.0075417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yavuz Mehmet Ağa Camii

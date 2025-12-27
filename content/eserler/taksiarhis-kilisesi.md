@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.562976,38.684632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taksiarhis Kilisesi: Talas'ın Tarihi Bir Mirası

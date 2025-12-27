@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.1294765,37.930336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sekizgen Hamam Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.4046993,38.3683014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Köprü, Horzumembelli: Alaşehir'in Tarihi Çekeçisi

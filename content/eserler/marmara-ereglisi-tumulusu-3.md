@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.931650932,40.984982216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Marmara Ereğlisi Tümülüsü 3

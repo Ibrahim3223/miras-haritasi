@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.971239,41.013081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Zenbilli Seyyid Ali Çeşmesi**

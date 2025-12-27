@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.846405,37.8496857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nazilli Köprüsü: Aydın'ın Tarihi Bir Mirası

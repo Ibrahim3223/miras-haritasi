@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.484211,38.724678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalaycıoğlu Mescidi Tanıtımı

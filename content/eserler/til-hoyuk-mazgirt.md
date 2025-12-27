@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.7568245,38.8596725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Til Höyük, Mazgirt: Tunceli'nin Gizli Öyküsü

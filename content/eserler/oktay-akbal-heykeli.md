@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0541382,40.9792824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Oktay Akbal Heykeli

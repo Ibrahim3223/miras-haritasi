@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2147999,38.9319992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taş Köprü, İsmailli: Bergama'nın Gizli Çehresini Görmenin Yeri

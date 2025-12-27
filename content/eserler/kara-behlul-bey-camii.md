@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.0049286,38.14394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Behlül Bey Camii: Silvan'ın Tarihî Bir Mirası

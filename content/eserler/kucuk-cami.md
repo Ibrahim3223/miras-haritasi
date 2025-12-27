@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8182297,37.4433861"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Küçük Cami: Kozan'ın Tarihî Bir Öreni**

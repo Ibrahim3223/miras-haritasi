@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.155352038,40.945901908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Osman Ağa Çeşmesi: Çankırı'nın Gizli Cenneti**

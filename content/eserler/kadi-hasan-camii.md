@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5443993,40.3151283"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Hasan Camii: Tokat'taki Bir Klasik Cami Anıt

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8599968,39.9439201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh İzzettin Camii: Hacı Bayram'ın Sanki Zamanı Durdurmuş Eseri

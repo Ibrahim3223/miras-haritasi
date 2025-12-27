@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9719257,41.0083237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprülü Mehmet Paşa Sebili: İstanbul'un Gizli Cenneti

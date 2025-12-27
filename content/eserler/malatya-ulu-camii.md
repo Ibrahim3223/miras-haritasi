@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.3668,38.4205"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malatya Ulu Camii

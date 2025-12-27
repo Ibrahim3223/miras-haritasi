@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3842812,41.7713127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Üsküp Keleşin Tepe Kuzey Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.329506,36.236294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kaystros Arkeolojik Sit

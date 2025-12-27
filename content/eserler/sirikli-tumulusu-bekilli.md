@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5361996,38.2840996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sırıklı Tümülüsü, Bekilli**

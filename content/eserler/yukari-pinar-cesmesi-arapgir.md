@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.505143774,39.017034781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yukarı Pınar Çeşmesi: Arapgir'in Tarihi Bir Ölümsüzü

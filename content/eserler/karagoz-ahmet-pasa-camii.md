@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9807339,39.4182854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Karagöz Ahmet Paşa Camii: Kütahya'nın Tarihi Bir Mirası**

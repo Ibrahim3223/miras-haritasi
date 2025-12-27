@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.445916666,41.266722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Okrobageti Kilisesi

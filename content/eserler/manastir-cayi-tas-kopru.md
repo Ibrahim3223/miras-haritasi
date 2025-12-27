@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.8356514,39.5741234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Manastır Çayı Taş Köprü

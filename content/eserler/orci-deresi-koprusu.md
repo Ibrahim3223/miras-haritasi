@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Orçi Deresi Köprüsü: Bir Geçit Köprüsü

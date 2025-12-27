@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.995523066,40.356217993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmutoğlan Köyü Camii: Ankara'nın Gizli Cenneti

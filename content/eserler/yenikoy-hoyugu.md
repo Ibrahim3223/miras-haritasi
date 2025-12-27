@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.0768404,40.2480575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeniköy Höyüğü: Tokat'ta Bir Arkeolojik Sitin Gizemi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.234130499,39.759032556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeliha Hatun Çeşmesi: Ezine'de Birinci Sınıf Bir Kültür Mirası

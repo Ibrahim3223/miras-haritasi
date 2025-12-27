@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4719353,40.7334328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sallierbaşı Çeşmesi**

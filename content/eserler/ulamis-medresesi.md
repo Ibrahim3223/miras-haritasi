@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "26.8412647,38.2466431"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ulamış Medresesi: Seferihisar'daki tarihi bir güzellik**

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.929052944,40.198654979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kutuören Camii: Ankara'nın Tarihi Bir Mirası

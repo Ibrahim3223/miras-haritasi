@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.053607,41.059363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nausimahion: Üsküdar'ın Gizli Mirası

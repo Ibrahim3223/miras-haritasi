@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.011174,40.729905"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeşilyurt Mahallesi Köprüsü

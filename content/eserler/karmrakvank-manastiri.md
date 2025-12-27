@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "42.904281,38.372315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karmrakvank Manastırı

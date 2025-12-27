@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6533356,41.1106834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kirazpınarı Tümülüsü: Edirne'nin Gizli Mirası

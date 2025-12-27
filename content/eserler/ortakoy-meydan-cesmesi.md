@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.026396239,41.047520163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaköy Meydan Çeşmesi: Tarihi ve Kültürel Mirası

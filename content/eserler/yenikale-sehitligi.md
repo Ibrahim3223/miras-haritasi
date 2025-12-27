@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.0180492,38.4108315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yenikale Şehitliği

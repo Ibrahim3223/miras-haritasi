@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.1977,40.4708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeyh ül Ümran Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4936733,41.0653038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mezarlık Tepe II Tümülüsü

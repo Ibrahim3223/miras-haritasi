@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.968695,41.011423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mercan Kapısı: Fatih'te Gerçekleşen Bir Mimari Harikadan Kalma

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.3447075,38.5021858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Abdurrahman Gazi Camii

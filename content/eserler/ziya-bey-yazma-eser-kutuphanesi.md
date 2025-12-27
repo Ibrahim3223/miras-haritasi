@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "37.0194855,39.7505646"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ziya Bey Yazma Eser Kütüphanesi

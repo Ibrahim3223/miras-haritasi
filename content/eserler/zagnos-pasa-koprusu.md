@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.71762,41.004488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zağnos Paşa Köprüsü: Ortahisar'ın Tarihi Mirası

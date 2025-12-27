@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.967479,41.012218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Örücüler Kapısı

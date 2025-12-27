@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0124989,41.0091438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Tahir Efendi Çeşmesi, Selimiye

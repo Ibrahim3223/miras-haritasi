@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.476247705,40.301092855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vuslan Dede Türbesi: Gelibolu'nun İnsanlık Mirası

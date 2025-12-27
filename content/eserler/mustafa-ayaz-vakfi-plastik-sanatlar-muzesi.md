@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.82134,39.911447"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi

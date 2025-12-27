@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.062694444,41.833111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Polos Kalesi: Kırklareli'nin Gizli Cenneti

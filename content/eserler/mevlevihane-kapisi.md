@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.921885,41.014137"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mevlevihane Kapısı

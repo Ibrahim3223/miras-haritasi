@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8577423,39.947628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Osmaniye Mahallesi Çeşmesi: Ankara'nın Gizli Cenneti

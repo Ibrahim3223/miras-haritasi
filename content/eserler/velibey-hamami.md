@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.7906912,37.1479523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Velibey Hamamı: Şanlıurfa'da Bir Tarihi Anıt

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.827563,40.650596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Minyatür Amasya Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9615459,41.0217209"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaptan Köse Ali Paşa Sebili: Fatih'te Bir Önemli Kültürel Miras

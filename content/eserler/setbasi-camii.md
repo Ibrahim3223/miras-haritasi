@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0702515,40.1808014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Setbaşı Camii: Bursa'nın Tarihi Bir Mirası

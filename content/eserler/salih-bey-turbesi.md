@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.2973785,38.918869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salih Bey Türbesi: Pertek'in Kültürel Mirası

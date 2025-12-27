@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.198782,37.404426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rabat Kalesi, Mardin: Tarihinin ve Mimarisinin Gizemi

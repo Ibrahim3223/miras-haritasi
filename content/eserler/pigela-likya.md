@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.332,36.455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Likya'nın Gizli Şehri: Pigela

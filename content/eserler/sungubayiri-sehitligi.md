@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2817574,40.2164268"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süngübayırı Şehitliği: Eceabat'ta Anıtsal Yeri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.994835,41.049067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Said Bey Çeşmesi: Şişli'nin Tarihi ve Kültürel Mirası

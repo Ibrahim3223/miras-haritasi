@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6483994,38.2256012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Mescit, Bayındır

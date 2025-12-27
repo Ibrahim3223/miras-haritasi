@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6943741,39.4421616"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadıncık Ana Türbesi

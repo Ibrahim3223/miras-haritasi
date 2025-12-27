@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.527253,36.7179479"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumsurun Höyük: Elbeyli'nin Gizli İncisi

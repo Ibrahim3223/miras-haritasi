@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.58507158,38.466719819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehli Caddesi Çeşmesi, Darende

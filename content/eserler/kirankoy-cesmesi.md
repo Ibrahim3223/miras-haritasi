@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9154186,38.4456711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kıranköy Çeşmesi: Ulubey'de Bir Ölümsüz**

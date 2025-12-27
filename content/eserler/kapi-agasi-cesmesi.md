@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9768937,41.003207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapı Ağası Çeşmesi: Sultanahmet'te Bir İhtişam

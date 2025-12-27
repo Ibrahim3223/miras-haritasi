@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.787473825,40.278804561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köprühisar Köprüsü: Bir Öykü ve Bir Miras

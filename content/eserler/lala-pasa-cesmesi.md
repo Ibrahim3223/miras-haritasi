@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4901581,38.7158127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lala Paşa Çeşmesi: Kayseri'nin Tarihî Bir Çeşmesi

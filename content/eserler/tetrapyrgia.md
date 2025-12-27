@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.1175,37.021944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tetrapyrgia: Antik Dönemden Kalan Bir Arkeolojik Harikadan Bahsetmek

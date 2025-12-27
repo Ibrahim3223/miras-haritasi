@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.03754,40.893632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilise Tepe Höyüğü, Ladik

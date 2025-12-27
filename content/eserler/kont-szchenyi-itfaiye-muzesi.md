@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9536419,41.0163002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kont Szchenyi İtfaiye Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.924513,40.99362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yedikule Maksem Çeşmesi: Bir Osmanlı Çeşmesinin Gizemi

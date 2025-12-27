@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.842948,38.667169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vaftizci Yahya Kilisesi: Avanos'un Kutsal Mirası

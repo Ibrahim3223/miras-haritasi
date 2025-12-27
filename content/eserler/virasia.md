@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.578596,40.615458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Virasia Arkeolojik Sit

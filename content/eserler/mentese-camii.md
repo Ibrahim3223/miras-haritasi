@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.320678,37.750756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Menteşe Camii: Denizli'nin Gizli Cenneti

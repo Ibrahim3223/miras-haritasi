@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.350774,40.545939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 #### Meryem Ana Köprüsü 2

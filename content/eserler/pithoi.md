@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.213204,38.240292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pithoi: Antik Çağın Gizemli Vazo Eserleri

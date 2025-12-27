@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.6624641,36.8040695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mekri Hakimi Eşref Paşa Türbesi

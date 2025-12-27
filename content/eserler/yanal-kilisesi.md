@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "44.2523333,38.2629654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yanal Kilisesi: Başkale'nin Gizli Cenneti

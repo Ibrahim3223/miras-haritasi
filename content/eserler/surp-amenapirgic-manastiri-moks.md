@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.834166666,38.114444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Surp Amenapırgiç Manastırı (Moks): Van'ın Tarihi ve Kültürel Mirası

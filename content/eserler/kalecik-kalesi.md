@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.4056778,40.0958061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalecik Kalesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.945829,41.015854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyyit Halil Ağa Çeşmesi

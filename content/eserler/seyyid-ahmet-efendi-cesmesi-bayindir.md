@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6478672,38.2246704"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Ahmet Efendi Çeşmesi, Bayındır

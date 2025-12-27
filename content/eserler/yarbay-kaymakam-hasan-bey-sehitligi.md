@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2310772,40.0664978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yarbay (Kaymakam) Hasan Bey Şehitliği

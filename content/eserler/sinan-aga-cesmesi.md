@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9575329,41.0088272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Ağa Çeşmesi

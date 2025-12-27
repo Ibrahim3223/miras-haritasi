@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.429306,37.8575439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Envari Sokağı Çeşmesi: Kıymetli bir Tarihî Miras

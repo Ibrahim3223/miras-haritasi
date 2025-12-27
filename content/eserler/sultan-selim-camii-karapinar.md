@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.5477295,37.7144508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Selim Camii (Karapınar)

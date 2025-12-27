@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2903709,40.3977356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tümbelez Tepe Tümülüsü

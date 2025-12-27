@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7603531,41.5440483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yarıktepe A Tümülüsü: Vize'nin Gizemi

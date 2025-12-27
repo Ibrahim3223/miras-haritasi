@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.625855,40.351152"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kressa (Traakya): Gelibolu'nun Gizli Zenginliği

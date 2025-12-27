@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9665813,41.0123024"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Ağa Çeşmesi, Mercan

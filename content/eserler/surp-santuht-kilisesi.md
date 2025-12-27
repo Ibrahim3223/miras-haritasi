@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.055638888,41.089583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Santuht Kilisesi: Rumelihisarı'nın Gizli Çehresinde Gizli Bir Ölümsüz

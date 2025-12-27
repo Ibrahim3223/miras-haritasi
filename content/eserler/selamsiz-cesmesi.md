@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.031544,41.020653"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selamsız Çeşmesi

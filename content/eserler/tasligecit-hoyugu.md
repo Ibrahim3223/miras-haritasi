@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.7105784,36.926588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşlıgeçit Höyüğü: Türkiye'nin Gizli Tarihî Mirası

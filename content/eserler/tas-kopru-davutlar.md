@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.3570995,38.7909012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taş Köprü, Davutlar: Manisa'nın Eski Bir Harikası

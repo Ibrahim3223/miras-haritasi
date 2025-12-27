@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.8046417,36.0644569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşköprü, Anamur: Kıbrıs'ın Efsanevi Köprüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.971655042,41.011514446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Ağa Sebili, Mollafenari

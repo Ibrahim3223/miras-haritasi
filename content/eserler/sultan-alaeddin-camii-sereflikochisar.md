@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.546936,38.9381218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Alaeddin Camii (Şereflikoçhisar)

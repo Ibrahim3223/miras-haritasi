@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.728062,36.660868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pisarissos: Türkiye'nin Gizli Ören Yeri

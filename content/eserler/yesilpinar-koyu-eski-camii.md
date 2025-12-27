@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0033684,41.3692245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yeşilpınar Köyü Eski Camii: Kırklareli'nin Tarihî Bir Mirası**

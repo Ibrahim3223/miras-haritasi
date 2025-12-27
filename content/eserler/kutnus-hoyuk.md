@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "42.345711,37.2617676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kütnüs Höyük: Silopi'nin Gizli Cenneti

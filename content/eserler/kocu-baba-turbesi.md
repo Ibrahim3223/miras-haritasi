@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.880033,40.069711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koçu Baba Türbesi: Balışeyh'in Tarihi Bir Ölümsüzlüğü

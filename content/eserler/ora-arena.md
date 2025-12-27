@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.886908,41.043067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ora Arena: İstanbul'un Gizli Mirası

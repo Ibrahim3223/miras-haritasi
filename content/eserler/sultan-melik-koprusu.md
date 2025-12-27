@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.033855,39.608883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Melik Köprüsü

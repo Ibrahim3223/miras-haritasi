@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "25.9120541,40.1967773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Mahalle Çeşmesi

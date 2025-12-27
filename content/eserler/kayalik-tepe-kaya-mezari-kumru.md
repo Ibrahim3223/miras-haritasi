@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.27892,40.835854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayalık Tepe Kaya Mezarı: Kumru'nun Gizemli Mirası

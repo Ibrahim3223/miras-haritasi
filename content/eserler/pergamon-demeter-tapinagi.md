@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.184166666,39.127222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pergamon Demeter Tapınağı

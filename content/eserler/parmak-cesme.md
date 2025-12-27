@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6933765,39.3121223"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Parmak Çeşme

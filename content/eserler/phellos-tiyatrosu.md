@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.662157983,36.242480622"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phellos Tiyatrosu: Antik Tiyatro'nun Gizemleri

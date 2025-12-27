@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.086446,41.196606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Phosphorus (Trakya): Bir Arkeolojik Sitin Gizemi

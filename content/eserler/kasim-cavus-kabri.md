@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.929801767,41.050269639"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Çavuş Kabri: Eyüpsultan'ın Tarihsel Mirasının Değerli Parçası

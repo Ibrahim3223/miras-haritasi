@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.5315742,41.6432381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaağaç A Tümülüsü: Edirne'nin Gizli Tarihi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0813599,40.1873474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yıldırım Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası

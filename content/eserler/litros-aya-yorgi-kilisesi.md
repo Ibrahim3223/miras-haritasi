@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.8808193,41.0390205"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Litros Aya Yorgi Kilisesi

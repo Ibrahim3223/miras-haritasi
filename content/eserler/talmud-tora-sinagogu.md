@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "27.136083333,38.420083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Talmud Tora Sinagogu

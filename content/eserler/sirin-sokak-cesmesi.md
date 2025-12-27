@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0506682,41.1012946"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şirin Sokak Çeşmesi: Emirgan'ın Gizli Çeşmesi

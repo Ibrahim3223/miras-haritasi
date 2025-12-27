@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3233585,40.2830353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.112833,40.7009354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmanlı Günlük Yaşam Müzesi

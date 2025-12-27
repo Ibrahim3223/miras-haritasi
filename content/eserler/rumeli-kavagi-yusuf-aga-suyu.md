@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.072416,41.18363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rumeli Kavağı Yusuf Ağa Suyu

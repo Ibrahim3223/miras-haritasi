@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3291742,38.1615898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Til Höyük: Kahramanmaraş'ın Gizli Tarihi

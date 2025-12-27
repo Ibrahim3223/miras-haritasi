@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.86474,40.903892"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kömürcü Mahallesi Köprüsü

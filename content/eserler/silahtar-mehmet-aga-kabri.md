@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9500237,41.0113907"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silahtar Mehmet Ağa Kabri

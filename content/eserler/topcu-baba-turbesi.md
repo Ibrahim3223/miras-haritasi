@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.1402035,42.0468521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Topçu Baba Türbesi: Klasik Osmanlı Mimarisi'nin Büyüleyici Örneği

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5315,38.7597"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yarenler Sultan Türbesi: Afyonkarahisar'ın Gizli Çehresi

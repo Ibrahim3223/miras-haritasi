@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8453159,37.8510895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabakhane Hamamı: Aydın'ın Tarihî Mirası

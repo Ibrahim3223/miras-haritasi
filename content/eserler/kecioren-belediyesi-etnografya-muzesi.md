@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.866368971,39.980792631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keçiören Belediyesi Etnografya Müzesi

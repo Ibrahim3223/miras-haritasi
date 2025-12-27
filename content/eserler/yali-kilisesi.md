@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.28783975,41.135258339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalı Kilisesi: Ünye'nin Tarihi ve Kültürel Bir Mirası

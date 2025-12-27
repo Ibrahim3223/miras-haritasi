@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.976181,41.0079613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Ağa Sebili: Binbirdirek'in Gizli Çeşmesi

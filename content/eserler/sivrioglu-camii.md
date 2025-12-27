@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5245247,39.7615242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sivrioğlu Camii: Eskişehir'in Gizli Çehresinin Yüzyıllık Tarihi

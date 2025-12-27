@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.0929604,39.2041969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeniçubuk Köprüsü

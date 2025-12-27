@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.671185,41.599343"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sazlıdere Köprüsü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.313524,39.2488284"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Özlünün Höyük: Kırşehir'in Gizli Cenneti

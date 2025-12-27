@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0816998,41.1154266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kulaber Köprüsü: Ardeşen'in Görsel Mührü

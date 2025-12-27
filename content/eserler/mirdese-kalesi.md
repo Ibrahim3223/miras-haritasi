@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.249165,37.728906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mirdese Kalesi: Tarihî Bir Kahraman'ın Kalıntıları

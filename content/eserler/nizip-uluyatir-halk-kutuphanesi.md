@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "37.694191209,36.96267645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nizip Uluyatır Halk Kütüphanesi: Gaziantep'te Kültür ve Bilgi Merkezi

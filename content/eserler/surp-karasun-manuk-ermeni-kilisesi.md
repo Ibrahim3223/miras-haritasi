@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "36.170318,36.589335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Surp Karasun Manuk Ermeni Kilisesi

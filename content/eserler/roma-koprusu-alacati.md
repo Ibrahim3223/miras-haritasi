@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.39793,38.275639"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Alaçatı

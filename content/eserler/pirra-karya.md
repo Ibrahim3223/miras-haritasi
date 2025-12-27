@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.38243,37.55694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pirra (Karya)

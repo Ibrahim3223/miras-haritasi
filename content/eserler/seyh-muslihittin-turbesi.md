@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.8675156,37.8838005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Muslihittin Türbesi

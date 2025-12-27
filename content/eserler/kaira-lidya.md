@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.883825,38.089037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaira (Lidya) Arkeolojik Sitesi

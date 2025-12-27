@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4974937,37.8736801"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şems-i Tebrizi Türbesi

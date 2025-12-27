@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.143478,40.488963"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Modrene Arkeolojik Sit

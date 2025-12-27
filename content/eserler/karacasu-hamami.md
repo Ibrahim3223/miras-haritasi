@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.6075993,37.7294998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karacasu Hamamı: Aydın'ın Ölümsüz Hamamı

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.4888992,38.7166557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milli Mücadele Müzesi, Kayseri

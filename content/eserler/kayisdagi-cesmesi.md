@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.08941,40.976172"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayışdağı Çeşmesi: Kadıköy'ün Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.5352001,39.4487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kudbeddin Dede Türbesi

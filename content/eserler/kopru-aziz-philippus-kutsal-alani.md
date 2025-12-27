@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.1294556,37.9300308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köprü, Aziz Philippus Kutsal Alanı: Pamukkale'nin Gizli Çiçeği

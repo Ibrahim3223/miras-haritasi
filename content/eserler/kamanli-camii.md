@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.778463,38.320768"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kamanlı Camii: Urla'nın Gizli Cenneti

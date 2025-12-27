@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0557804,41.074028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Paşa Çeşmesi, Kandilli

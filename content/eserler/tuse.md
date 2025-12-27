@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.751492,36.267252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tüse: Kaş'ın Gizli Cenneti

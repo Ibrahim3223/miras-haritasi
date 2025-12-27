@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4794769,38.715519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Peynirli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Örnek

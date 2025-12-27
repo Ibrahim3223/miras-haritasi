@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2703018,37.8380508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyfülmülük Türbesi: Diyarbakır'ın Tarihî Bir İmzası

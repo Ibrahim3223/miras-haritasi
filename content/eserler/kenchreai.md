@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.628763,39.963522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kenchreai: Antik Yunanistan'ın Gizli İncisi

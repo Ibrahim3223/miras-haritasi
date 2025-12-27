@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0159596,41.0511395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malta Köşkü Selsebili

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.970416,41.005603"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mehmet Ağa Çeşmesi: İstanbul'un Gizli Çeşmesi

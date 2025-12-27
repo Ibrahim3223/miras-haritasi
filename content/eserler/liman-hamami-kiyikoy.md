@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.094527777,41.632194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Liman Hamamı (Kıyıköy)

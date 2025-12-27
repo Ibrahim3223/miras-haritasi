@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8626003,37.5545998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe Tepe Üstü Yerleşimi, Karpuzlu

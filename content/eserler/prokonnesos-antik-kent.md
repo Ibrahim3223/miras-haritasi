@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.55568,40.591686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Prokonnesos Antik Kenti

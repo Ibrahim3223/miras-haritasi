@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.6039,40.7305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Morkaya Kuzey Camii

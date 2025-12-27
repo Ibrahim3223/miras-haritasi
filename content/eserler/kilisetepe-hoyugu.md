@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.3520775,38.6312141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kilisetepe Höyüğü: Malatya'nın Gizli Kahramanı

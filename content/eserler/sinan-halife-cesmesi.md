@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5387459,38.752121"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Halife Çeşmesi

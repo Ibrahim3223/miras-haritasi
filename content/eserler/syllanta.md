@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.321874,40.317895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Syllanta Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0966148,39.556282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Cami, Havran

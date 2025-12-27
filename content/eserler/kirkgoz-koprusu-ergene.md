@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.662811,41.24231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kırkgöz Köprüsü: Ergene'nin Tarihi Bir Anıtı

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.7886944,37.2676392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karapaşa Medresesi: Milas'ın Tarihi Bir Mirası

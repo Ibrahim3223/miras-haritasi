@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9398,36.24116"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sura Apollon Tapınağı

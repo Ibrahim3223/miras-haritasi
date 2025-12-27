@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.694701,41.242616"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Safranbolu Kileciler Gezi Evi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9086266,40.7618217"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## SEKA Kağıt Fabrikası: İzmit'in Gizli Mirası

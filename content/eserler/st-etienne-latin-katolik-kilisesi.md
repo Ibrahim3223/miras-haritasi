@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.8219128,40.9577141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### St. Etienne Latin Katolik Kilisesi: Bakırköy'de Bir Tarihi Anıt

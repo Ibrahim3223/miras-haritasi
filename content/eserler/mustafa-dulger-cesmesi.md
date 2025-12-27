@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3753643,37.5872078"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Dülger Çeşmesi

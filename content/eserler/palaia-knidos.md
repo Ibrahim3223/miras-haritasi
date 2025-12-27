@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.6983356,36.7350235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Palaia Knidos: Tarihi ve Kültürel Bir Miras

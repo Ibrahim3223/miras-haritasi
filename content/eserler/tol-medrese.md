@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.8879166,36.6389656"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tol Medrese: Karaman'ın Gizli Cenneti

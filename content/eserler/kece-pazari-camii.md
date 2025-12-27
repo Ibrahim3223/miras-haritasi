@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5360336,38.7557526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keçe Pazarı Camii: Afyonkarahisar'ın Gizli Cenneti

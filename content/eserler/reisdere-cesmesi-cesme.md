@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.4229393,38.3298035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Reisdere Çeşmesi: Çeşme'nin Tarihi ve Kültürel Mirası

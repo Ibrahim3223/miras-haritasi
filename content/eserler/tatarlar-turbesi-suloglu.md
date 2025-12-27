@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.9072723,41.8387032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatarlar Türbesi, Süloğlu

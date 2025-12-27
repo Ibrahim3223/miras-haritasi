@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9574146,41.0206871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasapbaşı Demirhan Kabri: İstanbul'un Gizli Anıtı

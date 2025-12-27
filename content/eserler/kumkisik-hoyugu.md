@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.0327024,37.8681246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumkısık Höyüğü: Merkezefendi'nin Gizli Tarihî Mirası

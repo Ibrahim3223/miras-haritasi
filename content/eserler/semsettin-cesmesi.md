@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.235372,40.915866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şemsettin Çeşmesi: Bulancak'ın Tarihî Çeşmesi

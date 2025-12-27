@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4277,38.6098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saruhan Bey Türbesi

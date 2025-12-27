@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.7096004,37.5348015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karagöl Köprüsü

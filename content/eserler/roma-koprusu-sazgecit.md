@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.93418,37.59411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Roma Köprüsü, Sazgeçit

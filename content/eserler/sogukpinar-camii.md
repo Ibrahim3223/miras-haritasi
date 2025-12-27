@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.033226,39.9045753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğukpınar Camii: Bilecik'in Tarihî Bir Mirası

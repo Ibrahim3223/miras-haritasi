@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.3854408,41.7329636"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemerdere Köprüsü: Amasra'nın Tarihî Mirası

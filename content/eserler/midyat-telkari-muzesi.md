@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "41.3757,37.41541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Midyat Telkari Müzesi: Mardin'in Tarihî ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.649689,37.951315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Veli Efendi Türbesi

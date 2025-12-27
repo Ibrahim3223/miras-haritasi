@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0240116,41.0486412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sokak Çeşmesi, Palanga Caddesi: Beşiktaş'ın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.088271,38.657327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızbacı Tepesi: Salihli'nin Gizli Hazinesi

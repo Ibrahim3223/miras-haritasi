@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0935074,41.1249927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yanıvt Köprüsü: Ardeşen'in Tarihi Göllerin Köprüsü

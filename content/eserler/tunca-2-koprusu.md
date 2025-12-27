@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.1236554,41.1224732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tunca 2 Köprüsü Nedir?

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.697899,36.7030025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pisilis Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.382,37.1850014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kır Kahvesi Mescidi, Karabağlar Yaylası

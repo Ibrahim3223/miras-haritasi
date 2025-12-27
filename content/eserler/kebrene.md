@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.566389,39.744167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kebrene Arkeolojik Sit

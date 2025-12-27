@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.997420453,41.046598154"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Çamlıca Mahallesi Camii: Rize'nin Tarihî Bir Mirası

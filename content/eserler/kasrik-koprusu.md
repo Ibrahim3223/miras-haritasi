@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.8900623,38.223032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasrik Köprüsü

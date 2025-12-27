@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.920044,41.0160182"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Efendi Türbe Duvarındaki Çeşme: İstanbul'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.731387089,41.085555038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kesmetaş Mahallesi Merkez Camii: Çayeli'nin Tarihi Bir Mirası

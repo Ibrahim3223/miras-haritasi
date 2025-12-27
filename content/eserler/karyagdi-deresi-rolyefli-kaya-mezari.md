@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9900284,36.5672417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karyağdı Deresi Rölyefli Kaya Mezarı

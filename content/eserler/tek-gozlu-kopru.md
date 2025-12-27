@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.976871,41.161306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tek Gözlü Köprü: Ardanuç'un Gizli Çehresini Keşfettik

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.9160421,39.3502824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karga Höyüğü: Eski Kentin Kalıntıları ve Tarihî Mirası

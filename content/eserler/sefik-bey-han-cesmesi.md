@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0682774,38.2558823"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şefik Bey Han Çeşmesi

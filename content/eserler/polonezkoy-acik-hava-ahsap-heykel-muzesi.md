@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.2111702,41.1099434"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Polonezköy Açık Hava Ahşap Heykel Müzesi

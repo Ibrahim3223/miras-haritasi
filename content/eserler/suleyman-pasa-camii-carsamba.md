@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.728699,41.194752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Süleyman Paşa Camii, Çarşamba

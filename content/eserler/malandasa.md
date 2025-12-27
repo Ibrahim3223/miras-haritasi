@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.39368,38.2111435"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malandasa: Türkiye'nin Gizli Arkeolojik Sitleri

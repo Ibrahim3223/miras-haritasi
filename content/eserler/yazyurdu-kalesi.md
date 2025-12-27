@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.9341442,38.7986391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yazyurdu Kalesi: Tarihi ve Kültürel Bir Miras

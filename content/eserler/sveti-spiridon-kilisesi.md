@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.2227478,41.741291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sveti Spiridon Kilisesi: Kırklareli'nin İhtişamı

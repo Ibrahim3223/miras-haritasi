@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.961158,41.006035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nişancı Mehmet Paşa Camii Çeşmesi 1

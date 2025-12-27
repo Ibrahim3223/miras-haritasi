@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.8916664,36.9143867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şeyh Necmeddin Gayyur Türbesi**

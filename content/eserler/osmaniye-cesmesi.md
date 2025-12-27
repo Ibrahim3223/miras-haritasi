@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.391083,40.914189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmaniye Çeşmesi: Giresun'un Tarihi Bir Çeşmesi

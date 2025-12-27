@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.96511,36.383422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Placoma: Geçmişten Günümüze Eski Sit

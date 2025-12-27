@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.6442375,40.5996628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılcahamam Sey Hamamı: Tarih, Mimarî ve Kültürel Miras

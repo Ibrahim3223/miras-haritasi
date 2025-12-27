@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.580087,41.0214"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeynep Dudu Çeşmesi

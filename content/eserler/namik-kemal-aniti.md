@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5163326,40.9787254"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Namık Kemal Anıtı

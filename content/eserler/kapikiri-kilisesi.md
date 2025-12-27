@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.5209122,37.5005379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kapıkırı Kilisesi: Milas'ta Bir Geçmişin İzleri

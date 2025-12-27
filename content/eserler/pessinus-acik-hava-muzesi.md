@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.583799,39.333382"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pessinus Açık Hava Müzesi: Eskişehir'in Gizli Çiçeği

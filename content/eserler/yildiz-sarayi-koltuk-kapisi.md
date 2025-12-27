@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.010467426,41.050141645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yıldız Sarayı Koltuk Kapısı

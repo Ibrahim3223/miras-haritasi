@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.4086113,40.1542549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Piri Reis Anıtı

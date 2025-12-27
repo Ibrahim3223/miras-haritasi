@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.7079105,41.0666428"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Spradon Arkeolojik Sit

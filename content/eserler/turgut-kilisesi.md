@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.1120605,36.7619019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turgut Kilisesi: Marmaris'in Gizli Cenneti

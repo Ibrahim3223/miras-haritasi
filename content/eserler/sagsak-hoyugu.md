@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.58803,37.60809"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sağsak Höyüğü: Çumra'nın Tarihi Mirası

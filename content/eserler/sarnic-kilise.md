@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.817368984,38.618094347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarnıç Kilisesi: Nevşehir'in Gizli Cenneti

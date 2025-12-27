@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "27.324691,38.123958"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Metropolis Antik Tiyatrosu

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.7084512,36.7063796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Çömelek

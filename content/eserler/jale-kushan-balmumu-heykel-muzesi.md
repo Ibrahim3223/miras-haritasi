@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.007109,41.084951"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Jale Kuşhan Balmumu Heykel Müzesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "43.7415009,37.5625687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeynel Bey Medresesi Tanıtımı

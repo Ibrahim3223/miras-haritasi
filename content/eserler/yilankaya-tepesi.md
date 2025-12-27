@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.6304702,40.2100392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yılankaya Tepesi: Zile'nin Gizli Anıtı

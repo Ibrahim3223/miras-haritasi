@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9744473,39.4181023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurşunlu Camii: Kütahya'nın Kültürel Mirası

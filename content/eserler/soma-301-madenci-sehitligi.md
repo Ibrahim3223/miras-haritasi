@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.6439037,39.1771355"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Soma 301 Madenci Şehitliği: Anımsanan Kahramanlık

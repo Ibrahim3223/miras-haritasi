@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.326305555,40.618027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Leksori Kilisesi: İncelemesi ve Ziyaret Bilgileri

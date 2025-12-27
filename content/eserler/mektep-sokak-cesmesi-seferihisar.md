@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.8381996,38.2000008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mektep Sokak Çeşmesi, Seferihisar

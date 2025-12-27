@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.4997902,40.5855026"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Manatlı Kilisesi: Torul'un Tarihî Bir Mirası

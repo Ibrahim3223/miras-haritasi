@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.977172,41.008751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Muhterem Efendi Türbesi

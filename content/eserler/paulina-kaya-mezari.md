@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.2238331,40.1940002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gölpazarı'nın Gizli Cenneti: Paulina Kaya Mezarı

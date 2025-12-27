@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2646783,39.3043921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köçekli Höyük: Kırşehir'in Gizli Harikası

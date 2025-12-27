@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2911987,40.2255135"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karayörük Deresi Şehitliği

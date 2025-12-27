@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.838089,40.6565094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Şirvanlı Camii**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3854485,41.7649765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Üsküp Kumtepeler H Tümülüsü: Kırklareli'nin Gizli Arkeolojik Harikası**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0651054,40.5331841"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Köm Yolu Tepe Höyük

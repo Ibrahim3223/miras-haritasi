@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2294426,37.911499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Yusuf Camii

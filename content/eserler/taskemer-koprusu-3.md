@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8955288,37.3021164"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşkemer Köprüsü 3: Milas'ta Bir Tarihi Köprü

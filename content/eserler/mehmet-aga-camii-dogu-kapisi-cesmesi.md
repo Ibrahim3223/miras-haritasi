@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.945697,41.027051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Ağa Camii Doğu Kapısı Çeşmesi: İstanbul'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.343172,41.633488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kemal Samancıoğlu Etnografya Müzesi

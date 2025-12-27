@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.5439014,41.6764374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sefer Şah Türbesi

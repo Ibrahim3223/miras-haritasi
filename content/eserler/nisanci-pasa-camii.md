@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4369812,38.6129646"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nişancı Paşa Camii: Manisa'nın Tarihi Mimarisi

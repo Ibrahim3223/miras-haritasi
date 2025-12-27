@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.6974297,38.8704071"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mahpeyker Hatice Hatun Camii

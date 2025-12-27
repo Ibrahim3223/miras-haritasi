@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.3742733,37.8513641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türbe (Yazırlı Mahallesi)

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.6289,38.345661111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zernek Kalesi: Van'ın Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4838733,36.6696477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kargılıhöyüğü: Hatay'ın Gizemli Arkeolojik Sitleri

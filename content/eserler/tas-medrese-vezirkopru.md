@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "35.4583015,41.1439171"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Medrese, Vezirköprü

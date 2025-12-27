@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7631531,41.5840149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sofi Bekir Ağa Mescidi: Vize'nin Tarihî Mirası

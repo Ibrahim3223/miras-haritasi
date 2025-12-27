@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.4912682,39.7233467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erzincan'ın Tarihi İmkânı: İzzet Paşa Camii

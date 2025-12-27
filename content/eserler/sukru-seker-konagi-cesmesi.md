@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9775505,39.421505"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şükrü Şeker Konağı Çeşmesi

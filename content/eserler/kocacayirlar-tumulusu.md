@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.6866837,41.6975365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocaçayırlar Tümülüsü

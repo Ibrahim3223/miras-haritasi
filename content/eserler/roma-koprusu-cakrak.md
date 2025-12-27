@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.6032602,40.5251661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Çakrak

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.957135,37.227855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Pyrgoi Arkeolojik Sit

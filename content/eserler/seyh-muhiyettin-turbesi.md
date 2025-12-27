@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.4087677,37.7112885"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hasankeyf'in Gizemi: Şeyh Muhiyettin Türbesi**

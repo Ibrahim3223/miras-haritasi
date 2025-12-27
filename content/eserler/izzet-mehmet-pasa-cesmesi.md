@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.042651,41.070313"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İzzet Mehmet Paşa Çeşmesi

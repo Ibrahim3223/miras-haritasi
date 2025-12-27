@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.603888888,41.175"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odeinios Arkeolojik Sit

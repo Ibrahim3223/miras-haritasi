@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8370667,40.651947"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofular Abdullah Paşa Camii

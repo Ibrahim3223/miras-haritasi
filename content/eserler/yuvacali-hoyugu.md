@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.0145,37.5560245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yuvacalı Höyüğü**

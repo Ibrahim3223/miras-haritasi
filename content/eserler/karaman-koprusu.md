@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.773252508,37.551663923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaman Köprüsü

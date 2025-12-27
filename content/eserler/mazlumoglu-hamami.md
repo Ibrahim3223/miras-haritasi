@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "43.0879197,40.6114798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mazlumoğlu Hamamı**

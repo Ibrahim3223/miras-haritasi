@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8657379,39.9357758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ulucanlar Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.963103,41.020199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Üç Mihraplı Cami Çeşmesi**

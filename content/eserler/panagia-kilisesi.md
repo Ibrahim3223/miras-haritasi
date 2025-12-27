@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.575389,38.65498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panagia Kilisesi: Talas'ın Gizli Çehresinde Bir Kahramanlık

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.1524696,38.8240204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yığmatepe Tümülüsü 2: Arguvan'ın Gizli Mirası**

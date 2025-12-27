@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.4052849,38.3598518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karamildantepe: Malatya'nın Gizli Güzeli

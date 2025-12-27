@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.2576,38.46504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Korakoe**

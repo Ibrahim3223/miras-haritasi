@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3638325,41.779335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsküp Kavala Batı Tümülüsü

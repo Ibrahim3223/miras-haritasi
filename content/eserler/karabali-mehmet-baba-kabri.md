@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9951839,41.0371056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabali Mehmet Baba Kabri: İstanbul'un Tarihsel Yapısı

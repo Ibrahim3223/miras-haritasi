@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5986748,39.1611557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Minareli Camii, Darkale

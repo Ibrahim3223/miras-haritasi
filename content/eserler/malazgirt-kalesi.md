@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.544903546,39.146787293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Malazgirt Kalesi

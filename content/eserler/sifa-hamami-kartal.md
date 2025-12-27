@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.185991,40.889067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şifa Hamamı Kartal: İstanbul'un Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.1440506,42.0255089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleyazısı Camii: Sinop'un Tarihi bir Mirası

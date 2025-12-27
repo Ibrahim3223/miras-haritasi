@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.44749832,40.40200043"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Licese Kilisesi: Şebinkarahisar'ın Tarihî Yarınlığı

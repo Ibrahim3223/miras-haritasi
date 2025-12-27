@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0627632,40.1860008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Perşembe Hamamı

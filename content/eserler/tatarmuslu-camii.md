@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.0761986,41.0555992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatarmuslu Camii: Samsun'un Gizli Çarııtı

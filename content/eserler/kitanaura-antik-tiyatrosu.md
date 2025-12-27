@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.36417,36.646139"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kitanaura Antik Tiyatrosu: Antalya'nın Gizli Cezvesi

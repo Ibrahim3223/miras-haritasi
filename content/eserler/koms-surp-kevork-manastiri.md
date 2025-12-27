@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "42.6317918,38.4818849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koms Surp Kevork Manastırı

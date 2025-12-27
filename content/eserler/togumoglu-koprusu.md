@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.63816,40.40065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Toğumoğlu Köprüsü

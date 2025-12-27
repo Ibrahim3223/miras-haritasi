@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4914246,38.7250977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mıhlım I Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası

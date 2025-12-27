@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6232567,40.0517845"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ortaca Köprüsü: Bir Geçit Olarak Tarih

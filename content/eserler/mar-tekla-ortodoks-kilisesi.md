@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.9909515,36.1206665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mar Tekla Ortodoks Kilisesi

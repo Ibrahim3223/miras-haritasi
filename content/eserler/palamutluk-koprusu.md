@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4155998,38.3182755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Palamutluk Köprüsü

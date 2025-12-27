@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.066667,37.4957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kozluca Höyük: Burdur'un Gizli Mirası

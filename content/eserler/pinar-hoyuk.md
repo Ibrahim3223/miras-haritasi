@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.951383,38.243183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pınar Höyük: Eski Çağın Gizli Kahramanı

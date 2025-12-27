@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.924305,41.00948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Tevfik Efendi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.796522,38.091176"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırmızı Köprü, Bahçesaray

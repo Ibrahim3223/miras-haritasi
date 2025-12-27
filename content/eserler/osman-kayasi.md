@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.62731,40.02403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Osman Kayası: Çorum'un Tarihî Bir Şehri

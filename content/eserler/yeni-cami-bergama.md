@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1791477,39.1194878"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeni Cami, Bergama

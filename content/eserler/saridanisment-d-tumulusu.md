@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8249474,41.8672485"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıdanişment D Tümülüsü

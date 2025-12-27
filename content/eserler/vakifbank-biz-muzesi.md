@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.109815297,40.999279865"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vakıfbank B'iz Müzesi

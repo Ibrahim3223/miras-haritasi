@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.14325,38.428222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzun Havuz: İzmirlinin Tarihi Çeşmesi

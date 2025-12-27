@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.769477,40.309496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kamışlı Köyü Kilisesi: Giresun'un Gizemleri

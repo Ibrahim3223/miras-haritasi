@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.1259399,40.840228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Morkaya Derebaşı Camii

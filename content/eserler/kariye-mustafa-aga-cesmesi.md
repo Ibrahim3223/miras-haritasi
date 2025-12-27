@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.93882,41.031403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kariye Mustafa Ağa Çeşmesi

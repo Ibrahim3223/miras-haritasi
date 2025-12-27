@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.446562,37.327588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Perminunda: Türkiye'nin Klasik Çağ Mirası

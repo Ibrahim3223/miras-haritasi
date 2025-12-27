@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1631851,36.2031136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Semerciler Camii

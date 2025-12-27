@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.16555556,38.07166667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kelainai: Afyonkarahisar'ın Gizli İnsiyeti

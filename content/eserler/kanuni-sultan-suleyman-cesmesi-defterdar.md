@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.936436,41.040676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kanuni Sultan Süleyman Çeşmesi, Defterdar

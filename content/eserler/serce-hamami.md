@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.7885361,37.1552391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Serçe Hamamı: Şanlıurfa'nın Tarihi Bir Mirası

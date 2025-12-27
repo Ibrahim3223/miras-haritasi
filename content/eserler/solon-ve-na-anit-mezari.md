@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.4731617,36.86483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Solon ve Na Anıt Mezarı

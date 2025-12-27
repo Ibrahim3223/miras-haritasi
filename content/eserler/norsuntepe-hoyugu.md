@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.47,38.61888889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Norşuntepe Höyüğü: Elazığ'ın Gizli Tarihî Mirası

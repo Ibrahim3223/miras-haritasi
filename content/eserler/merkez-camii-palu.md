@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.9493942,38.7048836"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Merkez Camii, Palu

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.689014,37.498184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kremna Antik Tiyatrosu: Bucak'ın Tarihî Mirası

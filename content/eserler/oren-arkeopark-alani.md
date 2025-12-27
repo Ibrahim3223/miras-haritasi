@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.9726715,37.0370445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ören Arkeopark Alanı: Milas'ın Gizli Harikası

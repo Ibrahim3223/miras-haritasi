@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7196217,38.1023788"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maltepe Tümülüsü: Tarih, Kültür ve Mimari Harikası

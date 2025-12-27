@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.006457,37.343724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Koraia Arkeolojik Sit

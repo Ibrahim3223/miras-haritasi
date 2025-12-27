@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6801662,40.418438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaptan-ı Derya Sinan Paşa Türbesi

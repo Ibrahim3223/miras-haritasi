@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5022736,37.8743439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sırçalı Mescit Çeşmesi

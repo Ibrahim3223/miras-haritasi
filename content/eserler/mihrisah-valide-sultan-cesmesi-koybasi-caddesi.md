@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0701084,41.1215591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mihrişah Valide Sultan Çeşmesi, Köybaşı Caddesi: Sarıyer'in Tarihî Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.983,39.415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kotiaion: Tarih ve Kültür Mirasının Gizemi

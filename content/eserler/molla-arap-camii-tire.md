@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7134628,38.095829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Molla Arap Camii: Tire'de Bir Tarihi Övgü

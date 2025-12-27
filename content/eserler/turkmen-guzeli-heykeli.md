@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9253387,36.379921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türkmen Güzeli Heykeli

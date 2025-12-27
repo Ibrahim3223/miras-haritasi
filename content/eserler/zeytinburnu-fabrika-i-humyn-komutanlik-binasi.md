@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "28.9045734,40.9833908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeytinburnu Fabrika-i Hümâyûn Komutanlık Binası

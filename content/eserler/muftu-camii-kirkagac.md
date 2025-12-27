@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6690273,39.1055336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Müftü Camii: Kırkağaç'ta Bir Önemli Tarihi Eser

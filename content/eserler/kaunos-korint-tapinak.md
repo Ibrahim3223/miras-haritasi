@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.6212502,36.8278389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaunos Korint Tapınak: Köyceğiz'in Gizli Mirası

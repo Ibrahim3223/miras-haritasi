@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967471,41.012413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mercan Camii Duvar Çeşmesi

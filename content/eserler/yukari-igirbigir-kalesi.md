@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.5048256,39.9925537"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Iğırbığır Kalesi: Horasan'ın Gizli İhtişamı

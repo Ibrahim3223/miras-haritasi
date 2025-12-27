@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4948349,37.8767815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı İzzettin Camii

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.939404,41.021695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmed Şemseddin Efendi Türbesi

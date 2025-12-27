@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.744333,39.396967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Soğulcak Arkeolojik Sit

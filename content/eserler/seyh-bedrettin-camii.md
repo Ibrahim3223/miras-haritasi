@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.487785476,39.582350465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Bedrettin Camii

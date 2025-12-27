@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0747395,41.0786667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mustafa Ağa Çeşmesi, Göksu: Beykoz'un Tarihî Çeşme Harikası**

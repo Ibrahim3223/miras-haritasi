@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6292,40.367567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kalanoro Tepesi: Çanakkale'nin Gizli Arkeolojik Harikası**

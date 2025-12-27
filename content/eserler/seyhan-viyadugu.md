@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.1927,37.0127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyhan Viyadüğü: Güneydoğu Anadolu'nun Tarihi Köprüsü

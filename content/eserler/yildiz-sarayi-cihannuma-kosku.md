@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0121117,41.0479202"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yıldız Sarayı Cihannüma Köşkü: İstanbul'un Gizli Cenneti

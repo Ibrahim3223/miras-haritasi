@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.1462822,40.9050331"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Osmanlı Hamamı

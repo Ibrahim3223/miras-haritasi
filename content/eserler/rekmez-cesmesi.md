@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.1452541,37.895031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rekmez Çeşmesi: Aydın'ın Sultanhisar Mahallesi'ndeki Büyülü Çeşme

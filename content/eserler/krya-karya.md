@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.85707,36.67653"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karya (Krya) Arkeolojik Sit

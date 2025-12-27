@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.8463345,37.4168777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Harun Veli Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5498009,37.9763985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşa Çeşmesi 1: Aydın'ın Tarihi Bir Çeşmesi

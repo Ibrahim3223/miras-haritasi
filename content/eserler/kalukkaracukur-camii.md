@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.550499,41.5203018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kalukkaraçukur Camii: Alaçam'ın Tarihi ve Kültürel Mirası

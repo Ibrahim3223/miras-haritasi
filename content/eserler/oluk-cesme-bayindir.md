@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6438007,38.2251015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Oluk Çeşme, Bayındır

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.4395161,40.2033691"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Michael Archestrategos Kilisesi

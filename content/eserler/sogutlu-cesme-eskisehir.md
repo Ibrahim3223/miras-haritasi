@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.52178,39.7629395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Söğütlü Çeşme: Eskişehir'in Gizli Çeşmesi

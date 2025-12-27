@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.636524344,41.018999399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşiltepe Tümülüsü: Edirne'nin Gizli Mirası

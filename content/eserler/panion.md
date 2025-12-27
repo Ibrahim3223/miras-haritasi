@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.466995,40.907132"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panion Arkeolojik Sit

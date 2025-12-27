@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.9570732,37.2261162"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaman Kazımkarabekir Hamam

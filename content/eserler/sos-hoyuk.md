@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.5222054,39.9937477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sos Höyük: Erzurum'un Gizli Kahramanı

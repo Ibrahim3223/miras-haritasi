@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.7044697,36.8868027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nigar Hatun Türbesi Hakkında Bilgi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.1267624,36.6275864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşlıca Kalesi: Marmaris'in Gizli Çehresini İnceliyorsunuz

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.5105932,39.1516706"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Malazgirt Köprüsü: Tarihî Bir İkona Sahip Köprü

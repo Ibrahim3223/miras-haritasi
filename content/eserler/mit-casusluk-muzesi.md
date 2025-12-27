@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.80555556,39.95805556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## MİT Casusluk Müzesi

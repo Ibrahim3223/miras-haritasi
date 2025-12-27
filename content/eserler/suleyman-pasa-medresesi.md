@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.7230434,40.428093"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Paşa Medresesi

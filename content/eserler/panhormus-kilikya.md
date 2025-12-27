@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.8102185,37.24008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Panhormus (Kilikya)

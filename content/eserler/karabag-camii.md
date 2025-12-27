@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.5590134,37.419796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabağ Camii: Muğla'nın Tarihi Bir Anıtı

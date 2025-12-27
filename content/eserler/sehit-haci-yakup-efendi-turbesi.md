@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0480976,40.1836472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehit Hacı Yakup Efendi Türbesi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6131897,37.6264267"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaygıllı Kalesi: Tarihi ve Mimari Özellikleri

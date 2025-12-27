@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.747975,37.312792"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Muhammed Türbesi

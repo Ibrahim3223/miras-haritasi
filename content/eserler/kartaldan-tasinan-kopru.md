@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.0282936,40.9985695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kartal'dan Taşınan Köprü: Kadıköy'ün Gizli Cenneti**

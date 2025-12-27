@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.3126812,36.2593498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Patara Anıt Mezarı: Kaş'ın Gizli Mücevheri

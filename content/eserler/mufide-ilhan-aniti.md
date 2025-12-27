@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6100464,36.7816963"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müfide İlhan Anıtı

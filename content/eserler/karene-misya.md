@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.842283,39.17898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karene (Misya) Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.5770378,41.0232086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyükçekmece Kilisesi

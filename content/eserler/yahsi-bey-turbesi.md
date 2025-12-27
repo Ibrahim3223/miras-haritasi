@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.4586,39.7504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yahşi Bey Türbesi

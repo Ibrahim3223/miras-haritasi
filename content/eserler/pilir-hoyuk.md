@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3770943,39.8733177"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pılır Höyük: Sivas'ta Gizemli Bir Arkeolojik Sit

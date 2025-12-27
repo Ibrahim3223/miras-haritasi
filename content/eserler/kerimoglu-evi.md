@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.2637882,37.1180573"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kerimoğlu Evi: Menteşe'nin Tarihi ve Kültürel Mirası

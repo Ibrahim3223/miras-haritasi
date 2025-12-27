@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.218894705,37.178896141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yeni Hamam, Karaman**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1383,38.4191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sanctuary of Klêdones outside Smyrna: Bir Kentin Tanrılarına Adanmış Bir Yer

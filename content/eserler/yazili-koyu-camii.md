@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.715551009,39.201178987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yazılı Köyü Camii: Eskişehir'in Gizli Cenneti

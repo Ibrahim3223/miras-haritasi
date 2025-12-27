@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8197002,37.5685005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kazandağ Arkeolojik Yerleşimi

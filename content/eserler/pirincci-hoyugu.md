@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.9763794,38.8083992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pirinççi Höyüğü: Elazığ'ın Gizli Arkeolojik Harikası

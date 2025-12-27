@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.223869,40.60388"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Pytheion: Antik Bir Arkeolojik Sit

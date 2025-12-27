@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0598946,40.9849701"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Namık Kemal Heykeli: Kadıköy'ün Yüce Ruhu

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9254551,41.0038414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yedi Şehitler Kabristanı, Silivrikapı

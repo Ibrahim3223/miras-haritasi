@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.649641,37.250317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Passala: Milas'ın Gizemli Arkeolojik Sitleri

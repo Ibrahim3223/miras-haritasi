@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9775848,38.8548851"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurtuluş Parkı ve Anıtı

@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.951472222,41.040666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinyaro Sinagogu: Beyoğlu'ndaki Eski Bir Sinagogun Gizemi

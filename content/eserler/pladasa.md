@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.079785,37.087317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pladasa: Türkiye'nin Gizli Arkeolojik Harikası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2397,40.29"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lala Baba Mezarlığı

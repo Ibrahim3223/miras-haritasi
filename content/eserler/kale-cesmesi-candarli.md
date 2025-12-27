@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.9330845,38.9338531"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kale Çeşmesi, Çandarlı: Dikili'nin Tarihi ve Kültürel Mirası

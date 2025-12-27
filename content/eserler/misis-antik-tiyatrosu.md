@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.6236295,36.9574204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Misis Antik Tiyatrosu

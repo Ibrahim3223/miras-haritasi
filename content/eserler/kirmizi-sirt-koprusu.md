@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.885533,41.07635"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırmızı Sırt Köprüsü

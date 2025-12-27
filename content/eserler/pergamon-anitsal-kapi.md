@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.184679,39.1318779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pergamon Anıtsal Kapı

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.8502789,36.1972198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Teimiussa Kale Yapısı: Antik Bir Mirasın İzleri Demre'de

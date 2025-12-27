@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.112258,41.234181"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarı Saltuk Türbesi, Rumelifeneri

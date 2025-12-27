@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7713509,41.3728561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Şaban-ı Veli Caddesi Çeşmesi

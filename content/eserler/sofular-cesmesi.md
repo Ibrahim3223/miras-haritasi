@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.71725,41.641861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofular Çeşmesi: Vize'nin Gizli Çeşmesi

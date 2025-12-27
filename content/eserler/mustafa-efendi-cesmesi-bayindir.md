@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6486912,38.2261734"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Efendi Çeşmesi, Bayındır

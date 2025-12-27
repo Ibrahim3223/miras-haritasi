@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.118972222,41.332805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tataleti Kilisesi: Eski Çağın Gizemi

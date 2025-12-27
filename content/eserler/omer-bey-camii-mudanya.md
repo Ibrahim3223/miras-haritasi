@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.886602,40.375353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ömer Bey Camii (Mudanya): Tarihi ve Kültürel Mirasın Işığında

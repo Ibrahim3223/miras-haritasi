@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.955536311,40.926138225"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zilkale Köyü Camii

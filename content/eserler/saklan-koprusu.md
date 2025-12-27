@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.1871262,37.3013573"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saklan Köprüsü: Tarihi ve Kültürel Mirasın Bir ParçASI

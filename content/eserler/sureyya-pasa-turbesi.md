@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1473484,40.9516449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süreyya Paşa Türbesi

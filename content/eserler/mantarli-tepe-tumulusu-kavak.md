@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.93027,41.142699"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mantarlı Tepe Tümülüsü Kavak

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.877017519,39.935081351"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Musiki Muallim Mektebi Müzik Müzesi

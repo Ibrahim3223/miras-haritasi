@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.871111111,37.427777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Padyandus Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.8911274,37.2301058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepeyolu Höyüğü: Şanlıurfa'nın Eski Kenti

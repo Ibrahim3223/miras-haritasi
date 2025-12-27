@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.386055,39.0863113"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kınık Kilisesi: İzmir'in Gizli Kahramanı

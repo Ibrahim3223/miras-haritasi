@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.693355555,41.405055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Koziri Kilisesi**

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8593941,39.938755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeğenbey Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi

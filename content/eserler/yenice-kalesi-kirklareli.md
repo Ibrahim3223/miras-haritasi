@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6365318,41.7581825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenice Kalesi, Kırklareli

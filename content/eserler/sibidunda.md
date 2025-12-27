@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.2991205,37.224609"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sibidunda: Bir Arkeolojik Sitin Gizemi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8034449,39.3880894"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kız Çiftliği: Balıkesir'in Gizli Cenneti

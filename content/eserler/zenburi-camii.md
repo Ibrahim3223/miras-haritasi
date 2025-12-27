@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4982948,37.8746643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zenburi Camii: Konya'nın Tarihi Bir Mirası

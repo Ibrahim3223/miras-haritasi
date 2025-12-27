@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.934275,41.038186"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kırımi Hüseyin Efendi Türbesi

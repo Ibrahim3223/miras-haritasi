@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.6717072,37.7067184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Güzelbeyli: Aydın'ın Tarihi Bir Harikası

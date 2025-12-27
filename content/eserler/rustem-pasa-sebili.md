@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9576721,41.0131302"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rüstem Paşa Sebili

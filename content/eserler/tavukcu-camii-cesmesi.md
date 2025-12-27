@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7110443,38.6256218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tavukçu Camii Çeşmesi**

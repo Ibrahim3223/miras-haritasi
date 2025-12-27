@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.589417,36.891587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Olosada Arkeolojik Sit

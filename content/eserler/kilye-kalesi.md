@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.3570328,40.2007828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilye Kalesi: Eceabat'ın Gizli Cenneti

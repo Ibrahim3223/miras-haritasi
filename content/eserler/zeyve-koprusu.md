@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4110432,38.1646271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeyve Köprüsü: Bir Geçit Köprüsüün Öyküsü

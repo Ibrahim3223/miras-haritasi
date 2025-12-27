@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9665642,41.010231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapalıçarşı Bodrum Handaki Çeşme

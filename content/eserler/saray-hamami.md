@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.285222222,41.132777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saray Hamamı: Ünye'nin Gizli Çeşmesi

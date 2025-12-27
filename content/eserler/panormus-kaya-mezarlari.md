@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.2813206,37.1273842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panormus Kaya Mezarları

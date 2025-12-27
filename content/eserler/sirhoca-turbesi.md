@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.2043991,40.0241013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sırhoca Türbesi: Sakarya'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.4268532,41.9061699"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karadere Kalesi: Türkiye'nin Gizli Kalesi

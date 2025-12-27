@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.5583477,41.6829491"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üç Adsız Kahraman Şehitliği

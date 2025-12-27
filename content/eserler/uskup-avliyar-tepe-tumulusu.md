@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4250183,41.7670746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üsküp Avliyar Tepe Tümülüsü: Kırklareli'nin Gizli Tarihi

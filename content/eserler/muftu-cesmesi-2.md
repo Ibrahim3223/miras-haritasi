@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.419287,40.284977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Müftü Çeşmesi 2: Şebinkarahisar'ın Tarihi Çeşmesi**

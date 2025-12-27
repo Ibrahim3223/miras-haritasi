@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0162515,41.0219253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeniçeşme Camii: Mimar Sinan'ın Üsküdar'ında Bıraktığı Miras

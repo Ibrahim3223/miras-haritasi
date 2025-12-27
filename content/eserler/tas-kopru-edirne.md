@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.5654564,41.6821938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Köprü, Edirne: Bir Ölümsüz Mabedi

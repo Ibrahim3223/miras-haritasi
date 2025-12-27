@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.0009193,38.9071579"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marnuk Kalesi

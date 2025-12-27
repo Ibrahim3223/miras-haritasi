@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3116283,37.6182556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprü 6, Altıntaş: Aydın'ın Tarihi Mirası

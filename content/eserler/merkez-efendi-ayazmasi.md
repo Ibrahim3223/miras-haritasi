@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9203014,41.0159874"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Merkez Efendi Ayazması

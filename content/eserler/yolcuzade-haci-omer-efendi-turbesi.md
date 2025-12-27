@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9696484,41.0264053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yolcuzade Hacı Ömer Efendi Türbesi

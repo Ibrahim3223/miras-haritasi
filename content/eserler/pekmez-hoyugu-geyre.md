@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.7246132,37.7071266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pekmez Höyüğü, Geyre: Aydın'ın Eski Uygarlık Mirası

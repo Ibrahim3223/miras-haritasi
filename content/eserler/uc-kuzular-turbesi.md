@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.056778,40.177104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üç Kuzular Türbesi

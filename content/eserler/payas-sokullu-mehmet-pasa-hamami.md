@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.2033195,36.7544289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Payas Sokullu Mehmet Paşa Hamamı: Hatay'ın Tarihsel Bir Mirası

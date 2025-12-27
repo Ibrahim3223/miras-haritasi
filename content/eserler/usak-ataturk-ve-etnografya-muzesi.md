@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.4026546,38.6838112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uşak Atatürk ve Etnografya Müzesi

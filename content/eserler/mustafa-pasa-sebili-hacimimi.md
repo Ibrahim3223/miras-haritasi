@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9801922,41.0269394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Paşa Sebili, Hacımimi

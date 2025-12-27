@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.0505543,40.0005455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Soğuksu Hamam Kalıntısı**

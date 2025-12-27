@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.981515,41.067967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Talat Paşa Anıt Mezarı

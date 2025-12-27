@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7383327,38.0790482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Nurettin Camii: İzmir'in Tarihi ve Kültürel Mirasının Bir Parçası

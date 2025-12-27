@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7673002,38.3726038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yılanı Höyük: Aksaray'ın Gizli Kahramanı

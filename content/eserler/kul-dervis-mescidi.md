@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8625183,39.9315681"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kul Derviş Mescidi: Ankara'nın Gizli Cenneti

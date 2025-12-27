@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.347538664,41.407551279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kadı Ali Camii Çeşmesi

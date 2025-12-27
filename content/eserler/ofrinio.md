@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.335,40.02277778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ofrinio: Çanakkale'nin Gizli Öreni**

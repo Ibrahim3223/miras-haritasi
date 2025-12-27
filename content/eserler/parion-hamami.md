@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.067759047,40.425746698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Parion Hamamı: Bir Antik Kentin Gizli Gizemi

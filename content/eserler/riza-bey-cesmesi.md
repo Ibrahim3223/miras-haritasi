@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2669716,39.9102554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rıza Bey Çeşmesi: Erzurum'un Bir Öyküsünü Taşıyan Tarihi Bir Çeşme

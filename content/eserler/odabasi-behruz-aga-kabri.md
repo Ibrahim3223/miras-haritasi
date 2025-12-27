@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9312954,41.012207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odabaşı Behruz Ağa Kabri: Fatih'in Gizli Değerleri

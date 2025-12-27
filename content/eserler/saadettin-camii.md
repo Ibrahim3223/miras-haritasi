@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9763203,39.4202728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Saadettin Camii

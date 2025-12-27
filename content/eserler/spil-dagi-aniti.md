@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5003033,38.5975723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Spil Dağı Anıtı: Tarihi ve Kültürel Miras

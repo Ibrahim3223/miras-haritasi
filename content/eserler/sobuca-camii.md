@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6797543,37.7619858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sobuca Camii: Aydın'ın Tarihi Bir Mirası

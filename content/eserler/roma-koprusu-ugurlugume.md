@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.1928,38.9691"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Roma Köprüsü, Uğurlugüme

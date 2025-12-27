@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.515604,37.9273224"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Germencik'teki Türbe 1: Aydın'ın Gizli Anıtı

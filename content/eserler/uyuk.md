@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.982283,38.6038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üyük Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.53566,37.45281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Kalesi: Milas'ta Bir Tarihî Eserin Gizemi

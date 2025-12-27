@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.962888888,41.010944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk Eczacılık Tarihi İhtisas Müzesi

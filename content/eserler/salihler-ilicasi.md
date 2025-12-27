@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.851655,39.177097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salihler Ilıcası: Dikili, İzmir'de Bir Ölümsüz Hamam

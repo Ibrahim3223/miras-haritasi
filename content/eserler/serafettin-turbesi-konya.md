@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4986839,37.8722076"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerafettin Türbesi, Konya

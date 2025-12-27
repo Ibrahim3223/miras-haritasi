@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.471544851,39.05736326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmanpaşa Çeşmesi: Arapgir'in Tarihi Bir Çeşmesi

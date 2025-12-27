@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.9016953,37.8395767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salat Cami Yanı: Bismil'in Gizli Mirası

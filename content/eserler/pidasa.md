@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.57211,37.401041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pidasa: Milas'ın Tarihî Bir Kahramanı

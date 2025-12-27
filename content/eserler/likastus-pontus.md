@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.450833333,41.2525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Likastus (Pontus)

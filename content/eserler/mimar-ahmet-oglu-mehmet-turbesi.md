@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3075008,38.3209991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mimar Ahmet Oğlu Mehmet Türbesi: Çeşme'nin Gizli Cenneti

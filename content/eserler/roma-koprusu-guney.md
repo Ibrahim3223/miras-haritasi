@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.0564499,38.119915"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Güney

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.878574896,39.647315525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Safiye Kadın Çeşmesi, Balıkesir

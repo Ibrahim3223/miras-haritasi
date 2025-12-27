@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.943741958,40.163019568"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Melikşah Köyü Taş Hamamı

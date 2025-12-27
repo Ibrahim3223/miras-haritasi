@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.1546116,36.7843704"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kastabos Hemithea Kutsal Alanı: Marmaris'in Gizli Cenneti

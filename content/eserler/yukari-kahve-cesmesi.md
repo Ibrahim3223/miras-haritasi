@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.96772,37.8561096"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Kahve Çeşmesi: Aydın'ın Efsanevi Abidesi

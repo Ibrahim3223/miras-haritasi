@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.9011555,38.2410337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koçyaka Höyük: Konya'nın Gizli Hazineleri

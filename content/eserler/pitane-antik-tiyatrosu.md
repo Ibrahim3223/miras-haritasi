@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "26.9379387,38.9299812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pitane Antik Tiyatrosu

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.353705574,37.943738522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yedi Uyurlar Mezarlığı: İzmir'in Gizli Cenneti

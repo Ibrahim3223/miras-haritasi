@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.612232073,40.605527468"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karataş Çeşmesi: Çankırı'nın İhtişamlı Çeşmesi

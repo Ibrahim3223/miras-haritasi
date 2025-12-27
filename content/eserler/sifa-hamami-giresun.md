@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.395579,40.916511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şifa Hamamı, Giresun

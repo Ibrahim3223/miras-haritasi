@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9506912,41.021843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rakım Mustafa Efendi Camii: Zeyrek'teki Bir Tarihi Çıkın

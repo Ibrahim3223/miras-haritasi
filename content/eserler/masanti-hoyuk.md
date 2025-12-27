@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.879385,38.933432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Masantı Höyük: Akhisar'ın Tarihi Mirası

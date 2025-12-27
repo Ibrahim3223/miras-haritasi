@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.66699,40.96824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phazemon Arkeolojik Sit

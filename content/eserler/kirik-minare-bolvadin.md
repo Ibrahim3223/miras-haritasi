@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.0422745,38.7398949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırık Minare, Bolvadin

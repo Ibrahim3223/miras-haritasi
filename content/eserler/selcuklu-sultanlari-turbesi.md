@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.492775,37.8733673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Selçuklu Sultanları Türbesi**

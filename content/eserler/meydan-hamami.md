@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.1640906,36.2036474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Meydan Hamamı

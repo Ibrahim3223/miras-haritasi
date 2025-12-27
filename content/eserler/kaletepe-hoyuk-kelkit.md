@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.437772,40.064356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kalitepe Höyük Kelkit: Gümüşhane'nin Gizli Anıtı

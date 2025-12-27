@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.410030629,40.156621848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Necip Paşa Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9232063,41.4019318"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kumköy Eski Mezarlığı: Tarihî ve Kültürel Mirasımız

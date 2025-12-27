@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.995409,37.496187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kormasa: Burdur'un Gizli Örtüsü**

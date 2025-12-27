@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.124369,39.589779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocakayaviranı: Eskişehir'in Gizli İhtişamı

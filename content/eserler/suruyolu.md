@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4683866,36.2558217"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sürüyolu Arkeolojik Sit

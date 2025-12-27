@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.955351,41.023611"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahir Ağa Camii: Fatih'te Bir Kent Tarihçesi

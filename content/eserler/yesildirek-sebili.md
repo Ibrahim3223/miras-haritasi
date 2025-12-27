@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.969315,41.025356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşildirek Sebili: İstanbul'un Gizli Çeşmesi

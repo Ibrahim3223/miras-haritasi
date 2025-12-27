@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.068224,38.2587204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kale Medresesi: Ödemiş'in Tarihî ve Kültürel Mirası

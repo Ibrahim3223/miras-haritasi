@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.578397,40.556055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Krom Vadisi Zemberek Kilisesi

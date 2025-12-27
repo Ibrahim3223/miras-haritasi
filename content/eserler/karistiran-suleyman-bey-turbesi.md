@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0451889,40.1902695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karıştıran Süleyman Bey Türbesi

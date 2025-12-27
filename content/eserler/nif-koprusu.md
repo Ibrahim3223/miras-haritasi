@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6164742,38.5052681"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nif Köprüsü: Manisa'nın Tarihi ve Güçlü Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "42.4162764,39.2310251"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nurettin Höyüğü: Bitlis'in Gizli Ören Yeri

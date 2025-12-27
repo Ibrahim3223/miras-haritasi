@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9615536,41.0046539"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Surp Hreşdagabet Kilisesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9735107,41.0243263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sankt Georgs Katolik Kilisesi

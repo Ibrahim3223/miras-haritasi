@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9608,40.7953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kale Köyü Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası

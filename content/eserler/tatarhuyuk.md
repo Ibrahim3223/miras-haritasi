@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4381449,39.3964823"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatarhüyük: Tarihî Bir Mirasın Gerçek Yüzü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1743488,39.2370758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerif Paşa Camii: Sındırgı'nın Değerli Camii Anıtı

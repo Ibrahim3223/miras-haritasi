@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.362636521,38.132871819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadılar Höyük

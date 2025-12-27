@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.045691,40.191457"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmanlı Evi Müzesi

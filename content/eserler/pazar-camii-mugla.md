@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3642998,37.218399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pazar Camii, Muğla

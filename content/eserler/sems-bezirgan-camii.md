@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.1188354,39.3731155"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şems Bezirgan Camii

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.5860023,39.7869492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızlar Kalesi: Erzincan'ın Tarihsel Mirası

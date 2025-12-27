@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4803772,38.7121124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Karacaoğlu Camii Çeşmesi**

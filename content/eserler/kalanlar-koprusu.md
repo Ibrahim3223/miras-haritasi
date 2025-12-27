@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.0231895,38.3729286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalanlar Köprüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.921111111,40.170305555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Lagania Arkeolojik Sit

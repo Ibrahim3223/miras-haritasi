@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3473186,41.4959831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tatarköy Kocatepe A Tümülüsü

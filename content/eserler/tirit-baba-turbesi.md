@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.5653076,41.6836586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tirit Baba Türbesi: Edirne'nin Gizli Cenneti

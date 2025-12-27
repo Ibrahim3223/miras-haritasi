@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.479323702,39.060309261"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapıcıoğlu Çeşmesi, Arapgir

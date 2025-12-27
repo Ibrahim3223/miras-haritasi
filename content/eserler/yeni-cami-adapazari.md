@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.4040661,40.7728844"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yeni Cami (Adapazarı)**

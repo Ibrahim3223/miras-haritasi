@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.0209117,39.7500439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Meydan Hamamı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.021564856,39.594285796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mahkeme Camii (Edremit)

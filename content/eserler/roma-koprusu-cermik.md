@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.463665,38.0552649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Çermik

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.441183,40.928167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalkandere Köprüsü: Tarihi ve Kültürel Mirası Tanıtımı

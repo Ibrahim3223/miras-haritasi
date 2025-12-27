@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7288917,37.3437008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıçay Köprüsü

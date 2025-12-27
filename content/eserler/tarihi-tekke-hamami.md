@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.0301876,41.0239273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Tarihi Tekke Hamamı**

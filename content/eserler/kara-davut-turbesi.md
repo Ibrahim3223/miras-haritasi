@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.9624004,40.1971016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Davut Türbesi: Beypazarı'nın Ölümsüz Yüzyılları

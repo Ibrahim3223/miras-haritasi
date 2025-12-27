@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.051652,41.023119"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tophanelioğlu Meydan Çeşmesi

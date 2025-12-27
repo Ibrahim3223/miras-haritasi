@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.087551217,40.537886131"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kayılar Mahallesi Çeşmesi, Orta

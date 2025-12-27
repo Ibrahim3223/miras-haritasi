@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.479435,38.7186852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara İmam Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası

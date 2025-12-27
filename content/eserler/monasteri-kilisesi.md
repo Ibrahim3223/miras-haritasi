@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.655722222,41.421666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Monasteri Kilisesi

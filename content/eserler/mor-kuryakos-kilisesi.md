@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.4583359,37.4567032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mor Kuryakos Kilisesi**

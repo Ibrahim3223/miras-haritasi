@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8460007,40.1733017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Votar Mevki Manastırı: Gökçeada'nın Gizemli Manastırı

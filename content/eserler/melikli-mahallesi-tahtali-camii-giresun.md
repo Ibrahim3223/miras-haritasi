@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.304987,40.769183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Melikli Mahallesi Tahtalı Camii, Giresun

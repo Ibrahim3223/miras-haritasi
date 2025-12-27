@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.484993,38.7161293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Setenönü Hamamı Çeşmesi

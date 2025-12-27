@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.928915,40.9958076"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Studios Manastırı Ayazması, Yedikule

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.138217,39.013833"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kızılkilise: Kütahya'nın Gölgeli Şehri Altıntaş'ta Gizlenen Tarihi Bir Anıt

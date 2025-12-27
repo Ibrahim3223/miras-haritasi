@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "42.5401344,38.4898949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sorp Surp Garabed Manastırı Tanıtımı

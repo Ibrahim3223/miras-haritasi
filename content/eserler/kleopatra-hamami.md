@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1527996,39.101799"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kleopatra Hamamı: Bergama'nın Antik Mirası

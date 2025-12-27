@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.7363701,36.859726"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şıh Rih Türbesi: Mersin'in Gizli Çeşmesi

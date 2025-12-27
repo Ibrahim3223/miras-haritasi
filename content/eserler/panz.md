@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.5434,38.911665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panz Kalesi

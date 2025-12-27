@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5147018,40.978199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Orta Cami, Tekirdağ

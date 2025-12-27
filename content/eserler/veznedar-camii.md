@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.3269196,41.2425957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veznedar Camii

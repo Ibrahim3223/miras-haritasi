@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9705693,41.0119017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Giriş

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.84721,40.39931"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Ahmed Cağırgan Veli Türbesi

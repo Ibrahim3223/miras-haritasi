@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7723083,41.3766975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yakup Ağa Camii, Kastamonu

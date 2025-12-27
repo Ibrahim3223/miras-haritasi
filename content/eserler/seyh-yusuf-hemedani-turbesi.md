@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.951542,37.181784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Yusuf Hemedani Türbesi

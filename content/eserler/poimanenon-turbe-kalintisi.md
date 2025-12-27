@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.0560875,40.0023613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Poimanenon Türbe Kalıntısı

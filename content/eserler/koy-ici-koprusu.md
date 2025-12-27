@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7888374,38.0489388"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köy İçi Köprüsü: Tarihi ve Kültürel Miras

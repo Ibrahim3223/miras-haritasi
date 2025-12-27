@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.76138889,41.97805556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pompeiopolis: Türkiye'nin Gizli Arkeolojik Harikası

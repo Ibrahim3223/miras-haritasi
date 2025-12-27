@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9313335,41.0096626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Seydi Seyfullah Baba Türbe ve Haziresi

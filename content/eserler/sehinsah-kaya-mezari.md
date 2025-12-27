@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7780991,41.3835068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şehinşah Kaya Mezarı

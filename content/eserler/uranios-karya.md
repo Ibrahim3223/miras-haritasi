@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8611,37.0429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Uranios (Karya): Bodrum'un Gizli Harikası

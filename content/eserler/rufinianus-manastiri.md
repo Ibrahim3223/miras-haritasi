@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.02777778,40.98888889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rufinianus Manastırı: Kadıköy'de Bir Tarihi Miras

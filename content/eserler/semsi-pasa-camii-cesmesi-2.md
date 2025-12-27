@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.010699,41.025814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şemsi Paşa Camii Çeşmesi 2: Üsküdar'ın Güzelliği

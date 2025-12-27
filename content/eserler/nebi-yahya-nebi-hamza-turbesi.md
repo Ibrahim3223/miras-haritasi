@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.9852448,36.0630989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Nebi Yahya Nebi Hamza Türbesi

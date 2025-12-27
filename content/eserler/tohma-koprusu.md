@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.23863,38.50483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tohma Köprüsü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2092857,40.0950241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarıtepe Şehitliği: Türkiye'nin Çanakkale Savaşı'nın Kayıtlarını Taşıyan Önemli Bir Anıt

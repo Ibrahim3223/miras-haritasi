@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6739578,37.9695091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şerif Ali Türbesi: Niğde'nin Tarihi ve Kültürel Mirası

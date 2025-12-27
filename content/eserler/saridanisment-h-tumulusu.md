@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8261738,41.8672104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarıdanişment H Tümülüsü: Edirne'nin Tarihi ve Kültürel Mirası

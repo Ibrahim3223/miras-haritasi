@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.3429555,40.286922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tattaios: Tarihi ve Kültürel Mirasın Gizli Çehresini Keşfetmek

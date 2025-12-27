@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.56194444,36.82527778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemerarası Köprüsü: Muğla'nın Tarihi Cenneti

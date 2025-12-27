@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.3882866,41.7493553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçük Kilise, Amasra

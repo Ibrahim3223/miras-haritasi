@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7415104,40.5488243"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kardia Antik Kenti

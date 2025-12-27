@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.2301006,38.1992989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Umurcalı Höyüğü**

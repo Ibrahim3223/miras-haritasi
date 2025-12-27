@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.6914921,39.4447632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyitgazi Bor ve Etnoğrafya Müzesi

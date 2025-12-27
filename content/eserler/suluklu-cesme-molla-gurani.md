@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.945031,41.0119771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sülüklü Çeşme: Molla Gürani'nin Efsanevi Çeşmesi

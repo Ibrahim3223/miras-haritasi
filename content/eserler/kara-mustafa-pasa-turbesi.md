@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0415726,40.1924973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kara Mustafa Paşa Türbesi: Bursa'nın Güzelliğine Bir Katkı

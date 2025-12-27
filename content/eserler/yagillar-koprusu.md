@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.7515583,39.1646004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yağıllar Köprüsü: Simav'ın Tarihi Bir Anıtı

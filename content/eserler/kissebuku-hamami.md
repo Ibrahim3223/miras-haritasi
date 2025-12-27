@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.646719601,36.997940461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kissebükü Hamamı: Bodrum'un Gizli Cenneti

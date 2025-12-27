@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.205996,36.992607"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kedrai Antik Tiyatrosu

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.011100038,41.050049168"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yıldız Sarayı Saltanat Kapısı

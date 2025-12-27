@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.972032757,40.999420235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şenyuva Köyü Çeşmesi: Çamlıhemşin'in Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2511177,39.9920158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kumkale Şehitliği**

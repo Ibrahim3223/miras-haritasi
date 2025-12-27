@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "40.746210709,37.314867825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mardin Sakıp Sabancı Kent Müzesi

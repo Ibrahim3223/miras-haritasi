@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.7293625,37.6809998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Teylimasar Kalesi

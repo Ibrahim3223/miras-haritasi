@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.811083,38.265133"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pekmez Höyük: Denizli'nin Gizli Anıtı

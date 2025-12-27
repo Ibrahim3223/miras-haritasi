@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.931301,41.004895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ramazan Efendi Türbesi

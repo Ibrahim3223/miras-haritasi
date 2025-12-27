@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.623538,41.3093727"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kokulet Deresi Köprüsü

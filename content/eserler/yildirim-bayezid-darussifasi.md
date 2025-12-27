@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0856018,40.1862488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yıldırım Bayezid Darüşşifası: Bursa'nın Ölümsüz Mirası

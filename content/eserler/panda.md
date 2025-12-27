@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3789,38.7106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yunusemre Panda Arkeolojik Sit

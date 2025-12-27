@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.3013954,37.842411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenipınar Kilisesi: Batman'ın Gizemli Kilisesi

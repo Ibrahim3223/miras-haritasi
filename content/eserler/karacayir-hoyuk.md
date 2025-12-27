@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.656525,39.2369276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaçayır Höyük: Kültürel Mirasın Gizli Yerleri

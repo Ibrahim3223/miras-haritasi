@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.7272148,37.5858612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sürgücü Ahmet Ağa Köprüsü

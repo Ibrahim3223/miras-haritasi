@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.5570488,40.3144569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Murat Sevdâkâr Türbesi

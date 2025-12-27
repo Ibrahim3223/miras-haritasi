@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.2467995,40.2140999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Süngütaşı Zivin Kalesi

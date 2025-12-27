@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.160058,38.6128901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kocaoğuz Höyüğü: Afyonkarahisar'ın Gizli Klasik Mirası

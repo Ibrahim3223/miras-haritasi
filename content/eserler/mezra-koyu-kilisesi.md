@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.1821175,40.7185936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mezra Köyü Kilisesi

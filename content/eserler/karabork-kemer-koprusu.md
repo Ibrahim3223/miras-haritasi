@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.037153,40.873201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabörk Kemer Köprüsü

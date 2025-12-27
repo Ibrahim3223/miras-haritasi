@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6781521,40.4110985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaptan-ı Derya Saruca Paşa Türbesi

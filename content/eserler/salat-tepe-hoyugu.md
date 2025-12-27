@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.901980194,37.839483647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Salat Tepe Höyüğü: Diyarbakır'ın Gizli Öyküsü

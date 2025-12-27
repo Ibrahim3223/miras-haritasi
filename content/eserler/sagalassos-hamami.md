@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.518833,37.675827"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sagalassos Hamamı: Ağlasun'un Gizemi

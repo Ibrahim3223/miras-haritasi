@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8457546,41.805912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Sülecik C Tümülüsü: Edirne'nin Gizemli Arkeolojik Sit**

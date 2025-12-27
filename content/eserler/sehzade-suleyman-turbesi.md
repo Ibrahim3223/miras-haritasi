@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.6510258,40.2640686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehzade Süleyman Türbesi: Bursa'nın Gizli Çehresini Açığa Çıkaran Anıtsal Yapı

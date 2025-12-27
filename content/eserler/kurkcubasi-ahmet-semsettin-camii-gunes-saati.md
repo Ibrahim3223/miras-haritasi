@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9281158,41.0185585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kürkçübaşı Ahmet Şemsettin Camii Güneş Saati

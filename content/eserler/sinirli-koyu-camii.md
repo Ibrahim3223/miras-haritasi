@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6800537,38.5979156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinirli Köyü Camii

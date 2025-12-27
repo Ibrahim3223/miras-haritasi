@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.8679,40.3441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sofi Ahmet Türbesi

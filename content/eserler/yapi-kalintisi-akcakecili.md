@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.1872654,39.7103958"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ezine'nin Tarihi Hamamı: Akçakeçili Hamamı'nın İzleri

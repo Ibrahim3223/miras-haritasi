@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.5538101,37.3179207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mor Stefanos Süryani Kadim Kilisesi

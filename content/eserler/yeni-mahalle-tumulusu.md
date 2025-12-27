@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2958412,40.3958435"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Mahalle Tümülüsü

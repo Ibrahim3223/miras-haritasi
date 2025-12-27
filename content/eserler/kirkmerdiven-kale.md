@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.444367315,39.106268379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kırkmerdiven Kale

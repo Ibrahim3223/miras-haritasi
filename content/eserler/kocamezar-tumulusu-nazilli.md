@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3771,37.792099"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocamezar Tümülüsü, Nazilli: Aydın'ın Tarihî Mirası

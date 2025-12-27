@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.3472744,39.4870271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Karayavşan Höyüğü: Polatlı'da Gizli Bir Tarih

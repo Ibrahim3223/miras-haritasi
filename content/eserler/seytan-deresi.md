@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0216389,37.5530167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şeytan Deresi Arkeolojik Sit

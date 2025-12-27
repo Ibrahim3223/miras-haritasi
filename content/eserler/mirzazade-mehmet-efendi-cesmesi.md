@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.021401,41.027687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mirzazade Mehmet Efendi Çeşmesi

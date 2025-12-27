@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "30.7039814,36.8882446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Müsellim Camii: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Açıklarken

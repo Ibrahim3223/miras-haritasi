@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.3167248,40.2834549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mihal Gazi Camii: Gölpazarı'nın Tarihi Bir Yapısı**

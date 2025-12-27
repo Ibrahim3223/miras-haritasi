@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.5044975,37.8704529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mevlana Külliyesi Meydan-ı Şerif

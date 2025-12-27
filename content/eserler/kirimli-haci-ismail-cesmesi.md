@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.5549812,40.8460655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kırımlı Hacı İsmail Çeşmesi**

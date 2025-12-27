@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.403486,37.04481"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kunt Model Müzesi: Bodrum'un Gizli Çeşmesi

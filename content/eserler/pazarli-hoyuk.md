@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.9516,40.3253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Pazarlı Höyük: Çorum'un Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.2102776,37.8933411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yatır Türbesi, Atça

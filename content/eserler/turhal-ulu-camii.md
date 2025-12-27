@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.090305555,40.387138888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Turhal Ulu Camii Tanıtımı

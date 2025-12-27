@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.9285469,39.7218971"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Savaş Atları Müzesi, Sivas

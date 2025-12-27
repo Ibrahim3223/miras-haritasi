@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.0660172,38.60812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tezveren Şeyh Kamil Türbesi

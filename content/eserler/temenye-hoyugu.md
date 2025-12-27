@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.2538376,40.8726082"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Temenye Höyüğü

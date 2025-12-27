@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.638611,36.7675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tell Halid Arkeolojik Sit

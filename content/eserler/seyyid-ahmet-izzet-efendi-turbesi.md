@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.949,41.0257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Ahmet İzzet Efendi Türbesi

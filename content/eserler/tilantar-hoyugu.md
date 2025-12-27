@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.4974852,36.9177324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tilantar Höyüğü: Şanlıurfa'nın Gizli Kahramanı

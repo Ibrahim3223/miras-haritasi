@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.972023,41.0081253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprülü Mehmet Paşa Medresesi

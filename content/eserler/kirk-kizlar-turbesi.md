@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.053992,38.372872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kırk Kızlar Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.459343,41.4452019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sakızköy Büyük Tümülüs

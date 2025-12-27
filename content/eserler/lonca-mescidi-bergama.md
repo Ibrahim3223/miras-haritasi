@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1788883,39.1224518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Lonca Mescidi: Bergama'nın Tarihî Mirası

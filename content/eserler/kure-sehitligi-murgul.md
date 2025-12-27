@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.570591,41.292516"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Küre Şehitliği: Murgul'un Anıtı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.9778633,37.026825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tekke Camii: Birecik'te Bir Tarihî Eserin Gizemi

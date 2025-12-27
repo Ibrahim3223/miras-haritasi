@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.026710511,40.089660468"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Soğukkuyu Mescidi: Nallıhan'ın Tarihi Bir Mirası

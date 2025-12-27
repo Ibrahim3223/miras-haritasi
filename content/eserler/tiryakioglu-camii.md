@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5597992,40.9536018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tiryakioğlu Camii

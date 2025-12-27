@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.308374,39.7759589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemiktepe Arkeolojik Sit

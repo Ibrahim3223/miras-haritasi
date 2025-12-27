@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.532790845,39.543218926"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kirse Mevkii Çeşmesi: Ayvacık'ın Tarihi Bir Çeşmesinde Keşfetmek

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9080448,40.9871979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zeytinburnu Askeri Hastanesi: Türkiye'nin Tarihi ve Kültür Mirasının Bir Parçası

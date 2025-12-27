@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.22771,37.40567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Panormus (Karya)

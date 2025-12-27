@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3669643,37.9484978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Saadet Hatun Hamamı

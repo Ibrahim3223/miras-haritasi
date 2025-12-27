@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0067005,39.8330612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaağaç Tümülüsü: Bozüyük'ün Gizli Çağı

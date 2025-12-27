@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.1098003,37.6380997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavşit Arkeolojik Yerleşimi ve Nekropolü

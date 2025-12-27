@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0203896,39.7493858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivas Meydan Camii

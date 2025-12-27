@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.681015,37.9698982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahinali Camii: Niğde'nin Tarihi ve Kültürel Mirası

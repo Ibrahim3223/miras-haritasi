@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8546257,39.9150047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Madenci Heykeli, Çankaya

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.954055555,41.110361111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şagora Kilisesi

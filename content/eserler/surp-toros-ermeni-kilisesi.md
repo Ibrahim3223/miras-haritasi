@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.5736255,38.7161595"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Toros Ermeni Kilisesi: Kayseri'nin Gizli Hazinesi

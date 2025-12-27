@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5405731,39.4465218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmancık Çeşmesi

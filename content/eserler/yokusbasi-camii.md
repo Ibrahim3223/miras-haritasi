@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.439883,37.855326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yokuşbaşı Camii tanıtımı

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.2326031,36.3333855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pydnai Kilisesi

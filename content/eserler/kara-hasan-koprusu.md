@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.5506897,38.7220459"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kara Hasan Köprüsü

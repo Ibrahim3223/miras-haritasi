@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.488282469,38.721202116"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kale Camii Çeşmesi: Kayseri'nin Gizli Çehresi

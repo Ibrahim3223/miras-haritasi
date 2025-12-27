@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7108364,37.8798904"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tümülüs 1, Karabağ: Aydın'ın Gizli Şehri

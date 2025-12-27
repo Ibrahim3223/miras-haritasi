@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0675,41.020483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yukarışimşirli Keçman Köprüsü: Tarihi ve Mimarisi**

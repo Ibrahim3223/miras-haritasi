@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9774857,41.0131989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kayış Mustafa Ağa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8809376,41.2480392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Velimeşe Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Örnekleri Arasındaki Bir Düzenek

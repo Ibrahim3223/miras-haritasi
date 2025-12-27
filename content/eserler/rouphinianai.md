@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.068587,40.964583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rouphinianai: Türkiye'nin Gizli Arkeolojik Mirası

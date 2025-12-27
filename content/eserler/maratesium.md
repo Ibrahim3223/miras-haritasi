@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.254483,37.829287"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Maratesium: Tarihî Bir Mirasın Gizemi

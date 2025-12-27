@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8558388,40.7792816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mirza Bey Camii: Çerkeş'te Bir Ölümsüz Miras

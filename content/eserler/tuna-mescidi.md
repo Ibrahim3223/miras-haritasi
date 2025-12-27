@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2293015,40.7060013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tuna Mescidi: Karadeniz'in Gizli Mimarisi

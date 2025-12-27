@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.400559,38.730968"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Skandos: Tarihî Bir Arkeolojik Sit

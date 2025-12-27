@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.8355,37.8727"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Piri Halife Sultan Türbesi**

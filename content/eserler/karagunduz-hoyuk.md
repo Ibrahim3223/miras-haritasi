@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.6445618,38.6959038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karagündüz Höyük: Tarihi ve Kültürel Değerleri

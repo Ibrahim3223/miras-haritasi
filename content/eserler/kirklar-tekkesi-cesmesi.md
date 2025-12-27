@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.510006,40.9819336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kırklar Tekkesi Çeşmesi

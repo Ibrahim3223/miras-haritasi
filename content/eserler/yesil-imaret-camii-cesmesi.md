@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7335186,38.0857086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeşil İmaret Camii Çeşmesi: Tarihi ve Kültürel Mirasın Parçası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.1063156,38.4004097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kalealtı Camii Tanıtımı

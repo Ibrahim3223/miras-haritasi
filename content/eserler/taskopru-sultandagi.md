@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.2914524,38.5835648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taşköprü, Sultandağı: Afyonkarahisar'ın Tarihi Köprüsü

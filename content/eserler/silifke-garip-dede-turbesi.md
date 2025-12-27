@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9248631,36.373417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Silifke Garip Dede Türbesi: Bir Ziyaretçi Cenneti

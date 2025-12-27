@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0586014,40.1882057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veled-i Saray Camii: Bursa'nın Tarihi ve Kültürel Bir Mirası

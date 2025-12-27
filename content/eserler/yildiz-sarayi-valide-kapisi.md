@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.01117288,41.04980729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldız Sarayı Valide Kapısı

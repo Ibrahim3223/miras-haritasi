@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.867704,40.982305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Zuhurat Baba Türbesi

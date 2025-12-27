@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0732,40.1816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk-İslam Eserleri Müzesi

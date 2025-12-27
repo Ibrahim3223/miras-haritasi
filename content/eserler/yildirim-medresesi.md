@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.8830814,39.6507835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yıldırım Medresesi

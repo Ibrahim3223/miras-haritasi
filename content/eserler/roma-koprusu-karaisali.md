@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.0024672,36.1604191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Karaisalı

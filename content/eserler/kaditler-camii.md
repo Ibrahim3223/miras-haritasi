@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9747696,39.4205399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kadıtedir Camii: Kütahya'nın Tarihi Bir İmaratı**

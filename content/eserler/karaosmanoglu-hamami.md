@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.677681,38.9926949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karaosmanoğlu Hamamı

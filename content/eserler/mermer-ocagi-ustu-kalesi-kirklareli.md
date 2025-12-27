@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5102959,41.8675652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mermer Ocağı Üstü Kalesi: Kırklareli'nin Gizli Mirası

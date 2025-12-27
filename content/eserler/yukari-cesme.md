@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2999992,37.0849991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Çeşme: Bodrum'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.6096649,37.5613174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Mor Aho Kilisesi**

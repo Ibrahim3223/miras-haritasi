@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.46467,36.983902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Termessos Gymnasion ve Hamam Kompleksi

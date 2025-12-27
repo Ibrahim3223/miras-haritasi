@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.671938,40.40858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Buhari Kabri: Gelibolu'nun Tarihî Bir Anıtı

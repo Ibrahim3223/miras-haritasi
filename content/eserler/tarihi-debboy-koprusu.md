@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4152318,39.0457751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tarihi Debboy Köprüsü: Gediz'in Gizli Cenneti

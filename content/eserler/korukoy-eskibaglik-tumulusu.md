@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3303986,41.8699379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koruköy Eskibağlık Tümülüsü

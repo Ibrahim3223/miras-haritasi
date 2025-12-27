@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.926355,41.021606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Top Kapısı

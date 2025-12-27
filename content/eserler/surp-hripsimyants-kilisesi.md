@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.039585,41.159314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Surp Hripsimyants Kilisesi

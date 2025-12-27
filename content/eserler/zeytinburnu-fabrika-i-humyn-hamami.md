@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9055176,40.9818611"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zeytinburnu Fabrika-i Hümâyûn Hamamı: İstanbul'un Gizli Cenneti

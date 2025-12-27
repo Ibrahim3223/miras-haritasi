@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.058161,41.068436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Sait Efendi Çeşmesi

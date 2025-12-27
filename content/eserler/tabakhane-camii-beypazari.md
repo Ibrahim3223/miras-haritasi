@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9199104,40.1693192"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabakhane Camii, Beypazarı

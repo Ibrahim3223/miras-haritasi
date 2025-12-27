@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.8162193,38.2323494"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kerar Kalesi: Pütürge'nin Tarihî Ören Yeri

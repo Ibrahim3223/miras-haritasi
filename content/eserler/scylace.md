@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.388808,40.387037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Scylace: Bursa'nın Gizli Cenneti

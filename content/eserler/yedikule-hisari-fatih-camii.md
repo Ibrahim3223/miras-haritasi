@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9233437,40.9931831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yedikule Hisarı Fatih Camii

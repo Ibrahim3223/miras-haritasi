@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.19981,40.0061417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumkale Kalesi Hamamı

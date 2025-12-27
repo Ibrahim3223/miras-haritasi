@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1383,38.41905"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sanctuary of the Nemeses in Smyrna: İzmir'in Tarihî Mirası

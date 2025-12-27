@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.813608333,39.039780555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kanai, Bademli: Dikili'nin Gizli Cenneti**

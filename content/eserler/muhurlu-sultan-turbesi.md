@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.066637,38.6094666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mühürlü Sultan Türbesi: Menemen, İzmir'de Eine Geçmişin Anıtı

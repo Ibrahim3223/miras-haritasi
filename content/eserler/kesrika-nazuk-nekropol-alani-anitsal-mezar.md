@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.915799742,37.639766576"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kesrika Nazukê Nekropol Alanı Anıtsal Mezar

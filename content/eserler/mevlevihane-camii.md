@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7909546,37.1493111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mevlevihane Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası

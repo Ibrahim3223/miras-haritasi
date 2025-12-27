@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.2478769,36.800898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karabıyık Dede Türbesi

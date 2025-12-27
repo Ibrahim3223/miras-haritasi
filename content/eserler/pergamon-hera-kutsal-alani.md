@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.1856041,39.1273956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Pergamon Hera Kutsal Alanı**

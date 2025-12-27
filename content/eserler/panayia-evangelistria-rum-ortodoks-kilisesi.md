@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0527382,41.1013985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Panayia Evangelistria Rum Ortodoks Kilisesi

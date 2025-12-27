@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.291833333,40.632083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kargluhi Kilisesi (Büyük)

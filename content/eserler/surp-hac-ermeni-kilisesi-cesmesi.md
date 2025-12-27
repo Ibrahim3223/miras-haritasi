@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0349125,41.0604636"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surp Haç Ermeni Kilisesi Çeşmesi

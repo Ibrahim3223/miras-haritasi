@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9743156,41.0055275"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Üçler Mescidi, Sultanahmet**

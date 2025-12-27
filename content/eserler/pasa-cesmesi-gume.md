@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7534065,38.0555763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşa Çeşmesi, Güme

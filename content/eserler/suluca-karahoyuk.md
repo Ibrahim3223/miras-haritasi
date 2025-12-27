@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.561405,38.946934"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suluca Karahöyük: Geçmişin Ölümsüz Anıtları

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.820111111,40.649777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Torumtay Türbesi: Amasya'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8547096,39.9423752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oturan Atatürk Anıtı

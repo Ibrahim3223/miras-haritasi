@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.3480263,38.8686371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yoncalıöz Höyüğü: Tarih ve Kültür Mirasının Gizemli Yerleri

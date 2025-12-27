@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2888184,39.9060593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Öksürük Baba Türbesi

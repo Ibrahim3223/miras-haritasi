@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.7849998,38.1939011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sığacık Hamamı: Seferihisar'ın Tarihî ve Kültürel Mirası

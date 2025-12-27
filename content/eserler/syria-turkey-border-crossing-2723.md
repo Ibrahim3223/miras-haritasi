@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "42.162988292,37.273171635"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Suriye - Türkiye Sınırında 2723 Numaralı Sınır Geçidi Kervansarayı

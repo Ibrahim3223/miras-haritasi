@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.3573875,37.512001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Meydan Kalesi: Aladağ'ın Gizli Çehresi**

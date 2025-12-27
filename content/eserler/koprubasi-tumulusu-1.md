@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.0290985,38.6888199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Köprübaşı Tümülüsü 1: Bünyan'ın Gizli İnsanları

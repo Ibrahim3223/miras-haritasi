@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "39.72112,41.005019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Trabzon Tarih Müzesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8685697,38.5059806"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taşlıyer Höyüğü: Aksaray'ın Gizli Zirvesi

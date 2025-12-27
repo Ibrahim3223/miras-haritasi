@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.227622,41.168505"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ege'nin Gizemi: Rhoe Antik Kenti

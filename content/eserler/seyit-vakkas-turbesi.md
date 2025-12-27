@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.387922,40.91793"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Seyit Vakkas Türbesi

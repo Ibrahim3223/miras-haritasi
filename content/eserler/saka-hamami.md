@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.1661263,36.2034607"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saka Hamamı: Antakya'nın Tarihî Bir Mirası

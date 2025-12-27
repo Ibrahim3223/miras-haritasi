@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.6331768,40.0464096"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivricetepe Kalesi: Çanakkale'nin Gizli Çehresi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8231964,40.6492004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Kadılar Türbesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sokullu Mehmed Paşa Camii: Bir Osmanlı Dönemi Mirası

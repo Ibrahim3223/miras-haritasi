@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.790818,40.395248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lapseki'nin Gizli Anıtı: Pesus Arkeolojik Sit

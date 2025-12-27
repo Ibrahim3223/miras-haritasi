@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9505062,41.012352"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Bey Kabri: İstanbul'un Gizli Tarihi

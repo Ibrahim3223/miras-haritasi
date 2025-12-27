@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9835129,39.4171753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saray Hamamı, Kütahya

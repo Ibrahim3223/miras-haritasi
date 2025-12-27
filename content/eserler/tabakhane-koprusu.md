@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.860836,39.9430199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tabakhane Köprüsü

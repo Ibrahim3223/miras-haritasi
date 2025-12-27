@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.924947,37.142961"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Lagbe: Türkiye'nin Gizli Arkeolojik Mirası

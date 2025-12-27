@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.1620216,36.2017822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Hüseyin Efendi Türbesi

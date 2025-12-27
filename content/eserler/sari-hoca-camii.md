@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6680336,39.1002083"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sarı Hoca Camii: Kırkağaç'taki Bir Tarihsel Çanı

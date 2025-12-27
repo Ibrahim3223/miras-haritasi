@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9751339,39.4182472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Paşam Sultan Türbesi

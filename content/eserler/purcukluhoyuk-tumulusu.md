@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.0423813,39.7578278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pürçüklühöyük Tümülüsü: Yozgat'ın Gizli Mirası

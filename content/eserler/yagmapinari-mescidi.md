@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7322273,37.8231621"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yağmapınarı Mescidi: Konya'nın Tarihî bir Camisi

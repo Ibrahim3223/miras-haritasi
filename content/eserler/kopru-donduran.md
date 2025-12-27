@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.2439003,37.8272018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Donduran Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

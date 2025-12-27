@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.953206,41.022065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kepos Arkeolojik Sit

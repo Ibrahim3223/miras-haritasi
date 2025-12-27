@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.7847366,38.1941032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sığacık Mescidi: Seferihisar'ın Tarihî Bir Mirası

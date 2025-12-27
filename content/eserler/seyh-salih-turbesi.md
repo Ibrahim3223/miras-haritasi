@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.743689,37.310246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şeyh Salih Türbesi

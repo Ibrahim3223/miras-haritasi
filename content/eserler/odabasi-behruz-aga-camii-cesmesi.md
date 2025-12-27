@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.931023,41.012239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Odabaşı Behruz Ağa Camii Çeşmesi

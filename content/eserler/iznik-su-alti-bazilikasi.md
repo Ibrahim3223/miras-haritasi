@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.7098,40.4258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İznik Su Altı Bazilikası: Bir Bizans Mirası

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.4763992,40.4982695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keramet Ilıcası: Bursa'nın Tarihi Hamamı

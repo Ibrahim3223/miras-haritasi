@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9718323,41.0170898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Cami Şadırvanı: İstanbul'un Tarihî Kısmına Dikkat Çeken Bir Çeşme

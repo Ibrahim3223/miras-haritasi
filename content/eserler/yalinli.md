@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.380364,39.696964"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yalınlı Arkeolojik Sit**

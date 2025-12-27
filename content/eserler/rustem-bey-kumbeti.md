@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.846410289,37.416965358"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rüstem Bey Kümbeti: Seydişehir'in Tarihi ve Kültürel Mirası

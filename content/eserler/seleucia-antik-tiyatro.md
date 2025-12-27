@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.9237251,36.3749084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seleucia Antik Tiyatro: Mersin'in Gizli Hazineleri

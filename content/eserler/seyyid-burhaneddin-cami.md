@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4958611,38.7148857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Burhaneddin Cami

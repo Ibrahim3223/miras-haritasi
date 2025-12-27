@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7893734,37.2740822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kale Çeşmesi: Milas'ın Tarihi ve Kültürel Bir Mirası

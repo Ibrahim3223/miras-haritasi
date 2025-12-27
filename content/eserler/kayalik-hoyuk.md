@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6362046,39.4408124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kayalık Höyük**

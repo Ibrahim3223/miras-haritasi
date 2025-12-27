@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9348164,41.0376816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Otakçılar Sebili, Defterdar: İstanbul'un Tarihi Bir Çeşmesi

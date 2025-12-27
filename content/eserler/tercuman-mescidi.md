@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4990768,37.8756981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tercüman Mescidi: Konya'nın Tarihi Bir Mirası

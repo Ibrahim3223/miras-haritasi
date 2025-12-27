@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.529969,36.378504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kırcaoğlu Höyüğü

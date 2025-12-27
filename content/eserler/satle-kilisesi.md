@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.331166666,41.259277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Satle Kilisesi

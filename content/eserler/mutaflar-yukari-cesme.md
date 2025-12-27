@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4632988,40.7332497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Mutaflar Yukarı Çeşme

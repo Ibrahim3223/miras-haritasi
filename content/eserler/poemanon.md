@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.892299,40.07897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Poemanen Arkeolojik Sitesi

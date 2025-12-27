@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.248,37.2903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pogla Arkeolojik Sit

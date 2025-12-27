@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "41.3733864,37.4152985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mardin'in Örenleri Arasındaki Bir Dilek: Midyat Saat Kulesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9769592,41.0069466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sultan Ahmet Külliyesi Sebili 6

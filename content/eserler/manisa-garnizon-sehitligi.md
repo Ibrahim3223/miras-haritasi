@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4440079,38.6147423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Manisa Garnizon Şehitliği

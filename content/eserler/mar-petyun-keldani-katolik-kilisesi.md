@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "40.2380219,37.9107323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mar Petyun Keldani Katolik Kilisesi: Diyarbakır'ın Gizli Değerleri

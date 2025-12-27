@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.225021,40.254366"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şair Zihni Anıtı Bayburt

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2811356,37.5292244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Milet Capito Hamamı: Tarihi ve Kültürel Miras

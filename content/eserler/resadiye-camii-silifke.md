@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.9322357,36.3766937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Reşadiye Camii, Silifke: Tarih, Mimarisi ve Ziyaret Bilgileri

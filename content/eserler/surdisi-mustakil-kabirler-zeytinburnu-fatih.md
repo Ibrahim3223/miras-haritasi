@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9175529,40.9916878"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surdışı Müstakil Kabirler, Zeytinburnu-Fatih

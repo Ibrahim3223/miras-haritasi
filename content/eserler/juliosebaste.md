@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.474166666,36.177777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Juliosebaste: Antik Şehirin İzleri

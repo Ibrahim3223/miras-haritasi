@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.329527777,36.987222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeşil Mescit: Tepebağ'ın Tarihsel Çatısı

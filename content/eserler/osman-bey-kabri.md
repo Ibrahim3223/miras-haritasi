@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0158253,41.0266762"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osman Bey Kabri

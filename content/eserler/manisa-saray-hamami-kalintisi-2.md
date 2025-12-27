@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.4343643,38.6154022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Manisa Saray Hamamı Kalıntısı

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.955020495,37.041567849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keramos Hamamı

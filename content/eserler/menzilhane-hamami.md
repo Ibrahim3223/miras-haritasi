@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.4379883,40.7977867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Menzilhane Hamamı: Gebze'nin Tarihî Mirası

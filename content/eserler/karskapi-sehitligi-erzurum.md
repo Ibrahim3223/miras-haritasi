@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2937927,39.9058533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Karskapı Şehitliği: Anıtsal Bir Anıtın Tarihi ve Kültürel Mirası

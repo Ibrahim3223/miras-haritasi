@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.916851,40.1698303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Türk Hamam Müzesi

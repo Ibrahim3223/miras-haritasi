@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "28.9732227,40.8753395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sivriada Manastırı: Adalar'ın Gizli Cenneti

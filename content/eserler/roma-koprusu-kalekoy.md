@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.612796,37.4572475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Kaleköy: Karaman'ın Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9668331,41.0110893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kapalıçarşı Ağa Hanındaki Çeşme

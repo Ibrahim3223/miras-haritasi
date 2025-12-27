@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.8326467,37.8336621"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vijne Köprüsü: Tarihî Bir Anıtın Gizemi

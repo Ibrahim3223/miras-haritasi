@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.219520328,41.737947524"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karaumur Mescidi: Kırklareli'nin Gizli Cenneti

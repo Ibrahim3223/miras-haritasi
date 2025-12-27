@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.2142258,41.8087273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Keçikale Kalesi: Kırklareli'nin Tarihî Bir Mirası

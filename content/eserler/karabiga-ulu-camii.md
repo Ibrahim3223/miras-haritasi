@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2975712,40.4033813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Biga Ulu Camii: Tarihi ve Kültürel Mirasımız

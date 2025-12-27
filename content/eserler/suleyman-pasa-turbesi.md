@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.057975,41.128005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Süleyman Paşa Türbesi: Ardanuç'un Gizli Cenneti

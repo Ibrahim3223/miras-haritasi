@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "29.649777777,40.261111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenişehir Saat Kulesi

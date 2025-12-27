@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.942931,41.016924"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarı Nasuh Kabri Haziresi

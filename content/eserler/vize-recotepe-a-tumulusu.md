@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7345848,41.549633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Vize Recotepe A Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.7052,38.554871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yamaçlı Köprüsü: Kayseri'nin Tarihi ve Kültürel Mirası

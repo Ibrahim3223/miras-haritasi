@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9689426,41.0145378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nasuhiye Han Kapı Çeşmeleri

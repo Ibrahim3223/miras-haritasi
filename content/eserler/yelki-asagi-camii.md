@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8729954,38.3414268"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yelki Aşağı Camii

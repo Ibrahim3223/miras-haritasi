@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.992964761,36.534278337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Surdibi Mevkii Çeşmesi

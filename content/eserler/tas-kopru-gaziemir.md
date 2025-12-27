@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.1230583,38.320816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Taş Köprü, Gaziemir

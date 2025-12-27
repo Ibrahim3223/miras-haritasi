@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.472391531,36.577227165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yassıyurt Höyük: Tarihî Bir Mirasın İzleri

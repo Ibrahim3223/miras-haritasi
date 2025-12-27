@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.8188,38.44065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeni Kömürhan Köprüsü

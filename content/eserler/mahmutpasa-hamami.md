@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.970233,41.012059"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mahmutpaşa Hamamı

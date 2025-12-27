@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7882442,37.2730789"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Menteşeoğlu Ahmet Gazi Türbesi

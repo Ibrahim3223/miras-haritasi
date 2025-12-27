@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.8825378,36.3204918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Reşadiye Camii (Taşucu): Silifke'nin Tarihî Mirası

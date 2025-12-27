@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.8080292,37.4499855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kozan Köprüsü: Tarihî Bir Mirasın Gizemi

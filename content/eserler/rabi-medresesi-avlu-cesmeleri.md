@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9654617,41.0160561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Rabi Medresesi Avlu Çeşmeleri

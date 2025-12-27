@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.981141451,38.505809328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı İbrahim Çeşmesi: Akçadağ'ın Tarihi ve Kültürel Mirası

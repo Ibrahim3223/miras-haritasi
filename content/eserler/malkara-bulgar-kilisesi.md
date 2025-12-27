@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.9057007,40.8965988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Malkara Bulgar Kilisesi: Tarih, Mimari ve Kültür

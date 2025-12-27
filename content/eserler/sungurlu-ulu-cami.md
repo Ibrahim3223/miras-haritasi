@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.373694444,40.162138888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sungurlu Ulu Cami: Çorum'un Değerli Mirası

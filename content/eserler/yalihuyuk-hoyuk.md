@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.0897102,37.3015442"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yalıhüyük Höyük: Tarihî ve Kültürel Mirasımız

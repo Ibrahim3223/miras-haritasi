@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "38.3670044,38.4199409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şahabiyye-i Kübra Medresesi

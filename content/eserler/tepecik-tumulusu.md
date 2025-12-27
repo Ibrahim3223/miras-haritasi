@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0520554,40.0683212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tepecik Tümülüsü: Balıkesir'in Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0413227,41.0767403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lazarist Sacre Coeur Kilisesi

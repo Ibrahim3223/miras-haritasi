@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "33.7787743,41.3765678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kastamonu Memleket Kütüphanesi

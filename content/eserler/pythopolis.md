@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.413577,40.396001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pythopolis: Bursa'nın Gizli Harikası

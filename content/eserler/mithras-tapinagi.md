@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.4987078,37.6098135"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mithras Tapınağı: Diyarbakır'ın Gizemi

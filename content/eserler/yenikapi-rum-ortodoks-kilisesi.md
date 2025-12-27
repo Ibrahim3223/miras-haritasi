@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.7070065,36.8823853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yenikapı Rum Ortodoks Kilisesi: Antalya'nın Gizli Çehresinde Bir İncil

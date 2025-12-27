@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.3815689,39.0921707"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yeniköy Tümülüsü, Gemerek

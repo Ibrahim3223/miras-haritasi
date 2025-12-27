@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "31.212583333,40.464833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mudurnu Saat Kulesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.947918,41.008602"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Katip Muslihittin Çeşmesi: Aksaray'da Bir Tarihî Çeşme

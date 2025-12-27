@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3813,39.084301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kınık Hamamı: Tarihî ve Kültürel Mirasın Parçaları Arasında

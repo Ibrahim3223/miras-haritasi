@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "35.331234,36.985981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mustafa Rıfat Eczanesi: Adana'nın Tarihi ve Kültürel Mirası

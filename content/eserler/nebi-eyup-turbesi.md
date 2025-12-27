@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6229744,36.7993469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nebi Eyüp Türbesi

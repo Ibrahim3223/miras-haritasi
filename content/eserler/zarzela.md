@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.2029724,37.4513817"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zarzela Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.05862,40.1853029"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Okçu Baba Türbesi: Bursa'nın Tarihî Bir Güzelliği

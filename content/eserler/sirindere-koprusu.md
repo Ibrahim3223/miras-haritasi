@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7771358,37.9281387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Şirindere Köprüsü: Aydın'ın Tarihi Bir Mirası

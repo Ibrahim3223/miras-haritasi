@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.480287539,38.706848174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Battal Gazi Türbesi, Kayseri

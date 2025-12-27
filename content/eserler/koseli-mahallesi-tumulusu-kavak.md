@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.10484,41.036733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Köseli Mahallesi Tümülüsü Kavak

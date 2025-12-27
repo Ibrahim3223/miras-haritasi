@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.725406,41.005524"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Konak Camii: Tarihi ve Kültürel Mirasın Bir Parçası

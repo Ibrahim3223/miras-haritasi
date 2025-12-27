@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0739441,40.1745644"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Molla Arap Camii Çeşmesi

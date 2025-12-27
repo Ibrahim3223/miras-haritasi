@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.8549743,40.1592595"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Üyük Höyük: Tokat'ın Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.030601,38.371825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Külhani Ali Baba Türbesi

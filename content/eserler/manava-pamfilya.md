@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.4469115,36.787064"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Manava (Pamfilya): Antik Kentin Gizemi

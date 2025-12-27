@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.144743,38.4211731"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kumrulu Mescit: İzmir'in Gizli Çatısı

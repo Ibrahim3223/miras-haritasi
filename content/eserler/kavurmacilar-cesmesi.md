@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6044502,37.7263641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavurmacılar Çeşmesi: Aydın'ın Gizli Cenneti

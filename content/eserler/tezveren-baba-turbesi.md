@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.982118,41.04216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tezveren Baba Türbesi: Şişli'nin Gizli Çağılardan Kalan Dikkati

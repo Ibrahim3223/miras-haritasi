@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2290154,41.7343521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Pehlivan Mustafa Ağa Camii: Kırklareli'nin Güzeli

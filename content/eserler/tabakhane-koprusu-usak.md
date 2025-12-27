@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4031925,38.6822433"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabakhane Köprüsü, Uşak: Bir Köprünin Efsanesi

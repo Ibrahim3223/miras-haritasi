@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4004002,37.1898003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Keyfoturağı Mescidi: Tarihi ve Kültürel Miras

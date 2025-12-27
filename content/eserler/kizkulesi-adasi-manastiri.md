@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "31.4614105,37.780696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızkulesi Adası Manastırı

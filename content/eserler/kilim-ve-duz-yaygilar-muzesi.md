@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9774208,41.0055084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilim ve Düz Yaygılar Müzesi

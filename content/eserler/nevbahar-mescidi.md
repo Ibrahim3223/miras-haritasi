@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9397068,41.0095673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nevbahar Mescidi: İstanbul'un Tarihi Bir Çağına Tanıklık Eden Bir Cami

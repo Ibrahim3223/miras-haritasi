@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.7015513,39.6396657"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karazlı Höyük: Ankara'nın Gizli Tarihi

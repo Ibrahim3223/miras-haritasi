@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4904461,37.1662598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yaraş Camii Tanıtımı

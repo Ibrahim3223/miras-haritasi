@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.965455216,41.034075368"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurt Çelebi Camii: İstanbul'un Kuytu Bir Çeşitesinin Tarihi ve Mimari Özellikleri

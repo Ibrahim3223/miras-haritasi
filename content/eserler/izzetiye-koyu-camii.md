@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6464367,40.8124466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzzetiye Köyü Camii

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.953202,41.022246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Piri Mustafa Paşa Hamamı

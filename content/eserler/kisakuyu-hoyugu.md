@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.2216663,37.1217983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kısakuyu Höyüğü: Şanlıurfa'da Bir Arkeolojik Harika

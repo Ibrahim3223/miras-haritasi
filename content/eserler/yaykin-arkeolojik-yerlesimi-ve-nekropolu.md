@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.2758007,37.9183998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yaykın Arkeolojik Yerleşimi ve Nekropolü

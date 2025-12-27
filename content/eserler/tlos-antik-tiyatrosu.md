@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.42251,36.552263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tlos Antik Tiyatrosu: Muğla'nın Gizli Çeșiti

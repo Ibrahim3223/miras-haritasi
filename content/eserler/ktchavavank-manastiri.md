@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.783888888,38.048888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ktchavavank Manastırı

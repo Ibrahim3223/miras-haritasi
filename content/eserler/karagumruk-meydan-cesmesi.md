@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9393819,41.0251718"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karagümrük Meydan Çeşmesi

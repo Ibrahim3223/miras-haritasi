@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.494,41.0266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Polemonium: Klasik Çağın Gizemi

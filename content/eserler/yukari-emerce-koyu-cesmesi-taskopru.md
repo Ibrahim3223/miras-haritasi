@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.234945237,41.522749971"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarı Emerce Köyü Çeşmesi: Taşköprü'nin Gizli Çeşmesi

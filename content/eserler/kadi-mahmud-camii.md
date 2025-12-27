@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.4752681,38.7406963"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Mahmud Camii: Tarihî Bir Miras

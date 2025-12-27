@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.624968448,40.971957814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paravol Mahallesi Camii: Güneysu, Rize'nin Tarihi Bir Mirası

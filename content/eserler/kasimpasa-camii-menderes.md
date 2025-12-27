@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1293163,38.2533035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasımpaşa Camii: Menderes'teki Büyüleyici Cami

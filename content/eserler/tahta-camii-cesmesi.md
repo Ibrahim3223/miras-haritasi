@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7107353,38.6217308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tahta Camii Çeşmesi: Nevşehir'in Tarihî Bir Çeşmesi

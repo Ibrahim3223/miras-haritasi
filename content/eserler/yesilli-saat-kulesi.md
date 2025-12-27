@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "40.820138888,37.339055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yeşilli Saat Kulesi: Mardin'in Eski Saat Kulesi

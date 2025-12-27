@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.3714909,37.7697758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ovacık Camii: Denizli'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.316667,37.816667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kösem Sultan Camii: Honaz'ta Gizli Bir Ören

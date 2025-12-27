@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.4344387,38.6115303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veled Bey Medresesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5372505,38.7519035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Süt Dede Türbesi

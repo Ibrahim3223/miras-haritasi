@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.841465,38.5109558"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ozan Anıtı

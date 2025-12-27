@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.289212948,41.13638903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilise Tepe Rum Kilisesi

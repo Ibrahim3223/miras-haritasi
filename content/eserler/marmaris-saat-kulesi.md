@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "28.2700005,36.8552284"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marmaris Saat Kulesi: Muğla'nın Tarihî Bir Simgesi

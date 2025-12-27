@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2604065,40.1206093"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mülâzım-ı Sânî Mustafa Efendi Şehitliği

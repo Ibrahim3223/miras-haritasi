@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0812073,40.8684349"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Terk-i Dünya Kilisesi

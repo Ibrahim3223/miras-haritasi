@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9578792,41.0182397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Seyyid Hasan Paşa Çeşmesi, Hacı Kadın: İstanbul'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8407173,37.8525009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nasuh Paşa Külliye Çeşmesi

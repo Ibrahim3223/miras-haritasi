@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.03415,37.839314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kilaraza Arkeolojik Sit

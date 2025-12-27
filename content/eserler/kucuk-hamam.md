@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.981677,39.418012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kütahya'nın Tarihî Küçük Hamamı

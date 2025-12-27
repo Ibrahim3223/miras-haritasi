@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.9970989,38.009407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mendegüme Köprüsü: Ödemiş'in Tarihi ve Kültürel Mirası

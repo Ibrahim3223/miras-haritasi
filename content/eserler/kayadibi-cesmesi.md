@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5370369,38.761982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Afyonkarahisar'da Bir Tarihî Çeşme: Kayadibi Çeşmesi

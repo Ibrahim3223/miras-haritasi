@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.5856686,37.4231949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taş Köprü, Danişment: Bir Geçit Köprüsü

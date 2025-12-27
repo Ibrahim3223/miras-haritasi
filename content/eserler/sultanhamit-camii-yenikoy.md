@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3269997,38.1208992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Sultanhamit Camii – Yeniköy

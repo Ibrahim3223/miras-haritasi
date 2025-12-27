@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.59982,40.697917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saurania: Geçmişi ve Mirası

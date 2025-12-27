@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.6789494,40.0964813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Osmanlar Köyü Asarlıktepe Kale Yerleşimi

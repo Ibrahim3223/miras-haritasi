@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.928263,41.038216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Koca Yusuf Efendi Çeşmesi (Defterdar)

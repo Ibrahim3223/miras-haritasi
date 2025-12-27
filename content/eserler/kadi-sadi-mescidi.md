@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9441795,41.031044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadı Sadi Mescidi Tanıtımı

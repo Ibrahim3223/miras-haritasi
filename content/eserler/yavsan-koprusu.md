@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.466261,40.827692"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yavşan Köprüsü

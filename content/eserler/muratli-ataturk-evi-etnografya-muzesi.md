@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.4993,41.1710014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Muratlı Atatürk Evi – Etnografya Müzesi**

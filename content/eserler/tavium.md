@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.5068,39.8589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tavium: Yozgat'ın Tarihi Bir Mirası

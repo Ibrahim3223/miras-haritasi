@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9808025,41.0046196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Nimelceyş Kabri 4, Cankurtaran: İstanbul'un Gizli Anıtı

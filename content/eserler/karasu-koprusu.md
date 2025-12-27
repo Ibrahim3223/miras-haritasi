@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karasu Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası

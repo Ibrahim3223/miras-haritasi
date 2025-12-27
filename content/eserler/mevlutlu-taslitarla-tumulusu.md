@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3408527,38.4775581"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mevlütlü Taşlıtarla Tümülüsü

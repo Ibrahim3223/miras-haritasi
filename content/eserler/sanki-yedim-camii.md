@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.953194444,41.018694444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sanki Yedim Camii: Zeyrek'teki Bir Gizem

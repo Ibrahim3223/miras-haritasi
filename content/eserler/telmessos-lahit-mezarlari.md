@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.1176929,36.6204796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Telmessos Lahit Mezarları

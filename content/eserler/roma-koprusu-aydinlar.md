@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4701616,38.9152436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Aydınlar

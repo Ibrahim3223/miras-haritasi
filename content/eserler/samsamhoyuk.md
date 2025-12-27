@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.7614858,39.1138392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Samsamhöyük: Konya'nın Gizemli Arkeolojik Sitleri

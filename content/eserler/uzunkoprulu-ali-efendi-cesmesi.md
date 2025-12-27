@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951187,41.027883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Uzunköprülü Ali Efendi Çeşmesi**

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.8454876,38.323246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tek Minare, Işıklı Camisi

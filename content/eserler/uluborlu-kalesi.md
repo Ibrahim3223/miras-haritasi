@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.469841,38.07269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uluborlu Kalesi: Isparta'nın Tarihî Mirası

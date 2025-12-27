@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.1931992,37.3196106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Telkabin Köprüsü: Tarihi ve Kültürel Mirasın Gizemi

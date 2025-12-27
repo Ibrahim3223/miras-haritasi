@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.2805328,37.5282936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Milet Büyük Kilise: İyonya'nın Gizli Çehresi

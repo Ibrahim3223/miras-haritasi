@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.33041,37.0094566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Zilli Baba Türbesi: Adana'nın Efsanevi Anıtı

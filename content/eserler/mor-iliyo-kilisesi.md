@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "40.7283249,37.2874794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mor İliyo Kilisesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2574997,37.8568993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçükoğlu Çeşmesi

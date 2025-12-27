@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "44.5211,37.29"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Seyyid Taha’l Hakkari Türbesi

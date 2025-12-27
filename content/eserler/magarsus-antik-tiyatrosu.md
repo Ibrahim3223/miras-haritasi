@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.347042,36.545765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Magarsus Antik Tiyatrosu: Karataş'taki Eski Miras

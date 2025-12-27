@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.4340324,38.1538124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Kurşunlu Kalesi**

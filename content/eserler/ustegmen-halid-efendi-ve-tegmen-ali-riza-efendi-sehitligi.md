@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3243904,40.282753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsteğmen Halid Efendi ve Teğmen Ali Rıza Efendi Şehitliği

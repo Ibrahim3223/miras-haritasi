@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.504868,39.247608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü, Yuva: Tarihi ve Kültürel Miras

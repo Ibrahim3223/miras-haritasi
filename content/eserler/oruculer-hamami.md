@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.967192,41.012349"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Örücüler Hamamı Tanıtımı

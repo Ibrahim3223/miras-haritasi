@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.649721,38.54889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kula Kenan Evren Etnografya Müzesi

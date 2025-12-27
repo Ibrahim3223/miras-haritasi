@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.681654,38.6116219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yusuftepe Höyüğü: Manisa'nın Gizli Tarihi

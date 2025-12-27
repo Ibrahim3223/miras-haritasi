@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.54390908,41.677823597"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saçlı Ali Efendi Mescidi

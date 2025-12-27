@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.2793203,39.907127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Lalapaşa Hamamı: Erzurum'un Tarihi ve Kültür Mirası

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8459969,37.8515091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rum Hamamı: Aydın'ın Tarihi ve Kültürel Mirası

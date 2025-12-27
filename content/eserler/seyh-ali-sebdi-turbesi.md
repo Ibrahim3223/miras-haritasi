@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.9674492,38.697525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Şeyh Ali Sebdi Türbesi: Palu'nun Gözdeleri

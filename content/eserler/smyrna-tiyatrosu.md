@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "27.144055555,38.416055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Smyrna Tiyatrosu: Antik Tiyatro Mirasının Gizemi

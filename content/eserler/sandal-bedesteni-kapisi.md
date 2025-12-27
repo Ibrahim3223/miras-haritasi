@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9698734,41.0104866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sandal Bedesteni Kapısı

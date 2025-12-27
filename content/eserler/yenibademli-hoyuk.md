@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "25.8955288,40.2172203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Yenibademli Höyük: Çanakkale'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.056633,40.1770935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üç Kuzular Camii Tanıtımı

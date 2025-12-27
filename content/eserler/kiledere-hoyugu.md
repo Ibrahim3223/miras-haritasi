@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.6885465,38.2942841"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kiledere Höyüğü: Niğde'nin Gizli Anlamı

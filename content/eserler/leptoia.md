@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.974641,40.814452"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Leptoia: Antik Çağ'ın Gizemi

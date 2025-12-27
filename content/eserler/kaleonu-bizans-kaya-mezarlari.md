@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7583504,37.2881813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kaleönü Bizans Kaya Mezarları

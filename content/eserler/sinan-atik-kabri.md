@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9465122,41.0236702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sinan Atik Kabri Hakkında

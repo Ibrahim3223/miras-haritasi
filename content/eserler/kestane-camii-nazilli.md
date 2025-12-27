@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3274956,37.9167175"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kestane Camii: Aydın'ın Tarihi Bir Mirası

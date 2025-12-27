@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.374729,40.159501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Paşa Köprüsü, Sungurlu

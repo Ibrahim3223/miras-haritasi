@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.634407,37.623843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Plarasa

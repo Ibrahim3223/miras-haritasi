@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.947113,38.4918747"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Taşkın Paşa Kümbeti

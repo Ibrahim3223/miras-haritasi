@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.388549,38.5375303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Yalman Höyük

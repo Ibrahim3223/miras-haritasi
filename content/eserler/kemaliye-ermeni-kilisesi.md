@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.4982,39.26"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kemaliye Ermeni Kilisesi

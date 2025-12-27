@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0564938,40.1850929"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Veled-i Yaniç Camii Çeşmesi

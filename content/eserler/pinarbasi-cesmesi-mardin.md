@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.745944,37.314914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Pınarbaşı Çeşmesi: Mardin'in Tarihi ve Kültürel Mirası

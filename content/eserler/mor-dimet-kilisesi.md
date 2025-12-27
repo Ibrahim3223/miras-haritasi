@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.5384369,37.5126381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mor Dimet Kilisesi: Mardin'in Gizli Cenneti

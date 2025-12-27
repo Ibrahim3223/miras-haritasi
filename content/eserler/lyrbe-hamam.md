@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.4722366,36.8728447"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lyrbe Hamamı: Tarihi ve Kültürel Kıymeti

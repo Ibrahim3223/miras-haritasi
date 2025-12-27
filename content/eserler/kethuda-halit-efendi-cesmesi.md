@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951303,41.011887"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kethüda Halit Efendi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.545239,41.672566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tabak Sultan Türbesi

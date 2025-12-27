@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.842608,39.844542"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # TRT Yayıncılık Tarihi Müzesi

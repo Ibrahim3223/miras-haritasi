@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.332839,36.98206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mehmet Baltacı Fotoğraf Müzesi

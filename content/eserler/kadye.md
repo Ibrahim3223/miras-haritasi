@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.568624,37.832174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kadye: Türkiye'nin Gizli Harabeleri

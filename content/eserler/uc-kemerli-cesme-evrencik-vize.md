@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7145,41.649861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üç Kemerli Çeşme (Evrencik, Vize)

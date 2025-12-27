@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8669281,39.9317322"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sarı Kadı Camii Çeşmesi: Altındağ'ın Tarihi Çeşmesi

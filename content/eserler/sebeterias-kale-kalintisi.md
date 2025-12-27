@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.5278435,38.751667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sebeterias Kale Kalıntısı

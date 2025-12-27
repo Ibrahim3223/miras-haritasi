@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.9032936,41.2914658"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Yanıkağıl Köyü Cami**

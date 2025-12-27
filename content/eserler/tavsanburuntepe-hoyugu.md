@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.1065521,38.284935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Tavşanburuntepe Höyüğü: Malatya'nın Gizli Tarihi

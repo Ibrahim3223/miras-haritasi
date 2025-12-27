@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.3289757,41.2932854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kurşunlu Camii: İlkadım'ın Yüzyıllar Önce İnşa Edilen Tarihi Bir Mirası

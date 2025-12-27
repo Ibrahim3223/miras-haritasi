@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.959952,41.023455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Nalıncı Mehmet Mimi Dede Türbesi Çeşmesi

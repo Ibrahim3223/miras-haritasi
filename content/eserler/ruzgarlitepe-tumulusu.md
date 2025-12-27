@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3383827,40.3531914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Rüzgarlıtepe Tümülüsü

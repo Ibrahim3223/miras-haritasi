@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.444722,36.8075"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Typallia: Antik Çağın Gizemi Anlaşılıyor

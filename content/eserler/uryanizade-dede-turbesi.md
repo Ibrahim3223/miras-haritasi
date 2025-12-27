@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9563274,41.0124893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Uryanizade Dede Türbesi**

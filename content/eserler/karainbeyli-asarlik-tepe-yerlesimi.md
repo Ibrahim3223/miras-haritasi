@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3930779,40.3514671"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Karainbeyli Asarlık Tepe Yerleşimi: Gelibolu'nun Gizli Kahramanı

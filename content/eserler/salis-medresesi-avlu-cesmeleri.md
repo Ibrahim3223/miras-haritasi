@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.964962,41.0166245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Salis Medresesi Avlu Çeşmeleri

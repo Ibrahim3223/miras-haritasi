@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.0176239,37.9831772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Reşadiye Höyüğü: Malatya'nın Gizli Güzelliği

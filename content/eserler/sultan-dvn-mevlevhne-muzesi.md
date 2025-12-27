@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.533531,38.753661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Dîvânî Mevlevîhâne Müzesi

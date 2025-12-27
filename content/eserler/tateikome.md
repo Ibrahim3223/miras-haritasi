@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.745098,38.440559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Tateikome: Bir Arkeolojik Sitin Gizemi

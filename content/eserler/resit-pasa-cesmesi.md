@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.046655,41.102966"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Reşit Paşa Çeşmesi

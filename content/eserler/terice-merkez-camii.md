@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5387993,40.9835014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Terice Merkez Camii: Ayvacık'ta Bir Tarihsel Özellik

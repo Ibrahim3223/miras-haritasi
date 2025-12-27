@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.940781,41.015018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Safiye Sultan Çeşmesi: Molla Gürani'nin Gözde Yaratısı

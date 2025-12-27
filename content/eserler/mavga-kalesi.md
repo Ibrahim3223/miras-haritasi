@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.501919,36.72769"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Mavga Kalesi: Mut, Mersin'in Gizli Çehresini Keşfetmek

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7400169,38.0895042"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yeğenağa Çeşmesi: Tire'de Bir Kültürel Miras

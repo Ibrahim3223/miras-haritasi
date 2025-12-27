@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0416279,40.9768333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Selahattin Pınar Büstü: Kadıköy'ün Tarihi Anıtı

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.8857861,40.6232796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kavakköy Köprüsü

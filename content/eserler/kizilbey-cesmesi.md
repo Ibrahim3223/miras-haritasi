@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.853902272,39.93988227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kızılbey Çeşmesi Nedir?

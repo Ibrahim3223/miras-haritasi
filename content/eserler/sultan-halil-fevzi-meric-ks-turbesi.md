@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.1725,40.8292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sultan Halil Fevzi Meriç K.S. Türbesi

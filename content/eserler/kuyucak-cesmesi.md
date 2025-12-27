@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.3154755,39.7781563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kuyucak Çeşmesi: Sincan'da Bir Osmanlı Dönemi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.481666666,41.346666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Metroon: Zonguldak'ta Geç Antik Dönem'in Gizemi

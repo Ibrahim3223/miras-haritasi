@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.97761,39.092739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Synaus Arkeolojik Sit

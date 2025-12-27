@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.8759211,40.9840644"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saray Hamamı: Altınordu'nun Tarihi Bir Görgü

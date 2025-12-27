@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0902996,41.9449577"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kocatarla Onbaşı Bayırı Tümülüsü: Kırklareli'nin Gizli Mirası

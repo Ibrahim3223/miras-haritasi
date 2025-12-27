@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.4891243,39.2850914"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şırzı Köprüsü: Kemaliye'nin Tarihi Bir Aracı

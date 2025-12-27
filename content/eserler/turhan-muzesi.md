@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.325319397,41.066598638"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Turhan Müzesi

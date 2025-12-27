@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6947498,39.3195763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Taksiyarhis Kilise Çeşmesi: Ayvalık'taki Büyüleyici Tarihi Eser

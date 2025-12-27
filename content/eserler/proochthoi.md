@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.058352,41.074114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Proochthoi: Türkiye'nin Gizli Arkeolojik Sitleri

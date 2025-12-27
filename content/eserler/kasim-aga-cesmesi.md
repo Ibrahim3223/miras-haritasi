@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9704475,41.0141258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kasım Ağa Çeşmesi

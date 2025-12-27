@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.281231,40.206794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Kabatepe Tanıtma Merkezi Ve Müzesi

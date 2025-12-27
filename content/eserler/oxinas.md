@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.674661,41.407123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Oxinas Arkeolojik Sit

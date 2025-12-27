@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7692108,41.3771744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarıpazar Sokak Çeşmesi: Kastamonu'nun Gizli Çeşmesi

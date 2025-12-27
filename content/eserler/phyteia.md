@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.065543,38.8946235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Phyteia: Antik Yunanistan'ın Gizli Mirası

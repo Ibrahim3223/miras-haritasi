@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.104022223,41.091796227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yukarıdurak Köyü Camii: Ardeşen'in Tarihî bir Ziyaretçi

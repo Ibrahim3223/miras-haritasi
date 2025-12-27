@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.26861111,38.57944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Satala: Lidya Uygarlığının Gizemi

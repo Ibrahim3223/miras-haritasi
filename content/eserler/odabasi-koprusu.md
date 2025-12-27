@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.7433891,41.0637169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Odabaşı Köprüsü

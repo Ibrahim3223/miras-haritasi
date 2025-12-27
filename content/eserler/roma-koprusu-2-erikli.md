@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.9515863,40.6107697"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Roma Köprüsü (2), Erikli

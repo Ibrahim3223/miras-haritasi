@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.324522,40.2822685"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsteğmen Hasan Tahsin ve Alay Müftüsü Şehitliği

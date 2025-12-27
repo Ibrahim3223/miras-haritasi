@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.534832,41.677166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Yıldırım Köprüsü: Edirne'nin Gizli Çehresi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.112364134,38.311603572"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzzeddin Şir Camii: Van'ın Gevaş'taki Tarihi ve Kültürel Mirası

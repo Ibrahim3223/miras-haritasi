@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7705688,41.378685"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Server Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9712906,39.4149055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Tellal Çeşmesi: Kütahya'nın Tarihçesinde Yer Alan Bir Değerli Çeşme

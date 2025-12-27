@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.196981,39.0889288"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Osmanınağılı Arkeolojik Sit

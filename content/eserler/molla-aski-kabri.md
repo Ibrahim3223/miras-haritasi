@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9429493,41.0338554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Molla Aşki Kabri
