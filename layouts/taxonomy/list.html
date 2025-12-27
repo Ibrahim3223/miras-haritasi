@@ -1,14 +1,35 @@
 {{ define "main" }}
 <div class="container" style="padding-top: 40px; padding-bottom: 60px;">
+
+    {{ if eq .Section "iller" }}
+    <!-- Quick City Stats/Categories -->
+    <div style="display: flex; gap: 10px; margin-bottom: 30px; flex-wrap: wrap;">
+        <!-- Simple pure-JS filtering buttons could also go here, or just direct links if we had specific pages -->
+        <span class="badge" style="background: #e3f2fd; color: #1976d2;">🏰 {{ .Title }} - Tüm Eserler</span>
+        <!-- Note: Real category links within a city would require more complex filtering logic or params, keeping simple for now -->
+    </div>
+    {{ end }}
     <!-- Header -->
+    <!-- Dynamic Header -->
     <div
         style="margin-bottom: 40px; border-bottom: 1px solid var(--border); padding-bottom: 20px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
         <div>
             <span
                 style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-light); display: block; margin-bottom: 5px;">
-                Kategori
+                {{ if eq .Section "iller" }}📍 Şehir Rehberi{{ else }}📂 Kategori{{ end }}
             </span>
-            <h1 style="font-size: 2.5rem; margin: 0;">{{ .Title }}</h1>
+            <h1 style="font-size: 2.5rem; margin: 0;">
+                {{ if eq .Section "iller" }}
+                {{ .Title }} Tarihi Yerler
+                {{ else }}
+                {{ .Title }}
+                {{ end }}
+            </h1>
+            {{ if eq .Section "iller" }}
+            <p style="color: var(--text-light); margin-top: 5px; font-size: 1.1rem;">
+                {{ .Title }} ilindeki camileri, müzeleri, antik kentleri ve diğer tarihi yapıları keşfedin.
+            </p>
+            {{ end }}
         </div>
         <div style="font-size: 1.1rem; color: var(--text-light);">
             Toplam <strong>{{ len .Paginator.Pages }}</strong> eser listeleniyor

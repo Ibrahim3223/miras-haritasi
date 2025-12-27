@@ -102,6 +102,9 @@
             <!-- Wikidata Image Gallery -->
             {{ partial "wikimedia-gallery.html" . }}
 
+            <!-- Reviews Section -->
+            {{ partial "reviews.html" . }}
+
             <div
                 style="background: #fff8e1; color: #795548; padding: 25px; border-radius: 8px; margin-top: 50px; border-left: 5px solid var(--accent);">
                 <h4 style="margin-bottom: 10px; color: #5d4037;">⚠️ Ziyaretçi Notu</h4>
@@ -149,6 +152,40 @@
                     <span>🗺️</span> Haritada Göster
                 </a>
                 {{ end }}
+
+                <!-- Share -->
+                <div style="margin-top: 25px; border-top: 1px solid var(--border); padding-top: 20px;">
+                    <span
+                        style="display: block; font-size: 0.85rem; color: var(--text-light); margin-bottom: 10px;">PAYLAŞ</span>
+                    <div style="display: flex; gap: 10px;">
+                        <button onclick="sharePage()"
+                            style="flex: 1; padding: 8px; border: 1px solid var(--border); background: white; border-radius: 6px; cursor: pointer;">
+                            🔗
+                        </button>
+                        <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
+                            target="_blank"
+                            style="flex: 1; padding: 8px; border: 1px solid var(--border); background: white; border-radius: 6px; text-align: center; text-decoration: none;">
+                            🐦
+                        </a>
+                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank"
+                            style="flex: 1; padding: 8px; border: 1px solid var(--border); background: white; border-radius: 6px; text-align: center; text-decoration: none;">
+                            fb
+                        </a>
+                    </div>
+                    <script>
+                        function sharePage() {
+                            if (navigator.share) {
+                                navigator.share({
+                                    title: '{{ .Title }}',
+                                    url: '{{ .Permalink }}'
+                                });
+                            } else {
+                                navigator.clipboard.writeText('{{ .Permalink }}');
+                                alert('Link kopyalandı!');
+                            }
+                        }
+                    </script>
+                </div>
             </div>
         </aside>
     </div>
