@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "32.3312988,41.6362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Nikolas Kilisesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.290970076,37.729245532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dörtayak Türbesi, Burdur

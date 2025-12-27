@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.6211243,40.6004105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alacamescit Camii

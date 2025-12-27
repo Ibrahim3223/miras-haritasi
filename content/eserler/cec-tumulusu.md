@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7675,38.717805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeç Tümülüsü: Avanos'un Gizli Şehri

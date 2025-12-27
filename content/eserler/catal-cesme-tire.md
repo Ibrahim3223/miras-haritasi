@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7360573,38.0828667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatal Çeşme: İzmir'in Tarihi ve Etkileyici Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7713966,41.4676895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akmescit Camii, Boyabat: Tarihçesi ve Mimarı Özellikleri

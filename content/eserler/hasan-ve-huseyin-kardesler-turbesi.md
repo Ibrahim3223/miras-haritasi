@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.941733,41.032023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan ve Hüseyin Kardeşler Türbesi

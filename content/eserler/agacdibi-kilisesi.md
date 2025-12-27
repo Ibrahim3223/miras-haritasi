@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.785099,37.5037994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ağaçdibi Kilisesi: Hakkâri'nin Gizemli Kilisesi

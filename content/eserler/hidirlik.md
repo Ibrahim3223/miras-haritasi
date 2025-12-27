@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.163967,39.06615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hıdırlık

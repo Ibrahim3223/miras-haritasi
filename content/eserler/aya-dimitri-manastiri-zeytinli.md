@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8696575,40.1908035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Dimitri Manastırı (Zeytinli)

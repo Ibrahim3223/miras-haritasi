@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.1959457,40.8488197"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Armaş Manastırı Çeşmesi: İzmit'in Gizli Cenneti

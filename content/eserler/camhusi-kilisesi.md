@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.389151917,40.742971308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çamhusi Kilisesi: Doğu Anadolu'nun Gizli Mücevheri**

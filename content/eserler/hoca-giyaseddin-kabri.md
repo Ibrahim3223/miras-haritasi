@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9618492,41.0187187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hoca Gıyaseddin Kabri

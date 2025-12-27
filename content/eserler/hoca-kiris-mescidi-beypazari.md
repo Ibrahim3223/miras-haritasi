@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9181976,40.1713371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Kiriş Mescidi, Beypazarı

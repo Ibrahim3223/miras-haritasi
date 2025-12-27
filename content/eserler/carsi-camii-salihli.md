@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1413822,38.4867172"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Camii, Salihli

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.737372,37.727297"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eylikler Köyü Yiğit Karen Hamamı

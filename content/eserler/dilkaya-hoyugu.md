@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.1413803,38.3597107"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dilkaya Höyüğü: Van'ın Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.2783718,38.2908592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftlik Meydan Çeşmesi

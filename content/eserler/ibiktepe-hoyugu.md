@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8521614,40.3528328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # İbiktepe Höyüğü

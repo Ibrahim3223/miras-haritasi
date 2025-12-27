@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3813,37.9998016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayındır Karakaya Mevkii Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7994747,40.5522537"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çıraktepe Tümülüsü

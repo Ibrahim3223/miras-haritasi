@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.538588,38.543079"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Babadalai Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5206985,40.9812584"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halit Paşa Çeşmesi

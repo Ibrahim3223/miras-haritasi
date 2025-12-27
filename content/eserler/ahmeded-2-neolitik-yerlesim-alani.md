@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0963707,40.1401596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmeded 2 Neolitik Yerleşim Alanı

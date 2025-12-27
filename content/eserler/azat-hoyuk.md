@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.1126785,40.530159"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Azat Höyük: Kars'ın Gizemli Arkeolojik Sitleri

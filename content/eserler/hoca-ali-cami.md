@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9767265,41.0261497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hoca Ali Cami

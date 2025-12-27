@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.4209824,40.8389244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskiahır Köyü Camii: Tarihi ve Mimarisi

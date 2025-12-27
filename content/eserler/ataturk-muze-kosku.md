@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.864333333,39.889027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Müze Köşkü

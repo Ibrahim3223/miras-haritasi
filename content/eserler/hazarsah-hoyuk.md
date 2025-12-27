@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.9747046,38.7580302"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hazarşah Höyük: Bünyan'da Bir Geçmişi Keşfetmek

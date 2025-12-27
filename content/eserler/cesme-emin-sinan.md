@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9683323,41.0058937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Emin Sinan: Fatih'ten Bir Örnek

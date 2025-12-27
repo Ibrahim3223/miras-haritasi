@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6530399,41.3081703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftetepe A Tümülüsü

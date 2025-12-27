@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.221096,39.7077942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hacıtuğrul Höyüğü: Polatlı'da Eski Çağın Gizemi**

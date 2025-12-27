@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5146809,41.6949272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çayırdere Badem Tepe Kalesi, Kırklareli

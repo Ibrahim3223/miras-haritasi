@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.064392,38.413369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayvalı Maşat Höyük: Isparta'nın Gizli Kahramanı

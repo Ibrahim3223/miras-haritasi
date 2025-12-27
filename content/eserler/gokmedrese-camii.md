@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8200874,40.649437"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökmedrese Camii

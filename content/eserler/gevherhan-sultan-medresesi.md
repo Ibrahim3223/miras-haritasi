@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9444997,41.0080001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gevherhan Sultan Medresesi

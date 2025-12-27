@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.015949,41.023804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atik Valide Sultan Hamamı

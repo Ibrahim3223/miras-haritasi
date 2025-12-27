@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.975321,39.417155"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çini Müzesi

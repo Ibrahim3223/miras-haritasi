@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.695534,39.317875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çınarlı Camii, Ayvalık: Türkiye'nin Eski Şehirleri Arasındaki Bir Özellik

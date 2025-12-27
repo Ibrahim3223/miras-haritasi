@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.2172737,40.8729897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Büyük Hamam, Gümüşhacıköy

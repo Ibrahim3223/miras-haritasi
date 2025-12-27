@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.0457039,38.7076263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Bayezid Çeşmesi: Bolvadin'in Gizli Çeşmesi

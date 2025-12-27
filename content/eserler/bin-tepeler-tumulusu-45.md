@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.046524,38.566174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 45: Manisa'nın Gizemi

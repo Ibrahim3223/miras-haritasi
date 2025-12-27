@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1788998,39.1167984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Ertuğrul: Bergama'nın Tarihi Bir Çeşmesi

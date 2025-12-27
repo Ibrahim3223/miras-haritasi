@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3719997,37.7750015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alimezarı Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.2973,39.881683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asarlık-Eski Hisarlık: Ezine'nin Tarihsel Bir Anıtı

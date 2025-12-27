@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.938906627,38.810997515"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dutluk Pınarı Çeşmesi, Hekimhan

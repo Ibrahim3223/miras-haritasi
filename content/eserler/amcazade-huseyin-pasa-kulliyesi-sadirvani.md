@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9521122,41.0152588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amcazade Hüseyin Paşa Külliyesi Şadırvanı

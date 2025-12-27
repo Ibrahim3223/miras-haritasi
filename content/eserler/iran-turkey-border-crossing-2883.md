@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.3182356,38.496075146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İran-Türkiye sınır geçidi #2883: Bir Kervansarayın Gizemi

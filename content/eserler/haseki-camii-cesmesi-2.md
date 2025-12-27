@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8585815,39.9402771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haseki Camii Çeşmesi 2: Altındağ'ın Tarihî Bir Çeşmesi

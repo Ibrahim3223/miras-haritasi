@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.0247993,38.372406"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Azmi Milli Un Fabrikası Müzesi

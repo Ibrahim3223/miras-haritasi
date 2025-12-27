@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.966401,41.017246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Devoğlu Ali Ağa Çeşmesi

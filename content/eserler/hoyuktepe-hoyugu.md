@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.8913219,39.4837948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Höyüktepe Höyüğü

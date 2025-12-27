@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9791584,41.0290222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bostaniçi Camii Çeşmesi: Beyoğlu'nun Gizli Çeşmesi

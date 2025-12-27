@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "28.973649,41.012447"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cağalzâde Sarayı: Fatih'in Gizli Kahramanı

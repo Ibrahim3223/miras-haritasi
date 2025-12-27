@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.3145905,37.7590332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hayriye Camii

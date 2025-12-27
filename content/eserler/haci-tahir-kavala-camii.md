@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.3864326,40.757843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Tahir Kavala Camii

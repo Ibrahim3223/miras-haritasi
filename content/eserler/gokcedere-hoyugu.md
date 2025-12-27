@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.7519345,40.1312547"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökçedere Höyüğü: Demirözü'ndeki Antik Miras

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.947262,41.029454"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ali Paşa Çeşmesi, Balat

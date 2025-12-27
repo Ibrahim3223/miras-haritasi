@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5557164,37.7630037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halil Hamit Paşa Camii

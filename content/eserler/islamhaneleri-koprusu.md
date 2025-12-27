@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2940769,37.0293007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bodrum'un Tarihsel Harikası: İslamhaneleri Köprüsü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8587151,39.9421577"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balaban Camii

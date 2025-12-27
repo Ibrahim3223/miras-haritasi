@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.1362076,38.8249741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakıroğlu Tümülüsü: Malatya'nın Gizli Tarihî Mirası

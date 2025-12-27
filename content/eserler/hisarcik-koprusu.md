@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.636151,40.743758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hisarcık Köprüsü: Giresun'un Tarihi Mirası

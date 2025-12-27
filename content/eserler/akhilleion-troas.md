@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.1525,39.915"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akhilleion (Troas)

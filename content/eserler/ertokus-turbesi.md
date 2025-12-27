@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6448956,37.951252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ertokuş Türbesi

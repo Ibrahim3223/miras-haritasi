@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8237953,39.9171715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Frig Tümülüsü 16, Emek

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.9737167,39.5602837"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Büyük Höyük, Sivas

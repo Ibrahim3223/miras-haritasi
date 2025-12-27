@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.639055555,41.736222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkiz Çeşme (Yenice, Pınarhisar)

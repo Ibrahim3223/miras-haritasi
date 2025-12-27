@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9784737,41.0311623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gül Baba Türbesi, Tomtom

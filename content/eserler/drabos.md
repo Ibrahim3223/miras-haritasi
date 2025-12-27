@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.335897,40.358138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Drabos Arkeolojik Sit

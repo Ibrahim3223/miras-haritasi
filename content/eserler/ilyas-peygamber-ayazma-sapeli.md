@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.6539154,41.1225281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İlyas Peygamber Ayazma Şapeli: Şile'nin Gizli Cenneti

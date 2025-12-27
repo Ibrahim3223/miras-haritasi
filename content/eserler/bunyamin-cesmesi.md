@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.3344307,40.0154839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bünyamin Çeşmesi

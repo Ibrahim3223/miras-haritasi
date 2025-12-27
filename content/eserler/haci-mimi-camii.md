@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9773636,41.0277443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Mimi Camii: Beyoğlu'ndaki Gizemli Bir Cami

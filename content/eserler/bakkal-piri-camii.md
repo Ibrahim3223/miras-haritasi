@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0881996,40.5021019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bakkal Piri Camii**

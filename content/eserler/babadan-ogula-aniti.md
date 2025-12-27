@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6031284,41.7183495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Babadan Oğula Anıtı: Edirne'nin Gizli Çeşmesi

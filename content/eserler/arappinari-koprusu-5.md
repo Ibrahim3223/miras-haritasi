@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.73876,38.0815125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arappınarı Köprüsü 5: Tarihî Bir Köprünin Gizemi

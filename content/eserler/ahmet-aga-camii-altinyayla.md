@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.7512093,39.2720261"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmet Ağa Camii, Altınyayla

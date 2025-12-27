@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.966599,41.031338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Choiragria: Antik Yunanistan'ın Gizli Harikası

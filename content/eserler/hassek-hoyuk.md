@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hassek Höyük: Şanlıurfa'da Bir Arkeolojik Sit

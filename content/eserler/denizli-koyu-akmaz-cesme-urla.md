@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7398434,38.3796272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Denizli Köyü Akmaz Çeşme, Urla: Tarihi ve Kültürel Mirasın Özü

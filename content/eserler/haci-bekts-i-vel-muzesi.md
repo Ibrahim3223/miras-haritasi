@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.562643,38.942114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Bektâş-ı Velî Müzesi

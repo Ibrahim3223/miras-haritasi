@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.057883,41.169658"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Avcı Mehmet Hamamı: Sarıyer'in Tarihi ve Kültürel Mirası

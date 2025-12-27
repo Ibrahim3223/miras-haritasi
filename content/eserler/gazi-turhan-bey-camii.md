@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.7544765,41.2032509"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazi Turhan Bey Camii: Edirne'nin Gizli Çehresinde Bir Örnek

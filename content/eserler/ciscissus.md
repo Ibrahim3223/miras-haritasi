@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.786827,38.15395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ciscissus Arkeolojik Sit

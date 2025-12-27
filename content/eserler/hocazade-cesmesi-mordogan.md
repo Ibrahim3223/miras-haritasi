@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.625614,38.518626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hocazade Çeşmesi, Mordoğan: İzmir'in Gizli Cenneti

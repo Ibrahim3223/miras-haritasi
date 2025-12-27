@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.825964,39.937196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Eğitim Müzesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.7722187,41.180687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arnavutköy Boğazköy Camii

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.418731051,40.083978938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çanakkale'nin Gizli Çeşmesi: Kalabaklı Çeşme

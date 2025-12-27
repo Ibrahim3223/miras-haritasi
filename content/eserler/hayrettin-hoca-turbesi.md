@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.8790531,39.6529694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hayrettin Hoca Türbesi

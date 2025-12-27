@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9833584,41.0131493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hünkâr Hamamı: İstanbul'un Gizli Çeşitliliği

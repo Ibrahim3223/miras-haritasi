@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9337463,41.0213852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bayrampaşa Deresi Köprüsü

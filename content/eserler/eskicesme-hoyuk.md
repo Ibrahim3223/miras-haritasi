@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.091432262,38.994892935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskiçeşme Höyük

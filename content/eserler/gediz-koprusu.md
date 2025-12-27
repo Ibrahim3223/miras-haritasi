@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.0511112,38.6495056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gediz Köprüsü: Menemen'in Tarihî Bir Mirası

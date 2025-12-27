@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.715313,38.6217842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damat İbrahim Paşa Camii Çeşmesi 2

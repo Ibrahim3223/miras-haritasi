@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.909633,39.518383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boyalık Tepe: Altıeylül'ün Gizli Öyküsü

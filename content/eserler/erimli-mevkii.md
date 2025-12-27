@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.626883,38.4849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erimli Mevkii: Afyonkarahisar'ın Gizli Harikası

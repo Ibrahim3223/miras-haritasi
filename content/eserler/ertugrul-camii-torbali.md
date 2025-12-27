@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3603935,38.1552925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ertuğrul Camii, Torbalı

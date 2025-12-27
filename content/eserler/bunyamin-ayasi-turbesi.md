@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.334177969,40.015775039"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bünyamin Ayaşi Türbesi

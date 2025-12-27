@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.01385,38.103908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gelendost Höyük: Isparta'nın Gizli Kâse

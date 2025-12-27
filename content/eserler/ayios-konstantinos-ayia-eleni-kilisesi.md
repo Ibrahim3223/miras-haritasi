@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.928506,40.996806"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Konstantinos-Ayia Eleni Kilisesi

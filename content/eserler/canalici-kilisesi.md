@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9514828,41.0160294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Canalıcı Kilisesi

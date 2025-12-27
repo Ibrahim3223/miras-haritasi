@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.726354,38.083517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alamadan Dede Türbesi: Tarihi ve Kültürel Miras

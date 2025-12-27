@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.5420704,39.4496384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balaban Camii, Sivrihisar: Eskişehir'in Tarihi bir Öreni

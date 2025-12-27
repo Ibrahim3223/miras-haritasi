@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.7920621,37.7034089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Doruk Höyük: Tarihî Mirasın Gizemi

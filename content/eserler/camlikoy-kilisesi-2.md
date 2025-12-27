@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.521338,40.397263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamlıköy Kilisesi 2: Geçmişten Bugüne Geçen Bir Tarihi Eser

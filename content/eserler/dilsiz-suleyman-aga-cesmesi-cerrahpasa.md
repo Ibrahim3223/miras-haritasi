@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.937004,41.002827"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Dilsiz Süleyman Ağa Çeşmesi: İstanbul'un Gizli Cenneti**

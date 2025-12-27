@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.335818411,39.79284152"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balontepe Höyüğü: Tarihî ve Kültürel Mirasın Gizemi

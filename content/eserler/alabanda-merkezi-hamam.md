@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.9824944,37.5947189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alabanda Merkezi Hamam

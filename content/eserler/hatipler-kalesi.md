@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.895052777,39.014263888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatipler Kalesi: Dikili'nin Gizli Cenneti

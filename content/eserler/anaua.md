@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.8094275,37.8891725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anaua: Afyonkarahisar'daki Gizemli Arkeolojik Sit

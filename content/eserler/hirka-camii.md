@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9107056,37.4676781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hırka Camii

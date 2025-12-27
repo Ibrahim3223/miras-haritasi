@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9769039,39.4185066"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Analıca Camii

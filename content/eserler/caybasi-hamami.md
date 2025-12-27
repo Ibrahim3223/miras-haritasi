@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.1805077,37.076107"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaybaşı Hamamı: Antalya'nın Tarihi Bir Mirası

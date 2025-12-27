@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.3532658,37.0520248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Idyma Kaya Mezarları: Muğla'nın Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0662136,40.1818733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacılar Camii Çeşmesi

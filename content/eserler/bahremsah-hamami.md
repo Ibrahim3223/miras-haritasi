@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.1205597,39.3715591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahremşah Hamamı: Divriği'nin Gizli Şeytanı

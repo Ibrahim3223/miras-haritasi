@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.1098455,39.3120115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Euaissa: Türkiye'nin Gizli Cenneti

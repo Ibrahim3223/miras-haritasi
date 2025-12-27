@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0707798,40.1856079"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebu İshak Medresesi

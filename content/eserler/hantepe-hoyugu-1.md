@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.7355499,38.4896774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hantepe Höyüğü 1: Akçadağ'ın Gizli Ören Yeri**

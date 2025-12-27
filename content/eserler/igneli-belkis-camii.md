@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8548546,39.9440269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İğneli Belkıs Camii

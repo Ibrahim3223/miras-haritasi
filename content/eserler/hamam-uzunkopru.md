@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.6872139,41.2693138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uzunköprü Hamamı: Edirne'nin Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0211582,40.9812813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fahri Korutürk Büstü

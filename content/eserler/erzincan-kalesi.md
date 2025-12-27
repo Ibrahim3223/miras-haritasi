@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.4936829,39.7205811"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erzincan Kalesi: Tarih ve Kültür Mirası

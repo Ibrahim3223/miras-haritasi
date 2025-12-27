@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.986447,41.029913"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Delphin: Antik Roma'nın Gizemi**

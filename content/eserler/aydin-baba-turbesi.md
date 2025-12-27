@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.38817,37.056962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydın Baba Türbesi

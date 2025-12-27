@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.3617,37.3492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derbe: Karaman'ın Tarihi ve Kültürel Mirası

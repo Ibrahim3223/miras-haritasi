@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9733715,41.0430984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Helvacı Ana Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt

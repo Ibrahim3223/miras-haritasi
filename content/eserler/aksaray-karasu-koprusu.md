@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.9729705,38.3567281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aksaray Karasu Köprüsü: Bir Tarihi ve Kültürel Miras

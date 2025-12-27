@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.037444,40.158333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hisartepe Kale (Sakızlı Köyü), Bayburt

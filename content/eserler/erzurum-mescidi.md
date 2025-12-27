@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8683357,39.9295769"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erzurum Mescidi: Ankara'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0479679,40.1836777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Alacahırka Camii: Bursa'nın Tarihi ve Kültürel Mirası**

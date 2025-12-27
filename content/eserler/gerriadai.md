@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.788552,38.195953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gerriadai: Antik Çağın Gizemi

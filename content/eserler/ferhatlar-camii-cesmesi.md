@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.779505564,41.231059497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferhatlar Camii Çeşmesi

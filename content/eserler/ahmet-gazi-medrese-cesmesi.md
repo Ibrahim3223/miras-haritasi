@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7882652,37.2731857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Gazi Medrese Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9584236,38.2754669"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hypaipa Antik Tiyatro: Ödemiş'in Gizli Mücevheri

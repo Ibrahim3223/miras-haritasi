@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.930826,40.997181"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Dede Çeşmesi

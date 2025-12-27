@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.278100589,37.759025589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Cami: Adıyaman'ın Tarihi Bir Mirası

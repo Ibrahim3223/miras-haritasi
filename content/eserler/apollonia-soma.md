@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4945736,39.2023277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Apollonia, Soma: Tarihî bir Mirasın Gizemi

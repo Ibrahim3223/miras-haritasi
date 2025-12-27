@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.899971,39.0036507"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bağın Kalesi: Tunceli'nin Gizli Zirvesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.7873173,40.3984413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Göynük Kent Müzesi

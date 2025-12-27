@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2136269,40.7384796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirciören Köyü Camii: Tarihi ve Kültürel Mirası

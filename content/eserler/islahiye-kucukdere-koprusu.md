@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.645583,40.983117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İslahiye Küçükdere Köprüsü

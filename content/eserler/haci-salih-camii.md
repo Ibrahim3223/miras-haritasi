@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.724521,41.007797"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Salih Camii

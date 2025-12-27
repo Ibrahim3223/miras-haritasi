@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.157876865,39.728144934"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aktaş Mevkii Tümülüsü: Ezine'nin Gizli Mirası

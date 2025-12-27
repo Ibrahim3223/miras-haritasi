@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "30.785527777,40.400333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göynük Saat Kulesi

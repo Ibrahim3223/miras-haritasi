@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.999254,37.238862"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasdümen Camii

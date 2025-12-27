@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.813333333,39.165983333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dombay Höyük, Dikili: İzmir'in Gizli Anıtı

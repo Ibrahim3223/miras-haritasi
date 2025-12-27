@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.0995339,36.9184319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskiyörük Camii: Antalya'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.322163136,38.975234261"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelebibağı Höyüğü: Van Vilayeti'nin Gizli Harikası

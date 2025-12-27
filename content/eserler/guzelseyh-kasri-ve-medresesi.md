@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "40.4245529,37.7643661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güzelşeyh Kasrı ve Medresesi

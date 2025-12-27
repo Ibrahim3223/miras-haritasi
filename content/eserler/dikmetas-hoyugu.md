@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.7962115,40.0179676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dikmetaş Höyüğü

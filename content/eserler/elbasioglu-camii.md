@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8943291,40.3056755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elbaşıoğlu Camii: Tokat'ın Zile Beldesinde Yükselen Tarihî Bir Özellik

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.035526,38.571613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü Deliktepe A

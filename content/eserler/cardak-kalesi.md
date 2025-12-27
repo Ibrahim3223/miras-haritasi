@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.318994444,37.074183333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çardak Kalesi: Tarih ve Kültür Mirası

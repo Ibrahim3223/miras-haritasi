@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4068336,37.8549652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Osman Çeşmesi: Nazilli'nin Tarihi Bir Çeşmesi

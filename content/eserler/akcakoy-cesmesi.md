@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0221996,37.9631996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçaköy Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6537533,36.7413216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hızırşah Kalesi: Datça'nın Gizli Çarpısı

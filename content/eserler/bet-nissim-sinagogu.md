@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "29.0314597,41.032929"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bet Nissim Sinagogu

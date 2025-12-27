@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9929619,41.1788826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçeköy Merkez Camii

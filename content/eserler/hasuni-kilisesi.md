@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.0895729,38.1366158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasuni Kilisesi: Tarihi ve Kültürel Mirasın Özleri

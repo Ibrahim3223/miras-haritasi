@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.5410538,38.5368233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dört Göz Köprüsü

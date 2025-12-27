@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0640259,41.0225334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bostancıbaşı Abdullah Ağa Kabri

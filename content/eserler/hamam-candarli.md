@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.9319992,38.9356995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hamam, Çandarlı: Tarih, Mimarlık ve Kültür

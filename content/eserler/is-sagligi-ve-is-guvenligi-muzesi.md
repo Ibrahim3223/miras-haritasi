@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.699245986,39.952603244"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İş Sağlığı ve İş Güvenliği Müzesi

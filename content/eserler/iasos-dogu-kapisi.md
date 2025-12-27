@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5874958,37.2798843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Iasos Doğu Kapısı: Antik Tarihçenin Gizemi

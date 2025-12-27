@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.8135471,40.8782234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deli Mahmutlu Köyü Çeşmesi: Körfez'in Tarihi Bir Ölümsüzü

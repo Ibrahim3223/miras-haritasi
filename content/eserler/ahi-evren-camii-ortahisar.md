@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.735114,40.996853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Evren Camii, Ortahisar

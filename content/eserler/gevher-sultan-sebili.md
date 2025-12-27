@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9573364,41.0132523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gevher Sultan Sebili: İstanbul'un Tarihi Çeşmesi

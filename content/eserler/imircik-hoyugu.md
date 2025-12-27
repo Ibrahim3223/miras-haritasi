@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.2022583,38.4775814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İmircik Höyüğü: Konya'nın Gizli Öyküsü**

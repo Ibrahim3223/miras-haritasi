@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3812065,37.0676842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ali Nacar Camii

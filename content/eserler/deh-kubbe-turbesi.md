@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.9673767,37.0355225"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deh Kubbe Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.9873734,38.2352448"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İskeletepe Höyüğü: Malatya'da Bir Arkeolojik Sitin Gizemi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.7024994,36.8853378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antalya Deniz Biyolojisi Müzesi

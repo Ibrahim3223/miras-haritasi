@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2560997,37.8595009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cezayirli Mustafa Paşa Çeşmesi

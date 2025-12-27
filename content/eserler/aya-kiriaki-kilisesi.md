@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.0697765,41.8323059"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Kiriaki Kilisesi: Kırklareli'nin Gizli Bir Cezvesi

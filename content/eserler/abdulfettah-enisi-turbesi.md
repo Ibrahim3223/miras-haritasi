@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2818794,39.9120712"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdülfettah Enisi Türbesi

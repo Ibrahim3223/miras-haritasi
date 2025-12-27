@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.2128105,37.1806488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Bey Çeşmesi

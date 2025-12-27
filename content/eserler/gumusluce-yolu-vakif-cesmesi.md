@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7651253,41.3741951"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gümüşlüce Yolu Vakıf Çeşmesi

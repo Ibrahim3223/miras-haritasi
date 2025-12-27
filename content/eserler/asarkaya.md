@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.134131,39.450086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asarkaya: Bir Tarihi Kale'nin Gizemi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.069275,41.027542"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İvaz Fakih Türbesi

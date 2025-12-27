@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.600123,38.651344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baykuştepe: Tarihî ve Kültürel Bir Miras

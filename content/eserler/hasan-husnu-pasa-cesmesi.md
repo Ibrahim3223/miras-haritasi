@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.039644,40.994869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hasan Hüsnü Paşa Çeşmesi

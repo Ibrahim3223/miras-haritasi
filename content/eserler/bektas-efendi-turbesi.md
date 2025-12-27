@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.5613976,38.9408722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bektaş Efendi Türbesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.9528294,36.2250481"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Andriake C Kilisesi: Demre'nin Gizli Çehresini Görüntülemek

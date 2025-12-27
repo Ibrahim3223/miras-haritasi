@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.1628075,39.472435"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoşkuntepe: Ayvacık'taki Gizemli Arkeolojik Sit

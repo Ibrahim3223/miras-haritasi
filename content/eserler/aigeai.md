@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.796867,36.768944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aigeai: Adana Yumurtalık'taki Örenkaya'nın Gizli Kahramanı

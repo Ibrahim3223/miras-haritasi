@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3798895,38.2784328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gavurviran Höyüğü: Elbistan'ın Gizemli Arkeolojik Mirası

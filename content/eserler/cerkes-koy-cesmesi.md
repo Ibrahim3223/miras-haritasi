@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6721573,37.7638855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çerkes Köy Çeşmesi

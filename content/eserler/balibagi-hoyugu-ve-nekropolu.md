@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7545052,40.5353432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balıbağı Höyüğü ve Nekropolü

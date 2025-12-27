@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.219965,38.4625549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İzmir Edebiyat Müze Kütüphanesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.6467609,38.2241096"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Sinan Hamamı

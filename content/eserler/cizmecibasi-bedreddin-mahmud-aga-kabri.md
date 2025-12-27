@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.991814,41.033429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çizmecibaşı Bedreddin Mahmud Ağa Kabri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3236923,41.1289177"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlu Çeşme, Gazitepe: Silivri'nin Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.057566,40.915541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmenyanı Köprüsü

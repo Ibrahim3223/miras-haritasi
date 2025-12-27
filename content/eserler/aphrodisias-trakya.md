@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.834645,40.538708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aphrodisias: Trakya'nın Gizli Çehresini Keşfedin

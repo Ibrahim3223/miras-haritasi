@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0958195,40.1399918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ahmeded 1 Neolitik Yerleşimi: Bilecik'teki Eski Bir Köy**

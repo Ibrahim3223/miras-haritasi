@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.3355293,37.1108627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Augusta Arkeolojik Sit

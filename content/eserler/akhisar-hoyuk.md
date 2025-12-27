@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.833133,38.889367"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akhisar Höyük: Tarihi ve Kültürel Mirası

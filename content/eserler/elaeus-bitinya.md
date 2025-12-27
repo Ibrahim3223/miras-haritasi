@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.297325,41.115693"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elaeus (Bitinya)

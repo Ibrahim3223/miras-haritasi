@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.7046528,36.8791504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ** İşçi ve Oğlu Heykeli: Antalya'nın Tarihi Mirası **

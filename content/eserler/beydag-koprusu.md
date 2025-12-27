@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.22493,38.087383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beydağ Köprüsü

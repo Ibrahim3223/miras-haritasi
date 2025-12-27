@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "39.2526283,38.7045937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cimşit Bey Hamamı

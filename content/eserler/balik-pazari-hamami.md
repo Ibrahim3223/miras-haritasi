@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.7056923,36.8844032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balık Pazarı Hamamı

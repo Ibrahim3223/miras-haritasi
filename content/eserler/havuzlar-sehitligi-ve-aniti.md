@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3557911,40.1322403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlar Şehitliği ve Anıtı

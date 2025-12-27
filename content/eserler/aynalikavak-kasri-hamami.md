@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9539642,41.0380402"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aynalıkavak Kasrı Hamamı Tanıtımı

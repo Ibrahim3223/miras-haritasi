@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.92483713,36.377936897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Alâeddin Camii, Mersin

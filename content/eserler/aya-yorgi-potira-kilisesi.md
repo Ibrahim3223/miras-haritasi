@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9470882,41.0279732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Yorgi Potira Kilisesi: İstanbul'un Gizli Cezvelesi

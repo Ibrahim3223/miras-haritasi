@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.297369,37.6861687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 2: Bozdoğan'ın Gizli Çeşmesi

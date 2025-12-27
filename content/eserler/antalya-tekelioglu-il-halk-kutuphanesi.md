@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "30.7039223,36.8881264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Antalya Tekelioğlu İl Halk Kütüphanesi: Tarihe ve Kültür Mirasına Bir Örnek

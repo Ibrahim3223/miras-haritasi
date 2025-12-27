@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.2839203,37.7141266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hocabali Hamamı

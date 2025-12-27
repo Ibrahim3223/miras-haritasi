@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacettepe Konservatuvar Kütüphanesi: Türkiye'nin Eğitime Özenle Hizmet Ettiği Bir Miras

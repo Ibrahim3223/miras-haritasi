@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.624633,39.320533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatören Höyük: Eskişehir'in Gizli Cenneti

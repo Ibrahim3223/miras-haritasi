@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1819992,39.1197014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bergama Voyvodası Mehmet Ağa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.8330421,40.6588593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayas Ağa Medresesi

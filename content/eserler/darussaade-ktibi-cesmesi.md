@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0809937,40.1806374"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darüssaade Kâtibi Çeşmesi

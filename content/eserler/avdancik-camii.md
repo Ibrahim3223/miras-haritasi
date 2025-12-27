@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.775862223,37.697125792"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Avdancık Camii: Beyşehir'in Gizli Mücevheri

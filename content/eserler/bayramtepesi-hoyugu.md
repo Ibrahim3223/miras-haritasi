@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.166729,38.4692345"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bayramtepesi Höyüğü: Malatya'nın Gizli Kahramanı

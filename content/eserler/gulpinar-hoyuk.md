@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.2338771,39.474441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gülpınar Höyük: Yozgat'ın Gizli Öyküsü**

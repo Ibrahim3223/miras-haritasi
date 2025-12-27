@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.8983002,41.0064011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alacanlı Köprüsü: Tarihi ve Kültür Mirası

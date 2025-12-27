@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9592781,41.0080338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoban Çavuş Camii Haziresi

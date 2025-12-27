@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4785118,38.7164497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çifteönü Camii

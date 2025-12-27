@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.833650644,39.934899872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Üniversitesi Tarihi Müzesi

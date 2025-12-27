@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9639473,39.6254921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Emirci Sultan Türbesi Ve Camii**

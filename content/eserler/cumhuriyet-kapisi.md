@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.149555555,38.428055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumhuriyet Kapısı

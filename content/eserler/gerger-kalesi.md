@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.016335,37.957209"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gerger Kalesi: Güneydoğu Anadolu Bölgesi'nin Gizli Çehresi

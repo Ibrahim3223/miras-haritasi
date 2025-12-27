@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.960291,41.019633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kadın Hamamı, Unkapanı: İstanbul'un Tarihî Kültürel Mirası

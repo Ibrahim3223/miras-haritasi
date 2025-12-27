@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.2657,38.711102"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Ahmet Baba Türbesi

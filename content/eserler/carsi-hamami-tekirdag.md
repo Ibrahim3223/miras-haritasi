@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.5135975,40.9784279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Hamamı: Tekirdağ'ın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0603352,41.6383095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokuzhöyük Köyiçi Tümülüsü

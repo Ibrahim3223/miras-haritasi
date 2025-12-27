@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.9699898,40.3544846"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haydar Çavuş Camii Çeşmesi

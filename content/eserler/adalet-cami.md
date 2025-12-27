@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.2999779,36.9604762"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adalet Camii: Adana'nın Tarihî Bir Zenginliği

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9333744,41.0298653"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cemâleddin Server Revnakoğlu Kabri

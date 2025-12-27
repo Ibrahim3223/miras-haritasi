@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0624161,38.2473679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demir Baba Çeşmesi, Ödemiş

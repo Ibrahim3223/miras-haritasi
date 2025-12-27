@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.023645,41.018379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atik Valide Darülhadisi

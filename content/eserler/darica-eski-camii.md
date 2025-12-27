@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.3825111,40.7590866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darıca Eski Camii: Kocaeli'nin Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.6582642,37.4007187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdülfettah Ağa Hamamı

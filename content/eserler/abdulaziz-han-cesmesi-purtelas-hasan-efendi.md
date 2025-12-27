@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.987524,41.0294189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Abdülaziz Han Çeşmesi, Pürtelaş Hasan Efendi

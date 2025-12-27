@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.095917,37.605175"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çiller Köprüsü

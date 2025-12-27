@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.757328,38.2940941"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Helvacılar Camii, Urla

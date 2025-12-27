@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.915504,36.7438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haydar Baba Türbesi: Antalya'nın Gizli Cenneti

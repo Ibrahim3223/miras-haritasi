@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.977339,41.047309"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Elefterios Rum Ortodoks Kilisesi

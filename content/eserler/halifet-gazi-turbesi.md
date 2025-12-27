@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.823185,40.649353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halifet Gazi Türbesi

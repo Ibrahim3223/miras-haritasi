@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.976845983,41.00543386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halı ve Kilim Müzesi

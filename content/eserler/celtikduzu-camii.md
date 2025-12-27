@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.4978001,40.7501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeltikdüzü Camii

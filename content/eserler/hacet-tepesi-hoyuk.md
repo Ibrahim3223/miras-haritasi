@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.138693782,39.112686208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacet Tepesi Höyük: Konya'nın Gizli Hazineleri

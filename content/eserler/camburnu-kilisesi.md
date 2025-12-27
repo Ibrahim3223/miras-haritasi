@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.203397,40.911447"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamburnu Kilisesi: Sürmene'nin Gizli Çeşmesi

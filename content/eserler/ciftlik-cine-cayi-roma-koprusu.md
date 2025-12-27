@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8363514,37.762394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftlik Çine Çayı Roma Köprüsü

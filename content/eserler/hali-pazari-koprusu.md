@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4067211,38.6797829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halı Pazarı Köprüsü: Uşak'ta Bir Kültür Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.93975,41.037802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Abdullah El-Hudri Türbesi

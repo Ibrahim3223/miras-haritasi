@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3375301,41.9387207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Geçitağzı Alayçeşme Güney B Tümülüsü

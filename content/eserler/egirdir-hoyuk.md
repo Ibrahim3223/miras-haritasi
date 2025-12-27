@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.819083,37.889583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eğirdir Höyük: Tarihî Bir Mirasın İzleri

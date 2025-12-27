@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2913361,39.9430618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Issız Cuma Camii

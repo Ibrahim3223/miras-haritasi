@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.4284306,40.2486687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agios Theodoros Kilisesi: Karacabey'in Gizli Çehresini Keşfedin

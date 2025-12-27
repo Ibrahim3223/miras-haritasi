@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3449993,37.087101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bodrum'un Gizli Cenneti: Havva Kadın Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.3272436,36.1485033"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Dört Ayaklı Anıt Mezar: Aydıncık'taki Bir Antik Kahramanın Anıtı**

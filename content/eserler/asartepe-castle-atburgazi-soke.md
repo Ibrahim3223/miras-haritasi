@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Asartepe Kalesi: Söke'nin Tarihi Eşiği

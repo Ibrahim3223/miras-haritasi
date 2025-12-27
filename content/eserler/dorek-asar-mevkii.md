@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5681,38.4803"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dörek Asar Mevkii: Sivaslı'nın Gizli Öreni

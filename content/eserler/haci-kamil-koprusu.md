@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.7923813,37.157032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kamil Köprüsü: Şanlıurfa'nın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1679001,37.5124016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydoğdu Camii: Denizli'nin Gizli Çehresini Keşfetmek

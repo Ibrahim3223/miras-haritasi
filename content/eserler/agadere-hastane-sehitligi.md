@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3698692,40.1591454"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağadere Hastane Şehitliği

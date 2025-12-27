@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.5458775,38.4242592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alfaklar Köprüsü

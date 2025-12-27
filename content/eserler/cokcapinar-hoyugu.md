@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9678612,39.7807541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çokçapınar Höyüğü: Bilecik'in Tarihî Mirası

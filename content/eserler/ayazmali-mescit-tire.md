@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7392654,38.0810699"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ayazmalı Mescit, Tire

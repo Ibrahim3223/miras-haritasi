@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6490993,38.2238007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı İlyas Camii, Bayındır

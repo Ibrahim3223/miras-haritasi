@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.941889,41.031709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Cafer Bin Abdullah El Ensari Türbesi

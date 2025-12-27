@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.3630829,40.076088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dardanos Tümülüsü: Çanakkale'nin Gizli Mirası

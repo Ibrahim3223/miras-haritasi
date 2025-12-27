@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.877466,39.300754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asartepe, Çamoba: Ayvalık'ın Eski Kaleleri Arasından İlgi Çeken Bir Örneği

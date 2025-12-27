@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.6657143,37.5352631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Alibeyhüyüğü Arkeolojik Sit

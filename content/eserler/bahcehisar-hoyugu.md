@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.0711088,39.0184647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçehisar Höyüğü: Konya'nın Gizli Mirası

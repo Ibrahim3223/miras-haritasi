@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.4950981,37.8693352"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasbey Darülhuffazı: Konya'nın Kültürel Mirası

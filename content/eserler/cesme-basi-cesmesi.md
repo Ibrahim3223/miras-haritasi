@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2540493,37.8579636"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme Başı Çeşmesi: Kuşadası'nın Eski Şöminesi

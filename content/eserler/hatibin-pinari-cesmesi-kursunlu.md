@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.262419494,40.836382141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hatıbın Pınarı Çeşmesi, Kurşunlu

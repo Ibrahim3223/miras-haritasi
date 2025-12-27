@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.0079002,41.9778709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ahmet Camii, Abana: Kastamonu'nun Tarihi Bir Mirası

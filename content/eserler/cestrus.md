@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.329444444,36.236388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cestrus: Eski Roma Dönemi'nin Gizli Mirası

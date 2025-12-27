@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.5011,40.8459999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakırtepe Çayıriçi Camii: Artvin'in Gizli Mirası

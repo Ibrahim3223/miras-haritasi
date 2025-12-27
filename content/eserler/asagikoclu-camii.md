@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.5051003,41.5649986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağıkoçlu Camii

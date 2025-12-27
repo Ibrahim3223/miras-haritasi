@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4676857,41.4142113"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Evrensekiz Mercimektepe Tümülüsü

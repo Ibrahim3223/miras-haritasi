@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.445760081,37.197016961"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akça Höyük: Kerkük'ün Öncüsü

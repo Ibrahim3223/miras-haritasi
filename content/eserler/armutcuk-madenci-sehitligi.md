@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.5031471,41.3490334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Armutçuk Madenci Şehitliği

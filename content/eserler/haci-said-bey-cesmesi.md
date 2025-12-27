@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5125084,40.9758492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Said Bey Çeşmesi: Tekirdağ'ın Tarihi Bir Çeşmesi

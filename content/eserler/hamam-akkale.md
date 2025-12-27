@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.2224808,36.5288773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamam, Akkale: Erdemli'nin Tarihi Bir Mirası

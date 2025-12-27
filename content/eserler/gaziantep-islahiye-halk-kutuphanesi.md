@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "36.635277777,37.023333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gaziantep İslahiye Halk Kütüphanesi

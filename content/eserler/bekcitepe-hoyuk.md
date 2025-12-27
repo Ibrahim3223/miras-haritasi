@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.624323203,37.774556384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bekçitepe Höyük: Niğde'nin Gizli Hazinesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.767169,36.903543"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Düden Köprüsü: Antalya'nın Görsel Köprüsü

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "30.2894993,37.7149582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burdur Saden Kütüphanesi

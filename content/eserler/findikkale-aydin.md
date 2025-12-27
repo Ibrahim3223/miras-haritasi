@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.3111649,37.698719"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fındıkkale, Aydın: Kuşadası'nın Tarihî Kale Kahramanı

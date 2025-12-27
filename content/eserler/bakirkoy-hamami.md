@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.875364,40.978582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bakırköy Hamamı**

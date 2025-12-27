@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.970164,41.004955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bostancıbaşı Ali Ağa Camii

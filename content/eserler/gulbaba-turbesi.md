@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.2319927,42.029892"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gülbaba Türbesi**

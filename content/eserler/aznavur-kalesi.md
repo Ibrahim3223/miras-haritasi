@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.516819,37.083119"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aznavur Kalesi: Mardin'in Gizli Kahramanı

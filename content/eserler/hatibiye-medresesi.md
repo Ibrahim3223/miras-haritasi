@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "42.1063461,38.3984528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatibiye Medresesi

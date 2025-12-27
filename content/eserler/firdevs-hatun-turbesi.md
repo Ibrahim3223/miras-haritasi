@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.2036552,40.1694679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Giriş

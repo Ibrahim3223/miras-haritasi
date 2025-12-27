@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.1648843,40.5146051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Babam Sultan Türbesi: Sakarya'da Bir Geçmişe Yolculuk

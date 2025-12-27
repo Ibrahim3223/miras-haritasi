@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0479317,40.9057312"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Fotini Ayazması

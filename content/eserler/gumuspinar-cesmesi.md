@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0181999,37.5620995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümüşpınar Çeşmesi

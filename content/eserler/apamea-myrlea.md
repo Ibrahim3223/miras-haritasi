@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.8833,40.3764"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Apamea Myrlea: Bursa'nın Gizli Cenneti

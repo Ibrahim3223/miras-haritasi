@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.642,38.874"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Citharizon: Bir Arkeolojik Sitin Gizemi

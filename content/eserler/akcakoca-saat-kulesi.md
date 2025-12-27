@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "31.124333333,41.089361111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçakoca Saat Kulesi

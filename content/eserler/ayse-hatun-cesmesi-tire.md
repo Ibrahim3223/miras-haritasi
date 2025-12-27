@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.750124,38.0831718"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayşe Hatun Çeşmesi: Tarihi ve Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7821236,41.3809128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aycılar Camii: Kastamonu'nun Tarihî Mirası

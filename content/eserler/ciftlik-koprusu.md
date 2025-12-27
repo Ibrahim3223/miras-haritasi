@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9624176,37.5575371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftlik Köprüsü

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.983349,41.071339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hisart Canlı Tarih ve Diorama Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9684505,41.0266838"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haliç Tersanesi Anıtsal Kapısı

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.058746272,37.57843604"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çine Arıcılık Müzesi

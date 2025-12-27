@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.3922304,36.5643201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Büyük Höyük, Kırıkhan

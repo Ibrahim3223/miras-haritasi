@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2448082,39.8990974"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Yukarı Mumcu Çeşmesi

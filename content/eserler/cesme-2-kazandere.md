@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3843002,37.6198997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 2, Kazandere: Aydın'ın Tarihi Bir Çeşmesi

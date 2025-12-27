@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.4247138,40.2858409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Camii: Şebinkarahisar'ın Gizli Çehresi

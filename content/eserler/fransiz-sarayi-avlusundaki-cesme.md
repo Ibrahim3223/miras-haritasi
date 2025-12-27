@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9772835,41.0315781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fransız Sarayı Avlusundaki Çeşme

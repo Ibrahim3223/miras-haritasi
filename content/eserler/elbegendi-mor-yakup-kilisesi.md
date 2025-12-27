@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.4102211,37.2833557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elbeğendi Mor Yakup Kilisesi

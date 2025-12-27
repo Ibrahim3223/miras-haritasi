@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.8135109,39.4238205"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gözecik Tümülüsü, Divriği

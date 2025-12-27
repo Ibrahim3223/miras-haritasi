@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5389557,39.4512787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Acem Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi

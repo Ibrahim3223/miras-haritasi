@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.057845,40.182131"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskici Baba Türbesi: Bursa'nın Gizli Cenneti

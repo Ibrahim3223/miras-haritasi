@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9484215,41.0192528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akdeniz Çifte Ayak Kurşunlu Medrese Tanıtımı

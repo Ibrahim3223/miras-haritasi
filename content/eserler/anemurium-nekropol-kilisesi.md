@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "32.8028488,36.0255394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anemurium Nekropol Kilisesi

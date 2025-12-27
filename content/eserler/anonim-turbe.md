@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7516365,38.0869751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Türbe: Tire, İzmir'in Gizli Tarihi

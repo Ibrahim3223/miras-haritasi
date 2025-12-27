@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.6964073,41.2458763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dağdelen Camii Çeşmesi: Safranbolu'nun Gizli Çeşmesi

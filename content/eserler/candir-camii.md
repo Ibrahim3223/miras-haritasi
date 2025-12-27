@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4816322,38.7258987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çandır Camii: Kayseri'nin Tarihî Mirasında Bir Örnek

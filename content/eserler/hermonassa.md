@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.553424,41.034159"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hermonassa: Trabzon'un Antik Mirası

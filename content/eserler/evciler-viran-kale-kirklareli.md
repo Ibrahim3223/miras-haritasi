@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5794353,41.7282562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Evciler Viran Kale: Kırklareli'nin Gizli Kahramanı

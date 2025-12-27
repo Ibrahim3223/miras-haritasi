@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4661007,37.7925987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bağlık Çeşmesi: Aydın'ın Değerli Kültürel Mirası

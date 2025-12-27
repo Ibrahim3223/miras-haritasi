@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2784462,39.9052277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüdâvent Hatun Türbesi

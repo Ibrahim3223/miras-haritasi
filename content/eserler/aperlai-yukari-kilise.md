@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.7814484,36.1599808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aperlai Yukarı Kilisesi: Tarihi Bir Miras

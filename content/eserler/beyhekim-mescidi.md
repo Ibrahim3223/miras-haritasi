@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4885063,37.8717384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beyhekim Mescidi: Konya'da Bir Tarihî Miras

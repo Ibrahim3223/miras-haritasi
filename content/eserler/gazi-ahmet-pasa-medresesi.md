@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.928947,41.021369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazi Ahmet Paşa Medresesi

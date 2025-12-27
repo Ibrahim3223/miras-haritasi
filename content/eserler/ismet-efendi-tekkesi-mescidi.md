@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9493217,41.0282898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsmet Efendi Tekkesi Mescidi

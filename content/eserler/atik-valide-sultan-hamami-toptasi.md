@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.021711,41.017995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atik Valide Sultan Hamamı, Toptaşı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.990483123,40.602162218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dodurga Köyü Çeşmesi 2: Orta'nın Tarihsel Güzelliği

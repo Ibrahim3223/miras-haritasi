@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "27.1767882,39.1180665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bergama Eski Hükümet Konağı Saat Kulesi

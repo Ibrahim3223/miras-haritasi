@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.5947419,40.570535"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağıyanlar Tümülüsü: Çankırı'nın Gizli Mirası

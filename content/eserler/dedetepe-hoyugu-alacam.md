@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.698892,41.608386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dedetepe Höyüğü, Alaçam: Türklerin En Eski Kenti

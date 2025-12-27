@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0486183,40.1902885"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bahri Baba Camii: Bursa'nın Tarihi Çağına Tanıyan Bir Miras**

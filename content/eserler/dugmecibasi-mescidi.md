@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.927136,41.047259"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Düğmecibaşı Mescidi: Eyüpsultan'ın Gizli Çehresini Keşfetmek

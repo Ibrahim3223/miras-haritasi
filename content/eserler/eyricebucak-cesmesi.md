@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.4033775,38.6766777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Eyricebucak Çeşmesi

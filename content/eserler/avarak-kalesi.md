@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.6659088,40.1357346"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Avarak Kalesi: Giresun'un Gizli Çandırı

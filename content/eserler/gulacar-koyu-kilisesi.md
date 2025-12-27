@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.232958,40.384563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gülaçar Köyü Kilisesi: Gümüşhane'nin Tarihi Mirası

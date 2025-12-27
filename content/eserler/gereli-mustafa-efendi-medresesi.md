@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0860615,37.7748795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gereli Mustafa Efendi Medresesi

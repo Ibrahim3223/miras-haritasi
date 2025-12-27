@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.256666666,39.344333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emet Ulu Cami: İhtişam ve İnanç

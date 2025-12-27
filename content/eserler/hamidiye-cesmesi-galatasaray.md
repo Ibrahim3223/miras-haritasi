@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9778404,41.0327492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamidiye Çeşmesi, Galatasaray

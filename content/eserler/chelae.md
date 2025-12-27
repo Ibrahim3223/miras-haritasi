@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.337495,41.183009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Chelae: Eski Çağın Gizemi

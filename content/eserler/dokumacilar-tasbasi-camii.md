@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.3539104,40.7491207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dokumacılar Taşbaşı Camii: Artvin'in Gizli Çehresine Bir Yolculuk

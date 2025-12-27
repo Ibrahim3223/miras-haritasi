@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.85252,40.312587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anniaca: Tarihî Bir Yerinin Gizemi

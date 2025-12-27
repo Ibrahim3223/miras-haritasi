@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9756298,40.1644783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bahçelievler Neolitik Yerleşimi**

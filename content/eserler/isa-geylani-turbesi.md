@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9321556,41.051857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsa Geylani Türbesi

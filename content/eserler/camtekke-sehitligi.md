@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3727016,40.3019333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamtekke Şehitliği: Eceabat'taki Tarihi Bir Anıt

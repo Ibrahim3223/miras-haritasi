@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.1811733,38.3868332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Buca Ortodoks Kilisesi

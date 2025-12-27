@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.948327,41.02044"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Efdalzade Medresesi

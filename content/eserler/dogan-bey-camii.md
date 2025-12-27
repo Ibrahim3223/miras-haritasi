@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7410679,38.0838585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Doğan Bey Camii

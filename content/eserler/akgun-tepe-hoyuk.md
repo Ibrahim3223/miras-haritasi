@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.212767,38.118017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akgün Tepe Höyük: Afyonkarahisar'da Bir Ören Yeri**

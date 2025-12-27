@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.979533,41.030388"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Firuz Ağa Hamamı: İstanbulluğun Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.6578,40.6957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hamza Oğlu Kasım Türbesi

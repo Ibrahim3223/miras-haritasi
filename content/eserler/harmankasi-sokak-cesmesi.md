@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7770538,41.3856735"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Harmankaşı Sokak Çeşmesi

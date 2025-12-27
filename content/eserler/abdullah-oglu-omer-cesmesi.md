@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4389877,36.7037888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdullah Oğlu Ömer Çeşmesi

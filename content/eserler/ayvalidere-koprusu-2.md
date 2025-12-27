@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.918355641,40.241370438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ayvalıdere Köprüsü 2: Bir Zamanların Kutsal Yolu

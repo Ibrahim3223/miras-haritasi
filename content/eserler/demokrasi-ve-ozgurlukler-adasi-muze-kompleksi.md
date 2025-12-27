@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.994479293,40.864494772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demokrasi ve Özgürlükler Adası Müze Kompleksi

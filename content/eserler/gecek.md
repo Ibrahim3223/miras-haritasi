@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.067317,39.083833"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gecek Arkeolojik Sit

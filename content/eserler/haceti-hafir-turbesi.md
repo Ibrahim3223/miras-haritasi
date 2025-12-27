@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9392834,41.0364571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haceti Hafir Türbesi: İstanbul'un Genci

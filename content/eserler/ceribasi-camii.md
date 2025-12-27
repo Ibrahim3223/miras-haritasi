@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.93553,41.046822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeribaşı Camii: İstanbul'un Gizli Çarpıcılarından Birisi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2847843,37.7185478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Camii, Burdur

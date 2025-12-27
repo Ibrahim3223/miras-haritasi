@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "30.66846,36.8859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antalya Kültür Merkezi: Antik Tiyatro'nun Gerçek Bir Harikası

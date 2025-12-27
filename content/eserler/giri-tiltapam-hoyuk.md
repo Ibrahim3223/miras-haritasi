@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.583603,38.196064"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Giri Tiltapam Höyük: Türkiye'nin Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.31563,37.8071632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçay Köprüsü: Aydın'ın Efsanevi Taş Köprüsü

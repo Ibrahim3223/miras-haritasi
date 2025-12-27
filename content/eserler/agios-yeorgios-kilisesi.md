@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.66744,38.767062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Agios Yeorgios Kilisesi

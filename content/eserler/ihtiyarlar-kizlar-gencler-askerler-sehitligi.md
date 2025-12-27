@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.3090324,39.9138794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İhtiyarlar, Kızlar, Gençler, Askerler Şehitliği

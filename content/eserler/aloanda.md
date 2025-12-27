@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.2619553,36.5497856"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aloanda Arkeolojik Sit

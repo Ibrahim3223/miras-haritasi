@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2839775,38.4992943"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiçekliköy Camii

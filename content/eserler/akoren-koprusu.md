@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.411568596,37.464611955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Akören Köprüsü

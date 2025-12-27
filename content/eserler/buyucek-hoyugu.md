@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.9912877,36.7824029"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyücek Höyüğü: Akçakale'nin Gizli Cenneti

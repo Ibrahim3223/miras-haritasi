@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.913083,38.2055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beytitepe Höyüğü: Ödemiş'in Gizli Öreni

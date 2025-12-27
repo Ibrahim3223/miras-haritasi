@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.3325996,40.0153389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayaş Ulu Cami: Ankara'nın Tarihi ve Kültürel Mirası

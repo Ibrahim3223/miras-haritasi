@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9803543,39.5044785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hanay Camii, Burhaniye

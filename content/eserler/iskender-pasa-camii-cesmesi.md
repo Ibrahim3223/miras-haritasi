@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.948231,41.016525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskender Paşa Camii Çeşmesi

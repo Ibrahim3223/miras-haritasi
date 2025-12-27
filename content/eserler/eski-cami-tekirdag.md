@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5133171,40.9778404"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Eski Cami, Tekirdağ: Tarih ve Kültürel Miras

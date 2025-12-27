@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9792309,39.4200058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balıklı Camii: Kütahya'nın Tarihî Bir Anıtı

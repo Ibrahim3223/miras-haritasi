@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.042519,36.906864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatma Camii: Serik'in Tarihi Bir Mirası

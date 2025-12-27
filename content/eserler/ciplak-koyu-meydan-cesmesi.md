@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.2614326,39.951313"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çıplak Köyü Meydan Çeşmesi**

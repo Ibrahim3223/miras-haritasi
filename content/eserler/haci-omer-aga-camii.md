@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.5585728,37.3615608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ömer Ağa Camii

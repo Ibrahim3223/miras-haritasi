@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.463019,41.439575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esenkıyı Köyü Camii: Tarihi ve Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.3706379,40.1083183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Geyikli Baba Hamamı**

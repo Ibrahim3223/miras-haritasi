@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.926238,36.752978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baltasıgedik Mahmut Dede Türbesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9152546,40.3313904"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hagios Apostoloi Kilisesi: Mudanya'nın Tarihî Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.0917358,40.6097832"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ali Ağa Camii, Kars: Tarihi ve Kültürel Mirasın Parçaları

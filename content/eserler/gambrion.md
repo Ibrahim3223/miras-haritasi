@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.351043,39.087569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gambrion Arkeolojik Sit

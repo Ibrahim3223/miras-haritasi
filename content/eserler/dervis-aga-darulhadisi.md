@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.0654659,38.2540627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derviş Ağa Darülhadisi: Ödemiş'in Tarihi ve Kültürel Mirası

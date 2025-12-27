@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0568562,41.1058884"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # At Heykeli 2 (Sakıp Sabancı Müzesi)

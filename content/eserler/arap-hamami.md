@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.1223984,40.4780579"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Giriş

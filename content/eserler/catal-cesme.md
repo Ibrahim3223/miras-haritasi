@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.08627,40.956377194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çatal Çeşme: Kadıköy'ün Tarihi Bir Çeşmesi

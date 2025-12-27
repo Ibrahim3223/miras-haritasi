@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9434204,41.0212517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Ali Paşa Hamamı: Fatih, İstanbul'un Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.220472222,38.466444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bornova Küçük Camii: Bir Örnek Osmanlı Mimarisine

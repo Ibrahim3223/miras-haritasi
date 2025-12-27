@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0151155,41.0236574"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gülfem Hatun Camii

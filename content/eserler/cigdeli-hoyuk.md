@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4848555,39.3643496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çiğdeli Höyük: Bir Tarihî Mirasın Öyküsü

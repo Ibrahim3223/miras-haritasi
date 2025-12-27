@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.244833333,40.219694444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İnönü Mağaraları: Ankara'nın Gizli Mirası**

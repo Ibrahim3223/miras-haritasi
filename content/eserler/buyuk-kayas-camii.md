@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.9681015,39.9141922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Kayaş Camii: Tarihi ve Kültürel Mirasımız

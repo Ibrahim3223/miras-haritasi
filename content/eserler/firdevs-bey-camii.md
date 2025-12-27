@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5547541,37.764375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Firdevs Bey Camii**

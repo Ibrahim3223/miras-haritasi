@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.490083333,38.730888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaeddin Bey Camii: Muş'un Tarihi Bir Mirası

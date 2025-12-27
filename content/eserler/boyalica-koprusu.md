@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.5826888,40.4917902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boyalıca Köprüsü

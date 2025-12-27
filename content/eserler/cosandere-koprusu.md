@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.6069031,40.7678108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Coşandere Köprüsü: Trabzon'un Eski Çağın Gizemi

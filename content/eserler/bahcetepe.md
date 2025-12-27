@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.110833,37.863517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçetepe Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.0084225,36.7585306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozhüyük, Elmalı: Antik Çağ'ın Gizli Mirası

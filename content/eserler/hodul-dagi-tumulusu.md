@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.027788347,38.512052868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hodul Dağı Tümülüsü: Ürgüp'ün Gizli Gizemi

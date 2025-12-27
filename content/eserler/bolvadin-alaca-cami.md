@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.0477543,38.7091408"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bolvadin Alaca Cami Tanıtımı

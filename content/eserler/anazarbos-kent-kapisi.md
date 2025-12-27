@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8972664,37.2493286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anazarbos Kent Kapısı

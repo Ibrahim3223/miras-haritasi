@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.487282,40.572682"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alpullu Mahallesi Çeşmesi 1: Gümüşhane'nin Tarihi ve Kültürel Mirası

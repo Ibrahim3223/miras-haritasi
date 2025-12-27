@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.770115291,40.990840912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayazma, Küçükçekmece

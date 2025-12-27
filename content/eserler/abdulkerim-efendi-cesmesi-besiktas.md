@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0238667,41.0489655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdülkerim Efendi Çeşmesi

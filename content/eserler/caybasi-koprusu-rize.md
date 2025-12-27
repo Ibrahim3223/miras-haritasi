@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.5484314,40.9211121"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaybaşı Köprüsü: Rize'nin Tarihi Bir Mirası

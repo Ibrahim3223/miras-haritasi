@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.2280884,41.7374077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hagia Martires Kilisesi

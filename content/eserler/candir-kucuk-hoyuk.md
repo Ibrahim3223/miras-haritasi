@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.98815,38.183383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çandır Küçük Höyük: Denizli'nin Gizli Cenneti

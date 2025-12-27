@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1399002,37.0027008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akpınar Boyalı Camii: Tarihî Bir Mirasın Gizemi

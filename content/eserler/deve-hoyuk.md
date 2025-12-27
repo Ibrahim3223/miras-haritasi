@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.7359109,36.7555421"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Deve Höyük: Gaziantep'te Eski Çağların Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.029686,41.2542114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Veli Gebeş Camii: Zonguldak'ta Bir Önemli Cami Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0796185,41.1404305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Debbağhane Çeşmesi

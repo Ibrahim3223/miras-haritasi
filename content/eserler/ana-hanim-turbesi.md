@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2700348,39.904232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ana Hanım Türbesi

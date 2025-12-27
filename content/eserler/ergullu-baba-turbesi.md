@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.703985,41.26188"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ergüllü Baba Türbesi: Safranbolu'nun Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.092763,37.98529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haçin Kalesi: Tarihi ve Kültürel Mirası Tanıtımı

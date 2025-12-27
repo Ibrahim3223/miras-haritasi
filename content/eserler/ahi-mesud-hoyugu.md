@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.6667849,39.9500151"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Mesud Höyüğü

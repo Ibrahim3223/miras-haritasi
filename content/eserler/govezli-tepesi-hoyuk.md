@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.5945511,37.5409241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gövezli Tepesi Höyük: Tarihî Bir Mirasın Gizemi

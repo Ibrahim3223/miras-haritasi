@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.1207256,38.3202896"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Emir Sultan Türbesi, Gaziemir**

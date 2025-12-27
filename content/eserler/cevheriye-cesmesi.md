@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.737406,37.312407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevheriye Çeşmesi: Mardin'in Tarihi Bir Anıtı

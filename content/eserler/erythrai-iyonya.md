@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.514014,38.167325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Erythrai: İyonya'nın Gizli Mirası**

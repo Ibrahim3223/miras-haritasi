@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5357342,38.7603722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 3 Numaralı Boyacıoğlu Çeşmesi: Afyonkarahisar'ın Tarihi Bir Zirvesi

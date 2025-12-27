@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5054054,37.8706055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Kümbet Mevlana: Konya'nın Gizli Cenneti

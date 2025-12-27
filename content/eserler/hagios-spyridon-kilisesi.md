@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.2459431,41.0728035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hagios Spyridon Kilisesi: Silivri'nin Gizli Çiçeği

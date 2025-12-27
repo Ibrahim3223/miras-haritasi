@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "30.2861099,37.7196159"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burdur İl Halk Kütüphanesi: Türkiye'nin Kültürel Mirası

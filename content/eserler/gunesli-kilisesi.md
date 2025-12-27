@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.6192513,38.8970604"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güneşli Kilisesi: Kayseri'nin Eski Kenti Kocasinan'da Gizli Bir Miras

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.011071,41.02526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damalis: Bir Antik Sitin Gizemi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6491432,38.5476723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Cami, Kula: Manisa'nın Tarihi Bir Mirası

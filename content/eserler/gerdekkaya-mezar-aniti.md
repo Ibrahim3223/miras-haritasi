@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6972809,39.2256393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gerdekkaya Mezar Anıtı

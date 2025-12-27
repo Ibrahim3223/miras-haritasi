@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.963256,41.010011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayezid Medresesi: Fatih'te Bir Geç Klasik Medrese

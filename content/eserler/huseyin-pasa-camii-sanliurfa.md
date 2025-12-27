@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7906113,37.1526299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüseyin Paşa Camii, Şanlıurfa

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9464111,41.0199623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Ahmed-i Buhari Türbesi

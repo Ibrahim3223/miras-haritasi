@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.5597687,38.9450684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cuma Camii, Hacıbektaş: Tarihî Bir Mirasın Gizemi**

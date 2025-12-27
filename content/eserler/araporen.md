@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.844967,39.552867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arapören Arkeolojik Sit

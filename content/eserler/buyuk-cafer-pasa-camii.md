@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.679526642,41.074672866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Cafer Paşa Camii: Çayeli'nin Gözde Tarihi Eseri

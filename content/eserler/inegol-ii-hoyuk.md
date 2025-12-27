@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.546617,40.066383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnegöl II Höyük: Bursa'nın Gizli Cenneti

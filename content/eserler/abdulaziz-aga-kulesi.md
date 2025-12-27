@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.7855606,37.3155251"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdülaziz Ağa Kulesi: Milas'ta Bir Tarihî Hamam

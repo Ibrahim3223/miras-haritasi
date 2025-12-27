@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.2624073,40.6514206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Müteferrika Kağıt Müzesi

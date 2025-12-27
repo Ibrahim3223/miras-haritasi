@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.768053,38.32247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Ali Camii, Urla

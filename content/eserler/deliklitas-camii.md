@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4917297,38.7132492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deliklitaş Camii

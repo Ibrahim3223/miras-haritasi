@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.933823,41.048315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayşe Bihri Kadın Sebili: Eyüpsultan'ın Gizli Çeşmesi

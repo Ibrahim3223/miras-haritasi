@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.784586,37.3156853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ağa Camii, Milas

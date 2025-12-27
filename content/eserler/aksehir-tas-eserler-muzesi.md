@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.4092255,38.35989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akşehir Taş Eserler Müzesi: Tarihi ve Kültürel Mirasının Güzeli**

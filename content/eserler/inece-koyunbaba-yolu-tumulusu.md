@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0706329,41.696579"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnece Koyunbaba Yolu Tümülüsü

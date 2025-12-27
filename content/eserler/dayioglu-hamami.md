@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0729294,40.1849022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dayıoğlu Hamamı

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.152083333,41.278722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamardo Kilisesi: Tarihi ve Kültürel Mirasın İyice Tanımlanması

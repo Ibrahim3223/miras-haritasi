@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.416015,39.6068195"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çorak Höyük: Türkiye'nin Gizli Kahramanı

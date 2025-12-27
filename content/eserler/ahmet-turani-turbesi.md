@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.999233,41.040963"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmet Turani Türbesi

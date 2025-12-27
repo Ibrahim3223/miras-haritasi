@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9281521,41.005249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cambaziye Camii

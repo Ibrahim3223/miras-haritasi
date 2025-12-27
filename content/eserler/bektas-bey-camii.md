@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.5546837,40.1396713"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bektaş Bey Camii

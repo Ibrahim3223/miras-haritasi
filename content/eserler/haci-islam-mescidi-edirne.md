@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5651226,41.6731453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı İslam Mescidi, Edirne

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.3728561,39.0596962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüseyin Ağa Camii, Mucur

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.056221,40.1826477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bursa Sağlık Tarihi Müzesi

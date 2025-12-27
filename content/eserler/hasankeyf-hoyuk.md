@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.4292412,37.7186699"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasankeyf Höyük: Bir Tarih Öreni

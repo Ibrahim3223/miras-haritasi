@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.924353,41.000406"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatice Hanım Çeşmesi, Sümbül Efendi: İstanbul'un Gizli Cenneti

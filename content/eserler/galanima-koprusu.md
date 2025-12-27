@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.592533,41.009677"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Galanima Köprüsü: Trabzon'un Tarihî Mirası

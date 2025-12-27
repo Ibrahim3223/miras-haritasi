@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "28.9602814,41.0142822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Hoca Medresesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.199418,40.950628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bayramören Köprüsü

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "39.6969299,39.5833282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarçaranits Manastırı: Erzurum Vilayeti'nin Gizli Çehresini Açıklamaya Değer Bir Miras

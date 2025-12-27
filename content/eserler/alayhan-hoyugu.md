@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3222037,38.5280749"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Alayhan Höyüğü: Aksaray'ın Gizli Mirası

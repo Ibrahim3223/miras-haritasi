@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.9155216,38.7107391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halime Hatun Hamamı Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.5549412,41.6908302"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akağalar Kapısı: Edirne'nin Tarihi Bir Anıtı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5695724,38.5425606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eğlenhoca Camii: İzmir'in Tarihi Bir Mirası

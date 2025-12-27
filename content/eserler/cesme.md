@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.4325829,40.3498573"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gelibolu Çeşmesi: Çanakkale'nin Tarihi Bir Anıtı

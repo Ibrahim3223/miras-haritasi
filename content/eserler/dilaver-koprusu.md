@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.2307014,37.6717834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dilaver Köprüsü

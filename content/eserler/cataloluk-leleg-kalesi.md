@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.7220993,37.8801994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çataloluk Leleg Kalesi: Aydın'ın Gizli Çağı

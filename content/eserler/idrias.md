@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.25,37.25"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Idrias Arkeolojik Sit

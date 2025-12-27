@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.919760826,37.075369177"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağıoba Camii: Serik'te Bir Geçmişin İzleri

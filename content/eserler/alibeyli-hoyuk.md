@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.715372,38.690156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alibeyli Höyük: Manisa'nın Gizli Kıskacı

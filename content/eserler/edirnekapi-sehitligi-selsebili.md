@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.930879,41.033052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Edirnekapı Şehitliği Selsebili

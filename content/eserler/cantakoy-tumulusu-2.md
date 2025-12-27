@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0675774,41.1112671"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çantaköy Tümülüsü 2: Silivri'nin Gizli Mirası

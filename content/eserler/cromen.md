@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.536702,40.700735"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ege'nin Gizli Şehri: Cromen

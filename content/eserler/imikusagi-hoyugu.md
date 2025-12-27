@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.4503904,38.5253795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmikuşağı Höyüğü: Elazığ'ın Eski Uygarlığın Gizemi

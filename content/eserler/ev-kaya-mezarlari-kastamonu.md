@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7698174,41.3699722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ev Kaya Mezarları, Kastamonu

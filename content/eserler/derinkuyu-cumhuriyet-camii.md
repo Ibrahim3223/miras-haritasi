@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.734666666,38.376333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derinkuyu Cumhuriyet Camii

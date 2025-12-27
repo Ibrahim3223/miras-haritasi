@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6868114,38.3108368"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarpan Derbenti: Urla'nın Yüzyıllara Yansıtacak Köprüsü

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.3230324,41.2401733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Araç Kalesi: Tarihi ve Kültürel Mirasının Gizli Gizemi**

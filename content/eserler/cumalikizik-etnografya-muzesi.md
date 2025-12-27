@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.171904,40.175058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumalıkızık Etnografya Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9447595,41.0077761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cerrah Mehmet Paşa Camii Şadırvanı

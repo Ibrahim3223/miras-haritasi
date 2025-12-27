@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9135723,39.8032227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dodurga Tümülüsü

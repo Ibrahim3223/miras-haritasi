@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9309578,40.7666969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hüseyin Paşa Camii: İzmit'in Tarihi Bir Mirası

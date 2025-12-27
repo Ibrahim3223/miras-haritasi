@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1778831,39.1216774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme - Atmaca, Çınarlı Hamam Sokak

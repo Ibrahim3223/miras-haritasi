@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.445972222,38.135277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çermik Ulu Camii

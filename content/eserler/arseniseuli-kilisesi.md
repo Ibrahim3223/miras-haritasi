@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.457186111,40.814241666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arseniseuli Kilisesi: Tarihi ve Kültürel Mirasımız

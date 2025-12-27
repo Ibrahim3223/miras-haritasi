@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.67097,39.19355"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gergita

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.9025726,38.4620247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güney Kaya Mezar Odası

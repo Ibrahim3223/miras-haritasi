@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4668655,41.6830177"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Kadın Höyüğü

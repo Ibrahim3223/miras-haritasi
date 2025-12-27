@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0294189,40.9959183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agios Giorgios Rum Ortodoks Kilisesi

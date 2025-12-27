@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "36.175421094,36.586936574"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskenderun İlçe Halk Kütüphanesi

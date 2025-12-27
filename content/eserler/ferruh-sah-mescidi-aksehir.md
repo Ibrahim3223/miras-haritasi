@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.4077396,38.3552322"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferruh Şah Mescidi, Akşehir

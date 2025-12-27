@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.117508137,40.173153677"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakmaktepe, Bandırma: Eski Yunanistan'ın İzleri Balıkesir'de

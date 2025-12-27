@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5346928,38.755352"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Aftal Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.132916,38.414901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnönü Evi Müzesi

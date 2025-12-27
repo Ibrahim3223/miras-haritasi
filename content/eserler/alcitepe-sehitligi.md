@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2330647,40.0965309"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alçıtepe Şehitliği

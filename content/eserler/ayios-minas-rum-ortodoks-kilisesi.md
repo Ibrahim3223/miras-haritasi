@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.931949,41.000462"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Minas Rum Ortodoks Kilisesi

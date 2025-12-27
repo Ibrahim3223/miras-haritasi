@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.1177635,36.7187271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçurun Camii: Kilis'in Tarihi ve Kültürel Mirası

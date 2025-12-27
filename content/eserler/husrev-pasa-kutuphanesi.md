@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9355125,41.0484962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hüsrev Paşa Kütüphanesi: Eyüpsultan, İstanbul'da Bir Öncü Kütüphane

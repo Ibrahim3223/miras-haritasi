@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.65073,40.92365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Candara: Geçmişin İzleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0679855,40.1867561"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Abdal Camii Çeşmesi: Bursa'nın Tarihî Bir Çeşmesi**

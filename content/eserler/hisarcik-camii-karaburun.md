@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.4874992,38.6521988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hisarcık Camii: Karaburun'un Tarihî Bir Anıtı

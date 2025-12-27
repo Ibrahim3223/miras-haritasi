@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.589971,41.034016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Athyras Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.612792,40.614592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gölköy Mahallesi Kilisesi: Geçmişin Eserleri Arasındaki Düzenlisinin Gizemi

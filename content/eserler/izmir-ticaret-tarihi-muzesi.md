@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.132777777,38.426944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzmir Ticaret Tarihi Müzesi: İzmir'in Ticaret ve Kültür Mirasını Yansıtması

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.6656418,40.034687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hançerli Fatma Sultan Camii: İnegöl'ün Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9815922,41.0044518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hasan Baba Kabri: Fatih'in Gizli Anıtı

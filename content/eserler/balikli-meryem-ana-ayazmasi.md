@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9157257,41.0066566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Balıklı Meryem Ana Ayazması**

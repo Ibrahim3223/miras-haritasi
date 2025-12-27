@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0777454,41.1571312"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beşir Ağa Çeşmesi: Beykoz'un Tarihî ve Kültürel Bir Zenginliği

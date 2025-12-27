@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.343404129,37.936700534"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Efes Pollio Çeşmesi

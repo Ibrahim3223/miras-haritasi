@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9767075,39.4171257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dönenler Camii: Kütahya'nın Tarihî Bir Zengini

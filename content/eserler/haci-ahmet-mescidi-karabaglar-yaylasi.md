@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3953991,37.1800003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ahmet Mescidi, Karabağlar Yaylası: Geçmişten Günümüze Bir Ziyaretçi Cenneti

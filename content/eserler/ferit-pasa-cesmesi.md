@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4863434,37.8673935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferit Paşa Çeşmesi

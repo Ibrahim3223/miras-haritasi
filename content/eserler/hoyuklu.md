@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8182006,39.2302835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Höyüklü: Kırşehir'in Gizli Çağıtları

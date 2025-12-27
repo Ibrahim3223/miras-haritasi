@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3848076,38.3931427"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bekar Sultan Doğu Höyüğü: Gülağaç'ta Gizlenen Tarih

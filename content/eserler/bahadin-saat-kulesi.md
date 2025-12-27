@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "35.304138888,39.676027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahadın Saat Kulesi

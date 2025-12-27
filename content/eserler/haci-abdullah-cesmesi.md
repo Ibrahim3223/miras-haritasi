@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7731743,41.3793564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Abdullah Çeşmesi

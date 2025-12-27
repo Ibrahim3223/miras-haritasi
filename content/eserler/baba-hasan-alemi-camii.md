@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.952755,41.01271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Baba Hasan Alemi Camii: İskenderpaşa'daki Bir Tarihî Cami

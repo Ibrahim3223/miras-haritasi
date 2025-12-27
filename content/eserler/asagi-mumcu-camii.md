@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2699318,39.9083672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Mumcu Camii

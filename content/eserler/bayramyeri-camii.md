@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.083622,37.7847099"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayramyeri Camii: Denizli'nin Dini Mirası

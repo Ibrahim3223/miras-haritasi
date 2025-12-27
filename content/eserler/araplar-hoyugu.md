@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.9445648,39.9302673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Araplar Höyüğü: Ankara'nın Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "28.9727116,41.0245476"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Galata Sarayı

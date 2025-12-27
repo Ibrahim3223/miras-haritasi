@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3010063,37.7038612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dağlılar Çeşmesi: Aydın'ın Görsel Zirvesi

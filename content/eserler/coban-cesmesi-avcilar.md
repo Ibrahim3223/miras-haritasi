@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.744547,40.98297"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çoban Çeşmesi (Avcılar)

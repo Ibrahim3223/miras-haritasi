@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "25.8335361,40.1907654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Evangelismos Teotoku Kilisesi: Gökçeada'nın Tarihi Bir Harikası

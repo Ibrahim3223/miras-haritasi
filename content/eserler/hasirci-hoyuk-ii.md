@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.3482704,38.4736061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasırcı Höyük II: Malatya'nın Gizli Mirası

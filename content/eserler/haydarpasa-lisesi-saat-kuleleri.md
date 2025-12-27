@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "29.0199413,41.0041313"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Haydarpaşa Lisesi Saat Kuleleri

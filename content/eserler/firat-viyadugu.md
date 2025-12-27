@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.9051,37.0489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fırat Viyadüğü: Tarihsel Bir Köprü Çöplüğü

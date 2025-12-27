@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "36.3524704,36.4994583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hatay Kırıkhan İlçe Halk Kütüphanesi

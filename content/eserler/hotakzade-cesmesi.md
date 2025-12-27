@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.513752,37.8750191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hotakzade Çeşmesi

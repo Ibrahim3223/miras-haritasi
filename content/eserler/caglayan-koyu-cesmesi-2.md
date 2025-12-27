@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.6075974,40.728611"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayan Köyü Çeşmesi (2): Yağlıdere'de Bir Önemli Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0514717,40.1116219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Daskyleion Tümülüsü 1: Bandırma'da Bir Antik Miras

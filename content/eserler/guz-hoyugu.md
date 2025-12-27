@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.2058226,39.7816111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güz Höyüğü

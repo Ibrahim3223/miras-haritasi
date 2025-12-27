@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.2168121,40.0443535"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsa Sofi Türbesi: Sakarya'nın Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.940296,41.02586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ali Paşa Çeşmesi, Atikali**

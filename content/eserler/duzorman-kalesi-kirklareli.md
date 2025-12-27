@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.3943672,41.8359413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Düzorman Kalesi

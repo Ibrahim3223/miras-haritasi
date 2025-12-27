@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7112846,38.6242104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Mustafa Kemal Paşa Çeşmesi

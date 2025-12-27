@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.834923825,38.710437781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güray Müzesi: Avanos'un Kültür Mirası

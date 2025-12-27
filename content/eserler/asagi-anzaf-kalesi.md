@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.464532,38.567965"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Anzaf Kalesi: Van'ın Eski Çağlarından Kalma Gizemi

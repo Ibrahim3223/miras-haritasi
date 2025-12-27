@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.934435,41.047873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Feridun Ahmet Paşa Türbesi: Eyüpsultan'ın Gizli Kahramanı

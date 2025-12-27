@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0769939,40.984127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalılı Hamdi Yazır Kabri

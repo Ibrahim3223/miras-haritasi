@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.2003212,39.7263756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Tuğrul Türbesi: Polatlı'nın Gizli Cenneti

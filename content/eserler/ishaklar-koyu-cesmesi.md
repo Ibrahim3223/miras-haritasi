@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.3761768,38.3410034"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İshaklar Köyü Çeşmesi: Ulubey'in Tarihî Çeşmesi

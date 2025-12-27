@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aslantorunlar Etnografya Müzesi: Sinop'ta Bir Kültürel Miras

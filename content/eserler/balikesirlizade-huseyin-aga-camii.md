@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.2079964,39.8795547"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balıkesirlizade Hüseyin Ağa Camii: Tarihi ve Kültürel Mirasımız

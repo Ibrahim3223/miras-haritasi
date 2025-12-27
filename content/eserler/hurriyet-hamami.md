@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.979235,41.039539"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hürriyet Hamamı: İstanbul'un Tarihi Bir Hamamı

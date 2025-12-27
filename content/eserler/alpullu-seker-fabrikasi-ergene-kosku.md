@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.149559374,41.366586278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alpullu Şeker Fabrikası Ergene Köşkü: Kırklareli'nin Gizli Çehresini Keşfetmek

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.332519,36.9837004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Irmak Hamamı

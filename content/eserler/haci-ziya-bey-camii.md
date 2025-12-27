@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.405916666,37.75125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ziya Bey Camii: Aydın'ın Tarihi Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5256481,39.7655487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hak Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi

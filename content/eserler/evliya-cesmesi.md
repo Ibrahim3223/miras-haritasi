@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9236962,41.0132279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Evliya Çeşmesi: Fatih'in Gizemli Suyu

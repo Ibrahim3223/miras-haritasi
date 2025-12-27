@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.982392983,40.226150154"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ağılcık Merkez Çeşmesi: Ankara'nın Gizli Cenneti

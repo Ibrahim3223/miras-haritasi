@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9631862,41.0099918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beyazıt Medresesi Avlusu'ndaki Sütun Çeşme: Tarihi ve Mimari Özellikleri

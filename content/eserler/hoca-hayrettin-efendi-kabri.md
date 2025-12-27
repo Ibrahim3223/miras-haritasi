@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9631863,41.0201721"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Hayrettin Efendi Kabri

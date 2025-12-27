@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0484619,41.1136246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çantaköy Tümülüsü 3**

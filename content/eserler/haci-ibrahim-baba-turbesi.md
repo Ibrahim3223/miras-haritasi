@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.277813,39.8997993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı İbrahim Baba Türbesi

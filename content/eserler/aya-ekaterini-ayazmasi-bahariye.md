@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.027483,40.9861069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Ekaterini Ayazması, Bahariye

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8277245,41.5411873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arnavut Ağılı B Tümülüsü

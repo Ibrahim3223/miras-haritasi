@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.142869991,40.830043569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozkuş Köyü Camii

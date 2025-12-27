@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.908775,41.568321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüseyin Bey Çeşmesi: Bafra'nın Tarihi Bir Çeşmesi

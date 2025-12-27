@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.0490828,36.870917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmen Höyük: Şanlıurfa'nın Gizli Anıtı

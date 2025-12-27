@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.8148154,39.5779336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Eğrek Tepesi: Sivas'ın Eski Uygarlığının Gizemi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.5300808,40.3229256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Agios Georgios Kilisesi: Karacabey, Bursa'daki Tarihi Bir Miras

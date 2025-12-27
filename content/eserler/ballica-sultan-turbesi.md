@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.8788548,39.6436081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ballıca Sultan Türbesi

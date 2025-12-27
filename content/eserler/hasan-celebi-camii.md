@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8413448,37.8511848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Çelebi Camii

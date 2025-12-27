@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8882446,40.3020744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bedesten Camii, Zile

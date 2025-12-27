@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.960773,41.036102"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emin Çeşmesi, Kulaksız: İstanbul'un Gizli Çeşmesi

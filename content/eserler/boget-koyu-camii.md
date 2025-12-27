@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.453125,38.3192482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Böğet Köyü Camii

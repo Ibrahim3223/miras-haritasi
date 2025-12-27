@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.222212,41.735787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Garzoubanthon Arkeolojik Sit

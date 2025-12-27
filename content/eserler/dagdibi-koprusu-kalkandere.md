@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.4521,40.919817"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dağdibi Köprüsü Kalkandere: Bir Tarihî Eğlence Yerinin Gizli Çehresi

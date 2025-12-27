@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.099649924,40.877419226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziz Paraskevi Ayazması: Heybeliada'nın Gizli Çeşmesi

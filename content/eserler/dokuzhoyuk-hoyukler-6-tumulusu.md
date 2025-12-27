@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0660362,41.6483803"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokuzhöyük Höyükler 6 Tümülüsü

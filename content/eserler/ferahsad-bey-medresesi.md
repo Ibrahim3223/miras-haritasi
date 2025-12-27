@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "39.7510452,40.133709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferahşad Bey Medresesi: Demirözü'de Bir Kültür Mirası

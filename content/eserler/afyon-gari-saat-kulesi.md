@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "30.5524349,38.7639618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Afyon Garı Saat Kulesi: Bir Zamanın Özgün Mimarisinin Mirası

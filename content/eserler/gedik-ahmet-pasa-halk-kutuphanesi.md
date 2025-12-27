@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "30.5351944,38.7549248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gedik Ahmet Paşa Halk Kütüphanesi

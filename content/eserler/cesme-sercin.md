@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3901005,37.5455017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Söke'nin Eski Şehri'nde Gizli Bir Çeşme: Serçin Çeşmesi

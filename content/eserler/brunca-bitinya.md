@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.701046,40.777757"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Brunca (Bitinya): Tarihî bir Arkeolojik Sit

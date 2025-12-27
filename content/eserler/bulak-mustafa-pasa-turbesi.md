@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.933675,41.0476859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bulak Mustafa Paşa Türbesi

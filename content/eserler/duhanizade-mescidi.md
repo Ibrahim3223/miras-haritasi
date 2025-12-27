@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.928382,41.001911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Duhanizade Mescidi: İstanbul'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.078421,40.971616"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çınardibi Menzili Çeşmesi

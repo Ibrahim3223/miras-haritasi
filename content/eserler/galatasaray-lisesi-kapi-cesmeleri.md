@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.977427,41.033469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Galatasaray Lisesi Kapı Çeşmeleri

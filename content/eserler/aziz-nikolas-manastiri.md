@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "34.895396,38.576889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziz Nikolas Manastırı: Ürgüp'te Bir Tarih Ören Yeri

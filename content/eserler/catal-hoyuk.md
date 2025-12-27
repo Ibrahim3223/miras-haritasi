@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6861553,39.2170081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatal Höyük: Tarihî Mirasın Gizemi

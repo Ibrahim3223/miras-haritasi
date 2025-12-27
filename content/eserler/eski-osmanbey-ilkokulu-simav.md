@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9752712,39.0890846"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Osmanbey İlkokulu, Simav: Bir Tarihi Edebiyat Mirası

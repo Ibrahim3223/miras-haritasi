@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.69509,39.0455506"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Böcü İnleri Kilisesi

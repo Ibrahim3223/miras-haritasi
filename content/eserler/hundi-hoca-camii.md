@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8607941,39.9347839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hundi Hoca Camii: Altındağ'da Bir Geç Osmanlı Dönemi Eseri**

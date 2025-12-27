@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.0485191,38.7105293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bolvadin Rüstem Paşa Hamamı: Afyonkarahisar'ın Gizli Cenneti

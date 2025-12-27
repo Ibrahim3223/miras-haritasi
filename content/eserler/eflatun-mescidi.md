@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.491805555,37.872305555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eflatun Mescidi: Konya'nın Tarihi ve Kültürel Mirası

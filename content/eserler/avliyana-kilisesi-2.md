@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.1340675,40.4509048"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Avliyana Kilisesi

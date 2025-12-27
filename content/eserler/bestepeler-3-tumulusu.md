@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9502392,41.1796532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beştepeler 3 Tümülüsü: Edirne'nin Gizli Mirası

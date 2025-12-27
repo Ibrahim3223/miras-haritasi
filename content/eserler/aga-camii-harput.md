@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.2498474,38.7036095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağa Camii, Harput

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0162697,41.020237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ahmediye Medresesi**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.075334,38.339036"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anzoulada: Türkiye'nin Gizli Cenneti

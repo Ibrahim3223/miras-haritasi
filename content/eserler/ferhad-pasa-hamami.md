@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.4638901,41.138588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ferhad Paşa Hamamı: Çatalca'nın Tarihi ve Kültürel Mirası

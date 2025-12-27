@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.949894,38.7048759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alacalı Mescit: Palu'da Bir Tarihî Miras

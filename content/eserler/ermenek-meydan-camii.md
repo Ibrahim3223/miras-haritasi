@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.885006,36.6403389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ermenek Meydan Camii: Karaman'ın Tarihî Bir Mimarî Harikası

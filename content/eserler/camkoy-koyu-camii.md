@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.22015,39.5647926"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamköy Köyü Camii: Ayvacık'ta Bir Tarihi Örnek

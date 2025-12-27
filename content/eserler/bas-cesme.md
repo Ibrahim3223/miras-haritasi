@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5339851,38.7579765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baş Çeşme: Afyonkarahisar'ın Şirin Çeşmesi

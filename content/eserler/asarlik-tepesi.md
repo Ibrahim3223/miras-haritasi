@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.000096112,36.669408562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asarlık Tepesi: Antalya'nın Gizli Kahramanı

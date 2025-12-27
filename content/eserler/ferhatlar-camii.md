@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.779534118,41.230993776"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferhatlar Camii: Safranbolu'nun Tarihi bir Mirası

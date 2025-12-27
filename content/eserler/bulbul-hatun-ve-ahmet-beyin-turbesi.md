@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.3640747,40.2239418"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bülbül Hatun ve Ahmet Bey’in Türbesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.654935,39.04532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Efendi Türbesi

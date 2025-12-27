@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.3608638,39.233795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Böğrüdelik Höyüğü: Tarihî ve Kültürel Mirasın İmzaları

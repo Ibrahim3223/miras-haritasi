@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.943191,41.025908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Çavuş Camii

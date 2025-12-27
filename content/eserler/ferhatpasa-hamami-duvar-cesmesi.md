@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.464049577,41.1382047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ferhatpaşa Hamamı Duvar Çeşmesi

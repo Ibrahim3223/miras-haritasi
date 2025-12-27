@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.478392,40.366649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Artaiouteichos: Antik bir Kentin Kalıntıları

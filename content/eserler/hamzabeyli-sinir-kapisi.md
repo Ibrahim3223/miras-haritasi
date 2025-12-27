@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "26.61056,41.9593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamzabeyli Sınır Kapısı

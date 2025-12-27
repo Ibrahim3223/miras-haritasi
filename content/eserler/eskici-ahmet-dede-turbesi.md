@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.101421,41.068573"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskici Ahmet Dede Türbesi

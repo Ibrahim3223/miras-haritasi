@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.407777777,38.355277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferruhşah Camii: Tarihi ve Kültürel Mirası

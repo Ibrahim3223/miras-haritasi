@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.968236,41.009118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çorlulu Ali Paşa Şadırvanı

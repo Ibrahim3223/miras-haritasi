@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.934216,41.048809"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hayrettin Paşa Çeşmesi

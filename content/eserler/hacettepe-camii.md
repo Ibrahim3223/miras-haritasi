@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8672981,39.9302826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacettepe Camii: Ankara'nın Gizli Cenneti

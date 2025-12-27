@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8783112,39.6420898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatıpınar Çeşmesi

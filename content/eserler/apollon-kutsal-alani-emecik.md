@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.801321,36.7682381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Apollon Kutsal Alanı, Emecik

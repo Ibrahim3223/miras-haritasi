@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.250351,38.7059326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Musa Mescidi ve Türbesi

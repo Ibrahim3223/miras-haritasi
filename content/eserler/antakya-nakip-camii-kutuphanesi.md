@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "36.1630135,36.2007713"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antakya Nakip Camii Kütüphanesi

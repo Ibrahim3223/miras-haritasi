@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.343922,39.949075"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlion Kome: Antik Yunanistan'ın Gizli Şehri

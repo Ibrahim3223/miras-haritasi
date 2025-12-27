@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.6451664,40.9974136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beylikdüzü Nostalji Müzesi

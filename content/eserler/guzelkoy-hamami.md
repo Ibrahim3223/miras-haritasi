@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2916813,40.7412567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelköy Hamamı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0351639,41.0611725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Dimitrios Ayazması, Kuruçeşme

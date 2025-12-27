@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0590169,41.0198981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güroluk Köprüsü: Karadeniz'in Gizli Cenneti

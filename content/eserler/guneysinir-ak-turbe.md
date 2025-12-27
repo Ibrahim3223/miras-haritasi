@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.704886484,37.246491602"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güneysınır Ak Türbe

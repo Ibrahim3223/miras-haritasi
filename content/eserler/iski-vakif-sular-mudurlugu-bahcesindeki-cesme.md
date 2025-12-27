@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.98951,41.1810793"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme

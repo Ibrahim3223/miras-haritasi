@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.634908673,38.055454987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deştiğin Ulu Camii

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.237545,37.9115524"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Selçuklu ve Melikşah Burçları

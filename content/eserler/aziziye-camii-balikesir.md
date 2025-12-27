@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8737946,39.6521301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Aziziye Camii, Balıkesir**

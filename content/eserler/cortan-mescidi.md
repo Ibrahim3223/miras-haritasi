@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2725677,39.909771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çortan Mescidi: Erzurum'un Tarihi Şarkısı

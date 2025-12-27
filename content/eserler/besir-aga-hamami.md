@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9823151,41.0117073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beşir Ağa Hamamı

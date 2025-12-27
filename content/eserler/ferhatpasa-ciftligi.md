@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.88863212,41.039777571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferhatpaşa Çiftliği: İstanbul'un Gizli Tarihi Eseri

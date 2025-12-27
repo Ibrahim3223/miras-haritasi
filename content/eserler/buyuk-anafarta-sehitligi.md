@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3247204,40.2822723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Büyük Anafarta Şehitliği

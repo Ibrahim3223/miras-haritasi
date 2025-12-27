@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9568405,41.0275078"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ayia Haralambos Ayazması, Ayakapı: İstanbul'un Gizli Çeşmesi**

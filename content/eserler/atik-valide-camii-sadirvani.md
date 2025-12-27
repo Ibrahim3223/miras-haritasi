@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0236168,41.0189056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Atik Valide Camii Şadırvanı**

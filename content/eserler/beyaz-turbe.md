@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2432861,37.9119873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beyaz Türbe: Diyarbakır'ın Tarihi Mirası

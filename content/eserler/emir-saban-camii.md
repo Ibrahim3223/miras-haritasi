@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.6121979,37.2464523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Şaban Camii: Hakkari'nin Tarihi ve Kültürel Mirası

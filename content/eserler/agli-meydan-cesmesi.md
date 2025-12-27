@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.553821352,41.686965788"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağlı Meydan Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.7011285,39.836743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bathys Rhyax: Antik Yunanistan'ın Gizli Kahramanı

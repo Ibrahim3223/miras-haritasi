@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.2035391,37.028145"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bucakköy Camii: Serik'in Gizli Çağı

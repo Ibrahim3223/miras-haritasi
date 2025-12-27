@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.3329337,39.4988166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Behramkale Köprüsü: Ayvacık'ta Bir Geçit Köprüsü

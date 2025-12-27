@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.130277777,36.812777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bybassios: Tarihi ve Kültürel Bir Miras

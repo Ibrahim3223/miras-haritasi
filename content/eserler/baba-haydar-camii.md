@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.933636,41.042023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baba Haydar Camii: Eyüpsultan'ın Tarihi ve Kültürel Mirası

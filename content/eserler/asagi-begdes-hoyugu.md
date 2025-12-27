@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.920208,36.8146782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aşağı Beğdeş Höyüğü: Şanlıurfa'nın Gizli Kahramanı

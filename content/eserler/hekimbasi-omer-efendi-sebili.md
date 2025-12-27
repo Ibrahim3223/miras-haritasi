@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9408722,41.0117188"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hekimbaşı Ömer Efendi Sebili: İstanbul'un Eski Şehirini Yansıtan Bir Çeşme

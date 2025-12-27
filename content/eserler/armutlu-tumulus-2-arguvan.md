@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.1488495,38.8465385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Armutlu Tümülüs 2, Arguvan: Malatya'nın Gizli Mirası

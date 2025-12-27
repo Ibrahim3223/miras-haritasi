@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.475269,40.902868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Doğanköy Köprüsü: Türkiye'nin Tarihi Mirası

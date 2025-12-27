@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.967555555,41.059638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Darülaceze Sinagogu

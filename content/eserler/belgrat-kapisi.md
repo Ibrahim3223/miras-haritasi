@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.920565,40.999889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Belgrat Kapısı: İstanbul'un Tarihsel Mirası

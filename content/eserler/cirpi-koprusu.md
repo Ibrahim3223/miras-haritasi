@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.5033092,38.1598434"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çırpı Köprüsü: Bayındır'da Tarih ve Mimarinin Birleşmesi

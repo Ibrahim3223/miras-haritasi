@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9190006,40.1692009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncili Camii

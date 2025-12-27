@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.8276424,38.0468521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Camii, Buldan

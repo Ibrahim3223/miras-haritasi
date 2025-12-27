@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4183846,41.0518608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlu Çeşme 2, Celaliye: Bir Önemli Tarihî Eser

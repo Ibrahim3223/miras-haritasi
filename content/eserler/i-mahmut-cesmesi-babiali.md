@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.975748,41.010394"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## I. Mahmut Çeşmesi, Babıali: Tarihi ve Görsel Zenginliği

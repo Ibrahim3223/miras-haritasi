@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0881081,41.1117514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Davitoğlu Köprüsü: Rize'nin Tarihi Bir Mirası

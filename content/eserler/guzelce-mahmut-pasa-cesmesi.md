@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.971823,41.011601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelce Mahmut Paşa Çeşmesi

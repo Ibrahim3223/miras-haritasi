@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9697304,39.4155388"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatal Çeşme Camii: Kütahya'nın Tarihî Bir Mirası

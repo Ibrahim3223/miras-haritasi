@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1334381,38.418293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Berberzade Mehmet Efendi Çeşmesi

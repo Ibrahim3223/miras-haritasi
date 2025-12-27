@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.959998,41.021702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elvanzade Camii

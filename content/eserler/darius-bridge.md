@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.061798,41.091763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Darius' Köprüsü: Tarihî Mirasın Gizlenmiş Yüzü

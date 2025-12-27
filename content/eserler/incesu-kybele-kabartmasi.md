@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.3388329,40.2552948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncesu Kybele Kabartması: Türk Tarihini Tanık eden Anıt

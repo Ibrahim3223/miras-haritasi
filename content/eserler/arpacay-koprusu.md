@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.8231942,38.6604559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Arpaçay Köprüsü: Foça'nın Tarihî Mirası**

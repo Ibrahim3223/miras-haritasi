@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.768864065,41.378166849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukur Çeşme: Kastamonu'da Bir Tarihî Çeşme

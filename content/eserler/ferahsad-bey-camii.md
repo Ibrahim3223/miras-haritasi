@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.7508354,40.1334038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferahşad Bey Camii: Demirdövenlerin Şehri Bayburt'un Zihniyetini Tanıtan Bir Miras

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.3042865,38.8928686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dereli Köprüsü: Tunceli'nin Gizemli Köprüsü

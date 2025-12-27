@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1341591,38.4202995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Demir Han Çeşmeleri

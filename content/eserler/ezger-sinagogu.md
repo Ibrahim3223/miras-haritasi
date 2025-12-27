@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.951138888,41.039277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ezger Sinagogu: Beyoğlu'ndaki Yörük Sinagogu

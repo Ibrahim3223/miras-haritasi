@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9749813,39.4228783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı İbrahim Sokak Çeşmesi

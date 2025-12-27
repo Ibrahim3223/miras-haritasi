@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.3949,40.6358"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Avcılar Camii: Artvin'in Gizli Cenneti

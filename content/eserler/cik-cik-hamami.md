@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0215721,40.2025414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cık Cık Hamamı

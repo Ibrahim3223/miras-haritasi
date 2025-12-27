@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.527883,40.640783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Diktaş Köprüsü

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.9695721,39.9287415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adranos Kalesi: Bursa'nın Gizli Mirası

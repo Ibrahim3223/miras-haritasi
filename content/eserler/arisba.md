@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.542314,40.199817"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arisba: Çanakkale'nin Gizli Mirası

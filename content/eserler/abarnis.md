@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.734359,40.378253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abarnis Arkeolojik Sit

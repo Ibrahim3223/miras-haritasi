@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4235592,38.6101303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İbrahim Çelebi Camii

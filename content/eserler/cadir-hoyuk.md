@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.14335,39.67672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çadır Höyük: Yozgat'ın Eski Mirası

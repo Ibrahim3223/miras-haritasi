@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.4904003,37.5522003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ballıkkaya Bizans Kilisesi

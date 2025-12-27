@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9737263,41.0155525"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamidiye Medresesi: İstanbul'un Gizli Cenneti

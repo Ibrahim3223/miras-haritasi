@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.968568,41.009035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çorlulu Ali Paşa Kütüphanesi

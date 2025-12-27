@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.959121,41.007613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlu Hamam

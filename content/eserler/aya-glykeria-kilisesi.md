@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.2731571,40.7911682"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Glykeria Kilisesi

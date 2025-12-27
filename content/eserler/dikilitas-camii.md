@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.003083333,41.055611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dikilitaş Camii

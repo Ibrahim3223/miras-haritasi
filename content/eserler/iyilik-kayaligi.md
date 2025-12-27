@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.2690029,36.8547821"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İyilik Kayalığı: Marmaris'teki Büyülü Kayalık

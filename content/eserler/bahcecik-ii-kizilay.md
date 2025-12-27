@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.835967,39.8224"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçecik II, Kızılay: Odunpazarı'nın Gizli Çeşmesi

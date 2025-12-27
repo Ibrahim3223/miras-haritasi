@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.8047752,36.0245209"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anemurium Küçük Hamamı: Tarihi ve Kültürel Miras Değerleri

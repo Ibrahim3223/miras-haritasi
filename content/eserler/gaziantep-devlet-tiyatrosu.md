@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gaziantep Devlet Tiyatrosu: Bir Antik Tiyatro Tarihçesindeki Özellikleri ve Önemi

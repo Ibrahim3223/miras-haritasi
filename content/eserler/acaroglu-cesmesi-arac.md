@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.320698762,41.300072974"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Acaroğlu Çeşmesi: Araç'ta Bir Çağdaş Mimari Örneği

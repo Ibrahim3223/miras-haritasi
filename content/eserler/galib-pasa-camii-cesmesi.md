@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.069805555,40.966027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Galib Paşa Camii Çeşmesi

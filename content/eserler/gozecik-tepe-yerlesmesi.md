@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.8138351,39.4226265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gözecik Tepe Yerleşmesi

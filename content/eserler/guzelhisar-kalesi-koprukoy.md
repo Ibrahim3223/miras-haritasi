@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.982772222,39.830044444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelhisar Kalesi, Köprüköy

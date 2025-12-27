@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.8174744,38.2414055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Düzce Hamamı: Seferihisar'ın Tarihi Bir Mirası

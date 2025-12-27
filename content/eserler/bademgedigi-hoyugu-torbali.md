@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.30915,38.180317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bademgediği Höyüğü, Torbalı: İzmir'in Gizli Mirası

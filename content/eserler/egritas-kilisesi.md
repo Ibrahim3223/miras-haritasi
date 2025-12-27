@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eğritaş Kilisesi: Tarihî Bir Mirasın Gizemi

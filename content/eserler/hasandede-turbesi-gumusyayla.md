@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.886360936,40.208631325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasandede Türbesi, Gümüşyayla: Ankara'nın Gizli Çiçeği

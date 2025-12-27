@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.3668003,41.0532227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hosia (Azize) Paraskevi Kilisesi

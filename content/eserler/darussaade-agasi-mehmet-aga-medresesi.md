@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.974143,41.008477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Darüssaade Ağası Mehmet Ağa Medresesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.836888888,40.658027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bayezid Paşa Camii

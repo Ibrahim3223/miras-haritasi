@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4958725,37.8661385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazezler Çeşmesi

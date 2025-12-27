@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.9032822,40.3577309"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balkaynak Köprüsü: Tarihi Bir Miras

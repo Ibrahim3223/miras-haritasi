@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.466272,37.540886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erde Kalesi: Batman'ın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.973192,41.016411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arpacılar Camii Tanıtımı

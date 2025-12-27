@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4399319,38.6123085"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dilşikar Hatun Camii: Manisa'nın Tarihi Bir Mirası

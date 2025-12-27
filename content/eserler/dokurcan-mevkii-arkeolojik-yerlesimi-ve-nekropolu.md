@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0900135,37.5182648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dokurcan Mevkii Arkeolojik Yerleşimi ve Nekropolü

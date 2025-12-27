@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.3108177,40.3681679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çingene Kale

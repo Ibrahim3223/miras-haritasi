@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.38571,36.60169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Attepe Höyüğü: Mut, Mersin'in Gizli Hazinesi**

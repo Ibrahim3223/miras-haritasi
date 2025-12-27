@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967718,41.014676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atik İbrahim Paşa Avlu Duvarı Çeşmesi

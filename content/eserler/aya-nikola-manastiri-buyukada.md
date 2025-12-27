@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.1234798,40.8548241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Nikola Manastırı (Büyükada)

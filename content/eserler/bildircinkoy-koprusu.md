@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.497217,41.007867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bıldırcınköy Köprüsü

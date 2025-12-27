@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.932437,41.001519"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdi Çelebi Çeşmesi

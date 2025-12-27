@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.224744,40.254537"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmaret Tepe Şehitliği: Bayburt'un Anıt Yeri

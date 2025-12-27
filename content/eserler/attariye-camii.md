@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2159996,37.1819992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Attariye Camii

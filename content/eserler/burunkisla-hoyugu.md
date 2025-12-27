@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.2244005,39.4458568"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Burunkışla Höyüğü

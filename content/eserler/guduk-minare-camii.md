@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8393745,38.198513"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güdük Minare Camii

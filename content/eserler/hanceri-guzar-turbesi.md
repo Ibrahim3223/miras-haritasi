@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2296333,37.9085617"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hançeri Güzar Türbesi: Diyarbakır'ın Etkileyici Anıtı

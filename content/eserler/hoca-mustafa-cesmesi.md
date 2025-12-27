@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8556137,39.9383316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Mustafa Çeşmesi

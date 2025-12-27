@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8786144,39.6424904"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dinkçiler Eski Camii: Balıkesir'in Tarihi Bir Mirası

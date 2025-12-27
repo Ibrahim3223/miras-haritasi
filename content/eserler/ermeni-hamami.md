@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.5325489,39.4540558"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ermeni Hamamı: Sivrihisar'ın Tarihi ve Kültürel Mirası

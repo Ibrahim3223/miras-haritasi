@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.9085464,40.928215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Harmanlı Çeşmesi: Trabzon'un Gizli Cenneti**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4414444,41.8457031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Giriş

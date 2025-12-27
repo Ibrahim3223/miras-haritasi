@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.16195,37.682"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Herakleion (İyonya) Arkeolojik Sitesi

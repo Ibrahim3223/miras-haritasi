@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.567060394,40.502131209"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ani İç Kale

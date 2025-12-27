@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.2918355,40.5408835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çit Deresi Köprüsü Torul: Gümüşhane'nin Tarihi ve Kültürel Mirasının Bir Parçası

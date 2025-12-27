@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.1482487,39.8696556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Achaion: Ezine'nin Eski Uygarlığının İzleri

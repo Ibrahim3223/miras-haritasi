@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.642464,38.547839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beudos: Bir Efsaneye Ev Sahipliği Yapan Arkeolojik Sit

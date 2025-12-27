@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.1669807,38.7048874"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dulkadiroğlu Süleyman Bey Türbesi

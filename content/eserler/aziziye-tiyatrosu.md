@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.037861111,41.026388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziziye Tiyatrosu: Üsküdar'ın Kültürel Mirası

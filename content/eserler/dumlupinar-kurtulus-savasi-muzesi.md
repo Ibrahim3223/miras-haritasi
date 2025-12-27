@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9791679,38.8535042"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dumlupınar Kurtuluş Savaşı Müzesi

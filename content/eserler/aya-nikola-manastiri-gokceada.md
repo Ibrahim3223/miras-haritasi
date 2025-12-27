@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.7830334,40.1989441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Nikola Manastırı: Gökçeada'nın Gizli Çehresini Keşfedin

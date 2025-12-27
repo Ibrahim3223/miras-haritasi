@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.5641594,37.8956337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kasım Sarı Camii: Niğde'nin Yüzyıllık Tarihi ve Kültürel Mirası

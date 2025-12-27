@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.9142952,38.7107849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halime Hatun Medresesi

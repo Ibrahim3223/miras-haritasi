@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5369396,38.7606049"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdi Kadı Mescidi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9359436,41.0223808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hırka-i Şerif Çeşmesi: İstanbul'un Gizli Çeşmesi

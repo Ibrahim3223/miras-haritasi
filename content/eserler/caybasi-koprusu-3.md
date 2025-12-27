@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4228935,38.6056709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaybaşı Köprüsü-3: Manisa'nın Gizli Çehresini Keşfetmek

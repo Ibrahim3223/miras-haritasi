@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.2855511,39.003746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Herdane Bahar Baba Türbesi: Afyonkarahisar'ın Gizli Cenneti

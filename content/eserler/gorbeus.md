@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.87447,39.69484"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gorbeus Arkeolojik Sit

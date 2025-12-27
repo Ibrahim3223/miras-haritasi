@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.57035,39.815733"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağaçköy Çiftlik Höyük: Bayramiç'in Gizli Tarihi

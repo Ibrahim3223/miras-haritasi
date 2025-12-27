@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9457417,41.0343285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferruh Kethüda Camii Güneş Saati 

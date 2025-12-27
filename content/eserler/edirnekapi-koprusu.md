@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.934988,41.0303993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edirnekapı Köprüsü: İstanbul'un Efsanevi Mirası

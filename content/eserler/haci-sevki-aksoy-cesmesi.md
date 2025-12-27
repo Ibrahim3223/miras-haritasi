@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.5613441,38.6887512"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Şevki Aksoy Çeşmesi

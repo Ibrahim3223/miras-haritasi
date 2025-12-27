@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6933994,37.3572998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Mehmed Said Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9330063,40.5328636"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskişehir Erzurum Dede Türbesi

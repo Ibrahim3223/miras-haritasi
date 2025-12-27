@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.4296105,41.0267401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bıçakcılar Konoban Camii: Artvin'in Gizli Cenneti

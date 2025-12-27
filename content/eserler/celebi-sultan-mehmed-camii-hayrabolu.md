@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1092396,41.2128906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelebi Sultan Mehmed Camii, Hayrabolu

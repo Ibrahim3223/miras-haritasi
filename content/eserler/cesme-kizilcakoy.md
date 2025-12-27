@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.774559,37.8708763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Kızılcaköy: Aydın'ın Tarihî Bir Çeşmesi

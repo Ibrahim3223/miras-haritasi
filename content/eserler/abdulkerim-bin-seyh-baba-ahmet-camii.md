@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4335,36.2545"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdülkerim Bin Şeyh Baba Ahmet Camii: Kaş'ın Tarihi Bir Şehri Vuran Camii

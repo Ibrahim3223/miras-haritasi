@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.1086044,40.2298584"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erenkaya Kilisesi: Şiran'ın Tarihi Bir Mirası

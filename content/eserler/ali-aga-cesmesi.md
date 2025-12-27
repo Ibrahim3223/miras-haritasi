@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.4026432,38.6807861"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Ağa Çeşmesi: Uşak'ta Bir Kültür Mirası

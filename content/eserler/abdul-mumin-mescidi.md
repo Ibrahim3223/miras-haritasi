@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.489399,37.8702583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdül-Mümin Mescidi: Konya'nın Tarihî Bir Çağıntısı

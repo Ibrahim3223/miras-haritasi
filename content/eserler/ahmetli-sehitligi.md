@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.9376736,38.5145035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmetli Şehitliği: Tarihî Bir Anıtın Öyküsü

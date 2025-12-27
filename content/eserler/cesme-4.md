@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6195965,39.5695305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 4: Ayvacık'ın Tarihi Bir Çeşmesi

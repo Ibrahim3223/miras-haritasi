@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0251961,41.0333443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ayios İonis Ayazması: Üsküdar'daki Eski Çeşme**

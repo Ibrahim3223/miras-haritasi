@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0092227,38.8447721"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Caferli Höyük: Aksaray'ın Gizli Kahramanı

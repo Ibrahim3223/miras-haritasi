@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.4659081,38.7490286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Ali Kümbeti: Ahlat'taki Bir Ölümsüz Anıt

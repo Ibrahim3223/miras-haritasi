@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.556467,38.588783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Belce Höyük: Tarihî Mirasının Gizli Anıtı**

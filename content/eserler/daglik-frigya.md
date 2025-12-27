@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.7138424,39.2010269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dağlık Frigya: Eskişehir'in Gizli Zenginliği

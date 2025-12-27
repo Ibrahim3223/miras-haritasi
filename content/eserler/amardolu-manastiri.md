@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "42.116666666,38.4"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amardolu Manastırı: Van'ın Gizli Mücevheri

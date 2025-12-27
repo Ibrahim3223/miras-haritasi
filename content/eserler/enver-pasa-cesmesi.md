@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.578434,41.020618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Enver Paşa Çeşmesi

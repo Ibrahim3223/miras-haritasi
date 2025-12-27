@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adıyaman Yenikale: Tarihî ve Kültürel Bir Miras

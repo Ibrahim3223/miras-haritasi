@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.50350326,41.090536299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Enverpaşa Köprüsü

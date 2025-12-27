@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.8905125,39.8186493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 #### Belkavak Tümülüsü

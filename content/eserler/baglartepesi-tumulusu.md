@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.752634,41.5197067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bağlartepesi Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.0271683,38.376461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Musa Camii: Aksaray'ın Tarihi Ören Yeri

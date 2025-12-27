@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3658276,37.9461975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Türbe (2): Selçuk'taki Bir Önemli Anıt

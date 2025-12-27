@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.986704,39.637165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gordion Tümülüs S-3: Geçmişi İfade Eden Bir Arkeolojik Harika

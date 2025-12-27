@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0128231,41.0161552"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmet Şakir Efendi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4083004,38.1724014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gurgurtepe I Tümülüsü: İzmir'in Gizli Şehri

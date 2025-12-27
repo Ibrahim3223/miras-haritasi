@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.116594,41.038341"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aralık Köyü Camii: Eynesil'deki bir Klasik Örnek

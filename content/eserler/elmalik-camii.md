@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0657864,40.1866531"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bursa'nın Tarihi Bir Mirası: Elmalık Camii

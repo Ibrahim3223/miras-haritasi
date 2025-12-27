@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.367719444,41.289308333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dabaketili Kilisesi: Tarihi ve Kültürel Miras

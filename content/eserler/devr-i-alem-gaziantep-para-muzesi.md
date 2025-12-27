@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.3820152,37.0645332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Devr-i Alem Gaziantep Para Müzesi

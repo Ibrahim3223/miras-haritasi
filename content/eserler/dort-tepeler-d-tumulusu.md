@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7069492,41.4635849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dört Tepeler D Tümülüsü

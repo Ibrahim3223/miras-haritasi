@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5370541,38.7545853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Felezade Süleyman Çavuş Türbesi

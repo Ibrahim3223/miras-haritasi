@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2562332,40.1633301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalı Köyü VI Tümülüsü: Bir Arkeolojik Sitin Gizemi

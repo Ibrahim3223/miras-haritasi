@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.899415208,41.187836895"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalı II Tümülüsü: Uzunköprü'nün Gizli Mirası

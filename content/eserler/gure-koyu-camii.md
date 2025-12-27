@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8958035,39.6127739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güre Köyü Camii: Balıkesir'in Tarihi ve Kültürel Mirasının Bir Parçası

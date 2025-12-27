@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3830261,37.0608978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Alaybey Camii: Gaziantep'in Tarihi Bir Zenginliği**

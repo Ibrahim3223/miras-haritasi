@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9465866,41.0095062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Bayram-ı Veli Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.3413658,38.4782982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hasırcı Höyük I

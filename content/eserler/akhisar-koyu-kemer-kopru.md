@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.85014,40.43878"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akhisar Köyü Kemer Köprü: Gümüşhane'nin Gizli Çarıgı

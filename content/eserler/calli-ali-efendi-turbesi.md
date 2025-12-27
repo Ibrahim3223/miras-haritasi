@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9355145,41.0536041"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çallı Ali Efendi Türbesi: Eyüpsultan'ın Gizli Çehresini Keşfeden Anıt**

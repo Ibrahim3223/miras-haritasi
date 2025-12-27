@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.682394,40.0131454"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakmaca Türbesi: İnegöl'de Gizli Bir Anıt

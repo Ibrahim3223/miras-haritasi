@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9731503,41.0070419"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hoca Ferhat Kabri Tanıtımı

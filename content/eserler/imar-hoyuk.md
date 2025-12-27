@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4465759,36.3083215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Imar Höyük: Hatay'ın Eski Köyü

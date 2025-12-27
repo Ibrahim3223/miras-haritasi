@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7662926,41.374054"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cemalettin Efendi Türbesi: Kastamonu'da Bir Önemli Anıt

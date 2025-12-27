@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.756332,40.997482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmendere Köprüsü: Ortahisar'ın Tarihî Bir Güzelliği

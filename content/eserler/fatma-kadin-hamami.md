@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.880886651,39.645466722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatma Kadın Hamamı

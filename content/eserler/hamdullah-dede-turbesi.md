@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8372879,40.6533127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamdullah Dede Türbesi

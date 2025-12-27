@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.14388889,39.81472222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İnönü Savaşları Karargâh Müzesi

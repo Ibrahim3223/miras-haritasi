@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "36.16444491,36.200242421"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Antakya Sinagogu: Tarihini ve Efsanesini Koruyan Bir Sinagog**

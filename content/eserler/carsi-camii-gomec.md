@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.840936,39.390618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Camii, Gömeç: Balıkesir'in Kutsal Mekânı

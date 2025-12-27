@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5415993,39.4480019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirci Çeşmesi: Sivrihisar'ın Değerli Kültürel Mirası

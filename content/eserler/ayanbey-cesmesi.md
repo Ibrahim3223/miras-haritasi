@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4272003,37.852478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayanbey Çeşmesi: Konya'nın Tarihi Bir Çeşmesi

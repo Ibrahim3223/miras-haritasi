@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.27781,39.68301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacıbaba Celaleddin Topçu Türbesi

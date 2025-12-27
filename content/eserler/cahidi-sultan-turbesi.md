@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3768,40.1476"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cahidi Sultan Türbesi

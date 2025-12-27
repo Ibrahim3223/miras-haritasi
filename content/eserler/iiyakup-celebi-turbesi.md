@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9750271,39.4174156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Yakup Çelebi Türbesi

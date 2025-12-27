@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8561058,39.9410973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baklacı Camii: Ankara'nın Tarihî Bir Mirası

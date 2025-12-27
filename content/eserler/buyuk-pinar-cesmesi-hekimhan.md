@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.890698191,38.952044148"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Büyük Pınar Çeşmesi, Hekimhan**

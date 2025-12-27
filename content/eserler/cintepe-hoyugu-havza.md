@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.793145,40.994979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cintepe Höyüğü: Havza'nın Gizemli Anıtı

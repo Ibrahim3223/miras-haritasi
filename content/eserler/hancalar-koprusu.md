@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.4332485,38.1315956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hançalar Köprüsü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9427013,41.0187073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsrev Paşa Sebili: İstanbul'un Gizli Çeşmesi

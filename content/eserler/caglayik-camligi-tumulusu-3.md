@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3174591,42.0375137"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayık Çamlığı Tümülüsü 3

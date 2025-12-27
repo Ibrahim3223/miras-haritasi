@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8064995,40.1534996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Saradi Manastırı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9296131,41.0527458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Evlice Baba Camii: İslambey'in Gizli Cenneti

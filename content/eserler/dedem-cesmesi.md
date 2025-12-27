@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.5689316,38.9594421"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dedem Çeşmesi: Hacıbektaş'taki Bir Tarihî Çeşme

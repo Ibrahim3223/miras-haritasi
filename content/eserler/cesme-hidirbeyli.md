@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5887127,37.8914909"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Hıdırbeyli: Germencik'teki Bir Tarih Öreni

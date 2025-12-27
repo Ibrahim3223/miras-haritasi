@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7154617,38.6181984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hafız İnce Karar Caddesi Çeşmesi

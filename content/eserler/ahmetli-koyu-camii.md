@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.181843,40.868818"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmetli Köyü Camii: Giresun'un Tarihî Bir Mirası

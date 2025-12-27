@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.215139115,39.802568656"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Eski Bağlar Mevkii Tümülüsü: Çanakkale'nin Gizli Mirası**

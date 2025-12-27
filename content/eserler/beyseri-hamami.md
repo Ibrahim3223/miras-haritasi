@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.1641273,36.2001839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beyseri Hamamı: Antakya'nın Tarihi ve Kültürel Mirası

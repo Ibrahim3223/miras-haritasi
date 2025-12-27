@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.4740143,40.7788315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çalca Köyü Camii: Giresun'un Gizli Çehresine Bir Öykü

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "33.6176987,40.602684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çivitçioğlu Medresesi

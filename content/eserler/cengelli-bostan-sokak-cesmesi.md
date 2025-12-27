@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0562305,41.0505676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çengelli Bostan Sokak Çeşmesi: Üsküdar'daki Bir Tarihi Çeşme

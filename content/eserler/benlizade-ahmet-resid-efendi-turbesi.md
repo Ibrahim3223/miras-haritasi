@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.948703,41.023587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Benlizade Ahmet Reşid Efendi Türbesi

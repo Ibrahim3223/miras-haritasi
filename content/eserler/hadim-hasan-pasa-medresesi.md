@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.975052,41.010573"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hadım Hasan Paşa Medresesi

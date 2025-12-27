@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.799025,38.448057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hagios Thomasos: Kayseri'nin Gizli Cenneti

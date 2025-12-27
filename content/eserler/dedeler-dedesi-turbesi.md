@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1727676,37.5247688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dedeler Dedesi Türbesi

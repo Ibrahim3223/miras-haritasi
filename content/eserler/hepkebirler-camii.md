@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7731667,41.375061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hepkebirler Camii Tanıtımı

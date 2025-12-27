@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.983700553,37.598732434"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alabanda Kuzey Hamamı: Aydın'ın Gizli Cenneti

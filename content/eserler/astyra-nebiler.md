@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.906742,39.163484"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Astyra (Nebiler): Dikili, İzmir'in Gizli Mirası

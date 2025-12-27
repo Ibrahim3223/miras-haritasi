@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.575537,41.288083"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Chadisia: Kayıtsız Kalmış Bir Arkeolojik Sitin Gizemi

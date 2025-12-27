@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.087983,38.447417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bulucu Höyük: Tarihî Bir Miras

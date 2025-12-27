@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.969108,41.018802"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baba Cafer Türbesi: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri

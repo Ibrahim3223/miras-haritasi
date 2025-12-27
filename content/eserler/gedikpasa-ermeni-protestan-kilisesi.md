@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.966698,41.006919"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gedikpaşa Ermeni Protestan Kilisesi

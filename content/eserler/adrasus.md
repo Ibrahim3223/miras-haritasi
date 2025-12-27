@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.129851,36.655564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adrasus Arkeolojik Sit

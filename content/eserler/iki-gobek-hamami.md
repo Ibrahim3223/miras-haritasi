@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.2789652,39.9126139"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İki Göbek Hamamı: Tarihi ve Kültürel Mirasın Gizli Çıplaklığı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.9216,38.292583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağıl Höyük: Yalvaç'taki Gizemli Arkeolojik Sit

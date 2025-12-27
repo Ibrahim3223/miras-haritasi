@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3914375,37.0576973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İhsan Bey Camii: Gaziantep'in Tarihi ve Kültürel Bir Mirası

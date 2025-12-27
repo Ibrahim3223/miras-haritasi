@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.973658,41.010235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Kethüda Çeşmesi: Fatih'in Gizli Öteki Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.959478738,41.021440017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Azebler Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Gizli Çehresi

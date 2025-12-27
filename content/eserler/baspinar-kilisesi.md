@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.3749008,38.3265495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Başpınar Kilisesi: İzmir'in Gizli Cenneti

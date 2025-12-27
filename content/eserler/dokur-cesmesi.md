@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4150944,38.6077843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokur Çeşmesi: Manisa'nın Tarihi bir Çeşmesi

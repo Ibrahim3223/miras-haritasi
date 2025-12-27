@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "31.916234,40.169696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beypazarı Tarih ve Kültür Müzesi

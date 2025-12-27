@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.7945232,36.8345337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Köprüsü, Dalaman

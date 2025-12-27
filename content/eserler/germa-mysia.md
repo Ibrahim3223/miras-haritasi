@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.690683,39.36872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Germa (Mysia): Antik Mabetin Gizemi

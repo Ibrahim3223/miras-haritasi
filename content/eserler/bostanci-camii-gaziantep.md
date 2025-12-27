@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3869591,37.0676079"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bostancı Camii: Gaziantep'in Tarihi ve Kültürel Mirası

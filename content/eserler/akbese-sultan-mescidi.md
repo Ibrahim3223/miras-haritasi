@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.992959,36.5350375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akbeşe Sultan Mescidi: Alanya'nın Tarihi ve Kültürel Mirası

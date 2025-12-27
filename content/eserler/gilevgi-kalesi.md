@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.043423846,36.863584571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gilevgi Kalesi

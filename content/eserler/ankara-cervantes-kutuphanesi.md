@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "32.854951,39.925127"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Cervantes Kütüphanesi

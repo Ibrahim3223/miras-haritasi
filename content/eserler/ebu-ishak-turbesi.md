@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.493068,37.874888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebu İshak Türbesi: Karatay, Konya'da Bir Mesnevî Şairinin Anıtı

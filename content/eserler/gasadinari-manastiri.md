@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.509416666,41.251638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gasadinari Manastırı: Şavşat'ta Bir Tarihî Şans

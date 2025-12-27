@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.541416666,40.804972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çala Kilisesi: Artvin'in Kutsal Yerleri Arasındaki Bir Zenginlik

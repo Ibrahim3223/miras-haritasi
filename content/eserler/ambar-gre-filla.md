@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.458096,38.263233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ambar (Gre Filla)

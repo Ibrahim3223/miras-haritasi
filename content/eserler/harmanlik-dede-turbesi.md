@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1175861,40.4771118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Harmanlık Dede Türbesi: Bursa'nın Gizli Hazinesi

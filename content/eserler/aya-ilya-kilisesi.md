@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.1838703,41.7502937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya İlya Kilisesi

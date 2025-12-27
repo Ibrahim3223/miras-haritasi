@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.5338993,39.4505005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Sivrihisar'ın Bodur Camii: Eskişehir'in Gizli Cenneti

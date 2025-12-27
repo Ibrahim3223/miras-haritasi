@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.0644779,38.2526207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Arif Mehmet Efendi Kütüphanesi**

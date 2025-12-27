@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7100916,41.0224232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cevizlik Bedazor Camii: Artvin'in Tarihi Bir Mirası

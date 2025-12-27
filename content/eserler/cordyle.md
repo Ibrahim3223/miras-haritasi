@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.496726,41.081598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cordyle Arkeolojik Sit

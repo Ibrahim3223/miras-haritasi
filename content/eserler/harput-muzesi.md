@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "39.251667,38.704444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Harput Müzesi

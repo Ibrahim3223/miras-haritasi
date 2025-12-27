@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "36.223909888,36.832306268"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatay Dörtyol İlçe Halk Kütüphanesi

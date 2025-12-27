@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.87552575,39.651395792"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme-2, Karesi: Balıkesir'in Gizli Çeşmesi

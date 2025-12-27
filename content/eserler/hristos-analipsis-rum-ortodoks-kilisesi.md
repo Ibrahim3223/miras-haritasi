@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.932052,40.999324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hristos Analipsis Rum Ortodoks Kilisesi

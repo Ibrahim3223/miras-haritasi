@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2061348,37.1813469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bedrettin İbrahim Bey Camii: Karaman'ın Tarihi Çiçeği

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3816128,37.0479774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökova Camii: Muğla'nın Doğası ile Birlikte Gerçekten Keyifli Bir Yer

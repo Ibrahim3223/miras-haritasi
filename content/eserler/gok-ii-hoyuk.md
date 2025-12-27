@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.1574651,39.790917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gök II Höyük: Çiçekdağı'nın Tarihî Mirası

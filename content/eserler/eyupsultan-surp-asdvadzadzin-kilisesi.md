@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.927611111,41.049944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eyüpsultan Surp Asdvadzadzin Kilisesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.19285,39.11677"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## A Tepe Tümülüsü: İzmir'in Gizli Öreni

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.567194444,40.672277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erbaa Müzesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.2617264,37.8549156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adalızade Türbesi: Kuşadası'nın Gizli Çeşmesi

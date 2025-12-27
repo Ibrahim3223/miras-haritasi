@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.9642,38.053017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akmescit: Isparta'nın Gizli Anıtı

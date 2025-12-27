@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7907295,37.1455574"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arabi Camii, Şanlıurfa

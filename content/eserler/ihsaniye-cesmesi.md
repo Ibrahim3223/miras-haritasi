@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.013122,41.01527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İhsaniye Çeşmesi**

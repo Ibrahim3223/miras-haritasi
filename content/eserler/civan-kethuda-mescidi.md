@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.974847551,41.012046523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Civan Kethüda Mescidi**

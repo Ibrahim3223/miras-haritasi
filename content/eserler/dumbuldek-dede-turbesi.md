@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.8094711,40.9771004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dümbüldek Dede Türbesi

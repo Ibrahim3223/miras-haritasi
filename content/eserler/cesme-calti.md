@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0312996,37.6525002"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaltı Çeşmesi: Aydın'ın Efsanevi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.02044444,41.10983333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elgiz Müzesi: İstanbul'un Gizli Mirası

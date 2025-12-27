@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9789186,39.4201865"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balıklı Hamamı

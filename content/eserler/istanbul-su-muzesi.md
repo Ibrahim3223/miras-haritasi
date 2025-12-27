@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.7896099,41.0926933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Su Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9567165,41.0196304"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukur Çeşme, Zeyrek: İstanbul'un Tarihi Çeşmesinde Bir Yolculuk

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1589642,38.6562157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İğnedere Camii

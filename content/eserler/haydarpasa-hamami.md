@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.956275,41.022392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Haydarpaşa Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

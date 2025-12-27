@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.8534355,37.3855247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasanoğlu Anıt Mezarı

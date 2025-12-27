@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.144945,38.16472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bakla Tepe Höyüğü: İzmir'in Gizli İnsanlık Mirası

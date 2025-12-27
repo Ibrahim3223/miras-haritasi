@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.010231,41.045853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazi Osman Paşa Çeşmesi: Yıldız'da Bir İhtişam

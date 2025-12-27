@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8325,40.6502"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumudar Türbesi: Amasya'nın Gizli Anıtı

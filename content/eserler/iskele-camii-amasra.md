@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.3873558,41.7487106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İskele Camii, Amasra: Bir Tarihi ve Kültürel Miras

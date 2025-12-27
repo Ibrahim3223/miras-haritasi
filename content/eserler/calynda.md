@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.835859,36.750652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Calynda Arkeolojik Sit

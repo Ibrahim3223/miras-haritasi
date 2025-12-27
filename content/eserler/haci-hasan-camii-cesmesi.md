@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.954758,41.021149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hasan Camii Çeşmesi

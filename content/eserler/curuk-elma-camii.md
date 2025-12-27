@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9668674,41.0187569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çürük Elma Camii: İstanbul'un Gizli Cenneti

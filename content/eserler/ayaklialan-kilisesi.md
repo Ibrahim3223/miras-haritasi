@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "36.362577,41.001595"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ayaklıalan Kilisesi: Samsun'un Gizli Cenneti**

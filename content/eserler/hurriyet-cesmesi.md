@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9849434,39.4190598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hürriyet Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası

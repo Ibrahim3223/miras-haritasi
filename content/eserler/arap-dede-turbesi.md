@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.9624481,37.8559952"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arap Dede Türbesi

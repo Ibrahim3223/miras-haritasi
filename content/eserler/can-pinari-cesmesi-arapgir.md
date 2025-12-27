@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.623894433,39.07840991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Can Pınarı Çeşmesi: Arapgir'in Değerli Kültürel Mirası

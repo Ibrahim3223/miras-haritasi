@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9527988,41.0236816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Altıpoğaça Camii: Fatih'in Gizli Çehresi

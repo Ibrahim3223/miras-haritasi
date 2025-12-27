@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.9388885,38.3935242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başköy Kilise Camii: Kayseri'nin Tarihî Mirası

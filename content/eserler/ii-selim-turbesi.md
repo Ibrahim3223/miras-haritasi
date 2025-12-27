@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9797344,41.0079155"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Selim Türbesi

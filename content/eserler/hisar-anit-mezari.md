@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.9149399,37.3841362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hisar Anıt Mezarı: Gaziantep'in Efsanevi Mirası

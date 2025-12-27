@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5344105,39.4490891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ak Çeşme: Sivrihisar'ın Tarihi ve Kültürel Mirası

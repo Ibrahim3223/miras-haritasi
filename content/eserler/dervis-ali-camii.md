@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9428787,41.0275116"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Derviş Ali Camii: Fatih'in Gizli Çeşmesi'nin Yeri

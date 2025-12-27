@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7637863,37.2478485"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çömlektepe Höyük: Tarih ve Kültürel Mirasın Gizemi

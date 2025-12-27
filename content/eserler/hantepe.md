@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.15705,39.804867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hantepe Arkeolojik Sit

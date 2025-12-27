@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.628148,39.556237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alpanoz: Seyitgazi'nin Gizli Anıtı

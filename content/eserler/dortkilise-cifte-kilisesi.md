@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.463241666,40.932458333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dörtkilise Çifte Kilisesi: Göle'nin Tarihi ve Kültürel Mirası

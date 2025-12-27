@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.897227,38.583441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eleni Kilisesi

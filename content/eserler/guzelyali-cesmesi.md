@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.9055557,40.9524994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelyalı Çeşmesi

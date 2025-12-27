@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.053721,41.099295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emirgan Kanlıkavak Suyu Çeşmesi

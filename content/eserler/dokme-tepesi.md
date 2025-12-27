@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.1267949,40.2581294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dökme Tepesi: Tokat'ta Bir Arkeolojik Çıkış Yeri

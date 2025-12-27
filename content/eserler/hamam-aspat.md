@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3134499,36.9808502"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bodrum'da Aspat Hamamı: Bir Geçmişin İzleri

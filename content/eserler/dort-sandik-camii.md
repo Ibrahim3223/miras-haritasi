@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.1081276,38.4061356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dört Sandık Camii: Bitlis'in Tarihi Bir Mirası

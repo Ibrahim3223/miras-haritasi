@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9394817,41.0076294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gülbuy Kadın Çeşmesi: Fatih'in Gizli Çeşmesi

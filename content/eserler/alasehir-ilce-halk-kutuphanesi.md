@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.5155945,38.349575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaşehir İlçe Halk Kütüphanesi

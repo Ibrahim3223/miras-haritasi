@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.830716,40.975888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Henaton: Antik Lübnan'ın Gizli Harikası

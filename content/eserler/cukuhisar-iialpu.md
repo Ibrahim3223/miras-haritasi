@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.983083,39.8426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukuhisar II/Alpu: Eskişehir'in Gizli Şehri

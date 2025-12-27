@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.349555555,41.280555555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cerrahi Aletler ve Sağlık Müzesi

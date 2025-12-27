@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.042618,38.55315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 42: Manisa'nın Gizli Güzeli

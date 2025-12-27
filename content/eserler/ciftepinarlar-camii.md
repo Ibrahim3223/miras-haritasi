@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.1528816,40.9070702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftepınarlar Camii: Düzce'nin Tarihi Bir Mirası

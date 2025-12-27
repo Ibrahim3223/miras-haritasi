@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8347282,40.6520615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümüşlü Camii: Amasya'nın Eski Kent Merkezi'ndeki Örgün Özellikli Camii

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9344282,41.0089035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Timur Mescidi: İstanbul'un Gizli Çeşmesi

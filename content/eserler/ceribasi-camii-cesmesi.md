@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.935594,41.046692"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeribaşı Camii Çeşmesi

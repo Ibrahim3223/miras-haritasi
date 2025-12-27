@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0417709,40.1922035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamza Bey Camii

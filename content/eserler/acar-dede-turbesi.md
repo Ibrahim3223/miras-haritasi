@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.6480675,37.1563606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bodrum'un Gizli Çehresinde: Acar Dede Türbesi

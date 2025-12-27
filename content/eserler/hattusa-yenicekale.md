@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.612526,40.010551"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hattuşa Yenicekale: Boğazkale'nin Gizli Kahramanı

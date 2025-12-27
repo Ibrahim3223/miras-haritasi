@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0638905,40.88451"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Yorgi Ayazması, Burgazada

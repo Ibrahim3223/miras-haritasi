@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.269649,41.01746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gökgöl Mahallesi Tümülüsü, Asarcık

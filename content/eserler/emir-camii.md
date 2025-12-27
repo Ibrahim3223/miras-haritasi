@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9764072,41.0156167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Emir Camii

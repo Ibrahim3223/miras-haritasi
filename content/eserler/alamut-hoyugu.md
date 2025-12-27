@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.3076992,37.8033981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alamut Höyüğü: Aydın'ın Gizli Arkeolojik Çıkığı

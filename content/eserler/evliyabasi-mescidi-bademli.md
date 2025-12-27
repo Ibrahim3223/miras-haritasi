@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.0608997,38.0848007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Evliyabaşı Mescidi: Ödemiş'in Gizli Cenneti

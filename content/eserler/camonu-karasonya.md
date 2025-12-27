@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.889702,38.971108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamönü (Karasonya): Akhisar'ın Gizli Çehresi

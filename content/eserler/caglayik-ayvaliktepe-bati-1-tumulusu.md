@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3474789,41.9930992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayık Ayvalıktepe Batı 1 Tümülüsü

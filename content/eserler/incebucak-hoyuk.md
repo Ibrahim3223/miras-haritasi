@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7240238,39.291929"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Incebucak Höyük: Tarihî Mirasın Gizemi

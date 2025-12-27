@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7947674,38.9040184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Dağdeviren Höyüğü: Manisa'nın Gizemli Arkeolojik Sit**

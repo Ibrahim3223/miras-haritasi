@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.7557163,40.1951103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Gündüz Alp Türbesi

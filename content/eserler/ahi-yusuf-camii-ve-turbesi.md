@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.704,36.8835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Yusuf Camii ve Türbesi: Antalya'nın Gizli Cenneti

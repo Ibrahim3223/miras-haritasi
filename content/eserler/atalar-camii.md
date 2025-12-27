@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.7289028,40.7727623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atalar Camii

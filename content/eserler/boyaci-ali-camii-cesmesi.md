@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8608437,39.9374847"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boyacı Ali Camii Çeşmesi

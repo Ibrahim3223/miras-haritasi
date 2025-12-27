@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.136919,37.2427902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gevenes Köprüsü: Muğla'nın Tarihi ve Kültürel Mirası

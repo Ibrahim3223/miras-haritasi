@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.839489,40.554136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İğdeli Köyü Kalesi

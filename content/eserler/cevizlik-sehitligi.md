@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.5952797,41.6914406"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevizlik Şehitliği

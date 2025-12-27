@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.949833333,41.009194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Hakkı Paşa ve Tiryal Hanım Çeşmesi

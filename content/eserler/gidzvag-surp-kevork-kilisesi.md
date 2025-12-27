@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.3798332,38.5722084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gıdzvag Surp Kevork Kilisesi

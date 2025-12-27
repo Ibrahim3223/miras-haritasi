@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8545876,39.9441528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İğneli Belkıs Camii Çeşmesi

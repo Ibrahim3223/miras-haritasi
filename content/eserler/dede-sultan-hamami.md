@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.7760449,41.3719164"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dede Sultan Hamamı: Kastamonu'nun Tarihi Bir Mirası

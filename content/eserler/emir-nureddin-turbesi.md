@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.49757,37.8683167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Nureddin Türbesi

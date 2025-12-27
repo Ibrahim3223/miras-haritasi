@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.956087,41.0098264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adilşah Kadın Çeşmeleri

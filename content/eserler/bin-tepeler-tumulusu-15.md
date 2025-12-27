@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.022593,38.573803"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 15: Salihli'nin Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.69176627,41.247124829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hamidiye Camii, Safranbolu**

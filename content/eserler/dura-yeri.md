@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.973615,38.68982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dura Yeri: Tarihin Eşiğinde Bir Arkeolojik Sit

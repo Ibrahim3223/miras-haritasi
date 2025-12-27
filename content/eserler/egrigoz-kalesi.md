@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.2362423,39.4076385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eğrigöz Kalesi: Kütahya'nın Tarihvi Mirası

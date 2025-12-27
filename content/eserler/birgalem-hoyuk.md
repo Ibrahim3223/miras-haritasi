@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3179711,39.5000402"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Birgalem Höyük: Geçmişin İzleri Çiçekdağı'nda

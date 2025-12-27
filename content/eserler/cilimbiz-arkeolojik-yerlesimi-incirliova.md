@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7152996,37.8773003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cılımbız Arkeolojik Yerleşimi: Aydın'ın Tarihî Bir Mirası

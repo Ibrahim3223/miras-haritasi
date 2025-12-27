@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.3567543,38.5793877"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ömer Hüdai Baba Türbesi

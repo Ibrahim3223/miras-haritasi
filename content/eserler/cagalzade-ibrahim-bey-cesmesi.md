@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5127563,40.9814072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cağalzade İbrahim Bey Çeşmesi

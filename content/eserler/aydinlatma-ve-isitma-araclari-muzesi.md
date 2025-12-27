@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.140788,41.09053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydınlatma ve Isıtma Araçları Müzesi

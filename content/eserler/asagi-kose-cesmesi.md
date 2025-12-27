@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2546997,37.857399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Köşe Çeşmesi: Kuşadası'nın Tarihi Bir Çeşmesi

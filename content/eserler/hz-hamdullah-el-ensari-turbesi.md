@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "28.9413509,41.0393448"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hz. Hamdullah El-Ensari Türbesi

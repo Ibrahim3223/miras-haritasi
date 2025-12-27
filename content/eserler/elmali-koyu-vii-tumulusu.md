@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.256506,40.163208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalı Köyü VII Tümülüsü: Biga'nın Gizli Anıtı

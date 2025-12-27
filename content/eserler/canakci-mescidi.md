@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7362404,38.0830193"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakçı Mescidi: İzmir'in Gizli Çarığı

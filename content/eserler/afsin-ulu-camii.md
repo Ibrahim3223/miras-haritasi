@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.915,38.246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Afşin Ulu Camii: Kahramanmaraş'ın Tarihi Bir Mirası

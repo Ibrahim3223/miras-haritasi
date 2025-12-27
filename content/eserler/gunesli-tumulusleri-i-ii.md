@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.7194939,38.429409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güneşli Tümülüsleri I-II: Akçadağ'ın Gizemi

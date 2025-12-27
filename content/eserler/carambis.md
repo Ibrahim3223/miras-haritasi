@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.344704,42.019566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Carambis Arkeolojik Sitesi

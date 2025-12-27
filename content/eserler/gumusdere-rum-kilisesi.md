@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9856892,41.2354202"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümüşdere Rum Kilisesi

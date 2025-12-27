@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.9039536,40.8928528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gazi Ömer Bey Türbesi

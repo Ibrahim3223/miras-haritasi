@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.303755792,40.402885119"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Karabiga: Biga'nın Tarihi Bir Çeşmesi

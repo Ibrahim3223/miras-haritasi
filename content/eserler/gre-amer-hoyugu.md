@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.4331356,37.8754551"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gre Amer Höyüğü

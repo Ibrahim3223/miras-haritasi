@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5014229,37.8747826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsmet Paşa İlkokulu Çeşmesi

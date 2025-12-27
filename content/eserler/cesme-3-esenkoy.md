@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3482,37.8045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşme 3, Esenköy: Aydın'ın Tarihî Mirası

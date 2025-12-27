@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.5155296,38.350296"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaşehir Hamamı: Bir Geçmişin Mirası

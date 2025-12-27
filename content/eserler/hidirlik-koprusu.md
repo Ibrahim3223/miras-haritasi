@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.555939,40.330528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hıdırlık Köprüsü: Tokat'ın Eski Bir Köprüsü**

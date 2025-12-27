@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9769917,39.4174652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çinili Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası

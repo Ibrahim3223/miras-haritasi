@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7178612,39.9234314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ballı Baba Türbesi

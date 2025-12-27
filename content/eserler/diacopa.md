@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.200313,40.88652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Diacopa: Bir Antik Kentin İzleri

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0795116,40.1862144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukur Mescit, Bursa

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.5433648,38.4722751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deliktaş Mezrası Köprüsü

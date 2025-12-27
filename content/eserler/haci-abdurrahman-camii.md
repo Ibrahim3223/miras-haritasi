@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6507015,38.5453453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Abdurrahman Camii: Manisa'nın Gizli Çehresini Açıklıyor

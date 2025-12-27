@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.459888888,41.438222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esenkıyı Köprüsü

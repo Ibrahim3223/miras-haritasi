@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6121254,39.8100891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hükümet Meydanı Çeşmesi

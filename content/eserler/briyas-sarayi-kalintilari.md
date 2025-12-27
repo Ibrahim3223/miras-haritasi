@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "29.1512032,40.9034767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Briyas Sarayı Kalıntıları

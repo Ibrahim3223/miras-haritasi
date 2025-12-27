@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "40.719604,41.082865"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.953144,41.012723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bosnevi Darühadis Medresesi: İstanbul'un Gizli Çandırı

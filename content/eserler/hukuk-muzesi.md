@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.8201141,39.8984947"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hukuk Müzesi: Türkiye'nin Hukuki Mirasını Tanıtan Bir Ziyaretçi Çehresi

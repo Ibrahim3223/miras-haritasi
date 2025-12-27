@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.861675,39.961844"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Üniversitesi Ziraat Fakültesi Müzesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.697622,39.326851"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hamidiye Camii: Ayvalık'ın Tarihi ve Kültürel Mirası**

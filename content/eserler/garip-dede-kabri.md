@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.2220993,41.0340347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Garip Dede Kabri: Çekmeköy'ün Tarihi ve Kültürel Mirası

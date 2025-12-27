@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.383707,40.7588272"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Galip Ağa Çeşmesi: Darıca'nın Tarihi Çeşmesi

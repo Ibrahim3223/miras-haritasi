@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9566803,41.0222168"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haydar Paşa Mescidi: Fatih'te Bir Altın Çağın Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0368881,40.1984901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatice Sultan Türbesi: Bursa'nın Gizli Cenneti

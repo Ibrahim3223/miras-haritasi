@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.1051064,40.5322227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alınyayla Köyü Çeşmesi 2: Gümüşhane'nin Gizli Çeşmesi

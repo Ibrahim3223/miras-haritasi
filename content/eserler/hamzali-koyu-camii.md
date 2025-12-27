@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.085265,40.95928"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hamzalı Köyü Camii: Görele'nin Tarihi Bir Mirası

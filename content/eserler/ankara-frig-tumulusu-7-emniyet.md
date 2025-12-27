@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.814991,39.9350853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Frig Tümülüsü 7, Emniyet

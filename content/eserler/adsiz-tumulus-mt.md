@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.773262,41.5274849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Adsız Tümülüs (MT): Vize'nin Gizemi

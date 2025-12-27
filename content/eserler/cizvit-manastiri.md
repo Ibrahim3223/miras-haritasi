@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.0913525,40.9538498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cizvit Manastırı: Kadıköy'ün Tarihi Çığırından Bir Parçacığı

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.88265687,39.927636526"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abidinpaşa Köşkü Milli Mücadele Müzesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.648869186,41.060672219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Balıkçılar Köyü Camii**

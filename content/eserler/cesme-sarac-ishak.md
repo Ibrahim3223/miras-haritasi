@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9624348,41.0070496"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Saraç İshak Çeşmesi: Fatih'in Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9519329,41.0152397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Amcazade Hüseyin Paşa Medresesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.017898274,41.017156566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi**

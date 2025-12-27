@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.156389,40.432468"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cius Arkeolojik Sit

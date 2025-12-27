@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.4086456,38.3554764"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çınaraltı Camii

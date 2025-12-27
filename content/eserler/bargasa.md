@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7739858,37.0219849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bargasa Arkeolojik Sit

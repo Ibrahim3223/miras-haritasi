@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.7333,38.93785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dascusa Arkeolojik Sitesi

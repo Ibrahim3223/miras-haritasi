@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.172544,38.528919"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Brouzos: Sandıklı'nın Gizli Ören Yeri

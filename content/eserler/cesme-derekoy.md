@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0373993,37.7947998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Dereköy: Aydın'ın Eski Köy Çeşmelerinden Bir Örnek

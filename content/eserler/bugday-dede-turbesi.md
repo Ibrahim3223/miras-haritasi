@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.735087,38.080686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Buğday Dede Türbesi: Tarih, Kültür ve Edebiyatın Kesiştiği Yer

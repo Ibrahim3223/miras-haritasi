@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.235613888,41.326036111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dasamobi Kilisesi: Tarihi ve Kültürel Miras

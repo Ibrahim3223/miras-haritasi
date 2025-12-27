@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.888958,36.6425285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ermenek Kalesi

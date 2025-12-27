@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.274404,40.286031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Didymoteikhos: Antik Anadolu'nun Gizli Kahramanı

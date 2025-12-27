@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.844635,38.9218903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emetli Cami

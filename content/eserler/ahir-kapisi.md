@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.98184,41.0037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahır Kapısı: Fatih, İstanbul'un Gizli Harikası

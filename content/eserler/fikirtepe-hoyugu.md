@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.0478992,40.9896011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fikirtepe Höyüğü: Kadıköy'ün En Eski Tarihi Eseri

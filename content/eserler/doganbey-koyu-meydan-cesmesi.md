@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1784306,37.6329384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Doğanbey Köyü Meydan Çeşmesi

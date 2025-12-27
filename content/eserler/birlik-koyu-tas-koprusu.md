@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.5208473,37.2410698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Birlik Köyü Taş Köprüsü

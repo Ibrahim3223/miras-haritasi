@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.932632,41.048294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Yeni Hamam: Eyüp'te Bir Klasik Hamam

@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.9591179,41.0125046"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferah Tiyatrosu: İstanbul'un Eski Kent Merkezi'nde Bir Antik Tiyatro

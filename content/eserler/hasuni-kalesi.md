@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.089859,38.1365623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasuni Kalesi: Silvan'ın Tarihsel Anıtları Arasındaki Yüce Kale

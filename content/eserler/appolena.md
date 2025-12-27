@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.147865,38.959452"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Appolena Arkeolojik Sit

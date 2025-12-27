@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0343113,40.9667625"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelik Gülersoy Anıtı: Kadıköy'ün Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.95625,41.024149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hüseyin Ağa Türbesi**

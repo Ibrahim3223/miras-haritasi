@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.935705,41.029751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Edirnekapı Mihrimah Sultan Medresesi

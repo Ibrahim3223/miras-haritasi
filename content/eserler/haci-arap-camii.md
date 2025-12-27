@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6047001,37.7238007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Arap Camii: Aydın'ın Tarihi ve Kültürel Mirası

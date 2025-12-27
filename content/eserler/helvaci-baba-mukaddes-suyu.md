@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.1733,39.1264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Helvacı Baba Mukaddes Suyu

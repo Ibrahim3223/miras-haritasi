@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4906998,38.7190781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cıncıklı Camii Çeşmesi: Kayseri'nin Tarihi Bir Çeşmesi

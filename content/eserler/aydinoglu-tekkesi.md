@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.978292,41.012408"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydınoğlu Tekkesi: Fatih'te Bir Aziz Tekke

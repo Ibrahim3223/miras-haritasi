@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "25.8946991,40.2327003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Marina Kilisesi: Gökçeada'nın Tarihi Bir Mirası

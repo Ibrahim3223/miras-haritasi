@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.5550995,37.4991035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güney Köyü Yukarı Cami: Yeşilova'nın Güzeli

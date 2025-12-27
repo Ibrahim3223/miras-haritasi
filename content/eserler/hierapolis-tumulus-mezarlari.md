@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.120882,37.9379959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hierapolis Tümülüs Mezarları

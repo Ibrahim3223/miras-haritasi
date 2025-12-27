@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0558414,41.1047363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aslanlı Çeşme, Emirgan

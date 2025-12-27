@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.2481575,41.0708771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Camii, Silivri: İstanbul'un Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.1439342,38.4286766"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlber Ortaylı Kütüphanesi

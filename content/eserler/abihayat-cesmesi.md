@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.997979,41.15696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Abıhayat Çeşmesi: Sarıyer'in Tarihi ve Kültürel Mirası**

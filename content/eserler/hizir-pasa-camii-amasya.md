@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8134575,40.657341"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hızır Paşa Camii, Amasya: Bir Ömür Boyu Süren Eski Şöhret

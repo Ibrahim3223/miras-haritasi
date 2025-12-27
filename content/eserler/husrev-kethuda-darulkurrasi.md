@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9595566,41.0145836"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsrev Kethüda Darülkurrası: Fatih'in Gizli Çehresi

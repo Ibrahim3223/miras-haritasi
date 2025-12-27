@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.3232727,38.724575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsa Höyük: Tarihî bir Kaya Mezarı

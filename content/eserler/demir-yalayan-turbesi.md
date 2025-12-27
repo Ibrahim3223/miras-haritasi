@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.5403766,38.7614368"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demir Yalayan Türbesi

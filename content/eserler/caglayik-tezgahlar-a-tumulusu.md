@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3429089,41.9958572"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayık Tezgahlar A Tümülüsü

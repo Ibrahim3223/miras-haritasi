@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9509106,41.0074234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Baklalı Kemalettin Camii

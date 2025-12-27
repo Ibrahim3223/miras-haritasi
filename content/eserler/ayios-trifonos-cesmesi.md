@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0434265,41.068306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Trifonos Çeşmesi

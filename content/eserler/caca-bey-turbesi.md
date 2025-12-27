@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.1615791,39.145237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Caca Bey Türbesi: Kırşehir'in Tarihi Bir Anıtı

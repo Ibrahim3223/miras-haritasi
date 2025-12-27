@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.706629,38.365397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### El-Hâc Ahmed Çeşmesi: Urla'nın İhtişamlı Tarihi Bir Çeşmesi

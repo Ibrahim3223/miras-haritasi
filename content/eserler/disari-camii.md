@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.674118,37.9676323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dışarı Camii

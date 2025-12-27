@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.67349,38.0394955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Andabalis Arkeolojik Sit

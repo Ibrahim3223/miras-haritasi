@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "26.480665,38.382669"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erythrai Antik Tiyatrosu

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4996605,37.8743324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İç Karaaslan Mescidi: Konya'nın Gizli Bir Çağı

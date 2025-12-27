@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.059428,37.224019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirciler Camii: Antalya'nın Gizli Cenneti

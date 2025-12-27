@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.127797748,40.806637668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çardaklı Beldesi Yeni Pınar Çeşmesi Tanıtımı

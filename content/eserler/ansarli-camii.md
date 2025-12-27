@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1774998,39.1239014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ansarlı Camii

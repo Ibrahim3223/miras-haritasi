@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "41.37083333,41.28916667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dikyamaç Köyü ve Çevresi Yaşam Tarzı Müzesi

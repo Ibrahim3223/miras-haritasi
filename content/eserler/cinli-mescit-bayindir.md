@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6485748,38.2269363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cinli Mescit, Bayındır

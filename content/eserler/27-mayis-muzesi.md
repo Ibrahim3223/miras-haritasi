@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9947491,40.8655396"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 27 Mayıs Müzesi

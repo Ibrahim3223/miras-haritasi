@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8622208,41.8612289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gideros Köyü Camii

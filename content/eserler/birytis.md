@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.375833333,39.850277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Birytis Arkeolojik Sit: Çanakkale'nin Gizli Yerleri

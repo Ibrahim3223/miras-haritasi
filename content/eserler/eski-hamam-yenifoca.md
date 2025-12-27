@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.8379993,38.7406006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Hamam, Yenifoça

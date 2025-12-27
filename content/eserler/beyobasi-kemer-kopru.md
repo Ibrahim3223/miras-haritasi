@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.798054,36.914385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Beyobası Kemer Köprü

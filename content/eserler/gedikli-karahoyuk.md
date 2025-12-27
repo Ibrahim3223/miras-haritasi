@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.832,37.2199"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gedikli Karahöyük: Gaziantep'te Bir Arkeolojik Sit

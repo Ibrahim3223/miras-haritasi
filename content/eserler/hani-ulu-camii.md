@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.391138888,38.412833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hani Ulu Camii Tanıtımı**

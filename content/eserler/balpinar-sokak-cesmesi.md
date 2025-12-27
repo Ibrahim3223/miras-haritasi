@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9714565,39.4225426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balpınar Sokak Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası

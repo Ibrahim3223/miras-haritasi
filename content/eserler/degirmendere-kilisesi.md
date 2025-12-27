@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.0233555,37.2907066"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmendere Kilisesi

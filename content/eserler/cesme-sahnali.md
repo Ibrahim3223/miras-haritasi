@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.9347248,37.7993698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şahnalı Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirasının Bir Parçası

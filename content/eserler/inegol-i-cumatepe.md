@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.510233,40.079883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnegöl I, Cumatepe Arkeolojik Sit

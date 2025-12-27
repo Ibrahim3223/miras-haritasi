@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1180019,38.6961517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukurköy Camii Çeşmesi: Menemen, İzmir'in Gizli Çeşmesi

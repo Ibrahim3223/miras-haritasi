@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.369,36.5798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Kumluca'daki Çeşme, Altınyaka

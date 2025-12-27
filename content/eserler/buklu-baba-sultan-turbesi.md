@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.627006,36.622839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büklü Baba Sultan Türbesi

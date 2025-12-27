@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3920002,37.1819992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakkallar Mescidi, Karabağlar Yaylası: Bir Tarihî Cami'nin Gizemi

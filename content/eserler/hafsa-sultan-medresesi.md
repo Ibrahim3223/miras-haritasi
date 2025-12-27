@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.4270515,38.6110153"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hafsa Sultan Medresesi: Manisa'da bir Tarih Ölüsü

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.0119228,40.0911903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başköy Hamamı: Bilecik'te Bir Osmanlı Dönemi Eseri

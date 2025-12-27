@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6722393,39.1025467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftehanlar Meydanı Çeşmesi

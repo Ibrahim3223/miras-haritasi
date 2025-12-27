@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.1205521,36.9732361"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Epiphania Antik Tiyatrosu: Tarihî Mirasın Gizemi

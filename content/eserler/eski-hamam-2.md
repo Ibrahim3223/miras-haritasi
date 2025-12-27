@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.8372498,38.7405815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Hamam 2: Tarihî Bir Mirasın İzleri

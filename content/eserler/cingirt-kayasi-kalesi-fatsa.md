@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "37.4447212,41.0661163"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cıngırt Kayası Kalesi: Fatsa'nın Tarihi bir Zirvesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.556777777,41.670888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Abdullah Hamamı

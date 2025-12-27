@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.9235309,39.6502608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyükkale Höyük: Tarih ve Kültür Mirasının İhtişamı

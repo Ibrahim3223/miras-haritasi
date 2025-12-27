@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2318668,38.4238205"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Işıkkent Çeşmesi: Bornova, İzmir'de Bir Altın Değer

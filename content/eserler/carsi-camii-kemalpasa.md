@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4157276,38.4247398"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Camii, Kemalpaşa

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.3354607,39.2784729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozarmut Köprüsü: Kangal'ın Tarihî Bir Mirası

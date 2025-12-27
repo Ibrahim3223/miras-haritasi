@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.4914453,37.2087344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çitlibağ Höyüğü

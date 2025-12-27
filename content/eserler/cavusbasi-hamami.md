@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.983374,41.028257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavuşbaşı Hamamı: İstanbul'un Tarihi ve Kültürel Mirası

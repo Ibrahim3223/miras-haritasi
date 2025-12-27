@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8709183,39.9375725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme Mescidi: Altındağ'ın Gizli Cenneti

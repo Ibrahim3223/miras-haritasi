@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.19882,38.531995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aurokra Arkeolojik Sit

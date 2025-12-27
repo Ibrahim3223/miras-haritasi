@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.5607338,37.1853104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayanlar: Şanlıurfa'daki bir Arkeolojik Sit

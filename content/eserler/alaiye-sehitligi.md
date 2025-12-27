@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.513176,41.2739258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaiye Şehitliği: Tarih ve Anlamı

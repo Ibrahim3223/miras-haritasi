@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1654339,39.119072"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asklepion Kutsal Su: Bergama'da Bir Tarihî Çeşme

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9775887,40.1561661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bilecik Yaşayan Şehir Müzesi

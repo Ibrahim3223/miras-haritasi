@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.312233,38.7359848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ankuzu Baba Türbesi: Elazığ'ın Gizli Hazineleri

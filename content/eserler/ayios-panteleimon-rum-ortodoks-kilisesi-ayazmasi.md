@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.030682655,41.034596784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Panteleimon Rum Ortodoks Kilisesi Ayazması

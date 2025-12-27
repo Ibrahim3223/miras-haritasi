@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.327292,39.832601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asilhanbey Köprüsü

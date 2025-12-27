@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "43.4042809,38.0994112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hokots Vank Ermeni Manastırı

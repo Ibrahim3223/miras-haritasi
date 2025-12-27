@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.6842194,39.871727"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çayyolu Höyük: Ankara'nın Gizli Anıtı

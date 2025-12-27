@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "35.156836138,42.021242927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dr. Rıza Nur İl Halk Kütüphanesi, Sinop

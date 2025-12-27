@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.007299,41.042636"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Atatürk Demokrasi Anıtı

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.27618,39.910938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Habipbaba Türbesi

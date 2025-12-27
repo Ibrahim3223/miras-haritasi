@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.2326355,38.8582687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Eymir Tümülüsü, Arguvan**

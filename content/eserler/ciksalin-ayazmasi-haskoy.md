@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9525661,41.048275"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çıksalın Ayazması, Hasköy

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.952023,41.015427"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amcazade Hüseyin Paşa Kütüphanesi

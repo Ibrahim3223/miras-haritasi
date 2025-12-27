@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.9975262,39.2773514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Heykeli, Kozak Yaylası

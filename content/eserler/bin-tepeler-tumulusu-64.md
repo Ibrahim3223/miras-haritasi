@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9201431,38.5138206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bin Tepeler Tümülüsü 64: Manisa'nın gizemli güzelliği**

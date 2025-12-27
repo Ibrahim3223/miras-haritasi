@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.85709,39.9419289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Paşa Camii: Bir İmparatorluk Mirası

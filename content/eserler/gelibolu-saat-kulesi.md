@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "26.671388888,40.407083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gelibolu Saat Kulesi

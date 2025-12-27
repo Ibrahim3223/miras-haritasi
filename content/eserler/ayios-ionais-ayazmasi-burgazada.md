@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.068645472,40.881075616"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios İonais Ayazması, Burgazada

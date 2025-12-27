@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7656555,41.3750153"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Hamza Efendi Çeşmesi

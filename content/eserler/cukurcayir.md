@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.572217,41.731292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukurçayır Arkeolojik Siti

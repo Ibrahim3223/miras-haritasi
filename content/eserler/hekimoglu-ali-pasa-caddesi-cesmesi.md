@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9318085,41.0071068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hekimoğlu Ali Paşa Caddesi Çeşmesi: Fatih'te Bir Klasik Çeşme

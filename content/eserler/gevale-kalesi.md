@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.3865738,37.9016304"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gevale Kalesi

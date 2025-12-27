@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9326708,41.0411336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Beşir Ağa Çeşmesi: Nişanca'da Bir Çağdaş Kentin Şık Çeşmesi

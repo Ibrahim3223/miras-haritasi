@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.5348606,39.4496841"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hazinedar Camii: Sivrihisar'ın Büyüleyici Mimari Çağı**

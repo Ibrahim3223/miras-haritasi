@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9514294,38.558239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bin Tepeler Tümülüsü 68: Manisa'nın Gizli Ören Yeri

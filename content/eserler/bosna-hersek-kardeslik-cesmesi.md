@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.864627883,39.93394571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bosna-Hersek Kardeşlik Çeşmesi

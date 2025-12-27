@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2894993,37.3544006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gevrek Höyüğü

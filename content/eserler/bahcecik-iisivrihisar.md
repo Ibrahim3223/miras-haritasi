@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.347539,39.418923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçecik II/Sivrihisar Arkeolojik Sit

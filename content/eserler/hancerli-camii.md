@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.330388888,41.297194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hançerli Camii: İlkadım'da Bir Önemli Kültür Mirası

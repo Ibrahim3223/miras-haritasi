@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.604034,40.530276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakrak Köyü Köprüsü

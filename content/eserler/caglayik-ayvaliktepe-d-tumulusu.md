@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3490829,41.9939995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çağlayık Ayvalıktepe D Tümülüsü

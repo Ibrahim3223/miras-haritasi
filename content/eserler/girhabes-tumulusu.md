@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.9163845,37.9591291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Girhabeş Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.5119781,40.0788307"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İshak Paşa Medresesi: İnegöl'de Bir Tarihî Ören

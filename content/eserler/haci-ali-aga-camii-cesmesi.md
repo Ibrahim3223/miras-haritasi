@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3222122,37.9032249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hacı Ali Ağa Camii Çeşmesi**

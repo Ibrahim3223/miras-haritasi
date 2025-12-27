@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.0464859,39.1462936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasandolu Kalesi ve Nekropolü: Ağrı'nın Gizli Çehresini Keşfetmek

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0632133,40.1868896"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bekirdede Sokak Çeşmesi: Osmangazi, Bursa'da Bir Çağdaş Anıtsal Çeşme

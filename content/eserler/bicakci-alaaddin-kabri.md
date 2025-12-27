@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9573803,41.0218964"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bıçakçı Alaaddin Kabri: İstanbul'un Hayalet Anıtı

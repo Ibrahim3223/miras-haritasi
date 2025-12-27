@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9560105,41.0098619"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Adilşah Kadın Kabri

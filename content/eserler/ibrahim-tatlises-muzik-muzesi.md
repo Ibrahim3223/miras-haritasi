@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "38.786473,37.144137"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İbrahim Tatlıses Müzik Müzesi

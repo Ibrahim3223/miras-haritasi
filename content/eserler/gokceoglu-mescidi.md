@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8559875,39.9399414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökçeoğlu Mescidi

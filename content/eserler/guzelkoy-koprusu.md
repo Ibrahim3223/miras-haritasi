@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2929401,40.7445068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelköy Köprüsü

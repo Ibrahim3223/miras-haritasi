@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3443737,37.9356461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Efes Roma Çeşmesi

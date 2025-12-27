@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "36.188754,37.176336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hierapolis Kastabala Antik Tiyatrosu

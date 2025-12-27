@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.058111111,41.127972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Artvin İskender Paşa Camisi

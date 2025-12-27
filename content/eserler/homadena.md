@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.992079,38.236415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Homadena Arkeolojik Sit**

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.396288,40.916931"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hüseyin Çeşmesi: Giresun'un Tarihi Bir Çeşmesi

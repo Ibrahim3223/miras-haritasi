@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1784,39.1203003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncirli Mescit: İzmir'in Tarihi Bir Camisi

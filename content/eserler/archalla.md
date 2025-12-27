@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.295289,38.83458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Archalla Arkeolojik Sit

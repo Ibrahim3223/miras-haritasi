@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.3360596,37.9282379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Della Höyük: Türkiye'nin Gizli Tarihi

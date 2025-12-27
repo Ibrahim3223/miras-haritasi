@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6976967,40.5097694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güneyli Limanı Yerleşimi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1427212,38.4177742"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Pazaryeri

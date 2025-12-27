@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.008215,38.548565"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 39: Salihli'nin Gizli Tarihi

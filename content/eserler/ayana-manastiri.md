@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.4544792,40.4558945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayana Manastırı: Gümüşhane'nin Tarihi Bir Kilisesi

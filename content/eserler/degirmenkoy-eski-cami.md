@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.0293007,41.1306992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmenköy Eski Cami: Silivri'nin Tarihi bir Mirası

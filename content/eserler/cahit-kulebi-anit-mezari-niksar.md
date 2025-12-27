@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.9555969,40.5887718"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cahit Külebi Anıt Mezarı

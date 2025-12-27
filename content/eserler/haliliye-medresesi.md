@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.955071,41.019084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haliliye Medresesi

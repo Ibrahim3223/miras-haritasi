@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3588829,40.1867256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eceabat Merkez Camii

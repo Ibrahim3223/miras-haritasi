@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.0606327,36.5127144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arykanda Büyük Hamam Gymnasium Yapısı

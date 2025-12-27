@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5235596,38.6139069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ambarseki Camii: İzmir'in Gizli Cenneti

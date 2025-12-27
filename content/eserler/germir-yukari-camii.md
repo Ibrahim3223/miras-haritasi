@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.5654068,38.7365646"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Germir Yukarı Camii

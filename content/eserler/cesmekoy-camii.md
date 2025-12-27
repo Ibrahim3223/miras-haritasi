@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4602509,36.693634"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşmeköy Camii: Datça' nun Gizli Cenneti

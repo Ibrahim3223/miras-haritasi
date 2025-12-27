@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "32.87313,39.95252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Altındağ Tiyatrosu: Ankara'nın Tarihi Bir Mirası

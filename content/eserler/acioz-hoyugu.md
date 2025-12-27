@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.1382444,38.9986001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Acıöz Höyüğü

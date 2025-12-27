@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.740888888,38.01875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Andaval Kilisesi: Tarihi ve Kültürel Miras

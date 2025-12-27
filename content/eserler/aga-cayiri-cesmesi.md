@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9245129,41.0036736"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağa Çayırı Çeşmesi

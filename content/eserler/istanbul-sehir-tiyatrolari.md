@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.985833333,41.045833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İstanbul Şehir Tiyatroları

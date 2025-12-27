@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.158184,39.746922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antik Alexandria Troas Tiyatrosu

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.928794,41.011888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaattin ve Ahmet Hulusi Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.169216,39.821678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haraptaş Köprüsü

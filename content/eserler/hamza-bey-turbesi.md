@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0414505,40.1922951"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamza Bey Türbesi: Bursa'nın Tarihi Bir Mirası

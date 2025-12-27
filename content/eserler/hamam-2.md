@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3631992,37.9525986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamam 2: Selçuk'ta Örenlerin İnsanları için Bir İkiz Hamam

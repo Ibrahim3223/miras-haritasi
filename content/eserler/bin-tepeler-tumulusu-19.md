@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.006769,38.57156"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 19: Salihli'de Bir Arkeolojik Büyü

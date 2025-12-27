@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.88097,36.3202"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Holmi: Türkiye'nin Eski Medeniyetinin Gizli Kaleleri

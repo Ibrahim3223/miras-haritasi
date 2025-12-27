@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.3594379,37.1519282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dülük: Gaziantep'in Tarihi ve Kültürel Mirası

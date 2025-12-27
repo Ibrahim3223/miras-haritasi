@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5300179,38.403511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Cami, Armutlu

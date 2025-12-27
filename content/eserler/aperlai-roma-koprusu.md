@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.780449,36.15876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aperlai Roma Köprüsü: Türkiye'nin Eski Bir Ruhu

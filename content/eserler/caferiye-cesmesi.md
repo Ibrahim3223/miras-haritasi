@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2754288,39.9065323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Caferiye Çeşmesi: Yakutiye'nin Büyüleyici Şarkısı

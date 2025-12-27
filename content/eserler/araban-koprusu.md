@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.89522,37.43285"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Araban Köprüsü

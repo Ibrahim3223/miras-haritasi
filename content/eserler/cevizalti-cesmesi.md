@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5414562,38.7535667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevizaltı Çeşmesi

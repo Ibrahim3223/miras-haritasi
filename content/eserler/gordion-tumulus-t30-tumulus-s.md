@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.996716,39.651432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs [T30] – Tümülüs S

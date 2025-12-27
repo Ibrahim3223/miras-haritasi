@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7365894,41.3365402"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göçerler Cami

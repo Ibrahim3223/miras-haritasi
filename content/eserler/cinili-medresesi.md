@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0295105,41.0199814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çinili Medresesi

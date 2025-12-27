@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.8802261,37.3769073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elif Anıt Mezarı

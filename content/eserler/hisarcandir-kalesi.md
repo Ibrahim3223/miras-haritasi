@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.4475079,36.7776566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hisarçandır Kalesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4366913,38.6073227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gediz Mahallesi Çeşmesi

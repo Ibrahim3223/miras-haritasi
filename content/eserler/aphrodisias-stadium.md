@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.721989132,37.712525985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aphrodisias Stadyumu: Antik Dönemin Altın Vuruşları

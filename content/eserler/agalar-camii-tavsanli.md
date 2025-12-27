@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4931526,39.5443497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağalar Camii: Tavşanlı'nın Tarihi ve Kültürel Mirası

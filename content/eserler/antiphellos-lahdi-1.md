@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.6369953,36.2022667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Antiphellos Lahdi 1**

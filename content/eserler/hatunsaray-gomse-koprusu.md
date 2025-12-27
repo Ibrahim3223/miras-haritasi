@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.3341496,37.617849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatunsaray Gömse Köprüsü: Konya'nın Gizli Çehresini Açığa Çıkaran Bir Miras

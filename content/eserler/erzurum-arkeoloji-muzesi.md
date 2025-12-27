@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "41.266861,39.901432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Erzurum Arkeoloji Müzesi**

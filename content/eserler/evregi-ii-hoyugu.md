@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.8352984,37.5780939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Evreği II Höyüğü: Konya'nın Kıvrak Tarımsal ve Hafif Sanayi Mirası

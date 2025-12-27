@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.593602,40.557864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alikinos Kilisesi

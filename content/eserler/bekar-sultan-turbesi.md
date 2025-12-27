@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.3816223,38.3945732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bekar Sultan Türbesi

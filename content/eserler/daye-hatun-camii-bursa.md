@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0660419,40.1885414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Daye Hatun Camii, Bursa

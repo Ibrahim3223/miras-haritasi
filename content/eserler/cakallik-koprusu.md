@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.9691683,36.8916753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakallık Köprüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.108333333,36.648888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balabolu Arkeolojik Sit

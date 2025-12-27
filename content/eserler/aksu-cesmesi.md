@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4646721,40.7333717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aksu Çeşmesi: İskilip'in Şirin Çeşmesi

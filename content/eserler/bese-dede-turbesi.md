@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3040009,39.2190018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beşe Dede Türbesi: Bergama'nın Tarihî Mirası

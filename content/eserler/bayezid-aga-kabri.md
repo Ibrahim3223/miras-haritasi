@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9278355,41.0204811"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayezid Ağa Kabri: İstanbul'un Gizli Anıtı

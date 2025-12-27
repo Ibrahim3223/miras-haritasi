@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.2401905,38.420166"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmen Deresi Köprüsü

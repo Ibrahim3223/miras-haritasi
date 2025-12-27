@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.766439,40.986359"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Garip Dede Türbesi

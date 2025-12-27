@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3735847,37.7036133"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ege Manevraları Anıtı

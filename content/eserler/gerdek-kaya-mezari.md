@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.8799934,40.2412262"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gerdek Kaya Mezarı

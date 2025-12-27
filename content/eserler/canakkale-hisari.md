@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.5293121,40.1187363"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakkale Hisarı

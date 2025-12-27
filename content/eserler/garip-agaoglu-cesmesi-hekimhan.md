@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.934235706,38.813897789"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Garip Ağaoğlu Çeşmesi: Hekimhan'ın Tarihi Bir Çeşmesi

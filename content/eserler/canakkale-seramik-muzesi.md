@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.4123287,40.1570473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakkale Seramik Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.2562771,38.2830887"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Büyük Çeşme: Ulubey'de Bir Geçiş Dönemi Eseri

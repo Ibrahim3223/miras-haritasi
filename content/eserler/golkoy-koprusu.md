@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.8778458,39.1543999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gölköy Köprüsü

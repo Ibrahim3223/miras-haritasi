@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0365429,40.9934006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumhuriyet Devrimleri ve Atatürk Anıtı, Kadıköy

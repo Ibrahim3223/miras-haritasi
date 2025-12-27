@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.4384045,38.8243985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hıdırellez Höyüğü: Kayseri'nin Gizli Kahramanı

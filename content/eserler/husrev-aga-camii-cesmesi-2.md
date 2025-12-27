@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4374962,38.6154709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hüsrev Ağa Camii Çeşmesi-2: Manisa'da Bir Örnek Osmanlı Mimarisi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7940674,37.1459579"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakeri Camii: Şanlıurfa'da Bir Tarihi Örnektir

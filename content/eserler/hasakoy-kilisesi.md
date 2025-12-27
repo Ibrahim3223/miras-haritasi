@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.7026945,38.2240126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasaköy Kilisesi: Niğde'nin Gizli Çehresi

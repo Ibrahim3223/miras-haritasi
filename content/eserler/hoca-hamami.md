@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.1186256,36.716301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Hamamı: Kilis'in Tarihi Bir Mirası

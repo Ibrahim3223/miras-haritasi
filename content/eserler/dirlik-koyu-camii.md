@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.1321869,40.8679962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dirlik Köyü Camii

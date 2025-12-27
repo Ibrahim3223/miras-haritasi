@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.4090595,38.3583946"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Altın Kalem Mescidi: Akşehir'in Gizli Çehresi**

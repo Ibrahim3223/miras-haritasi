@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "40.3489723,39.3180084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fulton Hamamı: Bingöl'de Bir Osmanlı Dönemi Eseri

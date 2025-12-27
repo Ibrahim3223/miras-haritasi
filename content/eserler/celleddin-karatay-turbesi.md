@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4927864,37.8749123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Celâleddin Karatay Türbesi: Konya'daki Bir Tarihî Anıt

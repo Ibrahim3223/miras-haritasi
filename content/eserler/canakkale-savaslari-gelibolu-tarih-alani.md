@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.367667,40.170321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakkale Savaşları Gelibolu Tarihî Alanı

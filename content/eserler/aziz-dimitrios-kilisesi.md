@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.6905365,40.4739723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziz Dimitrios Kilisesi: Erdek'in Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.1973305,40.8957062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beçi Yörükler Köyü Orhan Gazi Camii

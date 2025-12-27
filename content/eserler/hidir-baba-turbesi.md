@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.52042747,41.68620556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hıdır Baba Türbesi: Edirne'nin Gizli Çeşmesi

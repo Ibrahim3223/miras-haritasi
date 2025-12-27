@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.3625213,39.5070849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ilısu Höyük: Tarihçenin ve Doğa Sevenlerin Büyülü Dünyası

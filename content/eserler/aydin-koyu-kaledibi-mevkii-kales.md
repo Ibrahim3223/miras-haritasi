@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.075911,41.047586"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aydın Köyü Kaledibi Mevkii Kalesi

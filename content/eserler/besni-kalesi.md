@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "37.8638344,37.6729736"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Besni Kalesi: Tarihin ve Mirasın Semtinde

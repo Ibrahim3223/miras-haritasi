@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.568837,40.314819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gıj Gıj Dede Türbesi**

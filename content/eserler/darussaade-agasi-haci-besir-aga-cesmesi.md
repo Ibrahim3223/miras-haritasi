@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.933598,41.042522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darüssaade Ağası Hacı Beşir Ağa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1784992,39.1216011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çizmeci Esnafı Çeşmesi

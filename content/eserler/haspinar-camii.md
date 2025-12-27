@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.949593,37.225665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haspınar Camii: Antalya'nın Tarihî Mirası

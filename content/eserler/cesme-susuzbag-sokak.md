@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0205135,41.0297623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Üsküdar'da Bir Çeşme: Susuzbağ Sokak'nın Gizemi

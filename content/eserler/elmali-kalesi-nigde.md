@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.9694901,37.9994583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Elmalı Kalesi: Niğde'nin Gizli Şehri

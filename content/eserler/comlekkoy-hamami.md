@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.6051903,41.8398743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çömlekköy Hamamı: Edirne'nin Tarihi Bir Mirası

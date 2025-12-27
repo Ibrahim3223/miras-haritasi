@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2744007,40.3002014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aktaş Köyü Camii: Gölpazarı'nın Gizli Cenneti

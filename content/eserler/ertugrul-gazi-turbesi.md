@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.1797867,40.0117264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ertuğrul Gazi Türbesi: Bilecik'in Tarihi bir Mirası

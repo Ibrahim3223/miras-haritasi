@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.957373,41.021776"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bıçakçı Çeşmesi

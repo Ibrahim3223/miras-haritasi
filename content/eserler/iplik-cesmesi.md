@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4812012,40.0870476"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İplik Çeşmesi: Sincan'ın Tarihî Mirası

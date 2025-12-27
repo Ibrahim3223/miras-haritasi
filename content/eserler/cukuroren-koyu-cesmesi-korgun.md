@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.398524737,40.661700921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurören Köyü Çeşmesi: Korgun'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.136070704,40.869118183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Todori Şapeli: Adalar'daki Bir Kilise'nin Gizemi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.5108604,40.2683678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirşeyh Türbesi: Sungurlu'nun Tarihî Bir Anıtı

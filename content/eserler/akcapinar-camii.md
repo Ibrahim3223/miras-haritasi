@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.905866,37.148826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akçapınar Camii: Serik'te Birinci Sınıf Cami

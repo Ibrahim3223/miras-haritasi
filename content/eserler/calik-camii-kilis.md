@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.1184502,36.7175407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çalık Camii: Kilis'in Tarihi Bir Mirası

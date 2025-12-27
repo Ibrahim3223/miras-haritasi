@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.7333984,38.3571663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Antak Kalesi

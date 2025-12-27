@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.7954178,40.9807892"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Florya Eski Cami: İstanbul'un Gizli Cenneti

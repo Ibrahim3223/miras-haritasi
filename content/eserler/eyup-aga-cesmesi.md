@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9792671,39.4201279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eyüp Ağa Çeşmesi: Kütahya'nın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9486885,41.0236969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Benlizade Ahmet Reşit Efendi Sebili**

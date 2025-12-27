@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5447807,41.6754112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Burnaz Camii

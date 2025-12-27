@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5432491,38.750824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Nasuh Camii: Afyonkarahisar'ın Tarihi Bir Örgülü

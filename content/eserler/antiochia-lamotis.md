@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.241111111,36.557222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antiochia Lamotis: Erdemli'nin Gizli Tarihi

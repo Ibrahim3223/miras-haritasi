@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3192081,38.3198776"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Helleki Çeşmesi: Çeşme'nin Tarihi Bir Mirası

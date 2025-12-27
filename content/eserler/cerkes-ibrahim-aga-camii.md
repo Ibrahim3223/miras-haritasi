@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5974312,40.0514488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çerkes İbrahim Ağa Camii

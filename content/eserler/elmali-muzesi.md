@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.9168873,36.7400894"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Elmalı Müzesi: Antalya'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.529140059,41.68266459"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akmescid Camii

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.1835289,37.8547173"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akça Höyük: Güneydoğu Anadolu'nun Gizli Mirası**

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.219639,41.43301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirciler Köprüsü

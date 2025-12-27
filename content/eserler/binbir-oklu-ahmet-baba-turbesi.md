@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5697899,41.6273003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Binbir Oklu Ahmet Baba Türbesi

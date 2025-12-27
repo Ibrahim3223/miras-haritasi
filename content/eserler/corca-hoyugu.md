@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.9183994,38.7586068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çorca Höyüğü: Konya'nın Gizli Mirası

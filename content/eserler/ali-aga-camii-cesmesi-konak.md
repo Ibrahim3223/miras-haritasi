@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1304474,38.4142494"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Ağa Camii Çeşmesi: İzmir'in Tarihi Bir Mirası

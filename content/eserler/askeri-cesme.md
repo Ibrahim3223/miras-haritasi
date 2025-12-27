@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.709671,41.0006676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ortahisar'da Gizli Bir Çeşme: Askeri Çeşme**

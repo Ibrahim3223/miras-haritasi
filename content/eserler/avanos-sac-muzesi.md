@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.8486,38.7198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Avanos Saç Müzesi**

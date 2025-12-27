@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.925785,41.050443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İslambey Çeşmesi Sokak'taki Çeşme

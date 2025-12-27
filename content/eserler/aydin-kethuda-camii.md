@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9278049,41.0119095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aydın Kethüda Camii

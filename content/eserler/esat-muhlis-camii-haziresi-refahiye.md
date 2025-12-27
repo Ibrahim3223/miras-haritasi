@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.767765,39.8997154"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Esat Muhlis Camii Haziresi, Refahiye

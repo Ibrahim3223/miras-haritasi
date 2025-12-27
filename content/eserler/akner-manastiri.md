@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "35.4596078,37.448194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akner Manastırı

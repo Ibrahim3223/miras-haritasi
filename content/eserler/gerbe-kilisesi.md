@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.2667999,36.7343559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gerbe Kilisesi: Marmaris'in Tarihî Mirası

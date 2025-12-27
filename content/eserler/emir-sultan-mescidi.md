@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.489447023,38.717821551"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Emir Sultan Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası

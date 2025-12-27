@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.8569393,41.1382599"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelebi Ahmet Cami: Şile'nin Tarihi Bir Mirası

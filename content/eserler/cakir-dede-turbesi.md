@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.7516994,37.7621994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakır Dede Türbesi

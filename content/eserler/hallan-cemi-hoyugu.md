@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.24166667,38.22416667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hallan Çemi Höyüğü

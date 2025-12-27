@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.181944444,40.416111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Celâl Bayar Anıt Mezarı

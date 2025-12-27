@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9441051,41.0270882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Defterdar İbrahim Efendi Medresesi

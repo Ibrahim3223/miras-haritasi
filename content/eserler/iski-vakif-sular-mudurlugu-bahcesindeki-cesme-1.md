@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.989991,41.180693"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme 1: İstanbul'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.0550003,37.3130989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Erikli Kilisesi: Muğla'nın Tarihî Bir Mirası

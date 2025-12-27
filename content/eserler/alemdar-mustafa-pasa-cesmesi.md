@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.928753,41.049278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Alemdar Mustafa Paşa Çeşmesi**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.2122,40.4643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Abdullah Rüşdi Türbesi

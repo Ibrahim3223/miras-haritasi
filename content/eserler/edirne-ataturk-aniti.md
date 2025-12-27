@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.553527777,41.676777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edirne Atatürk Anıtı

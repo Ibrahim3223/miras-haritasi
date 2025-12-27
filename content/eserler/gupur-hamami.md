@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.9534264,40.5512009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güpür Hamamı: Çorum'un Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.200058,38.7698631"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Cami, Sarıkaman Köyü

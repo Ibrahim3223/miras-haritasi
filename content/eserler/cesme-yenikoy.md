@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0681419,41.1206436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Yeniköy: Sarıyer'in Tarihi Bir Kahramanı

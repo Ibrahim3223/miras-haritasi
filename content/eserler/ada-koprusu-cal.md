@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.3912354,38.1844864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ada Köprüsü: Çal'ın Tarihî Mirası

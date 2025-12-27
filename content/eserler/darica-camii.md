@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7952,40.7322"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darıca Camii: Tarihi ve Kültürel Mirasın Parçalarından Biri

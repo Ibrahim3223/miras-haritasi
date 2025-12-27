@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.049656,41.0209848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hala Köprüsü: Çamlıhemşin'in Gözkamaşı

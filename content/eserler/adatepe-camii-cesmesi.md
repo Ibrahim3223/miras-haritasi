@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6203995,39.5702324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Adatepe Camii Çeşmesi: Ayvacık, Çanakkale'nin Tarihî Diyarı

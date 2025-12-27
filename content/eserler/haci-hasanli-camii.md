@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.031105,38.3756027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hasanlı Camii: Aksaray'ın Tarihi Bir Mirası

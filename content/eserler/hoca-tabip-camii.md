@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0689316,40.1818314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Tabip Camii: Bursa'nın Tarihi Mirası

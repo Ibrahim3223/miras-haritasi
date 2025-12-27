@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0159721,37.6141624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hanönü Camii

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6847534,38.43367"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derviş Ağa Çeşmesi: Gökçeyurt'un Tarihi Bir Çeşmesi

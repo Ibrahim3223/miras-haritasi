@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7706909,41.3798828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 1 Numaralı Honsalar Çeşmesi: Kastamonu'nun Kültürel Miraslarından biri

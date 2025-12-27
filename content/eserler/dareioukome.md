@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.624222,38.606597"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dareioukome: İncil'in Kaynağı Olarak Gerçekte Bir Efsanadan Daha Fazlası

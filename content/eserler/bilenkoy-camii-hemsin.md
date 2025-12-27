@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.900102,41.025906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bilenköy Camii, Hemşin

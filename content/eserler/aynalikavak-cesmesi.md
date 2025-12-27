@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.956295,41.038425"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aynalıkavak Çeşmesi: Beyoğlu'nun Tarihi ve Kültürel Mirası

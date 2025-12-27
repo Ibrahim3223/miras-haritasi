@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "29.069138888,40.880666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Burgazada Sinagogu**

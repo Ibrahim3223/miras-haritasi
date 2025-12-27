@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.6315011,39.5642995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Celal Höyüğü: Yozgat'ın Tarihî Mirası

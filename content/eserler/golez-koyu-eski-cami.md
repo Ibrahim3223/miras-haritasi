@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.5500145,40.4970856"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gölez Köyü Eski Cami: Eldivan'da Bir Kültürel Miras

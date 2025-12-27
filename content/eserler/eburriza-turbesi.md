@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9748707,41.0404358"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eburrıza Türbesi: Beyoğlu'ndaki Gizemli Anıt

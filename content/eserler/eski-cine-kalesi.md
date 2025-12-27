@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.0706005,37.5383987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Çine Kalesi

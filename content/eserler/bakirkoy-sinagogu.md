@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.870922453,40.978284715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bakırköy Sinagogu

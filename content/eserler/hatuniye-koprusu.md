@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.1077156,38.3983536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatuniye Köprüsü

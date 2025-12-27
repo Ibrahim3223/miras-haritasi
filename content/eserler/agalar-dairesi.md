@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0257816,41.1194687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağalar Dairesi: Tarihi ve Kültürel Bir Miras

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.1505623,42.0265121"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fetih Baba Mescidi

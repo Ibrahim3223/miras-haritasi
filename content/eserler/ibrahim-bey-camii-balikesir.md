@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8822002,39.6482544"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İbrahim Bey Camii, Balıkesir

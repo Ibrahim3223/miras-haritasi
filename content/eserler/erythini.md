@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.484075,41.779469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erythini: Antik Kentin Gizemi

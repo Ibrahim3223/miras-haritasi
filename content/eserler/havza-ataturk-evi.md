@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.658821,40.97062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havza Atatürk Evi

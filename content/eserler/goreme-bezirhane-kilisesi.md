@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.8248558,38.6449547"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Göreme Bezirhane Kilisesi

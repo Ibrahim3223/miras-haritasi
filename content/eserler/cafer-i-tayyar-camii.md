@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.3920135,38.415432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cafer-i Tayyar Camii: Hani'nin Tarihi Bir Mirası

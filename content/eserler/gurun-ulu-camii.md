@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.2693138,38.7224426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gürün Ulu Camii: Tarihî Bir Mirasın Öyküsü

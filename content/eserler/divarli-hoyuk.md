@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4652821,38.2070582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Divarlı Höyük: Niğde'nin Gizli Kutsalı

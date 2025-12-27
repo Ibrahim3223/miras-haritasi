@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6773,40.4088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmed Bican Türbesi: Gelibolu'nun Efsanevi Kahramanı

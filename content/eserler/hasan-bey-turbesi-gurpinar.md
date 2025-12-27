@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.7972107,38.3174973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Bey Türbesi, Gürpınar

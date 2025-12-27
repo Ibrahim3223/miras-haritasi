@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.5398064,36.7781219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çiftlikköy Eski Camii**

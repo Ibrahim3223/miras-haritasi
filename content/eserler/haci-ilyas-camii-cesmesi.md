@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8621521,39.9325104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı İlyas Camii Çeşmesi

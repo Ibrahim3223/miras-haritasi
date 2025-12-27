@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.179285,39.1212311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arasta Çeşmesi, Bergama

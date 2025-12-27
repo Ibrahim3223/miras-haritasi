@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5664406,41.6803932"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fan Fan Mescidi: Edirne'nin Gizli Dürrü

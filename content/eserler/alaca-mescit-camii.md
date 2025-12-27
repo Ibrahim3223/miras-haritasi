@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5445824,40.316021"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alaca Mescit Camii

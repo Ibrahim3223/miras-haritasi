@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0952833,40.9715031"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdülhalim Camii: Kozyatağı, Kadıköy'un Tarihi Bir Câmii

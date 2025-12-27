@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.1418438,37.345211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ahi Ebubekir Türbesi: Muğla'nın Kültürel Mirası**

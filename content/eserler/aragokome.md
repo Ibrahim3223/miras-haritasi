@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.169512,39.071967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aragokome: Türkiye'nin Gizli Cenneti

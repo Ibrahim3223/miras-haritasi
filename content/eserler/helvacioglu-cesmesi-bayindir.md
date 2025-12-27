@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6464996,38.2254982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Helvacıoğlu Çeşmesi, Bayındır

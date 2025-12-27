@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.059111,40.404051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gaziura Arkeolojik Sit

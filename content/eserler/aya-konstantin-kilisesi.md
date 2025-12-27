@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.1806164,41.7510529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Konstantin Kilisesi: Kırklareli'nin Tarihi ve Kültürel Mirası

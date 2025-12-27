@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.601531942,40.947357801"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Belsöğüt Köyü Çeşmesi: Ilgaz'ın Tarihi ve Kültürel Mirası

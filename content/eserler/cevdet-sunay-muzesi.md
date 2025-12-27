@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "40.22945,40.7001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevdet Sunay Müzesi: Trabzon'un Gizli Cenneti

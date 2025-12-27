@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.922245,40.1682091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akşemsettin Camii, Beypazarı**

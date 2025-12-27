@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.5648575,38.4564514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Budaklar Köprüsü

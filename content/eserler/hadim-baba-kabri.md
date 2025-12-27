@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.618155905,41.157209881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hadım Baba Kabri: İstanbul'un Gizli Mirası

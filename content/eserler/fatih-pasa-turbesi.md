@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2414589,37.9113045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Paşa Türbesi

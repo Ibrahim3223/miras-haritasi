@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.1144333,36.7147713"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Canbolat Paşa Tekke Camii

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.473444444,40.7335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İskilip Ulu Camii: Tarihi ve Kültürel Mirasımız

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "36.9500122,40.5898438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Çıkrık Türbesi

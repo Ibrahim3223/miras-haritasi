@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.0674992,39.4805984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmetağa Çeşmesi

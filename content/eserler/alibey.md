@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.159367,39.078767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alibey Arkeolojik Sit

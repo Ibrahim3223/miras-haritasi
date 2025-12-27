@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6514626,38.2241898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kemalettin Camii, Bayındır

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.9258003,37.7154007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hacı Ömer Ağa Çeşmesi: Çine'nin Tarihi Bir Çeşmesi**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3791428,42.0038567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayık Yazılıtaş F Tümülüsü: Kırklareli'nin Gizli Kahramanı

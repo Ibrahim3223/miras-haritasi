@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9205246,41.0499229"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Bosna Caddesi

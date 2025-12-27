@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.732548,41.398785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aralık Köprüsü: Artvin'in Kıymetli Köprüsü

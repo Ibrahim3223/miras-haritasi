@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.5095253,40.1289215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atikhisar Tümülüsü

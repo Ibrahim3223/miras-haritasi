@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.17222,39.10552"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İkiztepe Tümülüsü: İzmir'in Gizli Anıtı**

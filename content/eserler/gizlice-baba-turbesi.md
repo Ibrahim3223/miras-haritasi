@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.695164,39.442194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gizlice Baba Türbesi

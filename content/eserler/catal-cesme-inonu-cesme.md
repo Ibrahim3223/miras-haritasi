@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3089008,38.3232994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çatal Çeşme – İnönü, Çeşme

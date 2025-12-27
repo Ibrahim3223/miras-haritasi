@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "37.469999806,36.633973788"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çobanbey Sınır Kapısı

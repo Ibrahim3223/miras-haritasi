@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.983223077,41.011389772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Babüsselam: Fatih'in Gizli Çeşmesi

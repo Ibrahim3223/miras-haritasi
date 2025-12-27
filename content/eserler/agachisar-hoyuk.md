@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.131411,39.899369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ağaçhisar Höyük: Alpu, Eskişehir'deki Gizli Miras**

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.93267,41.055544"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dürre Hanım Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi

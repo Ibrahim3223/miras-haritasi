@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9906235,41.0617371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fransız Lape Hastanesi Şapeli

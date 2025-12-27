@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "35.6953,36.9112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Arqakaghni Manastırı: Adana'nın Gizli Çehresinde Bir Tarihî Miras

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.746788,38.0893784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fadıloğlu Camii

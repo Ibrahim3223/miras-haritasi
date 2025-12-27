@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7758675,41.3821831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı İmaret Sokak Meydan Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.550045,38.6239128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çeşmelisebil Höyük: Konya'nın Gizli Anıtı

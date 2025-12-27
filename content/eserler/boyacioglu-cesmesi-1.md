@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5391502,38.7600098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boyacıoğlu Çeşmesi 1: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

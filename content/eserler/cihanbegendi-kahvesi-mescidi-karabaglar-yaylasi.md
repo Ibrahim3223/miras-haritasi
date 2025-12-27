@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3951206,37.1863556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cihanbeğendi Kahvesi Mescidi, Karabağlar Yaylası**

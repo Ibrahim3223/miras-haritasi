@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.703227,38.364936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halil Öztürk Hayrat Çeşmesi

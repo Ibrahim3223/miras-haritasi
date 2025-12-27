@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.877777,38.476241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aureliopolis (Lidya): Geçmişin Gizli Şehirleri

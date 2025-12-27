@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.403439,40.651717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alancık Köyü Köprüsü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8567123,39.9390373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hacı Doğan Camii: Bir Tarih Ölüsü**

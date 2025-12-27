@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.782408,40.0337215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Araunia: Antik Mirasın Gizemi

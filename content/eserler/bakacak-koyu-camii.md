@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0835991,40.2043419"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakacak Köyü Camii: Biga'nın Gizli Çeşmesi

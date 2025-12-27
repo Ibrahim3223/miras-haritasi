@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1633568,36.203495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmediye Camii: Antakya'da Bir Tarihi Miras

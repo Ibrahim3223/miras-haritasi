@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.4044113,40.7522888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eren Babalar Türbesi

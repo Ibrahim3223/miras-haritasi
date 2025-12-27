@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.410094,37.711979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasankeyf Kalesi: Geçmişten Geleceğe Bir Kahraman

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6293278,37.7572708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Emin Kızı Ayşe Çeşmesi: Aydın'ın Zekice Tasarlanmış Çeşmesi**

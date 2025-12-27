@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.696003,40.2330627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alacahöyük Müzesi: Tarihî Bir Mirasın Öyküsü

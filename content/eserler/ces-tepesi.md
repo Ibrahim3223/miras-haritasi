@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.4889721,38.3528472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeş Tepesi: Alaşehir'in Tarihi ve Kültürel Mirası

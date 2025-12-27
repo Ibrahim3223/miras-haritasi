@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "42.9,40.8"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boğatepe Peynir Müzesi

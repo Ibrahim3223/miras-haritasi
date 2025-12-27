@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.2344227,37.8710098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi

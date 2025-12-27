@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9263821,41.0304642"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakkale Nakil ve Polis Şehitliği

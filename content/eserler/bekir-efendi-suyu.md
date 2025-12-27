@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.044118,41.146863"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bekir Efendi Suyu: Sarıyer'in Tarihi Çeşmesi

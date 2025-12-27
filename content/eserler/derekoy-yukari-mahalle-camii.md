@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.596314619,40.718823081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dereköy Yukarı Mahalle Camii

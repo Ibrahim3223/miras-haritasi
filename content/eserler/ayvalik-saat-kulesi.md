@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "26.694055555,39.318972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayvalık Saat Kulesi: Ayvalık'ın Sembolü

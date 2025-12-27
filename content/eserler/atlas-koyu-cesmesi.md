@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.7729378,39.3529167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atlas Köyü Çeşmesi

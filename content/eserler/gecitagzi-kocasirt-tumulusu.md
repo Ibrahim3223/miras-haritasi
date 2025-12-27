@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2929993,41.9193039"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Geçitağzı Kocasırt Tümülüsü: Kırklareli'nin Gizli Hazineleri

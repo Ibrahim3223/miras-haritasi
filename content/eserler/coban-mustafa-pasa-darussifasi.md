@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.4318504,40.8001213"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoban Mustafa Paşa Darüşşifası: Gebze'nin Tarihi Bir Mirası

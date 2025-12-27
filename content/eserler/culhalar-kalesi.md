@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6816998,37.7450981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çulhalar Kalesi: Aydın'ın Gizli Güzeli

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.067807,39.1716258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bağlıca Höyüğü: Emirdağ'ın Eski Sütunları

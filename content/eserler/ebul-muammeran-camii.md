@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.5714798,40.5077782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebu'l Muammeran Camii

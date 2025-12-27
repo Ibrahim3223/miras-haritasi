@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.91742,38.913447"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esiri Baba Türbesi

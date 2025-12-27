@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.1423187,38.4192162"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İplikçi İsmail Dede Türbesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.5428066,41.6860847"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### II. Bayezid Hamamı

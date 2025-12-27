@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.8879623,40.211441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatalçeşme Köyü Camii: Bayburt'un Gizli Çiçeği

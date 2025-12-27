@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.158317,41.069643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Altınlı Köprüsü

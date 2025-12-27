@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.555196426,41.671617673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fındık Fakih Camii

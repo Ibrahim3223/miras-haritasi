@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9377441,40.1328239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agrilion Arkeolojik Sit

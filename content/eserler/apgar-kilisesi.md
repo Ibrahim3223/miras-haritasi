@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.78396112,37.14565557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Apgar Kilisesi: Şanlıurfa'nın Gizli Cenneti

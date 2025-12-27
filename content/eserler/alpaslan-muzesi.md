@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "36.3425369,40.8072548"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alpaslan Müzesi: Taşova'daki Bir Tarihî Miras

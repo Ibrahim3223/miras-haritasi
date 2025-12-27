@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.1139252,39.3040236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoğun Höyük: Tarih ve Kültür Mirasının Gizemi

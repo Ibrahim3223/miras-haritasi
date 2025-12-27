@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2391949,42.1047554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahlatlı Balıkçı Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8683853,39.9349098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eyüp Camii: Ankara'nın Tarihi ve Kültürel Mirası

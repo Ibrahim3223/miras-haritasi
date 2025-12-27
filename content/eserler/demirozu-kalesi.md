@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.338017,39.247276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Demirözü Kalesi: Haymana'da Gizli Bir Miras

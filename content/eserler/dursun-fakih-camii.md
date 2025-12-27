@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4910622,37.8699112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dursun Fakih Camii

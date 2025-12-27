@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0227547,39.7419968"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmaret Camii, Sivas

@@ -64,13 +64,13 @@ def score_content():
                     is_vip = True
                     break
             
-            new_weight = 100
+            new_weight = 999
             if is_vip:
                 new_weight = 1
             elif has_image:
                 new_weight = 10
             else:
-                new_weight = 100
+                new_weight = 999
             
             # Replace or Add Weight
             if weight_pattern.search(front_matter):

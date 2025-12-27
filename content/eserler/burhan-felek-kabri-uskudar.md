@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0170345,41.0137138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burhan Felek Kabri, Üsküdar

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.4295,38.2148"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dionysopolis: Tarihi ve Kültürel Miras

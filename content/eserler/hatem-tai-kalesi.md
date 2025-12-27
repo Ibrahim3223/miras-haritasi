@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.6540146,37.2432632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatem Tai Kalesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0256214,41.9822655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Devletliağaç Höyükler 5 Tümülüsü

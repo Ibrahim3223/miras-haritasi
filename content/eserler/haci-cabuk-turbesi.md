@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.9618797,40.5891953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Çabuk Türbesi: Niksar'daki Bir Önemli Kültürel Miras

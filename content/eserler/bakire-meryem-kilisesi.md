@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.0689564,39.8352966"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakire Meryem Kilisesi: Bozcaada'da Bir Kıbrıs Kilisesi

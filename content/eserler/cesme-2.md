@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.1891003,40.0435982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 2: Eceabat'ın Gizli Çeşmesi

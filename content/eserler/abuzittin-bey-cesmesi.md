@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2567711,37.8596764"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abuzittin Bey Çeşmesi

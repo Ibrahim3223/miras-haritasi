@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.585516,38.640739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Agios İoannis Kilisesi: Talas'ta Bir Tarihî Çanak**

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.874958,40.977354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayios Yeoryios Kilisesi: Bakırköy'ün Gizli Şehirden Kalan Bir Mirası

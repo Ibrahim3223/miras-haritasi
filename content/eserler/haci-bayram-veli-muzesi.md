@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.8700371,39.9345741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Bayram Veli Müzesi: Ankara'nın Tarihi ve Kültürel Mirası

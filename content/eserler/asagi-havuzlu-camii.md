@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7121,40.889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aşağı Havuzlu Camii

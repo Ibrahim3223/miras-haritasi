@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.55175,40.994917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dörtyol Çıhpır Köprüsü: Rize'nin Tarihî Bir Mirası

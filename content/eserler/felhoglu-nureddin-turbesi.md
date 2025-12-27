@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9010315,36.9195938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Felâhoğlu Nureddin Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1763992,39.1208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çeşme – Gazipaşa, İncirli Mescit Caddesi, 35: Bergama'nın Tarihi Bir Çeşmesi**

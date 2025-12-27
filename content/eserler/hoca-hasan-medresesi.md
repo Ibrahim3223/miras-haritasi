@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.4815178,38.7215958"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Hasan Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası

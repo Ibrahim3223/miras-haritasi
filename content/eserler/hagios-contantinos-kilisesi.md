@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "31.9975624,36.5332832"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hagios Contantinos Kilisesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.8058243,39.8241463"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başçavuş Hamamı

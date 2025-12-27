@@ -58,7 +58,7 @@
         {{ $paginator := .Paginate (.Pages.ByWeight) }}
         {{ range $paginator.Pages }}
         <article class="card" data-title="{{ .Title | lower }}" data-city="{{ .Params.province | lower }}"
-            data-type="{{ .Params.type | lower }}">
+            data-district="{{ .Params.district | lower }}" data-type="{{ .Params.type | lower }}">
             <a href="{{ .Permalink }}" class="card-img-wrap">
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
                 {{ if $img }}

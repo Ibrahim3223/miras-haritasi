@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.981461,38.585556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 24: Manisa'nın Gizli Mirası

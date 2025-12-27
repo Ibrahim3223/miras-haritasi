@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3374691,39.7843513"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ezine Ulu Camii: Tarihî Bir Çanakkale Eseri

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.7714539,38.658994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akmonya: Uşak'ta Bir Antik Kentin İzleri**

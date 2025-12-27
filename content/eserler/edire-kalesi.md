@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.370533,40.4117317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Edire Kalesi: Tarihinin ve Mimarisinin Gizemi

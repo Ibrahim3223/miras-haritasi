@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.67864,40.994204"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cimiata Arkeolojik Sit

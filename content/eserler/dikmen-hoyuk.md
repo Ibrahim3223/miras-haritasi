@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.412712174,37.090305861"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Dikmen Höyük: Mardin’in Gizli Kahramanı**

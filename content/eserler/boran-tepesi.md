@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.8208155,39.4177226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Boran Tepesi: Sivas'ın Gizli Arkeolojik Sırı

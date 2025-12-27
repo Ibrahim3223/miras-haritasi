@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.4691963,40.4606323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Daltaban Çeşmesi: Gümüşhane'nin Tarihî Mirası

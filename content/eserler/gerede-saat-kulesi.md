@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "32.196694444,40.801583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gerede Saat Kulesi: Bolu'nun Yüzyıllık Mirası

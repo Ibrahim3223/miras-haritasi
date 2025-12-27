@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9742603,41.0156822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### I. Abdülhamid Sebili ve Çeşmeleri (Eski Yeri)

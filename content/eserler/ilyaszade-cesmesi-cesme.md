@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3066349,38.3225975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlyaszade Çeşmesi

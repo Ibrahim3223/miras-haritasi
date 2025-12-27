@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.389590043,40.050129521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 1, Çınarlı: Çanakkale'de Bir Önemli Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.5033989,36.4812927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baş Pınar Höyük

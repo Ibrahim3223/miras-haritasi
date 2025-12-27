@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.460701,40.7100983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beylerli Camii

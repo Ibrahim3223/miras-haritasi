@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7627479,40.9533833"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlıyan Camii: Artvin'in Tarihi ve Kültürel Mirası

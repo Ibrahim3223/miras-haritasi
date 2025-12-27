@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4409676,41.8453789"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukurpınar Domuzpınarı 5 Tümülüsü: Kırklareli'nin Gizli Çarpısı

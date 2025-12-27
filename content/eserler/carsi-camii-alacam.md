@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.596479,41.60681"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Camii, Alaçam: Samsun'un Gözdesi

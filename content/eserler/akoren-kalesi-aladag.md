@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.4596329,37.4483566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akören Kalesi: Aladağ'ın Tarihî ve Kültürel Mirası**

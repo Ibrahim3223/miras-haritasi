@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.8211517,37.7270813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gusir Höyük: Tarihî Bir Anıtın Gizemi

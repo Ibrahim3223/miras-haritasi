@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1404357,39.0638672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damlacık Höyük: Yozgat'ın Tarihî Mirası

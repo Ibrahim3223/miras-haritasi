@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.341465,37.9386482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Efes Oktagon Anıt Mezar

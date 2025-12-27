@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.721302,37.8658935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Isparta'da Bir Çağlar Boyu Miras: Bindaios Arkeolojik Sit

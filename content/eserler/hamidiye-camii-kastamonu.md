@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7846527,41.3788872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hamidiye Camii, Kastamonu

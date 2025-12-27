@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9259682,36.5813675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Diokaisareia Zafer Kapısı: Mersin'in Gizli Çehresini Açan Anıt

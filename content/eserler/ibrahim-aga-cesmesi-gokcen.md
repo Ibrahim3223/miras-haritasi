@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8719006,38.1132011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Ağa Çeşmesi, Gökçen: Tarihî Bir Çeşmenin Öyküsü

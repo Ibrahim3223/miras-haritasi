@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6587677,40.6343575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güveytepesi Höyüğü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8401718,39.9053917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk ve Harbiyeli Anıtı

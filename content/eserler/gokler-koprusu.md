@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.9446144,36.7325783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gökler Köprüsü: Silifke'nin Tarihi Bir Köprüsü

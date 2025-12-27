@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0655861,40.1862679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsmail Hakkı Bursevi Tekkesi Çeşmesi

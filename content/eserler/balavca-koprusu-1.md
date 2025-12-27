@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7843494,37.3154411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balavca Köprüsü 1

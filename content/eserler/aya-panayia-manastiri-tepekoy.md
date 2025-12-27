@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8204002,40.1533012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Panayia Manastırı (Tepeköy): Gökçeada'nın Gizli Çehresini Keşfedin

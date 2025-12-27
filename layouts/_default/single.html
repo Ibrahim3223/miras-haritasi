@@ -104,8 +104,7 @@
                 {{ partial "visitor-info.html" . }}
             </div>
 
-            <!-- Heritage Map -->
-            {{ partial "heritage-map.html" . }}
+            <!-- Main Content -->
 
             {{ if .TableOfContents }}
             <div class="toc" style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-bottom: 30px;">
@@ -172,113 +171,117 @@
                 </a>
                 {{ end }}
 
-                <!-- Share -->
+                <!-- Social Share -->
                 <div style="margin-top: 25px; border-top: 1px solid var(--border); padding-top: 20px;">
                     <span
                         style="display: block; font-size: 0.85rem; color: var(--text-light); margin-bottom: 10px;">PAYLAŞ</span>
                     <div style="display: flex; gap: 10px;">
-                        <button onclick="sharePage()"
-                            style="flex: 1; padding: 8px; border: 1px solid var(--border); background: white; border-radius: 6px; cursor: pointer;">
-                            🔗
-                        </button>
-                        <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}"
-                            target="_blank"
-                            style="flex: 1; padding: 8px; border: 1px solid var(--border); background: white; border-radius: 6px; text-align: center; text-decoration: none;">
-                            🐦
-                        </a>
-                        <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank"
-                            style="flex: 1; padding: 8px; border: 1px solid var(--border); background: white; border-radius: 6px; text-align: center; text-decoration: none;">
-                            fb
-                        </a>
+                        <button onclick="shareTwitter()" class="btn-icon"
+                            style="background:#000; color:white; border:none; width:40px; height:40px; border-radius:8px; cursor:pointer; display:flex; align-items:center; justify-content:center; font-size:1.2rem;"
+                            title="X (Twitter)'da Paylaş">𝕏</button>
+                        <button onclick="shareFacebook()" class="btn-icon"
+                            style="background:#1877f2; color:white; border:none; width:40px; height:40px; border-radius:8px; cursor:pointer; display:flex; align-items:center; justify-content:center; font-size:1.2rem;"
+                            title="Facebook'ta Paylaş">f</button>
+                        <button onclick="shareCopy()" class="btn-icon"
+                            style="background:#ddd; color:#333; border:none; width:40px; height:40px; border-radius:8px; cursor:pointer; display:flex; align-items:center; justify-content:center; font-size:1.2rem;"
+                            title="Linki Kopyala">🔗</button>
                     </div>
-                    <script>
-                        function sharePage() {
-                            if (navigator.share) {
-                                navigator.share({
-                                    title: '{{ .Title }}',
-                                    url: '{{ .Permalink }}'
-                                });
-                            } else {
-                                navigator.clipboard.writeText('{{ .Permalink }}');
-                                alert('Link kopyalandı!');
-                            }
-                        }
-                    </script>
                 </div>
             </div>
-        </aside>
+
+            <script>
+                function shareTwitter() {
+                    const url = encodeURIComponent('{{ .Permalink }}');
+                    const text = encodeURIComponent('{{ .Title }}');
+                    window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, '_blank');
+                }
+                function shareFacebook() {
+                    const url = encodeURIComponent('{{ .Permalink }}');
+                    window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, '_blank');
+                }
+                function shareCopy() {
+                    navigator.clipboard.writeText('{{ .Permalink }}').then(() => {
+                        alert('Link kopyalandı!');
+                    });
+                }
+            </script>
+    </div>
+    </aside>
+</div>
+
+<!-- Advanced Internal Linking Strategy -->
+<div style="margin-top: 80px;">
+
+    <!-- 1. Yakındaki Diğer Yapılar (Same District/City) -->
+    <div style="margin-bottom: 50px;">
+        <h3
+            style="font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
+            🗺️ {{ .Params.district | default .Params.province }} Yakınındaki Diğer Yapılar
+        </h3>
+        <div class="card-grid">
+            {{ $nearby := where .Site.RegularPages "Params.district" .Params.district }}
+            {{ $nearby = where $nearby "Permalink" "ne" .Permalink }}
+            {{ range first 4 $nearby }}
+            <article class="card">
+                <a href="{{ .RelPermalink }}" class="card-img-wrap">
+                    {{ if .Params.featured_image }}
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="card-img" loading="lazy">
+                    {{ else }}
+                    <div style="width: 100%; height: 100%; background: #eee;"></div>
+                    {{ end }}
+                </a>
+                <div class="card-content" style="padding: 15px;">
+                    <h4 class="card-title" style="font-size: 1rem; margin: 0;"><a href="{{ .RelPermalink }}">{{
+                            .Title }}</a></h4>
+                    <span style="font-size: 0.8rem; color: var(--text-light);">{{ .Params.type }}</span>
+                </div>
+            </article>
+            {{ end }}
+        </div>
     </div>
 
-    <!-- Advanced Internal Linking Strategy -->
-    <div style="margin-top: 80px;">
-
-        <!-- 1. Yakındaki Diğer Yapılar (Same District/City) -->
-        <div style="margin-bottom: 50px;">
-            <h3
-                style="font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
-                🗺️ {{ .Params.district | default .Params.province }} Yakınındaki Diğer Yapılar
-            </h3>
-            <div class="card-grid">
-                {{ $nearby := where .Site.RegularPages "Params.district" .Params.district }}
-                {{ $nearby = where $nearby "Permalink" "ne" .Permalink }}
-                {{ range first 4 $nearby }}
-                <article class="card">
-                    <a href="{{ .RelPermalink }}" class="card-img-wrap">
-                        {{ if .Params.featured_image }}
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="card-img" loading="lazy">
-                        {{ else }}
-                        <div style="width: 100%; height: 100%; background: #eee;"></div>
-                        {{ end }}
-                    </a>
-                    <div class="card-content" style="padding: 15px;">
-                        <h4 class="card-title" style="font-size: 1rem; margin: 0;"><a href="{{ .RelPermalink }}">{{
-                                .Title }}</a></h4>
-                        <span style="font-size: 0.8rem; color: var(--text-light);">{{ .Params.type }}</span>
+    <!-- 2. Aynı Kategorideki Yapılar -->
+    <div style="margin-bottom: 50px;">
+        <h3
+            style="font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
+            🏛️ Diğer {{ .Params.type }} Örnekleri
+        </h3>
+        <ul
+            style="list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px;">
+            {{ $sameType := where .Site.RegularPages "Params.type" .Params.type }}
+            {{ $sameType = where $sameType "Permalink" "ne" .Permalink }}
+            {{ range first 6 $sameType }}
+            <li>
+                <a href="{{ .RelPermalink }}"
+                    style="display: flex; align-items: center; gap: 10px; padding: 10px; background: white; border: 1px solid var(--border); border-radius: 8px; transition: transform 0.2s;">
+                    <span style="font-size: 1.2rem;">🔹</span>
+                    <div>
+                        <span style="display: block; font-weight: 600; color: var(--primary);">{{ .Title }}</span>
+                        <span style="font-size: 0.8rem; color: var(--text-light);">{{ .Params.province }}</span>
                     </div>
-                </article>
-                {{ end }}
-            </div>
-        </div>
-
-        <!-- 2. Aynı Kategorideki Yapılar -->
-        <div style="margin-bottom: 50px;">
-            <h3
-                style="font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
-                🏛️ Diğer {{ .Params.type }} Örnekleri
-            </h3>
-            <ul
-                style="list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px;">
-                {{ $sameType := where .Site.RegularPages "Params.type" .Params.type }}
-                {{ $sameType = where $sameType "Permalink" "ne" .Permalink }}
-                {{ range first 6 $sameType }}
-                <li>
-                    <a href="{{ .RelPermalink }}"
-                        style="display: flex; align-items: center; gap: 10px; padding: 10px; background: white; border: 1px solid var(--border); border-radius: 8px; transition: transform 0.2s;">
-                        <span style="font-size: 1.2rem;">🔹</span>
-                        <div>
-                            <span style="display: block; font-weight: 600; color: var(--primary);">{{ .Title }}</span>
-                            <span style="font-size: 0.8rem; color: var(--text-light);">{{ .Params.province }}</span>
-                        </div>
-                    </a>
-                </li>
-                {{ end }}
-            </ul>
-        </div>
-
-        <!-- 3. Şehir Rehberi -->
-        <div style="background: #f8f9fa; padding: 30px; border-radius: 12px; text-align: center;">
-            <h3 style="margin-bottom: 15px;">📍 {{ .Params.province }} Gezi Rehberi</h3>
-            <p style="margin-bottom: 20px; color: var(--text-light);">{{ .Params.province }} ilindeki diğer tarihi ve
-                kültürel mirasları keşfedin.</p>
-            <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-                <a href="/iller/{{ .Params.province | urlize }}" class="btn btn-primary">Tüm {{ .Params.province }}
-                    Eserleri</a>
-                <a href="/turler/cami" class="btn btn-outline">Camiler</a>
-                <a href="/turler/muze" class="btn btn-outline">Müzeler</a>
-                <a href="/turler/antik-kent" class="btn btn-outline">Antik Kentler</a>
-            </div>
-        </div>
-
+                </a>
+            </li>
+            {{ end }}
+        </ul>
     </div>
+
+    <!-- 3. Şehir Rehberi -->
+    <div style="background: #f8f9fa; padding: 30px; border-radius: 12px; text-align: center;">
+        <h3 style="margin-bottom: 15px;">📍 {{ .Params.province }} Gezi Rehberi</h3>
+        <p style="margin-bottom: 20px; color: var(--text-light);">{{ .Params.province }} ilindeki diğer tarihi ve
+            kültürel mirasları keşfedin.</p>
+        <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+            <a href="/iller/{{ .Params.province | urlize }}" class="btn btn-primary">Tüm {{ .Params.province }}
+                Eserleri</a>
+            <a href="/turler/cami" class="btn btn-outline"
+                style="background:white; color:var(--primary); border:1px solid var(--primary);">Camiler</a>
+            <a href="/turler/muze" class="btn btn-outline"
+                style="background:white; color:var(--primary); border:1px solid var(--primary);">Müzeler</a>
+            <a href="/turler/antik-kent" class="btn btn-outline"
+                style="background:white; color:var(--primary); border:1px solid var(--primary);">Antik Kentler</a>
+        </div>
+    </div>
+
+</div>
 </div>
 {{ end }}

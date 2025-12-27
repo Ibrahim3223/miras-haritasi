@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.126955555,40.795083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoşvan Kilisesi: Yeşilbağlar'daki Gizli Çan Kulesi

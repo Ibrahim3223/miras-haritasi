@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9605103,41.0206413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Has Odabaşı Çeşmesi**

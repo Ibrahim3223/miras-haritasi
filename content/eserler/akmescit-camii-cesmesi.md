@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8491688,37.8457794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akmescit Camii Çeşmesi

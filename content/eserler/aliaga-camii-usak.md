@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4025478,38.6805954"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aliağa Camii: Uşak'ın Tarihi Bir Cenneti

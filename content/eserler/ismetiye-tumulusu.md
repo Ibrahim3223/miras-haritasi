@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.402478025,38.461887591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsmetiye Tümülüsü: Alaşehir'in Gizli Öyküsü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9217815,41.0142326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İdris Pehlivan Türbesi

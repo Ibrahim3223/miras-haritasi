@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "28.972615,41.025423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Galata İtalyan Sinagogu

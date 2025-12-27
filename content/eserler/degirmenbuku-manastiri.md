@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "27.4113007,36.7041283"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmenbükü Manastırı

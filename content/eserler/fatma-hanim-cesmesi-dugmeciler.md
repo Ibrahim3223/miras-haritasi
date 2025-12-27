@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9270859,41.0473557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fatma Hanım Çeşmesi, Düğmeciler

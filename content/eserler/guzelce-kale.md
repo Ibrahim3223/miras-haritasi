@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.7207985,39.3104362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelce Kale: Ankara'nın Gizli Tarihi

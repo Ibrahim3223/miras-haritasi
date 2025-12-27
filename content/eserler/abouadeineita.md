@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.542331,39.528949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abouadeineita: Bir Arkeolojik Sitin Gizemi

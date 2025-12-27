@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.587626,39.37063"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydul Baba Türbesi

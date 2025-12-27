@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9512253,41.0409698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayia Paraskevi Kilisesi Ayazması: Hasköy'de Bir Osmanlı Çeşmesi

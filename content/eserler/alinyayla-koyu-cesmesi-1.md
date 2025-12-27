@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.101738,40.5297852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Alınyayla Köyü Çeşmesi 1**

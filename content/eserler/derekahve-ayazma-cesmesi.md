@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7391758,38.0809174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derekahve Ayazma Çeşmesi: İzmirlinin Gizli Çeşmesi

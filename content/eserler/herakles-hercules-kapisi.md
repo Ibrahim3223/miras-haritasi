@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.343243608,37.937298804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Herakles (Hercules) Kapısı: İzmir'in Gizli Cezanesi

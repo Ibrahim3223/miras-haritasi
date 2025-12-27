@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.7887001,40.2032013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Konstantin Manastırı: Gökçeada'nın Tarihi ve Kültürel Mirası

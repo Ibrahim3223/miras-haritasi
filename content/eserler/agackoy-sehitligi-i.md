@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9756432,38.9061508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağaçköy Şehitliği I: Dumlupınar'ın Kahramanlıklarına Tanıklık Eden Anıt

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.6053123,39.1798096"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çifte Hamam, Soma: Manisa'nın Tarihi Bir Mirası

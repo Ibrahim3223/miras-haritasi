@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.755555,37.1551327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Durayda Höyüğü: Konya'nın Gizli Tarihi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.981405,41.010262"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Darphane Kapısı: İstanbul'un Tarihi ve Kültürel Mirası

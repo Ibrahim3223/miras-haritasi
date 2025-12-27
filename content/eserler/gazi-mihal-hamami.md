@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.543388888,41.676972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Mihal Hamamı

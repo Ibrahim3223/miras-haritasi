@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.3696213,38.4101372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Battalgazi'nin Evi: Malatya'nın Tarihi Bir Mirası

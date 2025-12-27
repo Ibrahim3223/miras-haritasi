@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8558464,39.9452667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hamidiye Mahallesi Çeşmesi**

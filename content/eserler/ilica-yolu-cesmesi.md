@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3141289,38.3282852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ilıca Yolu Çeşmesi: İzmir'in Şirin Çeşmesiyse...

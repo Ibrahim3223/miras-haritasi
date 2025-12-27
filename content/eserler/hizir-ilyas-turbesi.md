@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.492397372,38.353701601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hızır İlyas Türbesi: Kayseri'nin Gizli Olanı

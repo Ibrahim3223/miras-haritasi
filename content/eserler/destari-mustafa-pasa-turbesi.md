@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9567959,41.0135333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Destari Mustafa Paşa Türbesi

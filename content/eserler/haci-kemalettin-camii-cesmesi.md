@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6513748,38.2242165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Kemalettin Camii Çeşmesi

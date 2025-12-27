@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.77007,36.814311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anquiale: Antik Bir Arkeolojik Sit

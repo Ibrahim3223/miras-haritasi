@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4408207,41.8489342"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukurpınar Domuzpınarı A Tümülüsü

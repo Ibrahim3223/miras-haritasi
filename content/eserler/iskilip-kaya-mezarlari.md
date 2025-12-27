@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.4739494,40.7344704"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskilip Kaya Mezarları

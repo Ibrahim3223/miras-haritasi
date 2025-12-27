@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.6350708,37.7346115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dandalaz Köprüsü

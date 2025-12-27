@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "28.963722222,41.071583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çağlayan Kasrı

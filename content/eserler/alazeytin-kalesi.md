@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.541166666,37.019388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Alazeytin Kalesi: Bodrum'un Gizli Kahramanı**

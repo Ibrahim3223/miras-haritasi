@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.025039496,39.596809928"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Alemizade Camii: Edremit'in Gizli Çeşmesi

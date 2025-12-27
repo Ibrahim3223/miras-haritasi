@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.4601098,38.2648327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ambar Çayı Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası

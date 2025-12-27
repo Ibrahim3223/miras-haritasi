@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.042919,38.566288"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 2: Antik Çağ'ın Gizemi

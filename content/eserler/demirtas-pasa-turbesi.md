@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6140366,39.4509773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Demirtaş Paşa Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.963610305,41.017462755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Müftülüğü Girişindeki Çeşme

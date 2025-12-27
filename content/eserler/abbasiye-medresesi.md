@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "38.7928009,37.1503906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abbasiye Medresesi: Şanlıurfa'nın Tarihi ve Kültürel Mirası

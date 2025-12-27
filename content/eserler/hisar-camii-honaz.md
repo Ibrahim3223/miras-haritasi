@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2651005,37.7532005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hisar Camii, Honaz: Geçmişten Günümüze Bir Örnek

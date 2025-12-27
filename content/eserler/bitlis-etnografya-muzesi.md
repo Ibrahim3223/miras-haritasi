@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "42.109918,38.408967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bitlis Etnografya Müzesi

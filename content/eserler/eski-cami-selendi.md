@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.8691959,38.7442703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Cami, Selendi

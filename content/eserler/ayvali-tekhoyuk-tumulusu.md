@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3042412,41.4344978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ayvalı Tekhöyük Tümülüsü: Tarihi ve Kültürel Mirasın Gizli Anıtı**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.091545226,37.505896949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacımemiş Höyük: Konya'nın Gizli Mirası

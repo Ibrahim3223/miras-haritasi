@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8688927,41.5660629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beştepe Tümülüsü: Edirne'nin Gizemli Arkeolojik Sitleri

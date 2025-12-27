@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.37754,39.41213"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gürbulak Sınır Kapısı

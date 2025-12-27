@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.787058971,39.911579035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara'nın Bellek Müzesi: Türkiye'nin Tarihini ve Kültürünü Anlamak

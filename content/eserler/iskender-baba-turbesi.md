@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.017153,41.018759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İskender Baba Türbesi: Üsküdar'ın Tarihsel Mirası

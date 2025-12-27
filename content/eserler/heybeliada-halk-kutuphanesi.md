@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "29.0953255,40.8777924"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Heybeliada Halk Kütüphanesi: İstanbul'un Adalar Bölgesi'ndeki Kültür Mirası

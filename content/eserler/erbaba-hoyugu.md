@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.6811295,37.7591438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Erbaba Höyüğü: Konya'nın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.3992119,41.8317795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurpınar Kışlalar Kalesi, Kırklareli

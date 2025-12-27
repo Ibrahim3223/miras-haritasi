@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.614908,40.608479"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çankırı Kalesi

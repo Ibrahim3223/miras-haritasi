@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.814996,36.334807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dereağzı Kalesi: Kaş'ın Gizli Kahramanı

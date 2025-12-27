@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.441111111,38.264861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eşmekaya Ulu Camii: Türkiye'nin Gizli Çandırı

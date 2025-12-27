@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4298248,38.6081009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İshak Çelebi Türbesi

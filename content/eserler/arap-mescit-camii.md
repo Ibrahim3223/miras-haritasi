@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5354,38.7565"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arap Mescit Camii

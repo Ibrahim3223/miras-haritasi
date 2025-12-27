@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2072086,41.6033249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cami, Değirmencik

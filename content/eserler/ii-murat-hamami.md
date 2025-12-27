@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.7204267,40.4282741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### II. Murat Hamamı Tanıtımı

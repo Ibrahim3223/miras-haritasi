@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.931141,41.009678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abbas Ağa Çeşmesi, Şehremini

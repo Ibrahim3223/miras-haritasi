@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.549437139,40.7875753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güney Mahalle Aşağı Camii

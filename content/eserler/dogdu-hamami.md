@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.8931046,40.8121872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Doğdu Hamamı: Tarifsiz Bir Miras

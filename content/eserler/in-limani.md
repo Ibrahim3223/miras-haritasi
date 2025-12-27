@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.14915,39.869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İn Limanı: Tarih Öncesi Dönemden Kalma Bir Arkeolojik Sit

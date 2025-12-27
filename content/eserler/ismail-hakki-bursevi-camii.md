@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0654106,40.1862068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsmail Hakkı Bursevi Camii

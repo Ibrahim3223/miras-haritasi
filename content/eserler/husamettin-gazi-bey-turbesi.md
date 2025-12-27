@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.610635,37.979008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsamettin Gazi Bey Türbesi: Baklan'ın Tarihi Mirası

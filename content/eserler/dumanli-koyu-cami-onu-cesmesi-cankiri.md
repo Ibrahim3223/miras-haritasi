@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.239324663,40.691060754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dumanlı Köyü Cami Önü Çeşmesi: Çankırı'nın Özlü Mirası

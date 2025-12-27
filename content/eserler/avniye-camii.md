@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6216469,36.7934494"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Avniye Camii: Mersin'in Tarihi ve Kültürel Mirası**

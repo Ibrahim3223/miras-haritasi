@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.331165947,36.984733462"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adana Ulu Cami Türbesi

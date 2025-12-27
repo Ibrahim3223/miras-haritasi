@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.077971,40.992728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güneyköy Köprüsü

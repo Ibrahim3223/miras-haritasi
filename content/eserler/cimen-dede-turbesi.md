@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.853693,37.8485985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çimen Dede Türbesi

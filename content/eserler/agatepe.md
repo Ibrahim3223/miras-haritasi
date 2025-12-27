@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0316467,39.5924187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ağatepe: Sivas'ta Bir Arkeolojik Şans

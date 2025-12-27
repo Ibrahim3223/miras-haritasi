@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.6456146,37.9511871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Feyzullah Camii, Atabey

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9221077,40.9939651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Usta Kabri: Fatih'in Gizli Anıtı

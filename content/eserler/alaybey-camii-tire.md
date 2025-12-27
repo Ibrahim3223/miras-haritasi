@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7315845,38.0853157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alaybey Camii: Tire'nin Tarihi Bir Mirası

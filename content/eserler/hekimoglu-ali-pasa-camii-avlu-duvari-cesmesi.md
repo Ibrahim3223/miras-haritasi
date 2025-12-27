@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.935547,41.006161"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hekimoğlu Ali Paşa Camii Avlu Duvarı Çeşmesi

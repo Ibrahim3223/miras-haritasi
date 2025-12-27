@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.720089,40.4329033"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Huysuzlar Türbesi: İznik'in Gizli Çarşısı

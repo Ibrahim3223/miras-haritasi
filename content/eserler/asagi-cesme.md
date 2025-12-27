@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.299984,37.0858231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Çeşme: Bodrum'un Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9577847,40.9447746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bulduk Camii: Kocaeli'nin Tarihi Bir Mirası

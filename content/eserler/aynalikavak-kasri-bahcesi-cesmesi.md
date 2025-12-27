@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9553318,41.0381241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aynalıkavak Kasrı Bahçesi Çeşmesi: Tarihi ve Kültürel Mirasımız

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5986938,38.5182381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 #### Ayşe Kadın Camii Tanıtımı

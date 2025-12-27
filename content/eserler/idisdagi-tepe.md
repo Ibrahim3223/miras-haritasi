@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.9187845,38.7711977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İdisdağı Tepe: Ürgüp'in Gizli Şehri

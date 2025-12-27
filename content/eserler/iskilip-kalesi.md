@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.473896,40.7357445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskilip Kalesi: Tarihi ve Kültürel Mirası

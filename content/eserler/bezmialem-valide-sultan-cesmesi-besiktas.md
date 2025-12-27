@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.006280877,41.041851501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bezmialem Valide Sultan Çeşmesi, Beşiktaş

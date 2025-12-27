@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.830877295,37.634183198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bada Köprüsü: Beyşehir'in Tarihî Mirası

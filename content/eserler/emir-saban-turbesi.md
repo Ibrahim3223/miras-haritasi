@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "43.6124382,37.2464104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Şaban Türbesi

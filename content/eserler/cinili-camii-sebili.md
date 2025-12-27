@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0289211,41.0200882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çinili Camii Sebili: Üsküdar'ın Tarihi Bir Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2952957,40.7443542"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güzelköy Camii: Şarköy'deki Bir Ölümsüz

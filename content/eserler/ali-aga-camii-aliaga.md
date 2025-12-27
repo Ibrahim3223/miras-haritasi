@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0187912,38.7749901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ali Ağa Camii, Aliağa

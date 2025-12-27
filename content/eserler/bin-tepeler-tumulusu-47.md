@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.014509,38.552982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 47

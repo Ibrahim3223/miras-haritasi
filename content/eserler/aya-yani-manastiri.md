@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8157005,40.1498985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Yani Manastırı: Gökçeada'nın Gizli Cenneti

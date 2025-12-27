@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.1591682,38.6564598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İğnedere Köprüsü: Menemen'in Tarihi ve Kültürel Mirası

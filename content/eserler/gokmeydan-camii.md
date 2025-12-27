@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.1081924,38.4078598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gökmeydan Camii

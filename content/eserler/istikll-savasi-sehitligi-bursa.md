@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0574265,40.1867676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İstiklâl Savaşı Şehitliği, Bursa

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.7386345,37.518578"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amblada Arkeolojik Sit

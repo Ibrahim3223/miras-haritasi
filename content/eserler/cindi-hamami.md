@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "36.1616665,36.201518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cindi Hamamı: Antakya'nın Tarihi ve Kültür Mirasının Bir Parçası

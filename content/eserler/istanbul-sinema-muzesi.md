@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9791546,41.0341988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Sinema Müzesi

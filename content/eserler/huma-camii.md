@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9157982,41.0433998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Huma Camii: Samsun'un Tarihi bir Zenginliği

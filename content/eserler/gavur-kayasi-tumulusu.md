@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.891758,38.3356705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gavur Kayası Tümülüsü

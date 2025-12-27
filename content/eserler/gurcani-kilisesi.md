@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.885486111,41.082544444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gurcani Kilisesi: Tarihi ve Kültürel Değerleri

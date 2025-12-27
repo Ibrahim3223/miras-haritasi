@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.772667805,40.945064805"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurluhoca Köprüsü

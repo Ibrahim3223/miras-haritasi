@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.1322365,41.2074471"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hasan Paşa Çeşmesi, Poyrazköy

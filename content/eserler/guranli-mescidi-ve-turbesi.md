@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0540104,40.1830826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güranlı Mescidi ve Türbesi

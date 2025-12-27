@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.843792,41.7411385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Geçkinli Şehitlik Anıtı

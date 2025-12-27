@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0213032,40.9859047"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haldun Taner Büstü: Kadıköy'ün Değerli Anıtı

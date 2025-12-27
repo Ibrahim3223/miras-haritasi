@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.966067,41.01269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Paşa Sebili

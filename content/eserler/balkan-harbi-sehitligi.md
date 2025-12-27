@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4551678,41.4894791"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balkan Harbi Şehitliği

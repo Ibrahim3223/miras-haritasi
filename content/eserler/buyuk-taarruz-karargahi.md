@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.5420303,38.5302658"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Taarruz Karargahı Müzesi

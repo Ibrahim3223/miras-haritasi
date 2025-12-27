@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "28.9837303,41.0364647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fransız Konsolosluğu, Beyoğlu

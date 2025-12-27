@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.3601227,38.3629837"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bekse Kilisesi: Sason, Batman'daki Bir İç Anadolu Kilisesi

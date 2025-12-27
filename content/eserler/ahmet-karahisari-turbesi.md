@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.482785,38.759487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ahmet Karahisari Türbesi: Afyonkarahisar'ın Önemli Anıtı

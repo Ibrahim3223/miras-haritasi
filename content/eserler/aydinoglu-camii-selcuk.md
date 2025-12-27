@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3683815,37.9474716"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aydınoğlu Camii: Selçuk'ta Bir Geçiş Dönemi Mirası

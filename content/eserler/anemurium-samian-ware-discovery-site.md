@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.82,36.1"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Anemurium: Samian Ware Discovery Site

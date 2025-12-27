@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.497401,39.790469"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskişehir Çağdaş Sanatlar Müzesi

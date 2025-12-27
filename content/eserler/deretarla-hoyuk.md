@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.824028,40.5273857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Deretarla Höyük: Tarihî ve Kültürel Mirasın Gizemi

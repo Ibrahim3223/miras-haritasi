@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.798713,40.671029"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dumanlı Köyü İşhanlı Mahallesi Kilisesi

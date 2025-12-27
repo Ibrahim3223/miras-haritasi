@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.950886,41.027344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## I.Abdülhamit Han Medresesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.2442245,39.1909142"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boğazlıyan Hamamı: Osmanlı Dönemi'nin Etkileyici Kalıtı

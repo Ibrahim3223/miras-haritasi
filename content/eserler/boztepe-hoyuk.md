@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.9938011,36.769455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boztepe Höyük: Antik Çağın Gizemi

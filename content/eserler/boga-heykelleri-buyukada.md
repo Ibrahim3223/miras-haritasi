@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1323643,40.8734169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boğa Heykelleri, Büyükada

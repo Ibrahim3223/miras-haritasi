@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.3377953,41.6329842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Mehmet Camii, Bartın

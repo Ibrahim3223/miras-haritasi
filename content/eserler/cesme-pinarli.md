@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3011894,37.7048912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Pınarlı: Aydın'ın Bozdoğan'ında Bir Ölümsüz Miras

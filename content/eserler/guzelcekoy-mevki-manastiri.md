@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.9433002,40.1842003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gökçeada'da Gizli Bir Miras: Güzelceköy Mevki Manastırı

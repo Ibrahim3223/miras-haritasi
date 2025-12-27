@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.05111,41.114144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstinye Hamamı: İstanbul'un Eski Köylerindeki Bir Klasik

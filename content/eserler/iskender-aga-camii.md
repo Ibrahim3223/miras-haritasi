@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.928207892,41.015714956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskender Ağa Camii: İstanbul'un Tarihsel Mirası

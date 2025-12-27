@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1555786,39.8449593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hıdırlar Hamamı: Tarihi ve Kültürel Mirasın Gizemi

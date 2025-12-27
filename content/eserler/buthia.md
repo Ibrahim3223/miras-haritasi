@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.307181,38.327245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Buthia Arkeolojik Sit

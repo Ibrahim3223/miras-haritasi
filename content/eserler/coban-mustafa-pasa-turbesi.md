@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4317455,40.7996216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoban Mustafa Paşa Türbesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.045119,40.189993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsnü Züber Yaşayan Müze

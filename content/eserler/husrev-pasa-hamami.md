@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.8619041,39.1576195"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hüsrev Paşa Hamamı

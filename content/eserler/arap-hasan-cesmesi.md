@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1097794,38.4016418"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arap Hasan Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9571018,41.0112228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukur Çeşme, Laleli: Fatih, İstanbul'da Bir Ölümsüz

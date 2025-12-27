@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.686127,36.96286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çolaklar Köprüsü: İslahiye'nin Taşlı Anıtı

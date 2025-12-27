@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.50366,41.08124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçakale: Trabzon'un Tarihi ve Kültürel Mirası

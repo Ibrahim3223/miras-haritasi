@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.939317,41.019661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ekmekçi Sinan Çeşmesi**

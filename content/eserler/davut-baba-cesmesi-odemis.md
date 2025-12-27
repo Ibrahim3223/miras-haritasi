@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.9885006,38.1083984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Davut Baba Çeşmesi: Ödemiş'in Tarihi Bir Mirası

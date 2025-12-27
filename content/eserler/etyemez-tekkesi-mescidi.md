@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9374371,41.0026894"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Etyemez Tekkesi Mescidi

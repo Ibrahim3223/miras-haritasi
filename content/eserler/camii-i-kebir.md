@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.667335853,38.391886397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Camii-i Kebir: Elazığ'ın Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.1647053,38.4353027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halkapınar İstiklal Şehitliği

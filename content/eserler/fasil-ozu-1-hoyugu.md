@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.5782031,39.6026075"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fasıl Özü 1 Höyüğü: Keskin'in Gizemi

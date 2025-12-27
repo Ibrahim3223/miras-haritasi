@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.3857507,40.718228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokumacılar Sahlep Camii: Tarihi ve Kültür Mirası

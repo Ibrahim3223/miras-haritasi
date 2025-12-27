@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.811941666,40.921158333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Hers Kilisesi: Bir Geçmişi Yansıtan Ünlü Yer

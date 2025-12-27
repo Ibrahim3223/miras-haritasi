@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1303387,37.9270134"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hierapolis Tiyatro Üstü Kilisesi

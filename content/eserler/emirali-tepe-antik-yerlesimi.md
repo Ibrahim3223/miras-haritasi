@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9514713,39.0236969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emirali Tepe Antik Yerleşimi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.562233,38.942997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güvenç Abdal Türbesi

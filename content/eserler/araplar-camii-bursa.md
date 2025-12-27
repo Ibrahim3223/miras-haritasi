@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0586128,40.180088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Araplar Camii, Bursa

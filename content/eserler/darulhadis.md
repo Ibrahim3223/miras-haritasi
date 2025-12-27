@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.1777992,39.1240997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darülhadis Medresesi: Bergama'nın Gizli Çehresini Keşfeden Bir Öykü

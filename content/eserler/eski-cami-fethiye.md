@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1089134,36.6213722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Cami, Fethiye

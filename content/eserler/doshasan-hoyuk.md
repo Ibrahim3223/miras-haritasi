@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.479004,36.468971"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Döşhasan Höyük: Hatay'ın Gizli Mirası

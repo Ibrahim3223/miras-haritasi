@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.642907,37.951412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agrae (Pisidya): Tarihi ve Kültürel Mirasın Bir Anıtı

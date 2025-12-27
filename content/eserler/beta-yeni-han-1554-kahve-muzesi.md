@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.970135217,41.016705102"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beta Yeni Han 1554 Kahve Müzesi

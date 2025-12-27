@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.0240135,38.3703842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cıncıklı Mescit: Aksaray'da Bir Tarihî Cami

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8545876,39.9460373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ankyra Bizans Mezarı

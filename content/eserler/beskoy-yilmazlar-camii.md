@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.12254,40.777851"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beşköy Yılmazlar Camii

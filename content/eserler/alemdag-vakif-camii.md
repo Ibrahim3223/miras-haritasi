@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2361469,41.0496712"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alemdağ Vakıf Camii: Tarihi ve Özellikleri

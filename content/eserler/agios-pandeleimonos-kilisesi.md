@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.659001,39.336958"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agios Pandeleimonos Kilisesi: Ayvalık'ın Gizli Çehresini Açıklamak

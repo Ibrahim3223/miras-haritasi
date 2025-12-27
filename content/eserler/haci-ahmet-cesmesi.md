@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6686153,39.1013794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ahmet Çeşmesi: Kırkağaç'ta Bir Tarihi Çeşme

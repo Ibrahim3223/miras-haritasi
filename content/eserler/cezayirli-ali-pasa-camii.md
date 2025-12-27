@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.1620445,42.0254517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cezayirli Ali Paşa Camii**

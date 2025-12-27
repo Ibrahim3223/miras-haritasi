@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.735751681,41.341609034"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Banakna Köprüsü

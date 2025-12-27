@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2407303,37.9130287"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dabanoğlu Türbesi: Diyarbakır'ın Tarihi Bir Mirası

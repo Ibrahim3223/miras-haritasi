@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.883364,40.985024"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Atatürk Anıtı, Altınordu**

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "34.8242552,38.7907196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Belha Manastırı

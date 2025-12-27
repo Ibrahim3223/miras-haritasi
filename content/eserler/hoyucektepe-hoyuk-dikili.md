@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.807608333,39.195136111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Höyücektepe Höyük: Dikili'nin Tarihi Mirası

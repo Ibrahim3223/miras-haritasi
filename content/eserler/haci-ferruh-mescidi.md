@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4938469,37.8648605"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ferruh Mescidi: Konya'nın Tarihi Bir Zenginliği

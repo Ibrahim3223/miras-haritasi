@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.4909439,38.7204933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hunat Hatun Hamamı: Kayseri'nin Gizli Çehresini İyileştiren Bir Miras

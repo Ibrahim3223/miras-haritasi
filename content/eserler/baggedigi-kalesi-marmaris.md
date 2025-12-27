@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.1340809,36.6579132"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bağgediği Kalesi, Marmaris

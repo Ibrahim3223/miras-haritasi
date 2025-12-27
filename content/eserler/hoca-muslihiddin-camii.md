@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0645943,40.1804466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hoca Muslihiddin Camii: Bursa'nın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.880159507,40.06971999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Balişeyh Koçubaba Camii**

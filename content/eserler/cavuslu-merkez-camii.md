@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.065224,41.039407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çavuşlu Merkez Camii Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.990137,39.636902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs S-2: Polatlı'nın Gizli Hazineleri

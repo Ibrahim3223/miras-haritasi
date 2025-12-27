@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9430847,41.0312767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamamı Muhyiddin Camii: Ayvansaray'ın Gizli Çeşmidi

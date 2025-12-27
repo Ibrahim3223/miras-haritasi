@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5056,39.276833"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Işıklar ArkeolojikSit

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7750282,41.3802147"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halife Sultan Hazretleri Türbesi

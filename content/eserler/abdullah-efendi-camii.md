@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1455116,38.4209595"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Abdullah Efendi Camii

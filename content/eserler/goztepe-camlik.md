@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.387583,37.877967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Göztepe, Çamlık: Selçuk'un Gizli Cenneti**

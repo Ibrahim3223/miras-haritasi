@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.733,41.036389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bathonea: İstanbul'un Eski Bir Yerleşim Merkezi

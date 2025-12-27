@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aslahaddin Camii: Bolu'nun Eski Şehir Merkezi'ndeki Tarihi Bir Ölümsüz

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.8377135,39.7425208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Behramşah Kalesi: Yozgat'ın Gizli Çarpıcılığı

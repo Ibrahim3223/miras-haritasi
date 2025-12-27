@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.397806,40.823421"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Budak Camii: Ordu'nun Tarihi ve Kültürel Mirası

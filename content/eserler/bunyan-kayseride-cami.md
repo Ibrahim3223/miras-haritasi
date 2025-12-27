@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8586,38.8426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bünyan, Kayseri'de Cami: Tarihi ve Kültürel Miras

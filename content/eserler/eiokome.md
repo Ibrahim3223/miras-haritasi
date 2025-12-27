@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.31044,39.386076"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eiokome: Tarihi ve Kültürel Mirasının Gizli Çehresi

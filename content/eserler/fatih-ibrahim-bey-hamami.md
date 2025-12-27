@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.76581,38.3226662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih İbrahim Bey Hamamı:Urla, İzmir'de Bir Tarihsel Cennet

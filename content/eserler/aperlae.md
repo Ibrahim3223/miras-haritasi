@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.78361111,36.15861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aperlae: Antik Çağın Gizemi

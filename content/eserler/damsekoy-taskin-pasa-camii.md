@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.9469719,38.491909"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damseköy Taşkın Paşa Camii: Ürgüp'te Bir Gizem

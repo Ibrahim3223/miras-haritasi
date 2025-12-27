@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3687859,37.9494324"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İshak Bey Camii: Selçuk'un Tarihi Bir Mirası

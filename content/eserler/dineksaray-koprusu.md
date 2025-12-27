@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.6062248,37.3883233"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dineksaray Köprüsü: Türkiye'nin Eski Bir Köprüsü

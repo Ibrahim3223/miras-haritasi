@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.0957985,40.604393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gazi Ahmet Muhtar Paşa Büstü**

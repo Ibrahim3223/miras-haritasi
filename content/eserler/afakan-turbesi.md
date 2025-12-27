@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.430191,37.88097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Afakan Türbesi

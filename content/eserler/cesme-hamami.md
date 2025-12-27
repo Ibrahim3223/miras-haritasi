@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.972471,41.023787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çeşme Hamamı: İstanbul'un Tarihi ve Kültürel Mirası**

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.8001003,37.0769997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asartepe, Fesleğen: Milas'taki Bir Antik Kale

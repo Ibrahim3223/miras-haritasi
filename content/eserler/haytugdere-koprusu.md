@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.090822,41.002632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Haytuğdere Köprüsü

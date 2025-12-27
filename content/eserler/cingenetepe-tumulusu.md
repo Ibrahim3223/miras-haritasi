@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8695278,41.9104004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çingenetepe Tümülüsü: Edirne'nin Gizli Tarihi

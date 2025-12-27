@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7501984,38.0812492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hafsa Hatun Camii: Tire'nin Tarihî Bir Mirası

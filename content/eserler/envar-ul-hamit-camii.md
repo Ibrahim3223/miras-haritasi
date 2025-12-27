@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.251461,37.0725746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Envar-ül Hamit Camii: Osmaniye'nin Göbeğinde Bir Özenli Mimarlık Eseri

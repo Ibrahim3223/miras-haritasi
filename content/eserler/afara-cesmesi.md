@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.6796,36.3443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Afara Çeşmesi

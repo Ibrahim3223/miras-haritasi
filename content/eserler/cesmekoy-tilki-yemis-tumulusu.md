@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9604797,41.8846397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşmeköy Tilki Yemiş Tümülüsü: Kırklareli'nin Gizli Gözdeleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.5603523,38.9456367"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hoca Fıkıh Çeşmesi: Nevşehir'in Değerli Kültürel Mirası

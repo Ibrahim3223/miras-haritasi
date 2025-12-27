@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4920654,37.8630409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aksinne Mescidi

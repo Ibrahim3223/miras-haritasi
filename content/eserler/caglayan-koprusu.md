@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.2308848,41.2565471"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayan Köprüsü: Rize'nin Büyülü Köprüsü

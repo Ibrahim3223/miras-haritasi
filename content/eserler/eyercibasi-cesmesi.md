@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9592571,41.0088081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eyercibaşı Çeşmesi

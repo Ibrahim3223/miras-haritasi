@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9018002,40.8917198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacerzade İbrahim Bey Cami

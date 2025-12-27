@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9544353,41.006958"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agion Theodoron Ayazması

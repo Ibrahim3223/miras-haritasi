@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9330692,41.0020218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Ioanis Prodromos Ayazması, Samatya

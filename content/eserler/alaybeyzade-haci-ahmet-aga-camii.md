@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5200005,37.6687012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaybeyzade Hacı Ahmet Ağa Camii

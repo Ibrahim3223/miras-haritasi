@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.514866,38.713242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haspet Kalesi: Muş'un Tarihi ve Kültürel Mirası

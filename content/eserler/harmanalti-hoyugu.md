@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3015078,39.3709831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Harmanaltı Höyüğü

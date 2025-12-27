@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9422,38.664"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gedevre Tepesi: Manisa'nın Gizli Cenneti

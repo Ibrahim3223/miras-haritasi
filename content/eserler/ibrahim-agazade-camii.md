@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3849812,39.0832672"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Ağazade Camii

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.97882,41.006319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cedid Mehmet Efendi Medresesi

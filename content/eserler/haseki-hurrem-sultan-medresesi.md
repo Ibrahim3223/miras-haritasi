@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.941969,41.008813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haseki Hürrem Sultan Medresesi

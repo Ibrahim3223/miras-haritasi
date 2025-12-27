@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.0278263,39.6311569"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balıklı Köyü Roma Köprüsü

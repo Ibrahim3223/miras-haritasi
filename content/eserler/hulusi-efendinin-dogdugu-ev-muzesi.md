@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.481001372,38.60748917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hulusi Efendi’nin Doğduğu Ev Müzesi

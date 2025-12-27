@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.78986069,40.732842544"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cimil Baş Köyü Camii

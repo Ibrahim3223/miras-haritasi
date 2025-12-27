@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9653283,41.004379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arapzade Abdurrahman Efendi Çeşmesi

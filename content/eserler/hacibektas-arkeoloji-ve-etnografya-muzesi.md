@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.559956,38.941734"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacıbektaş Arkeoloji ve Etnografya Müzesi

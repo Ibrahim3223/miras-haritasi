@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0714684,40.1801834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bursa Ermeni Katolik Kilisesi

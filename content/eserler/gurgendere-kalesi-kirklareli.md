@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.3431339,41.7825623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gürgendere Kalesi, Kırklareli

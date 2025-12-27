@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.012162,41.024371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Hamam: Üsküdar'ın Gizli Cenneti

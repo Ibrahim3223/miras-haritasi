@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9685497,41.0286064"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Haliç Kapıüstü Mescidi

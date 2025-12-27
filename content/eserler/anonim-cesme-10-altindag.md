@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.85798257,39.936430036"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Çeşme-10: Ankara'nın Gizli Çeşmesi

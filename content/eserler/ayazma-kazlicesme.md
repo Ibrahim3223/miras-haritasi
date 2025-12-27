@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9178333,40.9945335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayazma, Kazlıçeşme: İstanbul'un Gizli Cenneti

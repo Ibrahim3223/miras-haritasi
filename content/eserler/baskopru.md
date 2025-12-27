@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.0284462,38.3759308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başköprü

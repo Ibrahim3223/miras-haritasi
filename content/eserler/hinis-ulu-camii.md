@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.695444444,39.358777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hınıs Ulu Camii

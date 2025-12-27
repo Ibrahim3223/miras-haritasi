@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.971754,41.969747"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumayanı Köprüsü: Bozkurt'un Gizli Cenneti

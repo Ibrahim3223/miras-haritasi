@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7155266,41.4729004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hergele Tepe Tümülüsü: Türkiye'nin Gizli Kahramanı

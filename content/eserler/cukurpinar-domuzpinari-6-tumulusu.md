@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4404964,41.8450279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurpınar Domuzpınarı 6 Tümülüsü: Tarih ve Mimarisi

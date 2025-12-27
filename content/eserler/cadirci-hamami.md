@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "39.4906006,39.7230988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çadırcı Hamamı: Erzincan'ın Tarihi Bir Mirası

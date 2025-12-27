@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.376435,38.253756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Embaton: Antik Bir Şehirin İzleri

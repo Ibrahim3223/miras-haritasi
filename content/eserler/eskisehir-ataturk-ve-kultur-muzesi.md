@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.500073,39.790627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Eskişehir Atatürk ve Kültür Müzesi

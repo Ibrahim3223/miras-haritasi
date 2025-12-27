@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.389494,40.970234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Altıparmak Yeni Camii

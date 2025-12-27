@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.358277777,40.622972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Agaraki Manastırı

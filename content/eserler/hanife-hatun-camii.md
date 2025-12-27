@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4687805,40.875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hanife Hatun Camii: Merzifon'un Gizli Cenneti**

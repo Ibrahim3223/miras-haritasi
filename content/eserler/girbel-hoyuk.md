@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.441791289,37.085198147"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gırbel Höyük: Mardin'in Tarihi Mirası

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9865303,40.1398888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emirler Hamamı, Bilecik

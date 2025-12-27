@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.810222222,39.839805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahlatlıbel Düz Yerleşmesi: Ankara'nın Gizli Arkeolojik Harikası

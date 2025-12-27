@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.933068,41.047949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çifte Gelinler Türbesi

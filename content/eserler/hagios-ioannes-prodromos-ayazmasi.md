@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.02034,41.0309601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hagios Ioannes Prodromos Ayazması

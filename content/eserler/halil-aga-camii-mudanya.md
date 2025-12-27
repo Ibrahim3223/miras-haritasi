@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.882949,40.377866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halil Ağa Camii, Mudanya

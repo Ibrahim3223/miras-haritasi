@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.241794,38.190623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dörtyol Höyük: Isparta'nın Gizemi

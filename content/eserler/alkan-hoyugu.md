@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7795043,38.2965867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alkan Höyüğü: Aksaray'ın Gizli Kahramanı

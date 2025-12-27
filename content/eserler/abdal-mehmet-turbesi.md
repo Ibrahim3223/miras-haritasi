@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.068226,40.186946"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdal Mehmet Türbesi

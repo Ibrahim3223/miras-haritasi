@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.646111111,37.002222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amynanda: Muğla'nın Gizli Anıtı

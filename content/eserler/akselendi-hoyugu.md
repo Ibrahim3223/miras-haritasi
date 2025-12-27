@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8866062,38.774395"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akselendi Höyüğü: Tarihî Bir Mirasın Geri Baksı

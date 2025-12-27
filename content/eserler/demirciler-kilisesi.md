@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.2745743,39.9131088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirciler Kilisesi

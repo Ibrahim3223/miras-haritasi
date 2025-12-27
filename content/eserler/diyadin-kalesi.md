@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.673315,39.529549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Diyadin Kalesi: Tarihî Bir Mirasın Gizemi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.249444444,40.313888888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alopeconnesus: Gelibolu'nun Gizli Örtüleri

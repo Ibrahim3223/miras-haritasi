@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.1187515,36.7143211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cüneyne Camii

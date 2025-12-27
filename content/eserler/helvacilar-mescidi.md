@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8649483,39.9346504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Helvacılar Mescidi: Altındağ'ın Tarihi Bir Mirası

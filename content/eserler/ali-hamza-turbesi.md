@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.150621,40.903333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Hamza Türbesi

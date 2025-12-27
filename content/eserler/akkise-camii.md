@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.131995707,37.36580211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akkise Camii

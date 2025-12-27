@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.3315506,41.295269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hazinedarzade Süleyman Paşa Camii: Samsun'un Tarihi Bir Mirası

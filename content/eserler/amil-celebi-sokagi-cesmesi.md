@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5072289,37.8707924"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Amil Çelebi Sokağı Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0053005,38.2456017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahrandı Tümülüsü: Ödemiş'in Gizli Kaya Mezarı

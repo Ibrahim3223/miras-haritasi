@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.000786,39.6521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gordion Tümülüs X: Polatlı'nın Gizemli Mirası**

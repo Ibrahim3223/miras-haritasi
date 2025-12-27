@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.1030312,40.6699104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hatipler Camii: Çankırı'nın Gizli Cenneti**

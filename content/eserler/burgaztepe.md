@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.536268929,37.469258273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burgaztepe: Milas'ın Tarihî Mirası

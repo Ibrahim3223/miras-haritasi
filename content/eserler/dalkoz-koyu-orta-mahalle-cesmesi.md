@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.234722,40.951667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dalkoz Köyü Orta Mahalle Çeşmesi

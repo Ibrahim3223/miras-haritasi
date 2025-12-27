@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.949023,41.022176"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cedid Abdürrahim Efendi Medresesi: İstanbul'un Tarihi bir Mirası**

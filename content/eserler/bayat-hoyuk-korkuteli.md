@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.3169994,37.0399017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bayat Höyük, Korkuteli

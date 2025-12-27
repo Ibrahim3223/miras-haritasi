@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.335499,41.292237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlkadım Anıtı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.965005,41.018487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hüseyin Ağa Çeşmesi

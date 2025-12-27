@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "32.8040962,36.0217361"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anemurium Kutsal Aposteles Kilisesi

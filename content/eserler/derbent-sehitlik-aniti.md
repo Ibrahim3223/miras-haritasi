@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7436905,41.0642662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derbent Şehitlik Anıtı

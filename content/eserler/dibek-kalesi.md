@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.188065,37.399654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dibek Kalesi: Konya'nın Gizli Kahramanı

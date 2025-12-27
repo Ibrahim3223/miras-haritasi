@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5420437,39.4495087"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balaban Çeşmesi

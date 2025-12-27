@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.860092621,39.811675461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akpınar Mevkii Tümülüsleri

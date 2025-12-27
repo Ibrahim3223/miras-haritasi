@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.7810879,37.3166161"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Ortodoks Kilisesi Hakkında

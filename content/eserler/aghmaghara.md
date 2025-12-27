@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aghmaghara Kilisesi: Kars'taki Bir Geçmişe Dokunan Eser

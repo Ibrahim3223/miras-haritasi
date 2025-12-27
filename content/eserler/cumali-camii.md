@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.0706571,36.9161924"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cumalı Camii: Serik'in Tarihi ve Kültürel Mirası**

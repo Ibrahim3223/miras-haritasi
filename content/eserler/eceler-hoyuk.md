@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.636977,36.814482"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Eceler Höyük: Muğla'nın Gizli Kahramanı

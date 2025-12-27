@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.5631973,37.1316547"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hasanbeyli Höyüğü: Osmaniye'nin Gizli Mirası**

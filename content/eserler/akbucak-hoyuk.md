@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1839304,39.5548334"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akbucak Höyük: Yozgat'ın Tarihî Mirası

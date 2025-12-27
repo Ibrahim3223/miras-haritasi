@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.979322955,41.008271548"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # I. Mustafa Türbesi

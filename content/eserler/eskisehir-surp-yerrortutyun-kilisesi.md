@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.5191,39.7771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Eskişehir Surp Yerrortutyun Kilisesi**

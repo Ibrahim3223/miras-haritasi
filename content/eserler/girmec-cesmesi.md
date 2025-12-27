@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.2785339,39.815094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Girmeç Çeşmesi: Ankara'nın Gizli Çeşmesi

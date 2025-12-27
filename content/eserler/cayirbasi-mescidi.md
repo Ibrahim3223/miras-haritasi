@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9355392,41.0356445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çayırbaşı Mescidi: Eyüpsultan'ın Gizli Çiçeği

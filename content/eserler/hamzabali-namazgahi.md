@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1282005,37.8055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hamzabali Namazgahı: Aydın'ın Gizli Cenneti**

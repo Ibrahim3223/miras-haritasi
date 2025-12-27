@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.4748154,40.7343979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deri Hamamı

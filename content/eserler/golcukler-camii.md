@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.143961,38.261158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gölcükler Camii: İzmir'in Tarihi ve Mimari Mirası

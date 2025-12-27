@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5074806,37.8890038"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Sinan Çeşmesi

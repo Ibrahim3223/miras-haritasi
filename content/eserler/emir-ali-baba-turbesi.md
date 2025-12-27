@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.679948,40.417418"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Emir Ali Baba Türbesi: Çanakkale'nin Gizli Mührü

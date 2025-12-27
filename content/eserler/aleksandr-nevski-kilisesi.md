@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.0002327,40.5506706"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aleksandr Nevski Kilisesi

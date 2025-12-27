@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.370759067,37.061729263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayazhan Kent Müzesi: Gaziantep'in Tarihini Yaşamak

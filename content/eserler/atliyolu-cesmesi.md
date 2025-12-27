@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.821165,41.00387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atlıyolu Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası

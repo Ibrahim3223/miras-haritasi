@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0248051,41.0542603"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cavit Ağa Mescidi: Ortaköy'ün Gizli Cenneti

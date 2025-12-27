@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.43948,41.054436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ardanyak Kalesi: Tarihi ve Kültürel Mirasımız

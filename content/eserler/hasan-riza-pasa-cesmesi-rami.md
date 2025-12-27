@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.915758,41.052277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hasan Rıza Paşa Çeşmesi**

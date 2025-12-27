@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.7183857,36.8845711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demircikara Camii: Antalya'nın Tarihi Bir Mirası

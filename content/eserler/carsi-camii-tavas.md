@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0698776,37.5750198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çarşı Camii, Tavas: Tarihi ve Kültürel Bir Miras

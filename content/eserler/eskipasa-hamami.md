@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.015442,39.746758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Eskipaşa Hamamı

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.805517,40.67359"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dumanlı Köyü Terzili Mahallesi Kilisesi

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "34.6157608,40.0195999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hattuşa Kütüphanesi: Boğazkale'nin Gizli Sırları

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6758347,37.9737358"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dört Ayak Camii

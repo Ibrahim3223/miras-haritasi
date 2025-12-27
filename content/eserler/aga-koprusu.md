@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.6340828,40.835247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağa Köprüsü

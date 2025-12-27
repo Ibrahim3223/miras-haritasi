@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9693584,41.0250206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alaca Mescit: İstanbul'un Gizli Cenneti

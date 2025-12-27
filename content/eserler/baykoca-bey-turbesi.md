@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.5255642,40.1340675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Baykoca Bey Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.1349258,37.9043999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskihisar Çeşmesi

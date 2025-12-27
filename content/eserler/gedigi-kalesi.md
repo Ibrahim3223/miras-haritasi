@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.3797226,36.9916687"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gediği Kalesi: Toroslar'ın Gizli Şehri

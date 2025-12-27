@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4754562,40.4905472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamlıdere Merkez Camii: Ankara'da tarihi bir güzellik

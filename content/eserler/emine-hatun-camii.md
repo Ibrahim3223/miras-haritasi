@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.3779488,39.0632858"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emine Hatun Camii

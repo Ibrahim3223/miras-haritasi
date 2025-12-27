@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.7147388,39.2290955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akpara Kale: Eskişehir'in Gizli Mirası

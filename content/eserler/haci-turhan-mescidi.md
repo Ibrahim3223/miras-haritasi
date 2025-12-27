@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.5460434,40.3151703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Turhan Mescidi: Tokat'ın Zümrütü

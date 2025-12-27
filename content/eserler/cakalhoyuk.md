@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.9358713,39.1688314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakalhöyük: Konya'nın Gizli Kahramanı

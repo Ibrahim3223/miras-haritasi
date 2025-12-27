@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.226114363,40.681120382"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamlıbel Mahallesi Camii: Trabzon'un Gizli Çeşmesi

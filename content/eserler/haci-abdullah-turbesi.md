@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.6305656,40.7598839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Abdullah Türbesi: Yağlıdere'nin Tarihi Öreni

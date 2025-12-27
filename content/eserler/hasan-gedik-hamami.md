@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.0915868,40.1635825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Gedik Hamamı: Suşehri'nin Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9298286,41.4250221"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağayeri İkiztepeler A Tümülüsü

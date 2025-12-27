@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.8018742,41.1637077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çorlu Muhacir Evi

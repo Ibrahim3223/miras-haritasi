@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.2179928,38.303299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamlıbel Köprüsü: Uşak'ın Tarihî Bir Mirası

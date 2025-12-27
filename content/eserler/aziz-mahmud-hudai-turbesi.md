@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.014333,41.022368"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aziz Mahmud Hüdai Türbesi

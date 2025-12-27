@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.893383,39.6114235"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İda Madra Jeoparkı Müzesi: Edremit'in Gizli Çehresi

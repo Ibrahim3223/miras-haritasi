@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.88938,39.93385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Cebeci Askerî Şehitliği 

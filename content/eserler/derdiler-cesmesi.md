@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4173584,38.6081696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derdiler Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi

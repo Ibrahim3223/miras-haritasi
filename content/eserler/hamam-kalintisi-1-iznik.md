@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.7192173,40.4255562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamam Kalıntısı 1, İznik: Bir İznik Mirası

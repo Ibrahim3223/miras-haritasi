@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "39.7198257,41.0047798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Medresesi

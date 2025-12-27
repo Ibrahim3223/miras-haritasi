@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1298228,40.9201704"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Feyzullah Efendi Camii

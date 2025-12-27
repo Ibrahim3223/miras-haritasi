@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0920963,40.8771362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hüseyin Rahmi Gürpınar Müze Evi**

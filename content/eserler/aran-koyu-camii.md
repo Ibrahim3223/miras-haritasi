@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.7492142,37.4476471"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aran Köyü Camii

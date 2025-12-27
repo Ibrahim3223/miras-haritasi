@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.2134,37.1829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Mevlana'nın Validesi ve Ailesi Türbesi

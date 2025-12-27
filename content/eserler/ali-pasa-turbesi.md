@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.0578499,41.1279678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Paşa Türbesi

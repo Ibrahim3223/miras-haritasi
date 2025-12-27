@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.1396446,36.33955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bağyaka Camii: Finike'nin Tarihi Bir Mirası

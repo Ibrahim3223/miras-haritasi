@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.943779,41.0462837"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Humbarahane Hamamı

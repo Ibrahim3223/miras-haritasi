@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5337067,38.0842247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ekşi Höyük: Türkiye'nin Etkili Arkeolojik Sitleri

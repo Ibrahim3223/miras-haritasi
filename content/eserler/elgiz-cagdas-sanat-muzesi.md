@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.020459,41.109613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elgiz Çağdaş Sanat Müzesi

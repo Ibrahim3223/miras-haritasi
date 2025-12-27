@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.683354,38.661362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agatheira: Antik Çağın Gizemi

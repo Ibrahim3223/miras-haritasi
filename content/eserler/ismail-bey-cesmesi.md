@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7769623,41.3844757"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsmail Bey Çeşmesi: Kastamonu'nun Tarihî ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4113064,40.1461258"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Dede Türbesi: İnegöl'de Bir Tarihi Anıt

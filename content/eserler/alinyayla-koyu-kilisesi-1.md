@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.106283,40.531881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alınyayla Köyü Kilisesi 1: Görsel Bir Miras

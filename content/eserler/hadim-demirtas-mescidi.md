@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5543652,41.6788673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hadım Demirtaş Mescidi

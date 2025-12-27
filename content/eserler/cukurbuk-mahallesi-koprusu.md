@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.16736,41.087015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Giriş

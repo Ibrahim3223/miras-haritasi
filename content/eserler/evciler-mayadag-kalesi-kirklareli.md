@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6067619,41.774025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Evciler Mayadağ Kalesi

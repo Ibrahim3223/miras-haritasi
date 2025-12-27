@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.1055641,38.3986549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Feyzullah el Ensari Türbesi

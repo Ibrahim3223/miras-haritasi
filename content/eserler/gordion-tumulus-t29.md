@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.996256,39.651676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gordion Tümülüs T29**

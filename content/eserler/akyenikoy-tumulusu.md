@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3484001,37.5040016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akyeniköy Tümülüsü: Didim'in Gizli Mirası

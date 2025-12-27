@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.5648003,38.9407997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Feyzullah Baba Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.779779108,39.957962043"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Kent Müzesi

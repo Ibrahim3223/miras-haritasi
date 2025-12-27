@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3288364,38.3068237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Türbe, Çeşme

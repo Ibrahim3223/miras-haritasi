@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.3115387,40.7166328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Işıklı Köprüsü: Enez'in Şanslı Köprüsü

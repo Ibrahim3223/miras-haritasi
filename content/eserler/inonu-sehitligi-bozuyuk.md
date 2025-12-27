@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.0990276,39.8793945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnönü Şehitliği, Bozüyük

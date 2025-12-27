@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6264877,41.7152023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İslambeyli Taş Köprü: Tarihi ve Kültürel Miras

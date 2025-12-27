@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.3011098,37.0622781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çobandede Türbesi: Adana'nın Gizli Anıtı

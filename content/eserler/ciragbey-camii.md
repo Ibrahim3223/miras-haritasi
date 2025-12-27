@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0558929,40.1838875"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çırağbey Camii

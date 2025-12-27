@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.6385675,40.9676475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Endeira Arkeolojik Sit

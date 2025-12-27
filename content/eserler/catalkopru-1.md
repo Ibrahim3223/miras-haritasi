@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7334366,38.4327507"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatalköprü 1

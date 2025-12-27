@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.067701,41.011756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bodrumi Ömer Lütfi Efendi Camii

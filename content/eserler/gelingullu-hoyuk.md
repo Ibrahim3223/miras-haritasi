@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.05127,39.605246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gelingüllü Höyük: Yozgat'ın Gizli Öyküsü

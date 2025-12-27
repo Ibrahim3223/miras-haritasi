@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4068737,37.6189575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşme, Haydere: Aydın'ın Gözde Kenti Bozdoğan'da Bir Ölümsüz Miras

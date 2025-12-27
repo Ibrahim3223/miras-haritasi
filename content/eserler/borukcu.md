@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0506287,37.3377113"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Börükçü Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8578758,39.9395332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbadullah Camii: Altındağ'da Bir Miras

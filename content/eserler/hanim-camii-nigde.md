@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6805229,37.9653473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hanım Camii: Niğde'nin Tarihi Bir Mirası

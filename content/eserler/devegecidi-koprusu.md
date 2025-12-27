@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.06925,38.05333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Devegeçidi Köprüsü: Tarihi ve Kültürel Miras

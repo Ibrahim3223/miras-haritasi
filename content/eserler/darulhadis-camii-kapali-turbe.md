@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.5484962,41.6710091"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Darülhadis Camii Kapalı Türbe

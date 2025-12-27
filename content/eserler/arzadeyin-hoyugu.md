@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0245536,39.2599713"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arzadeyin Höyüğü: Kırşehir'in Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.5153847,38.2122841"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beçene Höyük: Konya'nın Gizli Tarihi

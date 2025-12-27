@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9530659,41.0071335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmrahor Hamamı: İstanbul'un Eski Kentini Yansıtan Bir Hamam

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4326363,37.9442749"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşme, Şirince Köyü

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.7289886,36.6984138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alara İç Kale Hamamı: Alanya'nın Tarihi ve Kültürel Mirası

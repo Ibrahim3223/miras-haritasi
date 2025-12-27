@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.988193,39.6131107"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hamur Kalesi: Ağrı'nın Gizemli Kaleleri Arasındaki Bir Yerliden biri

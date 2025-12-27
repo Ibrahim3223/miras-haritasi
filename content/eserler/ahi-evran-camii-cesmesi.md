@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9660912,39.4220886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ahi Evran Camii Çeşmesi

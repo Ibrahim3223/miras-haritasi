@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2831,40.2444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Canterbury Mezarlığı (ANZAC)

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.486572,38.854545"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aliler Kalesi: Tuşba'daki Tarihi Bir Miras

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0761185,40.1747856"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Babadağ Camii: Bursa'nın Tarihî Mirası

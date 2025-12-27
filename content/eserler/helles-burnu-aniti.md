@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.1790714,40.045826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Helles Burnu Anıtı

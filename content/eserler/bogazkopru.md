@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boğazköprü: Tarihi ve Kültürel Mirasın Bir ParçASI

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.4929314,39.1095772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdurrahman Paşa Köprüsü

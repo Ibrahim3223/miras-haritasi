@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.328846,36.9806252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alemdar Camii: Adana'nın Tarihi Bir Mirası

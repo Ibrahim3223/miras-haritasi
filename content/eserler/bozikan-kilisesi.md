@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.4549904,38.4773216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bozıkan Kilisesi: Batman'ın Tarihî ve Kültürel Mirası

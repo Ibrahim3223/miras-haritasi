@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.34805556,37.80583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Harpasa: Ege Bölgesi'nin Gizli İncisi

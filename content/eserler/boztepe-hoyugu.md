@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.7790089,37.8412848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boztepe Höyüğü: Diyarbakır'ın Gizli Anıtı

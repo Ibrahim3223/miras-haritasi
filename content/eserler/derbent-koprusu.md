@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.2445305,41.2861621"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derbent Köprüsü

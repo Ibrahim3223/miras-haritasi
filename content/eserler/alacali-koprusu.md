@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "44.1572952,39.5677528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alacalı Köprüsü

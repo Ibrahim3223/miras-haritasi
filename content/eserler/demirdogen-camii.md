@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.3487893,40.9192378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirdöğen Camii

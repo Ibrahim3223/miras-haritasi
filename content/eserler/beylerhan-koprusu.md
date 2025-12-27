@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.16441,38.69522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Beylerhan Köprüsü

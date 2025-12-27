@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Denizli İl Halk Kütüphanesi: Kitaplar ve Kültür

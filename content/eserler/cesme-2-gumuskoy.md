@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4612007,37.8516998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 2, Gümüşköy: Aydın'ın Germencik'teki Tarihi Bir Çeşme

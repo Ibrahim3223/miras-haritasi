@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.93912,41.036391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdüssadık Amir İbn Same Türbesi

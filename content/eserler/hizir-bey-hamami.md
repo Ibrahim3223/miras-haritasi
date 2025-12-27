@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.8313637,41.5669937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hızır Bey Hamamı

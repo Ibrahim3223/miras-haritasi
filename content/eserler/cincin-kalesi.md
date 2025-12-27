@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.756958,37.735019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cincin Kalesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.975748,41.01405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hocapaşa Hamamı: İstanbul'un Tarihî Hamamlarından Bir Örnek**

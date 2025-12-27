@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.785796,40.748896"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elaea: Tarihi Bir Arkeolojik Sit

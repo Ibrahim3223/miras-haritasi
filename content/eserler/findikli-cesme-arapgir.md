@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.48524951,39.038876591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fındıklı Çeşme: Arapgir'in Efsanevi Çeşmesi

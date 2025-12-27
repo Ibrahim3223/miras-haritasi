@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.2551384,37.2900314"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Domuztepe Höyüğü: Osmaniye'nin Eski Mirası

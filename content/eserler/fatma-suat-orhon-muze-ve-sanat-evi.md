@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.4067993,37.7551994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatma Suat Orhon Müze ve Sanat Evi: Aydın'ın Kültür Mirası

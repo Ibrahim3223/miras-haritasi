@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9347572,41.0399017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ferah Baba Türbesi: İstanbul'un Eski Şehrini Hafızaya Geçiren Anıtsal Yapı

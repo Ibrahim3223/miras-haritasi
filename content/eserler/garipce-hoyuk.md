@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.0707844,38.5698975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Garipçe Höyük: Kayseri'nin Eski Şehri

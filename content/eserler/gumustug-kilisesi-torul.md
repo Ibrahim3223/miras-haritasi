@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.1450195,40.4563255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gümüştuğ Kilisesi Torul: Gümüşhane'nin Gizli Cenneti

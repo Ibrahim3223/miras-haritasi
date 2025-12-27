@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.020644,41.013457"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnadiye Mezarlık Çeşmesi (Zeynepkamil)

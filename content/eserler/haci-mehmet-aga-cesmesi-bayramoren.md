@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.203604021,40.943399052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Mehmet Ağa Çeşmesi, Bayramören

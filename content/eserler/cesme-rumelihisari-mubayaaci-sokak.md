@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0539532,41.0897484"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çeşme, Rumelihisarı – Mübayaacı Sokak**

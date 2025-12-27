@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.7807083,41.3795967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ferhat Paşa Hamamı

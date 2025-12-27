@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.972064,41.080713"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Daye Hatun Camii: İstanbul'un Gizli Çağı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.808947,37.354237"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Ömer Kabala Eski Camii

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.560753,38.942855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacıbektaş Atatürk Evi Müzesi

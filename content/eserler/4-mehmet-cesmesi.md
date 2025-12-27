@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.061236,41.013367"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 4. Mehmet Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi

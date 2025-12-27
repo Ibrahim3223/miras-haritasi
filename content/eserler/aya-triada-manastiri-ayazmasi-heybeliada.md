@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0950146,40.8820114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Triada Manastırı Ayazması, Heybeliada

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.0648308,38.0070381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hişet Aziz Etienne Kilisesi**

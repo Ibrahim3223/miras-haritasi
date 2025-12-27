@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.5305214,38.4074707"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Duraklı Köprüsü

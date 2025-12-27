@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.7283249,36.8860207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gebizli Cami - Antalya'nın Gizli Çağırağandan

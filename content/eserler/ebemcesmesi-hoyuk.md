@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.1291885,40.5468178"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebemçesmesi Höyük

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.987286,41.030275"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cihangir Camii Avlusundaki Çeşme

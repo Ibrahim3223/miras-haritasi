@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4956932,37.8701439"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erdemşah Mescidi: Konya'nın Tarihi ve Kültürel Mirası

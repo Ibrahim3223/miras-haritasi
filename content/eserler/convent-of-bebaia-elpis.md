@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bebaia Elpis Manastırı: Bir Azizin Ruhuna Adanmış Ortam

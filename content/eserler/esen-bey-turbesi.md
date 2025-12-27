@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.6807321,37.970228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esen Bey Türbesi

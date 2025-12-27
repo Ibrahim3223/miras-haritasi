@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.4877205,41.1660271"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dökmetepe Tümülüsü: Vezirköprü'deki Eski Uygarlığın Gizemi

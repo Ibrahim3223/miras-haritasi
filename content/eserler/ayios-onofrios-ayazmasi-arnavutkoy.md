@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0394402,41.0667839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Onofrios Ayazması: Beşiktaş'taki Bir Azizin Hazine

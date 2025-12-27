@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.027724,39.057144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskome: Türkiye'nin Eski Kenti

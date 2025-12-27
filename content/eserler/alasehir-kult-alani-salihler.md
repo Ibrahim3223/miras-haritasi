@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.859738888,39.179661111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaşehir Kült Alanı, Salihler: Tarihinin ve Mimarisinin Gizemi

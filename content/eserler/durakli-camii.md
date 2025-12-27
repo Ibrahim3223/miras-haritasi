@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9372482,37.584362"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Duraklı Camii: Tarihi ve Kültürel Mirasının Bir Parçası

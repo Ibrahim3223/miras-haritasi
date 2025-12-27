@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.1134682,36.6187515"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fethiye Kalesi

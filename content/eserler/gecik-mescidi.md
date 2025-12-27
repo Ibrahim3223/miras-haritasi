@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8688774,39.9370918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gecik Mescidi

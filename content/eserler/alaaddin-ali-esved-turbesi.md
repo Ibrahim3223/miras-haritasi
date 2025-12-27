@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.7244,40.4311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaaddin Ali Esved Türbesi

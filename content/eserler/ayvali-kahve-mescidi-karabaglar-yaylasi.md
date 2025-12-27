@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4001007,37.1955986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayvalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Çehresini Keşfetmek

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8633804,39.8967705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlhan Koman'ın İsimsiz Heykeli: Ankara'nın Kültür Mirası

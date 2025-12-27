@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.958867,41.057067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boğaziçi Köyü Köprüsü

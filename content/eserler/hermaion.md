@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.057312,40.326329"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hermaion Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.8543549,39.8845978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cinis Höyüğü: Aşkale'nin Gizemi

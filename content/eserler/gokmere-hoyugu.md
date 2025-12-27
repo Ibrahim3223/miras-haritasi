@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.0242318,39.0707144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökmere Höyüğü: Konya'nın Tarihî Bir Mirası

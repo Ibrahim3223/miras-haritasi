@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2495003,40.6932983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çınarlı Çeşmesi-1

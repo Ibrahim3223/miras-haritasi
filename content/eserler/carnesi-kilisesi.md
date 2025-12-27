@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.362083333,40.419505555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarnesi Kilisesi

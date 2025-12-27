@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.606981,39.211565"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Himmet Dede Kümbeti: Seyitgazi'nin Efsanevi Ziyaretgahı

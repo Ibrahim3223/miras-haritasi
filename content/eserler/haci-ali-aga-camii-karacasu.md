@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6072178,37.7287025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Ali Ağa Camii, Karacasu

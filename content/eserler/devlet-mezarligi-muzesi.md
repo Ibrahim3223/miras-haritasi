@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.8069229,39.9368973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Devlet Mezarlığı Müzesi: Türkiye'nin Tarihsel Mirasının Gizemi

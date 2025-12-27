@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6067009,37.722599"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Cuma: Aydın'ın Değerli Tarihi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.086448,38.627775"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arilla: Manisa'nın Gizli Tarihi

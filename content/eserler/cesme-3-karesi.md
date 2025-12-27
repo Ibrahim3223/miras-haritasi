@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.879291772,39.649362812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşme-3, Karesi: Balıkesir'in Tarihi ve Kültürel Mirasının Gizli Çeşmesi

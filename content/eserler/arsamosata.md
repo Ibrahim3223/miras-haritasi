@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.5109175,38.6608665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arsamosata: Geç Antik Dönemin Gizli Şehirleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.860388888,39.936611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Acı Çeşme: Altındağ'daki Bir Tarihi Çeşme

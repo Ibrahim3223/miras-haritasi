@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9754429,41.008194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alemdar Baba Kabri: İstanbul'un Gizli Anıtı

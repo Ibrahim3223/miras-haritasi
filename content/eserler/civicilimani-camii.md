@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9840431,41.02808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çivicilimanı Camii: İstanbul'un Gizli Öyküsünü Gizleyen Bir Miras

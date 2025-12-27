@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9823608,41.0048599"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Baba Kabri: Fatih'ten Bir Ölümsüz Anıt

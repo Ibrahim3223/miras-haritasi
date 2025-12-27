@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.923456,40.996609"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Evhad Çeşmesi

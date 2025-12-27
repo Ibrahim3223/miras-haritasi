@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.7498665,37.8169594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Giricano Höyüğü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9798698,41.0148659"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demir Kapı: Fatih'te Bir Anıtsal Yapı

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.181778,36.2043266"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hatay Kalesi: Tarih ve Kültür Mirası

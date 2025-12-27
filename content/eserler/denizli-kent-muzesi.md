@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0852623,37.7819061"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Denizli Kent Müzesi

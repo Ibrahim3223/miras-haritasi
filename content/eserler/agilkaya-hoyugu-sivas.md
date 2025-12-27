@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2989502,39.6348495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağılkaya Höyüğü: Sivas'ın Gizli Mirası

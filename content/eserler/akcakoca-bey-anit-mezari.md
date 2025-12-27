@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.1912727,41.1142197"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akçakoca Bey Anıt Mezarı

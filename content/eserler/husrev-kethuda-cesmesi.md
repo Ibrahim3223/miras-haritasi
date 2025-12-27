@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.9017048,40.891098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsrev Kethüda Çeşmesi: Malkara'da Bir Öne Çıkan Çeşme

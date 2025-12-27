@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.049722222,39.827777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bozcaada Antik Kenti: Bir Tarihî Eserin Gizemi

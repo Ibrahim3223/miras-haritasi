@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.332628,37.106336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Augusta Antik Tiyatrosu**

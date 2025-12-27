@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.3825035,41.4504852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Georgios Kilisesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4239044,37.8552589"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cemel Ali Dede Camii ve Türbesi

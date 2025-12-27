@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.7303867,41.836937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lalapaşa Hamamı: Edirne'nin Gizli Çehresinde Bir Öykü

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0418816,40.188446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demir Kapı Kilisesi

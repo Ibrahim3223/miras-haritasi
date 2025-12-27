@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.9200401,40.7843628"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozoğlu Köyü Camii Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.981369444,41.011638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Kadın Müzesi: Kadının Tarihi ve Kültürel Mirası

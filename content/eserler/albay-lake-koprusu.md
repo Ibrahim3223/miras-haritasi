@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "43.09928,40.62229"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Albay Lake Köprüsü

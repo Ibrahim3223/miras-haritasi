@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.5730659,38.9571392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozhöyük, İhsaniye: Afyonkarahisar'ın Gizli Anıtı

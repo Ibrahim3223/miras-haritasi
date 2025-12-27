@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.973671,41.023086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bereketzade Medresesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.7639751,37.9203606"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnce Köprü: Aydın'ın Tarihi Taşınmaz Mirası

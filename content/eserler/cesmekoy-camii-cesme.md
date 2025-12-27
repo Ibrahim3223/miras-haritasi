@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3292961,38.3059921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşmeköy Camii: Çeşme'nin Gizli Cenneti

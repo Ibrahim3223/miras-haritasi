@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.4778767,38.0533028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağıseyit Höyükleri: Denizli'nin Gizli Tarihi

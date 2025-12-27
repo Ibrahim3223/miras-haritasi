@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.118777777,41.073777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gölbelen Köyü Camii: Ardahan'ın Değerli Tarihi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5305901,40.9871025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çırçır Çeşmesi: Tekirdağ'ın Gizli Çeşmesi

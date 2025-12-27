@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.386266,41.105749"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ameletos Arkeolojik Sit

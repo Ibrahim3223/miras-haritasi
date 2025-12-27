@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.22527778,41.72166667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Pınar Höyüğü: Kırklareli'nin Gizli Kahramanı

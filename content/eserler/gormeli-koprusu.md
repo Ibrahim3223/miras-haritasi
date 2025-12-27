@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.955744,36.561669"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Görmeli Köprüsü

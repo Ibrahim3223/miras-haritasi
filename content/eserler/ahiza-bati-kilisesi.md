@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.997469444,41.140263888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahiza (Batı) Kilisesi: Güzel Ardanuç'ta Bir Kutsal Miras

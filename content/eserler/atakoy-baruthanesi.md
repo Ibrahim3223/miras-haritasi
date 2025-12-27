@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.860113,40.975678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ataköy Baruthanesi

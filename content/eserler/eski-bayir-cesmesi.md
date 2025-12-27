@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2637978,37.2669716"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Bayır Çeşmesi

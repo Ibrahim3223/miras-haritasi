@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.2847595,41.0788918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çıldır Akçakale Kalesi

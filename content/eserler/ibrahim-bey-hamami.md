@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.278162,37.5292816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # İbrahim Bey Hamamı: Didim'in Tarihî ve Kültürel Mirası

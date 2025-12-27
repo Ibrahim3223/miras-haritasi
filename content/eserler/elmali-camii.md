@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.5331402,39.4497337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Eskişehir'in Şirin Köyü'nde Bulunan Elmalı Camii: Tarih, Mimarisi ve Ziyaret Guide**

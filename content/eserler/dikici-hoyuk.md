@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.16155,38.046"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Dikici Höyük: Afyonkarahisar'ın Gizli Çağı**

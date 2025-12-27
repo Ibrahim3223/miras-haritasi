@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.7663994,40.1603012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Eleni Manastırı: Gökçeada'nın Tarihi Özellikleri

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.0942497,39.2569427"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ana Sultan Türbesi

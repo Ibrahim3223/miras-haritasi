@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2446003,37.8282013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Donduran Köyü Çeşmeleri: Aydın'ın Gizli Çeşmesi

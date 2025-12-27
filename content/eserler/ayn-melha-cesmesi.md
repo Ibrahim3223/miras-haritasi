@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "40.749298,37.314622"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayn Melha Çeşmesi: Mardin'in Gizli Cenneti

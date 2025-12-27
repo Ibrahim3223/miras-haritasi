@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.641566637,41.837443097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çömlekakpınar Bulgar Katolik Kilisesi

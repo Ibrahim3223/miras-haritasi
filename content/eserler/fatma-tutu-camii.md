@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1691875,40.2238045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatma Tutu Camii: Bursa'nın Gizemli Camisi

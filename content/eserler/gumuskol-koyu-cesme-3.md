@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.1595764,38.4667206"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümüşkol Köyü Çeşme 3

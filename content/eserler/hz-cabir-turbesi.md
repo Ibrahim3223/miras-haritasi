@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.944044,41.038641"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Cabir Türbesi: İstanbul'un Gizli Cenneti

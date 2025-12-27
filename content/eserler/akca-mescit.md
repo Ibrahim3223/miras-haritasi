@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.3302994,36.985527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akça Mescit: Adana'nın Tarihî Bir Mirası**

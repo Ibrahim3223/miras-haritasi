@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "30.056942,36.5147171"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arykanda Sebasteion: Antik Yunanistan'ın Gizli Çehresini İleri Söyleyen Bir Kilise

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951632,41.029931"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ali Yazıcı Camii Çeşmesi

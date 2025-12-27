@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.8215,40.957055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Aya Stefanos Kilisesi: Yeşilköy'ün Tarihi Güzelliği**

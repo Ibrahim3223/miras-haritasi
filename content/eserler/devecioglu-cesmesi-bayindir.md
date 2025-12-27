@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6433716,38.2226028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Devecioğlu Çeşmesi: Bayındır'ın Tarihî Öyküsünün Parçaları Arasındaki Çeşme

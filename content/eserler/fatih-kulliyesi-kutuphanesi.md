@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.948717,41.020451"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Külliyesi Kütüphanesi

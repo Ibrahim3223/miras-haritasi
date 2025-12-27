@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.7201519,40.434536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayatrifon Kilisesi: İznik'in Tarihî Bir Mirası

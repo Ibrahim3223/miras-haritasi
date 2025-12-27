@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.1976,40.4708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Filibeli Tevfik Mehmet Türbesi

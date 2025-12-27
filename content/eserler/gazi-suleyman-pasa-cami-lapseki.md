@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6856995,40.3438492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Süleyman Paşa Cami, Lapseki

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4846001,38.6348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boğazağzı Çeşmesi

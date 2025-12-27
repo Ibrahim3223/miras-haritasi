@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.966563,41.009814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beyazıt Kapısı: İstanbul'un Tarihi ve Kültürel Mirası

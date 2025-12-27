@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.944414,41.029744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Draman Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

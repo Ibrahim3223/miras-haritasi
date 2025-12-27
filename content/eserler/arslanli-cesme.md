@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7768135,41.3851509"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arslanlı Çeşme

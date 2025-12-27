@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2678452,40.6904449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cami-i Cedid Camii: Sakarya'nın Tarihi Bir Mirası

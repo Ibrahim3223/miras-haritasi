@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.953882,41.022755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çayırlı Kütüphanesi: Fatih, İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Klasik

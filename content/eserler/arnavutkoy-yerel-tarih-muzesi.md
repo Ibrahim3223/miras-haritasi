@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.6211198,41.1555112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arnavutköy Yerel Tarih Müzesi

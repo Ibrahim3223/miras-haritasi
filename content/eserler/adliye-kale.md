@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.3591309,40.6522522"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adliye Kale

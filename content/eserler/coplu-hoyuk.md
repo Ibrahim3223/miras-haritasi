@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.9956627,40.1868401"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çöplü Höyük: Alaca, Çorum'da Bir Efsanevi Anıt

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.5406265,38.3964157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Apsarı Höyük Arkeolojik Sit

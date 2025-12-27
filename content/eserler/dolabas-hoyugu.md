@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "42.5803406,39.2270254"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dolabaş Höyüğü: Malazgirt'te Gizli bir Tarih

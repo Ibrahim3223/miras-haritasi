@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0355988,41.0781517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bebek Rum Ortodoks Mezarlığı Aya Yani Şapeli ve Ayazması

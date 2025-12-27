@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.000486,38.555748"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 37: Manisa'nın Gizli Anıtı

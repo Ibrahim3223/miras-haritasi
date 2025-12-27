@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.3030688,39.2255193"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çalapverdi Höyük: Boğazlıyan'ın Gizemi

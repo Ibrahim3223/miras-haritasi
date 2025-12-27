@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.5556974,39.3743289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çiftçi Höyüğü: Kırşehir'in Gizli Kahramanı**

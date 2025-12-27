@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.021063,38.568798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bin Tepeler Tümülüsü 30: Manisa'nın Gizli Kahramanı

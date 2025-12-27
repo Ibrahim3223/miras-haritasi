@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.347765,38.707412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Avlutepe Höyük: Manisa'nın Gizli Hazinesi

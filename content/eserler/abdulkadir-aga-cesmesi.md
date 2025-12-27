@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.965265,41.040033"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdülkadir Ağa Çeşmesi 

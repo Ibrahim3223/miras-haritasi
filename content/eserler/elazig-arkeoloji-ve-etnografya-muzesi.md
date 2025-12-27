@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "39.19011,38.67301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Elazığ Arkeoloji Ve Etnografya Müzesi

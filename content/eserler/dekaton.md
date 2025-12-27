@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.097628,40.72108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dekaton: Geçmişin Gizemli Mirası

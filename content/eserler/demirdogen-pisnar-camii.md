@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.3767624,40.9207382"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirdöğen Pişnar Camii

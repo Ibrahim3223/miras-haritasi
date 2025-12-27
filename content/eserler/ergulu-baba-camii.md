@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.263666666,40.314472222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ergülü Baba Camii Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9281826,41.0209084"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gazi Ahmet Paşa Sebili: İstanbul'un Tarihî Miraslarından Bir Örneği**

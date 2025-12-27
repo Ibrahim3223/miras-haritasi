@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.6463203,38.2265472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Darülkurra Camii

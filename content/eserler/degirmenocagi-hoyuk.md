@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3114361,39.0999172"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Değirmenocağı Höyük: Mucur'un Yüzyıllarca Eski Tarihi

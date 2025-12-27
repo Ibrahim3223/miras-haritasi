@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.505825,37.8675385"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsmail Ağa Çeşmesi

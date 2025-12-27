@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7730331,41.3712082"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Şorba Türbesi: Kastamonu'nun Gizli Anıtı

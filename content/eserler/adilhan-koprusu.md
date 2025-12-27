@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.7879868,40.6732864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adilhan Köprüsü: Gelibolu' nun Gizli Çehresi

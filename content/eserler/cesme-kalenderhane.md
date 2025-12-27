@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9597626,41.01231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Kalenderhane

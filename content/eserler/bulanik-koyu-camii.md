@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.176541,41.060246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bulanık Köyü Camii

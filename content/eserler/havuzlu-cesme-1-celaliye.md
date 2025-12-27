@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4167137,41.0517883"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlu Çeşme 1, Celaliye: Büyükçekmece'nin Tarihî Bir Değeri

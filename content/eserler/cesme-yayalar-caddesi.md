@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.2680073,40.9034157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Yayalar Caddesi: Pendik'in Tarihi Bir Çeşmesinin Sırları

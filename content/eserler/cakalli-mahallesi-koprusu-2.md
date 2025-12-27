@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.116436,41.139866"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çakallı Mahallesi Köprüsü 2

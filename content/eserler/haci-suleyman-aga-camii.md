@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9153996,36.7463989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Süleyman Ağa Camii Tanıtımı

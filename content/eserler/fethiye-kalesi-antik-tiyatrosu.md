@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.1135921,36.6188316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fethiye Kalesi Antik Tiyatrosu

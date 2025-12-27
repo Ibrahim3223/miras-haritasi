@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8912487,39.068325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsmail Bey Camii

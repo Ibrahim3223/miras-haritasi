@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.521539,40.803973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayvalık Köyü Aşağı Mahalle Camii: Rize'nin Gizli Çehresini Keşfetmek

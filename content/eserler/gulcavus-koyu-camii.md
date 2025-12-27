@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.1680546,40.6226807"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gülçavuş Köyü Camii: Enez'in Tarihî Bir Mirası

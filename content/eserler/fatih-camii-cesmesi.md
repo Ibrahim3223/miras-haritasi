@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7982407,41.1629333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Camii Çeşmesi

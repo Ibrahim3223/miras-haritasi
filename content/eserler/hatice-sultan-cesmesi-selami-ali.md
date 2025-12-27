@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0225449,41.0262184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hatice Sultan Çeşmesi: Üsküdar'ın Gizli Çeşmesi

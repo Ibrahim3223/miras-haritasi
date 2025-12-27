@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.391,38.722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ariarathia: Kayseri'nin Gizemli Arkeolojik Sit

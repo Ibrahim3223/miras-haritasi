@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.2687302,40.8786697"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Anıtı, Kumru: Türkiye'nin Bağımsızlığını Anımsatan Bir Eser

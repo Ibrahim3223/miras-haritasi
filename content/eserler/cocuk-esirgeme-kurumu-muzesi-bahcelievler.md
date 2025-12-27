@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.828583,39.932509"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çocuk Esirgeme Kurumu Müzesi, Bahçelievler

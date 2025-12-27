@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.4976654,41.0307388"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Hulusi Baba Camii: Fatsa'nın Tarihi Bir Mirası

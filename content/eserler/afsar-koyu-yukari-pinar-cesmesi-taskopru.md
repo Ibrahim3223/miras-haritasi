@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.134317541,41.576016232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Afşar Köyü Yukarı Pınar Çeşmesi: Taşköprü'deki Tarihi Bir Çeşme**

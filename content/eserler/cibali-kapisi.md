@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.958611,41.026188"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cibali Kapısı: İstanbul'un Gizli Anıtı

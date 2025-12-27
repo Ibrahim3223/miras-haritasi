@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9656231,41.0097971"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayezid-i Veli Türbesi: Fatih'in Yüce Evinin Gizemi

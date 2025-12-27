@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.107233,38.1688423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökçen Hüseyin Efe Anıt Mezarı

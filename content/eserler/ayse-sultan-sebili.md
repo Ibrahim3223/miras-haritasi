@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9645004,41.009407"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayşe Sultan Sebili: İstanbul'un Tarihi Çeşmesi

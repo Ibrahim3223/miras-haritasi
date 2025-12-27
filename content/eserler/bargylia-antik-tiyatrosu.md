@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "27.589396,37.195713"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bargylia Antik Tiyatrosu

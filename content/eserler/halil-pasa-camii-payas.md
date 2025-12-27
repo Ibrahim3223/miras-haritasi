@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.2296486,36.7584076"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halil Paşa Camii: Payas'ta Bir Tarihî Anıt

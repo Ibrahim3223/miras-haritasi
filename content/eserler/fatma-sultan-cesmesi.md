@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.929172,41.008979"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatma Sultan Çeşmesi

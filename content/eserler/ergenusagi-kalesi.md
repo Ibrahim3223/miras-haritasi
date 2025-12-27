@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.6061211,37.6370506"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ergenuşağı Kalesi

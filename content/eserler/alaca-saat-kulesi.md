@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "34.841777777,40.169361111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaca Saat Kulesi: Çorum'un Tarihsel Çatıldığı Kule

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.8336067,38.3470688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskendertepe Tümülüsü I-II: Malatya'nın Gizli Kaya Mezarları

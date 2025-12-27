@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.1853523,40.03545"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Horasan Köprüsü: Tarih, Mimari ve Kültür

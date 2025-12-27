@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2204552,37.1805573"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boyahane Camii: Karaman'ın Gizli Cenneti

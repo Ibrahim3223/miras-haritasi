@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1733837,39.1258507"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Helvacı Dede Türbe Çeşmesi: Bergama'nın Gizli Çeşmesi

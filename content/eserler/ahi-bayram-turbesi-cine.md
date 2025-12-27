@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.0658455,37.5386734"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Bayram Türbesi, Çine

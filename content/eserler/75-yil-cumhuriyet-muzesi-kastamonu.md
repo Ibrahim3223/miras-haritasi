@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "33.7643051,41.3658218"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### 75. Yıl Cumhuriyet Müzesi, Kastamonu

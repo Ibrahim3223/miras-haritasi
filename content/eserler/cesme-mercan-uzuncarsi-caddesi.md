@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967399,41.013832"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mercan – Uzunçarşı Caddesi Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6131058,37.9995232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hançerli Kilise Camii: Niğde'nin Gizli Azınlık Mirası

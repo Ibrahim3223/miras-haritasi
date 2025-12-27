@@ -12,7 +12,7 @@ turler: ["Sinagog"]
 coords: "29.0420036,41.0676804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ezahayim Sinagogu: İstanbul'un Beşiktaş'taki Tarihi Bir Miras

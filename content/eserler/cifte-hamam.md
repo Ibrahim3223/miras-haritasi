@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.7735211,41.3757624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çifte Hamam: Kastamonu'nın Tarihi Harikası

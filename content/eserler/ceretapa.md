@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.926031,37.493664"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ceretapa Arkeolojik Sit

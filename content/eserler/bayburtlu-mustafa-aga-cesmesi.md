@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.929205,41.046594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bayburtlu Mustafa Ağa Çeşmesi**

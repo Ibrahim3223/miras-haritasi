@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.094698,40.9997368"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deniz Gezmiş Heykeli

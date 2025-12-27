@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.3254929,38.8675957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelebi Ağa Camii: Pertek'in Tarihi Bir Mirası

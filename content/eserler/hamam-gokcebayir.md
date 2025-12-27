@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.255797785,39.790763785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamam, Gökçebayır: Ezine'nin Tarihi Bir Mirası

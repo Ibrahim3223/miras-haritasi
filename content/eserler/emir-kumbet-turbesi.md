@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.281353,40.6349754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Emir Kümbet Türbesi

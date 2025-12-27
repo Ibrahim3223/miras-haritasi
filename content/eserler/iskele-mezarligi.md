@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.27916111,40.25469167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskele Mezarlığı: Eceabat'taki Bir Anıtın Gizemi

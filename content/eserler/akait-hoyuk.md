@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.5343437,38.2853355"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akait Höyük: Konya'nın Gizli Kahramanı

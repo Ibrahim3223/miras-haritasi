@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.1818943,39.1228523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bergama Halk Kütüphanesi: İzmir'in Kültürel Mirasının Özellikleri

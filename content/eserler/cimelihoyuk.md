@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8104022,38.5265136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çimelihöyük: Aksaray'da Bir Arkeolojik Sit

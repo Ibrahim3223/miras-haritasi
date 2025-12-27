@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8436432,41.7409935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balkan 1 Tümülüsü: Edirne'nin Gizli Tarihi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.2129784,41.97929"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoban Kalesi: Kastamonu'nun Tarihi Hazinesi

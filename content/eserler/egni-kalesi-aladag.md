@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.1257401,37.5973167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eğni Kalesi, Aladağ

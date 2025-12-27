@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1357346,38.4141426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hassa Mescidi

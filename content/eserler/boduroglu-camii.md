@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4006805,38.677269"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boduroğlu Camii

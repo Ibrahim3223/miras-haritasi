@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.8899326,41.178688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göktürk Merkez Camii: Eyüp Sultan'da Bir Altın Çağın Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5345993,38.7528992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ak Mescid Orta Çeşme: Afyonkarahisar'ın Tarihî Bir Çeşmesi

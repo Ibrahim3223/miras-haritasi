@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.933163,41.008158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abide Hanım Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

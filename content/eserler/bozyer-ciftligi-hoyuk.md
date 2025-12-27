@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.77428,38.899486"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozyer Çiftliği Höyük: Demirci, Manisa'da Bir Arkeolojik Dev

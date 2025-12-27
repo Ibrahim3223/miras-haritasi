@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6289234,39.5836563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hallalı Cami: Balıkesir'in Tarihî Bir Mirası

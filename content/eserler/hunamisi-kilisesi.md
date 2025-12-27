@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.679638888,41.475944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hunamisi Kilisesi

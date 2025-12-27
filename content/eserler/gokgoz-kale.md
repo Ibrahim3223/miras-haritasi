@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.7250214,39.2202339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökgöz Kale: Eskişehir'in Gizli Tarihi

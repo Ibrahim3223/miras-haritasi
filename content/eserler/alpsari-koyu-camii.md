@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.5314331,40.6855888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alpsarı Köyü Camii: Korgun, Çankırı'da Bir Kültür Mirası

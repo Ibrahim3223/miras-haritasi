@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.753624707,41.976586634"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamdi Reis Sokak Çeşmesi, İnebolu

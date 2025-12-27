@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.3072891,39.9173927"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 3 No'lu Aziziye Tabyası Şehitliği: Erzurum'un Tarihi Anıtı

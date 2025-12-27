@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.1507149,42.027317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Deniz Şehitleri Anıtı: Sinop'un Onuruna**

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3759727,41.1008987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlu Çeşme 2: Silivri'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.276375,40.65024"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Yücebelen Camii

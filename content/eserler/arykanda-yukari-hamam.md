@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.0586586,36.5140686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arykanda Yukarı Hamam

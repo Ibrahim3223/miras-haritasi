@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.937749,41.041902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Defterdar Nazlı Mahmut Çelebi Türbesi

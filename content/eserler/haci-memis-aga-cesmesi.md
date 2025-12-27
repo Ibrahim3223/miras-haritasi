@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.305212,38.3238182"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Memiş Ağa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.943596326,39.924104542"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Araplar Köyü Eski Camii: Ankara'nın Gizli Cenneti

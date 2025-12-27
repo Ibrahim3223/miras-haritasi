@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9359875,40.2797356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Geçit Köprüsü: Bursa'nın Tarihi ve İhtişamlı Köprüsü

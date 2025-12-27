@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "38.393888888,40.919444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Giresun Müzesi: Giresun'un Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.13049523,40.545076859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Pınar Çeşmesi: Orta'nın Tarihi ve Kültürel Mirası

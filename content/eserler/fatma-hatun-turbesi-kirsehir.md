@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.1739235,39.1378975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Fatma Hatun Türbesi, Kırşehir**

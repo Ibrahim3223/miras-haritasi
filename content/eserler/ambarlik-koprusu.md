@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.5465,40.917383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ambarlık Köprüsü**

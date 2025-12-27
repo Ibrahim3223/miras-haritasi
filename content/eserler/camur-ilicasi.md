@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.922079,39.059219"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamur Ilıcası: Dikili'nin Tarihi Hamamı

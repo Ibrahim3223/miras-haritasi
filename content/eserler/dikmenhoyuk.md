@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.0192451,39.9871559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dikmenhöyük: Tarihi ve Kültür Mirası

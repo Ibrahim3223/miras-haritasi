@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.967248,41.007043"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gedikpaşa Hamamı: İstanbul'un Tarihî Mirası

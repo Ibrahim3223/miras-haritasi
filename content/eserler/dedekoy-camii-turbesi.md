@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.7855129,38.2924728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dedeköy Camii Türbesi: Çivril'in Gizli Anıtı

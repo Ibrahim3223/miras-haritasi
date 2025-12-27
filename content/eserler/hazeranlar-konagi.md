@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.829775,40.652344"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hazeranlar Konağı Müzesi

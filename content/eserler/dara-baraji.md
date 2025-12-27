@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.95122222,37.18297222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dara Barajı: Türkiye'nin Efsanevi Arkeolojik Sit

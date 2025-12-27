@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1180782,38.6959953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukurköy Camii: Menemen'in Tarihî Bir Mirası

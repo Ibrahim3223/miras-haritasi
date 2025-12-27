@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9569569,41.0247688"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cibali Haydar Çıkmazı Hamam Kalıntısı

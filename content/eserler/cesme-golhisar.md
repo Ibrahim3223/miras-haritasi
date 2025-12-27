@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.9174404,37.7966576"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Gölhisar: Aydın'ın Eski Çağ Mirası

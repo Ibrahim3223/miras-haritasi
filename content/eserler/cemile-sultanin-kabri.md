@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9518089,41.0265198"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cemile Sultan’ın Kabri: İstanbul’un Gizli Çiçeği

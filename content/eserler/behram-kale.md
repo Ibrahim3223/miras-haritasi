@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.332566,39.492815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Behram Kale Tanıtımı

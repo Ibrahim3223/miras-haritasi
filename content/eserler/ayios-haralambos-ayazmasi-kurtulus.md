@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9773216,41.0446663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Haralambos Ayazması, Kurtuluş

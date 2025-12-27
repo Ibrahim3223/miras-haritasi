@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9777012,39.4154854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çingentarla: Burhaniye'nin Eski Uygarlığının Mirası**

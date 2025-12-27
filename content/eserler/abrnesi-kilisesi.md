@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.512616666,40.453975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abrnesi Kilisesi: Tortum'un Gizli Cenneti

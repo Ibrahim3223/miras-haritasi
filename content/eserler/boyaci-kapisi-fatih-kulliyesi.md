@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9492989,41.0206413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boyacı Kapısı, Fatih Külliyesi: İstanbul'un Tarihî Zirvesi

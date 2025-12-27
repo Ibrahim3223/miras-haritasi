@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.8374462,38.7409554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Sultan Mehmet Valide Camii Çeşmesi

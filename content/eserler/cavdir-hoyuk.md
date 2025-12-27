@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.65745,37.146767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavdır Höyük: Bir Geçmişin İzleri

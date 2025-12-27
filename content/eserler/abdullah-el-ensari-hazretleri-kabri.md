@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.944319,41.033305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdullah El Ensari Hazretleri Kabri

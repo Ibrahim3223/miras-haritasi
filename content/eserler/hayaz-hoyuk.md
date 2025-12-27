@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.494377136,37.519529466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hayaz Höyük: Adıyaman'ın Gizli Öztürkleri

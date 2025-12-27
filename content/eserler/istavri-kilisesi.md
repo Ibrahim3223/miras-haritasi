@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.514324,40.585065"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstavri Kilisesi: Tarihî Bir Mirasın Güncel Hikayesi

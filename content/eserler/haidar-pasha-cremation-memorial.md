@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.02018,40.9997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Haidar Pasha Cremation Memorial

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.337835942,37.942760328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atrium Thermarum: Liman Hamamları Atriumu

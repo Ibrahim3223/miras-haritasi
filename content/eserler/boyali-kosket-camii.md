@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.5645118,40.989259"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Boyalı Kosket Camii: Artvin'in Gizli Çandırı

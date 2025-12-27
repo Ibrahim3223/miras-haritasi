@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7050629,41.3488884"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beyazköy Camii: Tekirdağ'ın Tarihi Bir Mirası

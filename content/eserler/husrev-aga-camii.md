@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4376144,38.6151924"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsrev Ağa Camii

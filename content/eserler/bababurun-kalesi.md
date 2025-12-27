@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.7942162,37.2973022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bababurun Kalesi

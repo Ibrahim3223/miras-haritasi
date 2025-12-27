@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.4262,36.3759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Yazır: Kumluca, Antalya'nın Gizli Çeşmesi

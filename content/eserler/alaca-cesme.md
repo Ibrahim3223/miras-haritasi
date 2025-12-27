@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.936871,41.041187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaca Çeşme: Eyüpsultan'da Bir Tarihi Çeşme

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.6553116,38.811882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bağpınar Çeşmesi: Melikgazi'nin Eski Şehir Merkezi'ndeki Tarihsel Bir Çeşme

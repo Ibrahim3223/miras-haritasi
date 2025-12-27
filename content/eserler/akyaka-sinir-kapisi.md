@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "43.74027778,40.72916667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akyaka Sınır Kapısı: Kars'ta Bir Kervansarayın Gizli Mirası

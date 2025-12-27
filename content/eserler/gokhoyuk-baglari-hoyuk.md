@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.955719,37.4126282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gökhöyük Bağları Höyük: Seydişehir'in Gizli Mücevheri

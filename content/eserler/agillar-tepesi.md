@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2661561,39.8099083"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağıllar Tepesi: Sivas'ın Gizli Cenneti

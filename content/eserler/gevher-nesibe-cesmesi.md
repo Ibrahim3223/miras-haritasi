@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4836311,38.7238045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gevher Nesibe Çeşmesi

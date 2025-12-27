@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.7924995,37.1466446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cıncıklı Hamam: Şanlıurfa'nın Tarihi Bir Mirası

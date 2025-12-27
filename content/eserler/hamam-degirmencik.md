@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2083321,41.6029587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmencik Hamamı: Kırklareli'nin Tarihi Bir Mirası

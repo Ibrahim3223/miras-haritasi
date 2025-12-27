@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.612014,39.207277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aizanoi Antik Tiyatrosu ve Stadyumu

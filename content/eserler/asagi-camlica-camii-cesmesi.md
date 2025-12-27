@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.000774,41.056055"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Çamlıca Camii Çeşmesi

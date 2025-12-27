@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.990004,39.642651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gordion Tümülüs S-I: Türkiye'nin Efsanevi Mirası

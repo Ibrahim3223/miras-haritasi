@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.4288148,36.4914729"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arsada Arkeolojik Sit

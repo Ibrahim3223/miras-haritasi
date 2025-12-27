@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.7474499,41.7219238"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gelin Hanım Köprüsü

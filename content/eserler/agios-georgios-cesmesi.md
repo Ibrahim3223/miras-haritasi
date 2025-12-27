@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5981274,40.5804291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agios Georgios Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.8375626,40.4358368"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Durhanaz Köprüsü: Tarihî Bir Mirasın Tanıtımı

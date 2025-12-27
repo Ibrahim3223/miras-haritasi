@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.8106499,41.4954185"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Elmacık Tepe Höyük Bafra: Bir Arkeolojik Sitin Öyküsü

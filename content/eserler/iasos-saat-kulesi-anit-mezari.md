@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5875072,37.2868996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Iasos Saat Kulesi Anıt Mezarı

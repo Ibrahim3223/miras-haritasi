@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.900148833,41.187940184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalı III Tümülüsü

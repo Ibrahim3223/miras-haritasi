@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.2585008,38.7034661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elazığ Meryem Ana Kilisesi

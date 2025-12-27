@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.6432332,37.3610874"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eyüpnebi Höyüğü: Şanlıurfa'nın Gizli Mirası

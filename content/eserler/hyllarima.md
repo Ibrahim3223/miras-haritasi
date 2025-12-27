@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.34944444,37.505"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hyllarima: Muğla'nın Gizli Arkeolojik Ören Yeri

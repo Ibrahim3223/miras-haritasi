@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9605732,41.0416069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Baba Kabri, Okmeydanı

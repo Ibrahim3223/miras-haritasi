@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.956764,41.024504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halil Efendi Çeşmesi: Yavuz Sultan Selim'in Bağışı

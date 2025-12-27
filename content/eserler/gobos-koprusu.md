@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.98985,41.007183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Goboş Köprüsü: Karadeniz'in Gizli Kıymeti

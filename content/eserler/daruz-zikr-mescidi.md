@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6774254,37.9676437"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darü’z Zikr Mescidi

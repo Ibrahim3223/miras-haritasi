@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.557663,38.6904221"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Esma Hanım Çeşmesi: Talas'ta Bir Klasik Çeşme

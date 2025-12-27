@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0925751,37.7749481"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kaplanlar Camii

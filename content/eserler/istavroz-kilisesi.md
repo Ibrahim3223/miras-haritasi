@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0435257,41.043499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İstavroz Kilisesi

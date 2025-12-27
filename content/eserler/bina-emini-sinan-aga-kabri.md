@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9542427,41.0226326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bina Emini Sinan Ağa Kabri: Fatih'ten Bir Anıt

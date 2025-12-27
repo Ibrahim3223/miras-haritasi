@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.407177,39.7283936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Acıpınar Büyük Höyük: Hafik, Sivas'taki Eski Kent

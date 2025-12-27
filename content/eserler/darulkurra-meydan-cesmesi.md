@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6460476,38.2268105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darülkurra Meydan Çeşmesi

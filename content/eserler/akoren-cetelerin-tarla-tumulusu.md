@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5439281,41.7077179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akören Çetelerin Tarla Tümülüsü

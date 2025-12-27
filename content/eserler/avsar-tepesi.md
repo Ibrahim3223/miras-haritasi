@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.7865,36.2306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Avşar Tepesi Arkeolojik Sit**

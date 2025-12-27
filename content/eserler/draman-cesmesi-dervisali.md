@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9435291,41.0278931"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Draman Çeşmesi, Dervişali

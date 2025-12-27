@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2923527,37.7157364"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hecin Dede Camii: Burdur'un Tarihi Öreni

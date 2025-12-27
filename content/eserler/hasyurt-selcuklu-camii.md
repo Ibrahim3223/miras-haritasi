@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2177124,36.3476753"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasyurt Selçuklu Camii: Finike'nin İhtişamlı Tarihî Mirası

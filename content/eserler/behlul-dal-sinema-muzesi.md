@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.709596,36.88129"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Behlül Dal Sinema Müzesi: Antalya'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.195035,40.937989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ischopolis: Antik Kentin Gizemi

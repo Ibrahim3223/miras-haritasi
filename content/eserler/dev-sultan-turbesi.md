@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.1347,39.5798"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dev Sultan Türbesi: Polatlı'nın Tarihi Bir Mirası

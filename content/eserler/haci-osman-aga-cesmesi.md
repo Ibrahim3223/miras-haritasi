@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7147102,38.6412277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Osman Ağa Çeşmesi

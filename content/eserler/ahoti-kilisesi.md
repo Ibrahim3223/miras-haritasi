@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.658,40.883722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahoti Kilisesi

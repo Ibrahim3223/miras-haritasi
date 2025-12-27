@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6134052,39.8094826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dede Çeşmesi: Bayramiç'in Gizli Çeşmesi

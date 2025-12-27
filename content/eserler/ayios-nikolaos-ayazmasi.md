@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0356522,41.0680771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayios Nikolaos Ayazması

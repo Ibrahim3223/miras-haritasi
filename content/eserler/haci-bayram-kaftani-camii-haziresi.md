@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.94663817,41.009519322"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Bayram Kaftani Camii Haziresi

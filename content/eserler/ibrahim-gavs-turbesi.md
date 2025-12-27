@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.78280264,41.234042292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Gavsî Türbesi

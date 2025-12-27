@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.2232991,37.1763813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Demir Gömlek Türbesi: Karaman'da Bir Tarihi Anıt

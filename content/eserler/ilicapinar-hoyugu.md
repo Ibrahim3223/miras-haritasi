@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.936153411,38.552864149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ilıcapınar Höyüğü: Konya'nın Gizli Mücevheri

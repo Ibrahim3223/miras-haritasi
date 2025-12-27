@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1527309,40.4343224"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balık Pazarı Camii: Gemlik'te Bir Ömür Boyu Kalan Eğreti

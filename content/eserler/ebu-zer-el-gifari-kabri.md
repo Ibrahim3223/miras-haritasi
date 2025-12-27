@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.943024164,41.037737749"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebu Zer El-Gıfari Kabri

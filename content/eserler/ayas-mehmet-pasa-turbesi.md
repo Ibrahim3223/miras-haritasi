@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.933656,41.048311"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayas Mehmet Paşa Türbesi: Eyüpsultan'ın Gizli Anıtı

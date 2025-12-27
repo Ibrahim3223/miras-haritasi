@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.1437454,37.9285774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Frenk Çeşmesi: Aydın'ın Tarihî Mirası

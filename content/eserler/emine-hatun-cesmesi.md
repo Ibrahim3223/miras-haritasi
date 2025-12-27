@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9221001,40.7656784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emine Hatun Çeşmesi

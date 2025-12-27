@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.3034477,38.9203987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Eski Gördes Köprüsü: Geçmişin Gizemi**

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.024275,38.800756"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Campae: Tarihi ve Kültürel Bir Miras

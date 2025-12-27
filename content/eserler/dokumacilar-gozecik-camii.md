@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.325809,40.768126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dokumacılar Gözecik Camii: Artvin'in Gizli Cenneti

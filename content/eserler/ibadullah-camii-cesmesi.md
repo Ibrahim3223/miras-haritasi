@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8578377,39.9396896"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbadullah Camii Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.854214494,39.932097768"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 100. Yıl Müzesi: Ankara'nın Kültür Mirası

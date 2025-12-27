@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "44.1347,39.5202"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmed-i Hani Türbesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.4749451,40.8188286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çilar Köprüsü: Tarihi ve Kültürel Mirasının Özellikleri

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1678505,36.1983032"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hedbeli Camii: Hatay'ın Tarihi ve Kültürel Mirasının Bir Parçası

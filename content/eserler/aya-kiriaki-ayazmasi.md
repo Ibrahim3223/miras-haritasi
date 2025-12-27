@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0447214,41.1342709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Kiriaki Ayazması: Sarıyer'in Gizli Çeşmesi

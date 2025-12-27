@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.948381199,40.340069872"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bandırma Tümülüsü

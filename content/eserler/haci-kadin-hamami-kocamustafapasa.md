@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.927477,40.999796"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kadın Hamamı, Kocamustafapaşa: İstanbullu Kadınların İhtişamı

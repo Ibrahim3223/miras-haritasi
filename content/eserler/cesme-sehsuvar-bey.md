@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9673996,41.0056"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Şehsuvar Bey Çeşmesi: Fatih'te Bir Altın Çeşme

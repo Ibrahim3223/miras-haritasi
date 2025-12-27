@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.979324499,37.596706256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Doğanyurt: Aydın'ın Tarihi ve Kültürel Mirası

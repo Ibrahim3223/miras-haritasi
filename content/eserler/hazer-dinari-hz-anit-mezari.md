@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9765663,39.4203835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hazer Dinari Hz. Anıt Mezarı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.768488,38.324938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Badalan Dede Çeşmesi

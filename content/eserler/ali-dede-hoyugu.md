@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.9620953,39.7745857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ali Dede Höyüğü: Eskişehir'in Gizli Mirası

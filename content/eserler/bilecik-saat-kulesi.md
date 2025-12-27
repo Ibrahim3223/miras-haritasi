@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "29.983416666,40.137833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bilecik Saat Kulesi: Bir Örnek Osmanlı Mimarisi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9582977,41.0115242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balaban Ağa Kabri

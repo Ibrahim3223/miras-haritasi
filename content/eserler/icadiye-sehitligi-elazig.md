@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.2290535,38.6778297"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İcadiye Şehitliği: Elazığ'ın Onuruna Yükselen Anıt**

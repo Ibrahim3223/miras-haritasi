@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.36861111,40.785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı

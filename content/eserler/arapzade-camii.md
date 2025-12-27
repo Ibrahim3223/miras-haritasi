@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4912071,39.5455742"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Arapzade Camii: Tavşanlı'nın Değerli Kültürel Mirası

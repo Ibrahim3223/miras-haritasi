@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.6754303,40.2184105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Höyücek, Bostancı: Gönen'in Gizli Kahramanı

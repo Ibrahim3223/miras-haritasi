@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4322834,41.0462189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Havuzlu Çeşme, Kamiloba

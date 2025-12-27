@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.5236912,38.6237793"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çukur Çeşme 1: Manisa'nın Tarihi ve Kültürel Mirası

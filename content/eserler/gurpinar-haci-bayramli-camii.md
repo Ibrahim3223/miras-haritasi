@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.294130605,40.831047012"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gürpınar Hacı Bayramlı Camii: Trabzon'un Gizli Çeşmesi

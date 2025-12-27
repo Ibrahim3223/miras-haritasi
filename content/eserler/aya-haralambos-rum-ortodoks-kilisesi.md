@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.917593,40.9992867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Haralambos Rum Ortodoks Kilisesi

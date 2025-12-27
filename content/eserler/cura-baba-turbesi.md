@@ -12,7 +12,7 @@ turler: ["Türbe"]
 coords: "28.9712601,41.0449104"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cura Baba Türbesi

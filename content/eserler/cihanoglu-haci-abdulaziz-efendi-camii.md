@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7583313,37.7335663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cihanoğlu Hacı Abdülaziz Efendi Camii

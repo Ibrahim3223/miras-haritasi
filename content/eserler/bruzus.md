@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.1719199,38.527823"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bruzus: Geçmişe Dönük Bir Arkeolojik Sit

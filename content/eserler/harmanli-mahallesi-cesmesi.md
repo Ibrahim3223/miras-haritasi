@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.908614,40.928181"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Trabzon'un Gizli Çeşmesi: Harmanlı Mahallesi Çeşmesi

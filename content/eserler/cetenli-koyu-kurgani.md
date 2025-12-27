@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "44.0126724,39.4597511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çetenli Köyü Kurganı**

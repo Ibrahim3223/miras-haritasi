@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.966027777,41.03725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdi Kaptan Çeşmesi

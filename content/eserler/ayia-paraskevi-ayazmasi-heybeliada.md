@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0991402,40.8776016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayia Paraskevi Ayazması

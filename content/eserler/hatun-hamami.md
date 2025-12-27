@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.207119,37.1806679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatun Hamamı: Karaman'ın Tarihi Bir Mirası

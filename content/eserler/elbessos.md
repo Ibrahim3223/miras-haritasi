@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.641536,36.689489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Elbessos: Antik Bir Kentin İzleri

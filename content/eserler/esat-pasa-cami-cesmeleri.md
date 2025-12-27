@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2745972,39.9078255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esat Paşa Cami Çeşmeleri

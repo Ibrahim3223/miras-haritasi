@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7042465,41.461853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dört Tepeler C Tümülüsü: Tekirdağ'ın Gizemli Eski Kenti

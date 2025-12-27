@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.151514994,39.800397889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akçakoyun Şehitliği**

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7171707,39.9203682"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ballı Camii: Kırıkkale'nin Tarihi Örenlerinden BİRİ

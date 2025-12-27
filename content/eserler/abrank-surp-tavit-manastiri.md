@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "40.2887981,39.6615962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abrank Surp Tavit Manastırı

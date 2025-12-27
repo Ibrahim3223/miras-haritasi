@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.624744113,39.076902252"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çatılı Çeşmesi: Arapgir'in Tarihî Bir Mirası

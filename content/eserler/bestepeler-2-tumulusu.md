@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.9499111,41.1816025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beştepeler 2 Tümülüsü: Edirne'nin Gizli Tarihini Keşfedin

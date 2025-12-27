@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.109549,40.195974"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dadastana: Antik Çağın Gizemi

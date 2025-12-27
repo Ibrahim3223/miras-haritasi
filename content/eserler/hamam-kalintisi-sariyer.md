@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0223904,41.2192955"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamam Kalıntısı, Sarıyer: Bir Geçmişi Yansıtan Eser

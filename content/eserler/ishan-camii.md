@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7401,40.7511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İşhan Camii: Artvin'in Gizli Çeşmesinde Yükselen Bir Mimari Harikası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7572193,41.567173"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abalar Tümülüsü: Edirne'nin Gizli Kahramanı

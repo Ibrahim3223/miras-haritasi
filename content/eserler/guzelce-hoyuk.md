@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4172879,36.5894259"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelce Höyük: Kırıkhan'ın Tarihî Mirası

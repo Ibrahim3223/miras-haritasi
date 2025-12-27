@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7775917,41.3837433"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsmail Bey Camii, Kastamonu

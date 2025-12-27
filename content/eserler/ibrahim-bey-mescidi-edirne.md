@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5531368,41.6773224"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Bey Mescidi: Edirne'nin Tarihi Bir Camisi

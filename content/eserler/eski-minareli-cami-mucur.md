@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.373703,39.0586739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Minareli Cami, Mucur

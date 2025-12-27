@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7317314,40.6290665"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çivi Höyük: Çankırı'nın Gizli Mirası

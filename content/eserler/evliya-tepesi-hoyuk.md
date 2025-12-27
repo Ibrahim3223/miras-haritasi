@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0894199,39.5739414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Evliya Tepesi Höyük

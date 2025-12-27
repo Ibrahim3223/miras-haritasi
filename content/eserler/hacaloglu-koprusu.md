@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.0088578,41.0195703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacaloğlu Köprüsü: Rize'nin Taşlı Örenliği

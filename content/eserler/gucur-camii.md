@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7435684,38.0884323"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gucür Camii: İzmir'in Tarihi ve Kültürel Mirası

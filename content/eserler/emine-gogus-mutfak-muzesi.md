@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.382578,37.064504"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emine Göğüş Mutfak Müzesi

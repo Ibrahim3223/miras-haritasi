@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.360286607,37.776088982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 2, Uzunçam: Nazilli, Aydın'da Bir Önemli Tarihsel Çeşme

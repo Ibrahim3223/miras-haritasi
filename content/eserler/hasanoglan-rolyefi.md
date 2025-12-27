@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.272636,39.996738"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasanoğlan Rölyefi: Ankara'nın Gizli Çağı

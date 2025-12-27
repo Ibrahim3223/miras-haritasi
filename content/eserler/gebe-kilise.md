@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.2243481,36.7000999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gebe Kilise: Marmaris'in Gizli Çiçeği

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2783813,39.9094429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cedit Çeşmesi**

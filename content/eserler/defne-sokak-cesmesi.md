@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.051951,41.138981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Defne Sokak Çeşmesi: Sarıyer'in Tarihi Bir Semt Çeşmesi

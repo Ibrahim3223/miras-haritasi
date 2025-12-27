@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.9756603,37.8865356"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çayyüzü Şehitliği

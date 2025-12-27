@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.942435,41.035997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arabacılar Hamamı Ayvansaray: İstanbul'un Tarihsel Bir Anıtı

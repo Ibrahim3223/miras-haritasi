@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.014706,41.061949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Erikli Mevkii Tümülüsü Kavak: Samsun'un Gizli Çanakkale Kahramanları

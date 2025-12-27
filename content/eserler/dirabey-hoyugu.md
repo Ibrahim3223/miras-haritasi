@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.57508,37.63231"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dırabey Höyüğü: Çumra'nın Önemli Arkeolojik Sitleri

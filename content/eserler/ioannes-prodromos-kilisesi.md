@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.068266,40.880975"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İoannes Prodromos Kilisesi: İstanbul'un Gizli Cenneti

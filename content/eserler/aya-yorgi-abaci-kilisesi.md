@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.709416666,39.301805555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Aya Yorgi Abacı Kilisesi: Bir Azizin Adına İnşa Edilen Tarihî Bir Çan Kulesi**

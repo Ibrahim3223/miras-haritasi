@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.2108688,38.3579445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Blaundos Antik Tiyatrosu

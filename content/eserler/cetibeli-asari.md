@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.2891102,36.9974937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Marmaris'in Gizli Çehresi: Çetibeli Asarı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2147454,38.3472316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Evci Höyük: Elbistan'ın Gizli Mirası

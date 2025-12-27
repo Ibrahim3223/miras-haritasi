@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.343908818,37.936474846"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Devlet Agorasındaki Tapınak

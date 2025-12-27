@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.221034929,41.734426675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukur Çeşme, Kırklareli

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.166357,39.1191521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asklepion Kütüphanesi: Tarihî Mirasın Gizemi

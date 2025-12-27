@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.277282355,40.826182953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bölüm Mithat Paşa Camii: Trabzon'un Tarihî Bir Şehri

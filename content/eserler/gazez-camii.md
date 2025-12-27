@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0645008,38.6081009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazez Camii

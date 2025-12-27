@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8582153,39.9044724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İtalya Büyükelçiliği Çeşmeleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.9580994,40.5478249"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çorbacı Çeşmesi: Çorum'un Tarihî Çeşmesindeki Gizem

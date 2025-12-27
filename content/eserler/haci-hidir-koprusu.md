@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.1968021,38.7713623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Hıdır Köprüsü: Gördes'in Tarihî Mirası

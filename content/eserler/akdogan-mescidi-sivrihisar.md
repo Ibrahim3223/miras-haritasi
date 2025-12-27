@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.5378265,39.4535255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akdoğan Mescidi: Sivrihisar'ın Tarihî Bir Mirası

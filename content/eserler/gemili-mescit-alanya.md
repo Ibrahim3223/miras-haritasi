@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9951973,36.5330963"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gemili Mescit: Alanya'nın Tarihi Bir Cezvesi

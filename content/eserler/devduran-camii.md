@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8639679,39.9389839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Devduran Camii: Altındağ'da Bir Ölümsüz

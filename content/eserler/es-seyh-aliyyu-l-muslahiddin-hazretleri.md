@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.9958649,40.8805389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eş Şeyh Aliyyü-l Müslahiddin Hazretleri Anıtı

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.1354599,39.3958092"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bigadiç Kalesi: Tarihçesi ve Özellikleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.738451,38.0841179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bakırlı Çeşme: Tire'nin Tarihi Bir Çeşmesi**

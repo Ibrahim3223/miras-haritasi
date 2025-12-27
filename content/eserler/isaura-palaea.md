@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.24503,37.190126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Isaura Palaea: Antik Çağın Gizemi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.1690102,37.8096924"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alhan Hamamı: Aydın'ın Tarihi Bir Zenginlik

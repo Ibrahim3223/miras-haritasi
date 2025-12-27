@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2219105,41.6340523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Değirmencik Pelitlik Tümülüsü

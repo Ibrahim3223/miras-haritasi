@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0716209,40.1832161"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bedrettin Camii Çeşmesi: Bursa'nın Tarihî Eserleri Arasındaki Bir Harikası

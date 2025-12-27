@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.8415489,37.8519897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cemal Bey Hamamı: Aydın'ın Tarihi Bir Mirası

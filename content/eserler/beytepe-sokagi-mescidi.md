@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9220219,40.1689987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Beytepe Sokağı Mescidi: Beypazarı'nın Tarihî Çehresi

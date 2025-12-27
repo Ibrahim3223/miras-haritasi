@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "40.5080258,38.2115336"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaytepe Höyüğü: Diyarbakır'ın Kutsal Yerleri Arasındaki Gizemli Yer

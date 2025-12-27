@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.539969,36.745626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aratos’un Anıt Mezarı: Mersin’in Tarihi Mirası

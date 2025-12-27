@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.601267,39.622783"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akören Höyük: Eskişehir'in Gizli Tarihi**

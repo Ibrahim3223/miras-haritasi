@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.44225,41.030445"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balcılı Camili Camii: Artvin'in Gizli Cenneti

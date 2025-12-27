@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.7316,39.9441"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dede Mahmud Türbesi

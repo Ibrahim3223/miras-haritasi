@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.023869,41.018265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Atik Valide Darülkurrası**

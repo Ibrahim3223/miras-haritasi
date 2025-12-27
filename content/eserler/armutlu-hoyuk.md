@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.7426758,40.212429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Armutlu Höyük: Türkiye'nin Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.601712,40.527608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çakrak Köyü Kilisesi: Giresun'un Gizli Cenneti

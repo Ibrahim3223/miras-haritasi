@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.421854,38.6085701"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaybaşı Köprüsü-5: Manisa'nın Tarihi Bir Mimarî Harikası

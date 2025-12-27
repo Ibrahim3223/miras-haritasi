@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7814255,41.3780632"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hatun Sultan Türbesi

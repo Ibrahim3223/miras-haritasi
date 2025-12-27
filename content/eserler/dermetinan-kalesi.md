@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.202,37.478954"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dermetinan Kalesi: Tarihi ve Kültürel Mirasın Parçaları

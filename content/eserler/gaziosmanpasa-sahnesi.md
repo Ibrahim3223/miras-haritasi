@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.91598068,41.0575686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gaziosmanpaşa Sahnesi: İstanbul'un Tarihî Tiyatro Mirası

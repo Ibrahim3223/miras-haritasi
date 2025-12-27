@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "43.8970113,38.6537287"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağımollahasan Höyüğü

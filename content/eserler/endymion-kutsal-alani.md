@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.525753,37.4991074"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Endymion Kutsal Alanı

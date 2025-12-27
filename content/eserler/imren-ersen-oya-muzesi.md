@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.5255623,39.7642784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmren Erşen Oya Müzesi

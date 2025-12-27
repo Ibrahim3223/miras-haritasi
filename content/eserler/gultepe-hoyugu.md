@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8196491,40.1278493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gültepe Höyüğü: Kırıkkale'nin Gizli Mirası

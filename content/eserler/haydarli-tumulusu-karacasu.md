@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.5764999,37.7757988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Haydarlı Tümülüsü: Karacasu'nun Gizemi

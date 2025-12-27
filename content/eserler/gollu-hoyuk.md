@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.894206504,37.379517103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göllü Höyük: Kahramanmaraş'ın Tarihî ve Kültürel Mirası

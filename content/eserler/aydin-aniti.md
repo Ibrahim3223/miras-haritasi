@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.8456154,37.8380089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydın Anıtı: Aydın'ın Ölümsüz Ruhuna Adanmış Bir Anıt

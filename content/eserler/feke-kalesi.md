@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.9518576,37.8602728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Feke Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası**

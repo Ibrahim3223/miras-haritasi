@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.063795096,40.188008131"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Acemler Camii Tanıtımı

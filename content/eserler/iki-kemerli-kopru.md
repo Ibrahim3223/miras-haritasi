@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.7630348,39.3855286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İki Kemerli Köprü: Bingöl'ün Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4908066,38.7190475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cıncıklı Camii

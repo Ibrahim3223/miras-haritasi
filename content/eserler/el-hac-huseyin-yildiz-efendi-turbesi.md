@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.1754723,40.8274574"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## El Hac Hüseyin Yıldız Efendi Türbesi

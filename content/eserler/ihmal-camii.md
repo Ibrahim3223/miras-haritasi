@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2733498,39.9118576"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İhmal Camii

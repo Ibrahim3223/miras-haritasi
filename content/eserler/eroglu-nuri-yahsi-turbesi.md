@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.032628,36.416933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eroğlu Nuri Yahşi Türbesi: Finike'nin Gizli Cenneti

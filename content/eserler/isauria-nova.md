@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.352388888,37.189916666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Isauria Nova: Bozkır'ın Eski Şehri

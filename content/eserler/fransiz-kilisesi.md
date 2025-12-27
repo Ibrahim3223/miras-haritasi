@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.923872,40.7639618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fransız Kilisesi: İzmit'in Tarihi Bir Mirası

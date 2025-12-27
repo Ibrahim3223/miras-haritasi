@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.925191,41.005938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arakiyeci Ahmet Çelebi Camii

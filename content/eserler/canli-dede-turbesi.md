@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.025270177,39.6137886"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanlı Dede Türbesi: Edremit'te Bir Tarihî Miras

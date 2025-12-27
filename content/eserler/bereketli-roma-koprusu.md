@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8809509,39.4355698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bereketli Roma Köprüsü

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.655711,39.338618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Agios Nikolaos Kilisesi: Ayvalık'ta Bir Önemli Kilise

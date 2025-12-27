@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.5360278,37.9224649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atenia (Pisidya): Tarihi ve Kültürel Mirasının Gizemi

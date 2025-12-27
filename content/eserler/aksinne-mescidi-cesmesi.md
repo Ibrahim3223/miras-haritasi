@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4920425,37.8629532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aksinne Mescidi Çeşmesi: Meram, Konya'da Bir Örnek Osmanlı Mimarisine

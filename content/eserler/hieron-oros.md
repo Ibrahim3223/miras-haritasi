@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.423999,41.099978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hieron Oros: Kıbrıs'ın Tarihî ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.7702732,39.3814278"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gecek Ulu Camii: Eskişehir'in Tarihi Bir Mirası

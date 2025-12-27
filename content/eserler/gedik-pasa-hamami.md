@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.8465061,38.3234787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gedik Paşa Hamamı: Çivril'de Bir Geç Dönem Osmanlı Hamamı

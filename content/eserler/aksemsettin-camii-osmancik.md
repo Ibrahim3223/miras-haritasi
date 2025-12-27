@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.801403,40.9739113"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akşemsettin Camii, Osmancık

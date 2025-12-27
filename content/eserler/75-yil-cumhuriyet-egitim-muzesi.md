@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.8487778,39.9263077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 75. Yıl Cumhuriyet Eğitim Müzesi

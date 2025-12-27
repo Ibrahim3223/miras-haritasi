@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4958458,37.8687134"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balıklı Çeşme: Konya'nın Tarihi ve Kültürel Mirası

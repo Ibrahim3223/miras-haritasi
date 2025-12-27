@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.0033722,38.1415138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Belediye Camii: Silvan'ın Tarihi Bir Mirası

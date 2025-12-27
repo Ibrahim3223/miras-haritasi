@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.9079952,37.8804474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İmamköy Kaplıcası: Aydın'ın Tarihi Bir Hamamı

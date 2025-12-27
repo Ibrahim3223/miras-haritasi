@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.110991,41.056017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ali Dede Türbesi: Akçakoca'da Bir Tarihî Anıt

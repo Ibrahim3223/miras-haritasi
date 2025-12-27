@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6534042,41.3082008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çiftetepe B Tümülüsü: Edirne'nin Gizli Arkeolojik Harikası

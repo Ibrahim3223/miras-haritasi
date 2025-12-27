@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.7636871,41.3707275"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bafra Asarkale ve Kaya Mezarları

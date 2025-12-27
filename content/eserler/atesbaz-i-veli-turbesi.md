@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4507065,37.8600197"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ateşbaz-ı Veli Türbesi: Konya'nın Gizli Cenneti

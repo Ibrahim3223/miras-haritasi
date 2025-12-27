@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.433368,40.799732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dakibyza Arkeolojik Sit

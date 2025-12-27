@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.594544,40.919969"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gönüllü Köyü Camii

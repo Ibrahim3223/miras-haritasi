@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.04333,37.506828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hadrianopolis (Pisidia): Tarihin İzleri Burdur'da

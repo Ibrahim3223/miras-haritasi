@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.4797001,37.6030006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amasya Kalesi, Bozdoğan: Bir Tarihî Eserin Gizemi

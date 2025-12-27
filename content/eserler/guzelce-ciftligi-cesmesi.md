@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.5118275,41.001049"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güzelce Çiftliği Çeşmesi: Büyükçekmece'nin Tarihi Bir Çeşmesi

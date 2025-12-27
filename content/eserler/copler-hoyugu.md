@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.0461803,39.1448624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çöpler Höyüğü: Konya'nın Gizli Tarihî İzi

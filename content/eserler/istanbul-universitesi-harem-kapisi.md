@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9625854,41.0125923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Üniversitesi Harem Kapısı

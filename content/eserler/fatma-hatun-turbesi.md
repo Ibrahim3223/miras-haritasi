@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5048027,37.8705292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatma Hatun Türbesi

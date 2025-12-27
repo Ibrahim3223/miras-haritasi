@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.479305555,39.062111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arapgir Ulu Camii: Bir Tarihi Mirasın Tanıtımı

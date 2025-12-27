@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.0516014,39.0291405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferruh Şad Bey Türbesi

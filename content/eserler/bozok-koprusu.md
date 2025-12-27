@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.79306,39.782743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozok Köprüsü

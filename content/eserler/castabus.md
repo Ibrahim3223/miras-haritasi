@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.15674,36.78458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Castabus: Muğla'nın Gizli Arkeolojik Mirası

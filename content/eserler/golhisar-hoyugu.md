@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2137807,39.1009389"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gölhisar Höyüğü: Türkiye'nin Gizli Kahramanı**

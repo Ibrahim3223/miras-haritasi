@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.5349999,40.9627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bostancılar Camii: Artvin'in Gizli Cenneti

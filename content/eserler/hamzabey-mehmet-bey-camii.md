@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.5258389,40.1338882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hamzabey Mehmet Bey Camii: Bursa'nın Gizli Cenneti

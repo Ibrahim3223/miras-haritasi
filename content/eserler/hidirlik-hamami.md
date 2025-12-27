@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.8376999,38.1940994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hıdırlık Hamamı: Seferihisar'ın Tarihi Bir Mirası

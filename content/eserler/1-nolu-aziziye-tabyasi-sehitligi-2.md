@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.3076706,39.9124069"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 1 No'lu Aziziye Tabyası Şehitliği

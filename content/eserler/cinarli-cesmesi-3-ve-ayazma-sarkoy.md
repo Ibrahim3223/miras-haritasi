@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.2535172,40.6927528"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çınarlı Çeşmesi 3 ve Ayazma, Şarköy: Bir Örnek Osmanlı Mimarisine Sahip Çeşme

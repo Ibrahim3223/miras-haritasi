@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3680687,37.9553146"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayasuluk Kale Camii

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "26.767055555,38.329055555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzmir Urla İlçe Halk Kütüphanesi

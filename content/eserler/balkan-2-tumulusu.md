@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8436756,41.7422752"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balkan 2 Tümülüsü: Edirne'nin Gizli Mirası

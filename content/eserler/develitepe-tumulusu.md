@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7255764,41.5584335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Develitepe Tümülüsü: Vize'nin Gizli Cenneti

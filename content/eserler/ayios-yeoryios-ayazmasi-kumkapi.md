@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9634018,41.0046654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Yeoryios Ayazması, Kumkapı

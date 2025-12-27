@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9800167,41.0256348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Andrea Kilisesi: Beyoğlu'nun Gizli Cenneti

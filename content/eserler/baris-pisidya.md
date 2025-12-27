@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.33953,37.85745"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baris (Pisidya)

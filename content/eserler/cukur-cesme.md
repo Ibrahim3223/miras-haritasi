@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9724979,39.4150467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukur Çeşme: Kütahya'nın Tarihi Bir Çeşmesi

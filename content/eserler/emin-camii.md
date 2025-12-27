@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9742794,41.036869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emin Camii Tanıtımı

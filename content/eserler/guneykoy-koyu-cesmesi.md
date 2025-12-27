@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.0780983,40.9927216"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güneyköy Köyü Çeşmesi

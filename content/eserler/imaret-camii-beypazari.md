@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9212208,40.1701775"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İmaret Camii - Beypazarı**

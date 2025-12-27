@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.971615,41.006147"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dizdariye Camii Çeşmesi

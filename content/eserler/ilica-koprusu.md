@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6229992,37.9331017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ilıca Köprüsü

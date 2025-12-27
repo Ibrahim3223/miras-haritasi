@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.938066,41.006426"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Davut Paşa Türbesi

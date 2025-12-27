@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1430817,38.4190025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Sultan Zaviyesi Hamamı

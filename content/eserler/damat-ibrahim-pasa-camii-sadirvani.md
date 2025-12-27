@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.958251745,41.013086849"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damat İbrahim Paşa Camii Şadırvanı: İstanbul'un Gizli Çeşmesi

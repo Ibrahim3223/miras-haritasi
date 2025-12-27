@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.442492,38.131241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haburman Köprüsü

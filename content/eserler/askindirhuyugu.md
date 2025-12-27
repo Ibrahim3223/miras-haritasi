@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.520923,36.5653792"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşkındır Hüyüğü: Kırıkhan'ın Gizemli Arkeolojik Sitleri

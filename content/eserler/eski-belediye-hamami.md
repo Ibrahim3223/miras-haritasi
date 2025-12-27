@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.3484993,37.4222984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Belediye Hamamı: Denizli'nin Gizli Çarığı

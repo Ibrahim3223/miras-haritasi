@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.9785309,36.0836716"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ebu'l Fütuh Camii

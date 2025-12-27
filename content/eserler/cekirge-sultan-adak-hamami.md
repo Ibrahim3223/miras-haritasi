@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0178213,40.2011867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çekirge Sultan Adak Hamamı

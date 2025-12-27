@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.978934,41.026327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Gümrük Müşavirleri Derneği Müzesi

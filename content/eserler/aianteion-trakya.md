@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.982896,41.027933"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aianteion (Trakya)

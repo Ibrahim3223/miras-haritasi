@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.996765,39.651836"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs R

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9441109,41.0245819"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Efdalzade Sebili: İstanbul'un Gizli Çeşme Harikası

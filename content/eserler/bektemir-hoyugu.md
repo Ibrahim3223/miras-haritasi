@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.821912,37.6654559"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bektemir Höyüğü: Konya'nın Gizli Kahramanı

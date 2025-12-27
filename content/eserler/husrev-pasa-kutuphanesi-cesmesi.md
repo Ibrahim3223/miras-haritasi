@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9348564,41.0484505"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsrev Paşa Kütüphanesi Çeşmesi

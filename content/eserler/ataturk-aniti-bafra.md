@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.903134,41.568097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Anıtı, Bafra

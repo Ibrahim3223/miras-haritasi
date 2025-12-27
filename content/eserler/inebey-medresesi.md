@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0610638,40.1826553"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnebey Medresesi: Bursa'nın Tarihi Bir Mirası

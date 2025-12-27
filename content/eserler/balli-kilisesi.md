@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.6637764,38.0717239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ballı Kilisesi

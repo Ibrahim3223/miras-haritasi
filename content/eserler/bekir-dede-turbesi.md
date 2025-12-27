@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.062767,40.1879501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bekir Dede Türbesi

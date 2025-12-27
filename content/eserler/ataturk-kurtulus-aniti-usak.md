@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4054737,38.6738129"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Kurtuluş Anıtı, Uşak

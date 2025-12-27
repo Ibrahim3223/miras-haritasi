@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.044074,41.979567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aiginetes: Antik Yunanistan'ın Gizemi

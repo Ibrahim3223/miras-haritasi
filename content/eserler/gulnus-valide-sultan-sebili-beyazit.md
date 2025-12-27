@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.962591,41.009298"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gülnuş Valide Sultan Sebili, Beyazıt

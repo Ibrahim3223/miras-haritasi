@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0043411,40.0890808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Mehmet Camii, Bilecik

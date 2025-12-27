@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.982586233,41.009705982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fırıncılar Mescidi

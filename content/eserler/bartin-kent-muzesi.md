@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.337162,41.633194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bartın Kent Müzesi

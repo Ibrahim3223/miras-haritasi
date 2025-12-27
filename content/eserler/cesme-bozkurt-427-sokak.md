@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.132,38.414299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Bozkurt, 427 Sokak: İzmirlinin Kültürel Mirası

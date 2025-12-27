@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8409386,40.1696739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Cami, Alaca Tanıtımı

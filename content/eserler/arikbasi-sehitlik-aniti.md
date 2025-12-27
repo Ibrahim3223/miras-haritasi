@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4966125,38.1776848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Arıkbaşı Şehitlik Anıtı

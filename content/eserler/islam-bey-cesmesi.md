@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.926747,41.051436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İslam Bey Çeşmesi

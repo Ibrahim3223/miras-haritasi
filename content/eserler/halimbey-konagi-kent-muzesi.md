@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.240839,40.2274017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halimbey Konağı Kent Müzesi: Biga'nın Tarihi ve Kültürel Mirası

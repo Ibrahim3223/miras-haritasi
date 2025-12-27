@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3076581,38.4028677"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Altıntaş Höyük: Aksaray'ın Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.1235733,40.8641815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hristos Manastırı: Büyükada'nın Gizli Çehresi

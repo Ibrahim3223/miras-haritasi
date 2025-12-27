@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.6859,38.2045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Airai: İyonya'nın Gizemli Arkeolojik Sitleri

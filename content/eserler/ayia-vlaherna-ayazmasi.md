@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0407982,41.0703735"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayia Vlaherna Ayazması: Beşiktaş'ın Gizli Çeşmesi

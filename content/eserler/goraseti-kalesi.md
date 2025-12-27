@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.206913888,41.198552777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Goraşeti Kalesi: Kutlu, Ardanuç'ta Gizli bir Kahramanlık

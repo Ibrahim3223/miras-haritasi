@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9750099,41.0106697"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hadım Hasan Paşa Çeşmesi

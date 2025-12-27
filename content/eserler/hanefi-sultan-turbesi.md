@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.918169,38.703967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hanefi Sultan Türbesi: Gölmarmara'da Bir Önemli Anıt

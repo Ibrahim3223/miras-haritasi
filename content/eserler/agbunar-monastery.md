@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Agbunar Manastırı: Kars'ın Gizli Cenneti

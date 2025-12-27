@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.971356,41.014868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşir Efendi Kütüphanesi

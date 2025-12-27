@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8107376,37.3058624"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gencik Tepe Kutsal Alanı**

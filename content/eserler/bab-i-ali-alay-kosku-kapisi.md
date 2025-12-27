@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.978018,41.01115"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bab-ı Ali Alay Köşkü Kapısı

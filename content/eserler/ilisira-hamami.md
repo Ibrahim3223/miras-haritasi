@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.026949024,37.195428782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İlisu Hamamı Tanıtımı**

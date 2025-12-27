@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.4311237,38.6085052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukur Hamam

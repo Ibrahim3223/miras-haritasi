@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8203602,40.2076836"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aya Panayia Manastırı: Gökçeada'nın Kültürel Mirası

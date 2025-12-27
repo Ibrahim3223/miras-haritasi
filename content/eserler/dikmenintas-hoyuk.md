@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.3104248,40.4765968"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dikmenintaş Höyük: Çorum'un Gizli Anıtı

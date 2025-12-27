@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.891,39.0714"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Attalea (Lidya)

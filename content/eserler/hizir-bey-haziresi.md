@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9585361,41.0184708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hızır Bey Haziresi: Fatih'teki bir Anıt

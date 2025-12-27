@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1987,38.9068985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atçılar Camii

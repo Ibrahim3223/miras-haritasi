@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.9111764,39.607703"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İviktepe: Sivas'ta Eski Çağların İzleri

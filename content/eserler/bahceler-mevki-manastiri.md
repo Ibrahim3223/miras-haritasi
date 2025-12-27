@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.9061584,40.2195549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçeler Mevki Manastırı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.991459,39.654301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs D: Tarihi ve Kültürel Mirasın Gizemi

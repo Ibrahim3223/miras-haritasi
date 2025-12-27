@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "31.394444444,36.767777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Episkopos Sarayı: Side'deki Tarihî Bir Kervansaray

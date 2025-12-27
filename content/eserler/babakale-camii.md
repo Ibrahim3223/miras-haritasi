@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.0653,39.4796982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Babakale Camii: Tarihi ve Kültürel Bir Miras

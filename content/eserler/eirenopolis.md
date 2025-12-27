@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8995,36.48111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eirenopolis: Tarihi ve Kültürel Mirasın Gizemi

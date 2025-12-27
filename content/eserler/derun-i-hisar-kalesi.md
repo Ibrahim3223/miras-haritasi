@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.299305,38.9169655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derun-i Hisar Kalesi

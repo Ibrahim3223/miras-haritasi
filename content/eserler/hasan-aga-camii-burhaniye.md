@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9848671,39.499939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Ağa Camii, Burhaniye

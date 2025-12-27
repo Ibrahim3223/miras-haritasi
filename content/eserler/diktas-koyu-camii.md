@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.536386659,40.655910384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Diktaş Köyü Camii

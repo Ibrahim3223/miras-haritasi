@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.4846458,38.7266045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kılıç Camii ve Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası

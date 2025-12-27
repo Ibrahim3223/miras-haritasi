@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2372189,42.0212936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmetler Höyükler Bayırı 2 Tümülüsü

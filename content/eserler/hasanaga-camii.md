@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.721876,41.007813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasanağa Camii: Trabzon'un Tarihi Bir Mirası

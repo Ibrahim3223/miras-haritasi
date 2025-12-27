@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0797787,42.0490265"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Beyci Köyiçi Tümülüsü: Tarih, Kültür ve Doğa Harmanlanmış Bir Arkeolojik Sit

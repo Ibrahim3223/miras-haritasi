@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.42196773,40.838069472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Ahmet Ağa Çeşmesi, Kurşunlu

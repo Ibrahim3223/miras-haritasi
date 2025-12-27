@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.758087,40.130409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dedepınar Höyük

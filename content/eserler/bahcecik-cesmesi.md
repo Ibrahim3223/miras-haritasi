@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.7122955,40.9947128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bahçecik Çeşmesi: Ortahisar'ın Tarihi Çeşmesi

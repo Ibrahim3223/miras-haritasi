@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.7691994,40.1960983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balomeni Manastırı: Gökçeada'nın Gizli Öyküsü

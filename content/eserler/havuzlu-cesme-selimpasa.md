@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3683414,41.0543365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Havuzlu Çeşme, Selimpaşa

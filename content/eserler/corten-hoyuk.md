@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.272978,36.7700126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çörten Höyük: Kilis'teki Eski Köyün Efsanesi

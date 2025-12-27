@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.962117,41.006308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # III. Selim Han Çeşmesi, Kumkapı

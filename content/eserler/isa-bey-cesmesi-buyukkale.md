@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.559,38.0323982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsa Bey Çeşmesi, Büyükkale

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.029816,41.068584"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahmet Adnan Saygun Heykeli

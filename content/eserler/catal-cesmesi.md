@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.4634361,41.1414337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatal Çeşmesi: Ferhatpaşa'daki Tarihi Bir Çeşme

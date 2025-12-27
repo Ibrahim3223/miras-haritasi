@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.753914,36.750884"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Domitiopolis: Eski Anadolu'nın Gizli Yerleri Arasında Bir Arkeolojik Sit

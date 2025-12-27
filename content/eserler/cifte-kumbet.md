@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.5304645,38.7338568"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çifte Kümbet: Bir Anıtın Tarihî Özellikleri

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.7815552,41.3792648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Deveci Sultan Türbesi

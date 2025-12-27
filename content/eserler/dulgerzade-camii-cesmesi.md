@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951502,41.015903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dülgerzade Camii Çeşmesi

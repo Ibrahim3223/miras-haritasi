@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.523941,38.6238174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Hamam, Kula

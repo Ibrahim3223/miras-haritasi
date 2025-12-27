@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2398987,40.6912956"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dumanlı Köyü Camii

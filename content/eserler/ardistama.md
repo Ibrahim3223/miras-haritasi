@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.85653,37.92922"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ardıçlı Dağı (Ardistama)

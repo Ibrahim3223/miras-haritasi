@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.612987619,40.605346349"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hale Sokak Çeşmesi, Çankırı

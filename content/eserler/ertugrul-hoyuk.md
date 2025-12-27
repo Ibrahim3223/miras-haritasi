@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.4325525,38.1965393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ertuğrul Höyük: Konya'nın Gizli Mirası

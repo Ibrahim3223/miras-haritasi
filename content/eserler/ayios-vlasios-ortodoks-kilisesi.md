@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.8423462,38.1703148"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayios Vlasios Ortodoks Kilisesi

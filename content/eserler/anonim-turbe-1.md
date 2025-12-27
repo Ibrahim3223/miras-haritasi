@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3631134,37.9489822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Türbe (1)

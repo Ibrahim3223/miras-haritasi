@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.716492945,40.376736991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alem Sultan Türbesi ve Namazgah: Lapseki'nin Ölümsüz Ruhu

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2713661,39.9091301"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dursun Bey Çeşmesi: Erzurum'un Tarihi Zirvesi

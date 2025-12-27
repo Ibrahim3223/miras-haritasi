@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.44191,40.086892"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşut Kalesi: Kelkit'te Eski Çağların Mirası

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.4875641,36.8433189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başnalar Kalesi: Mersin'in Gizli Kahramanı

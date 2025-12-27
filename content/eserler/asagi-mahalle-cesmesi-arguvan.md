@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.326957469,38.754153282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Mahalle Çeşmesi, Arguvan

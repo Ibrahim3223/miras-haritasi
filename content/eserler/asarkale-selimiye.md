@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.1372623,36.7028542"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Asarkale, Selimiye: Marmaris'in Tarihi Bir Ören Yeri

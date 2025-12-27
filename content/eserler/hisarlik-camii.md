@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.344845,37.153338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hisarlık Camii: Bozkır, Konya'nın Tarihi Çaprazı

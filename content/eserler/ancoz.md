@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.766838,37.686273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ancoz: Adıyaman'ın Gizli Öreni**

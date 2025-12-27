@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.8029,40.672097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dumanlı Köyü Binatlı Mahallesi Kilisesi: Trabzon'un Gizli Cenneti

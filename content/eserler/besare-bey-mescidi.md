@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4914093,37.8751106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beşare Bey Mescidi

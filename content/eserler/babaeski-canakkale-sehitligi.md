@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.08938506,41.433288036"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Babaeski Çanakkale Şehitliği

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.3823509,36.5887871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Girmeler Yerleşimi: Muğla'nın Gizli Arkeolojik Mirası

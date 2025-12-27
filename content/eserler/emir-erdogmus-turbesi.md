@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4975624,38.7161446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Emir Erdoğmuş Türbesi

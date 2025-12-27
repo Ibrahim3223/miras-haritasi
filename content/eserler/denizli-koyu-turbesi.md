@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.741314,38.381797"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Denizli Köyü Türbesi: İzmir'in Eski Çağdaki Gizli Kahramanı

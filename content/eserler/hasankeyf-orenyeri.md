@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasankeyf Örenyeri: Türkiye'nin En Eski ve En Gizemli Yerleri

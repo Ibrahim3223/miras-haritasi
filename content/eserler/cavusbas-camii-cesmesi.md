@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5268154,38.7571373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavuşbaş Camii Çeşmesi

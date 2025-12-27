@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5,40.72"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Helenopolis: Yalova'da Bir İmparatorluk Kenti

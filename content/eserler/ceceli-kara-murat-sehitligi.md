@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.5544243,38.7588921"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeçeli Kara Murat Şehitliği

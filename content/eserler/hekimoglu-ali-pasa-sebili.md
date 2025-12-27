@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9354549,41.0065678"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hekimoğlu Ali Paşa Sebili: İstanbul'un Gizli Çeşmesi

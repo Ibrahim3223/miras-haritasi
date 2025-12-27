@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9564304,41.0188179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alemdar İbrahim Efendi Kabri

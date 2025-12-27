@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.690943,36.919037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaltılar Höyük: Muğla'nın Gizli Tarihî Mirası

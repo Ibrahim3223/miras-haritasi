@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.6192322,40.0139008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hattuşa Küçükkale: Türkiye'nin Tarihî Efsanelerinin Kapısı

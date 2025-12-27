@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.951349,41.016094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dülgerzade Medresesi

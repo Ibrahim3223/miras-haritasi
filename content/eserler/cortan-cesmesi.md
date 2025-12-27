@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "41.2728691,39.9095459"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çortan Çeşmesi

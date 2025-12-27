@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.3954201,40.3458633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aigaionos Anıtı

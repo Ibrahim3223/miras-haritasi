@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7223587,41.3141136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çanta Çukuru Tümülüsü Tanıtımı

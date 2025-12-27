@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.6218948,40.1214485"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bitik Höyük: Kahramankazan'ın Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.338190552,37.942340013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dört Sütunlu Anıt: Selçuk'un Gizli Çeşmesi

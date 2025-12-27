@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.173315,41.7523766"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eriklice 1 Tümülüsü: Kırklareli'nin Gizli Hazinesi

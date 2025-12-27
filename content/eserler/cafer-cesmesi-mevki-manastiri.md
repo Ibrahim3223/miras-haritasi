@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.9241009,40.1864014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cafer Çeşmesi Mevki Manastırı

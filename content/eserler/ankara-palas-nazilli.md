@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.326527777,37.914611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Palas (Nazilli): Aydın'ın Tarihçesi ve Mirası

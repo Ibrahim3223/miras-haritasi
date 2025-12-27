@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.769756,38.319564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hatice Ana Türbesi: Urla'da Bir Tarihî Miras

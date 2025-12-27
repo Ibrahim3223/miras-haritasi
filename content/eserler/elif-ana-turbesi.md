@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.0178291,37.2923037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elif Ana Türbesi: Kahramanmaraş'taki Bir Kültürel Miras

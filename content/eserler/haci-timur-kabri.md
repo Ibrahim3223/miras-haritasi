@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9341087,41.0089912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Timur Kabri: İstanbul'un Gizli Anıtlarından BİRİ

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "25.801665377,40.110612506"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dereköy Tümülüsü

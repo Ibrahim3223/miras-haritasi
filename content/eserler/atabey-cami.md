@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.636059,37.950812"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atabey Cami: Isparta'nın Büyüleyici Cami Mirası

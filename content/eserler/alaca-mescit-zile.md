@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8889809,40.3050003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaca Mescit, Zile: Tokat'ın Tarihi Bir Şehri Arayanlara Örnek Bir Cami

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.954131,41.022391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damat Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Değerlerindendir

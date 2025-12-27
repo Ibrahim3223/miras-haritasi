@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.995669,41.038662"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beşiktaş Jimnastik Kulübü (BJK) Müzesi

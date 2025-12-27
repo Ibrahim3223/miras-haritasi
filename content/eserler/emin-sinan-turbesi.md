@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9692912,41.0067232"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Emin Sinan Türbesi: İstanbul'un Gizli Çeşmesiyle Birlikte Bir Anıt**

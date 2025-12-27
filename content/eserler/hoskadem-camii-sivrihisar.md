@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.5354538,39.4495201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoşkadem Camii: Sivrihisar'ın Tarihî Bir Anıtı

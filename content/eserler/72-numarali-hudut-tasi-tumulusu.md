@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2924366,42.0969582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 72 Numaralı Hudut Taşı Tümülüsü: Kırklareli'nin Gizli Anıtı

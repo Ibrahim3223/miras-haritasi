@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.745457274,40.796580379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Cami (Hendek)

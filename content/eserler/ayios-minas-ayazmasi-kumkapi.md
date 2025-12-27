@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9320869,41.0005608"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayios Minas Ayazması, Kumkapı

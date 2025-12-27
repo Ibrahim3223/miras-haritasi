@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.3472748,41.6231689"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebu Derda Türbesi: Bartın'da Bir Zenginlik

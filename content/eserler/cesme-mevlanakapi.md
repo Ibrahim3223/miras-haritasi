@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9238548,41.0168571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Mevlanakapı Çeşmesi: Fatih'te Bir İhtişam

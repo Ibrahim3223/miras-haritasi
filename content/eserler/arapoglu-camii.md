@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2203369,37.1795845"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arapoğlu Camii

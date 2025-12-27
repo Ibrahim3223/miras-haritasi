@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.042755,40.205714"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Basilica Therma: Bitinya'nın Gizemli Banyo Merkezi

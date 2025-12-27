@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.387409,41.18195"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Cales: Tarih ve Kültür Mirasının Bir Parçası**

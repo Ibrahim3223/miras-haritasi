@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.9856262,37.3897972"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bağra Höyük: Seydişehir'in Gizli Güzelliği

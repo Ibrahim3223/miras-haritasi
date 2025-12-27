@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.995258,39.651447"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gordion Tümülüs T32: Polatlı'da Antik Mirasın Gizemi**

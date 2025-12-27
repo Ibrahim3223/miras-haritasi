@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.2191734,38.4671822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Darülkurra Medresesi

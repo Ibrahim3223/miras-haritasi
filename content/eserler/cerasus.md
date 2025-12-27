@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.319029,41.05814"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cerasus Arkeolojik Sit

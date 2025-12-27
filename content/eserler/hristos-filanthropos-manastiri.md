@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "28.987436209,41.010631431"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hristos Filanthropos Manastırı

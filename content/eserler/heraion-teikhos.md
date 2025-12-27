@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.6898813,41.0049212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Heraion-Teikhos: Marmara Ereğlisi'nin Gizli Çeşidi

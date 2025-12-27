@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0416279,41.0280762"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdülmecid Efendi Köşkü Bahçe Çeşmesi

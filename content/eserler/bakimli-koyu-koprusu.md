@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.0059471,40.8850098"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakımlı Köyü Köprüsü

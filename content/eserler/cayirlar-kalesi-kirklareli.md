@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.1487446,41.7668686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çayırlar Kalesi: Kırklareli'nin Tarihi ve Kültürel Mirası

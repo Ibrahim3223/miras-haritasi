@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.049950485,38.183457661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gözene Köyü Çeşmesi, Yeşilyurt

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3614788,37.6370506"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozdoğan Çeşme: Tarihi ve Zenginliği

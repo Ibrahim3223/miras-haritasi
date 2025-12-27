@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.942507526,41.048664722"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gaysunizade Mehmet Efendi Kabri

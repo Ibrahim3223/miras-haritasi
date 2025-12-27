@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.941416,41.008705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haseki Hürrem Sultan Sıbyan Mektebi Çeşmesi

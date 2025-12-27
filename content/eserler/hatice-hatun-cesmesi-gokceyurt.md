@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.032409648,39.960318889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hatice Hatun Çeşmesi, Gökçeyurt

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4808846,38.7230873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Sakioğlu Camii

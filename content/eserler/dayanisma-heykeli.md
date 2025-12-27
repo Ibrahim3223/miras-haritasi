@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9954853,41.0437126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dayanışma Heykeli: İstanbul'un sembolü

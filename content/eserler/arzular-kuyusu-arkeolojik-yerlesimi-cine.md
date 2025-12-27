@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.9606266,37.726223"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Arzular Kuyusu Arkeolojik Yerleşimi, Çine

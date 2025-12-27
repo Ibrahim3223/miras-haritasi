@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.8441639,37.4330902"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cevher Paşa Hamamı

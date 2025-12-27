@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.7820168,38.0183487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşnigir Sinan Paşa Camii: Isparta'da Bir Tarihi Kahraman

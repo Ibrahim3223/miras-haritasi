@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "31.0224819,38.5929604"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çay Medresesi: Bir Tarihî Mirasın Gerçekleri

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.813015,37.3699989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaykavuştuğu Köprüsü: Milas'ın Tarihi ve Kültür Mirası

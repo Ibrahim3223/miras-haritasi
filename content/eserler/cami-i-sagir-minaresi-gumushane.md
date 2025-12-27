@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.4569588,40.45158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cami-i Sağir Minaresi, Gümüşhane

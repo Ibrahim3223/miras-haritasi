@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.87785,40.986466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Düz Mahallesi Hamamı: Altınordu'nun Tarihi Mirası**

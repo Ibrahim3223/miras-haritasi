@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.8877,36.2185"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Istlada Arkeolojik Sit: Demre'nin Gizli Harikası

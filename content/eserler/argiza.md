@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.409336,39.843503"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Argiza Arkeolojik Sit

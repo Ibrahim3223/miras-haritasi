@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "27.4823112,40.4987679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hagios Georgios Manastırı Tanıtımı

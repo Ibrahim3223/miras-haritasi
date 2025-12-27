@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "28.966361111,41.007861111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gedikpaşa Tiyatrosu

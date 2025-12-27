@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.027578,41.015298"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevri Kalfa Camii

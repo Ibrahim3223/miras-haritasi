@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.731526,38.0862627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aydınoğlu Süleyman Şah Türbesi

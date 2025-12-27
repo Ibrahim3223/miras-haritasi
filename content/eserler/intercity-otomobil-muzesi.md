@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.40553791,40.952664027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Intercity Otomobil Müzesi

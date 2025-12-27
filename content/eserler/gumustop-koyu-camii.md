@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1425514,40.3870049"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümüştop Köyü Camii: Turhal'ın Gizli Cenneti

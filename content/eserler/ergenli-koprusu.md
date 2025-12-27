@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.6898994,38.2415009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ergenli Köprüsü: İzmir'in Tarihi ve Kültürel Mirası

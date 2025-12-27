@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.4063091,40.1338081"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakkale Hamidiye Tabyası Şehitliği

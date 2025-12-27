@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.931574,41.046957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hanım Çeşmesi: Eyüpsultan'da Bir Kültür Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.2901191,39.3102281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aspona: Balâ'nın Gizli Arkeolojik Harikası

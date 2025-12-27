@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.4762344,40.7334023"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Feyzullah Camii: İskilip'in Tarihi Bir Mirası

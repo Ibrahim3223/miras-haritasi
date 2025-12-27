@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.521240399,37.835350791"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bedreddin Gevhertaş Türbesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9841766,41.0130463"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağalar Camii Güneş Saati

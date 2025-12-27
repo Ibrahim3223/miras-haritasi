@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.150691,41.075516"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurbük Mahallesi Köprüsü 3: Samsun'un Tarihî Mirası

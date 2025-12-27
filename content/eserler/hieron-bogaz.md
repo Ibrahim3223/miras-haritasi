@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.093333333,41.178333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hieron (Boğaz)

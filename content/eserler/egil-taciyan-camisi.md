@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.093194444,38.254388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eğil Tacıyan Camisi

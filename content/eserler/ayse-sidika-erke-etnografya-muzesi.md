@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.0199686,39.5915839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayşe Sıdıka Erke Etnografya Müzesi

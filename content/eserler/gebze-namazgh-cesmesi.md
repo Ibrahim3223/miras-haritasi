@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.4243126,40.7917786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gebze Namazgâh Çeşmesi

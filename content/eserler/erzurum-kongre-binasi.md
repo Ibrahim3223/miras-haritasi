@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "41.2769775,39.9149857"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erzurum Kongre Binası: Türkiye'nin Tarihi ve Kültürel Mirası

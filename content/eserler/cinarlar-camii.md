@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.3894653,40.9177742"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çınarlar Camii: Giresun'un Tarihi ve Kültürel Mirası

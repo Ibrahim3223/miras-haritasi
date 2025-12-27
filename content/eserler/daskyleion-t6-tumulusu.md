@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.058755293,40.194615184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Daskyleion T6 Tümülüsü

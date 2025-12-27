@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.6951,39.4423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çoban Dede Türbesi: Eskişehir'in Tarihi ve Kültürel Mirası

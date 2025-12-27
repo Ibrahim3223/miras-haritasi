@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.5110241,39.2409264"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çandır Kümbeti: Yozgat'ın Gizli Mirası

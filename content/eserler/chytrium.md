@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.741881,38.337891"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Chytrium Arkeolojik Sit

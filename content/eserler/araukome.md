@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.040127,39.154577"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Araukome Arkeolojik Sit

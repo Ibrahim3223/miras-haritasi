@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.879082,40.994015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hilmi Nakipoğlu Fotoğraf Makineleri Müzesi

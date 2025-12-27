@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.893617,41.0612"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Balta Köprüsü: Hemşin'in Tarihî Mirası

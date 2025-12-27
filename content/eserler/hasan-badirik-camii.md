@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.1339874,38.6237488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Badırık Camii: Malatya'nın Gizli Mücevheri

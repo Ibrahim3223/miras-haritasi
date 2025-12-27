@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.857596349,39.944840013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Anonim Çeşme-4: Ankara'nın Tarihi Bir Çeşmesi**

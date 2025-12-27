@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9303131,41.0144463"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnadiye Baba Türbesi: Fatih'in Gizli Cenneti

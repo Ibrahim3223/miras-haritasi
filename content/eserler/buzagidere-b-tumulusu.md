@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7856522,41.5428467"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Buzağıdere B Tümülüsü: Kırklareli'nin Gizli Kahramanı

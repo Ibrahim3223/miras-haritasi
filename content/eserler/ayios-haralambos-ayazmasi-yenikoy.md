@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0619202,41.1250305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Haralambos Ayazması, Yeniköy: Sarıyer'in Gizli Çeşmesi

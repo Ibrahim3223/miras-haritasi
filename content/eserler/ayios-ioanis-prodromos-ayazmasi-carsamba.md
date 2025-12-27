@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.946291,41.0291176"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayios Ioanis Prodromos Ayazması: İstanbul'un Gizli Çeşmesi

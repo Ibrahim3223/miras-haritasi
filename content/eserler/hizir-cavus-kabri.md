@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9464073,41.0318527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hızır Çavuş Kabri

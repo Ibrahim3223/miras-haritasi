@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.2174721,37.8186073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İmam Akîl Türbesi

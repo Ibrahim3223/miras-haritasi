@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.9933,35.9478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Barlaham Manastırı

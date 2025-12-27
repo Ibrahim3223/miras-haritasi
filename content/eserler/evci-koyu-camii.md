@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8215103,40.0669937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Evci Köyü Camii

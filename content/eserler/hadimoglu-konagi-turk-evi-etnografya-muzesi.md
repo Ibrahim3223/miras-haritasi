@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.611705,39.810317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi

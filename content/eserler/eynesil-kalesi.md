@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.16347,41.078251"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eynesil Kalesi: Giresun'un Tarihî Mirası

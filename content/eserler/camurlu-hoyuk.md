@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.1011242,39.6433188"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çamurlu Höyük: Yozgat'ta Gizemli Bir Arkeolojik Sit

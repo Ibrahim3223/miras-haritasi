@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.865446407,39.931745373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Çeşme-19, Altındağ

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.1771202,40.0446815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çanakkale ve Gelibolu 1. Dünya Savaşı Alanları

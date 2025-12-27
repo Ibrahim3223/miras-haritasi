@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.5823002,40.8157005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Arif Ağa Çeşmesi

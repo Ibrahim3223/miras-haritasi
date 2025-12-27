@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4669991,40.7357292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çavuş Sokak Çeşmesi: İskilip'in Değerli Taş eserleri

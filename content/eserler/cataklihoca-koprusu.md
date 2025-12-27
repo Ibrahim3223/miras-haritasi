@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.778383,41.0824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çataklıhoca Köprüsü: Rize'nin Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.099667,37.838829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asopos Köprüsü: Pamukkale'nin Gizemli Köprüsü

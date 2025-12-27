@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.039551,38.558201"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Bin Tepeler Tümülüsü 44: Manisa'nın Gizli Cenneti**

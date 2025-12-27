@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0580779,40.178647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Haydarhane Hamamı

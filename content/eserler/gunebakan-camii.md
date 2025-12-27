@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.198005,40.783486"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Günebakan Camii: Trabzon'un Gizli Cenneti

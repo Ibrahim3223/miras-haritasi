@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.2595005,37.8582001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatice Hanım Camii: Kuşadası'nın Tarihi ve Kültürel Mirası

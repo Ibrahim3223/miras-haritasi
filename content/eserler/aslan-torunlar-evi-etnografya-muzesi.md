@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.153128,42.02633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aslan Torunlar Evi Etnografya Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.981305,41.010159"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darphane Çeşmesi: Cankurtaran'da Bir Tarihi Çeşme

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.0346508,38.8776245"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çadırhöyüğü: Bünyan, Kayseri'nin Gizli İncisi

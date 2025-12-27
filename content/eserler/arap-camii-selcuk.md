@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1781158,39.1225357"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arap Camii (Selçuk)

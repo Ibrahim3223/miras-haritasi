@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "34.007309,41.9777946"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abana Kent Müzesi: Kastamonu'nun Tarihî ve Kültürel Mirası

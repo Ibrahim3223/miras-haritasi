@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.314733665,38.579640847"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdi Dede Türbesi

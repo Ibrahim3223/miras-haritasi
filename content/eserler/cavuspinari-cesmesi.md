@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.4347382,40.3271523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavuşpınarı Çeşmesi: Şebinkarahisar'ın Tarihî Bir Çeşmesi

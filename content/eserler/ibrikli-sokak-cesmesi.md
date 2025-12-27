@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.7684784,41.3775864"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrikli Sokak Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.517464,37.440842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hyde Arkeolojik Sit

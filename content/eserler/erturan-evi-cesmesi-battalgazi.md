@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.369489311,38.418906702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Erturan Evi Çeşmesi

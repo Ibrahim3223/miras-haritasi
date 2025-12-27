@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4205437,38.6086617"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Attar Hoca Camii

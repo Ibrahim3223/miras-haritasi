@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3425,37.9449"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bizans Sarayı

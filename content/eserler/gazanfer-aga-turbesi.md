@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.955411,41.016477"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazanfer Ağa Türbesi: Fatih, İstanbul'un Gizli Çehresi

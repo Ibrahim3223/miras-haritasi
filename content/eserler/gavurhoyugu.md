@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4100902,38.91009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gavurhöyüğü Arkeolojik Sit

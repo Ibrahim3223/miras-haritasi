@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.2814636,40.9356842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüseyin Bey Türbesi: Tekirdağ'daki Bir Tarihî Anıt

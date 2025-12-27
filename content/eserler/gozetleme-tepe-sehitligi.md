@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2267227,40.1336517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Gözetleme Tepe Şehitliği**

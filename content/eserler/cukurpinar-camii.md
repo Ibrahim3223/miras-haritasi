@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.0195312,39.7451744"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurpınar Camii: Sivas'ın Tarihi Bir Anıtı

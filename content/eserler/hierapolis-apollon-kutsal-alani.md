@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1265373,37.9268837"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hierapolis Apollon Kutsal Alanı

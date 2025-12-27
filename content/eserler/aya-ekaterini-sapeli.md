@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.0245018,40.9800644"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aya Ekaterini Şapeli

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.1235161,40.8644257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hristos Manastırı Kilisesi

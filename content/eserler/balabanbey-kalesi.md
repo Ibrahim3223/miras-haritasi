@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.0725555,40.1743393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balabanbey Kalesi: Bursa'nın Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "36.15589447,36.20258088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatay Cemil Meriç İl Halk Kütüphanesi

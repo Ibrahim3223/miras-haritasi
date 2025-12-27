@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.1784611,39.121563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çınarlı Hamam: Tarihî Bir Mirasın Gizemi

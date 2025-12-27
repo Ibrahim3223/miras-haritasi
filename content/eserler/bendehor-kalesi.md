@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.1120834,40.9363518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bendehor Kalesi: Giresun'un Tarihî Mirası

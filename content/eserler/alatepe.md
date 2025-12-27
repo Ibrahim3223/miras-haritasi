@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.52758,41.759111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alatepe: Edirne'nin Gizli Mimari Harikası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.5044136,37.8660393"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Fakih Dede Türbesi: Karatay'da Bir Anıt

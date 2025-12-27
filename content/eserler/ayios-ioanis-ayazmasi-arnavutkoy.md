@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0402107,41.0632019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Ioanis Ayazması, Arnavutköy

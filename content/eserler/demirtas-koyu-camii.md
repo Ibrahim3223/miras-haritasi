@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.951162,38.998523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Demirtaş Köyü Camii: İzmir'in Gizli Çehresi

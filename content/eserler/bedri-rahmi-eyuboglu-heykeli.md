@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9747925,41.0291786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bedri Rahmi Eyüboğlu Heykeli: Beyoğlu'ndaki Bir Sanat Mirası

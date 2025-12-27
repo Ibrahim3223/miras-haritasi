@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "32.856527777,39.924194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 75. Yıl Sahnesi: Ankara'nın Eski Tiyatro Mirası

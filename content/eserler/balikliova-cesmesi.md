@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.569137,38.420893"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balıklıova Çeşmesi

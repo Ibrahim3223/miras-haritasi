@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9286366,41.0035706"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çifte Sultanlar Türbesi: İstanbul'un Gizli Anıtı

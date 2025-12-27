@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.343470081,37.936113184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Efes Bassus Çeşmesi: İzmir'in Tarihi Bir İhtişamı

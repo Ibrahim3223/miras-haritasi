@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.408415746,38.269236907"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aşçı Baba Türbesi

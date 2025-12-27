@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.9611683,41.0168381"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Kethüda Medresesi

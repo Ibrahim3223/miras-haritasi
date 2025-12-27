@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7790947,41.3780708"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ferhat Paşa Camii

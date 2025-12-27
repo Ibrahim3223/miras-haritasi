@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3736916,37.0565338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ayşe Bacı Camii

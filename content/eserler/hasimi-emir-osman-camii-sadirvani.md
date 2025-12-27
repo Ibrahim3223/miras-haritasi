@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9633541,41.0367622"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haşimi Emir Osman Camii Şadırvanı

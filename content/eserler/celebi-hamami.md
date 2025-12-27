@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.950787325,41.014017853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelebi Hamamı

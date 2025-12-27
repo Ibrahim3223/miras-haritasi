@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.23888889,39.9575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İlion Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7908764,40.3990707"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Ömer Camii Tanıtımı

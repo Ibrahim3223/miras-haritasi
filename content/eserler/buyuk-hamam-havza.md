@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.6567879,40.9709015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Büyük Hamam Havza: Samsun'un Tarihi Bir Mirası

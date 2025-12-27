@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.6021,40.2666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Barcın Höyük: Bursa'nın Gizli Mirası

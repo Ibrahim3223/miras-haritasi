@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9780655,39.4229279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Avcılar Sokak Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.2924004,38.8072014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amik Kalesi, Tuşba: Van'ın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.466667,40.983333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Balcılı Bağlık Camii**

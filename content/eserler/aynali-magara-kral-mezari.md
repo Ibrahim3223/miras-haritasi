@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.8492279,40.6724777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aynalı Mağara Kral Mezarı

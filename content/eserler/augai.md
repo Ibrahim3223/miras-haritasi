@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.86296,36.571185"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Augai Arkeolojik Sitinin Tanıtımı

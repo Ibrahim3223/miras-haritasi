@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9383392,41.0382653"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hüsrev Camii: Eyüpsultan'ın Tarihi Bir Mirası

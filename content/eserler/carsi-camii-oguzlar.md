@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7049904,40.7543335"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çarşı Camii, Oğuzlar

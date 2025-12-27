@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "31.920717,40.171565"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beypazarı Kalesi: Ankara'nın Tarihî ve Kültürel Mirası

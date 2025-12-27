@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.2167854,39.6989594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacıtuğrul Tümülüsü 2

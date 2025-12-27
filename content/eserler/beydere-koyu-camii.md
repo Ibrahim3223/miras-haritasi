@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.224757922,41.248252919"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beydere Köyü Camii

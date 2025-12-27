@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.303541,39.686517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Doğray Höyük: Eskişehir'in Gizli Mirası

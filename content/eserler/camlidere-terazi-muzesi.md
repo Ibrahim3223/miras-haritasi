@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.4756889,40.4904442"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çamlıdere Terazi Müzesi

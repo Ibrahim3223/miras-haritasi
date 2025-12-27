@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.3419209,37.0870171"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dağbelen Çeşmesi: Bodrum'un Tarihi Bir Çeşmesi

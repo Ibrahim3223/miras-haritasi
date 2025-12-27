@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.6681414,40.0209226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Demirkonak Höyük: Sivas'ın Gizli Öreni**

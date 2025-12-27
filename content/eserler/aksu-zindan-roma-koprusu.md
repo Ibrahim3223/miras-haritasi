@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.0848311,37.8119009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Aksu Zindan Roma Köprüsü**

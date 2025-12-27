@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0603771,41.0219994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esma Sultan Çeşmesi, Kısıklı

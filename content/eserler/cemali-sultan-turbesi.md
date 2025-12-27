@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.119392,36.71359"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cemali Sultan Türbesi

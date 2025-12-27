@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.045416666,41.210555555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Işıklı Camii

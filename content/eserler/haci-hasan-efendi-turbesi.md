@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.897432,40.270764"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Hasan Efendi Türbesi: Alucra'nın Tarihi ve Kültürel Mirası

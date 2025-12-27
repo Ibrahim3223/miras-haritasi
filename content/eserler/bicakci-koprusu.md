@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.039,36.9473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bıçakçı Köprüsü

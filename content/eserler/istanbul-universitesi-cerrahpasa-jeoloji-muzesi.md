@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.7226739,40.9891042"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi

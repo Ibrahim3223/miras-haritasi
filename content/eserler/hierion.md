@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.975806,41.031189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hierion: Antik Çağın Gizemi

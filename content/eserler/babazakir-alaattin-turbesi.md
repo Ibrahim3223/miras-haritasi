@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.075875,40.178952"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Babazâkir Âlâaddin Türbesi

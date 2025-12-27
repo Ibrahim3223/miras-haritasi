@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.1266651,37.9250412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hierapolis Direkli Kilise

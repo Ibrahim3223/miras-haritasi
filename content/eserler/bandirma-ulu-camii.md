@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.9723721,40.3519058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bandırma Ulu Camii

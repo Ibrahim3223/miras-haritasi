@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.2303085,39.8332291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hanay Tepe Höyüğü: Tarih Öncesi ve Arkeolojik Miras

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.694745206,38.72586613"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavdarlı Höyük: Afyonkarahisar'ın Eski Köyü

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.8856831,37.1776276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozdağ Savunma Yapısı, Karacaağaç

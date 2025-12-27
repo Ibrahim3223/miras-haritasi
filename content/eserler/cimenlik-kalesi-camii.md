@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3989086,40.1460533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çimenlik Kalesi Camii: Çanakkale'nin Gizli Cenneti

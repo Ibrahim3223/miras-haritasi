@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1641693,36.1999626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Caferiye Mescidi: Hatay'ın Tarihi ve Kültürel Mirası

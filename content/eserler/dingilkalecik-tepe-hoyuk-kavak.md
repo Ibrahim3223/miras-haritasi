@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.128115,41.025758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dingilkalecik Tepe Höyük: Samsun'un Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3080006,38.3228989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşme – İnönü, 2051 Sokak Çeşme

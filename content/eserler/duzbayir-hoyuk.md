@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.7348307,36.8361327"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Düzbayır Höyük: Nizip'in Gizli Anıtı

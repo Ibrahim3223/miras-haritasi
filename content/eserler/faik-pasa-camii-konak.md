@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1445351,38.419342"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Faik Paşa Camii: İzmir'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.791354059,40.069062879"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göztepe Tümülüsü

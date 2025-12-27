@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.3960571,40.9169998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hüseyin Camii: Giresun'un Önemli Dini Mirası

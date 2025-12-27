@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1625271,41.015873"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cüda Gazi Gül Baba Kabri

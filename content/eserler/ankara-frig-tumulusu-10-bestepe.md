@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8137169,39.9238129"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Frig Tümülüsü 10, Beştepe

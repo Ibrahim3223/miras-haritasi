@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9415417,41.0086403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haseki Sultan Camii Şadırvanı

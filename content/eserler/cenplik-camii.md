@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.965593,41.020379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çenplik Camii

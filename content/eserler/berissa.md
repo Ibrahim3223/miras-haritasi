@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.5072,40.0836"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Berissa: Akdeniz'in Gizli Öreni

@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "41.196944444,40.060833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Haçkavank (Karin) Manastırı**

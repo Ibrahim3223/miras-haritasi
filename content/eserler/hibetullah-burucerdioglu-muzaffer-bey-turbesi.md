@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.0151482,39.7491417"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hibetullah Burucerdioğlu Muzaffer Bey Türbesi

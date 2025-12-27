@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6465282,38.5451622"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beş Ulalı Çeşme

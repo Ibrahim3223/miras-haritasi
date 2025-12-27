@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.20784,41.8554459"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Konstantin ve Helena Kilisesi

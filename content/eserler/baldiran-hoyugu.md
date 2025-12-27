@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4452744,36.4333649"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baldıran Höyüğü: Kırıkhan'ın Gizli Mirası

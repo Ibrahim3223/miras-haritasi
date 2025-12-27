@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.4424877,37.6197815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçay Demir Köprü

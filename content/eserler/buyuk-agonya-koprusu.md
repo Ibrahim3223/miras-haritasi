@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.331377,39.8340149"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Agonya Köprüsü

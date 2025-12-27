@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.7213993,39.909626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bezirganlar Köyü Camii

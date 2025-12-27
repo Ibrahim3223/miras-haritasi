@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "36.1697083,36.5904121"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İskenderun Rum Katolik Kilisesi

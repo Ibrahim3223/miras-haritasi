@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.8383636,40.6538239"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çilehane Camii: Amasya'nın Tarihi Mirası

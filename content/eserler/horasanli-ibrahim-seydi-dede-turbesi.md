@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.4297504,38.6085052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Horasanlı İbrahim Seydi Dede Türbesi

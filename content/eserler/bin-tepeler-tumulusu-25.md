@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.97867,38.584717"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bin Tepeler Tümülüsü 25: Salihli'nin Gizemi

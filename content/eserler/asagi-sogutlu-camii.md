@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.8828011,41.2262993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aşağı Söğütlü Camii

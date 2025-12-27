@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.8195,38.3494682"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çakıltepe Tümülüsü

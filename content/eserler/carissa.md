@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.140618,40.527786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eser Özeti: Carissa Arkeolojik Sit

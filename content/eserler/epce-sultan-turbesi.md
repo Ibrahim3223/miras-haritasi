@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.5919266,38.2957001"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Epçe Sultan Türbesi

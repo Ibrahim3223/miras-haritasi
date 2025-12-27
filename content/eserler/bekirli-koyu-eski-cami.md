@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3001213,41.2261429"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bekirli Köyü Eski Cami

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.724321,41.003784"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kasım Camii

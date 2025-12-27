@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.951148,41.018595"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gülustu Kadın Efendi Türbesi

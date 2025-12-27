@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9588261,41.0227966"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsameddin İbn-i Meddas Kabri

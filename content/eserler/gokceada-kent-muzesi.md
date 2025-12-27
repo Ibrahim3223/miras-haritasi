@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "25.9037189,40.1941338"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökçeada Kent Müzesi

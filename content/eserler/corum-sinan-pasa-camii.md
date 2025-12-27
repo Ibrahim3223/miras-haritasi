@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çorum Sinan Paşa Camii: Tarihî Mirasın Gizli Çehresini Keşfettik

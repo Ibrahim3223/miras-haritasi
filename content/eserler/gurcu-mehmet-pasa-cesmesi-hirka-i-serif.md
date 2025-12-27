@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.93915,41.021637"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gürcü Mehmet Paşa Çeşmesi, Hırka-ı Şerif

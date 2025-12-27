@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3996296,40.1484337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hacı İbrahim Ağa Çeşmesi: Tarihî Bir Anıtsal Yapı**

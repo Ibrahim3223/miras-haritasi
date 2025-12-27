@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.4235382,38.6039772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaybaşı Köprüsü-1: Manisa'nın Tarihi ve Mimari Mirası

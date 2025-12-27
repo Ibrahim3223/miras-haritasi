@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.9008345,40.7752785"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dadokome: Antik Bir Arkeolojik Sitin Gizemi

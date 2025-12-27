@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.079825,41.188254"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Chalcaea: Antik Bir Kentin İzleri

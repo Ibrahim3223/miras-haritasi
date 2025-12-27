@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.954166666,38.276111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hypaipa: Ödemiş'in Gizli Mirası

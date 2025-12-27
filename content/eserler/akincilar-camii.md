@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.3699856,37.950592"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akıncılar Camii

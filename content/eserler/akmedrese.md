@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akmedrese: Tarihini ve Kültürel Mirasını Tanıtan Bir Medrese

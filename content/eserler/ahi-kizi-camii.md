@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.7038593,36.885498"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ahi Kızı Camii: Antalya'nın Gizli Cenneti**

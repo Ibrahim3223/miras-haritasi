@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9559097,41.0077286"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaca Mescit, Mesih Paşa: İstanbul'un Gizli Cenneti

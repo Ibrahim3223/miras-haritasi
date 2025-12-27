@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.5266876,39.7630615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskişehir Yunus Emre Etnografya Müzesi

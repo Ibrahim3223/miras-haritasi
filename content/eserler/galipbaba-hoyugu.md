@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.5041389,38.4210167"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Galipbaba Höyüğü: Malatya'nın Gizli Tarihi

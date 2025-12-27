@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5634327,41.7070236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akören Kara Hasan Tümülüsü 

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.4942703,37.038681"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Evciler Kalesi: Toroslar'ın Gizli Kahramanı

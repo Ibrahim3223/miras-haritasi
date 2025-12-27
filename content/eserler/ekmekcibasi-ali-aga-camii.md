@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9801159,41.0299683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ekmekçibaşı Ali Ağa Camii

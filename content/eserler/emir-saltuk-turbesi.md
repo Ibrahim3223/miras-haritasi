@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.2785416,39.9039497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Saltuk Türbesi

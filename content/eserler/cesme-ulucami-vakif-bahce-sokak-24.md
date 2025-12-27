@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1795216,39.1255226"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme – Ulucami, Vakıf Bahçe Sokak, 24: Bergama'nın Tarihi Bir Çeşmesi

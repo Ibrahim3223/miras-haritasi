@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5265865,38.7571068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavuşbaş Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.036367,38.470067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncesırım Mevkii Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9797935,41.0031433"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hamamizade İsmail Dede Efendi Evi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.9325428,38.935154"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ali Ağa Mescidi Duvar Çeşmesi

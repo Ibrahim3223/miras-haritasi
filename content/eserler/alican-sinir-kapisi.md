@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.17893,40.02822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alican Sınır Kapısı: Karakoyunlu'nun Gizli Mirası

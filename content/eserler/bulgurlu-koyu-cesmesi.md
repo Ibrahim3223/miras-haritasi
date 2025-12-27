@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.070048,41.018431"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bulgurlu Köyü Çeşmesi

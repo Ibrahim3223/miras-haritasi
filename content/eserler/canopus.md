@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.963627,41.032779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Canopus: Mavi Denizin Karşılarında Yükselen Bir Antik Kent

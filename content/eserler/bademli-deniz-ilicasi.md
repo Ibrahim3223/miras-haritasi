@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.799387,38.99658"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bademli Deniz Ilıcası: Dikili, İzmir'de Bir Tarihsel Hamam

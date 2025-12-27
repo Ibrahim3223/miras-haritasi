@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.8417756,39.1653907"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gelenbe Köprüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.768733,39.804917"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağapınar Arkeolojik Sit

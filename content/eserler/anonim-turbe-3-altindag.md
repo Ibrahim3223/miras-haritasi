@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.853941654,39.942405376"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anonim Türbe-3: Ankara'nın Gizli Bir Özellisi

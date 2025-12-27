@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.977894,41.037518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Mahmut Han Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi

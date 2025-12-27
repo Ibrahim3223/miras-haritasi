@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0662193,40.1144562"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Daskyleion Tümülüsü 7: Tarihi ve Kültürel Miras

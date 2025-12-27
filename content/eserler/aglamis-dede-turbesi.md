@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.040012914,41.233850685"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağlamış Dede Türbesi

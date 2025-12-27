@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9761204,41.034889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Kutsal Teslis Melkite Rum Katolik Katedrali

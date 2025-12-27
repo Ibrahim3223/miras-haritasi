@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.1390839,38.4444923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağzıkarahan Köprüsü

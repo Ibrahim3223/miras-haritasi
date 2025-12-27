@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.6999722,38.2570076"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beyce Sultan Türbesi: Çivril'in Tarihi Bir Mirası

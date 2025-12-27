@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.1183395,40.9319153"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Geyikli Camii

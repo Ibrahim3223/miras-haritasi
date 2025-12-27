@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.543314,38.7508774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Nasuh Çeşmesi

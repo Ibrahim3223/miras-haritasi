@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9266987,41.0014458"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Beşir Ağa Çeşmesi, Sümbül Efendi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

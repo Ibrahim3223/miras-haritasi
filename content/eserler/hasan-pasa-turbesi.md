@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.504921,37.8705215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Paşa Türbesi: Konya'nın Tarihî Mirası

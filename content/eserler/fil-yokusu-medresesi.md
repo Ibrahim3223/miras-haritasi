@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.959054,41.021437"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fil Yokuşu Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

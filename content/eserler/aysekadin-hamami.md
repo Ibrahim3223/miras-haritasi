@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.961734,41.014786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayşekadın Hamamı

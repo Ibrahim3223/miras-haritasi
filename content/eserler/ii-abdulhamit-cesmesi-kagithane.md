@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.975224,41.079594"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### II. Abdülhamit Çeşmesi, Kağıthane

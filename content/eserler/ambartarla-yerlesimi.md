@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.475956,40.1253357"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ambartarla Yerleşimi: Çanakkale'nin Gizli Tarihi

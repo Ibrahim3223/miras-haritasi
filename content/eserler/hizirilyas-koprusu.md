@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.455513,40.449666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hızırilyas Köprüsü

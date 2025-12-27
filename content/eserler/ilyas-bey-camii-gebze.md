@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.4404812,40.7996292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlyas Bey Camii, Gebze

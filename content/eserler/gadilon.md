@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.894016,41.571325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gadilon Arkeolojik Sit

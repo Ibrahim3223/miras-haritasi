@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.28610278,40.23447778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### 4. Tabur Tören Alanı Mezarlığı

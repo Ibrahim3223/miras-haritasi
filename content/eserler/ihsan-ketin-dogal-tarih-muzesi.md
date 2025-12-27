@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.026111111,41.104722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İhsan Ketin Doğal Tarih Müzesi

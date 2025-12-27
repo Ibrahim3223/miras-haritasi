@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.862758,41.628771"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hisarlık: Edirne'nin Gizli Tarihi ve Kültürel Mirası

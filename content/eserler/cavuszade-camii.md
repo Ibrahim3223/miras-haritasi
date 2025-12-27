@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9408684,41.0046806"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çavuşzade Camii

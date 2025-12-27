@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.901111111,38.869444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alia Arkeolojik Sitesi

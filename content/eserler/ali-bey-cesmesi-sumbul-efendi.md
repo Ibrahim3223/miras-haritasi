@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.924622,41.001153"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Bey Çeşmesi, Sümbül Efendi: Fatih'te Bir Zümrüt

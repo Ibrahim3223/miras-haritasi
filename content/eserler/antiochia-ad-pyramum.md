@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.34619,36.54423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Antiochia ad Pyramum: Adana'nın Eski Şehri

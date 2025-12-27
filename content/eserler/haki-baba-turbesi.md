@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9295345,41.0527046"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haki Baba Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0899525,40.1559372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Daskyleion Tümülüsü 4

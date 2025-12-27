@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.7429466,37.5217094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Helil Kilisesi

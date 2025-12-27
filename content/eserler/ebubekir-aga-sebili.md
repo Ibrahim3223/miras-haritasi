@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.950204,41.009133"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ebubekir Ağa Sebili: Fatih'in Gizli Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.718835773,37.683483466"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eşrefoğlu Süleyman Bey Türbesi

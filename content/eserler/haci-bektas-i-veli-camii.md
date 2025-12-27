@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.5624199,38.9426651"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Bektaş-ı Veli Camii: Tarihî ve Kültürel Özellikleri

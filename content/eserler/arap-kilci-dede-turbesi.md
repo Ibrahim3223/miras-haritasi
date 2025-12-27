@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.87846655,39.651171869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arap Kılcı Dede Türbesi

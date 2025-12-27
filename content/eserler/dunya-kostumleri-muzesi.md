@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.56238,41.0151"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dünya Kostümleri Müzesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9707088,41.0319977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatmalı Mescit

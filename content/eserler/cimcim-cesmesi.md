@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.4026318,38.6779289"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Uşak'ta Tarihi Bir Çeşme: Cimcim Çeşmesi

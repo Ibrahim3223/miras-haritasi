@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1814003,39.1209984"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çeşme – Turabey, Emin Ağa Çıkmazı**

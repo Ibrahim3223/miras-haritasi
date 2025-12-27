@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5505867,41.6718712"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Attar Hacı Halil Mescidi

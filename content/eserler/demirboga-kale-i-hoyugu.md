@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4839649,39.1139627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirboğa Kale I Höyüğü

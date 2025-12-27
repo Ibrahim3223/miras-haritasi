@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.0389862,37.7960281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 2 – Dereköy: Aydın'ın Gizli Çeşmesi

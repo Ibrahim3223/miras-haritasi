@@ -12,7 +12,7 @@ turler: ["Saat Kulesi"]
 coords: "33.614888888,40.603277777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çankırı Saat Kulesi

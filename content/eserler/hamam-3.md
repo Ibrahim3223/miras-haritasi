@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3652,37.9547005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Selçuk'un Tarihi Hamamı: Hamam 3

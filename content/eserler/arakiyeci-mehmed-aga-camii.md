@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.925305555,41.012083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arakiyeci Mehmed Ağa Camii

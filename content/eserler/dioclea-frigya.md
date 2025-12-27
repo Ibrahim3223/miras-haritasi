@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.88814,38.6638015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dioclea (Frigya) Arkeolojik Sit

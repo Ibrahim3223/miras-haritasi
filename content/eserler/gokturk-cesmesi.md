@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.8896585,41.1785593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göktürk Çeşmesi: Eyüp'te Bir Önemli Kültür Mirası

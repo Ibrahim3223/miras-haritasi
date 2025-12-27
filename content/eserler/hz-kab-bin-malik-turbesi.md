@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.940725,41.039578"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Kab Bin Malik Türbesi

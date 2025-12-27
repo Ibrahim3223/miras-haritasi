@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.840474,39.943568"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumhuriyet Devri Müzesi: Ankara'nın Kültür Mirası

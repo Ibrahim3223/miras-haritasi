@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9657192,41.0052452"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çadırcı Mescidi Çeşmesi

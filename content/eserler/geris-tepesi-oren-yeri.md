@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.7661629,41.9637985"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Geriş Tepesi Ören Yeri

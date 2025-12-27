@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4905608,38.7249795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacip Çavlı Kümbeti

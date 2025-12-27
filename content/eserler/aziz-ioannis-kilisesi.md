@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.6866741,41.2714615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziz İoannis Kilisesi

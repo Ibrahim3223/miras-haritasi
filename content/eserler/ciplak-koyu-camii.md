@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.261981756,39.95179331"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çıplak Köyü Camii: Çanakkale'nin Gizli Cenneti

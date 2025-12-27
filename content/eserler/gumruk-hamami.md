@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.2803879,39.9129295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümrük Hamamı

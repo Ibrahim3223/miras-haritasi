@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.3025017,40.6536903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bana Mağara Kilisesi

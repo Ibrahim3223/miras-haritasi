@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.125206,38.3198051"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çeşme, Gaziemir: Bir Tarihi Örneğin Gizemi**

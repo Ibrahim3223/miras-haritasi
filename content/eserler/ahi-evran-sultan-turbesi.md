@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.971664,39.417658"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Evran Sultan Türbesi

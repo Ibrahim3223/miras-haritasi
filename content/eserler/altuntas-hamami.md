@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "35.8262749,40.6518936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Altuntaş Hamamı: Amasya'nın Tarihi ve Kültürel Mirası

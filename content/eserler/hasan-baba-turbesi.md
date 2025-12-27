@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.880843,39.649017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hasan Baba Türbesi

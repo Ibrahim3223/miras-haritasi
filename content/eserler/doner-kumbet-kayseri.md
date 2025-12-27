@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.495919,38.714035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Döner Kümbet, Kayseri: Bir Önemli Anıtın Tanımı

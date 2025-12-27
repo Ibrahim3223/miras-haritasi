@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.947617,41.021792"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hafız Ahmet Paşa Darülkurrası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8673897,39.9352684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İptidai Mektebi Çeşmesi

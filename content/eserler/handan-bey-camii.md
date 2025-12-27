@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3822632,37.0648575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Handan Bey Camii

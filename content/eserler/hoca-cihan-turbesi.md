@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4613419,37.883564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Cihan Türbesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.694242445,36.732057399"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burgaz Hamam Kilise Yapısı

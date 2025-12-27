@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.252111111,40.312638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gelibolu Newfoundland Anıtı

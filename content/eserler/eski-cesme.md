@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.8988304,38.5771446"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Çeşme: Eşme'nin Tarihî Bir Çeşmesi

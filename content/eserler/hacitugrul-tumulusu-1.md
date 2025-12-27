@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.246624,39.7105827"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacıtuğrul Tümülüsü 1: Polatlı'nın Gizli Kutsalı

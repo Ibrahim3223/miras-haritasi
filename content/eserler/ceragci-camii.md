@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.951786,41.025135"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çerağcı Camii

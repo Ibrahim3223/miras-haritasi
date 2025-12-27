@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.914629,38.7104912"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halime Hatun Camii: Manisa'nın Tarihi ve Kültürel Mirası

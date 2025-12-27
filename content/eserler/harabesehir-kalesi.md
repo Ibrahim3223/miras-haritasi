@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "42.454899956,38.747723533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Harabeşehir Kalesi

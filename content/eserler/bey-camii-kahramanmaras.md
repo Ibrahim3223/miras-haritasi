@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9351006,37.5815125"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bey Camii, Kahramanmaraş

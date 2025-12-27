@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5053349,41.781826"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Beypınar Muhtar Tepesi Tümülüsü

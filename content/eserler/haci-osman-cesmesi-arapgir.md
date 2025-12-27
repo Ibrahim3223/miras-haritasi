@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.524266471,38.881718391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Osman Çeşmesi: Arapgir'in Tarihi ve Kültürel Mirası

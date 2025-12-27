@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.3505,38.2711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Battalgazi Köprüsü: Tarihi ve Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.2266827,40.984436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme Kalıntısı, Sancaktepe

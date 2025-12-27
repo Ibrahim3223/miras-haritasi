@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.0455685,38.5722847"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alyattes Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.004375,41.132583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ahiza (Güney) Kilisesi: Ferhatlı, Ardanuç'ta Bir Tarih Öreni

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "34.897947,38.59"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aziz Basilos Kilisesi

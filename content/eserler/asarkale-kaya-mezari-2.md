@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.7647591,41.3736305"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asarkale Kaya Mezarı -2: Tarihî ve Kültürel Mirasın Gizemi

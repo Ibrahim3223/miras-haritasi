@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8706894,39.9368668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Azimi Türbesi: Altındağ, Ankara'da Bir Geçmişe Saygı

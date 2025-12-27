@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.934782,41.046534"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cafer Paşa Külliyesi Mescit ve Dershanesi

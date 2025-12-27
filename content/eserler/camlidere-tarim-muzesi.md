@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.475899467,40.490444267"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çamlıdere Tarım Müzesi: Türkiye'nin Tarımsal Mirası

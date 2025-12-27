@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.0715256,41.034565"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İslam Medeniyetleri Müzesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.045836,41.14813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İshak Ağa Çeşmesi, Kireçburnu

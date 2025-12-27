@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9204845,40.7678375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakmaklı Çeşmesi

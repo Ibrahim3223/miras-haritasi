@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3062477,38.321949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Mehmet Ağa Çeşmesi

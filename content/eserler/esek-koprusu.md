@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "34.1342812,36.6219406"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Eşek Köprüsü: Mersin'in Efsanevi Köprüsü

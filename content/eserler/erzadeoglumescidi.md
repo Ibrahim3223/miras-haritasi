@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.444537227,38.823332937"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erzadeoğlu Mescidi: Kayseri'nin Gizemli Camisi

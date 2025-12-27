@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.1967,38.0881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Barsalion Arkeolojik Sit

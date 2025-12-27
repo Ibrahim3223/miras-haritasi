@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.36565,40.969633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Denizgören Köprüsü

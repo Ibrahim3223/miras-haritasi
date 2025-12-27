@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8276329,36.0751801"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ak Camii Tanıtımı

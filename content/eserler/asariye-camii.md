@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.012753,41.04405"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asariye Camii: Yıldız'ın Gizli Çehresini Keşfeden Bir Cami

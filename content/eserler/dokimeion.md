@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.75,38.86666667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokimeion Arkeolojik Sit

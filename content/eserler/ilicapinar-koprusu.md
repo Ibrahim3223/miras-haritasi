@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.54209,36.93898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ilıcapınar Köprüsü

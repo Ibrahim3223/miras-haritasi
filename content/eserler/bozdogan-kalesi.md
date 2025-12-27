@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.2991943,37.6723824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozdoğan Kalesi

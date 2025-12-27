@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.002438,41.891894"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aigialus: Antik Çağın Gizemi

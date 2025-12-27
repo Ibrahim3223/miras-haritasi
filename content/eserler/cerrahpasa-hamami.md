@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.9454498,41.0077705"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cerrahpaşa Hamamı: Geçmişten Geleceğe Etkileyici Bir Miras

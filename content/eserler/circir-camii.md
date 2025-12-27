@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2738304,39.901413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çırçır Camii

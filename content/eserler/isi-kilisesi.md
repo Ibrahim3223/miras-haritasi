@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.616375,40.576005555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsi Kilisesi

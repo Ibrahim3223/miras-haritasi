@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.0113297,40.6444473"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çimpe Kalesi: Çanakkale'nin Gizli Zirvesi

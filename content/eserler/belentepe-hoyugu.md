@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.0607504,36.9579103"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Belentepe Höyükü: Musabeyli'nin Tarihsel Mirası

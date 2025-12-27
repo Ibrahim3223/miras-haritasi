@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4329262,38.6089058"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İmadüddin Vakfı Çeşmesi

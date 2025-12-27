@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6654701,40.4734192"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağıpelitözü Höyüğü: Türkiye'nin Gizli Kıvılcımı

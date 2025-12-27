@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.165434435,39.697977727"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antik Mezar Kalıntısı, Akçakeçili

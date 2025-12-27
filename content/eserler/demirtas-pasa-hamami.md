@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.0710904,40.1883152"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirtaş Paşa Hamamı: Bursa'nın Bir Güzelliği

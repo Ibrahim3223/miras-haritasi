@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.7014519,37.1502735"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dumlu Kalesi: Ceyhan'ın Tarihi Şerefine

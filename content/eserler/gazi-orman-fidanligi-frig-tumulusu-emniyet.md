@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8072357,39.9348831"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Orman Fidanlığı Frig Tümülüsü, Emniyet

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.808751,40.404585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aureliane: Roma'nın Altın Çağının Anıtı

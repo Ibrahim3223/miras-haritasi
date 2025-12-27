@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.8798561,39.6460953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamidiye Kütüphanesi: Balıkesir'de Bir Kültür Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.9624062,40.5906563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halil Efendi Camii: Tokat'ın Tarihî Bir Mirası

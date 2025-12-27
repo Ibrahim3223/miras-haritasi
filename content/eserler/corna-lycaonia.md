@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.467014,37.489139"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Lykaonya'da Gizli Bir Şehir: Corna

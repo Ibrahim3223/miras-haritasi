@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.0519028,36.9733543"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Anıtı, Yenice: Tarsus'un Ölümsüz Anıtı

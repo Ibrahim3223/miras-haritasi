@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.006245,41.056488"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hamidiye Çeşmesi, Dikilitaş

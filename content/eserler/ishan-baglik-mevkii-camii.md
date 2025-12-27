@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.7614344,40.7718554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İşhan Bağlık Mevkii Camii: Artvin'in Kıymetli Bir Kültürel Mirası

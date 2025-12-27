@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.981014,41.034754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bahçeli Hamam: İstanbul'un Tarihi Bir Hamamı

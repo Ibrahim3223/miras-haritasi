@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.976467,39.80695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Doğancı Höyük: Eskişehir'in Gizli Mirası

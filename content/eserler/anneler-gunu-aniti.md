@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0485439,40.9856949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anneler Günü Anıtı

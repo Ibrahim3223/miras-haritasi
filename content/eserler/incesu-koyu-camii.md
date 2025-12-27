@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.2814674,38.0292397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncesu Köyü Camii: Isparta'nın Kıymetli Bir Camisi

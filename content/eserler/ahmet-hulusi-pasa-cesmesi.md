@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.949413,41.013676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Hulusi Paşa Çeşmesi: İskenderpaşa'nın Tarihî Bir Cephesi

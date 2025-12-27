@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.07519,38.668396"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Manisa'nın Gizli Mabeti: Daldis

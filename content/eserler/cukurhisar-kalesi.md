@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.5571556,37.8213387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çukurhisar Kalesi**

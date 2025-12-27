@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.4696178,40.7314148"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hayreddin-i Tokadî Efendi Türbesi

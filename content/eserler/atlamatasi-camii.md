@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9608631,41.0206108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Atlamataşı Camii

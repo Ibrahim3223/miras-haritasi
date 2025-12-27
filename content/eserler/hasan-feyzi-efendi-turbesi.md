@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.082286,37.764384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Feyzi Efendi Türbesi

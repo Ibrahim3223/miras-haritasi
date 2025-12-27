@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.8670082,39.9462242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hıdırlık Türbesi

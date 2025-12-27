@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.5321007,38.4039993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büberoğlu Camii: İzmir'nin Tarihi Bir Mirası

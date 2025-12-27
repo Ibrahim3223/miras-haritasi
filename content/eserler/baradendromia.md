@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.026045,40.98169"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Baradendromia: Tarihi ve Kültürel Miras

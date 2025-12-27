@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1051655,38.4045372"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsnü Ataberk Camii: İzmir'in Tarihi Bir Ören Yeri

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4886398,37.8692741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdülaziz Mescidi: Selçuklu Döneminin Değerli Mirası

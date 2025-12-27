@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.230555555,40.059722222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elaeus: Çanakkale'nin Gizli Mirası

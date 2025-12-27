@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.337222222,37.488611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Assos: Türkiye'nin Eski Bir Kenti

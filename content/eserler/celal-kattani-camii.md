@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8625145,39.9357262"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Celal Kattani Camii: Altındağ'un Tarihi Çağı

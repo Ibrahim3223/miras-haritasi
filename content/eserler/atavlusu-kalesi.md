@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.7727947,37.5069695"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atavlusu Kalesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.8664818,37.6780777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Celladın Köprüsü: Adıyaman'ın Gizli Çehresini Görmezden Gelmemek

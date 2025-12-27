@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.9145167,38.2650534"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boz Höyük, Ilgın: Konya'nın Gizli Cenneti

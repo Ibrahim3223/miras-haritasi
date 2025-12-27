@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9725723,39.4150124"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukur Çeşme Camii: Kütahya'nın Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2693787,37.125679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dereköy Camii: Karaman'ın Gizli Müktesebatı

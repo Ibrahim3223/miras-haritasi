@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3783875,42.0040741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayık Yazılıtaş B Tümülüsü: Kırklareli'nin Gizli Harikası

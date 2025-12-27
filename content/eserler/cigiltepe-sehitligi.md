@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.2620716,38.6893539"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çiğiltepe Şehitliği

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.989077,39.652512"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs I

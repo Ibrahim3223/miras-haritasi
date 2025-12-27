@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.7747345,41.3779945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Frenkşah Hamamı: Kastamonu'nun Tarihî Bir Mirası

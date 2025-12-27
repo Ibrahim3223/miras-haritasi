@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.0921097,40.1621475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bal Hatun Camii

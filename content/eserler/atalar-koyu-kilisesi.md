@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.457341,40.584696"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atalar Köyü Kilisesi: Tarihi ve Kültürel Miras

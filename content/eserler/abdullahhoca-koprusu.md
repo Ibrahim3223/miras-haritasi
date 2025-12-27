@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.7822167,41.0776667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdullahhoca Köprüsü: Rize'nin Tarihi Yapraklarından Birisi

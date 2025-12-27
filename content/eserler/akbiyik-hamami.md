@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.979616,41.003493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akbıyık Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası

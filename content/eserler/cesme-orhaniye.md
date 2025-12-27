@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.671196,40.1031532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Orhaniye

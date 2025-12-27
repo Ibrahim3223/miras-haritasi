@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.344087,37.245212"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Augusta (Kilikya)

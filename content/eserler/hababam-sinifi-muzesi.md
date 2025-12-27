@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.04195739,41.013815497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hababam Sınıfı Müzesi

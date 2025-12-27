@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.99391,39.652786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gordion Tümülüs T35 – KY: Ankara'nın Gizli Kahramanı

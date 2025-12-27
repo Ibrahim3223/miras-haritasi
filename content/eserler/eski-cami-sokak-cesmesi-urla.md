@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7675514,38.3204117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Cami Sokak Çeşmesi: Urla'da Bir Kentin Gizli Kâşifleri

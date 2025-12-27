@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.071787,40.188277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirtaş Osmangazi Cami: Eskişehir'in Değerli Camii

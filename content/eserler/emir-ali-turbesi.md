@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4961929,38.7126541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emir Ali Türbesi

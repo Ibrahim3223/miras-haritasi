@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.358,41.365027777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoraklı Köyü Camii

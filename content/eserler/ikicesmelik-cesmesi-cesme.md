@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.3105278,38.2806854"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkiçeşmelik Çeşmesi: Çeşme'nin Tarihi Bir Sembolü

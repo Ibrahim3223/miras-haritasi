@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.545527,40.662923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Horoztepe: Tokat'taki Tarihî ve Kültürel Miras

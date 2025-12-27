@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9881296,41.0321118"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dildade Usta Çeşmesi: Beyoğlu'nun Gizli Çeşmesi

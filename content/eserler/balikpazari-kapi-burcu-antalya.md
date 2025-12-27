@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "30.7057247,36.8840828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Balıkpazarı Kapı Burcu: Antalya'nın Tarihi Mirası**

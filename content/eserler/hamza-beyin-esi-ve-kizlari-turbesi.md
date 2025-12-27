@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0415421,40.1921501"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamza Bey’in Eşi ve Kızları Türbesi

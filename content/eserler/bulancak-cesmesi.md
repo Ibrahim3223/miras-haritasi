@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.2310181,40.9388657"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bulancak Çeşmesi: Giresun'un Gizli Çeşmesi

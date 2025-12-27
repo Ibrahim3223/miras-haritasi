@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8996239,41.187088"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalı IV Tümülüsü: Edirne'nin Gizli Mirası

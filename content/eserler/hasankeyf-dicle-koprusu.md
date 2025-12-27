@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.4110044,37.7143868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hasankeyf Dicle Köprüsü

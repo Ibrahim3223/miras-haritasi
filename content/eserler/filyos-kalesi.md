@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.030017,41.573406"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Filyos Kalesi: Tarih, Mimarisi ve Ziyaret Bilgileri

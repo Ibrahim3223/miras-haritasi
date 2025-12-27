@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.9565239,36.445755"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Demircili Çifte Anıt Mezar: Silifke'nin Gizli Çiçeği

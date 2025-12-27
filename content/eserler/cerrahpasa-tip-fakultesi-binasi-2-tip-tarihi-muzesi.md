@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9402199,41.0062485"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cerrahpaşa Tıp Fakültesi Binası 2, Tıp Tarihi Müzesi

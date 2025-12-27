@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.5596657,40.5860939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Avni-Jale Özken Marmara Adalar Müzesi

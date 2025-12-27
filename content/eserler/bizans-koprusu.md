@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.09487,41.964014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bizans Köprüsü: Sinop'un Tarihi Bir Mirası

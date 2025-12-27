@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9767456,41.0094337"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Esad Efendi Kütüphanesi

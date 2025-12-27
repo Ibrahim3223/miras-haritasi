@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.0435,40.973"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hieria: İyon Kökenli Bir Kutsal Yer

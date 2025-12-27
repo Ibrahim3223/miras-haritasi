@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.5236397,38.6239777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Carullah bin Süleyman Camii

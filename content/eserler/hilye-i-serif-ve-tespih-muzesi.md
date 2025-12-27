@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.966288823,41.017163222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hilye-i Şerif ve Tespih Müzesi**

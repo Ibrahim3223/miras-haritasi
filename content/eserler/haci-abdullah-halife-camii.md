@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.619085,40.756923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Abdullah Halife Camii: Yağlıdere'nin Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.6950016,39.3137321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Triada Kilise Çeşmesi

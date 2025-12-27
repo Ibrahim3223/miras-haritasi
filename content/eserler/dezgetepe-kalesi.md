@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "41.1371155,37.7628365"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dezgetepe Kalesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.0853119,40.567585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Askerboğan Tepe Höyük: Tarih ve Kültürel Miras

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.188221,37.3241158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Nuh Makamı

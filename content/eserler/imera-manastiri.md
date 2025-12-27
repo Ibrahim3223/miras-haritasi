@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "39.586833333,40.535444444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmera Manastırı

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.032856,39.6082191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Behramşah Türbesi: Kemah'ın Altın Çağı

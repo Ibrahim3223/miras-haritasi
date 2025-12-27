@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "26.8160725,38.2428436"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Düzce Köyü Medresesi

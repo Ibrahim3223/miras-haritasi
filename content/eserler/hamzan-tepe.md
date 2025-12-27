@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.8014984,37.0827751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hamzan Tepe: Şanlıurfa'nın Gizli Öyküsü**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1030006,40.9761391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ali Gazi Baba Hazretleri Türbesi

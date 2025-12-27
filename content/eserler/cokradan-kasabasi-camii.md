@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.575569098,39.331621253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çokayran Kasabası Camii: Yozgat'ta Bir Önemli Cami

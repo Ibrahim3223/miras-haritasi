@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5447371,41.678014382"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca İlyas Camii: Edirne'nin Tarihi Bir Anıtı

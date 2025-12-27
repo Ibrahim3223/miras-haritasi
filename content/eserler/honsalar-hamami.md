@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.7705803,41.3800774"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Honsalar Hamamı

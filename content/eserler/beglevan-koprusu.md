@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.64405,41.45129"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beğlevan Köprüsü

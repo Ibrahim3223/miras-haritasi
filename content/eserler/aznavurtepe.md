@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "42.834333,39.249627"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aznavurtepe: Ağrı'nın Gizli Güzeli

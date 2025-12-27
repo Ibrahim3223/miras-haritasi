@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.5319862,40.5360489"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayios Athanasios Kilisesi

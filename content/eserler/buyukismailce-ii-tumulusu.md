@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.4726276,41.8190308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Büyükismailçe II Tümülüsü

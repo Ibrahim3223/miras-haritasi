@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.4986649,37.8728142"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Efendi Muallimhanesi: Karatay, Konya'da Bir Medrese'nin Gizli Çehresi

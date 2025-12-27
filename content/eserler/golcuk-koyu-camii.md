@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.9833565,39.3142738"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gölcük Köyü Camii: Balıkesir'in Tarihî Mirası

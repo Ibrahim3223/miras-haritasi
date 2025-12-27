@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7675209,41.6970062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacıumur B Tümülüsü: Edirne'nin Gizli Kahramanı

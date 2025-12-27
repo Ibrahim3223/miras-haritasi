@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5340214,38.7581406"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Baş Çeşme Camii: Afyonkarahisar'ın Tarihsel Bir Değerini Keşfedin

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.4548149,38.3206673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Böget Höyüğü: Aksaray'ın Gizli Kahramanı

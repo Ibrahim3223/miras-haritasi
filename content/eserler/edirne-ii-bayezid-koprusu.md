@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.544101,41.684371"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edirne II. Bayezid Köprüsü

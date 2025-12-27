@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.86222222,39.15388889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ancyra (Frigya) Tanıtım Yazısı

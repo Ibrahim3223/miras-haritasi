@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "43.7378871,40.7297423"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Doğukapı Tren İstasyonu: Kars'ın Tarihi Bir Kervansarayı

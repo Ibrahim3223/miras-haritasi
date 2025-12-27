@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.8463776,40.0372654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beşpınar Höyüğü: Tarihi ve Kültürel Mirası

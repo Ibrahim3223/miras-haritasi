@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.377334495,37.061473464"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Anı Müzesi

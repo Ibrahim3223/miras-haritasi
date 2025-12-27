@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.924188,41.000375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Mahmut Han Çeşmesi, Yedikule: Bir İmparatorlukun İkna Edici Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8539143,41.6382484"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasköy B Tümülüsü: Tarihî Bir Eserin Gizemi

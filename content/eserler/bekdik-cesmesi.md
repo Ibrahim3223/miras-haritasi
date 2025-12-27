@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.7092056,38.6197281"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bekdik Çeşmesi: Nevşehir'in Tarihi ve Kültürel Mirası

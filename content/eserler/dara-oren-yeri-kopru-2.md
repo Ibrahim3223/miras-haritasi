@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9537849,37.1789093"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dara Ören Yeri – Köprü 2: Mardin'in Gizli Cenneti

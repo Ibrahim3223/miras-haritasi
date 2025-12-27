@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.781319,38.997645"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bağçesme Höyük: Manisa'nın Gizli Kahramanı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.2593079,38.7055168"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dabakhane Mescidi: Elazığ'ın Tarihi ve Kültürel Mirası

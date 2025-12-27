@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.5190582,38.0022545"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Buzlukbaşı Köprüsü

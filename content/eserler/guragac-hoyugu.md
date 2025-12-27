@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.7030668,37.257563"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gürağaç Höyüğü

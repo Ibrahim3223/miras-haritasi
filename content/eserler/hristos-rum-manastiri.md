@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.0500126,40.9059944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hristos Rum Manastırı

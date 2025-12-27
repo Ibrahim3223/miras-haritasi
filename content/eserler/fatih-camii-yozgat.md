@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.8042259,39.8223152"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Camii: Yozgat'ın Tarihi Bir Mirası

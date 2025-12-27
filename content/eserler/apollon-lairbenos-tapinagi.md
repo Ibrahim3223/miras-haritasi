@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.2805824,38.2147484"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Apollon Lairbenos Tapınağı

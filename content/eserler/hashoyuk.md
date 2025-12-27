@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.183681,39.452114"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hashöyük: Kırşehir'in Gizli Zirvesi

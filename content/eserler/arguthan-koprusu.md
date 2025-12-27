@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "31.7142162,38.2961769"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arguthan Köprüsü: Akşehir'in Tarihi ve Mimari Mirası

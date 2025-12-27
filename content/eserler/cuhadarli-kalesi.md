@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "36.4511185,37.558918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çuhadarlı Kalesi: Kahramanmaraş'ın Gizli Ören Yeri**

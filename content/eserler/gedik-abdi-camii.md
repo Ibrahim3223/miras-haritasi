@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.965898,41.037319"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gedik Abdi Paşa Camii

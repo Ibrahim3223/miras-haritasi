@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9499681,38.6324711"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çataltepe Köprüsü: Uşak'ta Bir Tarihî Köprü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9769802,41.0317841"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ferenc Liszt Duvar Anıtı: İstanbul'un Kültür Mirasının Bir Parçası

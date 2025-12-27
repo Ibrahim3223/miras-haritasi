@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9268227,40.7619133"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İzmit Yalı Cami

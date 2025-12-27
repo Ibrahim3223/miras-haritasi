@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.7931385,37.5799828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Avdan Baba Türbesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.5608482,38.7397652"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Germir Aşağı Cami

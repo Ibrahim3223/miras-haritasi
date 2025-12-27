@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.4067993,40.2503014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Emetullah Kadın Çeşmesi

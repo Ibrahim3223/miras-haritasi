@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.65315358,37.433396049"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balçıkhisar Köprüsü

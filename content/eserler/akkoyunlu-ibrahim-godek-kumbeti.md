@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "44.608655852,39.787914188"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akkoyunlu İbrahim Gödek Kümbeti

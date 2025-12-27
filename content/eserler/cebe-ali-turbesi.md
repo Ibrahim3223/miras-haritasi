@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.958663,41.02626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cabe Ali Türbesi: Fatih'teki Hicazlı Mütevelli'nin Eşiyle Bağlı Bir Anıt

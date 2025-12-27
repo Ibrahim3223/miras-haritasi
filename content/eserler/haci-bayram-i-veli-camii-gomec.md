@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8325996,39.3822136"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Bayram-ı Veli Camii, Gömeç

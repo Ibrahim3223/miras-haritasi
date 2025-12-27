@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.8055649,39.9241486"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ankara Frig Tümülüsü 14, Beştepe: Tarihî Bir Miras

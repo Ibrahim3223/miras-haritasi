@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8761005,41.7482414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkihöyükler 2 Tümülüsü

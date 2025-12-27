@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.49263,37.8734398"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## I.İzzeddin Keykavus Türbesi

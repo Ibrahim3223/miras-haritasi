@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.6083336,37.7251511"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Mustafa Ağa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "32.739279,36.035227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çoban Kalesi, Anamur

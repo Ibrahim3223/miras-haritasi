@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "39.6372871,39.0834694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ambar Kalesi: Tunceli'nin Gizli Kalesi

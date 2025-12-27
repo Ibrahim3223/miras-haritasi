@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.981944444,40.143611111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bilecik Müzesi: Bir Tarihî Kentin Kültürel Mirası

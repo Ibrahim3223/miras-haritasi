@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.8359947,40.6590805"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Amasya Milli Mücadele Müzesi Saraydüzü Kışla Binası

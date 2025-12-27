@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.5144997,41.5996017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çayözü Köyü Camii: Kastamonu'nun Gizli Cenneti

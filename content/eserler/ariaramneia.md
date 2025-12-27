@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.165436,38.124885"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ariaramneia: Antik Çağın Gizemli Yerleşimi

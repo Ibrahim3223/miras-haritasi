@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.7816391,41.3793068"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deveciler Camii: Kastamonu'nun Tarihî Mirası

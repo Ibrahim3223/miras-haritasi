@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.7409501,36.9319227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsili Höyük: Adana'nın Gizli Mirası

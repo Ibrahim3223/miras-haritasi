@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1326427,38.4130936"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkiçeşmelik Çeşmeleri, Konak

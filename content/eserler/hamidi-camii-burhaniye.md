@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9769154,39.5092735"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hamidiye Camii, Burhaniye

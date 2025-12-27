@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "37.370376383,37.061526709"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gaziantep Münif Paşa İl Halk Kütüphanesi

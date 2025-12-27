@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.542433,39.1366"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akpınar: Bir Geç Klasik Dönem Arkeolojik Sit

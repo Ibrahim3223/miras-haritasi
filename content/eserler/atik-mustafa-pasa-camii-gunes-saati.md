@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9440937,41.0386925"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atik Mustafa Paşa Camii Güneş Saati

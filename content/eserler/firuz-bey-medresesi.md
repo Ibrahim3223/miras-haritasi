@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.7801437,37.3175392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Firuz Bey Medresesi

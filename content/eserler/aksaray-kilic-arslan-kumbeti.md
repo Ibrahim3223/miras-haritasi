@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.0540466,38.3733521"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aksaray Kılıç Arslan Kümbeti: Anıtsal Bir Miras

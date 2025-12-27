@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3758831,40.158596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsimsiz Topçu Yüzbaşı Şehitliği: Eceabat'taki Bir Anıtın Tarihi ve Özellikleri

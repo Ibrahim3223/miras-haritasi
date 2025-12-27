@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.067816,41.011834"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bodrumi Camii Çeşmesi

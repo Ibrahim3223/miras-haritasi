@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9572582,41.0257111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Küçükmustafapaşa Çeşmesi: İstanbul'un Gizli Çeşme Harikası

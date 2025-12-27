@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.21666667,41.23333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Caenophrurium

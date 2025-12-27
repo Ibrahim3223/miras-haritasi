@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.9838943,37.5776138"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Adada Antik Tiyatrosu: Isparta'nın Gizli Çehresini Keşfedin

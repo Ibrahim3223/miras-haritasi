@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.774125,39.222419"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Dede Türbesi: Ayvalık'ın Tarihî Bir Mirası

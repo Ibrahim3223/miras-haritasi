@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.3260442,37.8065066"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumhuriyet Camii: Honaz'da Bir Tarihi ve Kültürel Miras

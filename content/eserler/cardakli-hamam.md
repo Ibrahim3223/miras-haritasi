@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.972531,41.003506"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çardaklı Hamam: Fatih'te Bir Geçmişin Mirası

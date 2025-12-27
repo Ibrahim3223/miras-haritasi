@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "27.2215576,41.7327805"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayayani Kilisesi: Kırklareli'nin Gizli Çehresini Açan Kıymetli Bir Eser

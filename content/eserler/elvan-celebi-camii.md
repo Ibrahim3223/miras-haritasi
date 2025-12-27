@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.979187,41.0151176"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elvan Çelebi Camii: Fatih'te Gizlenmiş bir Cennet

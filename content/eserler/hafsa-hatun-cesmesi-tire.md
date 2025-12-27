@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7503052,38.0871468"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hafsa Hatun Çeşmesi: Tarih ve Sanatın Edepsiz Bir Örneği

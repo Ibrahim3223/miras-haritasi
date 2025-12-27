@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.838897,40.544506"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İdeli Kilisesi: Oltu'da Gizlenen Tarihî Bir Anıt

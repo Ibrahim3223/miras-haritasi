@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.935212,41.00663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hekimoğlu Ali Paşa Camii Çeşmesi

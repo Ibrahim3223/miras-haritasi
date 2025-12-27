@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.3220673,37.9034882"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ali Ağa Camii: Nazilli'nin Gizli Çeşmesi

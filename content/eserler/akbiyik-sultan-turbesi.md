@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.062472,40.182028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akbıyık Sultan Türbesi

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.354828,36.248795"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Demirköprü Köprüsü

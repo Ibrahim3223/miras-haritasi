@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.046082,40.010723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaybeyi Höyük: Erzurum'un Gizli İncisi

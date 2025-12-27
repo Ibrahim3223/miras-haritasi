@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2342774,40.8811934"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hilmi Abbas Camii: Pendik, İstanbul'un Tarihi Mirası

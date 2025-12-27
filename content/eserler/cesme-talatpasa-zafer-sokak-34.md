@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1830006,39.1245003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çeşme – Talatpaşa, Zafer Sokak, 34: Bergama'nın Tarihi Bir Çeşmesi

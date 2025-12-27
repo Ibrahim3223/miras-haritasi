@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "33.8403702,37.8186073"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gıcan Kalesi

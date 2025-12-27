@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "37.01371,39.7496758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 #### Atatürk Kongre ve Etnoğrafya Müzesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6534345,39.6918839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çapanoğlu Camii: Yozgat'ın Zirvesinde Bir Kent Camisi**

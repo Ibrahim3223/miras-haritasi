@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4164486,37.1032257"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsamettin Efendi Camii: Muğla'nın Tarihi Bir Mirası

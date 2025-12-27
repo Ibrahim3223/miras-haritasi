@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.067326,37.776532"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hüseyin Hulusi Efendi Türbesi**

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "33.699573,37.36465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ayrancı Köprüsü

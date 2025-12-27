@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1431236,38.4211273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fettah Camii

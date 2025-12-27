@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.4059219,37.0403442"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Halikarnas Balıkçısı Mezarı ve Müzesi**

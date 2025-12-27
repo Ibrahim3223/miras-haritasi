@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "34.2900047,36.9919472"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Arslanköy Kalesi: Mersin'in Gizli Kahramanı

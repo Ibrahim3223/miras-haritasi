@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "34.1403999,38.444767"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ağzıkarahan Hamamı

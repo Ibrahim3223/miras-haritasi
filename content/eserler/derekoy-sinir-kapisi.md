@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "27.45898,41.96773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dereköy Sınır Kapısı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.2055757,39.1850443"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çomaklı Höyük: Boğazlıyan'ın Gizli Anıtı

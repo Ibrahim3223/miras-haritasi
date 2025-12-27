@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.978878,37.0308342"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Baba Hamamı Tanıtımı

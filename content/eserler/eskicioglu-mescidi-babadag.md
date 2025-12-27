@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.8557911,37.8064804"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskicioğlu Mescidi: Babadağ'ın Tarihi ve Kültürel Mirası

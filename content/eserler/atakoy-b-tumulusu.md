@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4485512,41.5912704"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ataköy B Tümülüsü

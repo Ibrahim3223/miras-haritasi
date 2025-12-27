@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.809233356,37.858084706"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dedekuyusu Höyüğü

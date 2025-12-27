@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.1745338,40.4187317"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümüşdamla Köprüsü

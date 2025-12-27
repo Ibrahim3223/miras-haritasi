@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.2626076,41.0438881"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gökgöl Camii

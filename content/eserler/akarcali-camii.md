@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1268864,38.4116516"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Akarcalı Camii

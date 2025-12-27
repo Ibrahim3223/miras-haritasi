@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4624996,37.8522987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 1 – Gümüş: Aydın'ın Gerçek Değerini Yansıtan Bir Örnek

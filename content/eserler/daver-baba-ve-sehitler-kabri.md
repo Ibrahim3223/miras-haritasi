@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.1453285,40.96241"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Daver Baba ve Şehitler Kabri

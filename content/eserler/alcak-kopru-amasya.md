@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "35.8305473,40.6519279"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alçak Köprü, Amasya

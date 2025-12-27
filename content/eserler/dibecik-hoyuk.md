@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.6495338,36.816514"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dibecik Höyük: Gaziantep'in Gizli İncisi

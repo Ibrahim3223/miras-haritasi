@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.675716,39.8690595"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gerdekkaya Höyük: Sivas'ın Ölümsüz Mirası

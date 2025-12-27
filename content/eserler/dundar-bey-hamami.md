@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.8493729,37.875145"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dündar Bey Hamamı

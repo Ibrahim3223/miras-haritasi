@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9462299,41.0082741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Kethüda Kabri ve Haziresi

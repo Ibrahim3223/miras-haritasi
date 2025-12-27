@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.9217682,40.7636757"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmaret Camii: İzmit'te Bir Tarihi Miras

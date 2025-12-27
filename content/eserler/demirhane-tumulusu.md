@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.788662,41.820179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirhane Tümülüsü: Tarihî Bir Miras

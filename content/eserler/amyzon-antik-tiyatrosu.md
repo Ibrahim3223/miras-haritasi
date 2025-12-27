@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "27.712517,37.607948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Amyzon Antik Tiyatrosu

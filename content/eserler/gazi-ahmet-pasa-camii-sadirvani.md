@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9290981,41.0212555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazi Ahmet Paşa Camii Şadırvanı: İstanbul'un Gizli Çeşme Öncüsü

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.940367,39.49242"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Chyraous Kalesi: Altıeylül'ün Gizli Değerleri

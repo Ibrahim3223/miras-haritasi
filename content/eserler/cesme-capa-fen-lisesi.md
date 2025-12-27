@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9360409,41.0142403"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çeşme, Çapa Fen Lisesi

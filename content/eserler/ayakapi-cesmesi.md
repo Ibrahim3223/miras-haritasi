@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.955315,41.0280585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayakapı Çeşmesi: Yavuz Sultan Selim'in Görsel Harikası

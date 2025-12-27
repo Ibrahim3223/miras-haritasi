@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.5266948,36.8337715"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aydınkaya Höyük: Tarihî Bir Anıtın Gizemi

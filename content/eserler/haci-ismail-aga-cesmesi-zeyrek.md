@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951764,41.020228"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı İsmail Ağa Çeşmesi, Zeyrek

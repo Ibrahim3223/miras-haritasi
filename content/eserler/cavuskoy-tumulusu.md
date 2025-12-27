@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.1651535,40.6932373"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çavuşköy Tümülüsü**

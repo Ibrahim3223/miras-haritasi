@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1824188,39.1201057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Sinan Mescidi: Bergama'nın Tarihsel Mirası

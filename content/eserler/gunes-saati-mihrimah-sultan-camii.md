@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0159569,41.0266151"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güneş Saati, Mihrimah Sultan Camii

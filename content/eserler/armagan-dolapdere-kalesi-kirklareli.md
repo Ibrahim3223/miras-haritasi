@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.4034977,41.8673935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Armağan Dolapdere Kalesi: Kırklareli'nin Gizli Güzelliği

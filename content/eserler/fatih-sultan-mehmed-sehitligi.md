@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.912196548,41.015182737"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fatih Sultan Mehmed Şehitliği

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.064846,41.003609"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Imoga İstanbul Grafik Sanatlar Müzesi

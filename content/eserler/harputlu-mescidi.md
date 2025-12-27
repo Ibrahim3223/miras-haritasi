@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1805401,39.1184731"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Harputlu Mescidi: Bergama'nın Gizli Çeşmesi

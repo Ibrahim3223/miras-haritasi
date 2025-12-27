@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.0669994,38.2565536"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aydınoğlu Mehmet Bey Türbesi

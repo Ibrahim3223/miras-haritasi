@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9336624,41.0482063"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eyüp Sultan Sebili: Tarihî Bir Çeşme

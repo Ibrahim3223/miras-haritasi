@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.980477,41.031513"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurcuma Hamamı: İstanbul'un Gizli Çeşmeleri Arasındaki Efsanesi

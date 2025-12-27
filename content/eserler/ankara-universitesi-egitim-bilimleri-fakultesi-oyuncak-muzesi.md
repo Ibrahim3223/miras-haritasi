@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.827961,39.938676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi

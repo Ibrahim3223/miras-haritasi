@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.997133172,39.650019326"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gordion Tümülüs T26 Tanıtımı

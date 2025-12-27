@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4646053,40.0380287"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gençali Türbesi

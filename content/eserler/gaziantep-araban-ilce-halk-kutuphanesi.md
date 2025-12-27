@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "37.687614011,37.425044587"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gaziantep Araban İlçe Halk Kütüphanesi

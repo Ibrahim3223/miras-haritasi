@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.9480801,39.6140633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk ve Kazak İsmail Anıtı

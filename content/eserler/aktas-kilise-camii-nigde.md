@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7679977,38.024704"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aktaş Kilise Camii, Niğde

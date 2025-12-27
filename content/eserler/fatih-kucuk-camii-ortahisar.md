@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.717225,40.993578"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Küçük Camii: Ortahisar'ın Tarihi Bir Mirası

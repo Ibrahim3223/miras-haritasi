@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Davud Paşa Sarayı Tanıtımı

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "30.5347824,37.4772377"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncir Hamamı ve Çeşmesi: Bir Tarihsel ve Kültürel Miras

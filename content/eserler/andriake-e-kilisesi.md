@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.9519081,36.2287598"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Andriake E Kilisesi: Antik Çağ'ın Gizemi

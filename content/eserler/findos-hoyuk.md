@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.70935,37.877517"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Findos Höyük: Isparta'nın Gizli Mirası**

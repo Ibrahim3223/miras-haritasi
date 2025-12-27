@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.770689,38.3216591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akpınar Çeşmesi, Urla: Tarihi ve Kültürel Miras

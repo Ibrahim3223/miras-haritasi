@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.720277777,40.431777777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### I. Murad Hamamı: İznik'te Bir Geçmişin İzleri

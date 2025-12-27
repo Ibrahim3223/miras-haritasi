@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.4894445,41.4143438"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Başoba Köyü Köprüsü: Hopa'nın Tarihi ve Kültürel Mirası

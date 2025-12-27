@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4648666,40.8760147"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaca Minare Camii: Merzifon'un Tarihi Bir Çarı

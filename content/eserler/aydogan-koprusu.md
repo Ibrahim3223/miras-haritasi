@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.9060854,38.0234077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aydoğan Köprüsü: Siirt'te Bir Geçit Yaşıtlığı

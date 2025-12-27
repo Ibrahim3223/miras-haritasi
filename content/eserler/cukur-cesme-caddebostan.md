@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0646248,40.9691391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Caddebostan'daki Çukur Çeşme: Bir Çeşmenin Tarihi ve Kültürel Mirası

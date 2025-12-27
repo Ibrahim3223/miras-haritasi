@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.657367,40.906596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Byzapena: Geç Antik Dönemde Bir Roma Kenti

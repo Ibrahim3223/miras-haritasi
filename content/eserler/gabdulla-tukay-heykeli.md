@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9431057,41.0639191"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gabdulla Tukay Heykeli

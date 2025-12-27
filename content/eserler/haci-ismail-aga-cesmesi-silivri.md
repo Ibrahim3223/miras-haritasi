@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.2444363,41.0734291"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı İsmail Ağa Çeşmesi, Silivri

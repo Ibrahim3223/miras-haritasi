@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.127449,38.4108276"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halitbey İlkokulu Çeşmesi: İzmir'in Tarihî Diyarı

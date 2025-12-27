@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.383022,40.916852"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Miktat Camii: Giresun'un Tarihsel Öncüleri

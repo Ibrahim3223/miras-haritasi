@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.7905791,39.1138648"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdi Höyük: Kozaklı'nın Gizli Anıtı

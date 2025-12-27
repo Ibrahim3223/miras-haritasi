@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.392847,40.570945"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiçekli Mahallesi Kilisesi: Gümüşhane'nin Gizli Çehresini Açığa Çıkaran Bir Miras

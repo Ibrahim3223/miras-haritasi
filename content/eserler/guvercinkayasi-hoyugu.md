@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.1966209,38.4018211"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güvercinkayası Höyüğü: Aksaray'ın Tarihî Bir İznini

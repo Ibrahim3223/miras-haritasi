@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.8451819,38.4986005"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Divabuyeni Manastırı

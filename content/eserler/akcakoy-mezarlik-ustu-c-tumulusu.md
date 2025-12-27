@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5742149,41.3712502"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akçaköy Mezarlık Üstü C Tümülüsü

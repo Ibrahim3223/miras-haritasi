@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5591145,41.6792679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hadım Balaban Mescidi: Edirne'nin Gizli Cenneti

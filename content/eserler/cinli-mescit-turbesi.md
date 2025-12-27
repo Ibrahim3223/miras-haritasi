@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.6486073,38.22686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cinli Mescit Türbesi

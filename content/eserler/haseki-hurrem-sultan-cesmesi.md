@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9787045,41.0069809"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haseki Hürrem Sultan Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.619564667,40.601534541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncili Çeşme, Çankırı

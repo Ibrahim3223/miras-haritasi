@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0472374,40.9797325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Feneryolu Camii Önündeki Çeşme

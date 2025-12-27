@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.0403595,38.736824"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Ali Paşa Camii: Aksaray'da Bir Görsel Harikadan Konuşalım

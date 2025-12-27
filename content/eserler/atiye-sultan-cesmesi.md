@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9375744,41.0280495"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Atiye Sultan Çeşmesi

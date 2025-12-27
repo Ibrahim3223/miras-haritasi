@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.431634,40.459492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Canca Mahallesi Kilisesi: Tarihi ve Kültürel Değerleri

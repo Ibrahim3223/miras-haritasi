@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9425087,41.0400162"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatice Sultan Sebili

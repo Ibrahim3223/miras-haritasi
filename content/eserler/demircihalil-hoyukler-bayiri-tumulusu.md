@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3140373,41.8094101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demircihalil Höyükler Bayırı Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.261765515,39.951249701"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çıplak Dede Türbesi: Çanakkale'nin Gizemli Anıtı

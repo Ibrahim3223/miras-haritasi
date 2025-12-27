@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5428677,38.7503014"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bel Mescidi Çeşmesi

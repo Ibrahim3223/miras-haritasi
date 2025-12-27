@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "35.8263855,40.6500702"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Bayezid Medresesi: Amasya'nın Tarihi Mirası

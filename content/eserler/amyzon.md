@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.711,37.6087"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Amyzon Arkeolojik Sit**

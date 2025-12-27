@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.1072464,38.3995247"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bitlis Şerefiye Camii

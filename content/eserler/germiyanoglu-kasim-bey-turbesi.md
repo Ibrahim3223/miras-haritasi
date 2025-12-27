@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.4243293,37.9476112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Germiyanoğlu Kasım Bey Türbesi**

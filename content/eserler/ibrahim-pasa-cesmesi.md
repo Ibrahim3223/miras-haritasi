@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.4337902,40.79842"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İbrahim Paşa Çeşmesi

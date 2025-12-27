@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.2168999,37.1799011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çelebi Camii: Karaman'ın Tarihi Bir Mirası

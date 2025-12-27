@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.6170921,40.1510963"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Babayaka Kalesi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.02845,37.1953583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlisu Camii: Karaman'ın Tarihî Ören Yeri

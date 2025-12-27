@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "28.3269005,37.9179993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokuzun Hamamı: Tarihi ve Kültürel Miras

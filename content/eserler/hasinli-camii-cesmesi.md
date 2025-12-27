@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.4902382,38.7146721"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hasinli Camii Çeşmesi

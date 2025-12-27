@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.2471045,39.075106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bostanlı Höyük: Boğazlıyan'da Gizemli Bir Geçmiş

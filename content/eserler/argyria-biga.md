@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.222332,39.750179"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Argyria (Biga): Çanakkale'nin Gizli Kahramanları

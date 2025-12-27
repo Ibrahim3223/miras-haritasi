@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.385837,38.66591"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ioudda Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.928361111,37.583638888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatuniye Camii, Kahramanmaraş

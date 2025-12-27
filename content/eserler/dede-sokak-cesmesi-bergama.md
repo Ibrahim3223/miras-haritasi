@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.1831913,39.1232414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Dede Sokak Çeşmesi, Bergama**

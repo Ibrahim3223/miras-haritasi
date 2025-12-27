@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.8650894,39.9355621"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Beyazıt Camii: Ankara'nın Tarihi ve Kültürel Mirası**

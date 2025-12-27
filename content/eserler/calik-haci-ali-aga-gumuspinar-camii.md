@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.205677,40.9181786"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çalık Hacı Ali Ağa Gümüşpınar Camii

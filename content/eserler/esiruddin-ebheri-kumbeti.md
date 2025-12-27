@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.1184525,38.5990673"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esirüddin Ebheri Kümbeti: Afyonkarahisar'ın Gizli Cenneti

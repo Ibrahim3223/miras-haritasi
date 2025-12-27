@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.87491,40.89944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkiz Kalesi: Tarihi ve Kültürel Miras

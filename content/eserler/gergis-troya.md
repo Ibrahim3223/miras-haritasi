@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.609255,39.898491"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gergis: Troya'nın Gizli Mirası

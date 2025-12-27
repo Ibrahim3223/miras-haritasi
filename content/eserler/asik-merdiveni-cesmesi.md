@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.9215908,40.7656479"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşık Merdiveni Çeşmesi: İzmit'in Tarihi Bir Ziyaretçi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5517673,41.6785316"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edirne'nin Eski Eserlerinden Birini Keşfedin: Çavuş Bey Camii

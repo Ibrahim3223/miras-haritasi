@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.735918,38.0854683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazazhane Camii: Tarihi ve Kültürel Bir Miras

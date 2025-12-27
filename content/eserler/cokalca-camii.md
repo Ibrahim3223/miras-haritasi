@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.569643,41.676918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çokalca Camii: Edirne'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3832684,40.9216347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Alaca Mustafa Paşa Camii: Edirne'nin Gizli Çehresi

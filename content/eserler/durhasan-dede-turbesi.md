@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.7365837,36.8824196"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Durhasan Dede Türbesi: Ceyhan'ın Tarihi Bir Anıt

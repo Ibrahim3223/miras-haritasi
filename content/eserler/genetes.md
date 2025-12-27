@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.8302,41.017"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Genetes Arkeolojik Sit

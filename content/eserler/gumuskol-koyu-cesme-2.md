@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.1631184,38.4690208"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümüşkol Köyü Çeşme 2: Ülkemizin Kültürel Mirasının Bir Parçası

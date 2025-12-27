@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.2295341,37.908474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hançeri Güzar Camii: Diyarbakır'ın Tarihî Mirası

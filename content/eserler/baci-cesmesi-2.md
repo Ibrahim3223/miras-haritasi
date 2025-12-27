@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.2897148,39.7875977"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bacı Çeşmesi 2: Sincan'ın Tarihî Anıtı

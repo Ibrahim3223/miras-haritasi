@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.97585,41.026944"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bolos (Trakya): Antik Kentin Gizemi

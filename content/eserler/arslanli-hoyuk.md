@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.0356125,39.2032978"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Arslanlı Höyük: Eskişehir'in Gizli Mirası

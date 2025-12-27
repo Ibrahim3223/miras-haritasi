@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.2896576,39.7875633"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bacı Çeşmesi 1: Sincan'ın Tarih Özellikli Çeşmesi

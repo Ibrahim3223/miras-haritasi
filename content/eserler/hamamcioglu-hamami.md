@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "37.0088105,39.7461993"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamamcıoğlu Hamamı

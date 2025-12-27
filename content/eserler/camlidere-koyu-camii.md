@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.4314003,37.6078987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çamlıdere Köyü Camii: Aydın'ın Gizli Anıtı**

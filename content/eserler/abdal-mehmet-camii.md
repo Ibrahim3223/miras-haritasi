@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0681553,40.186676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdal Mehmet Camii: Bursa'nın Önemli Dini Yapılarından biri

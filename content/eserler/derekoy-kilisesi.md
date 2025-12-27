@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.8023491,40.3165016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dereköy Kilisesi: Mudanya'nın Gizli Çehresinde Bir Kilise

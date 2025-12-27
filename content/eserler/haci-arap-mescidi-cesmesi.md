@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8639412,39.9367027"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Arap Mescidi Çeşmesi

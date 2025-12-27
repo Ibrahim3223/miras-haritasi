@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "39.2178802,39.3549843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Efkartepe Höyük: Tunceli'nin Gizli Mirası**

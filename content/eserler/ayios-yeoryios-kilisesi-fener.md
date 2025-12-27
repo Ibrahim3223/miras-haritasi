@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9515858,41.0293159"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 Ayios Yeoryios Kilisesi, Fener

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.885226,40.76137"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arbeila: Geçmişin Gizemi

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9761734,41.0127869"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İmam Ali Kabri: İstanbul'un Tarihi Anıtlarından Bir Özellik

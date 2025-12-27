@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.691415,40.9944392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derecik Hanlar Köprüsü

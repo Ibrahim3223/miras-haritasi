@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.38575,38.79089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Büyük Taarruz Şehitliği

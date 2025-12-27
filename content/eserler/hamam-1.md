@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.3624001,37.9487991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hamam 1: Tarihi ve Kültürel Mirasımız

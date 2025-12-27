@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.2921227,38.6877626"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aptalhöyük: Türkiye'nin Eski Kenti

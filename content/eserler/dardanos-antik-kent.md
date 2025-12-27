@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.362777777,40.075833333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dardanos: Antik Kentin Gizemi

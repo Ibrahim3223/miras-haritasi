@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.940667,41.009629"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başçı Mahmut Bey Camii

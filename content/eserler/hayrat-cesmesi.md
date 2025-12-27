@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.213866,40.512835"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hayrat Çeşmesi**

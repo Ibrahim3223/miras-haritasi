@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.028087899,41.026011962"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dağ Hamamı

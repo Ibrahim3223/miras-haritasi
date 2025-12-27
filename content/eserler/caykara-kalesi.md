@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "40.2565002,40.7450294"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaykara Kalesi: Tarihî Bir Mirasın Gizemi

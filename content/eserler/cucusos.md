@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.49834,38.0315"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cucusos: Göksun'un Gizemi

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8488178,37.8458328"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akmescit Camii, Aydın: Tarih, Mimari Özellikler ve Ziyaret Bilgileri

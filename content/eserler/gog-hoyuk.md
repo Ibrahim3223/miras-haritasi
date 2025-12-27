@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.3116251,39.5137555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göğ Höyük Arkeolojik Siti

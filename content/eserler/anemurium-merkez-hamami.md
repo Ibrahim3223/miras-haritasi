@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.8030739,36.0235901"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anemurium Merkez Hamamı: Türkiye'nin Tarihi ve Kültürel Mirası

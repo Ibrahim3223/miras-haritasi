@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.2748756,40.5737953"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacı Mustafa Türbesi: Giresun'un Gizli Anıtı

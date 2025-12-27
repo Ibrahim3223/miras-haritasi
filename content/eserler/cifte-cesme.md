@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.7931652,40.3911896"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çifte Çeşme: Mudanya'nın Güzel Çeşmesi**

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9512577,41.0102425"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Paşa Çeşmesi, İskenderpaşa

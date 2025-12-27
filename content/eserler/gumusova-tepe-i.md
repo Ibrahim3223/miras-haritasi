@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.240667,39.053083"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gümüşova Tepe I: Bergama'nın Gizli Harikası

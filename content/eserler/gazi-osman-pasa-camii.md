@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6614265,37.9740791"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Osman Paşa Camii

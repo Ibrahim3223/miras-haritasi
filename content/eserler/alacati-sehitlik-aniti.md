@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.377533,38.2793808"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alaçatı Şehitlik Anıtı

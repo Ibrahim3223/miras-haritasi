@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.5415306,41.6885147"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cavidan Hanım Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "38.099398556,38.851022911"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ağpınar Çeşmesi, Hekimhan

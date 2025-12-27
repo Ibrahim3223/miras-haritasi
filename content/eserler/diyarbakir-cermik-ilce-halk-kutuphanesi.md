@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "39.461533728,38.135994141"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Diyarbakır Çermik İlçe Halk Kütüphanesi

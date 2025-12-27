@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.4771423,40.7374306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aşağıtaslı Camii: Çorum'un Önemli Tarihi Mirası

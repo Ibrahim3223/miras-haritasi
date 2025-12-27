@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.926237,41.022667"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bezmialem Valide Sultan Çeşmesi: İstanbul'un Gizli Cevheri

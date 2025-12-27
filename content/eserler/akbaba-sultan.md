@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.116367,41.157016"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akbaba Sultan Anıtı

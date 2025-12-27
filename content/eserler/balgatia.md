@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.612625,40.151738"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balgatia Arkeolojik Sitesi

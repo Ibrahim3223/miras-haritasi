@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.604833333,39.179583333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hızır Bey Camii: Soma'nın Tarihi ve Kültürel Mirası

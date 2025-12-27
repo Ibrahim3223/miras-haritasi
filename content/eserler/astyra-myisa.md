@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.888592,39.586596"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Astyra Myisa: Edremit'in Gizli Kahramanı

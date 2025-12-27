@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8009739,41.5608292"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bostancı Çeşme Tümülüsü: Vize'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4904,40.5913"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Akça Dede Türbesi: Türünün Öncüsü ve Amasya'nın Değerli Mirası**

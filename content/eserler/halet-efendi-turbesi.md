@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9745159,41.0282555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Halet Efendi Türbesi: Beyoğlu'nun Gizli Cenneti

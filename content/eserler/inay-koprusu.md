@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.2169819,38.4295731"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İnay Köprüsü: Uşak'ın Tarihi Ölümsüzlüğü

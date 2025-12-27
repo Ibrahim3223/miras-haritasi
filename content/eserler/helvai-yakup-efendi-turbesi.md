@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.961142,41.012888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Helvai Yakup Efendi Türbesi

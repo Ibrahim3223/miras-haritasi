@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.7514229,37.1353493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gercin Höyük

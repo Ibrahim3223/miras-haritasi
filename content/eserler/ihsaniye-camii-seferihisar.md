@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8095169,38.2744904"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İhsaniye Camii Hakkında Bilgi

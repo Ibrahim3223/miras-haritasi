@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "38.7748337,37.1213303"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deyr Yakup Manastırı

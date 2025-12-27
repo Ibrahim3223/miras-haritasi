@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.84629,37.417582"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Abdullah Efendi Türbesi

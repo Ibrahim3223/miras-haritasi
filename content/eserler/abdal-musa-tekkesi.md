@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.870489,36.612105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Abdal Musa Tekkesi

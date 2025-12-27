@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.3669815,38.4204483"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Battalgazi Ulu Camii: Türk İslam Edebiyatı'nın En Değerli Yapıtlarından Birini Tanıtan Malatya'nın Semahanesi

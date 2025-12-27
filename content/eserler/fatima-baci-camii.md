@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.2902985,39.7879066"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatıma Bacı Camii: Ankara'nın Efsanevi Camii

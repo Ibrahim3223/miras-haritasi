@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.6470795,41.1236"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Yeniköy-Şile: Şile'nin Tarihi Bir Çeşmesi

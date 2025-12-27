@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.081349,38.722353"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaldıratmaz Mevkii: Afyonkarahisar'ın Gizli Zenginliği

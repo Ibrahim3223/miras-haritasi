@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "35.4947929,38.7150345"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Evran Zaviyesi: Kayseri'nin Tarihi ve Kültürel Mirası

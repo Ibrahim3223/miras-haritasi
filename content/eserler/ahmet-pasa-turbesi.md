@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "33.2101181,37.174349"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Paşa Türbesi

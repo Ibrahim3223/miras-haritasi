@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.429623671,38.606833676"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Fetih Mescidi**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "34.2193209,39.2587948"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevizli Höyük Tanıtımı

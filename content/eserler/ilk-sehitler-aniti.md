@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.1889496,40.0424347"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlk Şehitler Anıtı

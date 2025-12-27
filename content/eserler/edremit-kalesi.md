@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "43.2654686,38.4202499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edremit Kalesi

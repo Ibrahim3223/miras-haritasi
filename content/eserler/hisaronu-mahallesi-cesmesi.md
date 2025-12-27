@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.8598633,39.940918"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hisarönü Mahallesi Çeşmesi

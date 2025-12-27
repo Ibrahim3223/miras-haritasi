@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "43.6832392,38.943339"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bend-i Mahi Köprüsü

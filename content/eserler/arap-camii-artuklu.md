@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.748234,37.31282"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arap Camii (Artuklu): Tarihi ve Kültürel Mirasının Bir Parçası

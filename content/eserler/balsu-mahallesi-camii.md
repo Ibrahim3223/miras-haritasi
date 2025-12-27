@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.527078317,41.011376567"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balsu Mahallesi Camii

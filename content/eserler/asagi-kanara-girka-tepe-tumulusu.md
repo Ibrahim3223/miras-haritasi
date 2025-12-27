@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0214977,42.0066414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Kanara Gırka Tepe Tümülüsü

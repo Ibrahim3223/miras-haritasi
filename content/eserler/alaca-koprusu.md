@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9678255,39.9309108"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Alaca Köprüsü: Erzurum'un Tarihi ve Kültürel Mirası

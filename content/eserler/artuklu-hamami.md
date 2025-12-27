@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "41.4082435,37.7145554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Artuklu Hamamı: Hasankeyf'in Tarihî Bir Mirası

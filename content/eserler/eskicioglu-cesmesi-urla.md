@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7707253,38.3192024"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskicioğlu Çeşmesi: Urla'nın Tarihi Bir Mirası

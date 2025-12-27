@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.8944,40.6939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Eribolum Arkeolojik Sit**

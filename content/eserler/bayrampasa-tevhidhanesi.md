@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.942371,41.00845"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bayrampaşa Tevhidhanesi: Fatih'te Bir Medrese Eseri

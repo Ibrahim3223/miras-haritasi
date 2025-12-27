@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.5300808,40.7887154"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dilovası Mimar Sinan Köprüsü

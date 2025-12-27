@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.8510551,38.3728943"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Casa Şehitleri Anıtı

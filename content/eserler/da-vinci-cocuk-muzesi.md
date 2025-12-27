@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.907384728,39.928529772"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Da Vinci Çocuk Müzesi

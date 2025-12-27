@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.588536,40.905679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Balıklısu Köyü Camii: Giresun'un Tarihi Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.967419,41.00782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Canfeda Kadın Çeşmesi

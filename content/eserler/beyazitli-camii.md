@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.925087,37.5899734"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Beyazıtlı Camii: Kahramanmaraş'ın Tarihî ve Kültürel Mirası

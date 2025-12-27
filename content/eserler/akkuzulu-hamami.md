@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "33.1307433,40.2087378"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akkuzulu Hamamı: Ankara'nın Eski Bir Hamamı

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9945049,41.0485497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsrev Gerede Anıtı

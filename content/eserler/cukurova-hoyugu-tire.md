@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5177002,38.0466003"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çukurova Höyüğü: İzmir'in Tarihi ve Kültürel Mirası

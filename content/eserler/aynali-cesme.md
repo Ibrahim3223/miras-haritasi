@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.940526,41.013867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aynalı Çeşme: Fatih, İstanbul'un Tarihî Bir Zirvesi

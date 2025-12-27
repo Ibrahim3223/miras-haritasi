@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.8397999,38.1986008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güdük Minare Hamamı

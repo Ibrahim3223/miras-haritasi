@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.9882431,40.6018867"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dodurga Köyü Camii Çeşmesi: Çankırı'nın Gizli Çeşme Mücevheri

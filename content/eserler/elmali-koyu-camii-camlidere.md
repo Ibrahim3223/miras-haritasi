@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.4975204,40.4106903"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Elmalı Köyü Camii (Çamlıdere)

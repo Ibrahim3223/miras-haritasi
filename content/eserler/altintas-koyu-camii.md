@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.1318092,40.0348053"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Altıntaş Köyü Camii: Tarihi Bir Miras

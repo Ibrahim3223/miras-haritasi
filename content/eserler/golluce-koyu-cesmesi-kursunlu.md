@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.406824239,40.814599422"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Göllüce Köyü Çeşmesi: Kurşunlu'daki Bir Önemli Tarihi Anıt

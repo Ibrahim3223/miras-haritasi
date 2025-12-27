@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.266133,38.24145"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Göktepe Höyük: Afyonkarahisar'ın Gizli Kahramanı

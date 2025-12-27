@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.1619,37.0675"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Isinda (Pisidya): Tarihi ve Kültürel Mirasın Gizli Çehresi

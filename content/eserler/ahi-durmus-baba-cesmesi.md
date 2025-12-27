@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.968969,41.011391"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Durmuş Baba Çeşmesi

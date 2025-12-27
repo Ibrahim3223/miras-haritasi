@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.964848645,41.012776527"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi

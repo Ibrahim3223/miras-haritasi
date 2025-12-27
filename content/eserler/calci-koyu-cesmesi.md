@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.4296741,39.9492683"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çalçı Köyü Çeşmesi: Eskişehir'in Ören Davası

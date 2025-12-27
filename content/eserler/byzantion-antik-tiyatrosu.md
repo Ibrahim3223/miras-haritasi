@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.985339,41.014459"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Byzantion Antik Tiyatrosu: İstanbul'un Tarihi ve Kültürel Mirası**

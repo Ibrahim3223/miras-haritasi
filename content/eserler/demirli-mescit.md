@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.716717474,37.68374123"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirli Mescit: Beyşehir'in Tarihi bir Örneği

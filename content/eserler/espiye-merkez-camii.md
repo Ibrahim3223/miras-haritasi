@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7077065,40.949295"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Espiye Merkez Camii

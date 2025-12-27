@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "43.094162,40.6106453"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyük Abdi Ağa Camii: Kars'ta Bir Tarihî Öznellik

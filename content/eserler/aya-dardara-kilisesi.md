@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.4658813,40.8746643"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aya Dardara Kilisesi

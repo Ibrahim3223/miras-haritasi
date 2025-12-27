@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.050221,41.022416"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Güroluk Köprüsü 2

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.750738,38.860661"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İscehisar Açıkhava Müzesi

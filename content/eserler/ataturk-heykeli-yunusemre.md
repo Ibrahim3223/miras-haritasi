@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3963718,38.6157455"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Heykeli, Yunusemre

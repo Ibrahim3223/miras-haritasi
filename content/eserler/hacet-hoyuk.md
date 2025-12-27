@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.4630203,39.1445732"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacet Höyük: Mucur'un Gizli Mirası

@@ -12,7 +12,7 @@ turler: ["Saray"]
 coords: "29.2279396,40.9851761"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damatris Sarayı

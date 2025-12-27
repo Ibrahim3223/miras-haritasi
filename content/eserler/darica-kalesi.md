@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "29.383727,40.7573475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darıca Kalesi: Kocaeli'nin Tarihî Mirası

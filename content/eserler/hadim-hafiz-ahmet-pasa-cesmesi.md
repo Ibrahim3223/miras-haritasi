@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.947232,41.021743"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hadım Hafız Ahmet Paşa Çeşmesi

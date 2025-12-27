@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.967536111,41.20345"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bergi Kilisesi: Tarihi ve Kültürel Mirasın Bir Parçası

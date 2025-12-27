@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.1348707,39.278959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Höyüklüyurt Höyük

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.2288055,38.6387024"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Han Deresi Köprüsü

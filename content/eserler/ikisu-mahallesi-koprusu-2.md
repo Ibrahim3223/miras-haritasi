@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.803109,40.927923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkisu Mahallesi Köprüsü 2: Trabzon'un Tarihi Mirası

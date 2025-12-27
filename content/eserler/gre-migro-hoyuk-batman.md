@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.1571693,37.9913101"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gre Migro Höyük: Batman'ın Gizli Hazineleri

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.5422325,40.0961227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dutluca Çeşmesi: Sincan'ın Tarihî ve Kültürel Mirası

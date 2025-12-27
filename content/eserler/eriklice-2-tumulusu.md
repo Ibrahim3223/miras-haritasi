@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.1750374,41.7473412"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eriklice 2 Tümülüsü

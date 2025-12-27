@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4611645,38.3175545"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cumalı Camii Çeşmesi

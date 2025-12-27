@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0476609,41.03086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burhaniye Camii

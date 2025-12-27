@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.786992219,40.982736162"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümüşpınar Mahallesi Camii: Çayeli, Rize'nin Önemli Dinî Miraslarından Birisidir

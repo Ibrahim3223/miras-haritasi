@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.0878086,40.1768379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hançerli Medresesi: Bursa'nın Tarihi Bir Mirası

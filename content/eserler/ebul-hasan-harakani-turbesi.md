@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.092,40.6106"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ebul Hasan Harakani Türbesi

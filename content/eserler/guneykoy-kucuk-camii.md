@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.2769547,40.5539207"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güneyköy Küçük Camii

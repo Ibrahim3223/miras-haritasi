@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.2112503,39.7028999"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cibo’nun Tepesi Tümülüsü, Sivas

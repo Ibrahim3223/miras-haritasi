@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.445617,41.174533"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bakacak Mahallesi Kaya Mezarı: Samsun'un Gizli Mirası

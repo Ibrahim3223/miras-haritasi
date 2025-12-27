@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.6490974,38.5491524"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hagios Stephanos Kilisesi

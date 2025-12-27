@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.663707526,41.05908"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çikolata Müzesi: Tatlı Geçegenliğin Eşiği

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7253151,41.8567848"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hamdibey Tümülüsü

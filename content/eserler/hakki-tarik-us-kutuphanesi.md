@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9663,41.009803"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hakkı Tarık Us Kütüphanesi

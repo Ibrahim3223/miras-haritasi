@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5800648,41.380497"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akçaköy Yapastepe Tümülüsü

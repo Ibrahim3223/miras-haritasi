@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.946936,41.014957"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damat İbrahim Paşa Çeşmesi, İskenderpaşa

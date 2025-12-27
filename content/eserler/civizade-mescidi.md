@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.926638888,41.017194444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çivizade Mescidi**

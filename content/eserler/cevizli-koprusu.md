@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "26.6127205,40.3727684"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cevizli Köprüsü: Gelibolu'nun Gizli Cenneti

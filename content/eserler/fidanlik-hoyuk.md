@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.6042671,40.6452827"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fidanlık Höyük: Çankırı'nın Gizli Kahramanı

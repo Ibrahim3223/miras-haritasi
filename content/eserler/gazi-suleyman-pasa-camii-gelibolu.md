@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6719189,40.4087868"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazi Süleyman Paşa Camii: Gelibolu'nun Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.28055556,36.97138889"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İssos Yakınlarındaki İskenderiye: Antik Kentin Gizemi

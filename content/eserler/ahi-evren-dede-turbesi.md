@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.735204,40.996787"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahi Evren Dede Türbesi

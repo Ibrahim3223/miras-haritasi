@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "32.466527777,37.871972222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hoca Ahmed Fakih Camii

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eminüddin Camii: Bir Osmanlı Dönemi Anıtının Gizemi

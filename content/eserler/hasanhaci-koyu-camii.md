@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.0496445,40.5906143"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasanhacı Köyü Camii

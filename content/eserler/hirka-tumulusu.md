@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.8855991,37.4500008"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hırka Tümülüsü: Tavas'taki Efsanevi Arkeolojik Sit

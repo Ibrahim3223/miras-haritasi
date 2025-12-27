@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "43.0926018,40.6058846"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Atatürk Heykeli, Kars**

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.9170341,39.9361725"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abdullah ve Abdülkerim Dede Türbesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.8020325,36.0216751"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anemurium Halk Hamamı: Tarihî Bir Mirasın Gizemi

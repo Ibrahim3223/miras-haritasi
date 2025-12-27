@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.142633957,40.83016128"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bozkuş Köyü Aşağı Pınar Çeşmesi, Atkaracalar

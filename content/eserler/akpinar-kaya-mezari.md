@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5303535,38.582325"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Akpınar Kaya Mezarı

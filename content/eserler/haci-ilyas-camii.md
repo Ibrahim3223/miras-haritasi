@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9255924,40.9933777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı İlyas Camii: Yedikule'nin Tarihi ve Kültürel Mirası

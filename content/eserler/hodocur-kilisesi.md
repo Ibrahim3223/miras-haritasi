@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "41.2092705,40.7193413"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hodoçur Kilisesi: Tarihî Bir Mirasın Sırrı

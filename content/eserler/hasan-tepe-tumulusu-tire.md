@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.5788994,38.1232986"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Tepe Tümülüsü: İzmir'in Eski Çağları

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.4058418,38.6805077"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Kemal Dede Türbesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.7095547,41.0821571"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Harmanlı Tümülüsü: Edirne'nin Gizli Kutsalı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.998144,39.651855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs P: Antik Anadolu'nun Gizemli Yerleşimi

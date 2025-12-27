@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "28.941908,41.009227"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haseki Hürrem Sultan Darüşşifası

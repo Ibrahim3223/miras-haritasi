@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.0475006,37.5157509"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Boyacı Ali Camii

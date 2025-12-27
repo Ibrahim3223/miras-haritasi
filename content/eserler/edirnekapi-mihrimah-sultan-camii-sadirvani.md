@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9354668,41.0295105"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edirnekapı Mihrimah Sultan Camii Şadırvanı

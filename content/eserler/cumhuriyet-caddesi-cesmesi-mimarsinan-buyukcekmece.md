@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.5609608,41.0148964"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cumhuriyet Caddesi Çeşmesi, Mimarsinan (Büyükçekmece)

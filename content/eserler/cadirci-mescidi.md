@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.965781,41.005215"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çadırcı Mescidi

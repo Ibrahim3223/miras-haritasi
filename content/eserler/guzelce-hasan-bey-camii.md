@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1061306,41.2146187"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güzelce Hasan Bey Camii: Hayrabolu'nun Tarihi ve Kültürel Mirası

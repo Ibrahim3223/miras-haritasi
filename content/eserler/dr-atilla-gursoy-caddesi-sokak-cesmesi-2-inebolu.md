@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "33.763663637,41.974748981"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dr. Atilla Gürsoy Sokak Çeşmesi 2: İnebolu'nun Gizli Çeşmesi

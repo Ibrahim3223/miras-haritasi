@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.926579589,41.001622507"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çobanbaşı Ali Fakih Kabri: Fatih'in Güzeli

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9038086,40.8926773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazi Ömer Bey Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "41.2306166,37.1051383"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Gırnavaz Höyüğü: Mardin'in Eski Yerleşim Merkezi

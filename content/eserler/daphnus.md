@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.588844,40.171739"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Daphnus Arkeolojik Sit

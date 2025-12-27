@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.968647,40.352375"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 100. Yıl Atatürk Anıtı

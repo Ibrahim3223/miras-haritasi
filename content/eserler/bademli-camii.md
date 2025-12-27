@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.0851002,37.9653015"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bademli Camii: Dinar'ın Gizli İncisi

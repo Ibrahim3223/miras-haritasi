@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.7097511,38.4603615"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Irlamaz Köyü Camii

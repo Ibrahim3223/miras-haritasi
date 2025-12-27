@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.944981,41.037139"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Dimitrios Kanavis Kilisesi

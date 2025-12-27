@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6487751,38.226799"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hüseyin Çeşmesi: Bayındır'ın Tarihi Bir Çeşmesi

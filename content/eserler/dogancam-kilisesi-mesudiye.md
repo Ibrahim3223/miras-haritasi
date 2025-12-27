@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.843872,40.510022"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Doğançam Kilisesi Mesudiye: Ordu'nun Gizli Kâseği

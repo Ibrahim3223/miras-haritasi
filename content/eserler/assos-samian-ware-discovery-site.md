@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.31,39.5"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Assos (Samian Ware Discovery Site)

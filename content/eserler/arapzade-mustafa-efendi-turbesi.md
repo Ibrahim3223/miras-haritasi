@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.970097,41.0384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Arapzade Mustafa Efendi Türbesi

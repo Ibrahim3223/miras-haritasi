@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "30.5141563,36.9147415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Doyran Manastırı: Konyaaltı'nın Gizli Cenneti

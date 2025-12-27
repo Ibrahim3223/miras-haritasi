@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.4418526,38.6142387"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatal Camii: Manisa'daki Bir Tarihi ve Kültürel Öncü

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9074001,41.0752983"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Gaziosmanpaşa: İstanbul'un Gizli Çeşmesi

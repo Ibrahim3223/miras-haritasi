@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.9740467,41.0362549"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aynalıçeşme Avedaragan Amenasurp Yerrortutyun Ermeni Protestan Kilisesi

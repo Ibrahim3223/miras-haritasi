@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.5868568,41.5578461"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevizköy Balkan Şehitliği: Kırklareli'nin Yıllarca Unutulmayan Yarasını Durduran Anıt

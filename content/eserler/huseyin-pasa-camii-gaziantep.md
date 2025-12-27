@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.3849258,37.0606575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüseyin Paşa Camii: Gaziantep'in Tarihî Mirası

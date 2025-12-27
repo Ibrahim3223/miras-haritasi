@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.41052,38.062939"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arak Höyük: Isparta'nın Gizli Mirası

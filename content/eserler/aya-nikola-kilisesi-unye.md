@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "37.280682,41.146298"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Nikola Kilisesi: Ünye'nin Tarihi ve Kültürel Mirası

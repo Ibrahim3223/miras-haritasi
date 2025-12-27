@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "37.488027777,38.570666666"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Darende Ulu Camii: Malatya'nın Tarihi Bir Mirası

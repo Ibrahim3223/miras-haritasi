@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0487366,40.985508"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Behice Naci Yazgan Çeşmesi

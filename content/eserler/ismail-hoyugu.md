@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "30.466183,38.2719"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İsmail Höyüğü: Afyonkarahisar'ın Gizli Anıtı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.42585386,37.59873189"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hieron (Karya)

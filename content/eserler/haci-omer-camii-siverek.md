@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.3220367,37.7553253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Ömer Camii: Siverek'in Yüzyılın Mirası

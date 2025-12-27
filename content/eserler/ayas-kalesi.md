@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "35.7921562,36.7673225"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ayaş Kalesi: Tarihî Bir Mirasın Geride Bıraktığı İzler

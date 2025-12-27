@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "41.3110886,39.9138794"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### 2 No'lu Aziziye Tabyası Şehitliği

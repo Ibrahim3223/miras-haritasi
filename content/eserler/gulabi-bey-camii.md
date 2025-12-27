@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.3184929,37.756813"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gülabi Bey Camii

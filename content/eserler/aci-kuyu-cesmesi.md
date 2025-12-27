@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.3908539,38.4129601"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Acı Kuyu Çeşmesi: Ulubey'in Tarihî Bir Güzelliği

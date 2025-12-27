@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0448532,40.1920929"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beşikçiler Camii: Bursa'nın Eski Camilerine Örnek Bir Mimarlık Harikası

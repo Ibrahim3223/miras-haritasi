@@ -8,7 +8,7 @@
             gösteriliyor</span>
     </div>
 
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px;">
         <!-- Search Input -->
         <div class="filter-group">
             <input type="text" id="filter-search" placeholder="İsim ile ara..."
@@ -20,9 +20,97 @@
             <select id="filter-city"
                 style="width: 100%; padding: 10px 15px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem; outline: none; background: white;">
                 <option value="all">Tüm Şehirler</option>
-                {{ range $name, $items := .Site.Taxonomies.iller }}
-                <option value="{{ $name }}">{{ $name | humanize }} ({{ $items.Count }})</option>
-                {{ end }}
+                <!-- Hardcoded 81 Provinces to avoid Districts appearing -->
+                <option value="adana">Adana</option>
+                <option value="adiyaman">Adıyaman</option>
+                <option value="afyonkarahisar">Afyonkarahisar</option>
+                <option value="agri">Ağrı</option>
+                <option value="aksaray">Aksaray</option>
+                <option value="amasya">Amasya</option>
+                <option value="ankara">Ankara</option>
+                <option value="antalya">Antalya</option>
+                <option value="ardahan">Ardahan</option>
+                <option value="artvin">Artvin</option>
+                <option value="aydin">Aydın</option>
+                <option value="balikesir">Balıkesir</option>
+                <option value="bartin">Bartın</option>
+                <option value="batman">Batman</option>
+                <option value="bayburt">Bayburt</option>
+                <option value="bilecik">Bilecik</option>
+                <option value="bingol">Bingöl</option>
+                <option value="bitlis">Bitlis</option>
+                <option value="bolu">Bolu</option>
+                <option value="burdur">Burdur</option>
+                <option value="bursa">Bursa</option>
+                <option value="canakkale">Çanakkale</option>
+                <option value="cankiri">Çankırı</option>
+                <option value="corum">Çorum</option>
+                <option value="denizli">Denizli</option>
+                <option value="diyarbakir">Diyarbakır</option>
+                <option value="duzce">Düzce</option>
+                <option value="edirne">Edirne</option>
+                <option value="elazig">Elazığ</option>
+                <option value="erzincan">Erzincan</option>
+                <option value="erzurum">Erzurum</option>
+                <option value="eskisehir">Eskişehir</option>
+                <option value="gaziantep">Gaziantep</option>
+                <option value="giresun">Giresun</option>
+                <option value="gumushane">Gümüşhane</option>
+                <option value="hakkari">Hakkari</option>
+                <option value="hatay">Hatay</option>
+                <option value="igdir">Iğdır</option>
+                <option value="isparta">Isparta</option>
+                <option value="istanbul">İstanbul</option>
+                <option value="izmir">İzmir</option>
+                <option value="kahramanmaras">Kahramanmaraş</option>
+                <option value="karabuk">Karabük</option>
+                <option value="karaman">Karaman</option>
+                <option value="kars">Kars</option>
+                <option value="kastamonu">Kastamonu</option>
+                <option value="kayseri">Kayseri</option>
+                <option value="kilis">Kilis</option>
+                <option value="kirikkale">Kırıkkale</option>
+                <option value="kirklareli">Kırklareli</option>
+                <option value="kirsehir">Kırşehir</option>
+                <option value="kocaeli">Kocaeli</option>
+                <option value="konya">Konya</option>
+                <option value="kutahya">Kütahya</option>
+                <option value="malatya">Malatya</option>
+                <option value="manisa">Manisa</option>
+                <option value="mardin">Mardin</option>
+                <option value="mersin">Mersin</option>
+                <option value="mugla">Muğla</option>
+                <option value="mus">Muş</option>
+                <option value="nevsehir">Nevşehir</option>
+                <option value="nigde">Niğde</option>
+                <option value="ordu">Ordu</option>
+                <option value="osmaniye">Osmaniye</option>
+                <option value="rize">Rize</option>
+                <option value="sakarya">Sakarya</option>
+                <option value="samsun">Samsun</option>
+                <option value="sanliurfa">Şanlıurfa</option>
+                <option value="siirt">Siirt</option>
+                <option value="sinop">Sinop</option>
+                <option value="sirnak">Şırnak</option>
+                <option value="sivas">Sivas</option>
+                <option value="tekirdag">Tekirdağ</option>
+                <option value="tokat">Tokat</option>
+                <option value="trabzon">Trabzon</option>
+                <option value="tunceli">Tunceli</option>
+                <option value="usak">Uşak</option>
+                <option value="van">Van</option>
+                <option value="yalova">Yalova</option>
+                <option value="yozgat">Yozgat</option>
+                <option value="zonguldak">Zonguldak</option>
+            </select>
+        </div>
+
+        <!-- District Filter (Hidden initially) -->
+        <div class="filter-group" id="district-group" style="display: none;">
+            <select id="filter-district"
+                style="width: 100%; padding: 10px 15px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem; outline: none; background: white;">
+                <option value="all">Tüm İlçeler</option>
+                <!-- Filled via JS -->
             </select>
         </div>
 
@@ -48,33 +136,69 @@
         document.addEventListener('DOMContentLoaded', function () {
             const searchInput = document.getElementById('filter-search');
             const citySelect = document.getElementById('filter-city');
+            const districtSelect = document.getElementById('filter-district');
+            const districtGroup = document.getElementById('district-group');
             const typeSelect = document.getElementById('filter-type');
             const resetButton = document.getElementById('filter-reset');
             const countLabel = document.getElementById('filter-count');
 
-            // Assuming list items have classes/attributes we can hook into. 
-            // We need to ensure the list template adds data attributes.
-            // Let's assume standard card grid items will be targeted.
             const items = document.querySelectorAll('.card-grid article');
+
+            // Generate District Map from current items
+            const cityDistrictMap = {};
+
+            items.forEach(item => {
+                // Assuming we add data-district to list.html
+                const city = (item.dataset.city || '').toLowerCase();
+                const district = (item.dataset.district || '').toLowerCase(); // Needs to be added to template
+
+                if (city && district) {
+                    if (!cityDistrictMap[city]) cityDistrictMap[city] = new Set();
+                    cityDistrictMap[city].add(district);
+                }
+            });
+
+            function updateDistricts() {
+                const city = citySelect.value.toLowerCase();
+                districtSelect.innerHTML = '<option value="all">Tüm İlçeler</option>';
+
+                if (city !== 'all' && cityDistrictMap[city]) {
+                    districtGroup.style.display = 'block';
+                    const sortedDistricts = Array.from(cityDistrictMap[city]).sort();
+                    sortedDistricts.forEach(d => {
+                        if (d && d !== 'undefined') { // Basic cleanup
+                            const option = document.createElement('option');
+                            option.value = d;
+                            option.textContent = d.charAt(0).toUpperCase() + d.slice(1);
+                            districtSelect.appendChild(option);
+                        }
+                    });
+                } else {
+                    districtGroup.style.display = 'none';
+                }
+                filterItems();
+            }
 
             function filterItems() {
                 const query = searchInput.value.toLowerCase();
                 const city = citySelect.value.toLowerCase();
+                const district = districtSelect.value.toLowerCase();
                 const type = typeSelect.value.toLowerCase();
 
                 let visibleCount = 0;
 
                 items.forEach(item => {
-                    // Extract data from DOM if attributes exist, otherwise text content fallback
-                    const itemCity = item.dataset.city ? item.dataset.city.toLowerCase() : '';
-                    const itemType = item.dataset.type ? item.dataset.type.toLowerCase() : '';
-                    const itemTitle = item.querySelector('.card-title h4, h4.card-title, .card-title a').textContent.toLowerCase();
+                    const itemCity = (item.dataset.city || '').toLowerCase();
+                    const itemDistrict = (item.dataset.district || '').toLowerCase();
+                    const itemType = (item.dataset.type || '').toLowerCase();
+                    const itemTitle = item.dataset.title; // Already lower in template
 
                     const matchesSearch = itemTitle.includes(query);
-                    const matchesCity = city === 'all' || itemCity === city || (city !== 'all' && item.textContent.toLowerCase().includes(city)); // Fallback to text search if data attr missing
-                    const matchesType = type === 'all' || itemType === type || (type !== 'all' && item.textContent.toLowerCase().includes(type));
+                    const matchesCity = city === 'all' || itemCity === city;
+                    const matchesDistrict = district === 'all' || itemDistrict === district;
+                    const matchesType = type === 'all' || itemType === type;
 
-                    if (matchesSearch && matchesCity && matchesType) {
+                    if (matchesSearch && matchesCity && matchesDistrict && matchesType) {
                         item.style.display = '';
                         visibleCount++;
                     } else {
@@ -86,14 +210,15 @@
             }
 
             searchInput.addEventListener('input', filterItems);
-            citySelect.addEventListener('change', filterItems);
+            citySelect.addEventListener('change', updateDistricts);
+            districtSelect.addEventListener('change', filterItems);
             typeSelect.addEventListener('change', filterItems);
 
             resetButton.addEventListener('click', () => {
                 searchInput.value = '';
                 citySelect.value = 'all';
                 typeSelect.value = 'all';
-                filterItems();
+                updateDistricts(); // Resets district too
             });
         });
     </script>

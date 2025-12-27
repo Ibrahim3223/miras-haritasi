@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "27.176777777,39.118083333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bergama Eski Hükûmet Konağı: Geçmişin Gizemi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "35.903347,41.5681686"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ali Bey Çeşmesi, Bafra

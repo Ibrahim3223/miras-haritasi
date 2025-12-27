@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0894737,37.7752991"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatipoğlu Camii

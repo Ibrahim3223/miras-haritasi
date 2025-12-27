@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0294666,41.0199165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çinili Cami Çeşmeleri

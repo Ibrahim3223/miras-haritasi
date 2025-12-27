@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.252334,38.703781"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arap Baba Mescidi ve Türbesi

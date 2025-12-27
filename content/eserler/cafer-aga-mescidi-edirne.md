@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.5631161,41.6799011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cafer Ağa Mescidi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.458479,41.145634"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çatalca Kaleiçi Surları

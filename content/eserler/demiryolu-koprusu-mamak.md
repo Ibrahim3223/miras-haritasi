@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "32.897706355,39.935028758"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Demiryolu Köprüsü, Mamak

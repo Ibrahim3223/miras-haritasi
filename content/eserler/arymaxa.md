@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.855,36.64"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Arymaxa: Kapukargın'ın Gizli Mirası**

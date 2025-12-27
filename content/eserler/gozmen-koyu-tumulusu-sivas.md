@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.6531487,39.5239182"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gözmen Köyü Tümülüsü, Sivas

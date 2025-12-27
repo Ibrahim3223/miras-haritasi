@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2808495,39.906765"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşağı Habib Efendi Camii

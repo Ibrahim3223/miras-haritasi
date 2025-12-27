@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.123807,41.087499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dia Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.3633795,38.1404025"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Comitanassus Arkeolojik Sit

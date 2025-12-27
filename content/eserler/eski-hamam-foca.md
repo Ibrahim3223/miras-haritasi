@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "26.7544498,38.6672897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Hamam, Foça

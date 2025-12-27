@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.218947497,40.332972829"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Demirci Köyü Camii: Ankara'nın Gizli Cenneti

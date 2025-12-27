@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "30.5326653,38.5336876"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İki Göz Köprüsü: Tarihi ve Kültürel Bir Miras

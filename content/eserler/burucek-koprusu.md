@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "42.1795998,37.3845825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bürücek Köprüsü: Şırnak'ta Bir Tarihî Köprü

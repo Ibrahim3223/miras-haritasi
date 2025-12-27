@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.21336,40.51246"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Büyükçit Köyü Meryemana Köprüsü

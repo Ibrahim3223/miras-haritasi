@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0215626,41.026062"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Börekçi Mustafa Hilmi Baba Kabri: Üsküdar'a Bir Geçit

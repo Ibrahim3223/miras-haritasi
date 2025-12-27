@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.945303,41.035759"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Minas Ayazması

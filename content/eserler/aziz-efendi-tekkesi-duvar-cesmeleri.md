@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.97741,41.004131"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aziz Efendi Tekkesi Duvar Çeşmeleri

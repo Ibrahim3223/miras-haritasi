@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4890976,39.6756859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkipınar Çeşmesi

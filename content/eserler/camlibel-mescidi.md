@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.4880638,40.0435982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çamlıbel Mescidi: Tokat'ın Tarihi Bir Mirası

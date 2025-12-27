@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "43.5757751,40.5042877"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ani Genç Kızlar Kilisesi

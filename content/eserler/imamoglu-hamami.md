@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "38.1158485,39.3675499"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### İmamoğlu Hamamı

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.9100113,38.6288071"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cingilli Sokak Çeşmesi: Ürgüp'ün Gizli Cevheri

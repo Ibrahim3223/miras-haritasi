@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.05452,41.050898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Ağa Çeşmesi: Üsküdar'da Bir Örgü Çeşmesi

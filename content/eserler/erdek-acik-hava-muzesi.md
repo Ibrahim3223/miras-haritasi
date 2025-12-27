@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "27.7927589,40.3948097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erdek Açık Hava Müzesi

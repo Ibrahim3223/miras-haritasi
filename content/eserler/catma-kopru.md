@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "27.733362,37.879871"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çatma Köprü: Aydın'ın Tarihi ve Kültürel Mirası

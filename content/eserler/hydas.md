@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.092803,36.706086"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hydas Arkeolojik Sit

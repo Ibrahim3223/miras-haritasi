@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0584679,40.1903419"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmet Paşa Camii: Bursa'nın Zengin Mirası

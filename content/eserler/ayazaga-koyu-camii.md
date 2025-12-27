@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9985065,41.1160126"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Ayazağa Köyü Camii

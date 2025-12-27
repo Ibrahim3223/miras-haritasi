@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.93536,41.0478668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hatice Canan Hanım Türbesi

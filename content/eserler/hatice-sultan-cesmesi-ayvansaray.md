@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.942541,41.039909"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hatice Sultan Çeşmesi, Ayvansaray

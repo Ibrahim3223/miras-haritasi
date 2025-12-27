@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.036466,40.96931"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fenerbahçe Çeşmesi

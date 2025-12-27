@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.4370995,36.6641006"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Alahan Höyüğü: Geçmişin Gizemli Yerleşkesi

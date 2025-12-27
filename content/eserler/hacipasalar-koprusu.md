@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.2210903,37.5204964"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hacıpaşalar Köprüsü

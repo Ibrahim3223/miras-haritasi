@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.2807198,39.9130554"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümrük Camii: Erzurum'un Tarihî ve Kültürel Mirası

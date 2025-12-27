@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "26.7528896,38.6675529"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cumhuriyet Çeşmesi, Foça

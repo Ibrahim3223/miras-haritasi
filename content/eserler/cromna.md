@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.6709,41.8296"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cromna Arkeolojik Sit

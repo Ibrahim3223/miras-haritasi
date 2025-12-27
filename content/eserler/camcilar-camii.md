@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.951197,41.009995"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Camcılar Camii

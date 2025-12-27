@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.2778091,37.5272636"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlyas Bey Hamamı: Didim'in Tarihi bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.94104,41.034669"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Adile Şah Kadın Camii: Ayvansaray'da Bir Tarihî Değer

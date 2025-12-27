@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.926756,41.013577"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Emine Sultan Çeşmesi

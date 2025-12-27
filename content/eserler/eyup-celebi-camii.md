@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.4662399,40.8729019"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eyüp Çelebi Camii: Merzifon'un Tarihî Bir Mirası

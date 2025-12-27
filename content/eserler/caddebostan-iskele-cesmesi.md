@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.0659924,40.9648094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Caddebostan İskele Çeşmesi

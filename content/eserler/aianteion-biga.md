@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.2556,39.993642"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aianteion (Biga)

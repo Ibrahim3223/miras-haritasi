@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "36.037829,41.064119"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dura Mahallesi Köprüsü

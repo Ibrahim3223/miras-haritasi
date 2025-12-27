@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.378809,42.003994"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çağlayık Yazılıtaş D Tümülüsü: Tarihî ve Kültürel Miras

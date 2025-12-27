@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.4785954,36.2225668"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hamda Höyük: Hatay'ın Gizli Mirası

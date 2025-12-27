@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.522638888,41.140111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bebereki Kilisesi: Ardahan'ın Gizli Cenneti

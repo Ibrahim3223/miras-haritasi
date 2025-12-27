@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.420567,40.905359"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüseyin Hoca Köyü Sahil Camii

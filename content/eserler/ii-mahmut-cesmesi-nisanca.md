@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.930944,41.040726"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Mahmut Çeşmesi, Nişanca

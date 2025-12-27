@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1308174,38.41679"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Mahmut Camii: İzmir'in Tarihi bir Ziyareti

@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "41.623764,41.375859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Demirciler Köprüsü: Artvin'in Tarihî Bir Mirası

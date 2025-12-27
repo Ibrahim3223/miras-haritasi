@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.0981064,39.5570564"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cami-i Kebir, Havran: Türkiye'nin Tarihi ve Kültürel Mirası

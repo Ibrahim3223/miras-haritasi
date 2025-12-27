@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.370116717,38.800734431"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Hasanoğulları Camii

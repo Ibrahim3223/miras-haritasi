@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "35.4438203,36.9365386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Damgalı Höyüğü: İncilü bir Arkeolojik Sit

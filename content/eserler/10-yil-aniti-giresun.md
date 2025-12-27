@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "38.385441,40.918938"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### 10. Yıl Anıtı, Giresun

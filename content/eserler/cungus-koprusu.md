@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "39.287964,38.2124966"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çüngüş Köprüsü: Geçmişi ve Özellikleri

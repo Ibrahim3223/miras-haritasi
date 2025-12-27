@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "35.4820109,38.7227932"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasbek Kadı Kümbeti: Kayseri'nin Tarihî Bir Anıtı

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "32.492222222,37.871944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Iconium: Konya'nın Tarihî ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "36.550638888,40.314527777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Burgaç Hatun Türbesi

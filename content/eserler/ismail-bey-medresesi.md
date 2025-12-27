@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "33.7777138,41.3841248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsmail Bey Medresesi: Kastamonu'nun Görsel ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.1886272,40.0455132"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## 1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi: Türkiye'nin Tarihini Anlamak

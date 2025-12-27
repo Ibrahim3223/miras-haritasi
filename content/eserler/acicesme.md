@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.353748,41.175825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Acıçeşme Arkeolojik Sit

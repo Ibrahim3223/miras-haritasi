@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9640522,36.7437935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Daedala Kaya Mezarı: Muğla'nın Gizli Öyküsünü Kapsayan Bir Anıt

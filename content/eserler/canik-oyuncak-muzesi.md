@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: ""
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Canik Oyuncak Müzesi: Samsun'un Kültürel Mirası

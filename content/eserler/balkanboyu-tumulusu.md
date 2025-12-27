@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.818161,41.5583"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Balkanboyu Tümülüsü: Vize'de Gizlenen Tarihî Miras

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "38.7835312,37.1477623"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halilürrahman Medresesi

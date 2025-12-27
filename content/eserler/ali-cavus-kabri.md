@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9299374,41.0502663"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ali Çavuş Kabri: İstanbul'un Ölümsüz Anıtı

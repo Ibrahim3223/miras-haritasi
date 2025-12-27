@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.9558372,41.0207634"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İncirli Baba Kabri: İstanbul'un Gizli Anıt Mezarı

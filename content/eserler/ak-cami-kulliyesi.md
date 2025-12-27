@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.9340515,36.1473885"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ak Cami Külliyesi: Bozyazı'nın Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.94383,41.015839"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gürcü Mehmet Paşa Çeşmesi: Fatih'ten Bir Kültürel Miras

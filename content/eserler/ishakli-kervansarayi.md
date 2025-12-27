@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "31.22833333,38.53277778"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İshaklı Kervansarayı: Afyonkarahisar'ın Gizli Çehresi

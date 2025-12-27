@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.997611111,36.53475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Andızlı Camii: Alanya'nın Tarihi Bir Mirası

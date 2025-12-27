@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.014415,41.02248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziz Mahmud Hüdai Sebili: Üsküdar'ın Büyüleyici Çeşmesi

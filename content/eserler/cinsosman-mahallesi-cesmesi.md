@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.6683578,39.1023293"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cinsosman Mahallesi Çeşmesi

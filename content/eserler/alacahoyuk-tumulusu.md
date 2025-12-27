@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.5053864,37.3555145"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Alacahöyük Tümülüsü: Türkiye'nin Gizli Göller Bölgesi'ndeki Bir Arkeolojik Harikası

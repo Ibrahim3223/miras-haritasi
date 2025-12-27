@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.1254158,40.4778976"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Cami Minaresi, Küçükkumla

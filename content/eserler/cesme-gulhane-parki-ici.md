@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9803085,41.0138779"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme, Gülhane Parkı İçi

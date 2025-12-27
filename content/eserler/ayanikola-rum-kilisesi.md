@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.068575,41.120354"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayanikola Rum Kilisesi

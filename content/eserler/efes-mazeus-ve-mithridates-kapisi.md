@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.3410797,37.9392815"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Efes Mazeus ve Mithridates Kapısı

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.931146,40.997095"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arapkapısı Mescidi: İstanbul'un Gizli Cenneti

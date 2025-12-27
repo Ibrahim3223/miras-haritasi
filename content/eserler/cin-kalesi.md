@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "37.7157707,38.2580719"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cin Kalesi: Akçadağ'ın Tarihî Mirası

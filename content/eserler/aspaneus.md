@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.807167,39.570655"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aspaneus: Balıkesir'in Gizli Anıtı

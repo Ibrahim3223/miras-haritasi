@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.4620018,40.4673042"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burhanettin Camii: Gümüşhane'nin Tarihî Bir İcatı

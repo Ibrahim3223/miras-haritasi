@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9843826,41.0113754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aşçılar Mescidi: Fatih'teki Bir Tarihî Cami

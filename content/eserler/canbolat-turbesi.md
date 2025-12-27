@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.1144562,36.7146492"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Canbolat Türbesi: Kilis'in Gizli Cenneti

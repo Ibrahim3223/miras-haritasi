@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.7366333,37.7666283"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halilbeyli Çeşmesi: Aydın'ın Eski Çağdan Kalan Değerli Çeşmesi

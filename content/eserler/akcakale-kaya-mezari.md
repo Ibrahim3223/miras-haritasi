@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "37.7798157,39.1633415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akçakale Kaya Mezarı: Kangal'ın Tarihi Gizemi

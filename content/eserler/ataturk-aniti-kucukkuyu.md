@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6051674,39.545475"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Anıtı, Küçükkuyu: Çanakkale'nin Kahraman Anıtı

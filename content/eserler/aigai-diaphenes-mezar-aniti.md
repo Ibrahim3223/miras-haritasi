@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "27.1922035,38.8324432"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aigai Diaphenes Mezar Anıtı

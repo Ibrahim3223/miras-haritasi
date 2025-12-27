@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.1762123,39.9569855"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Alacalıgöl Höyüğü: Çanakkale'nin Gizli Kahramanı**

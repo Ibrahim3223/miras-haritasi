@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "32.8601723,39.9423828"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Debbağhane Medresesi: Ankara'nın Tarihi Mirası**

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "39.798334,40.657898"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dumanlı Köyü Çakallı Mahallesi Kilisesi

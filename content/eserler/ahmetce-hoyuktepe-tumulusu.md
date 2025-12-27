@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.2451134,41.7869415"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ahmetçe Höyüktepe Tümülüsü: Kırklareli'nin Gizli Mirası

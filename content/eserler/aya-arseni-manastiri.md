@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.8169003,40.1841011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Arseni Manastırı

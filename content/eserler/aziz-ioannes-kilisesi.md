@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "26.7827168,38.7327728"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aziz Ioannes Kilisesi: Foça'nın Tarihî Bir Mirası

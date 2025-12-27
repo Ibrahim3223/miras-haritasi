@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.937393,41.006923"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Davut Paşa Çeşmesi: Cerrahpaşa'nın Tarihî Bir Çeşmesi

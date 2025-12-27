@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.0989,38.253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hz. Zülkifl Türbesi: Diyarbakır'ın Kültürel Mirasının Gizemi

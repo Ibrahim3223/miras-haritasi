@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.932987,41.015253"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deniz Abdal Camii

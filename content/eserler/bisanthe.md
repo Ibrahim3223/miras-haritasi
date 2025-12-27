@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.518727,40.965959"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Bisanthe: Tekirdağ'ın Gizli Arkeolojik Cenneti

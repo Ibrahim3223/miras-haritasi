@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8257866,39.7781906"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dağoba Köyü Camii: Çanakkale'nin Gizli Cenneti

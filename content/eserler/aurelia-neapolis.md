@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.397699,37.690157"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Aurelia Neapolis: Tarihî Bir Kentin İzleri

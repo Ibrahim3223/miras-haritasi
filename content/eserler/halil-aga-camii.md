@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.1663513,36.1979256"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Halil Ağa Camii: Antakya'nın Gizli Pearli**

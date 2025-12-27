@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.990845,39.651184"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gordion Tümülüs K-I: Polatlı'da Antik Bir Miras

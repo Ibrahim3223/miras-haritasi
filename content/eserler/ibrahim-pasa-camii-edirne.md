@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.568827487,41.675727332"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edirne'nin İbrahim Paşa Camii: Tarih, Mimarlık ve Kültür

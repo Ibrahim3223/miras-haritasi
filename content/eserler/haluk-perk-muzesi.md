@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.729592404,40.98187306"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Haluk Perk Müzesi

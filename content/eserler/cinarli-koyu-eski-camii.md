@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.388453747,40.052525089"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çınarlı Köyü Eski Camii

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.8022594,41.6532555"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Habiller A Tümülüsü

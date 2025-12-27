@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.0537853,40.9792747"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İlhan Selçuk Heykeli: Kadıköy'ün Yürekli Yarası

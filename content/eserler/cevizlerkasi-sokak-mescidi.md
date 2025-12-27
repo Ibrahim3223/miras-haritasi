@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.9228992,40.1706009"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cevizlerkaşı Sokak Mescidi

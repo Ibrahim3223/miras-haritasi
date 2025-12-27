@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.0643673,38.0553932"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Belenardıç Camii: Denizli'nin Tarihi ve Kültürel Mirası

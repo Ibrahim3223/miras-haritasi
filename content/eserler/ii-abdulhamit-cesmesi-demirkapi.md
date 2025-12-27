@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.979662,41.014736"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## II. Abdülhamit Çeşmesi, Demirkapı

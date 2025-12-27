@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "35.175013,38.623112"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Agios Efstatios Kilisesi: İncesu'nun Gizli Cenneti

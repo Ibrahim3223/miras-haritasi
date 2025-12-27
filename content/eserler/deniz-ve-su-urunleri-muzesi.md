@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.098641,41.125172"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deniz ve Su Ürünleri Müzesi

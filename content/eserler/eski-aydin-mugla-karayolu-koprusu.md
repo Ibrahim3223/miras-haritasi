@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.1507759,37.4549255"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eski Aydın Muğla Karayolu Köprüsü: Aydın'ın Tarihi ve Mimari Mirası

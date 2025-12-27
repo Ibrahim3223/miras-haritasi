@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9450607,41.0319214"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayios Nikolas Ayazması, Balat

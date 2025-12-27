@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.9838734,40.1428757"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Baki Hamamı: Bilecik'te Bir Önemli Kültür Mirası

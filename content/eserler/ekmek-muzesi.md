@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.770107,39.956724"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ekmek Müzesi: Türkiye'nin Unutulmaz Ekmek Kültürü

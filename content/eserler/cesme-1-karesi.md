@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.878133033,39.647417825"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme-1, Karesi: Tarihi ve Kültürel Mirasın Parçası

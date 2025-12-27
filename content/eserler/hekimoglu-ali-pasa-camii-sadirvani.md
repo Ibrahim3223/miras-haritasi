@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9351826,41.006485"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hekimoğlu Ali Paşa Camii Şadırvanı

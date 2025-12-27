@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.645983,40.982"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İslahiye Kanboz Köprüsü**

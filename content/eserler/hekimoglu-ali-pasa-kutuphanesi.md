@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "28.9330995,41.0066452"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hekimoğlu Ali Paşa Kütüphanesi

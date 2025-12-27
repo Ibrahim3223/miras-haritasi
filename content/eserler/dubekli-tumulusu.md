@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.1685925,39.8841782"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dübekli Tümülüsü: Bozüyük'ün Gizemi

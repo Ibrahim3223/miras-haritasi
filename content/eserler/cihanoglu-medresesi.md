@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "27.8395805,37.8535004"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cihanoğlu Medresesi: Aydın'ın Efsanevi Eğitim Merkezi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.5717697,39.6380348"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gömeniç Kalesi: Balıkesir'in Gizli Şöhreti

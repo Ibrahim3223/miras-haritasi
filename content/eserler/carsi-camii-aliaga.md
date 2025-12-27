@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.9733887,38.8007698"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çarşı Camii, Aliağa: İzmir'in Tarihi ve Kültürel Mirası

@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "29.7834396,36.1592674"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aperlai Aşağı Kilisesi

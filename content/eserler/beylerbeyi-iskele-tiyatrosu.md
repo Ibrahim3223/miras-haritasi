@@ -12,7 +12,7 @@ turler: ["Antik Tiyatro"]
 coords: "29.0452175,41.0448723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Beylerbeyi İskele Tiyatrosu

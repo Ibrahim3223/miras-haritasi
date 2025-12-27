@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.5227051,40.9813576"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiftlikönü Çeşmesi: Tekirdağ'ın Eski Mirası

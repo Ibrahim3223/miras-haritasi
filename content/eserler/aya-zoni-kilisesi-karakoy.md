@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.979014297,41.024816748"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Zoni Kilisesi, Karaköy

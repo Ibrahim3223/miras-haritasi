@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.5767708,38.7562523"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Genç Kümbeti

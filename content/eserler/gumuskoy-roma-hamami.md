@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "27.4848995,37.8606987"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gümüşköy Roma Hamamı

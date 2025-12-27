@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.841383,37.8506165"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Afife Hanım Çeşmesi: Aydın'ın Tarihi Bir Mirası

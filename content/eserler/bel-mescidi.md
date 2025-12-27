@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.5428982,38.7502174"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bel Mescidi

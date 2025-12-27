@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.7118301,38.6229057"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hacı Şeyh Efendi Cami

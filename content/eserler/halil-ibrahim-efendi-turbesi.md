@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.3268,39.5277"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halil İbrahim Efendi Türbesi

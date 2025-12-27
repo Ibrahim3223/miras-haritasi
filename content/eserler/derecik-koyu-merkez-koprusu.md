@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.68435,41.00045"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Derecik Köyü Merkez Köprüsü: Tarihi ve Kültürel Bir Miras

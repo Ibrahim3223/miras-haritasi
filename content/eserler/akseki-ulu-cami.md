@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "31.7899399,37.0476379"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akseki Ulu Cami

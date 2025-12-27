@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.939219,41.031409"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Ebu Said El-Hudri Türbesi**

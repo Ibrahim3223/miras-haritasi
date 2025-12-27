@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.344326,40.7849197"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hocahasan Köyü Camii: Tarihi ve Kültürel Mirasın Bir Örneği

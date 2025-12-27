@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.7768421,41.4951935"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Antepe Tümülüsü

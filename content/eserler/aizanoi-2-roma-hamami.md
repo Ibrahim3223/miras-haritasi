@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "29.6142368,39.2014465"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aizanoi 2. Roma Hamamı: Kütahya'nın Tarihi Bir Mirası

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.946202,41.017493"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hasan Halife Camii

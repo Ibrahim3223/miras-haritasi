@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "28.9751,41.028"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Galata Mevlevihanesi Müzesi

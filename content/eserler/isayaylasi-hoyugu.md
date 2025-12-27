@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.8912854,38.6545037"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İsayaylası Höyüğü: Aksaray'ın Gizli Tarihi

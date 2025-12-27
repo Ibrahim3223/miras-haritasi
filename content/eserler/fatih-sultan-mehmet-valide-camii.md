@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.8376007,38.7410011"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Fatih Sultan Mehmet Valide Camii: İzmir'in Tarihi Bir Mirası

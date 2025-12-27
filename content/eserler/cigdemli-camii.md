@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "33.1282196,37.2350273"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çiğdemli Camii: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası

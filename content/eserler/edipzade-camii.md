@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "30.701024362,36.887921487"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Edipzade Camii: Antalya'nın Tarihi Bir Mirası

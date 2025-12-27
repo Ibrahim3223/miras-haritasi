@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "31.5385265,39.4533234"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Akdoğan Çeşmesi: Sivrihisar'ın Tarihi Ögesi

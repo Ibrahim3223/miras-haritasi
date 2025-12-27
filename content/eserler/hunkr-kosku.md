@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.064904,40.174194"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hünkâr Köşkü: Bursa'da Tarih ve Müzikin Birleştiği Yer

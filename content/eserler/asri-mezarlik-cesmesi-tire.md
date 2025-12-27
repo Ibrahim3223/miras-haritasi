@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.746336,38.0909576"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Asri Mezarlık Çeşmesi: Tire'nin Gizli Çeşmesi

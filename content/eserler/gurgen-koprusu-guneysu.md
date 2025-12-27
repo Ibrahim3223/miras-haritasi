@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.6586,40.952067"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gürgen Köprüsü Güneysu: Rize'nin Tarihi İmkânı

@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.360078,40.236185"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bigalı Köyü 19.Tümen Müzesi

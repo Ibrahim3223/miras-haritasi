@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.9172707,38.2437897"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Arbissos: Kahramanmaraş'ın Gizemi

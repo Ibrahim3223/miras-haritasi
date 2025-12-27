@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.944483,41.007769"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cerrah Mehmet Paşa Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.3740005,37.6268997"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Çeşme, Kazandere: Aydın'ın Gizli Çeşmesi

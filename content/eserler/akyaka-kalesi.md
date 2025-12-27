@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "28.3400269,37.0557404"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Akyaka Kalesi: Muğla'nın Gizli Çehresindeki Bir Harikadır

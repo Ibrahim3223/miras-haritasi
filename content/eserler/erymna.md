@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "31.584094,37.0733965"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Erymna Arkeolojik Sit: İbradı, Antalya'nın Gizli Şehri

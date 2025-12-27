@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.8699436,40.9919052"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dikilitaş, Bakırköy

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "27.562748,37.6230659"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Güzeltepe Kalesi, Söke

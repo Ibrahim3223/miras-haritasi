@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.116802777,41.370727777"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bazgireti Kilisesi

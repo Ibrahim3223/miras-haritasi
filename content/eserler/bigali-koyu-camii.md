@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.3602219,40.2360992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bigalı Köyü Camii: Eceabat'ın Gizli Cenneti

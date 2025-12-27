@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "26.9400158,40.7698746"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Elmalı Kalesi: Tarihi ve Kültürel Mirasın Parçaları Arasında

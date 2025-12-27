@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.955633,41.016384"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gazanfer Ağa Sebili: İstanbul'un Gözde Çeşmesi

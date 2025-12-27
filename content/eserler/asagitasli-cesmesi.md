@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "34.4770851,40.7375259"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aşağıtaslı Çeşmesi

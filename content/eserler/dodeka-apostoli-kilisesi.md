@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "28.979935,41.05397"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dodeka Apostoli Kilisesi

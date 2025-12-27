@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.615,38.112222222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Almura Arkeolojik Sit

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.6781502,41.0347557"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esenyurt Tarihi Merkez Camii

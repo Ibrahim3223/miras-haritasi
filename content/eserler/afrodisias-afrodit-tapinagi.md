@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.723355,37.709859"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Afrodisias Afrodit Tapınağı: Türkiye'nin Gizli Cenneti

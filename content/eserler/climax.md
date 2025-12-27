@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "33.0439567,41.9310816"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Climax: Geçmişin Gizemli Kalıntıları

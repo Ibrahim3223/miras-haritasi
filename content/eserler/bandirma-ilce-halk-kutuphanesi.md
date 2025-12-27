@@ -12,7 +12,7 @@ turler: ["Kütüphane"]
 coords: "27.97114,40.35588"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bandırma İlçe Halk Kütüphanesi

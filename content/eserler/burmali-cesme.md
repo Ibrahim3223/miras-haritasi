@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "30.5352325,38.7579575"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Burmalı Çeşme: Afyonkarahisar'ın Tarihi ve Kültürel Mirası

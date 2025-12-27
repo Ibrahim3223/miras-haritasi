@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "29.037433,36.579593"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Afkule Manastırı

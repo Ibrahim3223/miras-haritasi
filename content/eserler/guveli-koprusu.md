@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.5277691,38.8851013"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Güveli Köprüsü

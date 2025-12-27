@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "33.6190567,40.601223"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Buğday Pazarı Medresesi

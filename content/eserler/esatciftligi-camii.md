@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "36.8484993,40.9892998"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Esatçiftliği Camii: Samsun'un Tarihî ve Kültürel Mirası

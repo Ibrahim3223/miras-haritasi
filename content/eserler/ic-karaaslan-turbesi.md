@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "32.4997139,37.8737144"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İç Karaaslan Türbesi

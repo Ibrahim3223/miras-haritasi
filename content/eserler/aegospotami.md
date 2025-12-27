@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.630833333,40.364072222"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aegospotami: Gelibolu'nun Gizemli Eski Kenti

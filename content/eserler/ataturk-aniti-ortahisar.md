@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "39.730857,41.005193"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Atatürk Anıtı, Ortahisar

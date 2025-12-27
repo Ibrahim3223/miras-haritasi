@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "30.524027,39.765556"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eskişehir Cumhuriyet Tarihi Müzesi

@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.1160911,40.0604585"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ayaş İçmeleri ve Kaplıcaları: Tarihi ve Kültürel Mirasımız

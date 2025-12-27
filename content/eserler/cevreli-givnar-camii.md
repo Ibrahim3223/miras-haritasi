@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "41.46349,40.766723"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Çevreli Givnar Camii**

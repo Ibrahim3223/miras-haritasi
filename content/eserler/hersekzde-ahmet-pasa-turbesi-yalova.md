@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.504591,40.7231789"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hersekzâde Ahmet Paşa Türbesi, Yalova

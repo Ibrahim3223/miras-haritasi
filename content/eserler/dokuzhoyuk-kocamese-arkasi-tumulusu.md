@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.0442638,41.6332741"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokuzhöyük Kocameşe Arkası Tümülüsü: Tarihî Bir Gizem

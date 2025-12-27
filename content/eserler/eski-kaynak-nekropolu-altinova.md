@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.80527,39.230773"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Eski Kaynak Nekropolü, Altınova: Ayvalık'ta Bir Antik Miras

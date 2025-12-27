@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.4376136,39.8926288"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Günyamaç Büyük Höyük: Türkiye'nin Gizli Cenneti

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9783268,41.0091248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abud Efendi Konağı Çeşmesi - 1

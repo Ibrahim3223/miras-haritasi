@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.0159206,37.9333992"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Başdeğirmen Köprüsü

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "34.6973449,39.9387474"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Baltasarılar Höyük: Yozgat'ın Gizemli Arkeolojik Sitleri

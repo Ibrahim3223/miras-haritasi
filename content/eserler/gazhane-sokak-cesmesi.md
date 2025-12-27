@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4938049,37.8652763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gazhane Sokak Çeşmesi

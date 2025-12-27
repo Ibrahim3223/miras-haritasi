@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "26.682841,40.043192"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Astyra (Biga)

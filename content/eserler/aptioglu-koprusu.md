@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "40.9244102,41.047647"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Aptioğlu Köprüsü

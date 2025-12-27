@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "40.738264,37.313221"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dinari Pamuk Camii: Mardin'in Gizli Çeşmesi

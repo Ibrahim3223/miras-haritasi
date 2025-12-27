@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.856388888,40.276388888"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Höyücek Tepesi: Bandırma'nın Gizli Anıtı

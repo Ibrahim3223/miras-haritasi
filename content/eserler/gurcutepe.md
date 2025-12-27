@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "38.8459282,37.1198654"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gürcütepe: Şanlıurfa'nın Gizli Cenneti

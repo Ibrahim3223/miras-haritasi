@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.4138889,41.5163879"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Hamzabey Ceylan Tümülüsü**

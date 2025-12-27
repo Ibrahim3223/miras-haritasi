@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8355789,38.4930763"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akçapınar Tümülüsü: Turgutlu'ndaki Antik Eserin Gizemi

@@ -12,7 +12,7 @@ turler: ["Medrese"]
 coords: "29.071574,40.18386"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Gökdere Medresesi: Bursa'nın Tarihî Mirası

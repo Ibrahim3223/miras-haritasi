@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "29.9753036,38.9083748"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ağaçköy Şehitliği II

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "35.902305555,41.569944444"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bafra Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri

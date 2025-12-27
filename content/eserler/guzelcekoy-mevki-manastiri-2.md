@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.9727993,40.1852989"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Güzelceköy Mevki Manastırı 2

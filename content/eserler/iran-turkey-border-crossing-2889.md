@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.612582527,37.724146949"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İran-Türkiye Sınır Giriş #2889: Tarihi Bir Kervansaray

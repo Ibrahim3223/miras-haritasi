@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.7860603,37.1526299"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fırfırlı Camii: Şanlıurfa'nın Gizli Çehresini Görmenin Yeri

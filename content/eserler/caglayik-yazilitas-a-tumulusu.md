@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.3780174,42.004158"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Çağlayık Yazılıtaş A Tümülüsü

@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "28.930306,41.042035"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Abdülahad Nuri Sivasi Türbesi

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.8602448,37.8482094"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Deveciler Çeşmesi: Aydınlık Köşenin Gizemi

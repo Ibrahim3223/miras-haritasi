@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "29.343302,40.814183"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hünkâr Çayırı Köprüsü: Kocaeli'nin Tarihi ve Kültürel Mirası

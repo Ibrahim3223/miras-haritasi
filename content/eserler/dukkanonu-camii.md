@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.8497944,37.8480263"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Dükkanönü Camii: Aydın'ın Gizli Çarıklarından Bir Zenginlik

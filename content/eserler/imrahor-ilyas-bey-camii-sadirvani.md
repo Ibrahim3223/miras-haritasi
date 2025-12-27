@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9282551,40.9961967"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **İmrahor İlyas Bey Camii Şadırvanı**

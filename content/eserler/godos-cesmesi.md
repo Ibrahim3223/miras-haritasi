@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.4345589,40.2056618"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Godoş Çeşmesi: Kelkit'in Tarihî Mirası

@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "39.5623245,41.0197411"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Hüsnü Efendi Çeşmesi: Trabzon'un Gizli Çeşmesi

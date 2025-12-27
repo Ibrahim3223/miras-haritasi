@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "32.8030052,36.0229988"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Anemurium Büyük Hamam: Tarihî Bir Mirasın Gizli Çehresi

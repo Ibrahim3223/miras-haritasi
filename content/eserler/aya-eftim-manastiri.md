@@ -12,7 +12,7 @@ turler: ["Manastır"]
 coords: "25.7654991,40.1551018"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Aya Eftim Manastırı: Gökçeada'nın Tarihi Bir Mirası

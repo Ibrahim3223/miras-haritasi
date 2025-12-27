@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "40.0966415,38.2573853"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Eğil Kaya Mezarları

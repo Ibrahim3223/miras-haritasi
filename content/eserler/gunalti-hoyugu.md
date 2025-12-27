@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "37.9163111,37.0093942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Günaltı Höyüğü: Nizip'in Gizli Mirası

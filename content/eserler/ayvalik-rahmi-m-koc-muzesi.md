@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "26.6932735,39.3231392"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Ayvalık Rahmi M. Koç Müzesi

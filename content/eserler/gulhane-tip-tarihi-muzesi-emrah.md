@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "32.8410759,39.9682541"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Gülhane Tıp Tarihi Müzesi

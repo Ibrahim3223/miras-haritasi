@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "42.032222222,41.159333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cuğo Kilisesi: Ardanuç'ta Bir Tarihî Eser

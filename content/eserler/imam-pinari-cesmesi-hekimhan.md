@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "37.933379493,38.818466714"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmam Pınarı Çeşmesi, Hekimhan

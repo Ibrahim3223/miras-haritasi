@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "27.1066704,41.2129745"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çorumi Mustafa Bey Camii: Tekirdağ'ın Tarihi Bir Mirası

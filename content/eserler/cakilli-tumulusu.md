@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "27.8565788,41.5192566"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakıllı Tümülüsü: Vize'nin Gizli Kahramanı

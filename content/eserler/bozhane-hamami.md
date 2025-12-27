@@ -12,7 +12,7 @@ turler: ["Hamam"]
 coords: "31.4139938,41.2840996"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Bozhane Hamamı: Tarihî Bir Mirasın Gerçek Hikayesi

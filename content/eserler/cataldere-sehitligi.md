@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.2944126,40.2329369"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çataldere Şehitliği

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "39.457634,40.45364"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Dere Camii Minaresi: Gümüşhane'de Bir Tarihi Çıkın

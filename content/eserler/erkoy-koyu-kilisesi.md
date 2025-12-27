@@ -12,7 +12,7 @@ turler: ["Kilise"]
 coords: "38.587695,40.721478"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Erköy Köyü Kilisesi

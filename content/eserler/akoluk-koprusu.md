@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "37.7008724,40.8208164"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Akoluk Köprüsü: Ulubey'in Tarihi Mirası

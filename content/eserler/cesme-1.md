@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "27.4907417,37.90942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çeşme 1: Germencik'teki Bir Kültür Mirası

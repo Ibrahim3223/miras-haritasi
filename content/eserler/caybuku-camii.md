@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.1374016,37.2432518"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çaybükü Camii: Muğla'nın Gizli Çarşısı

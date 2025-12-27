@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "42.4639397,38.7491341"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Ahlat Anonim Kümbet

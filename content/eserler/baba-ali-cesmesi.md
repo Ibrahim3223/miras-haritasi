@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "29.067039,41.102843"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Baba Ali Çeşmesi

@@ -12,7 +12,7 @@ turler: ["Kale"]
 coords: "38.122387,39.375694"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Divriği Kalesi: Tarihi ve Kültürel Mirası

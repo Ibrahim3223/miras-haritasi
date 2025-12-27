@@ -12,7 +12,7 @@ turler: ["Anıt"]
 coords: "26.6799,40.41"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Bayraklı Baba Türbesi

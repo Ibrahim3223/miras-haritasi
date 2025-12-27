@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.396089,38.579203"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Elmacık Höyük: Uşak'taki Antik Bir Yerleşim

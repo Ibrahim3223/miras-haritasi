@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "26.6848202,41.2662926"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Halise Hatun Camii: Edirne'nin Gizli Çehresini Açıklama

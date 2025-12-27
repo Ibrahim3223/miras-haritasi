@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "29.066929649,41.083085916"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Fatih Sultan Mehmed Camii: Beykoz'un Gizli Çesmesi

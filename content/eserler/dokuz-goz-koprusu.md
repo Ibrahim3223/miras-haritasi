@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "28.9707489,39.1220093"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Dokuz Göz Köprüsü

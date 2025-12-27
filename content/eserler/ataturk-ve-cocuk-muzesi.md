@@ -12,7 +12,7 @@ turler: ["Müze"]
 coords: "29.247816906,40.658073414"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Atatürk ve Çocuk Müzesi

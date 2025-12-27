@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "28.03833333,41.05333333"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Daminon Teichos: Antik Dünya'nın Gizemli Kalesi

@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "30.555001,38.509754"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 # Hüyük Tepesi Arkeolojik Sit

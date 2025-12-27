@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.9784336,41.0090942"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Abud Efendi Konağı Çeşmesi - 2: Fatih'in Gizli Çeşmesi

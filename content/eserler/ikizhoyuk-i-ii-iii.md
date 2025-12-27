@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "29.965633,38.193833"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İkizhöyük I II III: Tarihî Bir Mirasın Geri Dönüşü

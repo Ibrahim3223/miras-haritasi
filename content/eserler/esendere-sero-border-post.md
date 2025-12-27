@@ -12,7 +12,7 @@ turler: ["Kervansaray"]
 coords: "44.622259,37.716689097"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Esendere - Sero Border Post: Tarihi ve Kültürel Bir Kervansaray

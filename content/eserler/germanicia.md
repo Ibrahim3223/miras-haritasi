@@ -12,7 +12,7 @@ turler: ["Arkeolojik Sit"]
 coords: "36.945611111,37.576111111"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Germanicia: Kahramanmaraş'ın Tarihî Mirası

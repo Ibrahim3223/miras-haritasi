@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "42.1094246,38.4032707"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 **Aynelbarit Camii: Bir Tarihî Mirasın Gizemi**

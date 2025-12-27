@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "34.6768036,37.9668007"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Cullaz Camii: Niğde'nin Tarihi Bir Mirası

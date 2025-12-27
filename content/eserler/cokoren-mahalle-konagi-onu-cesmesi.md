@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "32.4392471,39.6589546"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Sincan'daki Bir Çeşmenin Tarihi ve Özellikleri: Çokören Mahalle Konağı Önü Çeşmesi

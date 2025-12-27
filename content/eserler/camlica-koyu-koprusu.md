@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.532142,40.783117"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çamlıca Köyü Köprüsü

@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "38.1144905,39.3731308"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Hacı Osman Mescidi, Divriği

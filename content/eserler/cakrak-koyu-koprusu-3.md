@@ -12,7 +12,7 @@ turler: ["Köprü"]
 coords: "38.601627,40.525321"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## Çakrak Köyü Köprüsü 3: Alucra'nın Tarihi Bir Ruhuna Sahip Bir Köprü

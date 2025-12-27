@@ -12,7 +12,7 @@ turler: ["Çeşme"]
 coords: "28.951204,41.01822"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ## İmaret Çeşmesi Hakkında

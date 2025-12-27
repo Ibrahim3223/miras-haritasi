@@ -12,7 +12,7 @@ turler: ["Cami"]
 coords: "28.9807835,41.0049248"
 draft: false
 
-weight: 100
+weight: 999
 ---
 
 ### Cankurtaran Camii: İstanbul'un Gizli Çeşmesi
