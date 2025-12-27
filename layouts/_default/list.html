@@ -6,24 +6,12 @@
         </p>{{ end }}
     </div>
 
-    <!-- Search & Filters -->
-    <div class="search-box">
-        <input type="text" id="contentSearch" placeholder="Eser, şehir veya tür ara..." class="search-input"
-            onkeyup="filterContent()">
-        <span style="position: absolute; right: 20px; top: 18px; color: var(--text-light);">🔍</span>
-    </div>
-
-    <div class="filter-bar">
-        <a href="/eserler" class="filter-chip {{ if eq .Title " Eserler" }}active{{ end }}">Tümü</a>
-        {{ range first 8 .Site.Taxonomies.turler.ByCount }}
-        <a href="/turler/{{ .Name | urlize }}" class="filter-chip {{ if eq $.Title .Page.Title }}active{{ end }}">{{
-            .Name | humanize }}</a>
-        {{ end }}
-    </div>
+    <!-- Advanced & Filters -->
+    {{ partial "advanced-filters.html" . }}
 
     <div class="card-grid" id="contentGrid">
         {{ range .Paginator.Pages }}
-        <article class="card" data-title="{{ .Title | lower }}" data-province="{{ .Params.province | lower }}"
+        <article class="card" data-title="{{ .Title | lower }}" data-city="{{ .Params.province | lower }}"
             data-type="{{ .Params.type | lower }}">
             <a href="{{ .RelPermalink }}" class="card-img-wrap">
                 {{ if .Params.image }}

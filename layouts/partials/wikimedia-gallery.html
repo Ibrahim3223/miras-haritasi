@@ -1,0 +1,90 @@
+{{ if .Title }}
+<div class="gallery-section" style="margin-top: 50px; margin-bottom: 50px;">
+    <h3 style="font-size: 1.5rem; margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 10px;">
+        📷 Fotoğraf Galerisi (Wikimedia Commons)
+    </h3>
+    <div id="wiki-gallery"
+        style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px;">
+        <p style="color: var(--text-light); font-style: italic;">Görseller yükleniyor...</p>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', async () => {
+        const gallery = document.getElementById('wiki-gallery');
+        // Fallback to title search if no Wikidata ID is present (which is likely for most items currently)
+        const searchTerm = "{{ .Title }}";
+
+        // SPARQL Query to find images for items with this Label (Turkish)
+        // Note: This is a "fuzzy" search approach since we don't have exact QIDs for all 19k items yet.
+        // We limit to 6 images.
+        const sparqlQuery = `
+            SELECT ?item ?itemLabel ?image WHERE {
+              SERVICE wikibase:mwapi {
+                  bd:serviceParam wikibase:api "EntitySearch" .
+                  bd:serviceParam wikibase:endpoint "www.wikidata.org" .
+                  bd:serviceParam mwapi:search "${searchTerm}" .
+                  bd:serviceParam mwapi:language "tr" .
+                  ?item wikibase:apiOutputItem mwapi:item .
+              }
+              ?item wdt:P18 ?image .
+              SERVICE wikibase:label { bd:serviceParam wikibase:language "tr,en". }
+            } LIMIT 6
+        `;
+
+        const url = `https://query.wikidata.org/sparql?query=${encodeURIComponent(sparqlQuery)}&format=json`;
+
+        try {
+            const response = await fetch(url, {
+                headers: { 'Accept': 'application/sparql-results+json' }
+            });
+
+            if (!response.ok) throw new Error('Network response was not ok');
+
+            const data = await response.json();
+            const results = data.results.bindings;
+
+            if (results.length > 0) {
+                gallery.innerHTML = ''; // Clear loading text
+
+                // Deduplicate images
+                const seenImages = new Set();
+
+                results.forEach(item => {
+                    const imgUrl = item.image.value;
+                    if (seenImages.has(imgUrl)) return;
+                    seenImages.add(imgUrl);
+
+                    const imgElement = document.createElement('img');
+                    imgElement.src = imgUrl; // Full size (maybe hefty)
+                    // Optimization: Use specific width thumb if possible, but Commons URL hacky.
+                    // Simple replacement for Wikimedia thumbs: 
+                    // File: https://commons.wikimedia.org/wiki/Special:FilePath/Filename.jpg?width=300
+
+                    imgElement.alt = item.itemLabel ? item.itemLabel.value : searchTerm;
+                    imgElement.style.width = '100%';
+                    imgElement.style.height = '150px';
+                    imgElement.style.objectFit = 'cover';
+                    imgElement.style.borderRadius = '8px';
+                    imgElement.style.cursor = 'pointer';
+                    imgElement.loading = 'lazy';
+
+                    // Lightbox link (simple)
+                    const link = document.createElement('a');
+                    link.href = imgUrl;
+                    link.target = '_blank';
+                    link.appendChild(imgElement);
+
+                    gallery.appendChild(link);
+                });
+            } else {
+                gallery.innerHTML = '<p style="color: var(--text-light);">Ek görsel bulunamadı.</p>';
+                document.querySelector('.gallery-section').style.display = 'none'; // Hide section if empty
+            }
+        } catch (error) {
+            console.error('Wikimedia fetch error:', error);
+            gallery.innerHTML = '<p style="color: var(--text-light);">Görseller yüklenemedi.</p>';
+        }
+    });
+</script>
+{{ end }}

@@ -29,10 +29,14 @@
         <span style="font-weight: 600;">{{ .Title }}</span>
     </nav>
 
+    <!-- Advanced Filters -->
+    {{ partial "advanced-filters.html" . }}
+
     <!-- Grid -->
     <div class="card-grid">
         {{ range .Paginator.Pages }}
-        <article class="card">
+        <article class="card" data-title="{{ .Title | lower }}" data-city="{{ .Params.province | lower }}"
+            data-type="{{ .Params.type | lower }}">
             <a href="{{ .Permalink }}" class="card-img-wrap">
                 {{ $img := .Params.image | default .Params.featured_image | default .Params.cover }}
                 {{ if $img }}

@@ -1,0 +1,100 @@
+<div class="advanced-filters"
+    style="background: white; padding: 20px; border-radius: 12px; box-shadow: var(--shadow-sm); border: 1px solid var(--border); margin-bottom: 30px;">
+    <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px;">
+        <h3 style="font-size: 1.1rem; margin: 0; display: flex; align-items: center; gap: 8px;">
+            <span>⚡</span> Hızlı Filtrele
+        </h3>
+        <span id="filter-count" style="font-size: 0.85rem; color: var(--text-light); font-weight: 500;">Tüm eserler
+            gösteriliyor</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+        <!-- Search Input -->
+        <div class="filter-group">
+            <input type="text" id="filter-search" placeholder="İsim ile ara..."
+                style="width: 100%; padding: 10px 15px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem; outline: none; transition: border-color 0.2s;">
+        </div>
+
+        <!-- City Filter -->
+        <div class="filter-group">
+            <select id="filter-city"
+                style="width: 100%; padding: 10px 15px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem; outline: none; background: white;">
+                <option value="all">Tüm Şehirler</option>
+                {{ range $name, $items := .Site.Taxonomies.iller }}
+                <option value="{{ $name }}">{{ $name | humanize }} ({{ $items.Count }})</option>
+                {{ end }}
+            </select>
+        </div>
+
+        <!-- Type Filter -->
+        <div class="filter-group">
+            <select id="filter-type"
+                style="width: 100%; padding: 10px 15px; border: 1px solid #ddd; border-radius: 8px; font-size: 0.95rem; outline: none; background: white;">
+                <option value="all">Tüm Kategoriler</option>
+                {{ range $name, $items := .Site.Taxonomies.turler }}
+                <option value="{{ $name }}">{{ $name | humanize }} ({{ $items.Count }})</option>
+                {{ end }}
+            </select>
+        </div>
+
+        <!-- Reset Button -->
+        <button id="filter-reset"
+            style="padding: 10px 20px; background: #f1f2f6; border: none; border-radius: 8px; font-weight: 600; color: var(--text-dark); cursor: pointer; transition: background 0.2s;">
+            Sıfırla
+        </button>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const searchInput = document.getElementById('filter-search');
+            const citySelect = document.getElementById('filter-city');
+            const typeSelect = document.getElementById('filter-type');
+            const resetButton = document.getElementById('filter-reset');
+            const countLabel = document.getElementById('filter-count');
+
+            // Assuming list items have classes/attributes we can hook into. 
+            // We need to ensure the list template adds data attributes.
+            // Let's assume standard card grid items will be targeted.
+            const items = document.querySelectorAll('.card-grid article');
+
+            function filterItems() {
+                const query = searchInput.value.toLowerCase();
+                const city = citySelect.value.toLowerCase();
+                const type = typeSelect.value.toLowerCase();
+
+                let visibleCount = 0;
+
+                items.forEach(item => {
+                    // Extract data from DOM if attributes exist, otherwise text content fallback
+                    const itemCity = item.dataset.city ? item.dataset.city.toLowerCase() : '';
+                    const itemType = item.dataset.type ? item.dataset.type.toLowerCase() : '';
+                    const itemTitle = item.querySelector('.card-title h4, h4.card-title, .card-title a').textContent.toLowerCase();
+
+                    const matchesSearch = itemTitle.includes(query);
+                    const matchesCity = city === 'all' || itemCity === city || (city !== 'all' && item.textContent.toLowerCase().includes(city)); // Fallback to text search if data attr missing
+                    const matchesType = type === 'all' || itemType === type || (type !== 'all' && item.textContent.toLowerCase().includes(type));
+
+                    if (matchesSearch && matchesCity && matchesType) {
+                        item.style.display = '';
+                        visibleCount++;
+                    } else {
+                        item.style.display = 'none';
+                    }
+                });
+
+                countLabel.textContent = `${visibleCount} eser listeleniyor`;
+            }
+
+            searchInput.addEventListener('input', filterItems);
+            citySelect.addEventListener('change', filterItems);
+            typeSelect.addEventListener('change', filterItems);
+
+            resetButton.addEventListener('click', () => {
+                searchInput.value = '';
+                citySelect.value = 'all';
+                typeSelect.value = 'all';
+                filterItems();
+            });
+        });
+    </script>
+</div>
