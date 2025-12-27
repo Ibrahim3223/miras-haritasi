@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "30.4036503,40.7817841"
 draft: false
+
+weight: 100
 ---
 
 ## Surp İstepannos Ermeni Protestan Kilisesi

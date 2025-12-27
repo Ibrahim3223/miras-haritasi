@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5361,38.7557"
 draft: false
+
+weight: 100
 ---
 
 ## İmad Bin Hacı Muhiddin Türbesi

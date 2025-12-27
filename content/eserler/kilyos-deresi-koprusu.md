@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.039421,41.246214"
 draft: false
+
+weight: 100
 ---
 
 ## Kilyos Deresi Köprüsü

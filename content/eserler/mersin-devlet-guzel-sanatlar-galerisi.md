@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6297,36.7989"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Devlet Güzel Sanatlar Galerisi

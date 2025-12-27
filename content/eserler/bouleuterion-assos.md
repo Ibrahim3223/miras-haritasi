@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "26.337777777,39.489166666"
 draft: false
+
+weight: 10
 ---
 
 ## Bouleuterion (Assos)

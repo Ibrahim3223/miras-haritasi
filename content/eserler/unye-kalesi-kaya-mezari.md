@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "37.239583333,41.0965"
 draft: false
+
+weight: 100
 ---
 
 ## Ünye Kalesi Kaya Mezarı: Ünye'nin Gizli Mirası

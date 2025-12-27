@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.95722222,41.01972222"
 draft: false
+
+weight: 10
 ---
 
 ## Zeyrek Camii: İstanbul'un Tarihî Cenneti

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.6943226,41.2431755"
 draft: false
+
+weight: 10
 ---
 
 ### Kara Mustafa Paşa Köprüsü: Türkiye'nin Tarihi ve Kültürel Mirası

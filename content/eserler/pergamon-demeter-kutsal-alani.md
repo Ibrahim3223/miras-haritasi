@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "27.1839943,39.1272316"
 draft: false
+
+weight: 10
 ---
 
 **Pergamon Demeter Kutsal Alanı**

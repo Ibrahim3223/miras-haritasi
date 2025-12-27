@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.053421767,41.10676182"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Lale Vakfı Müzesi

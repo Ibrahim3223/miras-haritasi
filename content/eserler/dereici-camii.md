@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.526438,40.8717506"
 draft: false
+
+weight: 100
 ---
 
 ## Dereiçi Camii: Artvin'in Yüzyıllarca Eski Dinî Mirası

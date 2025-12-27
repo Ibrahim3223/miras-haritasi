@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.3753147,40.1408539"
 draft: false
+
+weight: 10
 ---
 
 ### Seyit Onbaşı Anıtı

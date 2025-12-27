@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.1466999,37.9291"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 2, Eskihisar: Aydın'ın Gizli Çeşmesi

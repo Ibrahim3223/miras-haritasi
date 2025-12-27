@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.1180801,36.7114601"
 draft: false
+
+weight: 100
 ---
 
 ## Özbek Camii: Kilis'in Tarihi ve Kültürel Mirası

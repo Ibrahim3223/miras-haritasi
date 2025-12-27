@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.145833333,38.413888888"
 draft: false
+
+weight: 10
 ---
 
 # Kadifekale: İzmir'in Tarihî ve Kültürel Mirası

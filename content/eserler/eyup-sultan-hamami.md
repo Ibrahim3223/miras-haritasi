@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.932678,41.048001"
 draft: false
+
+weight: 100
 ---
 
 ### Eyüp Sultan Hamamı

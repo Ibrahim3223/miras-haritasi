@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.030601,41.024812"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Haç Kilisesi: İnceleme ve Tanıtım

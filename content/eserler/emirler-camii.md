@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "39.4967155,40.4498062"
 draft: false
+
+weight: 100
 ---
 
 ## Emirler Camii: Gümüşhane'nin Tarihî Bir Anıtı

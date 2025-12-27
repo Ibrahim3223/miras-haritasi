@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "28.9606895,41.0154495"
 draft: false
+
+weight: 100
 ---
 
 ## Voynuk Şüca Hamamı

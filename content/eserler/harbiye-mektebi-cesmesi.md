@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9880123,41.0477371"
 draft: false
+
+weight: 100
 ---
 
 ## Harbiye Mektebi Çeşmesi: Şişli'nin Gizli Çeşmesi

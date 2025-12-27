@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "30.0369065,39.4807152"
 draft: false
+
+weight: 100
 ---
 
 # Tarihi Çalca Köprüsü

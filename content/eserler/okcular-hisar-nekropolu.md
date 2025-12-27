@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9643993,39.2757988"
 draft: false
+
+weight: 100
 ---
 
 # Okçular Hisar Nekropolü

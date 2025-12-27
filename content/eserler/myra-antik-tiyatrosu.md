@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.98531,36.25895"
 draft: false
+
+weight: 10
 ---
 
 ## Myra Antik Tiyatrosu: Türkiye'nin Bir Tarihi ve Kültürel Mirası

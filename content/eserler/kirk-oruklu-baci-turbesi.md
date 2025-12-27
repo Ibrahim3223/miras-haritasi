@@ -11,6 +11,8 @@ type: "Türbe"
 turler: ["Türbe"]
 coords: "39.4991837,39.7172203"
 draft: false
+
+weight: 100
 ---
 
 ### Kırk Örüklü Bacı Türbesi

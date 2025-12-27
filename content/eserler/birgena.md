@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.185373,39.046379"
 draft: false
+
+weight: 100
 ---
 
 ## Birgena Arkeolojik Sit

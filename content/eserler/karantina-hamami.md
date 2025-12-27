@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "27.1079063,38.4064789"
 draft: false
+
+weight: 100
 ---
 
 ## Karantina Hamamı: İzmir'in Tarihî Bir Mirası

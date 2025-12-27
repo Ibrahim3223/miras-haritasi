@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0703278,41.1247139"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Hovhannes Mıgırdiç Ermeni Katolik Kilisesi

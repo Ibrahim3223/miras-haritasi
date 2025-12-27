@@ -11,6 +11,8 @@ type: "Kütüphane"
 turler: ["Kütüphane"]
 coords: "29.0516644,41.0831757"
 draft: false
+
+weight: 100
 ---
 
 ## Van Millingen Kütüphanesi

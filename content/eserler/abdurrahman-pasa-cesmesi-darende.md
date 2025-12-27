@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.584658834,38.467767221"
 draft: false
+
+weight: 100
 ---
 
 ## Abdurrahman Paşa Çeşmesi, Darende

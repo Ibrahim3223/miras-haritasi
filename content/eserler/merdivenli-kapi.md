@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.96875,41.0098419"
 draft: false
+
+weight: 100
 ---
 
 ## Merdivenli Kapı: İstanbul'un Tarihî Harikası

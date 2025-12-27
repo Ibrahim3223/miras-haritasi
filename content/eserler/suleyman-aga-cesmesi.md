@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.0982647,39.5574799"
 draft: false
+
+weight: 100
 ---
 
 ### Süleyman Ağa Çeşmesi

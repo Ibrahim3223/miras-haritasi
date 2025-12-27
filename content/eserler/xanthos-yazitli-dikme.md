@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3186169,36.3572617"
 draft: false
+
+weight: 10
 ---
 
 ## Xanthos Yazıtlı Dikme: Antik bir Anıtın Efsanesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.699167,40.346667"
 draft: false
+
+weight: 10
 ---
 
 # Lampsakos Hazinesi: Efsanevi Bir Arkeolojik Sit

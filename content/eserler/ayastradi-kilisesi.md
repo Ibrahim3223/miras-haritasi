@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "25.7714005,40.1388016"
 draft: false
+
+weight: 100
 ---
 
 ### Ayastradi Kilisesi: Gökçeada'nın Gizli Gözdeleri

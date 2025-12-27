@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "33.2505083,38.253427"
 draft: false
+
+weight: 100
 ---
 
 ## Gözlü Höyük: Aksaray'ın Tarihî Mirası

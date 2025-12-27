@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "34.805888888,39.82175"
 draft: false
+
+weight: 100
 ---
 
 ### Hamidiye Saatli Çeşmesi: Yozgat'ın Tarihi Bir Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.2459,39.064167"
 draft: false
+
+weight: 100
 ---
 
 ## Gümüşova Tepe II: Bergama'nın Gizli Mimari Harikası

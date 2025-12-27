@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0571175,41.1703568"
 draft: false
+
+weight: 10
 ---
 
 ## Sarıyer Çeşmesi: İstanbul'un Ören Yeri

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.8919089,40.90921"
 draft: false
+
+weight: 100
 ---
 
 ## Dikilitaş Türbesi: Ladik'in Gizli Hazineleri

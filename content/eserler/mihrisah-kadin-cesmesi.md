@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.976891,41.026134"
 draft: false
+
+weight: 10
 ---
 
 ## Mihrişah Kadın Çeşmesi: Tarihi ve Kültürel Miras

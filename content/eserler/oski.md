@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "41.542111111,40.613711111"
 draft: false
+
+weight: 10
 ---
 
 ## Oşki Manastırı: Erzurum'un Gizli Cenneti

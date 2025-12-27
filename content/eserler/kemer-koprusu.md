@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "29.36194,36.69339"
 draft: false
+
+weight: 10
 ---
 
 # Kemer Köprüsü: Muğla'nın Kültürel Mirası

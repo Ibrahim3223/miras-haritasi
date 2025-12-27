@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "30.0364227,39.9059601"
 draft: false
+
+weight: 100
 ---
 
 ### Kasım Paşa Hamamı

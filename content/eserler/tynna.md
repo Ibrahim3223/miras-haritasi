@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.564162,37.520926"
 draft: false
+
+weight: 100
 ---
 
 ## Tynna Arkeolojik Sit

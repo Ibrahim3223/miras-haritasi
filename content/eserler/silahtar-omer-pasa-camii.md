@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.45083333,40.705"
 draft: false
+
+weight: 10
 ---
 
 ## Silahtar Ömer Paşa Camii

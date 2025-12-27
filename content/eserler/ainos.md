@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.08046,40.7242"
 draft: false
+
+weight: 100
 ---
 
 ### Ainos: Enez'in Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.5015888,38.6963539"
 draft: false
+
+weight: 100
 ---
 
 **Yüzbaşı Agah Efendi Şehitliği**

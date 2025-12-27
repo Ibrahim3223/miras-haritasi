@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.3058051,39.6935517"
 draft: false
+
+weight: 100
 ---
 
 ## Zeynel Höyüğü: Yozgat'ın Gizli Tarihi

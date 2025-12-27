@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0562229,40.1827469"
 draft: false
+
+weight: 10
 ---
 
 ### Yerkapı Camii: Bursa'nın Tarihî ve Kültürel Mirası

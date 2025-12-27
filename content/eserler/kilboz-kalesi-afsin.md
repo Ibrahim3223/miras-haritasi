@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "37.0488014,38.5379753"
 draft: false
+
+weight: 100
 ---
 
 ## Kilboz Kalesi Afşin: Tarihi ve Kültürel Miras

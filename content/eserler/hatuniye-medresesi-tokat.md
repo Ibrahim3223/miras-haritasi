@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "36.553561937,40.31847422"
 draft: false
+
+weight: 100
 ---
 
 ## Hatuniye Medresesi: Tokat'ın Tarihi Bir Mirası

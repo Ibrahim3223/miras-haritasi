@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.2297115,40.9179726"
 draft: false
+
+weight: 10
 ---
 
 ### Mustafa Halveti Türbesi

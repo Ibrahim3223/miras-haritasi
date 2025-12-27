@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.642,38.874"
 draft: false
+
+weight: 100
 ---
 
 # Citharizon: Bir Arkeolojik Sitin Gizemi

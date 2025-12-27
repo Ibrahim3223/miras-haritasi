@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.2064362,39.6639709"
 draft: false
+
+weight: 100
 ---
 
 ## Tavaklı Sakar Dağı Kalesi

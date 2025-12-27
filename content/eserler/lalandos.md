@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.083257,39.063475"
 draft: false
+
+weight: 100
 ---
 
 ## Lalandos Arkeolojik Siti: Gömü'nin Gizemi

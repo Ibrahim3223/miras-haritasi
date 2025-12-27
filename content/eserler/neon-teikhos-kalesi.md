@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.0916595,38.6594696"
 draft: false
+
+weight: 100
 ---
 
 ### Menemen'in Gizli Kahramanı: Neon Teikhos Kalesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.978849,41.010586"
 draft: false
+
+weight: 100
 ---
 
 ### Soğukçeşme Kapısı: Fatih'in Gizli Anıtı

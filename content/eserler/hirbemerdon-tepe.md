@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.013611111,37.7775"
 draft: false
+
+weight: 100
 ---
 
 ## Hirbemerdon Tepe: Diyarbakır'ın Eski Kenti

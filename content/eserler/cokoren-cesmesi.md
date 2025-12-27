@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.439682,39.6618423"
 draft: false
+
+weight: 100
 ---
 
 ## Çokören Çeşmesi: Sincan'ın Tarihi Bir Çeşmesi

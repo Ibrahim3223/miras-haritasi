@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.7204247,40.4317207"
 draft: false
+
+weight: 100
 ---
 
 ## İznik Çini Müzesi: İznik'in Yüzyıllarca Devam Eden Çini Geleneğinin Merkezi

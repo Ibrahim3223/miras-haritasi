@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "43.5736046,40.5054016"
 draft: false
+
+weight: 100
 ---
 
 ## Divin Kapısı Kaya Mescidi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.972586,41.004204"
 draft: false
+
+weight: 10
 ---
 
 ## Tevfik Bey Çeşmesi: Fatih'in Saksı Çeşmesinde Bir Çeşme Örneği

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.0952339,40.6447182"
 draft: false
+
+weight: 100
 ---
 
 ## Şarköy Camikebir Köprüsü

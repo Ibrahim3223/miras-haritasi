@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "32.501255,37.8694725"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Efendi Hamamı: Konya'nın Tarihi Bir Güzelliği

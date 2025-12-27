@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9757786,41.0272636"
 draft: false
+
+weight: 100
 ---
 
 ### Abdülmümin Ağa Çeşmesi

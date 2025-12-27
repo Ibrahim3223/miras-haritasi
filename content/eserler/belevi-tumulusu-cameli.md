@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.3698006,37.0952988"
 draft: false
+
+weight: 100
 ---
 
 ## Belevi Tümülüsü: Çameli'nin Gizli Kahramanı

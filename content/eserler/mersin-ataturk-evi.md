@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.6203,36.8063"
 draft: false
+
+weight: 10
 ---
 
 ## Mersin Atatürk Evi: Türkiye'nin Kurtuluş Savaşı'nın Başkahramanı'nın Evinin Öyküsü

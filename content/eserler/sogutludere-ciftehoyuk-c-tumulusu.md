@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8024464,41.6198463"
 draft: false
+
+weight: 100
 ---
 
 ## Söğütlüdere Çiftehöyük C Tümülüsü: Edirne'nin Gizli Harikası

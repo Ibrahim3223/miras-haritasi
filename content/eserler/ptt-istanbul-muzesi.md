@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.97361,41.01485"
 draft: false
+
+weight: 10
 ---
 
 ## PTT İstanbul Müzesi

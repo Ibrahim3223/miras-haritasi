@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "26.7066574,41.0117836"
 draft: false
+
+weight: 100
 ---
 
 ### Altıntaş Köprüsü: Edirne'nin Tarihi ve Mimari Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8506336,41.6400299"
 draft: false
+
+weight: 100
 ---
 
 ## Hasköy C Tümülüsü

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "42.534888888,40.905055555"
 draft: false
+
+weight: 100
 ---
 
 ## Dadaşeni Kilisesi: Göle İlçesindeki Bir Tarihi Çanak Çömlek

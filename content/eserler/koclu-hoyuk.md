@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.4139486,37.3178695"
 draft: false
+
+weight: 100
 ---
 
 ### Koçlu Höyük: Gaziantep'in Gizli Tarihi

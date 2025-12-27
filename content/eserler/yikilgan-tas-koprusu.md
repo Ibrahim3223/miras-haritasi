@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.405829,39.886014"
 draft: false
+
+weight: 100
 ---
 
 ### Yıkılgan Taş Köprüsü

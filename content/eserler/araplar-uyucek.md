@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.981983,39.591967"
 draft: false
+
+weight: 100
 ---
 
 # Araplar Üyücek Arkeolojik Sit

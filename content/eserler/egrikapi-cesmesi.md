@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.939707,41.036434"
 draft: false
+
+weight: 10
 ---
 
 ## Eğrikapı Çeşmesi

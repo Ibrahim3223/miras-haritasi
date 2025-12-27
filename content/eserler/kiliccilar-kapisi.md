@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9698505,41.0106087"
 draft: false
+
+weight: 100
 ---
 
 ### Kılıççılar Kapısı: İstanbul'un Gizli Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.172222,36.938889"
 draft: false
+
+weight: 1
 ---
 
 ## Aspendos Antik Tiyatrosu: Tarihçenin Gizemi

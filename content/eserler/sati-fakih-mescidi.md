@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0545044,40.1853294"
 draft: false
+
+weight: 100
 ---
 
 ### Satı Fakih Mescidi

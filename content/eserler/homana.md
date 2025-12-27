@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.027899,37.24819"
 draft: false
+
+weight: 100
 ---
 
 ## Homana Arkeolojik Sit

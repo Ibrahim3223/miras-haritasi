@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.7116909,38.5054436"
 draft: false
+
+weight: 100
 ---
 
 ## Tatar Camii: Turgutlu'nun Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "37.936198456,38.813099242"
 draft: false
+
+weight: 100
 ---
 
 ## Gümüş Pınar Çeşmesi, Hekimhan

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.6773872,37.9650307"
 draft: false
+
+weight: 10
 ---
 
 ## Aziz İoannes Prodromos Kilisesi: Niğde'nin Gizli Cenneti

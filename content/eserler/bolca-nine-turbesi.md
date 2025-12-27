@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.9984962,41.513744"
 draft: false
+
+weight: 100
 ---
 
 ## Bolca Nine Türbesi: Kırklareli'nin Gizli Cenneti

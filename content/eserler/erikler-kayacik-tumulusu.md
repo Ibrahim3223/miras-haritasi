@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.1033688,41.8509293"
 draft: false
+
+weight: 100
 ---
 
 ### Erikler Kayacık Tümülüsü: Tarihî bir Eserin Gizemi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.367319,37.059443"
 draft: false
+
+weight: 100
 ---
 
 ## İdyma: Muğla'nın Ege Denizi'ndeki Gizli Kahramanı

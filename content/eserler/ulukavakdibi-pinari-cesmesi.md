@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.6943588,41.2440948"
 draft: false
+
+weight: 100
 ---
 
 ## Ulukavakdibi Pınarı Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0566387,41.1060066"
 draft: false
+
+weight: 10
 ---
 
 ## Çeşme 1, Sabancı Müzesi: Sarıyer'in Tarihi Bir Çeşmesi

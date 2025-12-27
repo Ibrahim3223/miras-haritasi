@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5587177,41.6688271"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Bali Camii: Edirne'nin Gizli Mücevheri

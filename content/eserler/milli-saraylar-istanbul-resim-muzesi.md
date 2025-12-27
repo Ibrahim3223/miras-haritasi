@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0026608,41.0396271"
 draft: false
+
+weight: 10
 ---
 
 ## Milli Saraylar İstanbul Resim Müzesi

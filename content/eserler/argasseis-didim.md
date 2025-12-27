@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3384476,37.3727837"
 draft: false
+
+weight: 100
 ---
 
 ## Argasseis, Didim: Aydın'ın Zengin Tarih Mirası

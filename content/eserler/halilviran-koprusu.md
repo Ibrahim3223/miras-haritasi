@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.2080498,38.1038742"
 draft: false
+
+weight: 100
 ---
 
 ## Halilviran Köprüsü: Yenişehir'in Tarihi Bir Mirası

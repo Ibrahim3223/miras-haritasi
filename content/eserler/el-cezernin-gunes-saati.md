@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "40.2359657,37.912571"
 draft: false
+
+weight: 100
 ---
 
 ## El-Cezerî’nin Güneş Saati: Diyarbakır'ın Gizli Çehresinin Parladığı Yer

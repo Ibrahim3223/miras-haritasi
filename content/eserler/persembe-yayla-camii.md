@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.295802,40.627272"
 draft: false
+
+weight: 100
 ---
 
 ## Perşembe Yayla Camii: Ordu'nun Tarihi ve Kültürel Mirası

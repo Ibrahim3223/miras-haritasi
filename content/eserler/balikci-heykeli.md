@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0209064,40.9907646"
 draft: false
+
+weight: 100
 ---
 
 ### Balıkçı Heykeli: Kadıköy'ün İhtişamı

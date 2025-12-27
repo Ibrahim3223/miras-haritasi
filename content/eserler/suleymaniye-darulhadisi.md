@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "28.965433,41.015465"
 draft: false
+
+weight: 1
 ---
 
 ## Süleymaniye Darülhadisi: İstanbul'un Tarihi ve Kültürel Mirası

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.716638888,41.42525"
 draft: false
+
+weight: 100
 ---
 
 ## Kintshureti Kilisesi

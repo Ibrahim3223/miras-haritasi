@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "36.2389755,37.6548042"
 draft: false
+
+weight: 100
 ---
 
 ## Değirmendere Gözlem Kulesi: Osmaniye'nin Gizli Çehresini İnceleyin

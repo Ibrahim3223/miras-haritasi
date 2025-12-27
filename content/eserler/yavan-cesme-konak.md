@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1310749,38.4136047"
 draft: false
+
+weight: 100
 ---
 
 ## Yavan Çeşme Tanıtımı

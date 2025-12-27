@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0571156,40.1841698"
 draft: false
+
+weight: 10
 ---
 
 ### Kavaklı Camii Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası

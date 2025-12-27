@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.148086564,38.436056074"
 draft: false
+
+weight: 10
 ---
 
 ### İzmir Resim ve Heykel Müzesi

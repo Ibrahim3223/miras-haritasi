@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "38.78805556,37.16055556"
 draft: false
+
+weight: 10
 ---
 
 ### Şanlıurfa Müzesi

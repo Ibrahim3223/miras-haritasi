@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.098694444,38.403111111"
 draft: false
+
+weight: 10
 ---
 
 ### Uşakizade Köşkü Tanıtımı

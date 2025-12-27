@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.055505,41.063945"
 draft: false
+
+weight: 100
 ---
 
 ## Vaniköy Süleyman Bey Çeşmesi

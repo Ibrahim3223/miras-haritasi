@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.34138889,37.93805556"
 draft: false
+
+weight: 10
 ---
 
 ## Yamaç Evler: Efes'in Gizli Çehresi

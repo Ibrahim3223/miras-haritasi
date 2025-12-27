@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.920419,38.281206"
 draft: false
+
+weight: 100
 ---
 
 ## Lageina Arkeolojik Siti

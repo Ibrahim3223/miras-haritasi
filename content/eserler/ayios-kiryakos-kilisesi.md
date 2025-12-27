@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.938647,41.033426"
 draft: false
+
+weight: 100
 ---
 
 ### Ayios Kiryakos Kilisesi: İstanbul'un Gizli Çehresinde Bir Kilise

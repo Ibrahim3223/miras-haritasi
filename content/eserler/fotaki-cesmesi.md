@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.458202,41.144685"
 draft: false
+
+weight: 10
 ---
 
 ## Fotaki Çeşmesi: Çatalca'da Bir Klasik Çeşme

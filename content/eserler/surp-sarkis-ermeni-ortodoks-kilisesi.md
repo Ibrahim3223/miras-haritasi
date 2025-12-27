@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "40.2325718,37.907449"
 draft: false
+
+weight: 10
 ---
 
 ## Surp Sarkis Ermeni Ortodoks Kilisesi: Diyarbakır'ın Gizli Çeşmesi

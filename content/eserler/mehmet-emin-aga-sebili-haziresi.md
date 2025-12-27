@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.994805555,41.037138888"
 draft: false
+
+weight: 10
 ---
 
 ## Mehmet Emin Ağa Sebili Haziresi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.6188388,38.7901357"
 draft: false
+
+weight: 100
 ---
 
 ## Sidas Arkeolojik Sit

@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "28.462257,37.411583"
 draft: false
+
+weight: 100
 ---
 
 ### Kyon Antik Tiyatrosu

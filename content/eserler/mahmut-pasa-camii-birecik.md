@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.9799385,37.0289612"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmut Paşa Camii: Şanlıurfa'nın Gizli Cenneti

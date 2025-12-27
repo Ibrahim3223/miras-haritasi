@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.958898,41.016766"
 draft: false
+
+weight: 100
 ---
 
 **Kemer Aynalı Çeşme: İznik Mirası**

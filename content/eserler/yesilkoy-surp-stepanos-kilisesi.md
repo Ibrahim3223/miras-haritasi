@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.820527777,40.956916666"
 draft: false
+
+weight: 100
 ---
 
 ## Yeşilköy Surp Stepanos Kilisesi

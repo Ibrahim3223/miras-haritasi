@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.921701,41.006126"
 draft: false
+
+weight: 10
 ---
 
 ## Silivri Kapısı: Fatih'in Tarihi Bir Mirası

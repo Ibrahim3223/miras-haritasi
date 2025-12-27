@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.97142,41.166"
 draft: false
+
+weight: 100
 ---
 
 ## Berta Köprüsü: Artvin'in Tarihi Mirası

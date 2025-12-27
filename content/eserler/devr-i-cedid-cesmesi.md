@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "32.48703,37.874279"
 draft: false
+
+weight: 100
 ---
 
 ## Devr-i Cedid Çeşmesi

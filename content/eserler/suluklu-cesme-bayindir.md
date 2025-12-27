@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.6422005,38.2229996"
 draft: false
+
+weight: 100
 ---
 
 ## Sülüklü Çeşme, Bayındır

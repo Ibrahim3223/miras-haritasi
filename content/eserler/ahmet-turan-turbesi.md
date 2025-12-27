@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "38.359385,38.416491"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Turan Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.3833523,40.7586632"
 draft: false
+
+weight: 100
 ---
 
 ## Darıca Yerli Çeşmesi

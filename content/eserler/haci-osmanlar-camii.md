@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "30.943505,37.158514"
 draft: false
+
+weight: 100
 ---
 
 Hacı Osmanlar Camii

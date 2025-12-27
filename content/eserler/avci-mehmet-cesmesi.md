@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.353888888,41.409166666"
 draft: false
+
+weight: 10
 ---
 
 ## Avcı Mehmet Çeşmesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.811049,41.005883"
 draft: false
+
+weight: 100
 ---
 
 # Kuyubaşı Çeşmesi: Tarihî Bir Çeşmenin Gizemi

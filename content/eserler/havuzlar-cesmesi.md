@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.3559799,40.1324196"
 draft: false
+
+weight: 100
 ---
 
 ## Havuzlar Çeşmesi

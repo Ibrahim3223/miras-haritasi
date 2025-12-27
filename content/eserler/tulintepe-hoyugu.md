@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "39.41032,38.640572"
 draft: false
+
+weight: 100
 ---
 
 ## Tülintepe Höyüğü

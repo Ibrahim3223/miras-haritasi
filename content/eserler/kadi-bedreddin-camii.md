@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.5653381,41.6701469"
 draft: false
+
+weight: 10
 ---
 
 ## Kadı Bedreddin Camii

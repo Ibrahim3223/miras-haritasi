@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "35.4949379,38.7199554"
 draft: false
+
+weight: 100
 ---
 
 ## Yanıkoğlu Cami: Kayseri'nin Gizli Cenneti

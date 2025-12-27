@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.965582,41.034084"
 draft: false
+
+weight: 10
 ---
 
 ## III. Murat Çeşmesi: Beyoğlu'ndaki Bir Tarihi Çeşme

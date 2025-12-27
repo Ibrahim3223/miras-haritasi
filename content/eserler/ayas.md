@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.789487,36.769676"
 draft: false
+
+weight: 10
 ---
 
 ## Ayas Arkeolojik Sit

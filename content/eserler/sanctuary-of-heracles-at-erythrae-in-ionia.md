@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.48103,38.38122"
 draft: false
+
+weight: 100
 ---
 
 ## Erythrae'deki Heracles Tapınağı: Ege'nin Gizli Cenneti

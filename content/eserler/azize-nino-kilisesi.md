@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.86202079,38.620149754"
 draft: false
+
+weight: 100
 ---
 
 ## Azize Nino Kilisesi

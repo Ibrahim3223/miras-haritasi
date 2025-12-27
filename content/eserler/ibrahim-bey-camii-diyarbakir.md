@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.2396889,37.9126244"
 draft: false
+
+weight: 100
 ---
 
 ## İbrahim Bey Camii, Diyarbakır

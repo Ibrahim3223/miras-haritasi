@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.934506,41.046335"
 draft: false
+
+weight: 100
 ---
 
 ## Caferpaşa Külliyesi Türbe ve Tevhidhanesi

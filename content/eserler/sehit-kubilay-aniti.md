@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.070305555,38.600805555"
 draft: false
+
+weight: 10
 ---
 
 ## Şehit Kubilay Anıtı

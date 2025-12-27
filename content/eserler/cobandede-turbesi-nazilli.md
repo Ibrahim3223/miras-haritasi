@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.3579006,37.7753983"
 draft: false
+
+weight: 100
 ---
 
 ## Çobandede Türbesi, Nazilli

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.0329543,36.5748962"
 draft: false
+
+weight: 10
 ---
 
 ## Cambazlı Kilisesi: Silifke'nin Tarihi Bir Mirası

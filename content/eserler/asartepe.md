@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.993306,38.692809"
 draft: false
+
+weight: 100
 ---
 
 ## Asartepe: Gölmarmara'nın Tarihî Zirvesi

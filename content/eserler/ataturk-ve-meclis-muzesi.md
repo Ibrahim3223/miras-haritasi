@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.854394,39.912038"
 draft: false
+
+weight: 100
 ---
 
 ## Atatürk ve Meclis Müzesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.5093784,40.9786224"
 draft: false
+
+weight: 100
 ---
 
 ### Şabanoğlu Çeşmesi: Aydoğdu'da Bir Çağdaş Taş Çeşme

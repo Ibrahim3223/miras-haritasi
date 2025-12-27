@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.066431,41.082033"
 draft: false
+
+weight: 10
 ---
 
 ### Anadoluhisarı Namazgâhı

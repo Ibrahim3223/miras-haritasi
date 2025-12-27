@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.994177535,41.048923782"
 draft: false
+
+weight: 100
 ---
 
 ## Teşvikiye Camii Çeşmesi

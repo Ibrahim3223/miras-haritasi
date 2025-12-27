@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1283989,38.4062767"
 draft: false
+
+weight: 100
 ---
 
 ## Büyük İhsaniye Camii

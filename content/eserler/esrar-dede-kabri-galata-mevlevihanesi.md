@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9749069,41.0281448"
 draft: false
+
+weight: 10
 ---
 
 ## Esrar Dede Kabri, Galata Mevlevihanesi

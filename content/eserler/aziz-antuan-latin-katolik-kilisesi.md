@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "34.63388889,36.80111111"
 draft: false
+
+weight: 10
 ---
 
 # Aziz Antuan Latin Katolik Kilisesi

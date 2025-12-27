@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.052497,41.101523"
 draft: false
+
+weight: 100
 ---
 
 ## Boyacıköy Kilise Çeşmesi

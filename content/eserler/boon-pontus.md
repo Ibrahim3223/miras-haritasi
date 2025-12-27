@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "37.776559,41.057078"
 draft: false
+
+weight: 100
 ---
 
 ## Boon (Pontus) Arkeolojik Sit

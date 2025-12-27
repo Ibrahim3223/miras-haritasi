@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.811477,37.138837"
 draft: false
+
+weight: 100
 ---
 
 ## Hydissus: Milas'taki Antik Bir Sit

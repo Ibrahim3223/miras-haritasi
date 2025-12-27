@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.844797267,38.922527817"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme 1, Akhisar: Manisa'nın Tarihi Bir Çeşmesi

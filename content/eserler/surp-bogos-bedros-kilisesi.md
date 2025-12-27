@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "35.800173,38.448547"
 draft: false
+
+weight: 100
 ---
 
 ## Surp Boğos Bedros Kilisesi

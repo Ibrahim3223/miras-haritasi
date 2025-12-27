@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.04013,40.98399"
 draft: false
+
+weight: 10
 ---
 
 ## Zühtüpaşa Camii: Kadıköy'ün Tarihi Bir Mirası

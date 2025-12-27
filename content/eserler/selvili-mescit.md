@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.1464882,38.4190216"
 draft: false
+
+weight: 100
 ---
 
 ### Selvili Mescit: İzmir'in Tarihî ve Kültürel Mirası

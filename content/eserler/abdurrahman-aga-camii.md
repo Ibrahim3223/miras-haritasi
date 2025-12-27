@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.022347,41.03157"
 draft: false
+
+weight: 10
 ---
 
 ## Abdurrahman Ağa Camii: Üsküdar'ın Tarihi Bir Örneği

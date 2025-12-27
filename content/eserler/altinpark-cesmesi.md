@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "27.1439209,38.4206467"
 draft: false
+
+weight: 100
 ---
 
 ## Altınpark Çeşmesi

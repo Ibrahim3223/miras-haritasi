@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.940155,38.8338776"
 draft: false
+
+weight: 100
 ---
 
 ## Karakale Kalesi

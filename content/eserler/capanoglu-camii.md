@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.805638888,39.821805555"
 draft: false
+
+weight: 10
 ---
 
 ## Çapanoğlu Camii

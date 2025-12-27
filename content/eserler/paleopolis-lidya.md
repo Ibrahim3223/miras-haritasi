@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.2170655,38.085201"
 draft: false
+
+weight: 100
 ---
 
 # Paleopolis (Lidya)

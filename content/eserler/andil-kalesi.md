@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.7999992,37.5841827"
 draft: false
+
+weight: 100
 ---
 
 ### Andıl Kalesi: Kozan'ın Tarihi Mirası

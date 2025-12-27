@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "31.04225,39.731017"
 draft: false
+
+weight: 100
 ---
 
 ### Yeşildon Arkeolojik Sitesi

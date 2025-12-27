@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0093307,41.0227089"
 draft: false
+
+weight: 10
 ---
 
 ## Ayazma Kalıntısı, Üsküdar

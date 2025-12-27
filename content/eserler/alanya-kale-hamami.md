@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "31.9913616,36.5307083"
 draft: false
+
+weight: 100
 ---
 
 ## Alanya Kale Hamamı: Tarihi Bir Ziyaret Yerinin Tanıtımı

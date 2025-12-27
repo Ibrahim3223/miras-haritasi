@@ -11,6 +11,8 @@ type: "Kervansaray"
 turler: ["Kervansaray"]
 coords: "26.3303,40.9333"
 draft: false
+
+weight: 10
 ---
 
 ## İpsala Sınır Kapısı: Edirne'nin Gizemi

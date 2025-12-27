@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "28.87475,40.976805555"
 draft: false
+
+weight: 10
 ---
 
 ## Dzınunt Surp Asdvadzadzni Kilisesi: İstanbul'un Gizli Kahramanı

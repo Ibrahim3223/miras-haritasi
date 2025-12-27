@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.968812612,41.030014477"
 draft: false
+
+weight: 10
 ---
 
 ## Kasımpaşa Tuz Ambarı

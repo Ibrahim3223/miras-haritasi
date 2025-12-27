@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.38461,41.75035"
 draft: false
+
+weight: 10
 ---
 
 ## Kemere Köprüsü

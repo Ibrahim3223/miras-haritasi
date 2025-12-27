@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.6964722,41.2458801"
 draft: false
+
+weight: 10
 ---
 
 ## Dağdelen Camii: Safranbolu'nun Tarihi Bir Mirası

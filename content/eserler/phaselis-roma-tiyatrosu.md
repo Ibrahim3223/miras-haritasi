@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.55269,36.52362"
 draft: false
+
+weight: 10
 ---
 
 ## Phaselis Roma Tiyatrosu: Antik Şehirde Bir Gerçeklik

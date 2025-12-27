@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "44.80333333,39.65527778"
 draft: false
+
+weight: 100
 ---
 
 ## Umut Köprüsü: Tarihinin ve Mimarisinin Gizemi

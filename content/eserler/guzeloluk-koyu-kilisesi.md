@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "39.106103,40.505664"
 draft: false
+
+weight: 100
 ---
 
 ## Güzeloluk Köyü Kilisesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0603123,40.1784172"
 draft: false
+
+weight: 10
 ---
 
 ### Çukur Camii: Bursa'nın Gizli Cenneti

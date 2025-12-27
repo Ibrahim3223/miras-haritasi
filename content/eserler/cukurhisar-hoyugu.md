@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.3203501,39.8308442"
 draft: false
+
+weight: 100
 ---
 
 # Çukurhisar Höyüğü: Eskişehir'in Gizli Mirası

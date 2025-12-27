@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0146389,41.0224533"
 draft: false
+
+weight: 100
 ---
 
 ## Cennet Efendi Türbesi

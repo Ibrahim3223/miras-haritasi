@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.920525,41.018182"
 draft: false
+
+weight: 10
 ---
 
 ### Panorama 1453 Tarih Müzesi: İstanbul'un Fethinin Gizli Tarihi

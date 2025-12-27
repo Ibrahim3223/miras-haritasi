@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "29.0634,40.9741"
 draft: false
+
+weight: 100
 ---
 
 ## Caddebostan Sinagogu: Kadıköy'de Bir Tarihi Miras

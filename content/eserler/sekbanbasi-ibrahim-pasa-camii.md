@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.9562492,41.0171967"
 draft: false
+
+weight: 100
 ---
 
 ### Sekbanbaşı İbrahim Paşa Camii

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.681477777,40.763594444"
 draft: false
+
+weight: 100
 ---
 
 ## Aşpişen Kalesi: Artvin'in Tarihi Bir Güzeli

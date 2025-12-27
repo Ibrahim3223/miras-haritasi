@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.41388889,38.35444444"
 draft: false
+
+weight: 10
 ---
 
 ## Kileci Camii: Akşehir'in Tarihi Bir Mirası

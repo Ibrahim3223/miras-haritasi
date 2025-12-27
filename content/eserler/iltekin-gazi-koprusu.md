@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.8113098,40.6181602"
 draft: false
+
+weight: 100
 ---
 
 ## İltekin Gazi Köprüsü: Amasya'nın Tarihi Bir Mirası

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.274652067,37.525625499"
 draft: false
+
+weight: 10
 ---
 
 ## Milet Müzesi: Aydın'ın Kültür Mirası

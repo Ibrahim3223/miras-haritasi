@@ -11,6 +11,8 @@ type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]
 coords: "32.853252777,39.938463888"
 draft: false
+
+weight: 10
 ---
 
 ### Küçük Tiyatro: Ankara'nın Antik Tarihçesine Bir Katkı

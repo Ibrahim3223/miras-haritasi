@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9573646,41.0132803"
 draft: false
+
+weight: 10
 ---
 
 ## Şeyhülislam Bostanzade Mehmet Türbesi

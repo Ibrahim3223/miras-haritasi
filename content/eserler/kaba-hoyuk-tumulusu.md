@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.9589844,41.229454"
 draft: false
+
+weight: 100
 ---
 
 ### Kaba Höyük Tümülüsü: Edirne'nin Gizli Mirası

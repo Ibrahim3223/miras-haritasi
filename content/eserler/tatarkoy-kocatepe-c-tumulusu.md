@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.3477516,41.4966469"
 draft: false
+
+weight: 100
 ---
 
 ## Tatarköy Kocatepe C Tümülüsü: Lüleburgaz'ın Gizli Güzelliği

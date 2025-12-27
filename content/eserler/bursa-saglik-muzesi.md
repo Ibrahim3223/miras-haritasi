@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: ""
 draft: false
+
+weight: 100
 ---
 
 ## Bursa Sağlık Müzesi: Türk Sağlık Tarihinin En Önemli Miraslarından biri

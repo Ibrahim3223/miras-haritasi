@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.045444444,41.161888888"
 draft: false
+
+weight: 100
 ---
 
 ## Aya Paraskevi Kilisesi (Büyükdere)

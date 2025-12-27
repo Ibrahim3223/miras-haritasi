@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.5382,38.75805"
 draft: false
+
+weight: 10
 ---
 
 ## Zafer Müzesi: Afyonkarahisar'ın Tarihî Mirası

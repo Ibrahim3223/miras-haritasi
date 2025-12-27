@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "29.0721741,41.1836662"
 draft: false
+
+weight: 100
 ---
 
 ## Yusuf Ağa Camii

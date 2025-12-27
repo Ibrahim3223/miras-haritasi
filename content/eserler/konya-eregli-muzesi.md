@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.0473,37.51583"
 draft: false
+
+weight: 10
 ---
 
 ### Konya Ereğli Müzesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.963,39.2602"
 draft: false
+
+weight: 100
 ---
 
 ## Perperene: İzmir'in Gizli Cenneti

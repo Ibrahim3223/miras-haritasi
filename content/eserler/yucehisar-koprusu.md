@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.9018823,41.1173489"
 draft: false
+
+weight: 100
 ---
 
 ### Yücehisar Köprüsü: Pazar, Rize'de Bir Tarihî Köprü

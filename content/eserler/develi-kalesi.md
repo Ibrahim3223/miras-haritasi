@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "35.4885864,38.3660049"
 draft: false
+
+weight: 100
 ---
 
 ## Develi Kalesi: Tarih ve Kültür Mirası

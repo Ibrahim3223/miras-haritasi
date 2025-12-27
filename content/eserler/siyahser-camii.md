@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.218732,37.172803"
 draft: false
+
+weight: 100
 ---
 
 ## Siyahser Camii: Karaman'ın Tarihi Bir Mirası

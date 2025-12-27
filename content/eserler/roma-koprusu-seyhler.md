@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "32.8074038,37.0583107"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Şeyhler: Tarihî Bir Miras

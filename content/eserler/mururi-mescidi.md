@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.8663902,39.9347382"
 draft: false
+
+weight: 100
 ---
 
 ## Müruri Mescidi: Ankara'nın Gizli Çağından Kalan Bir Miras

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "37.3927612,37.0563583"
 draft: false
+
+weight: 100
 ---
 
 ## Ahmet Çelebi Camii: Gaziantep'in Gizli Çehresini Keşfetmek

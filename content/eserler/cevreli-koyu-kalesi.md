@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "41.477518,40.74155"
 draft: false
+
+weight: 100
 ---
 
 **Çevreli Köyü Kalesi**

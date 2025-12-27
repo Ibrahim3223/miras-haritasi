@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.305574,39.234846"
 draft: false
+
+weight: 10
 ---
 
 ## Allianoi: İzmir'in Gizli Kahramanları

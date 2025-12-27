@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "32.6904585,41.2455886"
 draft: false
+
+weight: 10
 ---
 
 ## Safranbolu Kent Tarih Müzesi

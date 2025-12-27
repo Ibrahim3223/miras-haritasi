@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "38.487304808,39.041182018"
 draft: false
+
+weight: 100
 ---
 
 ## Meryem Ana Kilisesi Çeşmesi: Arapgir'in Gizli Çeşmesi

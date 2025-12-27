@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.065592,38.772883"
 draft: false
+
+weight: 10
 ---
 
 ## Tisna Arkeolojik Sit

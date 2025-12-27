@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "37.682388888,41.133805555"
 draft: false
+
+weight: 10
 ---
 
 ## Yason Kilisesi: Perşembe'de Bir Geçmişi Anımsatan Etkinlik

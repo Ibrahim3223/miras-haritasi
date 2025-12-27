@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.272222222,39.908027777"
 draft: false
+
+weight: 10
 ---
 
 # Erzurum Boyahane Camii

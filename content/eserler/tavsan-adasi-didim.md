@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.216217,37.41975"
 draft: false
+
+weight: 100
 ---
 
 ## Tavşan Adası, Didim: Bir Arkeolojik Mirasın Gizemi

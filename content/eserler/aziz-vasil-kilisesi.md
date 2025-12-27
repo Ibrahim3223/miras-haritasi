@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.6566696,41.1181908"
 draft: false
+
+weight: 100
 ---
 
 ## Aziz Vasil Kilisesi: Yeniköy'de Bir Tarihi Harikalar Diyarı

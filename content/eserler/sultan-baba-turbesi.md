@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "42.1075,38.4014"
 draft: false
+
+weight: 100
 ---
 
 ## Sultan Baba Türbesi: Bitlis'in Tarihi Mirası

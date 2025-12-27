@@ -11,6 +11,8 @@ type: "Sinagog"
 turler: ["Sinagog"]
 coords: "27.135583333,38.420055555"
 draft: false
+
+weight: 10
 ---
 
 # Sinyora Giveret Sinagogu: İzmirlinin Gizli Tarihi

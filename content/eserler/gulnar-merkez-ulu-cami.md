@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "33.4005623,36.3381348"
 draft: false
+
+weight: 100
 ---
 
 ## Gülnar Merkez Ulu Cami: Mersin'in Tarihi ve Kültürel Mirası

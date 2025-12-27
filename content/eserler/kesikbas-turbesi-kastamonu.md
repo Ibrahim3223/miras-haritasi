@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "33.7710114,41.3792496"
 draft: false
+
+weight: 100
 ---
 
 ## Kesikbaş Türbesi, Kastamonu

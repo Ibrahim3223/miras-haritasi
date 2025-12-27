@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.8374004,38.1964989"
 draft: false
+
+weight: 100
 ---
 
 ## Seferihisar Ulu Cami: İzmir'in Tarihi Bir Çaprazı

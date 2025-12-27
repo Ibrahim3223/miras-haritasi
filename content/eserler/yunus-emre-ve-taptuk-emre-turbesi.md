@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.534381,37.968232"
 draft: false
+
+weight: 100
 ---
 
 ## Yunus Emre ve Taptuk Emre Türbesi: Gönen'in Gizemli Anıtı

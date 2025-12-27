@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.526478,39.76212"
 draft: false
+
+weight: 100
 ---
 
 ## Eskişehir Osmanlı Evi Müzesi

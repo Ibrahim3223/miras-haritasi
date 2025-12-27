@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.4027023,38.6797485"
 draft: false
+
+weight: 100
 ---
 
 ## Güneş Sokak Çeşmesi: Uşak'ın Gizli Çeşmesi

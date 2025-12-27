@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.870588,40.387952"
 draft: false
+
+weight: 10
 ---
 
 ## Kyzikos Hadrian Tapınağı: Erdek'teki Antik Miras

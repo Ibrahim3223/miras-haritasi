@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "26.369205,40.169811"
 draft: false
+
+weight: 100
 ---
 
 ## Çamburnu Kalesi: Eceabat'ın Gizli Şehri

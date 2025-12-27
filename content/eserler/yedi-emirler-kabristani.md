@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.947641979,41.020664826"
 draft: false
+
+weight: 10
 ---
 
 ## Yedi Emirler Kabristanı: İstanbul'un Gizli Anıtı

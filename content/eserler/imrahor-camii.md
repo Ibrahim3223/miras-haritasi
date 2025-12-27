@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.92861111,40.99611111"
 draft: false
+
+weight: 10
 ---
 
 **İmrahor Camii**

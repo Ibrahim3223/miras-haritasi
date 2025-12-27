@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "27.9565353,40.9698715"
 draft: false
+
+weight: 100
 ---
 
 ## Cedid Ali Paşa Camii, Marmaraereğlisi

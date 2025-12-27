@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "26.3049183,38.3227654"
 draft: false
+
+weight: 100
 ---
 
 ## Şekerci Hamamı: Çeşme'nin Tarihi Parası

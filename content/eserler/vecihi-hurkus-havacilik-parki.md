@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "30.50055556,39.78666667"
 draft: false
+
+weight: 100
 ---
 
 ### Vecihi Hürkuş Havacılık Parkı: Eskişehir'in Gizli Cenneti

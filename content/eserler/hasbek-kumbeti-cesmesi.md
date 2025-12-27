@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "35.4819221,38.7227249"
 draft: false
+
+weight: 100
 ---
 
 ## Hasbek Kümbeti Çeşmesi: Kayseri'nin Gizli Çeşmesi

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.494574,39.202362"
 draft: false
+
+weight: 100
 ---
 
 ## Apollonia (Mysia): Tarihin İhtişamı

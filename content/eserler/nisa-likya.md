@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "29.64222222,36.44138889"
 draft: false
+
+weight: 100
 ---
 
 ## Nisa Antik Kenti: Likya'nın Gizli Hazineleri

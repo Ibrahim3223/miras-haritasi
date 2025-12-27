@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "30.525003,39.049335"
 draft: false
+
+weight: 100
 ---
 
 ## Göynüş Kalesi: Afyonkarahisar'ın Gizli Kahramanı

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9764652,41.0055885"
 draft: false
+
+weight: 1
 ---
 
 ## Sultan Ahmet Camii Şadırvanı

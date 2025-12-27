@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.04559,41.00038"
 draft: false
+
+weight: 10
 ---
 
 ### Acıbadem Musevi Mezarlığı

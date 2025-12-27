@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.085667,38.1308"
 draft: false
+
+weight: 100
 ---
 
 ## Hüyük Mevkii, Kabaklı: Afyonkarahisar'ın Eski Çağ Mirası

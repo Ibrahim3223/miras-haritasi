@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0004902,41.0396729"
 draft: false
+
+weight: 100
 ---
 
 ## Hoca Ahmet Tûrânî Kabri: Beşiktaş'taki Bir Tarihsel Anıt

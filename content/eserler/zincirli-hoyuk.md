@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.678611111,37.103611111"
 draft: false
+
+weight: 10
 ---
 
 ## Zincirli Höyük: İslahiye'nin Gizli Kahramanı

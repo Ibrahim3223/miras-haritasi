@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.904166666,40.893333333"
 draft: false
+
+weight: 100
 ---
 
 ### Malkara: Tekirdağ'ın Tarihi ve Kültürel Mirası

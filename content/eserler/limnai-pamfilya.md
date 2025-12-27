@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "30.790833333,36.8825"
 draft: false
+
+weight: 100
 ---
 
 # Limnai (Pamfilya)

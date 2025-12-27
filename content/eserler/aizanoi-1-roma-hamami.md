@@ -11,6 +11,8 @@ type: "Hamam"
 turler: ["Hamam"]
 coords: "29.6089706,39.20327"
 draft: false
+
+weight: 10
 ---
 
 ## Aizanoi 1. Roma Hamamı: Kütahya'nın Gizli Çarığı

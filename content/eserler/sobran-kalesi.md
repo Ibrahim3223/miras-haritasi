@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.4557343,37.5333557"
 draft: false
+
+weight: 100
 ---
 
 ## Sobran Kalesi

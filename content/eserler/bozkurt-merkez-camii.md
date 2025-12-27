@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.0122681,41.957695"
 draft: false
+
+weight: 100
 ---
 
 ## Bozkurt Merkez Camii: Kastamonu'nun Tarihi Bir Çatısı

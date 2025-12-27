@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "32.86478,37.75183"
 draft: false
+
+weight: 10
 ---
 
 ## Boncuklu Höyük: Türkiye'nin En Eski Kenti

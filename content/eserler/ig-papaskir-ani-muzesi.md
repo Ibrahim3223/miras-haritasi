@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "42.9968,41.0082"
 draft: false
+
+weight: 10
 ---
 
 ## İ.G. Papaskir Anı Müzesi

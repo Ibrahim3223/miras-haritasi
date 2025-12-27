@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "41.4748215,41.3988151"
 draft: false
+
+weight: 100
 ---
 
 ### Yoldere Köyü Köprüsü

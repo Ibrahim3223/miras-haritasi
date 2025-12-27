@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "41.4038,40.69245"
 draft: false
+
+weight: 100
 ---
 
 ## Kiskimi Şapeli: Alanbaşı, Yusufeli'de Bir Kırsal Kilise

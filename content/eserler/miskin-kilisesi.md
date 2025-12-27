@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "43.7208328,37.3306313"
 draft: false
+
+weight: 100
 ---
 
 ### Miskin Kilisesi

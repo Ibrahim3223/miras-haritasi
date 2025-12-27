@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "36.4281026,36.4611912"
 draft: false
+
+weight: 100
 ---
 
 ## Esen Tepe Höyük: Hatay'ın Gizli Mimari İncilisi

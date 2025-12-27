@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "35.33512,36.98628"
 draft: false
+
+weight: 10
 ---
 
 ## Taşköprü: Antik Dönemin Mirası

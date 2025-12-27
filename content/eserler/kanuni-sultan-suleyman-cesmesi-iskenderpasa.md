@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9504681,41.012413"
 draft: false
+
+weight: 100
 ---
 
 ## Kanuni Sultan Süleyman Çeşmesi, İskenderpaşa

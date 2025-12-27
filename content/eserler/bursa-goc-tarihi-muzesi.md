@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.0491,40.1995"
 draft: false
+
+weight: 10
 ---
 
 ### Bursa Göç Tarihi Müzesi

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.326889,37.922184"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Şeyh Camii, Nazilli

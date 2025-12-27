@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "32.4926987,37.8741341"
 draft: false
+
+weight: 10
 ---
 
 **II. Kılıçarslan Köşkü: Konya'nın Gizli Çehresini İfşa Eden Bir Miras**

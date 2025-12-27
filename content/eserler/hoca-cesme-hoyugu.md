@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.0984097,40.7210808"
 draft: false
+
+weight: 100
 ---
 
 ### Hoca Çeşme Höyüğü: Edirne'nin Gizli Cezayiri

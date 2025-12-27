@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "27.78416667,37.31333333"
 draft: false
+
+weight: 10
 ---
 
 ## Milas Müzesi: Ege'nin Tarihi ve Kültür Mirası

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.7655754,37.9079742"
 draft: false
+
+weight: 100
 ---
 
 # Sultan Sarı Baba Türbesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9559669,41.0276604"
 draft: false
+
+weight: 100
 ---
 
 ### Aya Dede Türbesi

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.800285,40.653303"
 draft: false
+
+weight: 100
 ---
 
 ## Dumanlı Köyü Çeşme 2: Tarihi ve Kültürel Mirasın Bir Parçasi

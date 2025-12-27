@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.1685505,39.9623299"
 draft: false
+
+weight: 100
 ---
 
 ## Agamnia Yerleşimi: Ezine'nin Gizli Tarihi

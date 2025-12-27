@@ -11,6 +11,8 @@ type: "Saray"
 turler: ["Saray"]
 coords: "28.9403,41.0339"
 draft: false
+
+weight: 10
 ---
 
 ## Blaherne Sarayı: İstanbul'un Gizli Gölgeleri Arasındaki Bir Miras

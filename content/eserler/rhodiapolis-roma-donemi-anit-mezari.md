@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.2657909,36.3832703"
 draft: false
+
+weight: 100
 ---
 
 ## Rhodiapolis Roma Dönemi Anıt Mezarı

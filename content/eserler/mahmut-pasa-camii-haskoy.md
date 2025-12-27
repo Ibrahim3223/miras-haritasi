@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "26.8587112,41.643013"
 draft: false
+
+weight: 10
 ---
 
 # Mahmut Paşa Camii, Hasköy

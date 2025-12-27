@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "26.233950905,39.759074854"
 draft: false
+
+weight: 100
 ---
 
 **Kemallı Çeşmesi: Ezine'nin Tarihi Güzelliği**

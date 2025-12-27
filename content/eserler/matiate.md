@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "41.353055555,37.416666666"
 draft: false
+
+weight: 10
 ---
 
 # Matiate Arkeolojik Sit

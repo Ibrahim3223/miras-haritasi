@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.0781841,40.1796112"
 draft: false
+
+weight: 10
 ---
 
 ## Aşık Yunus Türbesi: Bursa'nın Gizli Mabeti

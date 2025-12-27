@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "38.387833333,40.92275"
 draft: false
+
+weight: 10
 ---
 
 # Giresun Metamorfoz Kilisesi

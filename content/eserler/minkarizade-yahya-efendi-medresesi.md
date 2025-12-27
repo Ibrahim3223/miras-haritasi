@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "29.013287,41.021437"
 draft: false
+
+weight: 100
 ---
 
 ## Minkarizade Yahya Efendi Medresesi

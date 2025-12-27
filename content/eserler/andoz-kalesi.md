@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "38.692067,40.939209"
 draft: false
+
+weight: 100
 ---
 
 # Andoz Kalesi

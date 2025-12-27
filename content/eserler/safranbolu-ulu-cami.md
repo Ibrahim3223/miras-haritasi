@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "32.6860542,41.2481613"
 draft: false
+
+weight: 10
 ---
 
 ### Safranbolu Ulu Cami: Karabük'te Bir Tarihi Çanak

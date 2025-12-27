@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "29.0705452,36.553894"
 draft: false
+
+weight: 100
 ---
 
 ## Lebissos Kilisesi 4: Muğla'da Bir İlahi Cennet

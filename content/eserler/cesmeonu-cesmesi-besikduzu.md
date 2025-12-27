@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "39.208091,41.065374"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşmeönü Çeşmesi Beşikdüzü

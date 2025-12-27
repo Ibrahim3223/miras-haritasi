@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.7840538,37.1576576"
 draft: false
+
+weight: 100
 ---
 
 # Hızmalı Köprü: Şanlıurfa'nın Klasik Bir Köprüsü

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "40.586527,40.752399"
 draft: false
+
+weight: 100
 ---
 
 ### Bayırköy (Ekşioğlu) Camii: Rize'nin Tarihi Bir Öreni

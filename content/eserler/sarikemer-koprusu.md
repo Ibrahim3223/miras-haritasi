@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.371119,37.563667"
 draft: false
+
+weight: 100
 ---
 
 ## Sarıkemer Köprüsü

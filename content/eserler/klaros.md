@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "27.19305556,38.005"
 draft: false
+
+weight: 10
 ---
 
 ## Klaros: İzmir'in Gizli Göller Bölgesi

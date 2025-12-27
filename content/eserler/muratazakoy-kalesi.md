@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "34.6016998,38.1743011"
 draft: false
+
+weight: 100
 ---
 
 # Muratazaköy Kalesi

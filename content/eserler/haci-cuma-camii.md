@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "41.2797127,39.907917"
 draft: false
+
+weight: 100
 ---
 
 ## Hacı Cuma Camii: Erzurum'un Tarihi ve Kültürel Mirası

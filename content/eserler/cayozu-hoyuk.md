@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "35.2059647,39.717658"
 draft: false
+
+weight: 100
 ---
 
 ### Çayözü Höyük: Türkiye'nin Eski Çağ Mirası

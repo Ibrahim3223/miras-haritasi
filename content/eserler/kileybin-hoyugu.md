@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "40.591557309,37.148790384"
 draft: false
+
+weight: 100
 ---
 
 ## Kıleybin Höyüğü: Mardin'in Gizli Tarihî Mirası

@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.939488,41.025542"
 draft: false
+
+weight: 100
 ---
 
 ## Mesih Mehmet Paşa Camii: Tarihî Bir Güzellik

@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "31.917792,40.170933"
 draft: false
+
+weight: 10
 ---
 
 ## Beypazarı Yaşayan Müze

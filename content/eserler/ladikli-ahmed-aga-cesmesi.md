@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.0239745,40.9958385"
 draft: false
+
+weight: 10
 ---
 
 ### Ladikli Ahmed Ağa Çeşmesi: Kadıköy'de Bir Önemli Kültürel Miras

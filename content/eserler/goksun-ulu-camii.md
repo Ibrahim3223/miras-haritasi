@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "36.494611111,38.02025"
 draft: false
+
+weight: 100
 ---
 
 ## Göksun Ulu Camii

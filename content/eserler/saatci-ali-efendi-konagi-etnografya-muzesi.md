@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "29.924538,40.768323"
 draft: false
+
+weight: 100
 ---
 
 ### Saatçi Ali Efendi Konağı Etnografya Müzesi

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "29.3220806,38.2166862"
 draft: false
+
+weight: 100
 ---
 
 ## İmza Dede Sultan Türbesi

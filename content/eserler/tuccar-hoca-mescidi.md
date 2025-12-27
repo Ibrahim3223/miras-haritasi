@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.367672,37.2185097"
 draft: false
+
+weight: 100
 ---
 
 ### Tüccar Hoca Mescidi: Menteşe'nin Gizli Çehresini İnceleme

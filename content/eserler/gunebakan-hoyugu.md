@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.3029217,36.9255814"
 draft: false
+
+weight: 100
 ---
 
 # Günebakan Höyüğü: Şanlıurfa'nın Gizli İncisi

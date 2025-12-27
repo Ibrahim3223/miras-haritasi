@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "28.985946288,41.035467412"
 draft: false
+
+weight: 10
 ---
 
 ## Kazancı Camii: İstanbul'un Tarihi Bir Camii

@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "34.6084404,36.8054733"
 draft: false
+
+weight: 100
 ---
 
 ## Hz. Hıdır Türbesi: Mersin'in Gizli Çehresinde Bir Keşif

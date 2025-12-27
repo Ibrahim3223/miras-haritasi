@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "28.951045688,41.030127093"
 draft: false
+
+weight: 100
 ---
 
 ## İstanbul Kamera Müzesi: Giriş

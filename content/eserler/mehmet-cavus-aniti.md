@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2909985,40.2425079"
 draft: false
+
+weight: 100
 ---
 
 ## Mehmet Çavuş Anıtı

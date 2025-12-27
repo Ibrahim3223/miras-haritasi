@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "34.750286808,39.407159802"
 draft: false
+
+weight: 100
 ---
 
 ### Alibar Höyüğü: Yozgat'taki Bir Arkeolojik Sit

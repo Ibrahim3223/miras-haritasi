@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.9656887,41.0087395"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Mimar Kemalettin: Fatih, İstanbul'un Eski Meydanı'nın Yıldızlarından biri

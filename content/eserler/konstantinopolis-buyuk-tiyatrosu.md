@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "28.9852428,41.0120583"
 draft: false
+
+weight: 100
 ---
 
 ## Konstantinopolis Büyük Tiyatrosu

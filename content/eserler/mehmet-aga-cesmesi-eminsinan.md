@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.970416,41.005603"
 draft: false
+
+weight: 10
 ---
 
 **Mehmet Ağa Çeşmesi (Eminsinan)**

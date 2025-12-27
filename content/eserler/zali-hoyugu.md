@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "43.0410461,39.1735039"
 draft: false
+
+weight: 100
 ---
 
 ### Zali Höyüğü: Patnos'un Gizli Mirası

@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "38.4543381,38.4752121"
 draft: false
+
+weight: 100
 ---
 
 ### İmamoğlu Höyüğü: Malatya'nın Gizli Mirası

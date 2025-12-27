@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "27.9139805,37.7917137"
 draft: false
+
+weight: 100
 ---
 
 ## Gölhisar Kalesi: Aydın'ın Tarihi ve Kültürel Mirası

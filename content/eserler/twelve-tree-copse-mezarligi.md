@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.2147,40.0878"
 draft: false
+
+weight: 10
 ---
 
 # Twelve Tree Copse Mezarlığı

@@ -11,6 +11,8 @@ type: "Kilise"
 turler: ["Kilise"]
 coords: "31.9755,36.570666666"
 draft: false
+
+weight: 100
 ---
 
 ### Hıdrellez Kilisesi: Antalya'nın Gizli Cenneti

@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.943327,41.007282"
 draft: false
+
+weight: 10
 ---
 
 ### Kazım Bey Çeşmesi

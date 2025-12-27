@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9726944,41.0087204"
 draft: false
+
+weight: 100
 ---
 
 ## Şeyh Bedreddin Kabri: İstanbul'un Gizli Değerleri Arasındaki Bir Anıt

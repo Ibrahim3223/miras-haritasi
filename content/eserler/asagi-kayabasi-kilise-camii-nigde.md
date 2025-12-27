@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "34.6677933,37.966526"
 draft: false
+
+weight: 100
 ---
 
 ## Aşağı Kayabaşı Kilise Camii: Bir Tarihsel ve Kültürel Miras

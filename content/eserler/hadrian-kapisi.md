@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "30.70835,36.88531"
 draft: false
+
+weight: 10
 ---
 
 # Hadrian Kapısı: Antalya'nın Gizli İhtişamı

@@ -11,6 +11,8 @@ type: "Manastır"
 turler: ["Manastır"]
 coords: "40.24,37.91"
 draft: false
+
+weight: 100
 ---
 
 ## Zuknin Manastırı: Tarihi ve Kültürel Mirası

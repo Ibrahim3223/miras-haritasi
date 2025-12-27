@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9697723,41.0111618"
 draft: false
+
+weight: 100
 ---
 
 ## Mahmutpaşa Kapısı

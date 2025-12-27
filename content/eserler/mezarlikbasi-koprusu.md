@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "28.160202,37.9627838"
 draft: false
+
+weight: 100
 ---
 
 ## Mezarlıkbaşı Köprüsü: Aydın'ın Tarihî Bir Mirası

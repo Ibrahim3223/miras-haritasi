@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.9742317,39.4215622"
 draft: false
+
+weight: 100
 ---
 
 ## Ilık Çeşme: Kütahya'nın Tarihi Bir Çeşmesi

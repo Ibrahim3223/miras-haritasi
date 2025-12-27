@@ -11,6 +11,8 @@ type: "Müze"
 turler: ["Müze"]
 coords: "34.56222222,38.94277778"
 draft: false
+
+weight: 10
 ---
 
 ## Hacı Bektaş-ı Veli Türbesi: Manastırın Efsanesi

@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "27.500072,38.8951825"
 draft: false
+
+weight: 100
 ---
 
 ## Roma Köprüsü, Hatipler: Manisa'nın Tarihi ve Kültürel Mirası

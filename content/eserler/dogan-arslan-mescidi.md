@@ -11,6 +11,8 @@ type: "Cami"
 turler: ["Cami"]
 coords: "31.7328186,39.5422249"
 draft: false
+
+weight: 100
 ---
 
 ### Doğan Arslan Mescidi: Sivrihisar'ın Tarihi Bir Mirası

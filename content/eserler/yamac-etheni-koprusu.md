@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "40.75945,41.064717"
 draft: false
+
+weight: 100
 ---
 
 ### Yamaç-Etheni Köprüsü

@@ -11,6 +11,8 @@ type: "Kale"
 turler: ["Kale"]
 coords: "40.3755302,39.3261604"
 draft: false
+
+weight: 100
 ---
 
 ## Görgeç Kalesi: Bingöl'un Gizemli Kaleleri Arasındaki Birincisi

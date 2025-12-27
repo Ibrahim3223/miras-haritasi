@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "29.085032,40.978689"
 draft: false
+
+weight: 100
 ---
 
 **Şehremaneti Çeşmesi: Kadıköy'de Bir İmparatorluk Mirası**

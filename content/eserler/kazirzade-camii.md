@@ -11,6 +11,8 @@ type: "Medrese"
 turler: ["Medrese"]
 coords: "27.7337189,38.0825539"
 draft: false
+
+weight: 100
 ---
 
 ## Kazirzade Camii: Tarihî Bir Miras

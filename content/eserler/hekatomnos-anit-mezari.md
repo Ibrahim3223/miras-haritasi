@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "27.78275,37.315"
 draft: false
+
+weight: 100
 ---
 
 ### Hekatomnos Anıt Mezarı

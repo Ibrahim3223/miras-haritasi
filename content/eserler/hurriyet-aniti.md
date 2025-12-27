@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "26.6830063,41.270092"
 draft: false
+
+weight: 100
 ---
 
 ## Hürriyet Anıtı

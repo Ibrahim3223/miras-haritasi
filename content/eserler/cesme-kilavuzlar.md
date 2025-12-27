@@ -11,6 +11,8 @@ type: "Çeşme"
 turler: ["Çeşme"]
 coords: "28.3040104,37.7308884"
 draft: false
+
+weight: 100
 ---
 
 ## Çeşme, Kılavuzlar: Aydın'ın Gizemli Çeşmesi

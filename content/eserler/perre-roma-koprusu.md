@@ -11,6 +11,8 @@ type: "Köprü"
 turler: ["Köprü"]
 coords: "38.2984791,37.7989949"
 draft: false
+
+weight: 100
 ---
 
 # Perre Roma Köprüsü: Tarihçenin Mihenk Noktası

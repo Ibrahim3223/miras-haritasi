@@ -11,6 +11,8 @@ type: "Anıt"
 turler: ["Anıt"]
 coords: "28.9438,41.0212"
 draft: false
+
+weight: 100
 ---
 
 ## Koyun Baba Türbesi: İstanbul'un Gizli Çiçeği

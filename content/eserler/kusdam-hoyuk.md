@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "35.1829453,39.0524368"
 draft: false
+
+weight: 100
 ---
 
 ## Kuşdam Höyük

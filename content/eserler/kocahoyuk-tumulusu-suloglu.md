@@ -11,6 +11,8 @@ type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]
 coords: "26.8476181,41.7553024"
 draft: false
+
+weight: 100
 ---
 
 # Kocahöyük Tümülüsü, Süloğlu
